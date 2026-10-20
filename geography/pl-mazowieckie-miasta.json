@@ -1,0 +1,986 @@
+{
+  "id": "pl-mazowieckie-miasta",
+  "name": "Miasta w województwie mazowieckie",
+  "title": "Miasta w województwie mazowieckie",
+  "description": "Cities and towns (miasta) in Mazowieckie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1239",
+      "name": "Białobrzegi",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "białobrzeski",
+      "commune": "Białobrzegi-gmina miejsko-wiejska",
+      "latitude": 51.6483,
+      "longitude": 20.9497
+    },
+    {
+      "id": "1589",
+      "name": "Bieżuń",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żuromiński",
+      "commune": "Bieżuń-gmina miejsko-wiejska",
+      "latitude": 52.9597,
+      "longitude": 19.8886
+    },
+    {
+      "id": "1792",
+      "name": "Błonie",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "warszawski zachodni",
+      "commune": "Błonie-gmina miejsko-wiejska",
+      "latitude": 52.1947,
+      "longitude": 20.6169
+    },
+    {
+      "id": "3005",
+      "name": "Brwinów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "pruszkowski",
+      "commune": "Brwinów-gmina miejsko-wiejska",
+      "latitude": 52.1428,
+      "longitude": 20.7172
+    },
+    {
+      "id": "4514",
+      "name": "Chorzele",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "przasnyski",
+      "commune": "Chorzele-gmina miejsko-wiejska",
+      "latitude": 53.2586,
+      "longitude": 20.8972
+    },
+    {
+      "id": "4877",
+      "name": "Ciechanów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "ciechanowski",
+      "commune": "Ciechanów-gmina miejska",
+      "latitude": 52.8761,
+      "longitude": 20.6081
+    },
+    {
+      "id": "5661",
+      "name": "Czerwińsk nad Wisłą",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płoński",
+      "commune": "Czerwińsk nad Wisłą-gmina wiejska",
+      "latitude": 52.3939,
+      "longitude": 20.3125
+    },
+    {
+      "id": "7168",
+      "name": "Drobin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płocki",
+      "commune": "Drobin-gmina miejsko-wiejska",
+      "latitude": 52.7378,
+      "longitude": 19.9903
+    },
+    {
+      "id": "8335",
+      "name": "Garwolin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "garwoliński",
+      "commune": "Garwolin-gmina miejska",
+      "latitude": 51.8975,
+      "longitude": 21.6156
+    },
+    {
+      "id": "8392",
+      "name": "Gąbin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płocki",
+      "commune": "Gąbin-gmina miejsko-wiejska",
+      "latitude": 52.3983,
+      "longitude": 19.7342
+    },
+    {
+      "id": "8690",
+      "name": "Glinojeck",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "ciechanowski",
+      "commune": "Glinojeck-gmina miejsko-wiejska",
+      "latitude": 52.8186,
+      "longitude": 20.2842
+    },
+    {
+      "id": "9393",
+      "name": "Gostynin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "gostyniński",
+      "commune": "Gostynin-gmina miejska",
+      "latitude": 52.4292,
+      "longitude": 19.4619
+    },
+    {
+      "id": "9541",
+      "name": "Góra Kalwaria",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "piaseczyński",
+      "commune": "Góra Kalwaria-gmina miejsko-wiejska",
+      "latitude": 51.9853,
+      "longitude": 21.2164
+    },
+    {
+      "id": "10182",
+      "name": "Grodzisk Mazowiecki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grodziski",
+      "commune": "Grodzisk Mazowiecki-gmina miejsko-wiejska",
+      "latitude": 52.1042,
+      "longitude": 20.6267
+    },
+    {
+      "id": "10304",
+      "name": "Grójec",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grójecki",
+      "commune": "Grójec-gmina miejsko-wiejska",
+      "latitude": 51.8656,
+      "longitude": 20.8675
+    },
+    {
+      "id": "10675",
+      "name": "Halinów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "miński",
+      "commune": "Halinów-gmina miejsko-wiejska",
+      "latitude": 52.2267,
+      "longitude": 21.3533
+    },
+    {
+      "id": "11141",
+      "name": "Iłża",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "radomski",
+      "commune": "Iłża-gmina miejsko-wiejska",
+      "latitude": 51.1622,
+      "longitude": 21.2372
+    },
+    {
+      "id": "12668",
+      "name": "Józefów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "otwocki",
+      "commune": "Józefów-gmina miejska",
+      "latitude": 52.1364,
+      "longitude": 21.2353
+    },
+    {
+      "id": "13091",
+      "name": "Kałuszyn",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "miński",
+      "commune": "Kałuszyn-gmina miejsko-wiejska",
+      "latitude": 52.2086,
+      "longitude": 21.8125
+    },
+    {
+      "id": "13392",
+      "name": "Karczew",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "otwocki",
+      "commune": "Karczew-gmina miejsko-wiejska",
+      "latitude": 52.0758,
+      "longitude": 21.2503
+    },
+    {
+      "id": "14695",
+      "name": "Kobyłka",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Kobyłka-gmina miejska",
+      "latitude": 52.3394,
+      "longitude": 21.1972
+    },
+    {
+      "id": "15181",
+      "name": "Konstancin-Jeziorna",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "piaseczyński",
+      "commune": "Konstancin-Jeziorna-gmina miejsko-wiejska",
+      "latitude": 52.0928,
+      "longitude": 21.1181
+    },
+    {
+      "id": "15547",
+      "name": "Kosów Lacki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "sokołowski",
+      "commune": "Kosów Lacki-gmina miejsko-wiejska",
+      "latitude": 52.5958,
+      "longitude": 22.1469
+    },
+    {
+      "id": "15939",
+      "name": "Kozienice",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "kozienicki",
+      "commune": "Kozienice-gmina miejsko-wiejska",
+      "latitude": 51.585,
+      "longitude": 21.5494
+    },
+    {
+      "id": "17704",
+      "name": "Legionowo",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "legionowski",
+      "commune": "Legionowo-gmina miejska",
+      "latitude": 52.4033,
+      "longitude": 20.9269
+    },
+    {
+      "id": "18371",
+      "name": "Lipsko",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "lipski",
+      "commune": "Lipsko-gmina miejsko-wiejska",
+      "latitude": 51.1581,
+      "longitude": 21.6492
+    },
+    {
+      "id": "18739",
+      "name": "Lubowidz",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żuromiński",
+      "commune": "Lubowidz-gmina wiejska",
+      "latitude": 53.1203,
+      "longitude": 19.8447
+    },
+    {
+      "id": "19088",
+      "name": "Łaskarzew",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "garwoliński",
+      "commune": "Łaskarzew-gmina miejska",
+      "latitude": 51.7903,
+      "longitude": 21.5931
+    },
+    {
+      "id": "19497",
+      "name": "Łochów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "węgrowski",
+      "commune": "Łochów-gmina miejsko-wiejska",
+      "latitude": 52.5306,
+      "longitude": 21.6817
+    },
+    {
+      "id": "19535",
+      "name": "Łomianki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "warszawski zachodni",
+      "commune": "Łomianki-gmina miejsko-wiejska",
+      "latitude": 52.3336,
+      "longitude": 20.8869
+    },
+    {
+      "id": "19605",
+      "name": "Łosice",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "łosicki",
+      "commune": "Łosice-gmina miejsko-wiejska",
+      "latitude": 52.2111,
+      "longitude": 22.7178
+    },
+    {
+      "id": "20141",
+      "name": "Maków Mazowiecki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "makowski",
+      "commune": "Maków Mazowiecki-gmina miejska",
+      "latitude": 52.8631,
+      "longitude": 21.1017
+    },
+    {
+      "id": "20613",
+      "name": "Marki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Marki-gmina miejska",
+      "latitude": 52.3375,
+      "longitude": 21.1147
+    },
+    {
+      "id": "21466",
+      "name": "Milanówek",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grodziski",
+      "commune": "Milanówek-gmina miejska",
+      "latitude": 52.1253,
+      "longitude": 20.6656
+    },
+    {
+      "id": "21622",
+      "name": "Mińsk Mazowiecki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "miński",
+      "commune": "Mińsk Mazowiecki-gmina miejska",
+      "latitude": 52.1783,
+      "longitude": 21.5714
+    },
+    {
+      "id": "21716",
+      "name": "Mława",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "mławski",
+      "commune": "Mława-gmina miejska",
+      "latitude": 53.1114,
+      "longitude": 20.3817
+    },
+    {
+      "id": "21954",
+      "name": "Mogielnica",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grójecki",
+      "commune": "Mogielnica-gmina miejsko-wiejska",
+      "latitude": 51.6944,
+      "longitude": 20.7231
+    },
+    {
+      "id": "22105",
+      "name": "Mordy",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "siedlecki",
+      "commune": "Mordy-gmina miejsko-wiejska",
+      "latitude": 52.2108,
+      "longitude": 22.5167
+    },
+    {
+      "id": "22320",
+      "name": "Mrozy",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "miński",
+      "commune": "Mrozy-gmina miejsko-wiejska",
+      "latitude": 52.1658,
+      "longitude": 21.8025
+    },
+    {
+      "id": "22353",
+      "name": "Mszczonów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żyrardowski",
+      "commune": "Mszczonów-gmina miejsko-wiejska",
+      "latitude": 51.9722,
+      "longitude": 20.5206
+    },
+    {
+      "id": "22482",
+      "name": "Myszyniec",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "ostrołęcki",
+      "commune": "Myszyniec-gmina miejsko-wiejska",
+      "latitude": 53.3822,
+      "longitude": 21.3447
+    },
+    {
+      "id": "22679",
+      "name": "Nasielsk",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "nowodworski",
+      "commune": "Nasielsk-gmina miejsko-wiejska",
+      "latitude": 52.5922,
+      "longitude": 20.8028
+    },
+    {
+      "id": "23748",
+      "name": "Nowe Miasto nad Pilicą",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grójecki",
+      "commune": "Nowe Miasto nad Pilicą-gmina miejsko-wiejska",
+      "latitude": 51.6181,
+      "longitude": 20.5814
+    },
+    {
+      "id": "24087",
+      "name": "Nowy Dwór Mazowiecki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "nowodworski",
+      "commune": "Nowy Dwór Mazowiecki-gmina miejska",
+      "latitude": 52.4306,
+      "longitude": 20.7164
+    },
+    {
+      "id": "25364",
+      "name": "Ostrołęka",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "Ostrołęka",
+      "commune": "Ostrołęka-gmina miejska",
+      "latitude": 53.0814,
+      "longitude": 21.5725
+    },
+    {
+      "id": "25492",
+      "name": "Ostrów Mazowiecka",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "ostrowski",
+      "commune": "Ostrów Mazowiecka-gmina miejska",
+      "latitude": 52.8058,
+      "longitude": 21.8978
+    },
+    {
+      "id": "25624",
+      "name": "Otwock",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "otwocki",
+      "commune": "Otwock-gmina miejska",
+      "latitude": 52.1072,
+      "longitude": 21.2656
+    },
+    {
+      "id": "25674",
+      "name": "Ożarów Mazowiecki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "warszawski zachodni",
+      "commune": "Ożarów Mazowiecki-gmina miejsko-wiejska",
+      "latitude": 52.2106,
+      "longitude": 20.7942
+    },
+    {
+      "id": "26282",
+      "name": "Piaseczno",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "piaseczyński",
+      "commune": "Piaseczno-gmina miejsko-wiejska",
+      "latitude": 52.0697,
+      "longitude": 21.0269
+    },
+    {
+      "id": "26358",
+      "name": "Piastów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "pruszkowski",
+      "commune": "Piastów-gmina miejska",
+      "latitude": 52.1831,
+      "longitude": 20.8417
+    },
+    {
+      "id": "26643",
+      "name": "Pilawa",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "garwoliński",
+      "commune": "Pilawa-gmina miejsko-wiejska",
+      "latitude": 51.96,
+      "longitude": 21.5322
+    },
+    {
+      "id": "26704",
+      "name": "Pionki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "radomski",
+      "commune": "Pionki-gmina miejska",
+      "latitude": 51.4786,
+      "longitude": 21.4525
+    },
+    {
+      "id": "27016",
+      "name": "Płock",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "Płock",
+      "commune": "Płock-gmina miejska",
+      "latitude": 52.5408,
+      "longitude": 19.6897
+    },
+    {
+      "id": "27046",
+      "name": "Płońsk",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płoński",
+      "commune": "Płońsk-gmina miejska",
+      "latitude": 52.6222,
+      "longitude": 20.3739
+    },
+    {
+      "id": "27288",
+      "name": "Podkowa Leśna",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grodziski",
+      "commune": "Podkowa Leśna-gmina miejska",
+      "latitude": 52.1233,
+      "longitude": 20.7275
+    },
+    {
+      "id": "28411",
+      "name": "Pruszków",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "pruszkowski",
+      "commune": "Pruszków-gmina miejska",
+      "latitude": 52.17,
+      "longitude": 20.805
+    },
+    {
+      "id": "28425",
+      "name": "Przasnysz",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "przasnyski",
+      "commune": "Przasnysz-gmina miejska",
+      "latitude": 53.0217,
+      "longitude": 20.8822
+    },
+    {
+      "id": "28845",
+      "name": "Przysucha",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "przysuski",
+      "commune": "Przysucha-gmina miejsko-wiejska",
+      "latitude": 51.3586,
+      "longitude": 20.6283
+    },
+    {
+      "id": "29002",
+      "name": "Pułtusk",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "pułtuski",
+      "commune": "Pułtusk-gmina miejsko-wiejska",
+      "latitude": 52.7039,
+      "longitude": 21.0872
+    },
+    {
+      "id": "29113",
+      "name": "Raciąż",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płoński",
+      "commune": "Raciąż-gmina miejska",
+      "latitude": 52.7811,
+      "longitude": 20.1194
+    },
+    {
+      "id": "29226",
+      "name": "Radom",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "Radom",
+      "commune": "Radom-gmina miejska",
+      "latitude": 51.4008,
+      "longitude": 21.1533
+    },
+    {
+      "id": "29411",
+      "name": "Radzymin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Radzymin-gmina miejsko-wiejska",
+      "latitude": 52.4183,
+      "longitude": 21.1811
+    },
+    {
+      "id": "30356",
+      "name": "Różan",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "makowski",
+      "commune": "Różan-gmina miejsko-wiejska",
+      "latitude": 52.8908,
+      "longitude": 21.3994
+    },
+    {
+      "id": "31390",
+      "name": "Sanniki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "gostyniński",
+      "commune": "Sanniki-gmina wiejska",
+      "latitude": 52.3319,
+      "longitude": 19.8619
+    },
+    {
+      "id": "31546",
+      "name": "Serock",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "legionowski",
+      "commune": "Serock-gmina miejsko-wiejska",
+      "latitude": 52.5136,
+      "longitude": 21.0706
+    },
+    {
+      "id": "31700",
+      "name": "Siedlce",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "Siedlce",
+      "commune": "Siedlce-gmina miejska",
+      "latitude": 52.1658,
+      "longitude": 22.2769
+    },
+    {
+      "id": "31995",
+      "name": "Sierpc",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "sierpecki",
+      "commune": "Sierpc-gmina miejska",
+      "latitude": 52.8542,
+      "longitude": 19.6686
+    },
+    {
+      "id": "32196",
+      "name": "Skaryszew",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "radomski",
+      "commune": "Skaryszew-gmina miejsko-wiejska",
+      "latitude": 51.3103,
+      "longitude": 21.2519
+    },
+    {
+      "id": "32992",
+      "name": "Sochaczew",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "sochaczewski",
+      "commune": "Sochaczew-gmina miejska",
+      "latitude": 52.2297,
+      "longitude": 20.2381
+    },
+    {
+      "id": "32993",
+      "name": "Sochocin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płoński",
+      "commune": "Sochocin-gmina wiejska",
+      "latitude": 52.6872,
+      "longitude": 20.4722
+    },
+    {
+      "id": "33087",
+      "name": "Sokołów Podlaski",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "sokołowski",
+      "commune": "Sokołów Podlaski-gmina miejska",
+      "latitude": 52.4081,
+      "longitude": 22.25
+    },
+    {
+      "id": "33129",
+      "name": "Solec nad Wisłą",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "lipski",
+      "commune": "Solec nad Wisłą-gmina wiejska",
+      "latitude": 51.135,
+      "longitude": 21.765
+    },
+    {
+      "id": "35089",
+      "name": "Sulejówek",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "miński",
+      "commune": "Sulejówek-gmina miejska",
+      "latitude": 52.2431,
+      "longitude": 21.2778
+    },
+    {
+      "id": "35916",
+      "name": "Szydłowiec",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "szydłowiecki",
+      "commune": "Szydłowiec-gmina miejsko-wiejska",
+      "latitude": 51.2242,
+      "longitude": 20.8572
+    },
+    {
+      "id": "36555",
+      "name": "Tarczyn",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "piaseczyński",
+      "commune": "Tarczyn-gmina miejsko-wiejska",
+      "latitude": 51.98,
+      "longitude": 20.8339
+    },
+    {
+      "id": "36845",
+      "name": "Tłuszcz",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Tłuszcz-gmina miejsko-wiejska",
+      "latitude": 52.43,
+      "longitude": 21.4353
+    },
+    {
+      "id": "38172",
+      "name": "Warka",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "grójecki",
+      "commune": "Warka-gmina miejsko-wiejska",
+      "latitude": 51.7844,
+      "longitude": 21.1889
+    },
+    {
+      "id": "38197",
+      "name": "Warszawa",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "Warszawa",
+      "commune": "Warszawa-gmina miejska",
+      "latitude": 52.2319,
+      "longitude": 21.0067
+    },
+    {
+      "id": "38466",
+      "name": "Węgrów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "węgrowski",
+      "commune": "Węgrów-gmina miejska",
+      "latitude": 52.3989,
+      "longitude": 22.0172
+    },
+    {
+      "id": "39322",
+      "name": "Wiskitki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żyrardowski",
+      "commune": "Wiskitki-gmina wiejska",
+      "latitude": 52.0869,
+      "longitude": 20.3831
+    },
+    {
+      "id": "40272",
+      "name": "Wołomin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Wołomin-gmina miejsko-wiejska",
+      "latitude": 52.345,
+      "longitude": 21.2458
+    },
+    {
+      "id": "41184",
+      "name": "Wyszków",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wyszkowski",
+      "commune": "Wyszków-gmina miejsko-wiejska",
+      "latitude": 52.5958,
+      "longitude": 21.4519
+    },
+    {
+      "id": "41190",
+      "name": "Wyszogród",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "płocki",
+      "commune": "Wyszogród-gmina miejsko-wiejska",
+      "latitude": 52.3889,
+      "longitude": 20.1914
+    },
+    {
+      "id": "41216",
+      "name": "Wyśmierzyce",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "białobrzeski",
+      "commune": "Wyśmierzyce-gmina miejsko-wiejska",
+      "latitude": 51.6253,
+      "longitude": 20.8178
+    },
+    {
+      "id": "41642",
+      "name": "Zakroczym",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "nowodworski",
+      "commune": "Zakroczym-gmina miejsko-wiejska",
+      "latitude": 52.4333,
+      "longitude": 20.6117
+    },
+    {
+      "id": "42353",
+      "name": "Ząbki",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Ząbki-gmina miejska",
+      "latitude": 52.2908,
+      "longitude": 21.1125
+    },
+    {
+      "id": "42721",
+      "name": "Zielonka",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "wołomiński",
+      "commune": "Zielonka-gmina miejska",
+      "latitude": 52.3083,
+      "longitude": 21.1583
+    },
+    {
+      "id": "43017",
+      "name": "Zwoleń",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "zwoleński",
+      "commune": "Zwoleń-gmina miejsko-wiejska",
+      "latitude": 51.3564,
+      "longitude": 21.5842
+    },
+    {
+      "id": "43296",
+      "name": "Żelechów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "garwoliński",
+      "commune": "Żelechów-gmina miejsko-wiejska",
+      "latitude": 51.8097,
+      "longitude": 21.8956
+    },
+    {
+      "id": "43553",
+      "name": "Żuromin",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żuromiński",
+      "commune": "Żuromin-gmina miejsko-wiejska",
+      "latitude": 53.0661,
+      "longitude": 19.9097
+    },
+    {
+      "id": "43597",
+      "name": "Żyrardów",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "żyrardowski",
+      "commune": "Żyrardów-gmina miejska",
+      "latitude": 52.0569,
+      "longitude": 20.4483
+    },
+    {
+      "id": "43692",
+      "name": "Brok",
+      "type": "city",
+      "province": "mazowieckie",
+      "district": "ostrowski",
+      "commune": "Brok-gmina miejsko-wiejska",
+      "latitude": 52.7,
+      "longitude": 21.8594
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie mazowieckie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Mazowieckie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 92 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie mazowieckie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie mazowieckie — 92 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 92 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

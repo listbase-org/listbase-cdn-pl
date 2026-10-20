@@ -1,0 +1,506 @@
+{
+  "id": "pl-swietokrzyskie-cities",
+  "name": "Województwo świętokrzyskie — miasta",
+  "title": "Województwo świętokrzyskie — miasta",
+  "description": "Lista miast w województwie świętokrzyskim (województwo świętokrzyskie) — 44 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the świętokrzyskie voivodeship — 44 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 691,
+      "name": "Bodzentyn",
+      "slug": "bodzentyn",
+      "name_locative": "Bodzentynie",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.9409927,
+      "longitude": 20.9573478
+    },
+    {
+      "city_id": 679,
+      "name": "Busko-Zdrój",
+      "slug": "busko-zdroj",
+      "name_locative": "Busku-Zdroju",
+      "county_id": 234,
+      "county_name": "buski",
+      "latitude": 50.46759,
+      "longitude": 20.71919
+    },
+    {
+      "city_id": 693,
+      "name": "Chmielnik",
+      "slug": "chmielnik",
+      "name_locative": "Chmielniku",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.6145952,
+      "longitude": 20.7510406
+    },
+    {
+      "city_id": 692,
+      "name": "Chęciny",
+      "slug": "checiny",
+      "name_locative": "Chęcinach",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.8000835,
+      "longitude": 20.4622228
+    },
+    {
+      "city_id": 694,
+      "name": "Daleszyce",
+      "slug": "daleszyce",
+      "name_locative": "Daleszycach",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.801991,
+      "longitude": 20.8066334
+    },
+    {
+      "city_id": 707,
+      "name": "Działoszyce",
+      "slug": "dzialoszyce",
+      "name_locative": "Działoszycach",
+      "county_id": 241,
+      "county_name": "pińczowski",
+      "latitude": 50.3654682,
+      "longitude": 20.3521471
+    },
+    {
+      "city_id": 684,
+      "name": "Jędrzejów",
+      "slug": "jedrzejow",
+      "name_locative": "Jędrzejowie",
+      "county_id": 235,
+      "county_name": "jędrzejowski",
+      "latitude": 50.6394435,
+      "longitude": 20.3046116
+    },
+    {
+      "city_id": 688,
+      "name": "Kazimierza Wielka",
+      "slug": "kazimierza-wielka",
+      "name_locative": "Kazimierzy Wielkiej",
+      "county_id": 236,
+      "county_name": "kazimierski",
+      "latitude": 50.267489,
+      "longitude": 20.4853308
+    },
+    {
+      "city_id": 710,
+      "name": "Klimontów",
+      "slug": "klimontow",
+      "name_locative": "Klimontowie",
+      "county_id": 242,
+      "county_name": "sandomierski",
+      "latitude": 50.6563871,
+      "longitude": 21.4506186
+    },
+    {
+      "city_id": 711,
+      "name": "Koprzywnica",
+      "slug": "koprzywnica",
+      "name_locative": "Koprzywnicy",
+      "county_id": 242,
+      "county_name": "sandomierski",
+      "latitude": 50.5932218,
+      "longitude": 21.5847266
+    },
+    {
+      "city_id": 699,
+      "name": "Końskie",
+      "slug": "konskie",
+      "name_locative": "Końskiem",
+      "county_id": 238,
+      "county_name": "konecki",
+      "latitude": 51.1910223,
+      "longitude": 20.4071836
+    },
+    {
+      "city_id": 706,
+      "name": "Kunów",
+      "slug": "kunow",
+      "name_locative": "Kunowie",
+      "county_id": 240,
+      "county_name": "ostrowiecki",
+      "latitude": 50.9541063,
+      "longitude": 21.278823
+    },
+    {
+      "city_id": 685,
+      "name": "Małogoszcz",
+      "slug": "malogoszcz",
+      "name_locative": "Małogoszczu",
+      "county_id": 235,
+      "county_name": "jędrzejowski",
+      "latitude": 50.8123487,
+      "longitude": 20.2648324
+    },
+    {
+      "city_id": 696,
+      "name": "Morawica",
+      "slug": "morawica",
+      "name_locative": "Morawicy",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.7478149,
+      "longitude": 20.618127
+    },
+    {
+      "city_id": 697,
+      "name": "Nowa Słupia",
+      "slug": "nowa-slupia",
+      "name_locative": "Nowej Słupi",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.8640377,
+      "longitude": 21.0907296
+    },
+    {
+      "city_id": 680,
+      "name": "Nowy Korczyn",
+      "slug": "nowy-korczyn",
+      "name_locative": "Nowym Korczynie",
+      "county_id": 234,
+      "county_name": "buski",
+      "latitude": 50.2994316,
+      "longitude": 20.8090569
+    },
+    {
+      "city_id": 717,
+      "name": "Oleśnica",
+      "slug": "olesnica-19124",
+      "name_locative": "Oleśnicy",
+      "county_id": 245,
+      "county_name": "staszowski",
+      "latitude": 50.4506465,
+      "longitude": 21.0637505
+    },
+    {
+      "city_id": 689,
+      "name": "Opatowiec",
+      "slug": "opatowiec",
+      "name_locative": "Opatowcu",
+      "county_id": 236,
+      "county_name": "kazimierski",
+      "latitude": 50.2425871,
+      "longitude": 20.7237798
+    },
+    {
+      "city_id": 702,
+      "name": "Opatów",
+      "slug": "opatow",
+      "name_locative": "Opatowie",
+      "county_id": 239,
+      "county_name": "opatowski",
+      "latitude": 50.8017661,
+      "longitude": 21.4238281
+    },
+    {
+      "city_id": 718,
+      "name": "Osiek",
+      "slug": "osiek",
+      "name_locative": "Osieku",
+      "county_id": 245,
+      "county_name": "staszowski",
+      "latitude": 50.5194515,
+      "longitude": 21.4425619
+    },
+    {
+      "city_id": 704,
+      "name": "Ostrowiec Świętokrzyski",
+      "slug": "ostrowiec-swietokrzyski",
+      "name_locative": "Ostrowcu Świętokrzyskim",
+      "county_id": 240,
+      "county_name": "ostrowiecki",
+      "latitude": 50.95020905,
+      "longitude": 21.41150924
+    },
+    {
+      "city_id": 703,
+      "name": "Ożarów",
+      "slug": "ozarow",
+      "name_locative": "Ożarowie",
+      "county_id": 239,
+      "county_name": "opatowski",
+      "latitude": 50.8864089,
+      "longitude": 21.6656244
+    },
+    {
+      "city_id": 681,
+      "name": "Pacanów",
+      "slug": "pacanow",
+      "name_locative": "Pacanowie",
+      "county_id": 234,
+      "county_name": "buski",
+      "latitude": 50.3999656,
+      "longitude": 21.0409852
+    },
+    {
+      "city_id": 698,
+      "name": "Pierzchnica",
+      "slug": "pierzchnica",
+      "name_locative": "Pierzchnicy",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.6974266,
+      "longitude": 20.7544258
+    },
+    {
+      "city_id": 708,
+      "name": "Pińczów",
+      "slug": "pinczow",
+      "name_locative": "Pińczowie",
+      "county_id": 241,
+      "county_name": "pińczowski",
+      "latitude": 50.5201929,
+      "longitude": 20.5256241
+    },
+    {
+      "city_id": 719,
+      "name": "Połaniec",
+      "slug": "polaniec",
+      "name_locative": "Połańcu",
+      "county_id": 245,
+      "county_name": "staszowski",
+      "latitude": 50.4329071,
+      "longitude": 21.2810473
+    },
+    {
+      "city_id": 700,
+      "name": "Radoszyce",
+      "slug": "radoszyce",
+      "name_locative": "Radoszycach",
+      "county_id": 238,
+      "county_name": "konecki",
+      "latitude": 51.0736699,
+      "longitude": 20.2597677
+    },
+    {
+      "city_id": 709,
+      "name": "Sandomierz",
+      "slug": "sandomierz",
+      "name_locative": "Sandomierzu",
+      "county_id": 242,
+      "county_name": "sandomierski",
+      "latitude": 50.6793066,
+      "longitude": 21.7495055
+    },
+    {
+      "city_id": 690,
+      "name": "Skalbmierz",
+      "slug": "skalbmierz",
+      "name_locative": "Skalbmierzu",
+      "county_id": 236,
+      "county_name": "kazimierski",
+      "latitude": 50.3170888,
+      "longitude": 20.3996843
+    },
+    {
+      "city_id": 713,
+      "name": "Skarżysko-Kamienna",
+      "slug": "skarzysko-kamienna",
+      "name_locative": "Skarżysku-Kamiennej",
+      "county_id": 243,
+      "county_name": "skarżyski",
+      "latitude": 51.1229657,
+      "longitude": 20.87700915
+    },
+    {
+      "city_id": 715,
+      "name": "Starachowice",
+      "slug": "starachowice",
+      "name_locative": "Starachowicach",
+      "county_id": 244,
+      "county_name": "starachowicki",
+      "latitude": 51.03844825,
+      "longitude": 21.08204354
+    },
+    {
+      "city_id": 720,
+      "name": "Staszów",
+      "slug": "staszow",
+      "name_locative": "Staszowie",
+      "county_id": 245,
+      "county_name": "staszowski",
+      "latitude": 50.5612276,
+      "longitude": 21.1677849
+    },
+    {
+      "city_id": 682,
+      "name": "Stopnica",
+      "slug": "stopnica",
+      "name_locative": "Stopnicy",
+      "county_id": 234,
+      "county_name": "buski",
+      "latitude": 50.4382587,
+      "longitude": 20.9385676
+    },
+    {
+      "city_id": 701,
+      "name": "Stąporków",
+      "slug": "staporkow",
+      "name_locative": "Stąporkowie",
+      "county_id": 238,
+      "county_name": "konecki",
+      "latitude": 51.1380145,
+      "longitude": 20.5573073
+    },
+    {
+      "city_id": 714,
+      "name": "Suchedniów",
+      "slug": "suchedniow",
+      "name_locative": "Suchedniowie",
+      "county_id": 243,
+      "county_name": "skarżyski",
+      "latitude": 51.0472338,
+      "longitude": 20.8386652
+    },
+    {
+      "city_id": 721,
+      "name": "Szydłów",
+      "slug": "szydlow",
+      "name_locative": "Szydłowie",
+      "county_id": 245,
+      "county_name": "staszowski",
+      "latitude": 50.5907684,
+      "longitude": 21.0045698
+    },
+    {
+      "city_id": 686,
+      "name": "Sędziszów",
+      "slug": "sedziszow",
+      "name_locative": "Sędziszowie",
+      "county_id": 235,
+      "county_name": "jędrzejowski",
+      "latitude": 50.564781,
+      "longitude": 20.0538047
+    },
+    {
+      "city_id": 683,
+      "name": "Wiślica",
+      "slug": "wislica",
+      "name_locative": "Wiślicy",
+      "county_id": 234,
+      "county_name": "buski",
+      "latitude": 50.3484831,
+      "longitude": 20.6745381
+    },
+    {
+      "city_id": 687,
+      "name": "Wodzisław",
+      "slug": "wodzislaw",
+      "name_locative": "Wodzisławiu",
+      "county_id": 235,
+      "county_name": "jędrzejowski",
+      "latitude": 50.5211403,
+      "longitude": 20.1909163
+    },
+    {
+      "city_id": 716,
+      "name": "Wąchock",
+      "slug": "wachock",
+      "name_locative": "Wąchocku",
+      "county_id": 244,
+      "county_name": "starachowicki",
+      "latitude": 51.073812,
+      "longitude": 21.0116897
+    },
+    {
+      "city_id": 722,
+      "name": "Włoszczowa",
+      "slug": "wloszczowa",
+      "name_locative": "Włoszczowie",
+      "county_id": 246,
+      "county_name": "włoszczowski",
+      "latitude": 50.8520727,
+      "longitude": 19.9667772
+    },
+    {
+      "city_id": 712,
+      "name": "Zawichost",
+      "slug": "zawichost",
+      "name_locative": "Zawichoście",
+      "county_id": 242,
+      "county_name": "sandomierski",
+      "latitude": 50.8074312,
+      "longitude": 21.8523835
+    },
+    {
+      "city_id": 705,
+      "name": "Ćmielów",
+      "slug": "cmielow",
+      "name_locative": "Ćmielowie",
+      "county_id": 240,
+      "county_name": "ostrowiecki",
+      "latitude": 50.8918364,
+      "longitude": 21.5100875
+    },
+    {
+      "city_id": 695,
+      "name": "Łagów",
+      "slug": "lagow",
+      "name_locative": "Łagowie",
+      "county_id": 237,
+      "county_name": "kielecki",
+      "latitude": 50.7754877,
+      "longitude": 21.0839837
+    }
+  ],
+  "meta": {
+    "title": "Województwo świętokrzyskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie świętokrzyskim (województwo świętokrzyskie) — 44 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the świętokrzyskie voivodeship — 44 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 44 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo świętokrzyskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo świętokrzyskie — miasta — 44 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 44 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

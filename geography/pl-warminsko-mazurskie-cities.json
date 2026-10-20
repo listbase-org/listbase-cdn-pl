@@ -1,0 +1,546 @@
+{
+  "id": "pl-warminsko-mazurskie-cities",
+  "name": "Województwo warmińsko-mazurskie — miasta",
+  "title": "Województwo warmińsko-mazurskie — miasta",
+  "description": "Lista miast w województwie warmińsko-mazurskim (województwo warmińsko-mazurskie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the warmińsko-mazurskie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 754,
+      "name": "Barczewo",
+      "slug": "barczewo",
+      "name_locative": "Barczewie",
+      "county_id": 260,
+      "county_name": "olsztyński",
+      "latitude": 53.8297112,
+      "longitude": 20.6911497
+    },
+    {
+      "city_id": 724,
+      "name": "Bartoszyce",
+      "slug": "bartoszyce",
+      "name_locative": "Bartoszycach",
+      "county_id": 247,
+      "county_name": "bartoszycki",
+      "latitude": 54.2534341,
+      "longitude": 20.80839324
+    },
+    {
+      "city_id": 763,
+      "name": "Biała Piska",
+      "slug": "biala-piska",
+      "name_locative": "Białej Piskiej",
+      "county_id": 262,
+      "county_name": "piski",
+      "latitude": 53.6113625,
+      "longitude": 22.0581433
+    },
+    {
+      "city_id": 755,
+      "name": "Biskupiec",
+      "slug": "biskupiec",
+      "name_locative": "Biskupcu",
+      "county_id": 260,
+      "county_name": "olsztyński",
+      "latitude": 53.8688,
+      "longitude": 20.95518
+    },
+    {
+      "city_id": 726,
+      "name": "Bisztynek",
+      "slug": "bisztynek",
+      "name_locative": "Bisztynku",
+      "county_id": 247,
+      "county_name": "bartoszycki",
+      "latitude": 54.0866828,
+      "longitude": 20.908828
+    },
+    {
+      "city_id": 728,
+      "name": "Braniewo",
+      "slug": "braniewo",
+      "name_locative": "Braniewie",
+      "county_id": 248,
+      "county_name": "braniewski",
+      "latitude": 54.3791637,
+      "longitude": 19.82216309
+    },
+    {
+      "city_id": 756,
+      "name": "Dobre Miasto",
+      "slug": "dobre-miasto",
+      "name_locative": "Dobrym Mieście",
+      "county_id": 260,
+      "county_name": "olsztyński",
+      "latitude": 53.9868899,
+      "longitude": 20.3973402
+    },
+    {
+      "city_id": 731,
+      "name": "Działdowo",
+      "slug": "dzialdowo",
+      "name_locative": "Działdowie",
+      "county_id": 249,
+      "county_name": "działdowski",
+      "latitude": 53.2406366,
+      "longitude": 20.18468647
+    },
+    {
+      "city_id": 736,
+      "name": "Ełk",
+      "slug": "elk",
+      "name_locative": "Ełku",
+      "county_id": 251,
+      "county_name": "ełcki",
+      "latitude": 53.82395835,
+      "longitude": 22.36191587
+    },
+    {
+      "city_id": 729,
+      "name": "Frombork",
+      "slug": "frombork",
+      "name_locative": "Fromborku",
+      "county_id": 248,
+      "county_name": "braniewski",
+      "latitude": 54.3583633,
+      "longitude": 19.6823701
+    },
+    {
+      "city_id": 737,
+      "name": "Giżycko",
+      "slug": "gizycko",
+      "name_locative": "Giżycku",
+      "county_id": 252,
+      "county_name": "giżycki",
+      "latitude": 54.0361354,
+      "longitude": 21.7661326
+    },
+    {
+      "city_id": 770,
+      "name": "Gołdap",
+      "slug": "goldap",
+      "name_locative": "Gołdapi",
+      "county_id": 264,
+      "county_name": "gołdapski",
+      "latitude": 54.3080218,
+      "longitude": 22.3018802
+    },
+    {
+      "city_id": 725,
+      "name": "Górowo Iławeckie",
+      "slug": "gorowo-ilaweckie",
+      "name_locative": "Górowie Iławeckim",
+      "county_id": 247,
+      "county_name": "bartoszycki",
+      "latitude": 54.28855335,
+      "longitude": 20.49046717
+    },
+    {
+      "city_id": 739,
+      "name": "Iława",
+      "slug": "ilawa",
+      "name_locative": "Iławie",
+      "county_id": 253,
+      "county_name": "iławski",
+      "latitude": 53.59610885,
+      "longitude": 19.57610257
+    },
+    {
+      "city_id": 757,
+      "name": "Jeziorany",
+      "slug": "jeziorany",
+      "name_locative": "Jezioranach",
+      "county_id": 260,
+      "county_name": "olsztyński",
+      "latitude": 53.9768604,
+      "longitude": 20.7459137
+    },
+    {
+      "city_id": 741,
+      "name": "Kisielice",
+      "slug": "kisielice",
+      "name_locative": "Kisielicach",
+      "county_id": 253,
+      "county_name": "iławski",
+      "latitude": 53.6076054,
+      "longitude": 19.2593923
+    },
+    {
+      "city_id": 745,
+      "name": "Korsze",
+      "slug": "korsze",
+      "name_locative": "Korszach",
+      "county_id": 254,
+      "county_name": "kętrzyński",
+      "latitude": 54.1707614,
+      "longitude": 21.1442323
+    },
+    {
+      "city_id": 744,
+      "name": "Kętrzyn",
+      "slug": "ketrzyn",
+      "name_locative": "Kętrzynie",
+      "county_id": 254,
+      "county_name": "kętrzyński",
+      "latitude": 54.08239245,
+      "longitude": 21.36515436
+    },
+    {
+      "city_id": 732,
+      "name": "Lidzbark",
+      "slug": "lidzbark",
+      "name_locative": "Lidzbarku",
+      "county_id": 249,
+      "county_name": "działdowski",
+      "latitude": 53.2628043,
+      "longitude": 19.8231836
+    },
+    {
+      "city_id": 747,
+      "name": "Lidzbark Warmiński",
+      "slug": "lidzbark-warminski",
+      "name_locative": "Lidzbarku Warmińskim",
+      "county_id": 255,
+      "county_name": "lidzbarski",
+      "latitude": 54.1305863,
+      "longitude": 20.56491698
+    },
+    {
+      "city_id": 740,
+      "name": "Lubawa",
+      "slug": "lubawa",
+      "name_locative": "Lubawie",
+      "county_id": 253,
+      "county_name": "iławski",
+      "latitude": 53.5005027,
+      "longitude": 19.73544859
+    },
+    {
+      "city_id": 750,
+      "name": "Mikołajki",
+      "slug": "mikolajki",
+      "name_locative": "Mikołajkach",
+      "county_id": 256,
+      "county_name": "mrągowski",
+      "latitude": 53.7981816,
+      "longitude": 21.5772462
+    },
+    {
+      "city_id": 760,
+      "name": "Miłakowo",
+      "slug": "milakowo",
+      "name_locative": "Miłakowie",
+      "county_id": 261,
+      "county_name": "ostródzki",
+      "latitude": 54.0101675,
+      "longitude": 20.0711213
+    },
+    {
+      "city_id": 761,
+      "name": "Miłomłyn",
+      "slug": "milomlyn",
+      "name_locative": "Miłomłynie",
+      "county_id": 261,
+      "county_name": "ostródzki",
+      "latitude": 53.7634,
+      "longitude": 19.8413501
+    },
+    {
+      "city_id": 762,
+      "name": "Morąg",
+      "slug": "morag",
+      "name_locative": "Morągu",
+      "county_id": 261,
+      "county_name": "ostródzki",
+      "latitude": 53.9119982,
+      "longitude": 19.9279895
+    },
+    {
+      "city_id": 749,
+      "name": "Mrągowo",
+      "slug": "mragowo",
+      "name_locative": "Mrągowie",
+      "county_id": 256,
+      "county_name": "mrągowski",
+      "latitude": 53.8685741,
+      "longitude": 21.30515865
+    },
+    {
+      "city_id": 733,
+      "name": "Młynary",
+      "slug": "mlynary",
+      "name_locative": "Młynarach",
+      "county_id": 250,
+      "county_name": "elbląski",
+      "latitude": 54.1876231,
+      "longitude": 19.7229376
+    },
+    {
+      "city_id": 751,
+      "name": "Nidzica",
+      "slug": "nidzica",
+      "name_locative": "Nidzicy",
+      "county_id": 257,
+      "county_name": "nidzicki",
+      "latitude": 53.3613838,
+      "longitude": 20.4275719
+    },
+    {
+      "city_id": 752,
+      "name": "Nowe Miasto Lubawskie",
+      "slug": "nowe-miasto-lubawskie",
+      "name_locative": "Nowym Mieście Lubawskim",
+      "county_id": 258,
+      "county_name": "nowomiejski",
+      "latitude": 53.42489945,
+      "longitude": 19.58392352
+    },
+    {
+      "city_id": 753,
+      "name": "Olecko",
+      "slug": "olecko",
+      "name_locative": "Olecku",
+      "county_id": 259,
+      "county_name": "olecki",
+      "latitude": 54.0398024,
+      "longitude": 22.4934246
+    },
+    {
+      "city_id": 758,
+      "name": "Olsztynek",
+      "slug": "olsztynek",
+      "name_locative": "Olsztynku",
+      "county_id": 260,
+      "county_name": "olsztyński",
+      "latitude": 53.5834201,
+      "longitude": 20.2816198
+    },
+    {
+      "city_id": 748,
+      "name": "Orneta",
+      "slug": "orneta",
+      "name_locative": "Ornecie",
+      "county_id": 255,
+      "county_name": "lidzbarski",
+      "latitude": 54.1155533,
+      "longitude": 20.1303378
+    },
+    {
+      "city_id": 764,
+      "name": "Orzysz",
+      "slug": "orzysz",
+      "name_locative": "Orzyszu",
+      "county_id": 262,
+      "county_name": "piski",
+      "latitude": 53.809833,
+      "longitude": 21.9473601
+    },
+    {
+      "city_id": 759,
+      "name": "Ostróda",
+      "slug": "ostroda",
+      "name_locative": "Ostródzie",
+      "county_id": 261,
+      "county_name": "ostródzki",
+      "latitude": 53.7028052,
+      "longitude": 19.96286384
+    },
+    {
+      "city_id": 768,
+      "name": "Pasym",
+      "slug": "pasym",
+      "name_locative": "Pasymiu",
+      "county_id": 263,
+      "county_name": "szczycieński",
+      "latitude": 53.6521615,
+      "longitude": 20.7917422
+    },
+    {
+      "city_id": 734,
+      "name": "Pasłęk",
+      "slug": "paslek",
+      "name_locative": "Pasłęku",
+      "county_id": 250,
+      "county_name": "elbląski",
+      "latitude": 54.0626346,
+      "longitude": 19.6565365
+    },
+    {
+      "city_id": 730,
+      "name": "Pieniężno",
+      "slug": "pieniezno",
+      "name_locative": "Pieniężnie",
+      "county_id": 248,
+      "county_name": "braniewski",
+      "latitude": 54.2385662,
+      "longitude": 20.1258163
+    },
+    {
+      "city_id": 765,
+      "name": "Pisz",
+      "slug": "pisz",
+      "name_locative": "Piszu",
+      "county_id": 262,
+      "county_name": "piski",
+      "latitude": 53.6294943,
+      "longitude": 21.8098191
+    },
+    {
+      "city_id": 746,
+      "name": "Reszel",
+      "slug": "reszel",
+      "name_locative": "Reszlu",
+      "county_id": 254,
+      "county_name": "kętrzyński",
+      "latitude": 54.0482576,
+      "longitude": 21.1421611
+    },
+    {
+      "city_id": 766,
+      "name": "Ruciane-Nida",
+      "slug": "ruciane-nida",
+      "name_locative": "Rucianem-Nidzie",
+      "county_id": 262,
+      "county_name": "piski",
+      "latitude": 53.65042,
+      "longitude": 21.55982
+    },
+    {
+      "city_id": 738,
+      "name": "Ryn",
+      "slug": "ryn",
+      "name_locative": "Rynie",
+      "county_id": 252,
+      "county_name": "giżycki",
+      "latitude": 53.9386839,
+      "longitude": 21.5440643
+    },
+    {
+      "city_id": 742,
+      "name": "Susz",
+      "slug": "susz",
+      "name_locative": "Suszu",
+      "county_id": 253,
+      "county_name": "iławski",
+      "latitude": 53.7166619,
+      "longitude": 19.3385289
+    },
+    {
+      "city_id": 767,
+      "name": "Szczytno",
+      "slug": "szczytno",
+      "name_locative": "Szczytnie",
+      "county_id": 263,
+      "county_name": "szczycieński",
+      "latitude": 53.56373295,
+      "longitude": 20.99686362
+    },
+    {
+      "city_id": 727,
+      "name": "Sępopol",
+      "slug": "sepopol",
+      "name_locative": "Sępopolu",
+      "county_id": 247,
+      "county_name": "bartoszycki",
+      "latitude": 54.264716,
+      "longitude": 21.0146462
+    },
+    {
+      "city_id": 735,
+      "name": "Tolkmicko",
+      "slug": "tolkmicko",
+      "name_locative": "Tolkmicku",
+      "county_id": 250,
+      "county_name": "elbląski",
+      "latitude": 54.3202314,
+      "longitude": 19.5269874
+    },
+    {
+      "city_id": 769,
+      "name": "Wielbark",
+      "slug": "wielbark",
+      "name_locative": "Wielbarku",
+      "county_id": 263,
+      "county_name": "szczycieński",
+      "latitude": 53.3984244,
+      "longitude": 20.9462724
+    },
+    {
+      "city_id": 771,
+      "name": "Węgorzewo",
+      "slug": "wegorzewo",
+      "name_locative": "Węgorzewie",
+      "county_id": 265,
+      "county_name": "węgorzewski",
+      "latitude": 54.2138162,
+      "longitude": 21.7416569
+    },
+    {
+      "city_id": 743,
+      "name": "Zalewo",
+      "slug": "zalewo",
+      "name_locative": "Zalewie",
+      "county_id": 253,
+      "county_name": "iławski",
+      "latitude": 53.8458768,
+      "longitude": 19.606118
+    }
+  ],
+  "meta": {
+    "title": "Województwo warmińsko-mazurskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie warmińsko-mazurskim (województwo warmińsko-mazurskie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the warmińsko-mazurskie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 48 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo warmińsko-mazurskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo warmińsko-mazurskie — miasta — 48 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 48 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "id": "geo-emergency-numbers",
+  "name": "Zbiór Danych: Globalne Numery Telefonów Alarmowych wg Krajów",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "police",
+      "label": "Police",
+      "type": "string"
+    },
+    {
+      "key": "fire",
+      "label": "Fire",
+      "type": "string"
+    },
+    {
+      "key": "ambulance",
+      "label": "Ambulance",
+      "type": "string"
+    },
+    {
+      "key": "general",
+      "label": "General Emergency",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Argentyna",
+      "iso_code": "AR",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "107",
+      "general": "911",
+      "notes": "SAME dla medycyny"
+    },
+    {
+      "country": "Australia",
+      "iso_code": "AU",
+      "police": "000",
+      "fire": "000",
+      "ambulance": "000",
+      "general": "000",
+      "notes": "112 z telefonów komórkowych"
+    },
+    {
+      "country": "Austria",
+      "iso_code": "AT",
+      "police": "133",
+      "fire": "122",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "Standard UE 112 również działa"
+    },
+    {
+      "country": "Bangladesz",
+      "iso_code": "BD",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Krajowy numer alarmowy"
+    },
+    {
+      "country": "Belgia",
+      "iso_code": "BE",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "100",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Brazylia",
+      "iso_code": "BR",
+      "police": "190",
+      "fire": "193",
+      "ambulance": "192",
+      "general": "190",
+      "notes": "SAMU: 192"
+    },
+    {
+      "country": "Bułgaria",
+      "iso_code": "BG",
+      "police": "166",
+      "fire": "160",
+      "ambulance": "150",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Kanada",
+      "iso_code": "CA",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Uniwersalny numer alarmowy"
+    },
+    {
+      "country": "Chile",
+      "iso_code": "CL",
+      "police": "133",
+      "fire": "132",
+      "ambulance": "131",
+      "general": "131",
+      "notes": "Carabineros: 133"
+    },
+    {
+      "country": "Chiny",
+      "iso_code": "CN",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "120",
+      "general": "110",
+      "notes": "Ruch drogowy: 122"
+    },
+    {
+      "country": "Kolumbia",
+      "iso_code": "CO",
+      "police": "123",
+      "fire": "119",
+      "ambulance": "123",
+      "general": "123",
+      "notes": "Zunifikowane NUSE"
+    },
+    {
+      "country": "Chorwacja",
+      "iso_code": "HR",
+      "police": "192",
+      "fire": "193",
+      "ambulance": "194",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Cypr",
+      "iso_code": "CY",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Czechy",
+      "iso_code": "CZ",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Dania",
+      "iso_code": "DK",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Egipt",
+      "iso_code": "EG",
+      "police": "122",
+      "fire": "180",
+      "ambulance": "123",
+      "general": "122",
+      "notes": "Policja turystyczna: 126"
+    },
+    {
+      "country": "Estonia",
+      "iso_code": "EE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Etiopia",
+      "iso_code": "ET",
+      "police": "991",
+      "fire": "939",
+      "ambulance": "907",
+      "general": "991",
+      "notes": "Czerwony Krzyż: 907"
+    },
+    {
+      "country": "Finlandia",
+      "iso_code": "FI",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Francja",
+      "iso_code": "FR",
+      "police": "17",
+      "fire": "18",
+      "ambulance": "15",
+      "general": "112",
+      "notes": "SAMU dla medycyny"
+    },
+    {
+      "country": "Niemcy",
+      "iso_code": "DE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Ghana",
+      "iso_code": "GH",
+      "police": "191",
+      "fire": "192",
+      "ambulance": "193",
+      "general": "112",
+      "notes": "112 ujednolicony"
+    },
+    {
+      "country": "Grecja",
+      "iso_code": "GR",
+      "police": "100",
+      "fire": "199",
+      "ambulance": "166",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Hongkong",
+      "iso_code": "HK",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Węgry",
+      "iso_code": "HU",
+      "police": "107",
+      "fire": "105",
+      "ambulance": "104",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Indie",
+      "iso_code": "IN",
+      "police": "100",
+      "fire": "101",
+      "ambulance": "102",
+      "general": "112",
+      "notes": "112 ujednolicony (ERSS)"
+    },
+    {
+      "country": "Indonezja",
+      "iso_code": "ID",
+      "police": "110",
+      "fire": "113",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "112 ujednolicony"
+    },
+    {
+      "country": "Irlandia",
+      "iso_code": "IE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "999 również działa"
+    },
+    {
+      "country": "Izrael",
+      "iso_code": "IL",
+      "police": "100",
+      "fire": "102",
+      "ambulance": "101",
+      "general": "100",
+      "notes": "Karetka MDA"
+    },
+    {
+      "country": "Włochy",
+      "iso_code": "IT",
+      "police": "113",
+      "fire": "115",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "Carabinieri: 112"
+    },
+    {
+      "country": "Japonia",
+      "iso_code": "JP",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Straż pożarna i karetka to ten sam numer"
+    },
+    {
+      "country": "Jordania",
+      "iso_code": "JO",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Ujednolicony system"
+    },
+    {
+      "country": "Kenia",
+      "iso_code": "KE",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Kuwejt",
+      "iso_code": "KW",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Łotwa",
+      "iso_code": "LV",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Liban",
+      "iso_code": "LB",
+      "police": "112",
+      "fire": "175",
+      "ambulance": "140",
+      "general": "112",
+      "notes": "Czerwony Krzyż: 140"
+    },
+    {
+      "country": "Litwa",
+      "iso_code": "LT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Luksemburg",
+      "iso_code": "LU",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Malezja",
+      "iso_code": "MY",
+      "police": "999",
+      "fire": "994",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Meksyk",
+      "iso_code": "MX",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Ujednolicono od 2017 r."
+    },
+    {
+      "country": "Maroko",
+      "iso_code": "MA",
+      "police": "19",
+      "fire": "15",
+      "ambulance": "15",
+      "general": "19",
+      "notes": "SAMU: 141"
+    },
+    {
+      "country": "Holandia",
+      "iso_code": "NL",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Nowa Zelandia",
+      "iso_code": "NZ",
+      "police": "111",
+      "fire": "111",
+      "ambulance": "111",
+      "general": "111",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Nigeria",
+      "iso_code": "NG",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "112 ujednolicone"
+    },
+    {
+      "country": "Norwegia",
+      "iso_code": "NO",
+      "police": "112",
+      "fire": "110",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "police": "15",
+      "fire": "16",
+      "ambulance": "115",
+      "general": "15",
+      "notes": "Ratownictwo 1122 w Pendżabie"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "police": "105",
+      "fire": "116",
+      "ambulance": "117",
+      "general": "105",
+      "notes": "Policja PNP"
+    },
+    {
+      "country": "Filipiny",
+      "iso_code": "PH",
+      "police": "117",
+      "fire": "160",
+      "ambulance": "161",
+      "general": "911",
+      "notes": "911 od 2016 r."
+    },
+    {
+      "country": "Polska",
+      "iso_code": "PL",
+      "police": "997",
+      "fire": "998",
+      "ambulance": "999",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Portugalia",
+      "iso_code": "PT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Katar",
+      "iso_code": "QA",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Jeden numer"
+    },
+    {
+      "country": "Rumunia",
+      "iso_code": "RO",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer dla wszystkich"
+    },
+    {
+      "country": "Rosja",
+      "iso_code": "RU",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 ujednolicone"
+    },
+    {
+      "country": "Arabia Saudyjska",
+      "iso_code": "SA",
+      "police": "999",
+      "fire": "998",
+      "ambulance": "997",
+      "general": "911",
+      "notes": "911 ujednolicone"
+    },
+    {
+      "country": "Singapur",
+      "iso_code": "SG",
+      "police": "999",
+      "fire": "995",
+      "ambulance": "995",
+      "general": "999",
+      "notes": "Straż pożarna i pogotowie ratunkowe ten sam numer"
+    },
+    {
+      "country": "Słowacja",
+      "iso_code": "SK",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Słowenia",
+      "iso_code": "SI",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "RPA (Republika Południowej Afryki)",
+      "iso_code": "ZA",
+      "police": "10111",
+      "fire": "10177",
+      "ambulance": "10177",
+      "general": "112",
+      "notes": "112 z telefonów komórkowych"
+    },
+    {
+      "country": "Korea Południowa",
+      "iso_code": "KR",
+      "police": "112",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "112",
+      "notes": "Straż pożarna i pogotowie ratunkowe ten sam numer"
+    },
+    {
+      "country": "Hiszpania",
+      "iso_code": "ES",
+      "police": "091",
+      "fire": "080",
+      "ambulance": "061",
+      "general": "112",
+      "notes": "Standard UE 112"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso_code": "LK",
+      "police": "119",
+      "fire": "110",
+      "ambulance": "110",
+      "general": "119",
+      "notes": "Suwa Seriya: 1990"
+    },
+    {
+      "country": "Szwecja",
+      "iso_code": "SE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Jeden numer do wszystkich służb"
+    },
+    {
+      "country": "Szwajcaria",
+      "iso_code": "CH",
+      "police": "117",
+      "fire": "118",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "112 przekierowuje na 117"
+    },
+    {
+      "country": "Tajwan",
+      "iso_code": "TW",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Straż pożarna i pogotowie ratunkowe to samo"
+    },
+    {
+      "country": "Tajlandia",
+      "iso_code": "TH",
+      "police": "191",
+      "fire": "199",
+      "ambulance": "1669",
+      "general": "191",
+      "notes": "Policja turystyczna: 1155"
+    },
+    {
+      "country": "Turcja",
+      "iso_code": "TR",
+      "police": "155",
+      "fire": "110",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "112 ujednolicone"
+    },
+    {
+      "country": "Ukraina",
+      "iso_code": "UA",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 ujednolicone"
+    },
+    {
+      "country": "Zjednoczone Emiraty Arabskie",
+      "iso_code": "AE",
+      "police": "999",
+      "fire": "997",
+      "ambulance": "998",
+      "general": "999",
+      "notes": "Dubaj: 901"
+    },
+    {
+      "country": "Wielka Brytania",
+      "iso_code": "GB",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "112 również działa"
+    },
+    {
+      "country": "Stany Zjednoczone",
+      "iso_code": "US",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Uniwersalny numer alarmowy"
+    },
+    {
+      "country": "Wenezuela",
+      "iso_code": "VE",
+      "police": "171",
+      "fire": "171",
+      "ambulance": "171",
+      "general": "171",
+      "notes": "Ujednolicony system"
+    },
+    {
+      "country": "Wietnam",
+      "iso_code": "VN",
+      "police": "113",
+      "fire": "114",
+      "ambulance": "115",
+      "general": "113",
+      "notes": "Oddzielne numery"
+    }
+  ],
+  "meta": {
+    "seo_title": "Numery Alarmowe wg Krajów - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie kluczowe numery alarmowe dla 73 krajów. Numery policji, straży pożarnej i pogotowia. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Zbiór Danych: Globalne Numery Telefonów Alarmowych wg Krajów",
+    "description": "Ten zbiór danych zawiera kompleksową listę numerów telefonów alarmowych (Policja, Straż Pożarna, Pogotowie Ratunkowe, Ogólny Numer Alarmowy) dla 73 krajów na całym świecie, wraz z kodami ISO i szczegółowymi notatkami. Jest to nieocenione źródło dla podróżnych, programistów i badaczy.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do kompleksowej listy numerów służb ratunkowych dla 73 krajów.",
+      "Przeglądaj bezpośrednie kontakty do Policji, Straży Pożarnej, Pogotowia i ogólnych linii alarmowych.",
+      "Pobierz kluczowe, specyficzne dla kraju dane alarmowe w wielu wygodnych formatach.",
+      "Pozyskaj kody ISO i ważne uwagi dotyczące służb ratunkowych każdego kraju."
+    ],
+    "keywords": [
+      "numery alarmowe według kraju",
+      "światowe kontakty alarmowe",
+      "numery policja straż pogotowie",
+      "globalne służby ratunkowe csv",
+      "numery alarmowe krajów excel",
+      "międzynarodowe kody alarmowe"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub aplikacji, aby zintegrować wyszukiwanie kontaktów alarmowych w czasie rzeczywistym dla użytkowników międzynarodowych lub aplikacji podróżnych.",
+      "Użyj pliku **Excel** do szybkiego filtrowania, analizy i raportowania wzorców numerów alarmowych, tworząc zwięzły arkusz referencyjny dla zespołów zarządzania kryzysowego.",
+      "Wydrukuj wersję **PDF** jako namacalny, offline przewodnik referencyjny, idealny dla podróżnych, edukatorów lub do zestawów gotowości awaryjnej, gdzie dostęp do internetu może być ograniczony.",
+      "Wykorzystaj ten zbiór danych do ulepszania aplikacji bezpieczeństwa publicznego, rozwijania przewodników turystycznych lub wspierania badań nad globalnymi systemami reagowania kryzysowego i ich dostępnością."
+    ]
+  },
+  "record_count": 73,
+  "title": "Zbiór Danych: Globalne Numery Telefonów Alarmowych wg Krajów"
+}

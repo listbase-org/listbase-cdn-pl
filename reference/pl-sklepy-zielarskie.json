@@ -1,0 +1,1441 @@
+{
+  "id": "pl-sklepy-zielarskie",
+  "name": "Polska — sklepy zielarskie",
+  "title": "Polska — sklepy zielarskie",
+  "description": "Sklepy zielarskie w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Dobre Ziółko\" Sklep Zielarsko-Medyczny",
+      "latitude": 50.716344,
+      "longitude": 23.253568
+    },
+    {
+      "name": "abc natury",
+      "latitude": 50.294879,
+      "longitude": 18.676753
+    },
+    {
+      "name": "ABC Zdrowia",
+      "latitude": 50.606735,
+      "longitude": 19.000339
+    },
+    {
+      "name": "Aloes",
+      "latitude": 53.427166,
+      "longitude": 14.533944
+    },
+    {
+      "name": "Aloes Sklep Zielarsko-Medyczny",
+      "latitude": 50.049079,
+      "longitude": 18.474741
+    },
+    {
+      "name": "Amara",
+      "latitude": 52.292724,
+      "longitude": 20.935342
+    },
+    {
+      "name": "Andrzejczuk",
+      "latitude": 51.050841,
+      "longitude": 16.192827
+    },
+    {
+      "name": "Api-Herba",
+      "latitude": 50.050492,
+      "longitude": 21.410207
+    },
+    {
+      "name": "Apteczka Ziołowa",
+      "latitude": 50.639626,
+      "longitude": 20.303879
+    },
+    {
+      "name": "Arnika",
+      "latitude": 50.871564,
+      "longitude": 20.623535
+    },
+    {
+      "name": "Arnika",
+      "latitude": 52.075673,
+      "longitude": 21.021463
+    },
+    {
+      "name": "Arnika",
+      "latitude": 52.224271,
+      "longitude": 21.094389
+    },
+    {
+      "name": "Arnika. Sklep zielarski",
+      "latitude": 51.809007,
+      "longitude": 16.313795
+    },
+    {
+      "name": "Aspirynka",
+      "latitude": 49.878623,
+      "longitude": 19.497332
+    },
+    {
+      "name": "Aspirynka",
+      "latitude": 53.104611,
+      "longitude": 23.144567
+    },
+    {
+      "name": "Aura Sklep Zielarsko-Medyczny",
+      "latitude": 51.22949,
+      "longitude": 22.520137
+    },
+    {
+      "name": "Bio",
+      "latitude": 49.744988,
+      "longitude": 21.471281
+    },
+    {
+      "name": "Biolit",
+      "latitude": 50.261744,
+      "longitude": 19.021826
+    },
+    {
+      "name": "Biorytm",
+      "latitude": 52.194669,
+      "longitude": 20.874435
+    },
+    {
+      "name": "Bliżej Natury",
+      "latitude": 51.842775,
+      "longitude": 16.576908
+    },
+    {
+      "name": "Bratek",
+      "latitude": 50.445728,
+      "longitude": 18.856772
+    },
+    {
+      "name": "Bratek",
+      "latitude": 50.938789,
+      "longitude": 21.388064
+    },
+    {
+      "name": "Bratek",
+      "latitude": 52.085851,
+      "longitude": 16.645163
+    },
+    {
+      "name": "Bławatek",
+      "latitude": 49.696101,
+      "longitude": 21.753483
+    },
+    {
+      "name": "Bławatek",
+      "latitude": 54.185533,
+      "longitude": 16.187804
+    },
+    {
+      "name": "Canabis Shop",
+      "latitude": 50.057662,
+      "longitude": 19.944325
+    },
+    {
+      "name": "Centrum Natury Flora",
+      "latitude": 50.87191,
+      "longitude": 20.634055
+    },
+    {
+      "name": "Centrum Zielarsko Medyczne",
+      "latitude": 50.528322,
+      "longitude": 22.715465
+    },
+    {
+      "name": "Centuria",
+      "latitude": 54.408716,
+      "longitude": 18.555792
+    },
+    {
+      "name": "Cuda natury",
+      "latitude": 51.93458,
+      "longitude": 15.48137
+    },
+    {
+      "name": "Cztery Pory Roku",
+      "latitude": 51.938926,
+      "longitude": 15.479411
+    },
+    {
+      "name": "Dary Natury",
+      "latitude": 52.22048,
+      "longitude": 21.017806
+    },
+    {
+      "name": "Dary Natury",
+      "latitude": 52.232276,
+      "longitude": 20.991926
+    },
+    {
+      "name": "Dary Zdrowia",
+      "latitude": 53.427356,
+      "longitude": 14.534867
+    },
+    {
+      "name": "DC Zioło-Lek",
+      "latitude": 49.564147,
+      "longitude": 20.636129
+    },
+    {
+      "name": "Dobre zdrowie",
+      "latitude": 51.042111,
+      "longitude": 21.081398
+    },
+    {
+      "name": "Dobre Zioło",
+      "latitude": 53.86565,
+      "longitude": 20.95382
+    },
+    {
+      "name": "Dom Natury",
+      "latitude": 50.468111,
+      "longitude": 19.236143
+    },
+    {
+      "name": "EkaMedica",
+      "latitude": 51.116141,
+      "longitude": 20.87744
+    },
+    {
+      "name": "Eko Sklep",
+      "latitude": 50.870229,
+      "longitude": 20.629218
+    },
+    {
+      "name": "Eko Zielarka",
+      "latitude": 51.985882,
+      "longitude": 21.214188
+    },
+    {
+      "name": "Eko Zioła",
+      "latitude": 54.420524,
+      "longitude": 18.579344
+    },
+    {
+      "name": "Eko-Flos",
+      "latitude": 50.167709,
+      "longitude": 18.905551
+    },
+    {
+      "name": "Eko-zdrowie",
+      "latitude": 52.24045,
+      "longitude": 21.102266
+    },
+    {
+      "name": "Eko-Ziółko",
+      "latitude": 51.416081,
+      "longitude": 18.602786
+    },
+    {
+      "name": "Eliksir",
+      "latitude": 51.396387,
+      "longitude": 21.155475
+    },
+    {
+      "name": "Emilia",
+      "latitude": 49.687156,
+      "longitude": 21.774076
+    },
+    {
+      "name": "Enaturalnie.pl - Sklep Ekologiczny",
+      "latitude": 53.141136,
+      "longitude": 23.071209
+    },
+    {
+      "name": "Fabryka Zdrowia",
+      "latitude": 51.476354,
+      "longitude": 21.44109
+    },
+    {
+      "name": "Five o'clock",
+      "latitude": 52.382653,
+      "longitude": 16.994377
+    },
+    {
+      "name": "Fragaria",
+      "latitude": 54.409067,
+      "longitude": 18.586579
+    },
+    {
+      "name": "Go Herbs",
+      "latitude": 52.404849,
+      "longitude": 16.860946
+    },
+    {
+      "name": "Green Flower",
+      "latitude": 53.137695,
+      "longitude": 17.603983
+    },
+    {
+      "name": "Green Shop",
+      "latitude": 51.749257,
+      "longitude": 19.326175
+    },
+    {
+      "name": "Herba Medica",
+      "latitude": 50.268145,
+      "longitude": 19.023454
+    },
+    {
+      "name": "Herba Nova",
+      "latitude": 53.432282,
+      "longitude": 14.550357
+    },
+    {
+      "name": "HERBA Sklep Zielarsko Medyczny",
+      "latitude": 51.600403,
+      "longitude": 18.937587
+    },
+    {
+      "name": "Herba Vita",
+      "latitude": 51.546778,
+      "longitude": 23.553314
+    },
+    {
+      "name": "Herba-Farm Zielarski",
+      "latitude": 53.254067,
+      "longitude": 19.403294
+    },
+    {
+      "name": "Herba-Lek",
+      "latitude": 50.224423,
+      "longitude": 19.069518
+    },
+    {
+      "name": "Herbal",
+      "latitude": 52.644835,
+      "longitude": 16.809334
+    },
+    {
+      "name": "Herbapol",
+      "latitude": 50.096401,
+      "longitude": 18.541672
+    },
+    {
+      "name": "Herbapol",
+      "latitude": 51.120089,
+      "longitude": 17.040185
+    },
+    {
+      "name": "Herbaria",
+      "latitude": 51.206246,
+      "longitude": 16.158748
+    },
+    {
+      "name": "Herbarium",
+      "latitude": 50.071517,
+      "longitude": 19.936641
+    },
+    {
+      "name": "Herbarium",
+      "latitude": 50.297307,
+      "longitude": 21.425594
+    },
+    {
+      "name": "Herbavital",
+      "latitude": 50.037706,
+      "longitude": 19.940875
+    },
+    {
+      "name": "Herbia Sklep Zielarsko-medyczny",
+      "latitude": 51.652095,
+      "longitude": 17.814344
+    },
+    {
+      "name": "Herbio",
+      "latitude": 50.012293,
+      "longitude": 19.926611
+    },
+    {
+      "name": "Herbis-Med",
+      "latitude": 49.689843,
+      "longitude": 21.769979
+    },
+    {
+      "name": "Herbola",
+      "latitude": 49.559957,
+      "longitude": 22.203126
+    },
+    {
+      "name": "Herbolek",
+      "latitude": 50.301724,
+      "longitude": 18.851921
+    },
+    {
+      "name": "Hibiscus",
+      "latitude": 50.325434,
+      "longitude": 19.181124
+    },
+    {
+      "name": "Holis Medico",
+      "latitude": 50.871024,
+      "longitude": 20.623161
+    },
+    {
+      "name": "Hysperyd",
+      "latitude": 53.708999,
+      "longitude": 16.69756
+    },
+    {
+      "name": "IMC - sklep zielarski",
+      "latitude": 53.382126,
+      "longitude": 14.631466
+    },
+    {
+      "name": "Impress Pharma",
+      "latitude": 52.279207,
+      "longitude": 20.983304
+    },
+    {
+      "name": "Infusio",
+      "latitude": 51.981779,
+      "longitude": 21.217597
+    },
+    {
+      "name": "K-Link",
+      "latitude": 50.040168,
+      "longitude": 22.004256
+    },
+    {
+      "name": "Kalanchoe",
+      "latitude": 52.200011,
+      "longitude": 20.914561
+    },
+    {
+      "name": "Kaszubskie Zioła",
+      "latitude": 54.146534,
+      "longitude": 17.610309
+    },
+    {
+      "name": "Kocanka",
+      "latitude": 51.100017,
+      "longitude": 17.02947
+    },
+    {
+      "name": "Konopielka",
+      "latitude": 51.802962,
+      "longitude": 15.721477
+    },
+    {
+      "name": "Konopna Farmacja",
+      "latitude": 50.259947,
+      "longitude": 19.015533
+    },
+    {
+      "name": "Królewska Zielarnia",
+      "latitude": 51.246996,
+      "longitude": 22.565913
+    },
+    {
+      "name": "Królewska zielarnia",
+      "latitude": 51.247743,
+      "longitude": 22.551727
+    },
+    {
+      "name": "Lalka",
+      "latitude": 50.864974,
+      "longitude": 15.680687
+    },
+    {
+      "name": "Lawenda",
+      "latitude": 50.038221,
+      "longitude": 22.00197
+    },
+    {
+      "name": "Lawenda",
+      "latitude": 51.108248,
+      "longitude": 17.026737
+    },
+    {
+      "name": "Lawendowy Ląd",
+      "latitude": 52.20531,
+      "longitude": 17.884111
+    },
+    {
+      "name": "Lek-Natura",
+      "latitude": 54.251999,
+      "longitude": 20.810631
+    },
+    {
+      "name": "Leki Natury",
+      "latitude": 51.210379,
+      "longitude": 17.394799
+    },
+    {
+      "name": "Leki Natury",
+      "latitude": 54.122551,
+      "longitude": 17.975823
+    },
+    {
+      "name": "Leki z natury. Sklep zielarsko-medyczny",
+      "latitude": 53.765552,
+      "longitude": 20.429518
+    },
+    {
+      "name": "Lilia Ekozielarnia",
+      "latitude": 51.20889,
+      "longitude": 16.181717
+    },
+    {
+      "name": "Malwa",
+      "latitude": 51.089972,
+      "longitude": 16.992645
+    },
+    {
+      "name": "Medicus",
+      "latitude": 52.209225,
+      "longitude": 20.976908
+    },
+    {
+      "name": "Medicus",
+      "latitude": 53.017841,
+      "longitude": 18.599966
+    },
+    {
+      "name": "Medicus",
+      "latitude": 54.829036,
+      "longitude": 18.209869
+    },
+    {
+      "name": "Melisa",
+      "latitude": 50.294355,
+      "longitude": 21.439844
+    },
+    {
+      "name": "MELISA",
+      "latitude": 50.438691,
+      "longitude": 16.655362
+    },
+    {
+      "name": "Melisa",
+      "latitude": 50.875474,
+      "longitude": 20.611274
+    },
+    {
+      "name": "Melisa",
+      "latitude": 52.327265,
+      "longitude": 17.564477
+    },
+    {
+      "name": "Melisa",
+      "latitude": 54.17066,
+      "longitude": 19.402391
+    },
+    {
+      "name": "Melisa",
+      "latitude": 54.381939,
+      "longitude": 18.613009
+    },
+    {
+      "name": "Melisa - Sklep zielarski",
+      "latitude": 50.091604,
+      "longitude": 18.216753
+    },
+    {
+      "name": "Melissa",
+      "latitude": 52.230526,
+      "longitude": 18.250552
+    },
+    {
+      "name": "Mewa",
+      "latitude": 50.705775,
+      "longitude": 22.410828
+    },
+    {
+      "name": "Mniszek sklep zielarsko-medyczny",
+      "latitude": 50.866764,
+      "longitude": 20.636371
+    },
+    {
+      "name": "Moc Natury",
+      "latitude": 52.880102,
+      "longitude": 18.789248
+    },
+    {
+      "name": "Moja Zielarnia",
+      "latitude": 52.315973,
+      "longitude": 16.131747
+    },
+    {
+      "name": "Na Zdrowie",
+      "latitude": 51.208252,
+      "longitude": 16.163622
+    },
+    {
+      "name": "Na zdrowie",
+      "latitude": 52.995731,
+      "longitude": 16.923972
+    },
+    {
+      "name": "Na zdrowie",
+      "latitude": 53.15001,
+      "longitude": 16.736913
+    },
+    {
+      "name": "Nagietek",
+      "latitude": 50.285823,
+      "longitude": 21.420515
+    },
+    {
+      "name": "nagietek",
+      "latitude": 54.392664,
+      "longitude": 18.610108
+    },
+    {
+      "name": "Natur House",
+      "latitude": 50.001865,
+      "longitude": 18.4645
+    },
+    {
+      "name": "Natur House",
+      "latitude": 51.718444,
+      "longitude": 19.487533
+    },
+    {
+      "name": "Natur-farm",
+      "latitude": 51.609259,
+      "longitude": 16.857179
+    },
+    {
+      "name": "NATURA",
+      "latitude": 50.491093,
+      "longitude": 19.432304
+    },
+    {
+      "name": "Natura",
+      "latitude": 50.728075,
+      "longitude": 16.651564
+    },
+    {
+      "name": "Natura",
+      "latitude": 52.232189,
+      "longitude": 20.959232
+    },
+    {
+      "name": "Natura & Zdrowie",
+      "latitude": 49.686439,
+      "longitude": 19.194408
+    },
+    {
+      "name": "Natural-Med",
+      "latitude": 49.678467,
+      "longitude": 21.806321
+    },
+    {
+      "name": "Naturalna Medycyna",
+      "latitude": 52.244896,
+      "longitude": 21.091775
+    },
+    {
+      "name": "Naturalne Terapie",
+      "latitude": 50.076916,
+      "longitude": 19.905606
+    },
+    {
+      "name": "Naturalny Market",
+      "latitude": 51.119343,
+      "longitude": 17.042266
+    },
+    {
+      "name": "Niezłe Ziółko",
+      "latitude": 50.46967,
+      "longitude": 20.719218
+    },
+    {
+      "name": "Olinatura",
+      "latitude": 50.698934,
+      "longitude": 20.454985
+    },
+    {
+      "name": "Opio",
+      "latitude": 54.383184,
+      "longitude": 18.589495
+    },
+    {
+      "name": "Panaceum",
+      "latitude": 50.245188,
+      "longitude": 21.776505
+    },
+    {
+      "name": "Pełne Zdrowia",
+      "latitude": 50.860695,
+      "longitude": 17.471212
+    },
+    {
+      "name": "PHU J. Świder",
+      "latitude": 54.515599,
+      "longitude": 18.532012
+    },
+    {
+      "name": "Przystanek Zdrowia",
+      "latitude": 50.031291,
+      "longitude": 19.921143
+    },
+    {
+      "name": "Republika Ziół",
+      "latitude": 52.448346,
+      "longitude": 16.894443
+    },
+    {
+      "name": "Rosa Canina",
+      "latitude": 53.135806,
+      "longitude": 23.152357
+    },
+    {
+      "name": "Rozkoszna Zielarnia",
+      "latitude": 50.235927,
+      "longitude": 19.128795
+    },
+    {
+      "name": "Rozmaryn",
+      "latitude": 53.539585,
+      "longitude": 14.551331
+    },
+    {
+      "name": "Rumianek",
+      "latitude": 50.698982,
+      "longitude": 17.384975
+    },
+    {
+      "name": "Rumianek",
+      "latitude": 52.194998,
+      "longitude": 20.886759
+    },
+    {
+      "name": "Rumianek Sklep Zielarski",
+      "latitude": 50.203921,
+      "longitude": 19.274744
+    },
+    {
+      "name": "Salvia",
+      "latitude": 52.130942,
+      "longitude": 21.056769
+    },
+    {
+      "name": "SEZAM sklep zielarski i zdrowa żywność",
+      "latitude": 52.071999,
+      "longitude": 21.02515
+    },
+    {
+      "name": "Sklep Klasztorny",
+      "latitude": 50.01869,
+      "longitude": 19.801399
+    },
+    {
+      "name": "Sklep Uzdrowisko",
+      "latitude": 51.119483,
+      "longitude": 17.038774
+    },
+    {
+      "name": "Sklep Uzdrowiskowy",
+      "latitude": 50.86507,
+      "longitude": 15.680752
+    },
+    {
+      "name": "Sklep wiejski",
+      "latitude": 52.641435,
+      "longitude": 22.760154
+    },
+    {
+      "name": "Sklep zielarski",
+      "latitude": 53.121824,
+      "longitude": 17.969559
+    },
+    {
+      "name": "Sklep zielarski",
+      "latitude": 53.344909,
+      "longitude": 15.030968
+    },
+    {
+      "name": "Sklep zielarski",
+      "latitude": 54.334453,
+      "longitude": 18.20165
+    },
+    {
+      "name": "Sklep Zielarski Melisa",
+      "latitude": 51.308604,
+      "longitude": 17.059921
+    },
+    {
+      "name": "Sklep Zielarski Natura",
+      "latitude": 52.236374,
+      "longitude": 20.972062
+    },
+    {
+      "name": "Sklep Zielarski Surya",
+      "latitude": 51.301029,
+      "longitude": 16.916864
+    },
+    {
+      "name": "Sklep zielarski Zioła i Vege",
+      "latitude": 51.7649,
+      "longitude": 19.450961
+    },
+    {
+      "name": "Sklep zielarsko - medyczny",
+      "latitude": 53.079794,
+      "longitude": 21.574364
+    },
+    {
+      "name": "Sklep Zielarsko - Medyczny im. brata Bronisława Glanca MS w Dębowcu",
+      "latitude": 49.683379,
+      "longitude": 21.465622
+    },
+    {
+      "name": "Sklep zielarsko - medyczny mgr Teresa Szymańska",
+      "latitude": 49.894517,
+      "longitude": 21.053958
+    },
+    {
+      "name": "Sklep zielarsko - medyczny „Kalma”",
+      "latitude": 50.399588,
+      "longitude": 18.901681
+    },
+    {
+      "name": "Sklep Zielarsko -Medyczny \"Stokrotka\"",
+      "latitude": 51.403885,
+      "longitude": 16.183117
+    },
+    {
+      "name": "Sklep Zielarsko Medyczny",
+      "latitude": 50.066583,
+      "longitude": 22.231997
+    },
+    {
+      "name": "Sklep zielarsko-medyczny",
+      "latitude": 49.822959,
+      "longitude": 19.053571
+    },
+    {
+      "name": "Sklep Zielarsko-Medyczny",
+      "latitude": 50.037744,
+      "longitude": 22.008155
+    },
+    {
+      "name": "Sklep zielarsko-medyczny",
+      "latitude": 50.143773,
+      "longitude": 19.183201
+    },
+    {
+      "name": "Sklep zielarsko-medyczny",
+      "latitude": 50.167227,
+      "longitude": 18.904478
+    },
+    {
+      "name": "Sklep zielarsko-medyczny",
+      "latitude": 50.573697,
+      "longitude": 21.674544
+    },
+    {
+      "name": "Sklep zielarsko-medyczny",
+      "latitude": 51.934174,
+      "longitude": 15.481563
+    },
+    {
+      "name": "Sklep Zielarsko-Medyczny",
+      "latitude": 52.796332,
+      "longitude": 18.258406
+    },
+    {
+      "name": "Sklep Zielarsko-Medyczny ARJUNA",
+      "latitude": 49.923939,
+      "longitude": 19.001104
+    },
+    {
+      "name": "Sklep zielarsko-medyczny Medyk",
+      "latitude": 54.700006,
+      "longitude": 18.677362
+    },
+    {
+      "name": "Sklep Zielarsko-Medyczny SAWA",
+      "latitude": 50.4703,
+      "longitude": 20.71815
+    },
+    {
+      "name": "Sklep zielarsko-medyczny Vitanalis",
+      "latitude": 50.223896,
+      "longitude": 19.061385
+    },
+    {
+      "name": "Sklepik Ziołowy",
+      "latitude": 52.640683,
+      "longitude": 22.760168
+    },
+    {
+      "name": "Smyk Sklep Zielarski",
+      "latitude": 49.813798,
+      "longitude": 20.594552
+    },
+    {
+      "name": "Stara Zielarnia",
+      "latitude": 52.333683,
+      "longitude": 20.941065
+    },
+    {
+      "name": "Strefa Zdrowia",
+      "latitude": 50.535261,
+      "longitude": 22.720541
+    },
+    {
+      "name": "Studencka",
+      "latitude": 50.062706,
+      "longitude": 19.931023
+    },
+    {
+      "name": "studioDIETY",
+      "latitude": 54.467521,
+      "longitude": 17.021026
+    },
+    {
+      "name": "Tabak",
+      "latitude": 50.267428,
+      "longitude": 19.460836
+    },
+    {
+      "name": "Tilia",
+      "latitude": 49.97487,
+      "longitude": 19.827775
+    },
+    {
+      "name": "Tilia zielarnia",
+      "latitude": 51.940396,
+      "longitude": 15.505835
+    },
+    {
+      "name": "Twoje Zdrowie",
+      "latitude": 49.68904,
+      "longitude": 19.199723
+    },
+    {
+      "name": "Twoje Zdrowie",
+      "latitude": 50.458979,
+      "longitude": 20.722155
+    },
+    {
+      "name": "U Gwoździkowej",
+      "latitude": 50.243389,
+      "longitude": 18.844258
+    },
+    {
+      "name": "URVIT",
+      "latitude": 52.461157,
+      "longitude": 16.920711
+    },
+    {
+      "name": "Vape & weed shop. Elite style",
+      "latitude": 51.981914,
+      "longitude": 21.215819
+    },
+    {
+      "name": "Vegetarius",
+      "latitude": 53.132146,
+      "longitude": 23.151358
+    },
+    {
+      "name": "Venga",
+      "latitude": 50.984707,
+      "longitude": 23.172581
+    },
+    {
+      "name": "Vita-Style",
+      "latitude": 49.984123,
+      "longitude": 20.064207
+    },
+    {
+      "name": "Vitania",
+      "latitude": 54.388235,
+      "longitude": 18.606247
+    },
+    {
+      "name": "W Zdrowiu",
+      "latitude": 50.010656,
+      "longitude": 20.986204
+    },
+    {
+      "name": "W Zgodzie z Naturą",
+      "latitude": 54.354335,
+      "longitude": 18.376805
+    },
+    {
+      "name": "Waleria",
+      "latitude": 53.010896,
+      "longitude": 18.605974
+    },
+    {
+      "name": "Wiesiołek",
+      "latitude": 49.705922,
+      "longitude": 20.425418
+    },
+    {
+      "name": "Wiesiołek",
+      "latitude": 53.395037,
+      "longitude": 14.666633
+    },
+    {
+      "name": "Wilmed",
+      "latitude": 51.217554,
+      "longitude": 22.692978
+    },
+    {
+      "name": "Zdrowa Żywność",
+      "latitude": 49.782146,
+      "longitude": 22.774368
+    },
+    {
+      "name": "Zdrowie",
+      "latitude": 52.252997,
+      "longitude": 21.03607
+    },
+    {
+      "name": "Zdrowie bez recepty",
+      "latitude": 53.024329,
+      "longitude": 18.686996
+    },
+    {
+      "name": "Zdrowie z Natury",
+      "latitude": 49.882591,
+      "longitude": 19.492695
+    },
+    {
+      "name": "Zdrowy Sklep",
+      "latitude": 51.408807,
+      "longitude": 19.697088
+    },
+    {
+      "name": "Zdrowy smak natury",
+      "latitude": 50.810115,
+      "longitude": 19.11715
+    },
+    {
+      "name": "Zielarka",
+      "latitude": 51.787097,
+      "longitude": 19.448003
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 49.855402,
+      "longitude": 19.346944
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 50.141303,
+      "longitude": 19.404352
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 50.293146,
+      "longitude": 18.666258
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 51.955887,
+      "longitude": 20.143896
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 52.108101,
+      "longitude": 21.262164
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 52.183774,
+      "longitude": 20.844556
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 52.22754,
+      "longitude": 21.020794
+    },
+    {
+      "name": "Zielarnia",
+      "latitude": 52.407913,
+      "longitude": 16.923985
+    },
+    {
+      "name": "Zielarnia \"Dom Życia\"",
+      "latitude": 52.395104,
+      "longitude": 16.901019
+    },
+    {
+      "name": "Zielarnia \"Sanitas Ex Natura\"",
+      "latitude": 52.409628,
+      "longitude": 17.074911
+    },
+    {
+      "name": "Zielarnia Alster",
+      "latitude": 50.065765,
+      "longitude": 19.93417
+    },
+    {
+      "name": "Zielarnia Baby Agi",
+      "latitude": 52.603751,
+      "longitude": 15.89106
+    },
+    {
+      "name": "Zielarnia Dr. Optima",
+      "latitude": 51.118984,
+      "longitude": 23.478396
+    },
+    {
+      "name": "Zielarnia Drzewna",
+      "latitude": 51.937625,
+      "longitude": 15.507728
+    },
+    {
+      "name": "Zielarnia Grochów",
+      "latitude": 52.244324,
+      "longitude": 21.083142
+    },
+    {
+      "name": "Zielarnia Herbapol",
+      "latitude": 50.06294,
+      "longitude": 19.934158
+    },
+    {
+      "name": "Zielarnia Imbir",
+      "latitude": 50.247081,
+      "longitude": 21.78234
+    },
+    {
+      "name": "Zielarnia Klasztorna",
+      "latitude": 51.938366,
+      "longitude": 15.504066
+    },
+    {
+      "name": "Zielarnia Lavenda",
+      "latitude": 49.993651,
+      "longitude": 19.946037
+    },
+    {
+      "name": "Zielarnia Medyczna \"Arnika\"",
+      "latitude": 52.414411,
+      "longitude": 17.079267
+    },
+    {
+      "name": "Zielarnia na Starej Ochocie",
+      "latitude": 52.221091,
+      "longitude": 20.986316
+    },
+    {
+      "name": "Zielarnia Nyska",
+      "latitude": 50.471226,
+      "longitude": 17.337598
+    },
+    {
+      "name": "Zielarnia Officina Sanitatis",
+      "latitude": 52.410806,
+      "longitude": 16.911777
+    },
+    {
+      "name": "Zielarnia Po Zdrowie",
+      "latitude": 50.303909,
+      "longitude": 19.00501
+    },
+    {
+      "name": "Zielarnia pod Jeleniem",
+      "latitude": 50.903003,
+      "longitude": 15.740992
+    },
+    {
+      "name": "Zielarnia pod klasztorem",
+      "latitude": 50.810263,
+      "longitude": 19.098233
+    },
+    {
+      "name": "Zielarnia pod muszlą",
+      "latitude": 50.341792,
+      "longitude": 16.887845
+    },
+    {
+      "name": "Zielarnia Rybnicka",
+      "latitude": 50.096952,
+      "longitude": 18.543588
+    },
+    {
+      "name": "Zielarnia Warmińska",
+      "latitude": 53.770045,
+      "longitude": 20.472403
+    },
+    {
+      "name": "Zielarnia Warmińska Joanna Kulczyk",
+      "latitude": 53.778511,
+      "longitude": 20.477957
+    },
+    {
+      "name": "Zielarnia Warszawska",
+      "latitude": 52.235807,
+      "longitude": 21.020868
+    },
+    {
+      "name": "Zielarnia Wildecka",
+      "latitude": 52.392102,
+      "longitude": 16.917896
+    },
+    {
+      "name": "Zielarski",
+      "latitude": 50.142517,
+      "longitude": 19.406369
+    },
+    {
+      "name": "Zielarski Gemini",
+      "latitude": 50.076956,
+      "longitude": 20.038372
+    },
+    {
+      "name": "Zielarski Gemini",
+      "latitude": 54.355217,
+      "longitude": 18.593486
+    },
+    {
+      "name": "Zielarski na Piaskach",
+      "latitude": 52.271267,
+      "longitude": 20.945204
+    },
+    {
+      "name": "Zielarsko medyczny",
+      "latitude": 53.124657,
+      "longitude": 18.002607
+    },
+    {
+      "name": "Zielarsko-medyczny",
+      "latitude": 51.121503,
+      "longitude": 17.046518
+    },
+    {
+      "name": "Zielarz",
+      "latitude": 52.154715,
+      "longitude": 20.793708
+    },
+    {
+      "name": "Zielarz Polski",
+      "latitude": 52.209448,
+      "longitude": 21.019691
+    },
+    {
+      "name": "Zielarz Polski",
+      "latitude": 52.25296,
+      "longitude": 20.988012
+    },
+    {
+      "name": "Zielarz.eu",
+      "latitude": 49.925133,
+      "longitude": 18.596889
+    },
+    {
+      "name": "ZIELNIK",
+      "latitude": 53.122982,
+      "longitude": 23.179011
+    },
+    {
+      "name": "Zielnik - Klaudia Natura",
+      "latitude": 49.973453,
+      "longitude": 19.830504
+    },
+    {
+      "name": "Zielona Chata",
+      "latitude": 54.181199,
+      "longitude": 19.4319
+    },
+    {
+      "name": "Zielona Zielarnia",
+      "latitude": 51.940642,
+      "longitude": 15.503212
+    },
+    {
+      "name": "Zielone Wzgórza",
+      "latitude": 52.366651,
+      "longitude": 16.905468
+    },
+    {
+      "name": "Zielone Zdrowie",
+      "latitude": 50.016503,
+      "longitude": 20.00583
+    },
+    {
+      "name": "Zielony Domek",
+      "latitude": 49.689103,
+      "longitude": 21.75892
+    },
+    {
+      "name": "Zielony Koszyk",
+      "latitude": 50.716852,
+      "longitude": 23.253601
+    },
+    {
+      "name": "Zioła",
+      "latitude": 50.861173,
+      "longitude": 17.471951
+    },
+    {
+      "name": "Zioła",
+      "latitude": 51.842961,
+      "longitude": 16.571264
+    },
+    {
+      "name": "Zioła",
+      "latitude": 52.105576,
+      "longitude": 21.260203
+    },
+    {
+      "name": "Zioła Bonifraterskie",
+      "latitude": 50.268426,
+      "longitude": 19.039677
+    },
+    {
+      "name": "Zioła i Witamina",
+      "latitude": 50.864664,
+      "longitude": 20.63845
+    },
+    {
+      "name": "Zioła I. Ordyniec",
+      "latitude": 51.19234,
+      "longitude": 20.409426
+    },
+    {
+      "name": "Zioła Medykamenty",
+      "latitude": 51.191641,
+      "longitude": 20.406435
+    },
+    {
+      "name": "Zioła Natura",
+      "latitude": 50.871699,
+      "longitude": 20.629915
+    },
+    {
+      "name": "Zioła od Braci",
+      "latitude": 52.406547,
+      "longitude": 16.937583
+    },
+    {
+      "name": "Zioła Ojca Helenki",
+      "latitude": 53.025636,
+      "longitude": 18.664959
+    },
+    {
+      "name": "Zioło",
+      "latitude": 52.175731,
+      "longitude": 21.021357
+    },
+    {
+      "name": "Ziołolecznictwo Jagoda",
+      "latitude": 50.867241,
+      "longitude": 20.640285
+    },
+    {
+      "name": "Ziołolek",
+      "latitude": 49.560353,
+      "longitude": 22.199751
+    },
+    {
+      "name": "Ziołolek",
+      "latitude": 49.680385,
+      "longitude": 19.188919
+    },
+    {
+      "name": "Ziołolek",
+      "latitude": 50.866665,
+      "longitude": 20.618168
+    },
+    {
+      "name": "Ziołolex",
+      "latitude": 53.430326,
+      "longitude": 14.53879
+    },
+    {
+      "name": "Ziołoteka",
+      "latitude": 50.874002,
+      "longitude": 20.62535
+    },
+    {
+      "name": "Ziołowa Apteczka",
+      "latitude": 51.112175,
+      "longitude": 20.853511
+    },
+    {
+      "name": "Ziołowa Harmonia",
+      "latitude": 52.205058,
+      "longitude": 20.917564
+    },
+    {
+      "name": "Ziołowaapteka",
+      "latitude": 53.020089,
+      "longitude": 18.617712
+    },
+    {
+      "name": "Ziołowital",
+      "latitude": 50.015259,
+      "longitude": 20.958921
+    },
+    {
+      "name": "Ziołowo",
+      "latitude": 50.033079,
+      "longitude": 20.214599
+    },
+    {
+      "name": "Ziołowy Zakątek",
+      "latitude": 49.706607,
+      "longitude": 20.9391
+    },
+    {
+      "name": "Ziołowy Zakątek",
+      "latitude": 50.94171,
+      "longitude": 21.383559
+    },
+    {
+      "name": "Ziółko",
+      "latitude": 52.281561,
+      "longitude": 20.951478
+    },
+    {
+      "name": "Świat Zdrowia",
+      "latitude": 50.259917,
+      "longitude": 19.023238
+    },
+    {
+      "name": "Źródło Zdrowia",
+      "latitude": 49.854558,
+      "longitude": 19.348378
+    },
+    {
+      "name": "„Herbarium” Sklep Zielarsko-Medyczny Bożena Myga-Respondek",
+      "latitude": 50.473789,
+      "longitude": 17.964738
+    }
+  ],
+  "meta": {
+    "title": "Polska — sklepy zielarskie - Bezpłatne pobieranie",
+    "description": "Sklepy zielarskie w Polsce (OpenStreetMap) Zawiera 280 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — sklepy zielarskie | ListBase",
+    "seo_description": "Pobierz Polska — sklepy zielarskie — 280 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 280 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

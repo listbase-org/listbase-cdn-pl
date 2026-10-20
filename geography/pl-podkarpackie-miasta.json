@@ -1,0 +1,586 @@
+{
+  "id": "pl-podkarpackie-miasta",
+  "name": "Miasta w województwie podkarpackie",
+  "title": "Miasta w województwie podkarpackie",
+  "description": "Cities and towns (miasta) in Podkarpackie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "678",
+      "name": "Baranów Sandomierski",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "tarnobrzeski",
+      "commune": "Baranów Sandomierski-gmina miejsko-wiejska",
+      "latitude": 50.4983,
+      "longitude": 21.5422
+    },
+    {
+      "id": "1750",
+      "name": "Błażowa",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Błażowa-gmina miejsko-wiejska",
+      "latitude": 49.8853,
+      "longitude": 22.1006
+    },
+    {
+      "id": "2010",
+      "name": "Boguchwała",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Boguchwała-gmina miejsko-wiejska",
+      "latitude": 49.9822,
+      "longitude": 21.9397
+    },
+    {
+      "id": "3245",
+      "name": "Brzostek",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "dębicki",
+      "commune": "Brzostek-gmina miejsko-wiejska",
+      "latitude": 49.8797,
+      "longitude": 21.4106
+    },
+    {
+      "id": "3322",
+      "name": "Brzozów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "brzozowski",
+      "commune": "Brzozów-gmina miejsko-wiejska",
+      "latitude": 49.6942,
+      "longitude": 22.0194
+    },
+    {
+      "id": "5013",
+      "name": "Cieszanów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "lubaczowski",
+      "commune": "Cieszanów-gmina miejsko-wiejska",
+      "latitude": 50.2456,
+      "longitude": 23.1306
+    },
+    {
+      "id": "6418",
+      "name": "Dębica",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "dębicki",
+      "commune": "Dębica-gmina miejska",
+      "latitude": 50.0508,
+      "longitude": 21.4069
+    },
+    {
+      "id": "7340",
+      "name": "Dubiecko",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "przemyski",
+      "commune": "Dubiecko-gmina wiejska",
+      "latitude": 49.825,
+      "longitude": 22.3925
+    },
+    {
+      "id": "7381",
+      "name": "Dukla",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "krośnieński",
+      "commune": "Dukla-gmina miejsko-wiejska",
+      "latitude": 49.555,
+      "longitude": 21.6844
+    },
+    {
+      "id": "7494",
+      "name": "Dynów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Dynów-gmina miejska",
+      "latitude": 49.8183,
+      "longitude": 22.2281
+    },
+    {
+      "id": "8790",
+      "name": "Głogów Małopolski",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Głogów Małopolski-gmina miejsko-wiejska",
+      "latitude": 50.1511,
+      "longitude": 21.9603
+    },
+    {
+      "id": "11206",
+      "name": "Iwonicz-Zdrój",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "krośnieński",
+      "commune": "Iwonicz-Zdrój-gmina miejsko-wiejska",
+      "latitude": 49.5658,
+      "longitude": 21.7928
+    },
+    {
+      "id": "11904",
+      "name": "Jarosław",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "jarosławski",
+      "commune": "Jarosław-gmina miejska",
+      "latitude": 50.0189,
+      "longitude": 22.6836
+    },
+    {
+      "id": "12058",
+      "name": "Jasło",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "jasielski",
+      "commune": "Jasło-gmina miejska",
+      "latitude": 49.7458,
+      "longitude": 21.4736
+    },
+    {
+      "id": "12269",
+      "name": "Jedlicze",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "krośnieński",
+      "commune": "Jedlicze-gmina miejsko-wiejska",
+      "latitude": 49.7125,
+      "longitude": 21.6414
+    },
+    {
+      "id": "13358",
+      "name": "Kańczuga",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "przeworski",
+      "commune": "Kańczuga-gmina miejsko-wiejska",
+      "latitude": 49.9833,
+      "longitude": 22.4117
+    },
+    {
+      "id": "14827",
+      "name": "Kolbuszowa",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "kolbuszowski",
+      "commune": "Kolbuszowa-gmina miejsko-wiejska",
+      "latitude": 50.2431,
+      "longitude": 21.7742
+    },
+    {
+      "id": "14892",
+      "name": "Kołaczyce",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "jasielski",
+      "commune": "Kołaczyce-gmina miejsko-wiejska",
+      "latitude": 49.8072,
+      "longitude": 21.4336
+    },
+    {
+      "id": "16418",
+      "name": "Krosno",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "Krosno",
+      "commune": "Krosno-gmina miejska",
+      "latitude": 49.6919,
+      "longitude": 21.7669
+    },
+    {
+      "id": "17816",
+      "name": "Lesko",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "leski",
+      "commune": "Lesko-gmina miejsko-wiejska",
+      "latitude": 49.4719,
+      "longitude": 22.3286
+    },
+    {
+      "id": "17988",
+      "name": "Leżajsk",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "leżajski",
+      "commune": "Leżajsk-gmina miejska",
+      "latitude": 50.2631,
+      "longitude": 22.4183
+    },
+    {
+      "id": "18514",
+      "name": "Lubaczów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "lubaczowski",
+      "commune": "Lubaczów-gmina miejska",
+      "latitude": 50.1575,
+      "longitude": 23.1225
+    },
+    {
+      "id": "19054",
+      "name": "Łańcut",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "łańcucki",
+      "commune": "Łańcut-gmina miejska",
+      "latitude": 50.0658,
+      "longitude": 22.2275
+    },
+    {
+      "id": "21203",
+      "name": "Mielec",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "mielecki",
+      "commune": "Mielec-gmina miejska",
+      "latitude": 50.2881,
+      "longitude": 21.4206
+    },
+    {
+      "id": "22660",
+      "name": "Narol",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "lubaczowski",
+      "commune": "Narol-gmina miejsko-wiejska",
+      "latitude": 50.3489,
+      "longitude": 23.3269
+    },
+    {
+      "id": "23144",
+      "name": "Nisko",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "niżański",
+      "commune": "Nisko-gmina miejsko-wiejska",
+      "latitude": 50.5186,
+      "longitude": 22.1478
+    },
+    {
+      "id": "23255",
+      "name": "Nowa Dęba",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "tarnobrzeski",
+      "commune": "Nowa Dęba-gmina miejsko-wiejska",
+      "latitude": 50.415,
+      "longitude": 21.7528
+    },
+    {
+      "id": "23353",
+      "name": "Nowa Sarzyna",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "leżajski",
+      "commune": "Nowa Sarzyna-gmina miejsko-wiejska",
+      "latitude": 50.3203,
+      "longitude": 22.3436
+    },
+    {
+      "id": "24685",
+      "name": "Oleszyce",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "lubaczowski",
+      "commune": "Oleszyce-gmina miejsko-wiejska",
+      "latitude": 50.1681,
+      "longitude": 23.0317
+    },
+    {
+      "id": "26673",
+      "name": "Pilzno",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "dębicki",
+      "commune": "Pilzno-gmina miejsko-wiejska",
+      "latitude": 49.9783,
+      "longitude": 21.2911
+    },
+    {
+      "id": "28348",
+      "name": "Pruchnik",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "jarosławski",
+      "commune": "Pruchnik-gmina miejsko-wiejska",
+      "latitude": 49.9061,
+      "longitude": 22.5156
+    },
+    {
+      "id": "28454",
+      "name": "Przecław",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "mielecki",
+      "commune": "Przecław-gmina miejsko-wiejska",
+      "latitude": 50.1942,
+      "longitude": 21.4797
+    },
+    {
+      "id": "28536",
+      "name": "Przemyśl",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "Przemyśl",
+      "commune": "Przemyśl-gmina miejska",
+      "latitude": 49.7822,
+      "longitude": 22.7753
+    },
+    {
+      "id": "28592",
+      "name": "Przeworsk",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "przeworski",
+      "commune": "Przeworsk-gmina miejska",
+      "latitude": 50.0586,
+      "longitude": 22.4936
+    },
+    {
+      "id": "29253",
+      "name": "Radomyśl Wielki",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "mielecki",
+      "commune": "Radomyśl Wielki-gmina miejsko-wiejska",
+      "latitude": 50.1961,
+      "longitude": 21.2781
+    },
+    {
+      "id": "29341",
+      "name": "Radymno",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "jarosławski",
+      "commune": "Radymno-gmina miejska",
+      "latitude": 49.9517,
+      "longitude": 22.8186
+    },
+    {
+      "id": "30079",
+      "name": "Ropczyce",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "ropczycko-sędziszowski",
+      "commune": "Ropczyce-gmina miejsko-wiejska",
+      "latitude": 50.0528,
+      "longitude": 21.6111
+    },
+    {
+      "id": "30565",
+      "name": "Rudnik nad Sanem",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "niżański",
+      "commune": "Rudnik nad Sanem-gmina miejsko-wiejska",
+      "latitude": 50.4417,
+      "longitude": 22.2467
+    },
+    {
+      "id": "30953",
+      "name": "Rymanów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "krośnieński",
+      "commune": "Rymanów-gmina miejsko-wiejska",
+      "latitude": 49.5761,
+      "longitude": 21.8675
+    },
+    {
+      "id": "31137",
+      "name": "Rzeszów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "Rzeszów",
+      "commune": "Rzeszów-gmina miejska",
+      "latitude": 50.0411,
+      "longitude": 21.9992
+    },
+    {
+      "id": "31394",
+      "name": "Sanok",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "sanocki",
+      "commune": "Sanok-gmina miejska",
+      "latitude": 49.56,
+      "longitude": 22.2022
+    },
+    {
+      "id": "31612",
+      "name": "Sędziszów Małopolski",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "ropczycko-sędziszowski",
+      "commune": "Sędziszów Małopolski-gmina miejsko-wiejska",
+      "latitude": 50.0711,
+      "longitude": 21.7019
+    },
+    {
+      "id": "31889",
+      "name": "Sieniawa",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "przeworski",
+      "commune": "Sieniawa-gmina miejsko-wiejska",
+      "latitude": 50.1778,
+      "longitude": 22.6094
+    },
+    {
+      "id": "33086",
+      "name": "Sokołów Małopolski",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Sokołów Małopolski-gmina miejsko-wiejska",
+      "latitude": 50.2303,
+      "longitude": 22.12
+    },
+    {
+      "id": "33356",
+      "name": "Stalowa Wola",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "stalowowolski",
+      "commune": "Stalowa Wola-gmina miejska",
+      "latitude": 50.5686,
+      "longitude": 22.0656
+    },
+    {
+      "id": "34873",
+      "name": "Strzyżów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "strzyżowski",
+      "commune": "Strzyżów-gmina miejsko-wiejska",
+      "latitude": 49.8703,
+      "longitude": 21.7867
+    },
+    {
+      "id": "36614",
+      "name": "Tarnobrzeg",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "Tarnobrzeg",
+      "commune": "Tarnobrzeg-gmina miejska",
+      "latitude": 50.57,
+      "longitude": 21.6706
+    },
+    {
+      "id": "37636",
+      "name": "Tyczyn",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "rzeszowski",
+      "commune": "Tyczyn-gmina miejsko-wiejska",
+      "latitude": 49.9639,
+      "longitude": 22.0303
+    },
+    {
+      "id": "37806",
+      "name": "Ulanów",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "niżański",
+      "commune": "Ulanów-gmina miejsko-wiejska",
+      "latitude": 50.4911,
+      "longitude": 22.2672
+    },
+    {
+      "id": "37952",
+      "name": "Ustrzyki Dolne",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "bieszczadzki",
+      "commune": "Ustrzyki Dolne-gmina miejsko-wiejska",
+      "latitude": 49.43,
+      "longitude": 22.5869
+    },
+    {
+      "id": "41502",
+      "name": "Zagórz",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "sanocki",
+      "commune": "Zagórz-gmina miejsko-wiejska",
+      "latitude": 49.5125,
+      "longitude": 22.265
+    },
+    {
+      "id": "41628",
+      "name": "Zaklików",
+      "type": "city",
+      "province": "podkarpackie",
+      "district": "stalowowolski",
+      "commune": "Zaklików-gmina wiejska",
+      "latitude": 50.7558,
+      "longitude": 22.1019
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie podkarpackie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Podkarpackie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 52 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie podkarpackie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie podkarpackie — 52 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 52 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

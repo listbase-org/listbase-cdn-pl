@@ -1,0 +1,546 @@
+{
+  "id": "pl-kujawsko-pomorskie-cities",
+  "name": "Województwo kujawsko-pomorskie — miasta",
+  "title": "Województwo kujawsko-pomorskie — miasta",
+  "description": "Lista miast w województwie kujawsko-pomorskim (województwo kujawsko-pomorskie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the kujawsko-pomorskie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 93,
+      "name": "Aleksandrów Kujawski",
+      "slug": "aleksandrow-kujawski",
+      "name_locative": "Aleksandrowie Kujawskim",
+      "county_id": 27,
+      "county_name": "aleksandrowski",
+      "latitude": 52.87646465,
+      "longitude": 18.69407098
+    },
+    {
+      "city_id": 137,
+      "name": "Barcin",
+      "slug": "barcin",
+      "name_locative": "Barcinie",
+      "county_id": 45,
+      "county_name": "żniński",
+      "latitude": 52.8632346,
+      "longitude": 17.9472463
+    },
+    {
+      "city_id": 96,
+      "name": "Brodnica",
+      "slug": "brodnica",
+      "name_locative": "Brodnicy",
+      "county_id": 28,
+      "county_name": "brodnicki",
+      "latitude": 53.2580224,
+      "longitude": 19.40543371
+    },
+    {
+      "city_id": 132,
+      "name": "Brześć Kujawski",
+      "slug": "brzesc-kujawski",
+      "name_locative": "Brześciu Kujawskim",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.6048164,
+      "longitude": 18.9015463
+    },
+    {
+      "city_id": 101,
+      "name": "Chełmno",
+      "slug": "chelmno",
+      "name_locative": "Chełmnie",
+      "county_id": 30,
+      "county_name": "chełmiński",
+      "latitude": 53.35250285,
+      "longitude": 18.44042471
+    },
+    {
+      "city_id": 128,
+      "name": "Chełmża",
+      "slug": "chelmza",
+      "name_locative": "Chełmży",
+      "county_id": 41,
+      "county_name": "toruński",
+      "latitude": 53.1923757,
+      "longitude": 18.61255455
+    },
+    {
+      "city_id": 133,
+      "name": "Chodecz",
+      "slug": "chodecz",
+      "name_locative": "Chodczu",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.4051735,
+      "longitude": 19.0272596
+    },
+    {
+      "city_id": 94,
+      "name": "Ciechocinek",
+      "slug": "ciechocinek",
+      "name_locative": "Ciechocinku",
+      "county_id": 27,
+      "county_name": "aleksandrowski",
+      "latitude": 52.8839413,
+      "longitude": 18.80326826
+    },
+    {
+      "city_id": 112,
+      "name": "Dobrzyń nad Wisłą",
+      "slug": "dobrzyn-nad-wisla",
+      "name_locative": "Dobrzyniu nad Wisłą",
+      "county_id": 34,
+      "county_name": "lipnowski",
+      "latitude": 52.6374518,
+      "longitude": 19.3213714
+    },
+    {
+      "city_id": 107,
+      "name": "Gniewkowo",
+      "slug": "gniewkowo",
+      "name_locative": "Gniewkowie",
+      "county_id": 33,
+      "county_name": "inowrocławski",
+      "latitude": 52.894429,
+      "longitude": 18.4066817
+    },
+    {
+      "city_id": 102,
+      "name": "Golub-Dobrzyń",
+      "slug": "golub-dobrzyn",
+      "name_locative": "Golubiu-Dobrzyniu",
+      "county_id": 31,
+      "county_name": "golubsko-dobrzyński",
+      "latitude": 53.11227855,
+      "longitude": 19.05728484
+    },
+    {
+      "city_id": 97,
+      "name": "Górzno",
+      "slug": "gorzno",
+      "name_locative": "Górznie",
+      "county_id": 28,
+      "county_name": "brodnicki",
+      "latitude": 53.1980846,
+      "longitude": 19.6445713
+    },
+    {
+      "city_id": 106,
+      "name": "Inowrocław",
+      "slug": "inowroclaw",
+      "name_locative": "Inowrocławiu",
+      "county_id": 33,
+      "county_name": "inowrocławski",
+      "latitude": 52.7814643,
+      "longitude": 18.24630855
+    },
+    {
+      "city_id": 134,
+      "name": "Izbica Kujawska",
+      "slug": "izbica-kujawska",
+      "name_locative": "Izbicy Kujawskiej",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.41925,
+      "longitude": 18.76435
+    },
+    {
+      "city_id": 98,
+      "name": "Jabłonowo Pomorskie",
+      "slug": "jablonowo-pomorskie",
+      "name_locative": "Jabłonowie Pomorskim",
+      "county_id": 28,
+      "county_name": "brodnicki",
+      "latitude": 53.387984,
+      "longitude": 19.1527034
+    },
+    {
+      "city_id": 108,
+      "name": "Janikowo",
+      "slug": "janikowo",
+      "name_locative": "Janikowie",
+      "county_id": 33,
+      "county_name": "inowrocławski",
+      "latitude": 52.7531648,
+      "longitude": 18.1141024
+    },
+    {
+      "city_id": 138,
+      "name": "Janowiec Wielkopolski",
+      "slug": "janowiec-wielkopolski",
+      "name_locative": "Janowcu Wielkopolskim",
+      "county_id": 45,
+      "county_name": "żniński",
+      "latitude": 52.7567264,
+      "longitude": 17.4887698
+    },
+    {
+      "city_id": 123,
+      "name": "Kamień Krajeński",
+      "slug": "kamien-krajenski",
+      "name_locative": "Kamieniu Krajeńskim",
+      "county_id": 39,
+      "county_name": "sępoleński",
+      "latitude": 53.5333203,
+      "longitude": 17.5199143
+    },
+    {
+      "city_id": 116,
+      "name": "Kcynia",
+      "slug": "kcynia",
+      "name_locative": "Kcyni",
+      "county_id": 36,
+      "county_name": "nakielski",
+      "latitude": 52.9917668,
+      "longitude": 17.4873729
+    },
+    {
+      "city_id": 99,
+      "name": "Koronowo",
+      "slug": "koronowo",
+      "name_locative": "Koronowie",
+      "county_id": 29,
+      "county_name": "bydgoski",
+      "latitude": 53.3140636,
+      "longitude": 17.9369813
+    },
+    {
+      "city_id": 131,
+      "name": "Kowal",
+      "slug": "kowal",
+      "name_locative": "Kowalu",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.53187295,
+      "longitude": 19.14462471
+    },
+    {
+      "city_id": 103,
+      "name": "Kowalewo Pomorskie",
+      "slug": "kowalewo-pomorskie",
+      "name_locative": "Kowalewie Pomorskim",
+      "county_id": 31,
+      "county_name": "golubsko-dobrzyński",
+      "latitude": 53.1543137,
+      "longitude": 18.8975473
+    },
+    {
+      "city_id": 109,
+      "name": "Kruszwica",
+      "slug": "kruszwica",
+      "name_locative": "Kruszwicy",
+      "county_id": 33,
+      "county_name": "inowrocławski",
+      "latitude": 52.6743797,
+      "longitude": 18.3254766
+    },
+    {
+      "city_id": 111,
+      "name": "Lipno",
+      "slug": "lipno",
+      "name_locative": "Lipnie",
+      "county_id": 34,
+      "county_name": "lipnowski",
+      "latitude": 52.8420725,
+      "longitude": 19.18316283
+    },
+    {
+      "city_id": 135,
+      "name": "Lubień Kujawski",
+      "slug": "lubien-kujawski",
+      "name_locative": "Lubieniu Kujawskim",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.40736,
+      "longitude": 19.16018
+    },
+    {
+      "city_id": 136,
+      "name": "Lubraniec",
+      "slug": "lubraniec",
+      "name_locative": "Lubrańcu",
+      "county_id": 44,
+      "county_name": "włocławski",
+      "latitude": 52.543083,
+      "longitude": 18.8315832
+    },
+    {
+      "city_id": 114,
+      "name": "Mogilno",
+      "slug": "mogilno",
+      "name_locative": "Mogilnie",
+      "county_id": 35,
+      "county_name": "mogileński",
+      "latitude": 52.657341,
+      "longitude": 17.9500677
+    },
+    {
+      "city_id": 117,
+      "name": "Mrocza",
+      "slug": "mrocza",
+      "name_locative": "Mroczy",
+      "county_id": 36,
+      "county_name": "nakielski",
+      "latitude": 53.2438463,
+      "longitude": 17.6072363
+    },
+    {
+      "city_id": 118,
+      "name": "Nakło nad Notecią",
+      "slug": "naklo-nad-notecia",
+      "name_locative": "Nakle nad Notecią",
+      "county_id": 36,
+      "county_name": "nakielski",
+      "latitude": 53.1386896,
+      "longitude": 17.5998891
+    },
+    {
+      "city_id": 95,
+      "name": "Nieszawa",
+      "slug": "nieszawa",
+      "name_locative": "Nieszawie",
+      "county_id": 27,
+      "county_name": "aleksandrowski",
+      "latitude": 52.8396506,
+      "longitude": 18.88516327
+    },
+    {
+      "city_id": 126,
+      "name": "Nowe",
+      "slug": "nowe",
+      "name_locative": "Nowem",
+      "county_id": 40,
+      "county_name": "świecki",
+      "latitude": 53.6462325,
+      "longitude": 18.7290468
+    },
+    {
+      "city_id": 110,
+      "name": "Pakość",
+      "slug": "pakosc",
+      "name_locative": "Pakości",
+      "county_id": 33,
+      "county_name": "inowrocławski",
+      "latitude": 52.8073319,
+      "longitude": 18.0899612
+    },
+    {
+      "city_id": 121,
+      "name": "Piotrków Kujawski",
+      "slug": "piotrkow-kujawski",
+      "name_locative": "Piotrkowie Kujawskim",
+      "county_id": 37,
+      "county_name": "radziejowski",
+      "latitude": 52.55057,
+      "longitude": 18.49872
+    },
+    {
+      "city_id": 120,
+      "name": "Radziejów",
+      "slug": "radziejow",
+      "name_locative": "Radziejowie",
+      "county_id": 37,
+      "county_name": "radziejowski",
+      "latitude": 52.61910615,
+      "longitude": 18.52936529
+    },
+    {
+      "city_id": 105,
+      "name": "Radzyń Chełmiński",
+      "slug": "radzyn-chelminski",
+      "name_locative": "Radzyniu Chełmińskim",
+      "county_id": 32,
+      "county_name": "grudziądzki",
+      "latitude": 53.385006,
+      "longitude": 18.9351906
+    },
+    {
+      "city_id": 122,
+      "name": "Rypin",
+      "slug": "rypin",
+      "name_locative": "Rypinie",
+      "county_id": 38,
+      "county_name": "rypiński",
+      "latitude": 53.06296225,
+      "longitude": 19.41933493
+    },
+    {
+      "city_id": 113,
+      "name": "Skępe",
+      "slug": "skepe",
+      "name_locative": "Skępem",
+      "county_id": 34,
+      "county_name": "lipnowski",
+      "latitude": 52.8671562,
+      "longitude": 19.3465204
+    },
+    {
+      "city_id": 100,
+      "name": "Solec Kujawski",
+      "slug": "solec-kujawski",
+      "name_locative": "Solcu Kujawskim",
+      "county_id": 29,
+      "county_name": "bydgoski",
+      "latitude": 53.0791965,
+      "longitude": 18.2246086
+    },
+    {
+      "city_id": 115,
+      "name": "Strzelno",
+      "slug": "strzelno",
+      "name_locative": "Strzelnie",
+      "county_id": 35,
+      "county_name": "mogileński",
+      "latitude": 52.6301742,
+      "longitude": 18.1733807
+    },
+    {
+      "city_id": 119,
+      "name": "Szubin",
+      "slug": "szubin",
+      "name_locative": "Szubinie",
+      "county_id": 36,
+      "county_name": "nakielski",
+      "latitude": 53.0117503,
+      "longitude": 17.7439402
+    },
+    {
+      "city_id": 124,
+      "name": "Sępólno Krajeńskie",
+      "slug": "sepolno-krajenskie",
+      "name_locative": "Sępólnie Krajeńskim",
+      "county_id": 39,
+      "county_name": "sępoleński",
+      "latitude": 53.4547434,
+      "longitude": 17.5348373
+    },
+    {
+      "city_id": 129,
+      "name": "Tuchola",
+      "slug": "tuchola",
+      "name_locative": "Tucholi",
+      "county_id": 42,
+      "county_name": "tucholski",
+      "latitude": 53.5880901,
+      "longitude": 17.8590414
+    },
+    {
+      "city_id": 125,
+      "name": "Więcbork",
+      "slug": "wiecbork",
+      "name_locative": "Więcborku",
+      "county_id": 39,
+      "county_name": "sępoleński",
+      "latitude": 53.3525453,
+      "longitude": 17.4873925
+    },
+    {
+      "city_id": 130,
+      "name": "Wąbrzeźno",
+      "slug": "wabrzezno",
+      "name_locative": "Wąbrzeźnie",
+      "county_id": 43,
+      "county_name": "wąbrzeski",
+      "latitude": 53.27835005,
+      "longitude": 18.94049478
+    },
+    {
+      "city_id": 139,
+      "name": "Łabiszyn",
+      "slug": "labiszyn",
+      "name_locative": "Łabiszynie",
+      "county_id": 45,
+      "county_name": "żniński",
+      "latitude": 52.9528653,
+      "longitude": 17.9205877
+    },
+    {
+      "city_id": 104,
+      "name": "Łasin",
+      "slug": "lasin",
+      "name_locative": "Łasinie",
+      "county_id": 32,
+      "county_name": "grudziądzki",
+      "latitude": 53.5196526,
+      "longitude": 19.0870311
+    },
+    {
+      "city_id": 127,
+      "name": "Świecie",
+      "slug": "swiecie",
+      "name_locative": "Świeciu",
+      "county_id": 40,
+      "county_name": "świecki",
+      "latitude": 53.4072518,
+      "longitude": 18.4455253
+    },
+    {
+      "city_id": 140,
+      "name": "Żnin",
+      "slug": "znin",
+      "name_locative": "Żninie",
+      "county_id": 45,
+      "county_name": "żniński",
+      "latitude": 52.848462,
+      "longitude": 17.7218791
+    }
+  ],
+  "meta": {
+    "title": "Województwo kujawsko-pomorskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie kujawsko-pomorskim (województwo kujawsko-pomorskie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the kujawsko-pomorskie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 48 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo kujawsko-pomorskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo kujawsko-pomorskie — miasta — 48 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 48 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

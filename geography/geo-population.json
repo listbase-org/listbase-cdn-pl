@@ -1,0 +1,1629 @@
+{
+  "id": "geo-population",
+  "name": "Globalny Zbiór Danych o Populacji i Gęstości Krajów",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area",
+      "label": "Area (km²)",
+      "type": "number"
+    },
+    {
+      "key": "density",
+      "label": "Density (per km²)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Indie",
+      "population": 1417492000,
+      "area": 3287263,
+      "density": 431
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Chiny",
+      "population": 1408280000,
+      "area": 9706961,
+      "density": 145
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Stany Zjednoczone",
+      "population": 340110988,
+      "area": 9525067,
+      "density": 36
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonezja",
+      "population": 284438782,
+      "area": 1904569,
+      "density": 149
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "population": 241499431,
+      "area": 796095,
+      "density": 303
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "population": 223800000,
+      "area": 923768,
+      "density": 242
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazylia",
+      "population": 213421037,
+      "area": 8515767,
+      "density": 25
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesz",
+      "population": 169828911,
+      "area": 147570,
+      "density": 1151
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rosja",
+      "population": 146028325,
+      "area": 17098246,
+      "density": 9
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksyk",
+      "population": 130575786,
+      "area": 1964375,
+      "density": 66
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonia",
+      "population": 123210000,
+      "area": 377930,
+      "density": 326
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipiny",
+      "population": 114123600,
+      "area": 342353,
+      "density": 333
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Demokratyczna Republika Konga",
+      "population": 112832000,
+      "area": 2344858,
+      "density": 48
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "population": 111652998,
+      "area": 1104300,
+      "density": 101
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Egipt",
+      "population": 107271260,
+      "area": 1002450,
+      "density": 107
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Wietnam",
+      "population": 101343800,
+      "area": 331212,
+      "density": 306
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "population": 85961000,
+      "area": 1648195,
+      "density": 52
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turcja",
+      "population": 85664944,
+      "area": 783562,
+      "density": 109
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Niemcy",
+      "population": 83491249,
+      "area": 357114,
+      "density": 234
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Wielka Brytania",
+      "population": 69281437,
+      "area": 244376,
+      "density": 284
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "population": 68153004,
+      "area": 947303,
+      "density": 72
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Francja",
+      "population": 66351959,
+      "area": 543908,
+      "density": 122
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tajlandia",
+      "population": 65859640,
+      "area": 513120,
+      "density": 128
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Afryka Południowa",
+      "population": 63100945,
+      "area": 1221037,
+      "density": 52
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Włochy",
+      "population": 58927633,
+      "area": 301336,
+      "density": 196
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenia",
+      "population": 53330978,
+      "area": 580367,
+      "density": 92
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolumbia",
+      "population": 53057212,
+      "area": 1141748,
+      "density": 46
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "population": 51662000,
+      "area": 1886068,
+      "density": 27
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Mjanma",
+      "population": 51316756,
+      "area": 676578,
+      "density": 76
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Południowa",
+      "population": 51159889,
+      "area": 100210,
+      "density": 511
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Hiszpania",
+      "population": 49315949,
+      "area": 505992,
+      "density": 97
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algieria",
+      "population": 47400000,
+      "area": 2381741,
+      "density": 20
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentyna",
+      "population": 46735004,
+      "area": 2780400,
+      "density": 17
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "population": 46118793,
+      "area": 438317,
+      "density": 105
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "population": 45905417,
+      "area": 241550,
+      "density": 190
+    },
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "population": 43844000,
+      "area": 652230,
+      "density": 67
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "population": 41651653,
+      "area": 9984670,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "population": 37859698,
+      "area": 447400,
+      "density": 85
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polska",
+      "population": 37392000,
+      "area": 312679,
+      "density": 120
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "population": 36828330,
+      "area": 446550,
+      "density": 82
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "population": 36170961,
+      "area": 1246700,
+      "density": 29
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arabia Saudyjska",
+      "population": 35300280,
+      "area": 2149690,
+      "density": 16
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "population": 34350244,
+      "area": 1285216,
+      "density": 27
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezja",
+      "population": 34231700,
+      "area": 330803,
+      "density": 103
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "population": 34090466,
+      "area": 801590,
+      "density": 43
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "population": 33742380,
+      "area": 238533,
+      "density": 141
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "population": 32862000,
+      "area": 603550,
+      "density": 54
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Jemen",
+      "population": 32684503,
+      "area": 527968,
+      "density": 62
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "population": 31727042,
+      "area": 587041,
+      "density": 54
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Wybrzeże Kości Słoniowej",
+      "population": 31719275,
+      "area": 322463,
+      "density": 98
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "population": 29911840,
+      "area": 147181,
+      "density": 203
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "population": 29442327,
+      "area": 475442,
+      "density": 62
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Wenezuela",
+      "population": 28517000,
+      "area": 916445,
+      "density": 31
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "population": 27536874,
+      "area": 7692024,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "population": 26312034,
+      "area": 1267000,
+      "density": 21
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Północna",
+      "population": 25950000,
+      "area": 120538,
+      "density": 215
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Syria",
+      "population": 25620000,
+      "area": 185180,
+      "density": 138
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "population": 24070553,
+      "area": 272967,
+      "density": 88
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "population": 22395489,
+      "area": 1240192,
+      "density": 18
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "population": 21763170,
+      "area": 65610,
+      "density": 332
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "population": 20734262,
+      "area": 118484,
+      "density": 175
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstan",
+      "population": 20426568,
+      "area": 2724900,
+      "density": 7
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "population": 20206953,
+      "area": 756102,
+      "density": 27
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "population": 19693423,
+      "area": 752612,
+      "density": 26
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "population": 19655000,
+      "area": 637657,
+      "density": 31
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Czad",
+      "population": 19340757,
+      "area": 1284000,
+      "density": 15
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumunia",
+      "population": 19036031,
+      "area": 238391,
+      "density": 80
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "population": 18593258,
+      "area": 196722,
+      "density": 95
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekwador",
+      "population": 18103660,
+      "area": 276841,
+      "density": 65
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Holandia",
+      "population": 18100436,
+      "area": 41865,
+      "density": 432
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Gwatemala",
+      "population": 18079810,
+      "area": 108889,
+      "density": 166
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kambodża",
+      "population": 17577760,
+      "area": 181035,
+      "density": 97
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "population": 17073087,
+      "area": 390757,
+      "density": 44
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Południowy",
+      "population": 15786898,
+      "area": 619745,
+      "density": 25
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gwinea",
+      "population": 14363931,
+      "area": 245857,
+      "density": 58
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "population": 14104969,
+      "area": 26338,
+      "density": 536
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "population": 13224860,
+      "area": 112622,
+      "density": 117
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "population": 12332788,
+      "area": 27834,
+      "density": 443
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunezja",
+      "population": 11972169,
+      "area": 163610,
+      "density": 73
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "population": 11867032,
+      "area": 27750,
+      "density": 428
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "population": 11825551,
+      "area": 30528,
+      "density": 387
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua-Nowa Gwinea",
+      "population": 11781559,
+      "area": 462840,
+      "density": 25
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordania",
+      "population": 11734000,
+      "area": 89342,
+      "density": 131
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Boliwia",
+      "population": 11365333,
+      "area": 1098581,
+      "density": 10
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Zjednoczone Emiraty Arabskie",
+      "population": 11294243,
+      "area": 83600,
+      "density": 135
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Czechy",
+      "population": 10882341,
+      "area": 78865,
+      "density": 138
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominikana",
+      "population": 10771504,
+      "area": 48671,
+      "density": 221
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalia",
+      "population": 10749635,
+      "area": 92090,
+      "density": 117
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Szwecja",
+      "population": 10605098,
+      "area": 450295,
+      "density": 24
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tadżykistan",
+      "population": 10499000,
+      "area": 143100,
+      "density": 73
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Grecja",
+      "population": 10400720,
+      "area": 131990,
+      "density": 79
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbejdżan",
+      "population": 10241722,
+      "area": 86600,
+      "density": 118
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Izrael",
+      "population": 10134800,
+      "area": 21937,
+      "density": 462
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "population": 9892632,
+      "area": 112492,
+      "density": 88
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "population": 9748007,
+      "area": 109884,
+      "density": 89
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Węgry",
+      "population": 9539502,
+      "area": 93028,
+      "density": 103
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "population": 9200931,
+      "area": 83871,
+      "density": 110
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Białoruś",
+      "population": 9109280,
+      "area": 207600,
+      "density": 44
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Szwajcaria",
+      "population": 9082848,
+      "area": 41284,
+      "density": 220
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "population": 9077691,
+      "area": 71740,
+      "density": 127
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "population": 8095498,
+      "area": 56785,
+      "density": 143
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "population": 7647000,
+      "area": 236800,
+      "density": 32
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libia",
+      "population": 7459000,
+      "area": 1759540,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgistan",
+      "population": 7281800,
+      "area": 199951,
+      "density": 36
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "population": 7057841,
+      "area": 488100,
+      "density": 14
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "population": 6803886,
+      "area": 130373,
+      "density": 52
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "population": 6567783,
+      "area": 77589,
+      "density": 85
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republika Środkowoafrykańska",
+      "population": 6470307,
+      "area": 622984,
+      "density": 10
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bułgaria",
+      "population": 6437360,
+      "area": 110879,
+      "density": 58
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republika Konga",
+      "population": 6142180,
+      "area": 342000,
+      "density": 18
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "population": 6110200,
+      "area": 710,
+      "density": 8606
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paragwaj",
+      "population": 6109644,
+      "area": 406752,
+      "density": 15
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "Salwador",
+      "population": 6029976,
+      "area": 21041,
+      "density": 287
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dania",
+      "population": 6011488,
+      "area": 43094,
+      "density": 139
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "population": 5650325,
+      "area": 338455,
+      "density": 17
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "population": 5606944,
+      "area": 386224,
+      "density": 15
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Liban",
+      "population": 5490000,
+      "area": 10452,
+      "density": 525
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "population": 5458600,
+      "area": 70273,
+      "density": 78
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Słowacja",
+      "population": 5413813,
+      "area": 49037,
+      "density": 110
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "population": 5343630,
+      "area": 309500,
+      "density": 17
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nowa Zelandia",
+      "population": 5324700,
+      "area": 268838,
+      "density": 20
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kostaryka",
+      "population": 5309625,
+      "area": 51100,
+      "density": 104
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "population": 5248621,
+      "area": 111369,
+      "density": 47
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauretania",
+      "population": 4927532,
+      "area": 1030700,
+      "density": 5
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwejt",
+      "population": 4881254,
+      "area": 17818,
+      "density": 274
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "population": 4064780,
+      "area": 75417,
+      "density": 54
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gruzja",
+      "population": 4000921,
+      "area": 69700,
+      "density": 57
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Chorwacja",
+      "population": 3866233,
+      "area": 56594,
+      "density": 68
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Erytrea",
+      "population": 3607000,
+      "area": 117600,
+      "density": 31
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "population": 3544835,
+      "area": 1564110,
+      "density": 2
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Urugwaj",
+      "population": 3499451,
+      "area": 181034,
+      "density": 19
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bośnia i Hercegowina",
+      "population": 3422000,
+      "area": 51209,
+      "density": 67
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "population": 3173024,
+      "area": 11586,
+      "density": 274
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "population": 3076200,
+      "area": 29743,
+      "density": 103
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "population": 3022401,
+      "area": 825615,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litwa",
+      "population": 2894886,
+      "area": 65300,
+      "density": 44
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamajka",
+      "population": 2825544,
+      "area": 10991,
+      "density": 257
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Mołdawia",
+      "population": 2749076,
+      "area": 33847,
+      "density": 81
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "population": 2469296,
+      "area": 267668,
+      "density": 9
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "population": 2422712,
+      "area": 10689,
+      "density": 227
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "population": 2363314,
+      "area": 28748,
+      "density": 82
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "population": 2359609,
+      "area": 582000,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Słowenia",
+      "population": 2130638,
+      "area": 20273,
+      "density": 105
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "population": 2116427,
+      "area": 30355,
+      "density": 70
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Łotwa",
+      "population": 1829000,
+      "area": 64559,
+      "density": 28
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Macedonia Północna",
+      "population": 1822612,
+      "area": 25713,
+      "density": 71
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gwinea Bissau",
+      "population": 1781308,
+      "area": 36125,
+      "density": 49
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Gwinea Równikowa",
+      "population": 1668768,
+      "area": 28051,
+      "density": 59
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrajn",
+      "population": 1594654,
+      "area": 765,
+      "density": 2085
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosowo",
+      "population": 1585566,
+      "area": 10908,
+      "density": 145
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Cypr",
+      "population": 1442614,
+      "area": 9251,
+      "density": 156
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Wschodni",
+      "population": 1391221,
+      "area": 14874,
+      "density": 94
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "population": 1369995,
+      "area": 45227,
+      "density": 30
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trynidad i Tobago",
+      "population": 1367764,
+      "area": 5130,
+      "density": 267
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "population": 1243741,
+      "area": 2040,
+      "density": 610
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "population": 1235549,
+      "area": 17364,
+      "density": 71
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Dżibuti",
+      "population": 1066809,
+      "area": 23200,
+      "density": 46
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komory",
+      "population": 919901,
+      "area": 1862,
+      "density": 494
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fidżi",
+      "population": 900869,
+      "area": 18272,
+      "density": 49
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "population": 784043,
+      "area": 38394,
+      "density": 20
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Gujana",
+      "population": 772975,
+      "area": 214969,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Wyspy Salomona",
+      "population": 750325,
+      "area": 28896,
+      "density": 26
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "population": 681973,
+      "area": 2586,
+      "density": 264
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Czarnogóra",
+      "population": 623327,
+      "area": 13812,
+      "density": 45
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "population": 616500,
+      "area": 163820,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "population": 574250,
+      "area": 316,
+      "density": 1817
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Malediwy",
+      "population": 515132,
+      "area": 300,
+      "density": 1717
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Republika Zielonego Przylądka",
+      "population": 491233,
+      "area": 4033,
+      "density": 122
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "population": 455500,
+      "area": 5765,
+      "density": 79
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "population": 417634,
+      "area": 22966,
+      "density": 18
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamy",
+      "population": 398165,
+      "area": 13943,
+      "density": 29
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "population": 391810,
+      "area": 103000,
+      "density": 4
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "population": 321409,
+      "area": 12189,
+      "density": 26
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "population": 267800,
+      "area": 430,
+      "density": 623
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Wyspy Świętego Tomasza i Książęca",
+      "population": 209607,
+      "area": 964,
+      "density": 217
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "population": 205557,
+      "area": 2842,
+      "density": 72
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "population": 184100,
+      "area": 616,
+      "density": 299
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seszele",
+      "population": 122729,
+      "area": 452,
+      "density": 272
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "population": 120740,
+      "area": 811,
+      "density": 149
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent i Grenadyny",
+      "population": 110872,
+      "area": 389,
+      "density": 285
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "population": 109021,
+      "area": 344,
+      "density": 317
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezja",
+      "population": 105564,
+      "area": 702,
+      "density": 150
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua i Barbuda",
+      "population": 103603,
+      "area": 442,
+      "density": 234
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "population": 100179,
+      "area": 747,
+      "density": 134
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andora",
+      "population": 88406,
+      "area": 468,
+      "density": 189
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "population": 67408,
+      "area": 751,
+      "density": 90
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts i Nevis",
+      "population": 51320,
+      "area": 261,
+      "density": 197
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Wyspy Marshalla",
+      "population": 42418,
+      "area": 181,
+      "density": 234
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "population": 40900,
+      "area": 160,
+      "density": 256
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "population": 38423,
+      "area": 2.02,
+      "density": 19021
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "population": 34132,
+      "area": 61,
+      "density": 560
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "population": 16733,
+      "area": 459,
+      "density": 36
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "population": 11680,
+      "area": 21,
+      "density": 556
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "population": 10643,
+      "area": 26,
+      "density": 409
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Watykan",
+      "population": 882,
+      "area": 0.49,
+      "density": 1800
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane o Populacji Krajów - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Bezpłatne dane o populacji 195 krajów, w tym obszar i gęstość. Dostępne w Excel, CSV i PDF do analizy i rozwoju.",
+    "title": "Globalny Zbiór Danych o Populacji i Gęstości Krajów",
+    "description": "Ten zbiór danych zawiera aktualne statystyki populacji, powierzchni i gęstości dla 195 niezależnych krajów na całym świecie, wraz z kodami ISO.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do szczegółowych danych populacji, powierzchni i gęstości dla 195 krajów.",
+      "Przeglądaj kompleksowe dane z kodami ISO Alpha-2 i Alpha-3.",
+      "Pobierz gotowe statystyki populacji w wielu formatach.",
+      "Wykorzystaj dokładne dane krajowe do badań, analiz lub rozwoju aplikacji."
+    ],
+    "keywords": [
+      "dane populacji krajów",
+      "globalne statystyki ludności",
+      "powierzchnia gęstość krajów",
+      "kody krajów ISO",
+      "populacja csv excel",
+      "darmowy zbiór danych populacji"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Python do przetwarzania analitycznego i rozwoju API.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania danych według regionu lub wykonywania funkcji VLOOKUP dla raportów demograficznych.",
+      "Wydrukuj wersję **PDF** jako szybki przewodnik referencyjny do sal lekcyjnych, prezentacji lub badań offline.",
+      "Zintegruj te dane z aplikacjami mapującymi, aby wizualizować globalny rozkład populacji i trendy gęstości."
+    ]
+  },
+  "record_count": 195,
+  "title": "Globalny Zbiór Danych o Populacji i Gęstości Krajów"
+}

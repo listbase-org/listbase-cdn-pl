@@ -1,0 +1,726 @@
+{
+  "id": "pl-zachodniopomorskie-miasta",
+  "name": "Miasta w województwie zachodniopomorskie",
+  "title": "Miasta w województwie zachodniopomorskie",
+  "description": "Cities and towns (miasta) in Zachodniopomorskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "741",
+      "name": "Barlinek",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "myśliborski",
+      "commune": "Barlinek-gmina miejsko-wiejska",
+      "latitude": 52.9972,
+      "longitude": 15.2194
+    },
+    {
+      "id": "818",
+      "name": "Barwice",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "szczecinecki",
+      "commune": "Barwice-gmina miejsko-wiejska",
+      "latitude": 53.7447,
+      "longitude": 16.3553
+    },
+    {
+      "id": "1250",
+      "name": "Białogard",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "białogardzki",
+      "commune": "Białogard-gmina miejska",
+      "latitude": 54.0083,
+      "longitude": 15.9858
+    },
+    {
+      "id": "1294",
+      "name": "Biały Bór",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "szczecinecki",
+      "commune": "Biały Bór-gmina miejsko-wiejska",
+      "latitude": 53.8961,
+      "longitude": 16.8356
+    },
+    {
+      "id": "1838",
+      "name": "Bobolice",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "koszaliński",
+      "commune": "Bobolice-gmina miejsko-wiejska",
+      "latitude": 53.9556,
+      "longitude": 16.5894
+    },
+    {
+      "id": "2381",
+      "name": "Borne Sulinowo",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "szczecinecki",
+      "commune": "Borne Sulinowo-gmina miejsko-wiejska",
+      "latitude": 53.5814,
+      "longitude": 16.5383
+    },
+    {
+      "id": "3980",
+      "name": "Cedynia",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Cedynia-gmina miejsko-wiejska",
+      "latitude": 52.8783,
+      "longitude": 14.2033
+    },
+    {
+      "id": "4366",
+      "name": "Chociwel",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "stargardzki",
+      "commune": "Chociwel-gmina miejsko-wiejska",
+      "latitude": 53.4692,
+      "longitude": 15.3353
+    },
+    {
+      "id": "4431",
+      "name": "Chojna",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Chojna-gmina miejsko-wiejska",
+      "latitude": 52.9633,
+      "longitude": 14.4328
+    },
+    {
+      "id": "4538",
+      "name": "Choszczno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "choszczeński",
+      "commune": "Choszczno-gmina miejsko-wiejska",
+      "latitude": 53.1675,
+      "longitude": 15.4197
+    },
+    {
+      "id": "5292",
+      "name": "Czaplinek",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "drawski",
+      "commune": "Czaplinek-gmina miejsko-wiejska",
+      "latitude": 53.5589,
+      "longitude": 16.2331
+    },
+    {
+      "id": "5729",
+      "name": "Człopa",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "wałecki",
+      "commune": "Człopa-gmina miejsko-wiejska",
+      "latitude": 53.0864,
+      "longitude": 16.1217
+    },
+    {
+      "id": "5954",
+      "name": "Darłowo",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "sławieński",
+      "commune": "Darłowo-gmina miejska",
+      "latitude": 54.4208,
+      "longitude": 16.4103
+    },
+    {
+      "id": "6517",
+      "name": "Dębno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "myśliborski",
+      "commune": "Dębno-gmina miejsko-wiejska",
+      "latitude": 52.7356,
+      "longitude": 14.7022
+    },
+    {
+      "id": "6787",
+      "name": "Dobra",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "łobeski",
+      "commune": "Dobra-gmina miejsko-wiejska",
+      "latitude": 53.5861,
+      "longitude": 15.3072
+    },
+    {
+      "id": "6908",
+      "name": "Dobrzany",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "stargardzki",
+      "commune": "Dobrzany-gmina miejsko-wiejska",
+      "latitude": 53.3583,
+      "longitude": 15.4289
+    },
+    {
+      "id": "7129",
+      "name": "Drawno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "choszczeński",
+      "commune": "Drawno-gmina miejsko-wiejska",
+      "latitude": 53.2186,
+      "longitude": 15.7561
+    },
+    {
+      "id": "7132",
+      "name": "Drawsko Pomorskie",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "drawski",
+      "commune": "Drawsko Pomorskie-gmina miejsko-wiejska",
+      "latitude": 53.5308,
+      "longitude": 15.8094
+    },
+    {
+      "id": "7774",
+      "name": "Dziwnów",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kamieński",
+      "commune": "Dziwnów-gmina miejsko-wiejska",
+      "latitude": 54.0275,
+      "longitude": 14.7603
+    },
+    {
+      "id": "9068",
+      "name": "Golczewo",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kamieński",
+      "commune": "Golczewo-gmina miejsko-wiejska",
+      "latitude": 53.8244,
+      "longitude": 14.9783
+    },
+    {
+      "id": "9082",
+      "name": "Goleniów",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "goleniowski",
+      "commune": "Goleniów-gmina miejsko-wiejska",
+      "latitude": 53.5631,
+      "longitude": 14.8297
+    },
+    {
+      "id": "9455",
+      "name": "Gościno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kołobrzeski",
+      "commune": "Gościno-gmina miejsko-wiejska",
+      "latitude": 54.0514,
+      "longitude": 15.6528
+    },
+    {
+      "id": "10374",
+      "name": "Gryfice",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryficki",
+      "commune": "Gryfice-gmina miejsko-wiejska",
+      "latitude": 53.9161,
+      "longitude": 15.1986
+    },
+    {
+      "id": "10375",
+      "name": "Gryfino",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Gryfino-gmina miejsko-wiejska",
+      "latitude": 53.2567,
+      "longitude": 14.4894
+    },
+    {
+      "id": "11166",
+      "name": "Ińsko",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "stargardzki",
+      "commune": "Ińsko-gmina miejsko-wiejska",
+      "latitude": 53.4358,
+      "longitude": 15.5483
+    },
+    {
+      "id": "13034",
+      "name": "Kalisz Pomorski",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "drawski",
+      "commune": "Kalisz Pomorski-gmina miejsko-wiejska",
+      "latitude": 53.2983,
+      "longitude": 15.9056
+    },
+    {
+      "id": "13210",
+      "name": "Kamień Pomorski",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kamieński",
+      "commune": "Kamień Pomorski-gmina miejsko-wiejska",
+      "latitude": 53.9686,
+      "longitude": 14.7728
+    },
+    {
+      "id": "13441",
+      "name": "Karlino",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "białogardzki",
+      "commune": "Karlino-gmina miejsko-wiejska",
+      "latitude": 54.0381,
+      "longitude": 15.8792
+    },
+    {
+      "id": "14925",
+      "name": "Kołobrzeg",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kołobrzeski",
+      "commune": "Kołobrzeg-gmina miejska",
+      "latitude": 54.1797,
+      "longitude": 15.5722
+    },
+    {
+      "id": "15602",
+      "name": "Koszalin",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "Koszalin",
+      "commune": "Koszalin-gmina miejska",
+      "latitude": 54.1903,
+      "longitude": 16.1819
+    },
+    {
+      "id": "18159",
+      "name": "Lipiany",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "pyrzycki",
+      "commune": "Lipiany-gmina miejsko-wiejska",
+      "latitude": 53.0031,
+      "longitude": 14.9689
+    },
+    {
+      "id": "19479",
+      "name": "Łobez",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "łobeski",
+      "commune": "Łobez-gmina miejsko-wiejska",
+      "latitude": 53.6394,
+      "longitude": 15.6219
+    },
+    {
+      "id": "20766",
+      "name": "Maszewo",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "goleniowski",
+      "commune": "Maszewo-gmina miejsko-wiejska",
+      "latitude": 53.4978,
+      "longitude": 15.0594
+    },
+    {
+      "id": "21231",
+      "name": "Mielno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "koszaliński",
+      "commune": "Mielno-gmina miejsko-wiejska",
+      "latitude": 54.2561,
+      "longitude": 16.0522
+    },
+    {
+      "id": "21314",
+      "name": "Mieszkowice",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Mieszkowice-gmina miejsko-wiejska",
+      "latitude": 52.7867,
+      "longitude": 14.4933
+    },
+    {
+      "id": "21370",
+      "name": "Międzyzdroje",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kamieński",
+      "commune": "Międzyzdroje-gmina miejsko-wiejska",
+      "latitude": 53.9289,
+      "longitude": 14.4503
+    },
+    {
+      "id": "21660",
+      "name": "Mirosławiec",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "wałecki",
+      "commune": "Mirosławiec-gmina miejsko-wiejska",
+      "latitude": 53.3414,
+      "longitude": 16.0881
+    },
+    {
+      "id": "22131",
+      "name": "Moryń",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Moryń-gmina miejsko-wiejska",
+      "latitude": 52.8575,
+      "longitude": 14.3986
+    },
+    {
+      "id": "22501",
+      "name": "Myślibórz",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "myśliborski",
+      "commune": "Myślibórz-gmina miejsko-wiejska",
+      "latitude": 52.925,
+      "longitude": 14.8678
+    },
+    {
+      "id": "23849",
+      "name": "Nowe Warpno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "policki",
+      "commune": "Nowe Warpno-gmina miejsko-wiejska",
+      "latitude": 53.7228,
+      "longitude": 14.2881
+    },
+    {
+      "id": "23953",
+      "name": "Nowogard",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "goleniowski",
+      "commune": "Nowogard-gmina miejsko-wiejska",
+      "latitude": 53.6683,
+      "longitude": 15.1244
+    },
+    {
+      "id": "26140",
+      "name": "Pełczyce",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "choszczeński",
+      "commune": "Pełczyce-gmina miejsko-wiejska",
+      "latitude": 53.0439,
+      "longitude": 15.3042
+    },
+    {
+      "id": "27066",
+      "name": "Płoty",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryficki",
+      "commune": "Płoty-gmina miejsko-wiejska",
+      "latitude": 53.8044,
+      "longitude": 15.2681
+    },
+    {
+      "id": "27633",
+      "name": "Polanów",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "koszaliński",
+      "commune": "Polanów-gmina miejsko-wiejska",
+      "latitude": 54.1186,
+      "longitude": 16.6842
+    },
+    {
+      "id": "27664",
+      "name": "Police",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "policki",
+      "commune": "Police-gmina miejsko-wiejska",
+      "latitude": 53.5525,
+      "longitude": 14.5719
+    },
+    {
+      "id": "27740",
+      "name": "Połczyn-Zdrój",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "świdwiński",
+      "commune": "Połczyn-Zdrój-gmina miejsko-wiejska",
+      "latitude": 53.7669,
+      "longitude": 16.0908
+    },
+    {
+      "id": "29069",
+      "name": "Pyrzyce",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "pyrzycki",
+      "commune": "Pyrzyce-gmina miejsko-wiejska",
+      "latitude": 53.1458,
+      "longitude": 14.8925
+    },
+    {
+      "id": "29629",
+      "name": "Recz",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "choszczeński",
+      "commune": "Recz-gmina miejsko-wiejska",
+      "latitude": 53.2597,
+      "longitude": 15.5464
+    },
+    {
+      "id": "29733",
+      "name": "Resko",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "łobeski",
+      "commune": "Resko-gmina miejsko-wiejska",
+      "latitude": 53.7725,
+      "longitude": 15.4067
+    },
+    {
+      "id": "31646",
+      "name": "Sianów",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "koszaliński",
+      "commune": "Sianów-gmina miejsko-wiejska",
+      "latitude": 54.2256,
+      "longitude": 16.2969
+    },
+    {
+      "id": "32550",
+      "name": "Sławno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "sławieński",
+      "commune": "Sławno-gmina miejska",
+      "latitude": 54.3581,
+      "longitude": 16.6775
+    },
+    {
+      "id": "33967",
+      "name": "Stargard",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "stargardzki",
+      "commune": "Stargard Szczeciński-gmina miejska",
+      "latitude": 53.3392,
+      "longitude": 15.0411
+    },
+    {
+      "id": "34389",
+      "name": "Stepnica",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "goleniowski",
+      "commune": "Stepnica-gmina miejsko-wiejska",
+      "latitude": 53.6522,
+      "longitude": 14.6283
+    },
+    {
+      "id": "34972",
+      "name": "Suchań",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "stargardzki",
+      "commune": "Suchań-gmina miejsko-wiejska",
+      "latitude": 53.28,
+      "longitude": 15.3175
+    },
+    {
+      "id": "35470",
+      "name": "Szczecin",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "Szczecin",
+      "commune": "Szczecin-gmina miejska",
+      "latitude": 53.4319,
+      "longitude": 14.5467
+    },
+    {
+      "id": "35473",
+      "name": "Szczecinek",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "szczecinecki",
+      "commune": "Szczecinek-gmina miejska",
+      "latitude": 53.7028,
+      "longitude": 16.7006
+    },
+    {
+      "id": "36269",
+      "name": "Świdwin",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "świdwiński",
+      "commune": "Świdwin-gmina miejska",
+      "latitude": 53.7747,
+      "longitude": 15.7742
+    },
+    {
+      "id": "36480",
+      "name": "Świnoujście",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "Świnoujście",
+      "commune": "Świnoujście-gmina miejska",
+      "latitude": 53.9078,
+      "longitude": 14.2475
+    },
+    {
+      "id": "37237",
+      "name": "Trzcińsko-Zdrój",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryfiński",
+      "commune": "Trzcińsko-Zdrój-gmina miejsko-wiejska",
+      "latitude": 52.9667,
+      "longitude": 14.6064
+    },
+    {
+      "id": "37250",
+      "name": "Trzebiatów",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "gryficki",
+      "commune": "Trzebiatów-gmina miejsko-wiejska",
+      "latitude": 54.0633,
+      "longitude": 15.2661
+    },
+    {
+      "id": "37416",
+      "name": "Tuczno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "wałecki",
+      "commune": "Tuczno-gmina miejsko-wiejska",
+      "latitude": 53.1944,
+      "longitude": 16.1539
+    },
+    {
+      "id": "37627",
+      "name": "Tychowo",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "białogardzki",
+      "commune": "Tychowo-gmina miejsko-wiejska",
+      "latitude": 53.9297,
+      "longitude": 16.2592
+    },
+    {
+      "id": "38083",
+      "name": "Wałcz",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "wałecki",
+      "commune": "Wałcz-gmina miejska",
+      "latitude": 53.2731,
+      "longitude": 16.4675
+    },
+    {
+      "id": "38459",
+      "name": "Węgorzyno",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "łobeski",
+      "commune": "Węgorzyno-gmina miejsko-wiejska",
+      "latitude": 53.5408,
+      "longitude": 15.5594
+    },
+    {
+      "id": "40237",
+      "name": "Wolin",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "kamieński",
+      "commune": "Wolin-gmina miejsko-wiejska",
+      "latitude": 53.8414,
+      "longitude": 14.6133
+    },
+    {
+      "id": "42812",
+      "name": "Złocieniec",
+      "type": "city",
+      "province": "zachodniopomorskie",
+      "district": "drawski",
+      "commune": "Złocieniec-gmina miejsko-wiejska",
+      "latitude": 53.5306,
+      "longitude": 16.0117
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie zachodniopomorskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Zachodniopomorskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 66 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie zachodniopomorskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie zachodniopomorskie — 66 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 66 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

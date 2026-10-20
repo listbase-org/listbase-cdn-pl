@@ -1,0 +1,136 @@
+{
+  "id": "pl-obszary-chronione-cdda-2020s",
+  "name": "Polska — obszary chronione ustanowione w latach 2020–2029 (CDDA)",
+  "title": "Polska — obszary chronione ustanowione w latach 2020–2029 (CDDA)",
+  "description": "7 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 2020–2029 (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 555737606,
+      "nazwa": "Bielawski",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 54.80548,
+      "srodek_lon": 18.24839,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737612,
+      "nazwa": "Czarcia Kępa",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 54.28285,
+      "srodek_lon": 22.66664,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737607,
+      "nazwa": "Doliny Rzeki Płutnicy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 54.74678,
+      "srodek_lon": 18.32772,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737609,
+      "nazwa": "Góra Stołowa im. Ryszarda Malika",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 50.34548,
+      "srodek_lon": 19.5978,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555702575,
+      "nazwa": "Lisia Kępa",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2020,
+      "srodek_lat": 54.09536,
+      "srodek_lon": 17.48279,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737605,
+      "nazwa": "Przysłup",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 49.54102,
+      "srodek_lon": 22.35072,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737610,
+      "nazwa": "„Sugry” imienia Janusza Szostakiewicza",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 2021,
+      "srodek_lat": 51.87009,
+      "srodek_lon": 23.60096,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — obszary chronione ustanowione w latach 2020–2029 (CDDA) - Bezpłatne pobieranie",
+    "description": "7 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 2020–2029 (podzbiór pl-obszary-chronione-cdda). Zawiera 7 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — obszary chronione ustanowione w latach 2020–2029 (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — obszary chronione ustanowione w latach 2020–2029 (CDDA) — 7 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 7 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

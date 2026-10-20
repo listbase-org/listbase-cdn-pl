@@ -1,0 +1,131 @@
+{
+  "id": "pl-zachodniopomorskie-counties",
+  "name": "Województwo zachodniopomorskie — powiaty",
+  "title": "Województwo zachodniopomorskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie zachodniopomorskim (województwo zachodniopomorskie) — 18 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the zachodniopomorskie voivodeship — 18 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 297,
+      "name": "białogardzki",
+      "slug": "bialogardzki"
+    },
+    {
+      "county_id": 298,
+      "name": "choszczeński",
+      "slug": "choszczenski"
+    },
+    {
+      "county_id": 299,
+      "name": "drawski",
+      "slug": "drawski"
+    },
+    {
+      "county_id": 300,
+      "name": "goleniowski",
+      "slug": "goleniowski"
+    },
+    {
+      "county_id": 301,
+      "name": "gryficki",
+      "slug": "gryficki"
+    },
+    {
+      "county_id": 302,
+      "name": "gryfiński",
+      "slug": "gryfinski"
+    },
+    {
+      "county_id": 303,
+      "name": "kamieński",
+      "slug": "kamienski"
+    },
+    {
+      "county_id": 305,
+      "name": "koszaliński",
+      "slug": "koszalinski"
+    },
+    {
+      "county_id": 304,
+      "name": "kołobrzeski",
+      "slug": "kolobrzeski"
+    },
+    {
+      "county_id": 306,
+      "name": "myśliborski",
+      "slug": "mysliborski"
+    },
+    {
+      "county_id": 307,
+      "name": "policki",
+      "slug": "policki"
+    },
+    {
+      "county_id": 308,
+      "name": "pyrzycki",
+      "slug": "pyrzycki"
+    },
+    {
+      "county_id": 310,
+      "name": "stargardzki",
+      "slug": "stargardzki"
+    },
+    {
+      "county_id": 311,
+      "name": "szczecinecki",
+      "slug": "szczecinecki"
+    },
+    {
+      "county_id": 309,
+      "name": "sławieński",
+      "slug": "slawienski"
+    },
+    {
+      "county_id": 313,
+      "name": "wałecki",
+      "slug": "walecki"
+    },
+    {
+      "county_id": 314,
+      "name": "łobeski",
+      "slug": "lobeski"
+    },
+    {
+      "county_id": 312,
+      "name": "świdwiński",
+      "slug": "swidwinski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo zachodniopomorskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie zachodniopomorskim (województwo zachodniopomorskie) — 18 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the zachodniopomorskie voivodeship — 18 entries. Excludes city-counties (see pl-city-counties). Zawiera 18 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo zachodniopomorskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo zachodniopomorskie — powiaty — 18 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 18 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

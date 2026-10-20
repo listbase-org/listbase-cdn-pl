@@ -1,0 +1,160 @@
+{
+  "id": "pl-jednostki-miary-digital",
+  "name": "Jednostki miary — kategoria 'digital' (11)",
+  "title": "Jednostki miary — kategoria 'digital' (11)",
+  "description": "Jednostki miary kategorii 'digital' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategoria": "digital",
+      "nazwa": "bity",
+      "skrot": "b",
+      "forma_waska": "b",
+      "wzorzec": "{0} bita"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategoria": "digital",
+      "nazwa": "bajty",
+      "skrot": "B",
+      "forma_waska": "B",
+      "wzorzec": "{0} bajta"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategoria": "digital",
+      "nazwa": "gigabity",
+      "skrot": "Gb",
+      "forma_waska": "Gb",
+      "wzorzec": "{0} gigabita"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategoria": "digital",
+      "nazwa": "gigabajty",
+      "skrot": "GB",
+      "forma_waska": "GB",
+      "wzorzec": "{0} gigabajta"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategoria": "digital",
+      "nazwa": "kilobity",
+      "skrot": "kb",
+      "forma_waska": "kb",
+      "wzorzec": "{0} kilobita"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategoria": "digital",
+      "nazwa": "kilobajty",
+      "skrot": "kB",
+      "forma_waska": "kB",
+      "wzorzec": "{0} kilobajta"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategoria": "digital",
+      "nazwa": "megabity",
+      "skrot": "Mb",
+      "forma_waska": "Mb",
+      "wzorzec": "{0} megabita"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategoria": "digital",
+      "nazwa": "megabajty",
+      "skrot": "MB",
+      "forma_waska": "MB",
+      "wzorzec": "{0} megabajta"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategoria": "digital",
+      "nazwa": "petabajty",
+      "skrot": "PB",
+      "forma_waska": "PB",
+      "wzorzec": "{0} petabajta"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategoria": "digital",
+      "nazwa": "terabity",
+      "skrot": "Tb",
+      "forma_waska": "Tb",
+      "wzorzec": "{0} terabita"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategoria": "digital",
+      "nazwa": "terabajty",
+      "skrot": "TB",
+      "forma_waska": "TB",
+      "wzorzec": "{0} terabajta"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'digital' (11) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'digital' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 11 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'digital' (11) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'digital' (11) — 11 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 11 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

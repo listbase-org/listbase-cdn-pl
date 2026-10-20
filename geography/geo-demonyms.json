@@ -1,0 +1,1429 @@
+{
+  "id": "geo-demonyms",
+  "name": "Zbiór Danych Demonimów Krajów i Kodów ISO Świata",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_m",
+      "label": "Demonym (Male) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_f",
+      "label": "Demonym (Female) (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "demonym_m": "Afgańczyk",
+      "demonym_f": "Afganka"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "demonym_m": "Albańczyk",
+      "demonym_f": "Albanka"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algieria",
+      "demonym_m": "Algierczyk",
+      "demonym_f": "Algierka"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andora",
+      "demonym_m": "Andorranin",
+      "demonym_f": "Andorranka"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "demonym_m": "Angolczyk",
+      "demonym_f": "Angolka"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua i Barbuda",
+      "demonym_m": "Antiguanin, Barbudanin",
+      "demonym_f": "Antiguanka, Barbudanka"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentyna",
+      "demonym_m": "Argentyńczyk",
+      "demonym_f": "Argentynka"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "demonym_m": "Ormianin",
+      "demonym_f": "Ormianka"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "demonym_m": "Australijczyk",
+      "demonym_f": "Australijka"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "demonym_m": "Austriak",
+      "demonym_f": "Austriaczka"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbejdżan",
+      "demonym_m": "Azerbejdżanin",
+      "demonym_f": "Azerbejdżanka"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamy",
+      "demonym_m": "Bahamczyk",
+      "demonym_f": "Bahamka"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrajn",
+      "demonym_m": "Bahrajńczyk",
+      "demonym_f": "Bahrajnka"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesz",
+      "demonym_m": "Bangladeszczyk",
+      "demonym_f": "Bangladeszka"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "demonym_m": "Barbadyjczyk",
+      "demonym_f": "Barbadyjka"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Białoruś",
+      "demonym_m": "Białorusin",
+      "demonym_f": "Białorusinka"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "demonym_m": "Belg",
+      "demonym_f": "Belgijka"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "demonym_m": "Belizyjczyk",
+      "demonym_f": "Belizyjka"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "demonym_m": "Benińczyk",
+      "demonym_f": "Beninka"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "demonym_m": "Bhutańczyk",
+      "demonym_f": "Bhutanka"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Boliwia",
+      "demonym_m": "Boliwijczyk",
+      "demonym_f": "Boliwijka"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bośnia i Hercegowina",
+      "demonym_m": "Bośniak, Hercegowinianin",
+      "demonym_f": "Bośniaczka, Hercegowinianka"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "demonym_m": "Botswańczyk",
+      "demonym_f": "Botswanka"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazylia",
+      "demonym_m": "Brazylijczyk",
+      "demonym_f": "Brazylijka"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "demonym_m": "Brunejczyk",
+      "demonym_f": "Brunejka"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bułgaria",
+      "demonym_m": "Bułgar",
+      "demonym_f": "Bułgarka"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "demonym_m": "Burkińczyk",
+      "demonym_f": "Burkinianka"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "demonym_m": "Burundyjczyk",
+      "demonym_f": "Burundyjka"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kambodża",
+      "demonym_m": "Kambodżanin",
+      "demonym_f": "Kambodżanka"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "demonym_m": "Kameruńczyk",
+      "demonym_f": "Kamerunka"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "demonym_m": "Kanadyjczyk",
+      "demonym_f": "Kanadyjka"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Republika Zielonego Przylądka",
+      "demonym_m": "Zielonoprzylądkowicz",
+      "demonym_f": "Zielonoprzylądkowiczka"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republika Środkowoafrykańska",
+      "demonym_m": "Środkowoafrykańczyk",
+      "demonym_f": "Środkowoafrykanka"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Czad",
+      "demonym_m": "Czadyjczyk",
+      "demonym_f": "Czadyjka"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "demonym_m": "Chilijczyk",
+      "demonym_f": "Chilijka"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Chiny",
+      "demonym_m": "Chińczyk",
+      "demonym_f": "Chinka"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolumbia",
+      "demonym_m": "Kolumbijczyk",
+      "demonym_f": "Kolumbijka"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komory",
+      "demonym_m": "Komoryjczyk",
+      "demonym_f": "Komoryjka"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kostaryka",
+      "demonym_m": "Kostarykańczyk",
+      "demonym_f": "Kostarykanka"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Chorwacja",
+      "demonym_m": "Chorwat",
+      "demonym_f": "Chorwatka"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "demonym_m": "Kubańczyk",
+      "demonym_f": "Kubanka"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Cypr",
+      "demonym_m": "Cypryjczyk",
+      "demonym_f": "Cypryjka"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Czechy",
+      "demonym_m": "Czech",
+      "demonym_f": "Czeszka"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dania",
+      "demonym_m": "Duńczyk",
+      "demonym_f": "Dunka"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Dżibuti",
+      "demonym_m": "Dżibutyjczyk",
+      "demonym_f": "Dżibutyjka"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "demonym_m": "Dominikańczyk",
+      "demonym_f": "Dominikanka"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominikana",
+      "demonym_m": "Dominikańczyk",
+      "demonym_f": "Dominikanka"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Demokratyczna Republika Konga",
+      "demonym_m": "Kongijczyk",
+      "demonym_f": "Kongijka"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekwador",
+      "demonym_m": "Ekwadorczyk",
+      "demonym_f": "Ekwadorka"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Egipt",
+      "demonym_m": "Egipcjanin",
+      "demonym_f": "Egipcjanka"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "Salwador",
+      "demonym_m": "Salwadorczyk",
+      "demonym_f": "Salwadorka"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Gwinea Równikowa",
+      "demonym_m": "Gwinejczyk Równikowy",
+      "demonym_f": "Gwinejka Równikowa"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Erytrea",
+      "demonym_m": "Erytrejczyk",
+      "demonym_f": "Erytrejka"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "demonym_m": "Estończyk",
+      "demonym_f": "Estonka"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "demonym_m": "Suazyjczyk",
+      "demonym_f": "Suazyjka"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "demonym_m": "Etiopczyk",
+      "demonym_f": "Etiopka"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fidżi",
+      "demonym_m": "Fidżyjczyk",
+      "demonym_f": "Fidżyjka"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "demonym_m": "Fin",
+      "demonym_f": "Finka"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Francja",
+      "demonym_m": "Francuz",
+      "demonym_f": "Francuzka"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "demonym_m": "Gabończyk",
+      "demonym_f": "Gabońka"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "demonym_m": "Gambijczyk",
+      "demonym_f": "Gambijka"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gruzja",
+      "demonym_m": "Gruzin",
+      "demonym_f": "Gruzinka"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Niemcy",
+      "demonym_m": "Niemiec",
+      "demonym_f": "Niemka"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "demonym_m": "Ghańczyk",
+      "demonym_f": "Ghańka"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Grecja",
+      "demonym_m": "Grek",
+      "demonym_f": "Greczynka"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "demonym_m": "Grenadyjczyk",
+      "demonym_f": "Grenadyjka"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Gwatemala",
+      "demonym_m": "Gwatemalczyk",
+      "demonym_f": "Gwatemalka"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gwinea",
+      "demonym_m": "Gwinejczyk",
+      "demonym_f": "Gwinejka"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gwinea Bissau",
+      "demonym_m": "Bissau-Gwinejczyk",
+      "demonym_f": "Bissau-Gwinejka"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Gujana",
+      "demonym_m": "Gujańczyk",
+      "demonym_f": "Gujanka"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "demonym_m": "Haitańczyk",
+      "demonym_f": "Haitanka"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "demonym_m": "Honduranin",
+      "demonym_f": "Honduranka"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Węgry",
+      "demonym_m": "Węgier",
+      "demonym_f": "Węgierka"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "demonym_m": "Islandczyk",
+      "demonym_f": "Islandka"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Indie",
+      "demonym_m": "Hindus",
+      "demonym_f": "Hinduska"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonezja",
+      "demonym_m": "Indonezyjczyk",
+      "demonym_f": "Indonezyjka"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "demonym_m": "Irańczyk",
+      "demonym_f": "Iranka"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "demonym_m": "Irakijczyk",
+      "demonym_f": "Irakijka"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "demonym_m": "Irlandczyk",
+      "demonym_f": "Irlandka"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Izrael",
+      "demonym_m": "Izraelczyk",
+      "demonym_f": "Izraelka"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Włochy",
+      "demonym_m": "Włoch",
+      "demonym_f": "Włoszka"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Wybrzeże Kości Słoniowej",
+      "demonym_m": "Iworyjczyk",
+      "demonym_f": "Iworyjka"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamajka",
+      "demonym_m": "Jamajczyk",
+      "demonym_f": "Jamajka"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonia",
+      "demonym_m": "Japończyk",
+      "demonym_f": "Japonka"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordania",
+      "demonym_m": "Jordańczyk",
+      "demonym_f": "Jordanka"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstan",
+      "demonym_m": "Kazachstańczyk",
+      "demonym_f": "Kazachstanka"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenia",
+      "demonym_m": "Kenijczyk",
+      "demonym_f": "Kenijka"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "demonym_m": "Kiribatyjczyk",
+      "demonym_f": "Kiribatyjka"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosowo",
+      "demonym_m": "Kosowianin",
+      "demonym_f": "Kosowianka"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwejt",
+      "demonym_m": "Kuwejtczyk",
+      "demonym_f": "Kuwejtka"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgistan",
+      "demonym_m": "Kirgiz",
+      "demonym_f": "Kirgizka"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "demonym_m": "Laotańczyk",
+      "demonym_f": "Laotanka"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Łotwa",
+      "demonym_m": "Łotysz",
+      "demonym_f": "Łotyszka"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Liban",
+      "demonym_m": "Libańczyk",
+      "demonym_f": "Libanka"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "demonym_m": "Mosotho",
+      "demonym_f": "Mosotho"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "demonym_m": "Liberyjczyk",
+      "demonym_f": "Liberyjka"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libia",
+      "demonym_m": "Libijczyk",
+      "demonym_f": "Libijka"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "demonym_m": "Liechtensteinianin",
+      "demonym_f": "Liechtensteinianka"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litwa",
+      "demonym_m": "Litwin",
+      "demonym_f": "Litwinka"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "demonym_m": "Luksemburczyk",
+      "demonym_f": "Luksemburka"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "demonym_m": "Malgasz",
+      "demonym_f": "Malgaszka"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "demonym_m": "Malawijczyk",
+      "demonym_f": "Malawijka"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezja",
+      "demonym_m": "Malezyjczyk",
+      "demonym_f": "Malezyjka"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Malediwy",
+      "demonym_m": "Malwińczyk",
+      "demonym_f": "Malwińka"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "demonym_m": "Malijczyk",
+      "demonym_f": "Malijka"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "demonym_m": "Maltańczyk",
+      "demonym_f": "Maltanka"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Wyspy Marshalla",
+      "demonym_m": "Marszallczyk",
+      "demonym_f": "Marszallka"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauretania",
+      "demonym_m": "Mauretańczyk",
+      "demonym_f": "Mauretanka"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "demonym_m": "Maurytyjczyk",
+      "demonym_f": "Maurytyjka"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksyk",
+      "demonym_m": "Meksykanin",
+      "demonym_f": "Meksykanka"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezja",
+      "demonym_m": "Mikronezyjczyk",
+      "demonym_f": "Mikronezyjka"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Mołdawia",
+      "demonym_m": "Mołdawianin",
+      "demonym_f": "Mołdawianka"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "demonym_m": "Monakijczyk",
+      "demonym_f": "Monakijka"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "demonym_m": "Mongoł",
+      "demonym_f": "Mongołka"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Czarnogóra",
+      "demonym_m": "Czarnogórzec",
+      "demonym_f": "Czarnogórka"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "demonym_m": "Marokańczyk",
+      "demonym_f": "Marokanka"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "demonym_m": "Mozambijczyk",
+      "demonym_f": "Mozambijka"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Mjanma",
+      "demonym_m": "Birmańczyk",
+      "demonym_f": "Birmańka"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "demonym_m": "Namibijczyk",
+      "demonym_f": "Namibijka"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "demonym_m": "Nauruańczyk",
+      "demonym_f": "Nauruanka"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "demonym_m": "Nepalczyk",
+      "demonym_f": "Nepalka"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Holandia",
+      "demonym_m": "Holender",
+      "demonym_f": "Holenderka"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nowa Zelandia",
+      "demonym_m": "Nowozelandczyk",
+      "demonym_f": "Nowozelandka"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "demonym_m": "Nikaraguańczyk",
+      "demonym_f": "Nikaraguanka"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "demonym_m": "Nigerczyk",
+      "demonym_f": "Nigerka"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "demonym_m": "Nigeryjczyk",
+      "demonym_f": "Nigeryjka"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Północna",
+      "demonym_m": "Północnokoreańczyk",
+      "demonym_f": "Północnokoreanka"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Macedonia Północna",
+      "demonym_m": "Macedończyk",
+      "demonym_f": "Macedonka"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "demonym_m": "Norweg",
+      "demonym_f": "Norweżka"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "demonym_m": "Omańczyk",
+      "demonym_f": "Omanka"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "demonym_m": "Pakistańczyk",
+      "demonym_f": "Pakistanka"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "demonym_m": "Palauańczyk",
+      "demonym_f": "Palauanka"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "demonym_m": "Panameńczyk",
+      "demonym_f": "Panamka"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua-Nowa Gwinea",
+      "demonym_m": "Papuas",
+      "demonym_f": "Papuaska"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paragwaj",
+      "demonym_m": "Paragwajczyk",
+      "demonym_f": "Paragwajka"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "demonym_m": "Peruwiańczyk",
+      "demonym_f": "Peruwianka"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipiny",
+      "demonym_m": "Filipińczyk",
+      "demonym_f": "Filipinka"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polska",
+      "demonym_m": "Polak",
+      "demonym_f": "Polka"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalia",
+      "demonym_m": "Portugalczyk",
+      "demonym_f": "Portugalka"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "demonym_m": "Katarczyk",
+      "demonym_f": "Katarka"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republika Konga",
+      "demonym_m": "Kongijczyk",
+      "demonym_f": "Kongijka"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumunia",
+      "demonym_m": "Rumun",
+      "demonym_f": "Rumunka"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rosja",
+      "demonym_m": "Rosjanin",
+      "demonym_f": "Rosjanka"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "demonym_m": "Rwandyjczyk",
+      "demonym_f": "Rwandyjka"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts i Nevis",
+      "demonym_m": "Kittyczyk lub Nevisianin",
+      "demonym_f": "Kittyjka lub Nevisianka"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "demonym_m": "Saint Luciańczyk",
+      "demonym_f": "Saint Luciańka"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent i Grenadyny",
+      "demonym_m": "Saint Vincentczyk",
+      "demonym_f": "Saint Vincentka"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "demonym_m": "Samoańczyk",
+      "demonym_f": "Samoanka"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "demonym_m": "Sanmaryńczyk",
+      "demonym_f": "Sanmarynka"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Wyspy Świętego Tomasza i Książęca",
+      "demonym_m": "Santomijczyk",
+      "demonym_f": "Santomijka"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arabia Saudyjska",
+      "demonym_m": "Saudyjczyk",
+      "demonym_f": "Saudyjka"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "demonym_m": "Senegalczyk",
+      "demonym_f": "Senegalka"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "demonym_m": "Serb",
+      "demonym_f": "Serbka"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seszele",
+      "demonym_m": "Seszelszczyk",
+      "demonym_f": "Seszelska"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "demonym_m": "Sierra Leoneńczyk",
+      "demonym_f": "Sierra Leoneanka"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "demonym_m": "Singapurczyk",
+      "demonym_f": "Singapurka"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Słowacja",
+      "demonym_m": "Słowak",
+      "demonym_f": "Słowaczka"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Słowenia",
+      "demonym_m": "Słoweniec",
+      "demonym_f": "Słowenka"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Wyspy Salomona",
+      "demonym_m": "Wyspiarz Salomona",
+      "demonym_f": "Wyspiarka Salomona"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "demonym_m": "Somalijczyk",
+      "demonym_f": "Somalijka"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Republika Południowej Afryki",
+      "demonym_m": "Południowoafrykańczyk",
+      "demonym_f": "Południowoafrykanka"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Południowa",
+      "demonym_m": "Południowokoreańczyk",
+      "demonym_f": "Południowokoreanka"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Południowy",
+      "demonym_m": "Południowy Sudańczyk",
+      "demonym_f": "Południowa Sudańka"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Hiszpania",
+      "demonym_m": "Hiszpan",
+      "demonym_f": "Hiszpanka"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "demonym_m": "Lankijczyk",
+      "demonym_f": "Lankijka"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "demonym_m": "Sudańczyk",
+      "demonym_f": "Sudańka"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "demonym_m": "Surinamczyk",
+      "demonym_f": "Surinamka"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Szwecja",
+      "demonym_m": "Szwed",
+      "demonym_f": "Szwedka"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Szwajcaria",
+      "demonym_m": "Szwajcar",
+      "demonym_f": "Szwajcarka"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Syria",
+      "demonym_m": "Syryjczyk",
+      "demonym_f": "Syryjka"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tadżykistan",
+      "demonym_m": "Tadżyk",
+      "demonym_f": "Tadżyczka"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "demonym_m": "Tanzańczyk",
+      "demonym_f": "Tanzańka"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tajlandia",
+      "demonym_m": "Taj",
+      "demonym_f": "Tajka"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Wschodni",
+      "demonym_m": "Wschodni Timorczyk",
+      "demonym_f": "Wschodnia Timorczynka"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "demonym_m": "Togijczyk",
+      "demonym_f": "Togijka"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "demonym_m": "Tongańczyk",
+      "demonym_f": "Tongańka"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trynidad i Tobago",
+      "demonym_m": "Trynidadczyk",
+      "demonym_f": "Trynidadka"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunezja",
+      "demonym_m": "Tunezyjczyk",
+      "demonym_f": "Tunezyjka"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turcja",
+      "demonym_m": "Turek",
+      "demonym_f": "Turczynka"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "demonym_m": "Turkmeńczyk",
+      "demonym_f": "Turkmenka"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "demonym_m": "Tuvaluanin",
+      "demonym_f": "Tuvaluanka"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "demonym_m": "Ugandyjczyk",
+      "demonym_f": "Ugandyjka"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "demonym_m": "Ukrainiec",
+      "demonym_f": "Ukrainka"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Zjednoczone Emiraty Arabskie",
+      "demonym_m": "Emiratczyk",
+      "demonym_f": "Emiratka"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Zjednoczone Królestwo",
+      "demonym_m": "Brytyjczyk",
+      "demonym_f": "Brytyjka"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Stany Zjednoczone",
+      "demonym_m": "Amerykanin",
+      "demonym_f": "Amerykanka"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Urugwaj",
+      "demonym_m": "Urugwajczyk",
+      "demonym_f": "Urugwajka"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "demonym_m": "Uzbekistańczyk",
+      "demonym_f": "Uzbekistanka"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "demonym_m": "Vanuatczyk",
+      "demonym_f": "Vanuatka"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Watykan",
+      "demonym_m": "Watykańczyk",
+      "demonym_f": "Watykanka"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Wenezuela",
+      "demonym_m": "Wenezuelczyk",
+      "demonym_f": "Wenezuelka"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Wietnam",
+      "demonym_m": "Wietnamczyk",
+      "demonym_f": "Wietnamka"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Jemen",
+      "demonym_m": "Jemeńczyk",
+      "demonym_f": "Jemenka"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "demonym_m": "Zambijczyk",
+      "demonym_f": "Zambijka"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "demonym_m": "Zimbabwejczyk",
+      "demonym_f": "Zimbabwejka"
+    }
+  ],
+  "meta": {
+    "seo_title": "Demonimy Krajów - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz kompleksową listę 195 demonimów krajów (męskich/żeńskich) z kodami ISO. Bezpłatny dostęp w formatach Excel, CSV i PDF dla Twoich projektów.",
+    "title": "Zbiór Danych Demonimów Krajów i Kodów ISO Świata",
+    "description": "Ten zbiór danych zawiera kompleksową listę 195 niepodległych krajów, szczegółowo opisując ich demonimy męskie i żeńskie wraz z kodami ISO Alpha-2 i Alpha-3.",
+    "key_takeaways": [
+      "Dostęp do 195 rekordów demonimów krajów, w tym form męskich i żeńskich.",
+      "Poznaj kraje z ich odpowiednimi kodami ISO Alpha-2 i Alpha-3.",
+      "Pobierz gotowe dane do badań lingwistycznych lub zastosowań geograficznych.",
+      "Wykorzystaj dokładne informacje o demonimach do różnorodnych potrzeb badawczych i rozwojowych."
+    ],
+    "keywords": [
+      "lista demonimów krajów",
+      "dane demonimów narodowych",
+      "kody iso demonimy",
+      "pobierz demonimy excel",
+      "dane demonimów csv",
+      "przymiotniki krajów"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptu Pythona, aby budować aplikacje wymagające specyficznej terminologii krajowej.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania trendów demonimów krajów w badaniach lingwistycznych lub tworzeniu treści edukacyjnych.",
+      "Wydrukuj wersję **PDF** jako szybki, offline przewodnik referencyjny w klasach, agencjach tłumaczeń lub planowaniu podróży.",
+      "Zintegruj te dane ze stronami internetowymi lub aplikacjami mobilnymi, aby zapewnić kulturowo dokładne terminy do identyfikacji użytkownika lub lokalizacji treści."
+    ]
+  },
+  "record_count": 195,
+  "title": "Zbiór Danych Demonimów Krajów i Kodów ISO Świata"
+}

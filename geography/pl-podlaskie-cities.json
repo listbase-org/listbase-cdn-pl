@@ -1,0 +1,436 @@
+{
+  "id": "pl-podlaskie-cities",
+  "name": "Województwo podlaskie — miasta",
+  "title": "Województwo podlaskie — miasta",
+  "description": "Lista miast w województwie podlaskim (województwo podlaskie) — 37 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the podlaskie voivodeship — 37 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 526,
+      "name": "Augustów",
+      "slug": "augustow",
+      "name_locative": "Augustowie",
+      "county_id": 187,
+      "county_name": "augustowski",
+      "latitude": 53.8437331,
+      "longitude": 22.9802357
+    },
+    {
+      "city_id": 537,
+      "name": "Bielsk Podlaski",
+      "slug": "bielsk-podlaski",
+      "name_locative": "Bielsku Podlaskim",
+      "county_id": 189,
+      "county_name": "bielski",
+      "latitude": 52.764915,
+      "longitude": 23.18821066
+    },
+    {
+      "city_id": 538,
+      "name": "Brańsk",
+      "slug": "bransk",
+      "name_locative": "Brańsku",
+      "county_id": 189,
+      "county_name": "bielski",
+      "latitude": 52.767255,
+      "longitude": 22.83093383
+    },
+    {
+      "city_id": 528,
+      "name": "Choroszcz",
+      "slug": "choroszcz",
+      "name_locative": "Choroszczy",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.143925,
+      "longitude": 22.9884588
+    },
+    {
+      "city_id": 559,
+      "name": "Ciechanowiec",
+      "slug": "ciechanowiec",
+      "name_locative": "Ciechanowcu",
+      "county_id": 199,
+      "county_name": "wysokomazowiecki",
+      "latitude": 52.6787967,
+      "longitude": 22.4991103
+    },
+    {
+      "city_id": 529,
+      "name": "Czarna Białostocka",
+      "slug": "czarna-bialostocka",
+      "name_locative": "Czarnej Białostockiej",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.2982835,
+      "longitude": 23.2851013
+    },
+    {
+      "city_id": 560,
+      "name": "Czyżew",
+      "slug": "czyzew",
+      "name_locative": "Czyżewie",
+      "county_id": 199,
+      "county_name": "wysokomazowiecki",
+      "latitude": 52.7975512,
+      "longitude": 22.3123475
+    },
+    {
+      "city_id": 553,
+      "name": "Drohiczyn",
+      "slug": "drohiczyn",
+      "name_locative": "Drohiczynie",
+      "county_id": 196,
+      "county_name": "siemiatycki",
+      "latitude": 52.396648,
+      "longitude": 22.658812
+    },
+    {
+      "city_id": 554,
+      "name": "Dąbrowa Białostocka",
+      "slug": "dabrowa-bialostocka",
+      "name_locative": "Dąbrowie Białostockiej",
+      "county_id": 197,
+      "county_name": "sokólski",
+      "latitude": 53.654439,
+      "longitude": 23.3485102
+    },
+    {
+      "city_id": 548,
+      "name": "Goniądz",
+      "slug": "goniadz",
+      "name_locative": "Goniądzu",
+      "county_id": 194,
+      "county_name": "moniecki",
+      "latitude": 53.489222,
+      "longitude": 22.7323721
+    },
+    {
+      "city_id": 539,
+      "name": "Grajewo",
+      "slug": "grajewo",
+      "name_locative": "Grajewie",
+      "county_id": 190,
+      "county_name": "grajewski",
+      "latitude": 53.6399088,
+      "longitude": 22.45783914
+    },
+    {
+      "city_id": 542,
+      "name": "Hajnówka",
+      "slug": "hajnowka",
+      "name_locative": "Hajnówce",
+      "county_id": 191,
+      "county_name": "hajnowski",
+      "latitude": 52.73173555,
+      "longitude": 23.57124798
+    },
+    {
+      "city_id": 546,
+      "name": "Jedwabne",
+      "slug": "jedwabne",
+      "name_locative": "Jedwabnem",
+      "county_id": 193,
+      "county_name": "łomżyński",
+      "latitude": 53.2867308,
+      "longitude": 22.3021413
+    },
+    {
+      "city_id": 543,
+      "name": "Kleszczele",
+      "slug": "kleszczele",
+      "name_locative": "Kleszczelach",
+      "county_id": 191,
+      "county_name": "hajnowski",
+      "latitude": 52.574173,
+      "longitude": 23.3254851
+    },
+    {
+      "city_id": 549,
+      "name": "Knyszyn",
+      "slug": "knyszyn",
+      "name_locative": "Knyszynie",
+      "county_id": 194,
+      "county_name": "moniecki",
+      "latitude": 53.3122442,
+      "longitude": 22.9200387
+    },
+    {
+      "city_id": 544,
+      "name": "Kolno",
+      "slug": "kolno",
+      "name_locative": "Kolnie",
+      "county_id": 192,
+      "county_name": "kolneński",
+      "latitude": 53.40168675,
+      "longitude": 21.93607772
+    },
+    {
+      "city_id": 555,
+      "name": "Krynki",
+      "slug": "krynki",
+      "name_locative": "Krynkach",
+      "county_id": 197,
+      "county_name": "sokólski",
+      "latitude": 53.2644419,
+      "longitude": 23.7726182
+    },
+    {
+      "city_id": 527,
+      "name": "Lipsk",
+      "slug": "lipsk",
+      "name_locative": "Lipsku",
+      "county_id": 187,
+      "county_name": "augustowski",
+      "latitude": 53.7335414,
+      "longitude": 23.4037394
+    },
+    {
+      "city_id": 531,
+      "name": "Michałowo",
+      "slug": "michalowo",
+      "name_locative": "Michałowie",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.0328933,
+      "longitude": 23.6066858
+    },
+    {
+      "city_id": 550,
+      "name": "Mońki",
+      "slug": "monki",
+      "name_locative": "Mońkach",
+      "county_id": 194,
+      "county_name": "moniecki",
+      "latitude": 53.4065738,
+      "longitude": 22.7983772
+    },
+    {
+      "city_id": 547,
+      "name": "Nowogród",
+      "slug": "nowogrod",
+      "name_locative": "Nowogrodzie",
+      "county_id": 193,
+      "county_name": "łomżyński",
+      "latitude": 53.2280804,
+      "longitude": 21.8797908
+    },
+    {
+      "city_id": 540,
+      "name": "Rajgród",
+      "slug": "rajgrod",
+      "name_locative": "Rajgrodzie",
+      "county_id": 190,
+      "county_name": "grajewski",
+      "latitude": 53.7304739,
+      "longitude": 22.6976173
+    },
+    {
+      "city_id": 551,
+      "name": "Sejny",
+      "slug": "sejny",
+      "name_locative": "Sejnach",
+      "county_id": 195,
+      "county_name": "sejneński",
+      "latitude": 54.1101732,
+      "longitude": 23.34714208
+    },
+    {
+      "city_id": 552,
+      "name": "Siemiatycze",
+      "slug": "siemiatycze",
+      "name_locative": "Siemiatyczach",
+      "county_id": 196,
+      "county_name": "siemiatycki",
+      "latitude": 52.4209252,
+      "longitude": 22.87543727
+    },
+    {
+      "city_id": 556,
+      "name": "Sokółka",
+      "slug": "sokolka",
+      "name_locative": "Sokółce",
+      "county_id": 197,
+      "county_name": "sokólski",
+      "latitude": 53.4049183,
+      "longitude": 23.4995562
+    },
+    {
+      "city_id": 545,
+      "name": "Stawiski",
+      "slug": "stawiski",
+      "name_locative": "Stawiskach",
+      "county_id": 192,
+      "county_name": "kolneński",
+      "latitude": 53.3798382,
+      "longitude": 22.1548937
+    },
+    {
+      "city_id": 557,
+      "name": "Suchowola",
+      "slug": "suchowola",
+      "name_locative": "Suchowoli",
+      "county_id": 197,
+      "county_name": "sokólski",
+      "latitude": 53.578557,
+      "longitude": 23.1058224
+    },
+    {
+      "city_id": 532,
+      "name": "Supraśl",
+      "slug": "suprasl",
+      "name_locative": "Supraślu",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.2100391,
+      "longitude": 23.3360728
+    },
+    {
+      "city_id": 533,
+      "name": "Suraż",
+      "slug": "suraz",
+      "name_locative": "Surażu",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 52.9491665,
+      "longitude": 22.9563836
+    },
+    {
+      "city_id": 541,
+      "name": "Szczuczyn",
+      "slug": "szczuczyn",
+      "name_locative": "Szczuczynie",
+      "county_id": 190,
+      "county_name": "grajewski",
+      "latitude": 53.5629982,
+      "longitude": 22.2855495
+    },
+    {
+      "city_id": 561,
+      "name": "Szepietowo",
+      "slug": "szepietowo",
+      "name_locative": "Szepietowie",
+      "county_id": 199,
+      "county_name": "wysokomazowiecki",
+      "latitude": 52.8712982,
+      "longitude": 22.5474331
+    },
+    {
+      "city_id": 534,
+      "name": "Tykocin",
+      "slug": "tykocin",
+      "name_locative": "Tykocinie",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.207646,
+      "longitude": 22.7730188
+    },
+    {
+      "city_id": 535,
+      "name": "Wasilków",
+      "slug": "wasilkow",
+      "name_locative": "Wasilkowie",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.198684,
+      "longitude": 23.2056777
+    },
+    {
+      "city_id": 558,
+      "name": "Wysokie Mazowieckie",
+      "slug": "wysokie-mazowieckie",
+      "name_locative": "Wysokiem Mazowieckiem",
+      "county_id": 199,
+      "county_name": "wysokomazowiecki",
+      "latitude": 52.9256354,
+      "longitude": 22.51040145
+    },
+    {
+      "city_id": 536,
+      "name": "Zabłudów",
+      "slug": "zabludow",
+      "name_locative": "Zabłudowie",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 53.0147671,
+      "longitude": 23.3379526
+    },
+    {
+      "city_id": 562,
+      "name": "Zambrów",
+      "slug": "zambrow",
+      "name_locative": "Zambrowie",
+      "county_id": 200,
+      "county_name": "zambrowski",
+      "latitude": 52.9758333,
+      "longitude": 22.23729347
+    },
+    {
+      "city_id": 530,
+      "name": "Łapy",
+      "slug": "lapy",
+      "name_locative": "Łapach",
+      "county_id": 188,
+      "county_name": "białostocki",
+      "latitude": 52.9908208,
+      "longitude": 22.883005
+    }
+  ],
+  "meta": {
+    "title": "Województwo podlaskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie podlaskim (województwo podlaskie) — 37 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the podlaskie voivodeship — 37 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 37 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo podlaskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo podlaskie — miasta — 37 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 37 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

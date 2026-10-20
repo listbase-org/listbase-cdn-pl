@@ -1,0 +1,686 @@
+{
+  "id": "pl-malopolskie-miasta",
+  "name": "Miasta w województwie małopolskie",
+  "title": "Miasta w województwie małopolskie",
+  "description": "Cities and towns (miasta) in Małopolskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "200",
+      "name": "Alwernia",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "chrzanowski",
+      "commune": "Alwernia-gmina miejsko-wiejska",
+      "latitude": 50.0686,
+      "longitude": 19.5419
+    },
+    {
+      "id": "217",
+      "name": "Andrychów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "wadowicki",
+      "commune": "Andrychów-gmina miejsko-wiejska",
+      "latitude": 49.8528,
+      "longitude": 19.3414
+    },
+    {
+      "id": "1334",
+      "name": "Biecz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "gorlicki",
+      "commune": "Biecz-gmina miejsko-wiejska",
+      "latitude": 49.7311,
+      "longitude": 21.2539
+    },
+    {
+      "id": "1844",
+      "name": "Bobowa",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "gorlicki",
+      "commune": "Bobowa-gmina miejsko-wiejska",
+      "latitude": 49.7053,
+      "longitude": 20.95
+    },
+    {
+      "id": "1913",
+      "name": "Bochnia",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "bocheński",
+      "commune": "Bochnia-gmina miejska",
+      "latitude": 49.9694,
+      "longitude": 20.4325
+    },
+    {
+      "id": "3056",
+      "name": "Brzesko",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "brzeski",
+      "commune": "Brzesko-gmina miejsko-wiejska",
+      "latitude": 49.9683,
+      "longitude": 20.6078
+    },
+    {
+      "id": "3057",
+      "name": "Brzeszcze",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "oświęcimski",
+      "commune": "Brzeszcze-gmina miejsko-wiejska",
+      "latitude": 49.9831,
+      "longitude": 19.1442
+    },
+    {
+      "id": "3740",
+      "name": "Bukowno",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "olkuski",
+      "commune": "Bukowno-gmina miejska",
+      "latitude": 50.2678,
+      "longitude": 19.4628
+    },
+    {
+      "id": "4181",
+      "name": "Chełmek",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "oświęcimski",
+      "commune": "Chełmek-gmina miejsko-wiejska",
+      "latitude": 50.1006,
+      "longitude": 19.2583
+    },
+    {
+      "id": "4688",
+      "name": "Chrzanów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "chrzanowski",
+      "commune": "Chrzanów-gmina miejsko-wiejska",
+      "latitude": 50.1417,
+      "longitude": 19.4114
+    },
+    {
+      "id": "5070",
+      "name": "Ciężkowice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Ciężkowice-gmina miejsko-wiejska",
+      "latitude": 49.7864,
+      "longitude": 20.9742
+    },
+    {
+      "id": "5500",
+      "name": "Czchów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "brzeski",
+      "commune": "Czchów-gmina miejsko-wiejska",
+      "latitude": 49.8339,
+      "longitude": 20.6736
+    },
+    {
+      "id": "6180",
+      "name": "Dąbrowa Tarnowska",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "dąbrowski",
+      "commune": "Dąbrowa Tarnowska-gmina miejsko-wiejska",
+      "latitude": 50.1744,
+      "longitude": 20.9864
+    },
+    {
+      "id": "6742",
+      "name": "Dobczyce",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "myślenicki",
+      "commune": "Dobczyce-gmina miejsko-wiejska",
+      "latitude": 49.8778,
+      "longitude": 20.0989
+    },
+    {
+      "id": "9261",
+      "name": "Gorlice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "gorlicki",
+      "commune": "Gorlice-gmina miejska",
+      "latitude": 49.655,
+      "longitude": 21.16
+    },
+    {
+      "id": "10373",
+      "name": "Grybów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowosądecki",
+      "commune": "Grybów-gmina miejska",
+      "latitude": 49.6247,
+      "longitude": 20.9475
+    },
+    {
+      "id": "12590",
+      "name": "Jordanów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "suski",
+      "commune": "Jordanów-gmina miejska",
+      "latitude": 49.6494,
+      "longitude": 19.8303
+    },
+    {
+      "id": "13058",
+      "name": "Kalwaria Zebrzydowska",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "wadowicki",
+      "commune": "Kalwaria Zebrzydowska-gmina miejsko-wiejska",
+      "latitude": 49.8667,
+      "longitude": 19.6758
+    },
+    {
+      "id": "13986",
+      "name": "Kęty",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "oświęcimski",
+      "commune": "Kęty-gmina miejsko-wiejska",
+      "latitude": 49.8836,
+      "longitude": 19.2222
+    },
+    {
+      "id": "15643",
+      "name": "Koszyce",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "proszowicki",
+      "commune": "Koszyce-gmina wiejska",
+      "latitude": 50.1686,
+      "longitude": 20.5778
+    },
+    {
+      "id": "16121",
+      "name": "Kraków",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "Kraków",
+      "commune": "Kraków-gmina miejska",
+      "latitude": 50.0617,
+      "longitude": 19.9375
+    },
+    {
+      "id": "16623",
+      "name": "Krynica-Zdrój",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowosądecki",
+      "commune": "Krynica-Zdrój-gmina miejsko-wiejska",
+      "latitude": 49.4214,
+      "longitude": 20.9597
+    },
+    {
+      "id": "16750",
+      "name": "Krzeszowice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "krakowski",
+      "commune": "Krzeszowice-gmina miejsko-wiejska",
+      "latitude": 50.135,
+      "longitude": 19.6367
+    },
+    {
+      "id": "18026",
+      "name": "Libiąż",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "chrzanowski",
+      "commune": "Libiąż-gmina miejsko-wiejska",
+      "latitude": 50.1067,
+      "longitude": 19.3297
+    },
+    {
+      "id": "18097",
+      "name": "Limanowa",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "limanowski",
+      "commune": "Limanowa-gmina miejska",
+      "latitude": 49.7064,
+      "longitude": 20.4228
+    },
+    {
+      "id": "20143",
+      "name": "Maków Podhalański",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "suski",
+      "commune": "Maków Podhalański-gmina miejsko-wiejska",
+      "latitude": 49.7303,
+      "longitude": 19.6764
+    },
+    {
+      "id": "21140",
+      "name": "Miechów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "miechowski",
+      "commune": "Miechów-gmina miejsko-wiejska",
+      "latitude": 50.3558,
+      "longitude": 20.0286
+    },
+    {
+      "id": "22343",
+      "name": "Mszana Dolna",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "limanowski",
+      "commune": "Mszana Dolna-gmina miejska",
+      "latitude": 49.6781,
+      "longitude": 20.0825
+    },
+    {
+      "id": "22421",
+      "name": "Muszyna",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowosądecki",
+      "commune": "Muszyna-gmina miejsko-wiejska",
+      "latitude": 49.3547,
+      "longitude": 20.8958
+    },
+    {
+      "id": "22489",
+      "name": "Myślenice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "myślenicki",
+      "commune": "Myślenice-gmina miejsko-wiejska",
+      "latitude": 49.8339,
+      "longitude": 19.9381
+    },
+    {
+      "id": "23012",
+      "name": "Niepołomice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "wielicki",
+      "commune": "Niepołomice-gmina miejsko-wiejska",
+      "latitude": 50.0331,
+      "longitude": 20.2164
+    },
+    {
+      "id": "23599",
+      "name": "Nowe Brzesko",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "proszowicki",
+      "commune": "Nowe Brzesko-gmina miejsko-wiejska",
+      "latitude": 50.1311,
+      "longitude": 20.3744
+    },
+    {
+      "id": "24223",
+      "name": "Nowy Sącz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "Nowy Sącz",
+      "commune": "Nowy Sącz-gmina miejska",
+      "latitude": 49.625,
+      "longitude": 20.6906
+    },
+    {
+      "id": "24263",
+      "name": "Nowy Targ",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowotarski",
+      "commune": "Nowy Targ-gmina miejska",
+      "latitude": 49.4775,
+      "longitude": 20.0319
+    },
+    {
+      "id": "24278",
+      "name": "Nowy Wiśnicz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "bocheński",
+      "commune": "Nowy Wiśnicz-gmina miejsko-wiejska",
+      "latitude": 49.9153,
+      "longitude": 20.4619
+    },
+    {
+      "id": "24717",
+      "name": "Olkusz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "olkuski",
+      "commune": "Olkusz-gmina miejsko-wiejska",
+      "latitude": 50.2789,
+      "longitude": 19.56
+    },
+    {
+      "id": "25586",
+      "name": "Oświęcim",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "oświęcimski",
+      "commune": "Oświęcim-gmina miejska",
+      "latitude": 50.0381,
+      "longitude": 19.2208
+    },
+    {
+      "id": "26872",
+      "name": "Piwniczna-Zdrój",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowosądecki",
+      "commune": "Piwniczna-Zdrój-gmina miejsko-wiejska",
+      "latitude": 49.4411,
+      "longitude": 20.7161
+    },
+    {
+      "id": "28328",
+      "name": "Proszowice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "proszowicki",
+      "commune": "Proszowice-gmina miejsko-wiejska",
+      "latitude": 50.1925,
+      "longitude": 20.29
+    },
+    {
+      "id": "29097",
+      "name": "Rabka-Zdrój",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowotarski",
+      "commune": "Rabka-Zdrój-gmina miejsko-wiejska",
+      "latitude": 49.61,
+      "longitude": 19.9528
+    },
+    {
+      "id": "29212",
+      "name": "Radłów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Radłów-gmina miejsko-wiejska",
+      "latitude": 50.0831,
+      "longitude": 20.8478
+    },
+    {
+      "id": "30934",
+      "name": "Ryglice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Ryglice-gmina miejsko-wiejska",
+      "latitude": 49.8792,
+      "longitude": 21.1383
+    },
+    {
+      "id": "32156",
+      "name": "Skała",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "krakowski",
+      "commune": "Skała-gmina miejsko-wiejska",
+      "latitude": 50.2303,
+      "longitude": 19.8542
+    },
+    {
+      "id": "32218",
+      "name": "Skawina",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "krakowski",
+      "commune": "Skawina-gmina miejsko-wiejska",
+      "latitude": 49.975,
+      "longitude": 19.8264
+    },
+    {
+      "id": "32607",
+      "name": "Słomniki",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "krakowski",
+      "commune": "Słomniki-gmina miejsko-wiejska",
+      "latitude": 50.24,
+      "longitude": 20.0822
+    },
+    {
+      "id": "34183",
+      "name": "Stary Sącz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowosądecki",
+      "commune": "Stary Sącz-gmina miejsko-wiejska",
+      "latitude": 49.5642,
+      "longitude": 20.635
+    },
+    {
+      "id": "34956",
+      "name": "Sucha Beskidzka",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "suski",
+      "commune": "Sucha Beskidzka-gmina miejska",
+      "latitude": 49.7403,
+      "longitude": 19.5875
+    },
+    {
+      "id": "35165",
+      "name": "Sułkowice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "myślenicki",
+      "commune": "Sułkowice-gmina miejsko-wiejska",
+      "latitude": 49.8411,
+      "longitude": 19.8014
+    },
+    {
+      "id": "35454",
+      "name": "Szczawnica",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "nowotarski",
+      "commune": "Szczawnica-gmina miejsko-wiejska",
+      "latitude": 49.4253,
+      "longitude": 20.4828
+    },
+    {
+      "id": "35574",
+      "name": "Szczucin",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "dąbrowski",
+      "commune": "Szczucin-gmina miejsko-wiejska",
+      "latitude": 50.3092,
+      "longitude": 21.0764
+    },
+    {
+      "id": "36230",
+      "name": "Świątniki Górne",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "krakowski",
+      "commune": "Świątniki Górne-gmina miejsko-wiejska",
+      "latitude": 49.9342,
+      "longitude": 19.9536
+    },
+    {
+      "id": "36653",
+      "name": "Tarnów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "Tarnów",
+      "commune": "Tarnów-gmina miejska",
+      "latitude": 50.0125,
+      "longitude": 20.9883
+    },
+    {
+      "id": "37288",
+      "name": "Trzebinia",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "chrzanowski",
+      "commune": "Trzebinia-gmina miejsko-wiejska",
+      "latitude": 50.1583,
+      "longitude": 19.4728
+    },
+    {
+      "id": "37404",
+      "name": "Tuchów",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Tuchów-gmina miejsko-wiejska",
+      "latitude": 49.895,
+      "longitude": 21.0544
+    },
+    {
+      "id": "38009",
+      "name": "Wadowice",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "wadowicki",
+      "commune": "Wadowice-gmina miejsko-wiejska",
+      "latitude": 49.8831,
+      "longitude": 19.4931
+    },
+    {
+      "id": "38647",
+      "name": "Wieliczka",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "wielicki",
+      "commune": "Wieliczka-gmina miejsko-wiejska",
+      "latitude": 49.9847,
+      "longitude": 20.0622
+    },
+    {
+      "id": "39736",
+      "name": "Wojnicz",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Wojnicz-gmina miejsko-wiejska",
+      "latitude": 49.9578,
+      "longitude": 20.8375
+    },
+    {
+      "id": "40190",
+      "name": "Wolbrom",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "olkuski",
+      "commune": "Wolbrom-gmina miejsko-wiejska",
+      "latitude": 50.3853,
+      "longitude": 19.76
+    },
+    {
+      "id": "41627",
+      "name": "Zakliczyn",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Zakliczyn-gmina miejsko-wiejska",
+      "latitude": 49.8561,
+      "longitude": 20.8097
+    },
+    {
+      "id": "41633",
+      "name": "Zakopane",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tatrzański",
+      "commune": "Zakopane-gmina miejska",
+      "latitude": 49.2969,
+      "longitude": 19.95
+    },
+    {
+      "id": "42169",
+      "name": "Zator",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "oświęcimski",
+      "commune": "Zator-gmina miejsko-wiejska",
+      "latitude": 49.9961,
+      "longitude": 19.4369
+    },
+    {
+      "id": "43106",
+      "name": "Żabno",
+      "type": "city",
+      "province": "małopolskie",
+      "district": "tarnowski",
+      "commune": "Żabno-gmina miejsko-wiejska",
+      "latitude": 50.1333,
+      "longitude": 20.8861
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie małopolskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Małopolskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 62 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie małopolskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie małopolskie — 62 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 62 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

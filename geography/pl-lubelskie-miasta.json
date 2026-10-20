@@ -1,0 +1,566 @@
+{
+  "id": "pl-lubelskie-miasta",
+  "name": "Miasta w województwie lubelskie",
+  "title": "Miasta w województwie lubelskie",
+  "description": "Cities and towns (miasta) in Lubelskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "280",
+      "name": "Annopol",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "kraśnicki",
+      "commune": "Annopol-gmina miejsko-wiejska",
+      "latitude": 50.8856,
+      "longitude": 21.8569
+    },
+    {
+      "id": "991",
+      "name": "Bełżyce",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubelski",
+      "commune": "Bełżyce-gmina miejsko-wiejska",
+      "latitude": 51.175,
+      "longitude": 22.2819
+    },
+    {
+      "id": "1145",
+      "name": "Biała Podlaska",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "Biała Podlaska",
+      "commune": "Biała Podlaska-gmina miejska",
+      "latitude": 52.0339,
+      "longitude": 23.1231
+    },
+    {
+      "id": "1613",
+      "name": "Biłgoraj",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "biłgorajski",
+      "commune": "Biłgoraj-gmina miejska",
+      "latitude": 50.5383,
+      "longitude": 22.7203
+    },
+    {
+      "id": "3844",
+      "name": "Bychawa",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubelski",
+      "commune": "Bychawa-gmina miejsko-wiejska",
+      "latitude": 51.0144,
+      "longitude": 22.5347
+    },
+    {
+      "id": "4168",
+      "name": "Chełm",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "Chełm",
+      "commune": "Chełm-gmina miejska",
+      "latitude": 51.1336,
+      "longitude": 23.4717
+    },
+    {
+      "id": "6487",
+      "name": "Dęblin",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "rycki",
+      "commune": "Dęblin-gmina miejska",
+      "latitude": 51.5658,
+      "longitude": 21.8456
+    },
+    {
+      "id": "8045",
+      "name": "Frampol",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "biłgorajski",
+      "commune": "Frampol-gmina miejsko-wiejska",
+      "latitude": 50.6717,
+      "longitude": 22.6706
+    },
+    {
+      "id": "9237",
+      "name": "Goraj",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "biłgorajski",
+      "commune": "Goraj-gmina wiejska",
+      "latitude": 50.7214,
+      "longitude": 22.6672
+    },
+    {
+      "id": "10901",
+      "name": "Hrubieszów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "hrubieszowski",
+      "commune": "Hrubieszów-gmina miejska",
+      "latitude": 50.805,
+      "longitude": 23.8897
+    },
+    {
+      "id": "11790",
+      "name": "Janów Lubelski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "janowski",
+      "commune": "Janów Lubelski-gmina miejsko-wiejska",
+      "latitude": 50.7067,
+      "longitude": 22.4111
+    },
+    {
+      "id": "12685",
+      "name": "Józefów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "biłgorajski",
+      "commune": "Józefów-gmina miejsko-wiejska",
+      "latitude": 50.4811,
+      "longitude": 23.0528
+    },
+    {
+      "id": "12707",
+      "name": "Józefów nad Wisłą",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "opolski",
+      "commune": "Józefów nad Wisłą-gmina wiejska",
+      "latitude": 51.0408,
+      "longitude": 21.8297
+    },
+    {
+      "id": "13281",
+      "name": "Kamionka",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubartowski",
+      "commune": "Kamionka-gmina wiejska",
+      "latitude": 51.4708,
+      "longitude": 22.4625
+    },
+    {
+      "id": "13747",
+      "name": "Kazimierz Dolny",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "puławski",
+      "commune": "Kazimierz Dolny-gmina miejsko-wiejska",
+      "latitude": 51.3222,
+      "longitude": 21.9475
+    },
+    {
+      "id": "14763",
+      "name": "Kock",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubartowski",
+      "commune": "Kock-gmina miejsko-wiejska",
+      "latitude": 51.6397,
+      "longitude": 22.4464
+    },
+    {
+      "id": "16194",
+      "name": "Krasnobród",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "zamojski",
+      "commune": "Krasnobród-gmina miejsko-wiejska",
+      "latitude": 50.545,
+      "longitude": 23.2114
+    },
+    {
+      "id": "16211",
+      "name": "Krasnystaw",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "krasnostawski",
+      "commune": "Krasnystaw-gmina miejska",
+      "latitude": 50.9817,
+      "longitude": 23.1672
+    },
+    {
+      "id": "16256",
+      "name": "Kraśnik",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "kraśnicki",
+      "commune": "Kraśnik-gmina miejska",
+      "latitude": 50.9217,
+      "longitude": 22.2194
+    },
+    {
+      "id": "18527",
+      "name": "Lubartów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubartowski",
+      "commune": "Lubartów-gmina miejska",
+      "latitude": 51.4578,
+      "longitude": 22.6094
+    },
+    {
+      "id": "18656",
+      "name": "Lublin",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "Lublin",
+      "commune": "Lublin-gmina miejska",
+      "latitude": 51.2478,
+      "longitude": 22.5681
+    },
+    {
+      "id": "18766",
+      "name": "Lubycza Królewska",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "tomaszowski",
+      "commune": "Lubycza Królewska-gmina miejsko-wiejska",
+      "latitude": 50.3406,
+      "longitude": 23.5206
+    },
+    {
+      "id": "19093",
+      "name": "Łaszczów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "tomaszowski",
+      "commune": "Łaszczów-gmina miejsko-wiejska",
+      "latitude": 50.5317,
+      "longitude": 23.7158
+    },
+    {
+      "id": "19338",
+      "name": "Łęczna",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "łęczyński",
+      "commune": "Łęczna-gmina miejsko-wiejska",
+      "latitude": 51.3047,
+      "longitude": 22.8822
+    },
+    {
+      "id": "19820",
+      "name": "Łuków",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "łukowski",
+      "commune": "Łuków-gmina miejska",
+      "latitude": 51.93,
+      "longitude": 22.3806
+    },
+    {
+      "id": "21360",
+      "name": "Międzyrzec Podlaski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "bialski",
+      "commune": "Międzyrzec Podlaski-gmina miejska",
+      "latitude": 51.9872,
+      "longitude": 22.7808
+    },
+    {
+      "id": "21894",
+      "name": "Modliborzyce",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "janowski",
+      "commune": "Modliborzyce-gmina miejsko-wiejska",
+      "latitude": 50.7539,
+      "longitude": 22.3294
+    },
+    {
+      "id": "22625",
+      "name": "Nałęczów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "puławski",
+      "commune": "Nałęczów-gmina miejsko-wiejska",
+      "latitude": 51.2878,
+      "longitude": 22.2153
+    },
+    {
+      "id": "24946",
+      "name": "Opole Lubelskie",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "opolski",
+      "commune": "Opole Lubelskie-gmina miejsko-wiejska",
+      "latitude": 51.1472,
+      "longitude": 21.9692
+    },
+    {
+      "id": "25491",
+      "name": "Ostrów Lubelski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "lubartowski",
+      "commune": "Ostrów Lubelski-gmina miejsko-wiejska",
+      "latitude": 51.4947,
+      "longitude": 22.8542
+    },
+    {
+      "id": "25865",
+      "name": "Parczew",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "parczewski",
+      "commune": "Parczew-gmina miejsko-wiejska",
+      "latitude": 51.6406,
+      "longitude": 22.9
+    },
+    {
+      "id": "26318",
+      "name": "Piaski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "świdnicki",
+      "commune": "Piaski-gmina miejsko-wiejska",
+      "latitude": 51.1375,
+      "longitude": 22.8483
+    },
+    {
+      "id": "27819",
+      "name": "Poniatowa",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "opolski",
+      "commune": "Poniatowa-gmina miejsko-wiejska",
+      "latitude": 51.19,
+      "longitude": 22.0675
+    },
+    {
+      "id": "28997",
+      "name": "Puławy",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "puławski",
+      "commune": "Puławy-gmina miejska",
+      "latitude": 51.4167,
+      "longitude": 21.9678
+    },
+    {
+      "id": "29420",
+      "name": "Radzyń Podlaski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "radzyński",
+      "commune": "Radzyń Podlaski-gmina miejska",
+      "latitude": 51.785,
+      "longitude": 22.6192
+    },
+    {
+      "id": "29680",
+      "name": "Rejowiec",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "chełmski",
+      "commune": "Rejowiec-gmina miejsko-wiejska",
+      "latitude": 51.0942,
+      "longitude": 23.2833
+    },
+    {
+      "id": "29682",
+      "name": "Rejowiec Fabryczny",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "chełmski",
+      "commune": "Rejowiec Fabryczny-gmina miejska",
+      "latitude": 51.1214,
+      "longitude": 23.2433
+    },
+    {
+      "id": "30941",
+      "name": "Ryki",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "rycki",
+      "commune": "Ryki-gmina miejsko-wiejska",
+      "latitude": 51.6258,
+      "longitude": 21.9342
+    },
+    {
+      "id": "31775",
+      "name": "Siedliszcze",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "chełmski",
+      "commune": "Siedliszcze-gmina miejsko-wiejska",
+      "latitude": 51.1953,
+      "longitude": 23.1644
+    },
+    {
+      "id": "34454",
+      "name": "Stoczek Łukowski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "łukowski",
+      "commune": "Stoczek Łukowski-gmina miejska",
+      "latitude": 51.9614,
+      "longitude": 21.9694
+    },
+    {
+      "id": "35465",
+      "name": "Szczebrzeszyn",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "zamojski",
+      "commune": "Szczebrzeszyn-gmina miejsko-wiejska",
+      "latitude": 50.695,
+      "longitude": 22.9783
+    },
+    {
+      "id": "36245",
+      "name": "Świdnik",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "świdnicki",
+      "commune": "Świdnik-gmina miejska",
+      "latitude": 51.22,
+      "longitude": 22.7003
+    },
+    {
+      "id": "36617",
+      "name": "Tarnogród",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "biłgorajski",
+      "commune": "Tarnogród-gmina miejsko-wiejska",
+      "latitude": 50.3608,
+      "longitude": 22.7419
+    },
+    {
+      "id": "36803",
+      "name": "Terespol",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "bialski",
+      "commune": "Terespol-gmina miejska",
+      "latitude": 52.0761,
+      "longitude": 23.6161
+    },
+    {
+      "id": "36920",
+      "name": "Tomaszów Lubelski",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "tomaszowski",
+      "commune": "Tomaszów Lubelski-gmina miejska",
+      "latitude": 50.4511,
+      "longitude": 23.4158
+    },
+    {
+      "id": "37702",
+      "name": "Tyszowce",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "tomaszowski",
+      "commune": "Tyszowce-gmina miejsko-wiejska",
+      "latitude": 50.6172,
+      "longitude": 23.7061
+    },
+    {
+      "id": "37924",
+      "name": "Urzędów",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "kraśnicki",
+      "commune": "Urzędów-gmina miejsko-wiejska",
+      "latitude": 50.9922,
+      "longitude": 22.1431
+    },
+    {
+      "id": "39571",
+      "name": "Włodawa",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "włodawski",
+      "commune": "Włodawa-gmina miejska",
+      "latitude": 51.5444,
+      "longitude": 23.5539
+    },
+    {
+      "id": "41979",
+      "name": "Zamość",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "Zamość",
+      "commune": "Zamość-gmina miejska",
+      "latitude": 50.7161,
+      "longitude": 23.2547
+    },
+    {
+      "id": "42998",
+      "name": "Zwierzyniec",
+      "type": "city",
+      "province": "lubelskie",
+      "district": "zamojski",
+      "commune": "Zwierzyniec-gmina miejsko-wiejska",
+      "latitude": 50.6139,
+      "longitude": 22.9714
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie lubelskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Lubelskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 50 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie lubelskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie lubelskie — 50 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 50 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "pl-slaskie-counties",
+  "name": "Województwo śląskie — powiaty",
+  "title": "Województwo śląskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie śląskim (województwo śląskie) — 17 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the śląskie voivodeship — 17 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 218,
+      "name": "bielski",
+      "slug": "bielski"
+    },
+    {
+      "county_id": 230,
+      "name": "bieruńsko-lędziński",
+      "slug": "bierunsko-ledzinski"
+    },
+    {
+      "county_id": 217,
+      "name": "będziński",
+      "slug": "bedzinski"
+    },
+    {
+      "county_id": 219,
+      "name": "cieszyński",
+      "slug": "cieszynski"
+    },
+    {
+      "county_id": 220,
+      "name": "częstochowski",
+      "slug": "czestochowski"
+    },
+    {
+      "county_id": 221,
+      "name": "gliwicki",
+      "slug": "gliwicki"
+    },
+    {
+      "county_id": 222,
+      "name": "kłobucki",
+      "slug": "klobucki"
+    },
+    {
+      "county_id": 223,
+      "name": "lubliniecki",
+      "slug": "lubliniecki"
+    },
+    {
+      "county_id": 224,
+      "name": "mikołowski",
+      "slug": "mikolowski"
+    },
+    {
+      "county_id": 225,
+      "name": "myszkowski",
+      "slug": "myszkowski"
+    },
+    {
+      "county_id": 226,
+      "name": "pszczyński",
+      "slug": "pszczynski"
+    },
+    {
+      "county_id": 227,
+      "name": "raciborski",
+      "slug": "raciborski"
+    },
+    {
+      "county_id": 228,
+      "name": "rybnicki",
+      "slug": "rybnicki"
+    },
+    {
+      "county_id": 229,
+      "name": "tarnogórski",
+      "slug": "tarnogorski"
+    },
+    {
+      "county_id": 231,
+      "name": "wodzisławski",
+      "slug": "wodzislawski"
+    },
+    {
+      "county_id": 232,
+      "name": "zawierciański",
+      "slug": "zawiercianski"
+    },
+    {
+      "county_id": 233,
+      "name": "żywiecki",
+      "slug": "zywiecki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo śląskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie śląskim (województwo śląskie) — 17 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the śląskie voivodeship — 17 entries. Excludes city-counties (see pl-city-counties). Zawiera 17 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo śląskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo śląskie — powiaty — 17 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 17 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

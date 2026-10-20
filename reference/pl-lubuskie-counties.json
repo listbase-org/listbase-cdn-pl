@@ -1,0 +1,101 @@
+{
+  "id": "pl-lubuskie-counties",
+  "name": "Województwo lubuskie — powiaty",
+  "title": "Województwo lubuskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie lubuskim (województwo lubuskie) — 12 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the lubuskie voivodeship — 12 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 66,
+      "name": "gorzowski",
+      "slug": "gorzowski"
+    },
+    {
+      "county_id": 67,
+      "name": "krośnieński",
+      "slug": "krosnienski"
+    },
+    {
+      "county_id": 68,
+      "name": "międzyrzecki",
+      "slug": "miedzyrzecki"
+    },
+    {
+      "county_id": 69,
+      "name": "nowosolski",
+      "slug": "nowosolski"
+    },
+    {
+      "county_id": 71,
+      "name": "strzelecko-drezdenecki",
+      "slug": "strzelecko-drezdenecki"
+    },
+    {
+      "county_id": 72,
+      "name": "sulęciński",
+      "slug": "sulecinski"
+    },
+    {
+      "county_id": 70,
+      "name": "słubicki",
+      "slug": "slubicki"
+    },
+    {
+      "county_id": 77,
+      "name": "wschowski",
+      "slug": "wschowski"
+    },
+    {
+      "county_id": 74,
+      "name": "zielonogórski",
+      "slug": "zielonogorski"
+    },
+    {
+      "county_id": 73,
+      "name": "świebodziński",
+      "slug": "swiebodzinski"
+    },
+    {
+      "county_id": 75,
+      "name": "żagański",
+      "slug": "zaganski"
+    },
+    {
+      "county_id": 76,
+      "name": "żarski",
+      "slug": "zarski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo lubuskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie lubuskim (województwo lubuskie) — 12 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the lubuskie voivodeship — 12 entries. Excludes city-counties (see pl-city-counties). Zawiera 12 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo lubuskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo lubuskie — powiaty — 12 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 12 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

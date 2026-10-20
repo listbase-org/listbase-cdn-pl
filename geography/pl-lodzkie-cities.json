@@ -1,0 +1,496 @@
+{
+  "id": "pl-lodzkie-cities",
+  "name": "Województwo łódzkie — miasta",
+  "title": "Województwo łódzkie — miasta",
+  "description": "Lista miast w województwie łódzkim (województwo łódzkie) — 43 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the łódzkie voivodeship — 43 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 278,
+      "name": "Aleksandrów Łódzki",
+      "slug": "aleksandrow-lodzki",
+      "name_locative": "Aleksandrowie Łódzkim",
+      "county_id": 97,
+      "county_name": "zgierski",
+      "latitude": 51.8196533,
+      "longitude": 19.3035375
+    },
+    {
+      "city_id": 238,
+      "name": "Bełchatów",
+      "slug": "belchatow",
+      "name_locative": "Bełchatowie",
+      "county_id": 78,
+      "county_name": "bełchatowski",
+      "latitude": 51.35467735,
+      "longitude": 19.37685732
+    },
+    {
+      "city_id": 264,
+      "name": "Biała Rawska",
+      "slug": "biala-rawska",
+      "name_locative": "Białej Rawskiej",
+      "county_id": 90,
+      "county_name": "rawski",
+      "latitude": 51.8075978,
+      "longitude": 20.4720942
+    },
+    {
+      "city_id": 280,
+      "name": "Brzeziny",
+      "slug": "brzeziny",
+      "name_locative": "Brzezinach",
+      "county_id": 98,
+      "county_name": "brzeziński",
+      "latitude": 51.80066075,
+      "longitude": 19.74462059
+    },
+    {
+      "city_id": 266,
+      "name": "Błaszki",
+      "slug": "blaszki",
+      "name_locative": "Błaszkach",
+      "county_id": 91,
+      "county_name": "sieradzki",
+      "latitude": 51.6525013,
+      "longitude": 18.4329261
+    },
+    {
+      "city_id": 250,
+      "name": "Drzewica",
+      "slug": "drzewica",
+      "name_locative": "Drzewicy",
+      "county_id": 84,
+      "county_name": "opoczyński",
+      "latitude": 51.4508384,
+      "longitude": 20.4773617
+    },
+    {
+      "city_id": 254,
+      "name": "Działoszyn",
+      "slug": "dzialoszyn",
+      "name_locative": "Działoszynie",
+      "county_id": 86,
+      "county_name": "pajęczański",
+      "latitude": 51.1168037,
+      "longitude": 18.8651633
+    },
+    {
+      "city_id": 275,
+      "name": "Głowno",
+      "slug": "glowno",
+      "name_locative": "Głownie",
+      "county_id": 97,
+      "county_name": "zgierski",
+      "latitude": 51.96239825,
+      "longitude": 19.71166242
+    },
+    {
+      "city_id": 261,
+      "name": "Kamieńsk",
+      "slug": "kamiensk",
+      "name_locative": "Kamieńsku",
+      "county_id": 89,
+      "county_name": "radomszczański",
+      "latitude": 51.204172,
+      "longitude": 19.4970714
+    },
+    {
+      "city_id": 247,
+      "name": "Koluszki",
+      "slug": "koluszki",
+      "name_locative": "Koluszkach",
+      "county_id": 83,
+      "county_name": "łódzki wschodni",
+      "latitude": 51.7444956,
+      "longitude": 19.817966
+    },
+    {
+      "city_id": 252,
+      "name": "Konstantynów Łódzki",
+      "slug": "konstantynow-lodzki",
+      "name_locative": "Konstantynowie Łódzkim",
+      "county_id": 85,
+      "county_name": "pabianicki",
+      "latitude": 51.75721335,
+      "longitude": 19.30824123
+    },
+    {
+      "city_id": 241,
+      "name": "Krośniewice",
+      "slug": "krosniewice",
+      "name_locative": "Krośniewicach",
+      "county_id": 79,
+      "county_name": "kutnowski",
+      "latitude": 52.2560639,
+      "longitude": 19.1689326
+    },
+    {
+      "city_id": 240,
+      "name": "Kutno",
+      "slug": "kutno",
+      "name_locative": "Kutnie",
+      "county_id": 79,
+      "county_name": "kutnowski",
+      "latitude": 52.2220021,
+      "longitude": 19.38759506
+    },
+    {
+      "city_id": 271,
+      "name": "Lututów",
+      "slug": "lututow",
+      "name_locative": "Lututowie",
+      "county_id": 95,
+      "county_name": "wieruszowski",
+      "latitude": 51.3712494,
+      "longitude": 18.4346007
+    },
+    {
+      "city_id": 251,
+      "name": "Opoczno",
+      "slug": "opoczno",
+      "name_locative": "Opocznie",
+      "county_id": 84,
+      "county_name": "opoczyński",
+      "latitude": 51.3782439,
+      "longitude": 20.2931754
+    },
+    {
+      "city_id": 276,
+      "name": "Ozorków",
+      "slug": "ozorkow",
+      "name_locative": "Ozorkowie",
+      "county_id": 97,
+      "county_name": "zgierski",
+      "latitude": 51.9587654,
+      "longitude": 19.28930636
+    },
+    {
+      "city_id": 253,
+      "name": "Pabianice",
+      "slug": "pabianice",
+      "name_locative": "Pabianicach",
+      "county_id": 85,
+      "county_name": "pabianicki",
+      "latitude": 51.6662312,
+      "longitude": 19.35925467
+    },
+    {
+      "city_id": 255,
+      "name": "Pajęczno",
+      "slug": "pajeczno",
+      "name_locative": "Pajęcznie",
+      "county_id": 86,
+      "county_name": "pajęczański",
+      "latitude": 51.1468824,
+      "longitude": 18.9956984
+    },
+    {
+      "city_id": 245,
+      "name": "Piątek",
+      "slug": "piatek",
+      "name_locative": "Piątku",
+      "county_id": 81,
+      "county_name": "łęczycki",
+      "latitude": 52.0689883,
+      "longitude": 19.4799726
+    },
+    {
+      "city_id": 258,
+      "name": "Poddębice",
+      "slug": "poddebice",
+      "name_locative": "Poddębicach",
+      "county_id": 88,
+      "county_name": "poddębicki",
+      "latitude": 51.8931973,
+      "longitude": 18.9517348
+    },
+    {
+      "city_id": 262,
+      "name": "Przedbórz",
+      "slug": "przedborz",
+      "name_locative": "Przedborzu 1)Przedbórzu 2)",
+      "county_id": 89,
+      "county_name": "radomszczański",
+      "latitude": 51.0868077,
+      "longitude": 19.8744414
+    },
+    {
+      "city_id": 260,
+      "name": "Radomsko",
+      "slug": "radomsko",
+      "name_locative": "Radomsku",
+      "county_id": 89,
+      "county_name": "radomszczański",
+      "latitude": 51.071061,
+      "longitude": 19.44984641
+    },
+    {
+      "city_id": 263,
+      "name": "Rawa Mazowiecka",
+      "slug": "rawa-mazowiecka",
+      "name_locative": "Rawie Mazowieckiej",
+      "county_id": 90,
+      "county_name": "rawski",
+      "latitude": 51.7582859,
+      "longitude": 20.25099803
+    },
+    {
+      "city_id": 248,
+      "name": "Rzgów",
+      "slug": "rzgow",
+      "name_locative": "Rzgowie",
+      "county_id": 83,
+      "county_name": "łódzki wschodni",
+      "latitude": 51.6626459,
+      "longitude": 19.4908076
+    },
+    {
+      "city_id": 265,
+      "name": "Sieradz",
+      "slug": "sieradz",
+      "name_locative": "Sieradzu",
+      "county_id": 91,
+      "county_name": "sieradzki",
+      "latitude": 51.6017529,
+      "longitude": 18.73990147
+    },
+    {
+      "city_id": 279,
+      "name": "Stryków",
+      "slug": "strykow",
+      "name_locative": "Strykowie",
+      "county_id": 97,
+      "county_name": "zgierski",
+      "latitude": 51.9009447,
+      "longitude": 19.6036969
+    },
+    {
+      "city_id": 256,
+      "name": "Sulejów",
+      "slug": "sulejow",
+      "name_locative": "Sulejowie",
+      "county_id": 87,
+      "county_name": "piotrkowski",
+      "latitude": 51.3549202,
+      "longitude": 19.8890802
+    },
+    {
+      "city_id": 274,
+      "name": "Szadek",
+      "slug": "szadek",
+      "name_locative": "Szadku",
+      "county_id": 96,
+      "county_name": "zduńskowolski",
+      "latitude": 51.69175,
+      "longitude": 18.97703
+    },
+    {
+      "city_id": 269,
+      "name": "Tomaszów Mazowiecki",
+      "slug": "tomaszow-mazowiecki",
+      "name_locative": "Tomaszowie Mazowieckim",
+      "county_id": 93,
+      "county_name": "tomaszowski",
+      "latitude": 51.5194865,
+      "longitude": 20.03375907
+    },
+    {
+      "city_id": 249,
+      "name": "Tuszyn",
+      "slug": "tuszyn",
+      "name_locative": "Tuszynie",
+      "county_id": 83,
+      "county_name": "łódzki wschodni",
+      "latitude": 51.60565655,
+      "longitude": 19.5438157
+    },
+    {
+      "city_id": 259,
+      "name": "Uniejów",
+      "slug": "uniejow",
+      "name_locative": "Uniejowie",
+      "county_id": 88,
+      "county_name": "poddębicki",
+      "latitude": 51.9741302,
+      "longitude": 18.793245
+    },
+    {
+      "city_id": 267,
+      "name": "Warta",
+      "slug": "warta",
+      "name_locative": "Warcie",
+      "county_id": 91,
+      "county_name": "sieradzki",
+      "latitude": 51.7215331,
+      "longitude": 18.64672004
+    },
+    {
+      "city_id": 270,
+      "name": "Wieluń",
+      "slug": "wielun",
+      "name_locative": "Wieluniu",
+      "county_id": 94,
+      "county_name": "wieluński",
+      "latitude": 51.2205345,
+      "longitude": 18.5701081
+    },
+    {
+      "city_id": 272,
+      "name": "Wieruszów",
+      "slug": "wieruszow",
+      "name_locative": "Wieruszowie",
+      "county_id": 95,
+      "county_name": "wieruszowski",
+      "latitude": 51.2951647,
+      "longitude": 18.1510623
+    },
+    {
+      "city_id": 257,
+      "name": "Wolbórz",
+      "slug": "wolborz",
+      "name_locative": "Wolborzu",
+      "county_id": 87,
+      "county_name": "piotrkowski",
+      "latitude": 51.5036311,
+      "longitude": 19.830319
+    },
+    {
+      "city_id": 273,
+      "name": "Zduńska Wola",
+      "slug": "zdunska-wola",
+      "name_locative": "Zduńskiej Woli",
+      "county_id": 96,
+      "county_name": "zduńskowolski",
+      "latitude": 51.59491155,
+      "longitude": 18.95010868
+    },
+    {
+      "city_id": 239,
+      "name": "Zelów",
+      "slug": "zelow",
+      "name_locative": "Zelowie",
+      "county_id": 78,
+      "county_name": "bełchatowski",
+      "latitude": 51.4652772,
+      "longitude": 19.2184947
+    },
+    {
+      "city_id": 277,
+      "name": "Zgierz",
+      "slug": "zgierz",
+      "name_locative": "Zgierzu",
+      "county_id": 97,
+      "county_name": "zgierski",
+      "latitude": 51.8555209,
+      "longitude": 19.39063483
+    },
+    {
+      "city_id": 268,
+      "name": "Złoczew",
+      "slug": "zloczew",
+      "name_locative": "Złoczewie",
+      "county_id": 91,
+      "county_name": "sieradzki",
+      "latitude": 51.4175117,
+      "longitude": 18.6059007
+    },
+    {
+      "city_id": 243,
+      "name": "Łask",
+      "slug": "lask",
+      "name_locative": "Łasku",
+      "county_id": 80,
+      "county_name": "łaski",
+      "latitude": 51.5929947,
+      "longitude": 19.1334784
+    },
+    {
+      "city_id": 246,
+      "name": "Łowicz",
+      "slug": "lowicz",
+      "name_locative": "Łowiczu",
+      "county_id": 82,
+      "county_name": "łowicki",
+      "latitude": 52.1012259,
+      "longitude": 19.94746237
+    },
+    {
+      "city_id": 244,
+      "name": "Łęczyca",
+      "slug": "leczyca",
+      "name_locative": "Łęczycy",
+      "county_id": 81,
+      "county_name": "łęczycki",
+      "latitude": 52.0545062,
+      "longitude": 19.1982888
+    },
+    {
+      "city_id": 242,
+      "name": "Żychlin",
+      "slug": "zychlin",
+      "name_locative": "Żychlinie",
+      "county_id": 79,
+      "county_name": "kutnowski",
+      "latitude": 52.2440088,
+      "longitude": 19.6260932
+    }
+  ],
+  "meta": {
+    "title": "Województwo łódzkie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie łódzkim (województwo łódzkie) — 43 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the łódzkie voivodeship — 43 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 43 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo łódzkie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo łódzkie — miasta — 43 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 43 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

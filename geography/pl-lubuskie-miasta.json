@@ -1,0 +1,496 @@
+{
+  "id": "pl-lubuskie-miasta",
+  "name": "Miasta w województwie lubuskie",
+  "title": "Miasta w województwie lubuskie",
+  "description": "Cities and towns (miasta) in Lubuskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "476",
+      "name": "Babimost",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "zielonogórski",
+      "commune": "Babimost-gmina miejsko-wiejska",
+      "latitude": 52.1647,
+      "longitude": 15.8303
+    },
+    {
+      "id": "3942",
+      "name": "Bytom Odrzański",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "nowosolski",
+      "commune": "Bytom Odrzański-gmina miejsko-wiejska",
+      "latitude": 51.7306,
+      "longitude": 15.8264
+    },
+    {
+      "id": "5179",
+      "name": "Cybinka",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "słubicki",
+      "commune": "Cybinka-gmina miejsko-wiejska",
+      "latitude": 52.1939,
+      "longitude": 14.7956
+    },
+    {
+      "id": "5656",
+      "name": "Czerwieńsk",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "zielonogórski",
+      "commune": "Czerwieńsk-gmina miejsko-wiejska",
+      "latitude": 52.0131,
+      "longitude": 15.4228
+    },
+    {
+      "id": "6747",
+      "name": "Dobiegniew",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "strzelecko-drezdenecki",
+      "commune": "Dobiegniew-gmina miejsko-wiejska",
+      "latitude": 52.9697,
+      "longitude": 15.7553
+    },
+    {
+      "id": "7160",
+      "name": "Drezdenko",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "strzelecko-drezdenecki",
+      "commune": "Drezdenko-gmina miejsko-wiejska",
+      "latitude": 52.8386,
+      "longitude": 15.8314
+    },
+    {
+      "id": "9320",
+      "name": "Gorzów Wielkopolski",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "Gorzów Wielkopolski",
+      "commune": "Gorzów Wielkopolski-gmina miejska",
+      "latitude": 52.7319,
+      "longitude": 15.2394
+    },
+    {
+      "id": "9493",
+      "name": "Gozdnica",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żagański",
+      "commune": "Gozdnica-gmina miejska",
+      "latitude": 51.4381,
+      "longitude": 15.0967
+    },
+    {
+      "id": "10501",
+      "name": "Gubin",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "krośnieński",
+      "commune": "Gubin-gmina miejska",
+      "latitude": 51.9575,
+      "longitude": 14.7206
+    },
+    {
+      "id": "11128",
+      "name": "Iłowa",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żagański",
+      "commune": "Iłowa-gmina miejsko-wiejska",
+      "latitude": 51.5036,
+      "longitude": 15.2008
+    },
+    {
+      "id": "12002",
+      "name": "Jasień",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żarski",
+      "commune": "Jasień-gmina miejsko-wiejska",
+      "latitude": 51.7511,
+      "longitude": 15.0122
+    },
+    {
+      "id": "13428",
+      "name": "Kargowa",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "zielonogórski",
+      "commune": "Kargowa-gmina miejsko-wiejska",
+      "latitude": 52.0719,
+      "longitude": 15.8644
+    },
+    {
+      "id": "15589",
+      "name": "Kostrzyn nad Odrą",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "gorzowski",
+      "commune": "Kostrzyn nad Odrą-gmina miejska",
+      "latitude": 52.59,
+      "longitude": 14.6475
+    },
+    {
+      "id": "16057",
+      "name": "Kożuchów",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "nowosolski",
+      "commune": "Kożuchów-gmina miejsko-wiejska",
+      "latitude": 51.7453,
+      "longitude": 15.5944
+    },
+    {
+      "id": "16420",
+      "name": "Krosno Odrzańskie",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "krośnieński",
+      "commune": "Krosno Odrzańskie-gmina miejsko-wiejska",
+      "latitude": 52.0522,
+      "longitude": 15.0972
+    },
+    {
+      "id": "18663",
+      "name": "Lubniewice",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "sulęciński",
+      "commune": "Lubniewice-gmina miejsko-wiejska",
+      "latitude": 52.5125,
+      "longitude": 15.2447
+    },
+    {
+      "id": "18755",
+      "name": "Lubsko",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żarski",
+      "commune": "Lubsko-gmina miejsko-wiejska",
+      "latitude": 51.7856,
+      "longitude": 14.9686
+    },
+    {
+      "id": "19439",
+      "name": "Łęknica",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żarski",
+      "commune": "Łęknica-gmina miejska",
+      "latitude": 51.5367,
+      "longitude": 14.7425
+    },
+    {
+      "id": "20373",
+      "name": "Małomice",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żagański",
+      "commune": "Małomice-gmina miejsko-wiejska",
+      "latitude": 51.5553,
+      "longitude": 15.4486
+    },
+    {
+      "id": "21361",
+      "name": "Międzyrzecz",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "międzyrzecki",
+      "commune": "Międzyrzecz-gmina miejsko-wiejska",
+      "latitude": 52.4456,
+      "longitude": 15.5786
+    },
+    {
+      "id": "23359",
+      "name": "Nowa Sól",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "nowosolski",
+      "commune": "Nowa Sól-gmina miejska",
+      "latitude": 51.8058,
+      "longitude": 15.7164
+    },
+    {
+      "id": "23744",
+      "name": "Nowe Miasteczko",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "nowosolski",
+      "commune": "Nowe Miasteczko-gmina miejsko-wiejska",
+      "latitude": 51.6906,
+      "longitude": 15.7306
+    },
+    {
+      "id": "23959",
+      "name": "Nowogród Bobrzański",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "zielonogórski",
+      "commune": "Nowogród Bobrzański-gmina miejsko-wiejska",
+      "latitude": 51.8011,
+      "longitude": 15.2469
+    },
+    {
+      "id": "25583",
+      "name": "Ośno Lubuskie",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "słubicki",
+      "commune": "Ośno Lubuskie-gmina miejsko-wiejska",
+      "latitude": 52.4539,
+      "longitude": 14.8711
+    },
+    {
+      "id": "25628",
+      "name": "Otyń",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "nowosolski",
+      "commune": "Otyń-gmina miejsko-wiejska",
+      "latitude": 51.8472,
+      "longitude": 15.7103
+    },
+    {
+      "id": "31104",
+      "name": "Rzepin",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "słubicki",
+      "commune": "Rzepin-gmina miejsko-wiejska",
+      "latitude": 52.3483,
+      "longitude": 14.8269
+    },
+    {
+      "id": "32487",
+      "name": "Skwierzyna",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "międzyrzecki",
+      "commune": "Skwierzyna-gmina miejsko-wiejska",
+      "latitude": 52.5975,
+      "longitude": 15.5033
+    },
+    {
+      "id": "32507",
+      "name": "Sława",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "wschowski",
+      "commune": "Sława-gmina miejsko-wiejska",
+      "latitude": 51.8806,
+      "longitude": 16.0717
+    },
+    {
+      "id": "32672",
+      "name": "Słubice",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "słubicki",
+      "commune": "Słubice-gmina miejsko-wiejska",
+      "latitude": 52.3561,
+      "longitude": 14.5661
+    },
+    {
+      "id": "34782",
+      "name": "Strzelce Krajeńskie",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "strzelecko-drezdenecki",
+      "commune": "Strzelce Krajeńskie-gmina miejsko-wiejska",
+      "latitude": 52.8786,
+      "longitude": 15.5328
+    },
+    {
+      "id": "35079",
+      "name": "Sulechów",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "zielonogórski",
+      "commune": "Sulechów-gmina miejsko-wiejska",
+      "latitude": 52.0853,
+      "longitude": 15.6231
+    },
+    {
+      "id": "35095",
+      "name": "Sulęcin",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "sulęciński",
+      "commune": "Sulęcin-gmina miejsko-wiejska",
+      "latitude": 52.4419,
+      "longitude": 15.1144
+    },
+    {
+      "id": "35779",
+      "name": "Szlichtyngowa",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "wschowski",
+      "commune": "Szlichtyngowa-gmina miejsko-wiejska",
+      "latitude": 51.7119,
+      "longitude": 16.2425
+    },
+    {
+      "id": "35826",
+      "name": "Szprotawa",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żagański",
+      "commune": "Szprotawa-gmina miejsko-wiejska",
+      "latitude": 51.5658,
+      "longitude": 15.5381
+    },
+    {
+      "id": "36275",
+      "name": "Świebodzin",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "świebodziński",
+      "commune": "Świebodzin-gmina miejsko-wiejska",
+      "latitude": 52.2481,
+      "longitude": 15.5361
+    },
+    {
+      "id": "37021",
+      "name": "Torzym",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "sulęciński",
+      "commune": "Torzym-gmina miejsko-wiejska",
+      "latitude": 52.3139,
+      "longitude": 15.0725
+    },
+    {
+      "id": "37206",
+      "name": "Trzciel",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "międzyrzecki",
+      "commune": "Trzciel-gmina miejsko-wiejska",
+      "latitude": 52.3653,
+      "longitude": 15.8753
+    },
+    {
+      "id": "39427",
+      "name": "Witnica",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "gorzowski",
+      "commune": "Witnica-gmina miejsko-wiejska",
+      "latitude": 52.6739,
+      "longitude": 14.8961
+    },
+    {
+      "id": "40798",
+      "name": "Wschowa",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "wschowski",
+      "commune": "Wschowa-gmina miejsko-wiejska",
+      "latitude": 51.8042,
+      "longitude": 16.3167
+    },
+    {
+      "id": "42367",
+      "name": "Zbąszynek",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "świebodziński",
+      "commune": "Zbąszynek-gmina miejsko-wiejska",
+      "latitude": 52.2461,
+      "longitude": 15.8158
+    },
+    {
+      "id": "42699",
+      "name": "Zielona Góra",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "Zielona Góra",
+      "commune": "Zielona Góra-gmina miejska",
+      "latitude": 51.9392,
+      "longitude": 15.5039
+    },
+    {
+      "id": "43124",
+      "name": "Żagań",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żagański",
+      "commune": "Żagań-gmina miejska",
+      "latitude": 51.6156,
+      "longitude": 15.3133
+    },
+    {
+      "id": "43189",
+      "name": "Żary",
+      "type": "city",
+      "province": "lubuskie",
+      "district": "żarski",
+      "commune": "Żary-gmina miejska",
+      "latitude": 51.6358,
+      "longitude": 15.1383
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie lubuskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Lubuskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 43 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie lubuskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie lubuskie — 43 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 43 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

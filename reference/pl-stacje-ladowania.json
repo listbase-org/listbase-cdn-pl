@@ -1,0 +1,1696 @@
+{
+  "id": "pl-stacje-ladowania",
+  "name": "Polska — stacje ładowania",
+  "title": "Polska — stacje ładowania",
+  "description": "Stacje ładowania pojazdów elektrycznych w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 331,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "11kW type 2",
+      "latitude": 54.375146,
+      "longitude": 19.424301
+    },
+    {
+      "name": "7355",
+      "latitude": 51.140418,
+      "longitude": 14.98863
+    },
+    {
+      "name": "[BCS] Hala Boracza",
+      "latitude": 49.542009,
+      "longitude": 19.170098
+    },
+    {
+      "name": "[BCS] Żywiec Browar",
+      "latitude": 49.659523,
+      "longitude": 19.171544
+    },
+    {
+      "name": "AC GOK Walce 0zł",
+      "latitude": 50.369652,
+      "longitude": 18.013439
+    },
+    {
+      "name": "Aldi Bielsko-Biała Cieszyńska",
+      "latitude": 49.816478,
+      "longitude": 19.027966
+    },
+    {
+      "name": "Allego",
+      "latitude": 52.190114,
+      "longitude": 21.528757
+    },
+    {
+      "name": "Auchan Swadzim",
+      "latitude": 52.44052,
+      "longitude": 16.764178
+    },
+    {
+      "name": "Bialystok Supercharger",
+      "latitude": 53.125805,
+      "longitude": 23.169505
+    },
+    {
+      "name": "Biedronka",
+      "latitude": 50.125069,
+      "longitude": 19.870575
+    },
+    {
+      "name": "Boulevard Ustronie Morskie",
+      "latitude": 54.217305,
+      "longitude": 15.757882
+    },
+    {
+      "name": "Budimex Mobility",
+      "latitude": 49.586509,
+      "longitude": 20.67235
+    },
+    {
+      "name": "Budimex Mobility",
+      "latitude": 53.432553,
+      "longitude": 14.507534
+    },
+    {
+      "name": "Budimex Mobility JAR 001",
+      "latitude": 50.014869,
+      "longitude": 22.679827
+    },
+    {
+      "name": "Budimex Mobility POZ-001",
+      "latitude": 52.412265,
+      "longitude": 16.954096
+    },
+    {
+      "name": "Budova Jednotky sboru dobrovolných hasičů",
+      "latitude": 49.867972,
+      "longitude": 18.569044
+    },
+    {
+      "name": "Budowa stacji paliw i restauracji",
+      "latitude": 50.841401,
+      "longitude": 20.484544
+    },
+    {
+      "name": "CCS/Type2/CHAdeMO",
+      "latitude": 52.338979,
+      "longitude": 16.108044
+    },
+    {
+      "name": "Centrum Przesiadkowe Mikołow",
+      "latitude": 50.171804,
+      "longitude": 18.900551
+    },
+    {
+      "name": "ChargeEuropa Park Handlowy Zakopianka",
+      "latitude": 50.01321,
+      "longitude": 19.930382
+    },
+    {
+      "name": "ChargeEuropa Park Handlowy Zakopianka",
+      "latitude": 50.01614,
+      "longitude": 19.93113
+    },
+    {
+      "name": "ChargeIn",
+      "latitude": 54.162095,
+      "longitude": 15.603049
+    },
+    {
+      "name": "chargein go bricomarche rawa mazowiecka, 50kw, 2x ccs",
+      "latitude": 51.764445,
+      "longitude": 20.260487
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 49.285297,
+      "longitude": 19.988276
+    },
+    {
+      "name": "Chata Paprsek",
+      "latitude": 50.210072,
+      "longitude": 16.990187
+    },
+    {
+      "name": "Ciechocinek Supercharger",
+      "latitude": 52.875232,
+      "longitude": 18.774921
+    },
+    {
+      "name": "Circle K",
+      "latitude": 52.220402,
+      "longitude": 20.915961
+    },
+    {
+      "name": "Dynamik Krzeszowice",
+      "latitude": 50.131044,
+      "longitude": 19.635536
+    },
+    {
+      "name": "e-way24",
+      "latitude": 52.169635,
+      "longitude": 22.234076
+    },
+    {
+      "name": "ecoMOTO",
+      "latitude": 50.300457,
+      "longitude": 18.676814
+    },
+    {
+      "name": "ecoMOTO",
+      "latitude": 54.521091,
+      "longitude": 18.530919
+    },
+    {
+      "name": "Eko Energetyka",
+      "latitude": 49.787919,
+      "longitude": 22.765057
+    },
+    {
+      "name": "Ekoen",
+      "latitude": 51.925859,
+      "longitude": 15.616392
+    },
+    {
+      "name": "Ekoen - MOP Guzew Północ",
+      "latitude": 51.634372,
+      "longitude": 19.437662
+    },
+    {
+      "name": "EKOEN CH Reduta",
+      "latitude": 52.211831,
+      "longitude": 20.950235
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.173855,
+      "longitude": 15.55124
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.174965,
+      "longitude": 15.561283
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.178155,
+      "longitude": 15.585164
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.179086,
+      "longitude": 15.560672
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.180993,
+      "longitude": 15.5697
+    },
+    {
+      "name": "ELBUD",
+      "latitude": 54.185515,
+      "longitude": 15.591002
+    },
+    {
+      "name": "eleport",
+      "latitude": 49.998152,
+      "longitude": 20.921753
+    },
+    {
+      "name": "Eleport",
+      "latitude": 50.031186,
+      "longitude": 20.960228
+    },
+    {
+      "name": "Eleport",
+      "latitude": 52.290892,
+      "longitude": 21.049661
+    },
+    {
+      "name": "Eleport Braci Wagów 1",
+      "latitude": 52.139944,
+      "longitude": 21.052171
+    },
+    {
+      "name": "Eleport Braci Wagów 2",
+      "latitude": 52.140002,
+      "longitude": 21.052126
+    },
+    {
+      "name": "Eleport Braci Wagów 3",
+      "latitude": 52.140036,
+      "longitude": 21.052097
+    },
+    {
+      "name": "Elocity",
+      "latitude": 50.906269,
+      "longitude": 15.733053
+    },
+    {
+      "name": "Elocity",
+      "latitude": 50.906304,
+      "longitude": 15.731966
+    },
+    {
+      "name": "Elocity",
+      "latitude": 51.068021,
+      "longitude": 19.442422
+    },
+    {
+      "name": "Elocity",
+      "latitude": 51.63912,
+      "longitude": 17.838488
+    },
+    {
+      "name": "Elocity",
+      "latitude": 52.227726,
+      "longitude": 20.992269
+    },
+    {
+      "name": "elocity",
+      "latitude": 52.232862,
+      "longitude": 21.110387
+    },
+    {
+      "name": "elocity Arche Nałęczów",
+      "latitude": 51.292042,
+      "longitude": 22.211341
+    },
+    {
+      "name": "elocity Kazimierski Park Krajobrazowy",
+      "latitude": 51.325711,
+      "longitude": 21.950247
+    },
+    {
+      "name": "elocity lidl 50kw 2x parking",
+      "latitude": 52.631797,
+      "longitude": 20.379245
+    },
+    {
+      "name": "Enefit Volt",
+      "latitude": 49.78477,
+      "longitude": 19.056396
+    },
+    {
+      "name": "Enefit Volt",
+      "latitude": 49.801706,
+      "longitude": 19.078123
+    },
+    {
+      "name": "Energa",
+      "latitude": 54.526604,
+      "longitude": 18.513154
+    },
+    {
+      "name": "Energa",
+      "latitude": 54.608201,
+      "longitude": 18.349209
+    },
+    {
+      "name": "Energa Elbląg",
+      "latitude": 54.158475,
+      "longitude": 19.397876
+    },
+    {
+      "name": "Energa Oświetlenie Charging Station",
+      "latitude": 54.608099,
+      "longitude": 18.798714
+    },
+    {
+      "name": "Ensto AC 22 kW",
+      "latitude": 54.201238,
+      "longitude": 15.748452
+    },
+    {
+      "name": "EV",
+      "latitude": 54.184061,
+      "longitude": 15.591405
+    },
+    {
+      "name": "EV charger",
+      "latitude": 52.234317,
+      "longitude": 21.106091
+    },
+    {
+      "name": "EV Kalvarija, A5 95 km: A5 (Kaunas–Marijampolė–Suvalkai*) - 95 km.",
+      "latitude": 54.318591,
+      "longitude": 23.136478
+    },
+    {
+      "name": "EV Plus",
+      "latitude": 52.351526,
+      "longitude": 17.002717
+    },
+    {
+      "name": "EV Plus",
+      "latitude": 52.843735,
+      "longitude": 14.130618
+    },
+    {
+      "name": "EV Ładowanie",
+      "latitude": 50.028966,
+      "longitude": 19.935695
+    },
+    {
+      "name": "EVLink",
+      "latitude": 52.185433,
+      "longitude": 20.98782
+    },
+    {
+      "name": "EVLink Parking",
+      "latitude": 52.228409,
+      "longitude": 20.995946
+    },
+    {
+      "name": "evlop_Kormoran_Niesulice",
+      "latitude": 52.218671,
+      "longitude": 15.393446
+    },
+    {
+      "name": "EVPlus",
+      "latitude": 53.913418,
+      "longitude": 14.433686
+    },
+    {
+      "name": "EVplus Kazbud",
+      "latitude": 54.028261,
+      "longitude": 22.894191
+    },
+    {
+      "name": "Fahrradladestation",
+      "latitude": 52.241038,
+      "longitude": 14.702351
+    },
+    {
+      "name": "Fast energy",
+      "latitude": 51.132389,
+      "longitude": 16.988456
+    },
+    {
+      "name": "Fiqus Marcelin by Nickel Development",
+      "latitude": 52.40287,
+      "longitude": 16.861263
+    },
+    {
+      "name": "forum koszalin greenway 140kw, underground row a2",
+      "latitude": 54.176823,
+      "longitude": 16.201061
+    },
+    {
+      "name": "Galeria A2",
+      "latitude": 52.35363,
+      "longitude": 16.84021
+    },
+    {
+      "name": "Galeria Echo",
+      "latitude": 50.879629,
+      "longitude": 20.646013
+    },
+    {
+      "name": "Galeria Łysica",
+      "latitude": 50.934224,
+      "longitude": 21.388375
+    },
+    {
+      "name": "Gdańsk Supercharger",
+      "latitude": 54.351116,
+      "longitude": 18.522419
+    },
+    {
+      "name": "Gliwice Supercharger",
+      "latitude": 50.256091,
+      "longitude": 18.654402
+    },
+    {
+      "name": "Go+EAuto",
+      "latitude": 50.064667,
+      "longitude": 20.000066
+    },
+    {
+      "name": "GO+EAuto",
+      "latitude": 50.124084,
+      "longitude": 19.870372
+    },
+    {
+      "name": "GO+EAuto",
+      "latitude": 52.290621,
+      "longitude": 21.121419
+    },
+    {
+      "name": "Green Way",
+      "latitude": 52.7605,
+      "longitude": 15.2604
+    },
+    {
+      "name": "Greenway",
+      "latitude": 50.015728,
+      "longitude": 22.680535
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 50.033526,
+      "longitude": 19.812656
+    },
+    {
+      "name": "Greenway",
+      "latitude": 50.06447,
+      "longitude": 19.998958
+    },
+    {
+      "name": "greenway",
+      "latitude": 50.069944,
+      "longitude": 19.986858
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 50.405409,
+      "longitude": 19.01538
+    },
+    {
+      "name": "greenway",
+      "latitude": 50.568728,
+      "longitude": 17.859845
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 50.882282,
+      "longitude": 20.639966
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 50.955981,
+      "longitude": 17.076434
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 51.2315,
+      "longitude": 22.6166
+    },
+    {
+      "name": "Greenway",
+      "latitude": 51.24938,
+      "longitude": 22.602606
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 51.249635,
+      "longitude": 22.576355
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 51.380902,
+      "longitude": 21.181576
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 51.793974,
+      "longitude": 19.510718
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 51.794705,
+      "longitude": 19.591844
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 52.236768,
+      "longitude": 15.540759
+    },
+    {
+      "name": "Greenway",
+      "latitude": 53.166725,
+      "longitude": 22.082694
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 53.67293,
+      "longitude": 17.34733
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 54.163521,
+      "longitude": 15.597556
+    },
+    {
+      "name": "GreenWay - Atrium Promenada Warszawa",
+      "latitude": 52.2307,
+      "longitude": 21.1053
+    },
+    {
+      "name": "GreenWay - Atrium Reduta Warszawa",
+      "latitude": 52.213597,
+      "longitude": 20.952024
+    },
+    {
+      "name": "GreenWay - Atrium Targówek Warszawa",
+      "latitude": 52.302871,
+      "longitude": 21.058648
+    },
+    {
+      "name": "GreenWay - Auchan Modlińska Warszawa",
+      "latitude": 52.29465,
+      "longitude": 21.00013
+    },
+    {
+      "name": "GreenWay - Auchan Piaseczno",
+      "latitude": 52.096686,
+      "longitude": 21.021581
+    },
+    {
+      "name": "GreenWay - Auchan Łomianki",
+      "latitude": 52.324253,
+      "longitude": 20.901063
+    },
+    {
+      "name": "GreenWay - Bricomarche Wyszków",
+      "latitude": 52.601528,
+      "longitude": 21.439822
+    },
+    {
+      "name": "GreenWay - Chromna",
+      "latitude": 52.108246,
+      "longitude": 22.386915
+    },
+    {
+      "name": "GreenWay - Ford Gołębiewski Elbląg",
+      "latitude": 54.150493,
+      "longitude": 19.370869
+    },
+    {
+      "name": "GreenWay - Galeria Młociny Warszawa",
+      "latitude": 52.296386,
+      "longitude": 20.931836
+    },
+    {
+      "name": "GreenWay - Galeria Venda Łomża",
+      "latitude": 53.1698,
+      "longitude": 22.0767
+    },
+    {
+      "name": "GreenWay - Gospoda Nisko",
+      "latitude": 50.513809,
+      "longitude": 22.152097
+    },
+    {
+      "name": "GreenWay - Hotel Kmicic Kraśnik",
+      "latitude": 50.928123,
+      "longitude": 22.250613
+    },
+    {
+      "name": "GreenWay - IKEA Lublin",
+      "latitude": 51.282577,
+      "longitude": 22.570042
+    },
+    {
+      "name": "GreenWay - Intermarche Ostróda",
+      "latitude": 53.6894,
+      "longitude": 19.9834
+    },
+    {
+      "name": "GreenWay - Intermarché Grajewo",
+      "latitude": 53.632866,
+      "longitude": 22.47532
+    },
+    {
+      "name": "GreenWay - Kaufland Suwałki",
+      "latitude": 54.125429,
+      "longitude": 22.944169
+    },
+    {
+      "name": "GreenWay - Korczowa Dolina",
+      "latitude": 49.971568,
+      "longitude": 23.036595
+    },
+    {
+      "name": "GreenWay - Lublin Plaza",
+      "latitude": 51.244809,
+      "longitude": 22.550447
+    },
+    {
+      "name": "GreenWay - Malinowy Bzyk Dalanówek",
+      "latitude": 52.589447,
+      "longitude": 20.45231
+    },
+    {
+      "name": "GreenWay - Millenium Hall Rzeszów",
+      "latitude": 50.0279,
+      "longitude": 22.0146
+    },
+    {
+      "name": "GreenWay - Olivia Ryki",
+      "latitude": 51.639696,
+      "longitude": 21.913011
+    },
+    {
+      "name": "GreenWay - Ptak Warsaw Expo",
+      "latitude": 52.107132,
+      "longitude": 20.833293
+    },
+    {
+      "name": "GreenWay - Sadyba Best Mall Warszawa",
+      "latitude": 52.188118,
+      "longitude": 21.060609
+    },
+    {
+      "name": "GreenWay - Sulbin Garwolin",
+      "latitude": 51.867684,
+      "longitude": 21.64404
+    },
+    {
+      "name": "GreenWay - Westfield Mokotów Warszawa",
+      "latitude": 52.17949,
+      "longitude": 21.005683
+    },
+    {
+      "name": "GreenWay - Wola Park Warszawa",
+      "latitude": 52.241236,
+      "longitude": 20.929062
+    },
+    {
+      "name": "GreenWay - Zajazd Orchidea Ostrów",
+      "latitude": 52.753616,
+      "longitude": 21.786047
+    },
+    {
+      "name": "greenway aldi 400kw 8x parking",
+      "latitude": 52.628648,
+      "longitude": 20.380998
+    },
+    {
+      "name": "GreenWay Aldi Prymasa Wyszyńskiego",
+      "latitude": 51.065926,
+      "longitude": 19.447063
+    },
+    {
+      "name": "GreenWay Charging Station",
+      "latitude": 50.221871,
+      "longitude": 18.672192
+    },
+    {
+      "name": "greenway wila nowska 50kw 2x parking",
+      "latitude": 52.179068,
+      "longitude": 21.013321
+    },
+    {
+      "name": "Grudziądzka",
+      "latitude": 53.409289,
+      "longitude": 14.533172
+    },
+    {
+      "name": "Horyzont EV",
+      "latitude": 51.751665,
+      "longitude": 19.450037
+    },
+    {
+      "name": "Hospoda U Sikory",
+      "latitude": 49.519662,
+      "longitude": 18.832301
+    },
+    {
+      "name": "Hospůdka na hřišti v Bělé",
+      "latitude": 49.97263,
+      "longitude": 18.148667
+    },
+    {
+      "name": "Hotel Cvilín",
+      "latitude": 50.079529,
+      "longitude": 17.720086
+    },
+    {
+      "name": "Hotel Oskar Puławy",
+      "latitude": 51.426384,
+      "longitude": 21.948408
+    },
+    {
+      "name": "Hotel Spa Dr Irena Eris Polanica Zdro",
+      "latitude": 50.411393,
+      "longitude": 16.503244
+    },
+    {
+      "name": "HUB Ekoen eTRUCK",
+      "latitude": 52.073413,
+      "longitude": 20.768234
+    },
+    {
+      "name": "hydrapress kuligow greenway",
+      "latitude": 52.184979,
+      "longitude": 21.132134
+    },
+    {
+      "name": "Hřiště SK Meteor",
+      "latitude": 50.004824,
+      "longitude": 18.089449
+    },
+    {
+      "name": "IKEA Szczecin",
+      "latitude": 53.407286,
+      "longitude": 14.513402
+    },
+    {
+      "name": "InbalanceGrid",
+      "latitude": 51.221968,
+      "longitude": 22.510473
+    },
+    {
+      "name": "ionity",
+      "latitude": 49.989318,
+      "longitude": 19.835748
+    },
+    {
+      "name": "Ionity",
+      "latitude": 52.313015,
+      "longitude": 14.641507
+    },
+    {
+      "name": "IONITY",
+      "latitude": 53.889235,
+      "longitude": 18.630853
+    },
+    {
+      "name": "Ionity Kaszewy Kościelne (Kutno)",
+      "latitude": 52.218887,
+      "longitude": 19.461665
+    },
+    {
+      "name": "Ionity MOP Młyński Staw (kier. Katowice)",
+      "latitude": 50.677399,
+      "longitude": 17.650831
+    },
+    {
+      "name": "Ionity MOP Młyński Staw (kier. Wrocław)",
+      "latitude": 50.676606,
+      "longitude": 17.658002
+    },
+    {
+      "name": "Ionity MOP Olsze (kier. Gdańsk)",
+      "latitude": 53.886806,
+      "longitude": 18.630736
+    },
+    {
+      "name": "Ionity MOP Olsze (kier. Łódź)",
+      "latitude": 53.88924,
+      "longitude": 18.63081
+    },
+    {
+      "name": "IONITY Poznan",
+      "latitude": 52.352151,
+      "longitude": 16.998503
+    },
+    {
+      "name": "Ionity Radomsko",
+      "latitude": 51.082059,
+      "longitude": 19.37517
+    },
+    {
+      "name": "Ionium",
+      "latitude": 52.256359,
+      "longitude": 21.009541
+    },
+    {
+      "name": "Katowice Supercharger",
+      "latitude": 50.254593,
+      "longitude": 19.046579
+    },
+    {
+      "name": "Katowice-E.Leclerc Supercharger",
+      "latitude": 50.220126,
+      "longitude": 18.990245
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 50.529884,
+      "longitude": 22.70895
+    },
+    {
+      "name": "kaufland zabkowice",
+      "latitude": 50.597826,
+      "longitude": 16.807575
+    },
+    {
+      "name": "KFC Krosno",
+      "latitude": 49.674248,
+      "longitude": 21.77374
+    },
+    {
+      "name": "KFC Radom Struga",
+      "latitude": 51.410307,
+      "longitude": 21.177394
+    },
+    {
+      "name": "KGHM Legnica Złotoryjska 194 (KGHM)",
+      "latitude": 51.18806,
+      "longitude": 16.121693
+    },
+    {
+      "name": "kia slupsk zatorze greenway 2ccs 140kw",
+      "latitude": 54.45651,
+      "longitude": 16.987363
+    },
+    {
+      "name": "Kostomłoty Supercharger",
+      "latitude": 51.037359,
+      "longitude": 16.584214
+    },
+    {
+      "name": "Koszalin Supercharger",
+      "latitude": 54.216641,
+      "longitude": 16.114265
+    },
+    {
+      "name": "Koupaliště a minigolf Píšť",
+      "latitude": 49.976542,
+      "longitude": 18.185744
+    },
+    {
+      "name": "Krakow Supercharger",
+      "latitude": 50.027573,
+      "longitude": 19.950967
+    },
+    {
+      "name": "Krakowska",
+      "latitude": 53.403754,
+      "longitude": 14.500421
+    },
+    {
+      "name": "Królowej Korony Polskiej",
+      "latitude": 53.4392,
+      "longitude": 14.535231
+    },
+    {
+      "name": "Legnica Supercharger",
+      "latitude": 51.184635,
+      "longitude": 16.169321
+    },
+    {
+      "name": "Lidl",
+      "latitude": 50.028835,
+      "longitude": 20.201658
+    },
+    {
+      "name": "Lidl",
+      "latitude": 50.127069,
+      "longitude": 19.870875
+    },
+    {
+      "name": "Lidl",
+      "latitude": 50.976438,
+      "longitude": 18.207601
+    },
+    {
+      "name": "lidl elocity 50kw 2x parking",
+      "latitude": 54.325341,
+      "longitude": 19.111698
+    },
+    {
+      "name": "Lidl Gliwice",
+      "latitude": 50.313657,
+      "longitude": 18.691385
+    },
+    {
+      "name": "Lidl Ostrowiec Świętokrzyski",
+      "latitude": 50.944813,
+      "longitude": 21.389355
+    },
+    {
+      "name": "Lublin Supercharger",
+      "latitude": 51.282193,
+      "longitude": 22.570386
+    },
+    {
+      "name": "Lutol Suchy AMIC Energy greenway 4x ccs",
+      "latitude": 52.3422,
+      "longitude": 15.751454
+    },
+    {
+      "name": "Lućmierz Supercharger",
+      "latitude": 51.886777,
+      "longitude": 19.384343
+    },
+    {
+      "name": "Majaland",
+      "latitude": 52.182283,
+      "longitude": 21.283529
+    },
+    {
+      "name": "Malta Office Park",
+      "latitude": 52.400901,
+      "longitude": 16.964366
+    },
+    {
+      "name": "Metalurgia restauracja & browar",
+      "latitude": 51.072928,
+      "longitude": 19.441602
+    },
+    {
+      "name": "Mickiewicza 163",
+      "latitude": 53.44433,
+      "longitude": 14.498727
+    },
+    {
+      "name": "Mieczysława Niedziałkowskiego",
+      "latitude": 53.438013,
+      "longitude": 14.54895
+    },
+    {
+      "name": "MOP Kozanki",
+      "latitude": 52.034106,
+      "longitude": 18.877417
+    },
+    {
+      "name": "MOP Kozanki",
+      "latitude": 52.03532,
+      "longitude": 18.879503
+    },
+    {
+      "name": "MOSiR Aqua",
+      "latitude": 51.237825,
+      "longitude": 22.568749
+    },
+    {
+      "name": "MOSiR Bystrzyca",
+      "latitude": 51.232064,
+      "longitude": 22.594914
+    },
+    {
+      "name": "Moya",
+      "latitude": 52.622596,
+      "longitude": 16.563557
+    },
+    {
+      "name": "Multikino Zarbze",
+      "latitude": 50.316504,
+      "longitude": 18.77702
+    },
+    {
+      "name": "Městské informační centrum Zlaté Hory",
+      "latitude": 50.26318,
+      "longitude": 17.395294
+    },
+    {
+      "name": "Nissan",
+      "latitude": 52.35255,
+      "longitude": 16.837037
+    },
+    {
+      "name": "Noxo",
+      "latitude": 50.13356,
+      "longitude": 22.756504
+    },
+    {
+      "name": "Noxo",
+      "latitude": 50.135772,
+      "longitude": 22.764593
+    },
+    {
+      "name": "Noxo",
+      "latitude": 52.334371,
+      "longitude": 15.293035
+    },
+    {
+      "name": "Noxo",
+      "latitude": 54.763844,
+      "longitude": 17.548415
+    },
+    {
+      "name": "NOXO.",
+      "latitude": 50.541196,
+      "longitude": 22.723578
+    },
+    {
+      "name": "NOXO. Campanile Kraków South",
+      "latitude": 50.02928,
+      "longitude": 19.909241
+    },
+    {
+      "name": "NOXO. Carpatia Bieszczadzki",
+      "latitude": 49.175613,
+      "longitude": 22.431701
+    },
+    {
+      "name": "Obec Orlické Záhoří",
+      "latitude": 50.278816,
+      "longitude": 16.473118
+    },
+    {
+      "name": "Obecní úřad Píšť",
+      "latitude": 49.978641,
+      "longitude": 18.193621
+    },
+    {
+      "name": "Obi",
+      "latitude": 52.380448,
+      "longitude": 16.982911
+    },
+    {
+      "name": "Ogrodowa 6",
+      "latitude": 49.959268,
+      "longitude": 19.666283
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.010625,
+      "longitude": 20.010208
+    },
+    {
+      "name": "Orlen 821201",
+      "latitude": 51.317036,
+      "longitude": 15.596718
+    },
+    {
+      "name": "Orlen Charge",
+      "latitude": 51.904318,
+      "longitude": 15.586375
+    },
+    {
+      "name": "Orlen Charge",
+      "latitude": 51.905065,
+      "longitude": 15.590552
+    },
+    {
+      "name": "ORLEN Charge",
+      "latitude": 53.65111,
+      "longitude": 17.318698
+    },
+    {
+      "name": "Orlen Charge 100Kw",
+      "latitude": 50.68008,
+      "longitude": 17.876267
+    },
+    {
+      "name": "Orlencharge",
+      "latitude": 50.623132,
+      "longitude": 20.283939
+    },
+    {
+      "name": "P&R Podłęże Północ",
+      "latitude": 50.018578,
+      "longitude": 20.169902
+    },
+    {
+      "name": "P&R Podłęże Półudnie",
+      "latitude": 50.017347,
+      "longitude": 20.169272
+    },
+    {
+      "name": "P&R Staniątki",
+      "latitude": 50.011106,
+      "longitude": 20.205276
+    },
+    {
+      "name": "Panorama",
+      "latitude": 52.380553,
+      "longitude": 16.896839
+    },
+    {
+      "name": "Parking Biedronki",
+      "latitude": 50.910143,
+      "longitude": 18.940458
+    },
+    {
+      "name": "PGE Nowa Energia",
+      "latitude": 50.038207,
+      "longitude": 21.993969
+    },
+    {
+      "name": "PGE Nowa Energia",
+      "latitude": 51.732907,
+      "longitude": 19.456311
+    },
+    {
+      "name": "PGE Nowa Energia, Polanica-Zdrój",
+      "latitude": 50.409406,
+      "longitude": 16.514868
+    },
+    {
+      "name": "plugbox broniewskiego 2ccs 1t2c 2x 150kw",
+      "latitude": 52.266742,
+      "longitude": 20.964902
+    },
+    {
+      "name": "Polenergia",
+      "latitude": 50.045258,
+      "longitude": 19.995585
+    },
+    {
+      "name": "Polenergia eMobility",
+      "latitude": 52.212024,
+      "longitude": 20.956561
+    },
+    {
+      "name": "Polenergia UFC",
+      "latitude": 52.313846,
+      "longitude": 15.78119
+    },
+    {
+      "name": "Porsche Jabłoniowa 2A Salon Audi/ Volkswagen",
+      "latitude": 50.298822,
+      "longitude": 19.118627
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 49.699474,
+      "longitude": 22.018292
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.060432,
+      "longitude": 22.48019
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.074827,
+      "longitude": 20.013499
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.445435,
+      "longitude": 22.253875
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.490228,
+      "longitude": 17.971111
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.530469,
+      "longitude": 22.709377
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.70888,
+      "longitude": 22.418713
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 50.856488,
+      "longitude": 17.474615
+    },
+    {
+      "name": "PowerDot",
+      "latitude": 50.953886,
+      "longitude": 21.366631
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.071477,
+      "longitude": 17.722372
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.09631,
+      "longitude": 16.933567
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.102004,
+      "longitude": 17.117174
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.118179,
+      "longitude": 16.944442
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.123173,
+      "longitude": 16.925542
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.22205,
+      "longitude": 18.575585
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.367599,
+      "longitude": 21.123658
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.392087,
+      "longitude": 21.1241
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.429882,
+      "longitude": 21.149743
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.634683,
+      "longitude": 22.894745
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.635612,
+      "longitude": 17.802505
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.637139,
+      "longitude": 15.136429
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.640107,
+      "longitude": 17.83792
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.643552,
+      "longitude": 17.830786
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.645815,
+      "longitude": 17.856447
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.649884,
+      "longitude": 17.806992
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.656421,
+      "longitude": 17.782965
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.744688,
+      "longitude": 18.049065
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.946923,
+      "longitude": 14.727465
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 51.956581,
+      "longitude": 15.520039
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.309812,
+      "longitude": 21.080547
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.384408,
+      "longitude": 16.922109
+    },
+    {
+      "name": "powerdot",
+      "latitude": 52.445847,
+      "longitude": 16.989144
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.606181,
+      "longitude": 16.580808
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.738743,
+      "longitude": 15.218731
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.743504,
+      "longitude": 15.254704
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.871402,
+      "longitude": 18.700243
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 52.959879,
+      "longitude": 14.442438
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.104695,
+      "longitude": 19.062445
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.11418,
+      "longitude": 17.984716
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.114575,
+      "longitude": 17.968934
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.128345,
+      "longitude": 18.021884
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.139477,
+      "longitude": 14.891176
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.166928,
+      "longitude": 18.164394
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 53.974097,
+      "longitude": 18.538691
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 54.072246,
+      "longitude": 18.457699
+    },
+    {
+      "name": "Powerdot",
+      "latitude": 54.345163,
+      "longitude": 18.362288
+    },
+    {
+      "name": "Powerdot CH Stara Mleczarnia",
+      "latitude": 51.070612,
+      "longitude": 19.438188
+    },
+    {
+      "name": "Powerdot Park Handlowy – Swarzędz",
+      "latitude": 52.401833,
+      "longitude": 17.059168
+    },
+    {
+      "name": "Powerdot Spar - Swarzędz",
+      "latitude": 52.401489,
+      "longitude": 17.060478
+    },
+    {
+      "name": "PowerOn",
+      "latitude": 52.448841,
+      "longitude": 16.894346
+    },
+    {
+      "name": "Poznan Supercharger",
+      "latitude": 52.353265,
+      "longitude": 16.837775
+    },
+    {
+      "name": "Poznan Supercharger",
+      "latitude": 52.400258,
+      "longitude": 16.893008
+    },
+    {
+      "name": "Radom Supercharger",
+      "latitude": 51.379531,
+      "longitude": 21.125479
+    },
+    {
+      "name": "Restaurace Spartak",
+      "latitude": 49.988287,
+      "longitude": 18.120672
+    },
+    {
+      "name": "Rybacka",
+      "latitude": 53.423221,
+      "longitude": 14.553945
+    },
+    {
+      "name": "Rybacka II",
+      "latitude": 53.42288,
+      "longitude": 14.553299
+    },
+    {
+      "name": "Rysy",
+      "latitude": 49.326173,
+      "longitude": 20.103843
+    },
+    {
+      "name": "RyterSKI",
+      "latitude": 49.487418,
+      "longitude": 20.652056
+    },
+    {
+      "name": "SGH",
+      "latitude": 52.20904,
+      "longitude": 21.008059
+    },
+    {
+      "name": "SGH",
+      "latitude": 52.209184,
+      "longitude": 21.009561
+    },
+    {
+      "name": "Sport Bar Ke Hřišti",
+      "latitude": 50.029289,
+      "longitude": 18.067453
+    },
+    {
+      "name": "stacja paliw moya klodzko greenway 140kw",
+      "latitude": 50.450099,
+      "longitude": 16.640176
+    },
+    {
+      "name": "Stacja ładowania \"Aldi Międzyrzecz Zachodnia\"",
+      "latitude": 52.442317,
+      "longitude": 15.561325
+    },
+    {
+      "name": "Stacja ładowania \"BP Terminal Gorzów Wielkopolski\"",
+      "latitude": 52.697522,
+      "longitude": 15.232013
+    },
+    {
+      "name": "Stacja ładowania \"Circle K Renice\"",
+      "latitude": 52.943767,
+      "longitude": 14.953807
+    },
+    {
+      "name": "Stacja Ładowania Autobusów Elektrycznych",
+      "latitude": 50.786148,
+      "longitude": 19.130037
+    },
+    {
+      "name": "Stacja ładowania autobusów elektrycznych",
+      "latitude": 52.743213,
+      "longitude": 15.2107
+    },
+    {
+      "name": "Stacja ładowania autobusów elektrycznych",
+      "latitude": 52.763224,
+      "longitude": 15.234036
+    },
+    {
+      "name": "Stacja ładowania Samochodów Elektrycznych",
+      "latitude": 50.492229,
+      "longitude": 19.420128
+    },
+    {
+      "name": "Stacja ładowania VOLVO",
+      "latitude": 52.298771,
+      "longitude": 21.03046
+    },
+    {
+      "name": "Szczecin Supercharger",
+      "latitude": 53.381927,
+      "longitude": 14.670352
+    },
+    {
+      "name": "Szczecinek Podwale",
+      "latitude": 53.710495,
+      "longitude": 16.690257
+    },
+    {
+      "name": "Tauron",
+      "latitude": 51.111288,
+      "longitude": 17.002511
+    },
+    {
+      "name": "TAURON Goczałkowice-Zdrój Spokojna (Restauracja)",
+      "latitude": 49.956965,
+      "longitude": 18.967351
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 54.035785,
+      "longitude": 21.759918
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 54.162582,
+      "longitude": 15.438427
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 52.869639,
+      "longitude": 18.7482
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 54.585724,
+      "longitude": 18.371329
+    },
+    {
+      "name": "Tetris",
+      "latitude": 50.265392,
+      "longitude": 19.059856
+    },
+    {
+      "name": "Trzebownisko Supercharger",
+      "latitude": 50.089185,
+      "longitude": 22.045807
+    },
+    {
+      "name": "USB",
+      "latitude": 49.406507,
+      "longitude": 20.228245
+    },
+    {
+      "name": "USB",
+      "latitude": 52.873441,
+      "longitude": 14.396375
+    },
+    {
+      "name": "USB",
+      "latitude": 52.990226,
+      "longitude": 16.923604
+    },
+    {
+      "name": "USB",
+      "latitude": 54.259831,
+      "longitude": 16.064395
+    },
+    {
+      "name": "USB",
+      "latitude": 54.287858,
+      "longitude": 17.303196
+    },
+    {
+      "name": "USB",
+      "latitude": 54.510179,
+      "longitude": 16.698688
+    },
+    {
+      "name": "Voltowa",
+      "latitude": 53.130415,
+      "longitude": 23.1549
+    },
+    {
+      "name": "Voltowa",
+      "latitude": 53.139998,
+      "longitude": 23.172285
+    },
+    {
+      "name": "Warsaw Radzymińska Supercharger",
+      "latitude": 52.301928,
+      "longitude": 21.088169
+    },
+    {
+      "name": "Warsaw Supercharger",
+      "latitude": 52.170363,
+      "longitude": 20.936039
+    },
+    {
+      "name": "Wrocław Supercharger",
+      "latitude": 51.052213,
+      "longitude": 16.968129
+    },
+    {
+      "name": "Zamek na Skale",
+      "latitude": 50.348332,
+      "longitude": 16.779797
+    },
+    {
+      "name": "ZEG",
+      "latitude": 53.924466,
+      "longitude": 15.202174
+    },
+    {
+      "name": "ZTM Lublin Bus",
+      "latitude": 51.214472,
+      "longitude": 22.639141
+    },
+    {
+      "name": "Zámek Slezské Rudoltice",
+      "latitude": 50.205795,
+      "longitude": 17.689438
+    },
+    {
+      "name": "Ładowanie autobusów elektrycznych MPK",
+      "latitude": 50.228269,
+      "longitude": 19.202741
+    },
+    {
+      "name": "Ładowarka Pantografowa",
+      "latitude": 50.104197,
+      "longitude": 19.962954
+    },
+    {
+      "name": "Ładowarka Pantografowa Komunikacji Miejskiej",
+      "latitude": 49.936344,
+      "longitude": 19.013217
+    },
+    {
+      "name": "Ładowarka Pantografowa Komunikacji Miejskiej",
+      "latitude": 50.096325,
+      "longitude": 19.930405
+    },
+    {
+      "name": "Ładowarka rowerów elektrycznych",
+      "latitude": 49.466484,
+      "longitude": 20.555886
+    },
+    {
+      "name": "Ładowarka rowerów elektrycznych",
+      "latitude": 50.276775,
+      "longitude": 16.537238
+    },
+    {
+      "name": "Ładowarka Samochodów Elektrycznych EV+Map",
+      "latitude": 52.707552,
+      "longitude": 16.377455
+    },
+    {
+      "name": "Зарадка рэфрыжэратара",
+      "latitude": 52.129399,
+      "longitude": 23.582583
+    }
+  ],
+  "meta": {
+    "title": "Polska — stacje ładowania - Bezpłatne pobieranie",
+    "description": "Stacje ładowania pojazdów elektrycznych w Polsce (OpenStreetMap) Zawiera 331 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — stacje ładowania | ListBase",
+    "seo_description": "Pobierz Polska — stacje ładowania — 331 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 331 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

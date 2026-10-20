@@ -1,0 +1,296 @@
+{
+  "id": "pl-parki-narodowe-cdda",
+  "name": "Polska — parki narodowe (CDDA)",
+  "title": "Polska — parki narodowe (CDDA)",
+  "description": "23 obiektów, których nazwa w rejestrze CDDA zawiera „park narodowy” (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 106887,
+      "nazwa": "Babiogórski Park Narodowy z siedzibą w Zawoi",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1955,
+      "srodek_lat": 49.58928,
+      "srodek_lon": 19.54253,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 854,
+      "nazwa": "Białowieski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1932,
+      "srodek_lat": 52.76441,
+      "srodek_lon": 23.86589,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11146,
+      "nazwa": "Biebrzański Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 53.50398,
+      "srodek_lon": 22.75875,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 851,
+      "nazwa": "Bieszczadzki Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1973,
+      "srodek_lat": 49.11292,
+      "srodek_lon": 22.64062,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 26068,
+      "nazwa": "Drawieński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 53.1067,
+      "srodek_lon": 15.94588,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 4463,
+      "nazwa": "Gorczański Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 49.5614,
+      "srodek_lon": 20.15045,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 847,
+      "nazwa": "Kampinoski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1959,
+      "srodek_lat": 52.32369,
+      "srodek_lon": 20.57931,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 852,
+      "nazwa": "Karkonoski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1959,
+      "srodek_lat": 50.77978,
+      "srodek_lon": 15.63795,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11144,
+      "nazwa": "Magurski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 49.51445,
+      "srodek_lon": 21.45801,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106890,
+      "nazwa": "Narwiański Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 53.05521,
+      "srodek_lon": 22.88258,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 859,
+      "nazwa": "Ojcowski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1956,
+      "srodek_lat": 50.21447,
+      "srodek_lon": 19.81323,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106888,
+      "nazwa": "Park Narodowy Bory Tucholskie",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 53.81483,
+      "srodek_lon": 17.56567,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106889,
+      "nazwa": "Park Narodowy Gór Stołowych",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 50.46494,
+      "srodek_lon": 16.3523,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177261,
+      "nazwa": "Park Narodowy Ujście Warty",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 2001,
+      "srodek_lat": 52.59768,
+      "srodek_lon": 14.77018,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 857,
+      "nazwa": "Pieniński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1932,
+      "srodek_lat": 49.4209,
+      "srodek_lon": 20.38789,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11147,
+      "nazwa": "Poleski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.42943,
+      "srodek_lon": 23.18812,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 856,
+      "nazwa": "Roztoczański Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1974,
+      "srodek_lat": 50.60029,
+      "srodek_lon": 23.0299,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 849,
+      "nazwa": "Słowiński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 54.71418,
+      "srodek_lon": 17.30716,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 848,
+      "nazwa": "Tatrzański Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1955,
+      "srodek_lat": 49.2486,
+      "srodek_lon": 19.96086,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 853,
+      "nazwa": "Wielkopolski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1957,
+      "srodek_lat": 52.28081,
+      "srodek_lon": 16.79145,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 14197,
+      "nazwa": "Wigierski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1989,
+      "srodek_lat": 54.04424,
+      "srodek_lon": 23.09936,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 855,
+      "nazwa": "Woliński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.92498,
+      "srodek_lon": 14.4841,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 850,
+      "nazwa": "Świętokrzyski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1950,
+      "srodek_lat": 50.89952,
+      "srodek_lon": 20.9415,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — parki narodowe (CDDA) - Bezpłatne pobieranie",
+    "description": "23 obiektów, których nazwa w rejestrze CDDA zawiera „park narodowy” (podzbiór pl-obszary-chronione-cdda). Zawiera 23 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — parki narodowe (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — parki narodowe (CDDA) — 23 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 23 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

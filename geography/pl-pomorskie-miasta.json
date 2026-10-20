@@ -1,0 +1,486 @@
+{
+  "id": "pl-pomorskie-miasta",
+  "name": "Miasta w województwie pomorskie",
+  "title": "Miasta w województwie pomorskie",
+  "description": "Cities and towns (miasta) in Pomorskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "2992",
+      "name": "Brusy",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "chojnicki",
+      "commune": "Brusy-gmina miejsko-wiejska",
+      "latitude": 53.8867,
+      "longitude": 17.7178
+    },
+    {
+      "id": "3949",
+      "name": "Bytów",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "bytowski",
+      "commune": "Bytów-gmina miejsko-wiejska",
+      "latitude": 54.1689,
+      "longitude": 17.4894
+    },
+    {
+      "id": "4435",
+      "name": "Chojnice",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "chojnicki",
+      "commune": "Chojnice-gmina miejska",
+      "latitude": 53.6953,
+      "longitude": 17.5631
+    },
+    {
+      "id": "5341",
+      "name": "Czarna Woda",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "starogardzki",
+      "commune": "Czarna Woda-gmina miejsko-wiejska",
+      "latitude": 53.8447,
+      "longitude": 18.1
+    },
+    {
+      "id": "5345",
+      "name": "Czarne",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "człuchowski",
+      "commune": "Czarne-gmina miejsko-wiejska",
+      "latitude": 53.6836,
+      "longitude": 16.9422
+    },
+    {
+      "id": "5645",
+      "name": "Czersk",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "chojnicki",
+      "commune": "Czersk-gmina miejsko-wiejska",
+      "latitude": 53.7947,
+      "longitude": 17.9758
+    },
+    {
+      "id": "5731",
+      "name": "Człuchów",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "człuchowski",
+      "commune": "Człuchów-gmina miejska",
+      "latitude": 53.6658,
+      "longitude": 17.3578
+    },
+    {
+      "id": "6351",
+      "name": "Debrzno",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "człuchowski",
+      "commune": "Debrzno-gmina miejsko-wiejska",
+      "latitude": 53.5367,
+      "longitude": 17.2353
+    },
+    {
+      "id": "7642",
+      "name": "Dzierzgoń",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "sztumski",
+      "commune": "Dzierzgoń-gmina miejsko-wiejska",
+      "latitude": 53.9233,
+      "longitude": 19.3453
+    },
+    {
+      "id": "8457",
+      "name": "Gdańsk",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "Gdańsk",
+      "commune": "Gdańsk-gmina miejska",
+      "latitude": 54.3497,
+      "longitude": 18.6536
+    },
+    {
+      "id": "8461",
+      "name": "Gdynia",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "Gdynia",
+      "commune": "Gdynia-gmina miejska",
+      "latitude": 54.5178,
+      "longitude": 18.5425
+    },
+    {
+      "id": "8901",
+      "name": "Gniew",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "tczewski",
+      "commune": "Gniew-gmina miejsko-wiejska",
+      "latitude": 53.8356,
+      "longitude": 18.8222
+    },
+    {
+      "id": "10718",
+      "name": "Hel",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "pucki",
+      "commune": "Hel-gmina miejska",
+      "latitude": 54.6075,
+      "longitude": 18.8031
+    },
+    {
+      "id": "12064",
+      "name": "Jastarnia",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "pucki",
+      "commune": "Jastarnia-gmina miejsko-wiejska",
+      "latitude": 54.7028,
+      "longitude": 18.6714
+    },
+    {
+      "id": "13599",
+      "name": "Kartuzy",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "kartuski",
+      "commune": "Kartuzy-gmina miejsko-wiejska",
+      "latitude": 54.3336,
+      "longitude": 18.2028
+    },
+    {
+      "id": "13948",
+      "name": "Kępice",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "słupski",
+      "commune": "Kępice-gmina miejsko-wiejska",
+      "latitude": 54.2422,
+      "longitude": 16.8878
+    },
+    {
+      "id": "15679",
+      "name": "Kościerzyna",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "kościerski",
+      "commune": "Kościerzyna-gmina miejska",
+      "latitude": 54.1211,
+      "longitude": 17.9775
+    },
+    {
+      "id": "16624",
+      "name": "Krynica Morska",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "nowodworski",
+      "commune": "Krynica Morska-gmina miejska",
+      "latitude": 54.38,
+      "longitude": 19.4369
+    },
+    {
+      "id": "17479",
+      "name": "Kwidzyn",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "kwidzyński",
+      "commune": "Kwidzyn-gmina miejska",
+      "latitude": 53.7358,
+      "longitude": 18.9389
+    },
+    {
+      "id": "17994",
+      "name": "Lębork",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "lęborski",
+      "commune": "Lębork-gmina miejska",
+      "latitude": 54.5436,
+      "longitude": 17.75
+    },
+    {
+      "id": "19313",
+      "name": "Łeba",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "lęborski",
+      "commune": "Łeba-gmina miejska",
+      "latitude": 54.7608,
+      "longitude": 17.5567
+    },
+    {
+      "id": "20174",
+      "name": "Malbork",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "malborski",
+      "commune": "Malbork-gmina miejska",
+      "latitude": 54.0358,
+      "longitude": 19.0286
+    },
+    {
+      "id": "20983",
+      "name": "Miastko",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "bytowski",
+      "commune": "Miastko-gmina miejsko-wiejska",
+      "latitude": 54.0003,
+      "longitude": 16.9764
+    },
+    {
+      "id": "24085",
+      "name": "Nowy Dwór Gdański",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "nowodworski",
+      "commune": "Nowy Dwór Gdański-gmina miejsko-wiejska",
+      "latitude": 54.2139,
+      "longitude": 19.1172
+    },
+    {
+      "id": "24236",
+      "name": "Nowy Staw",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "malborski",
+      "commune": "Nowy Staw-gmina miejsko-wiejska",
+      "latitude": 54.1347,
+      "longitude": 19.0081
+    },
+    {
+      "id": "26134",
+      "name": "Pelplin",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "tczewski",
+      "commune": "Pelplin-gmina miejsko-wiejska",
+      "latitude": 53.9283,
+      "longitude": 18.6975
+    },
+    {
+      "id": "28214",
+      "name": "Prabuty",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "kwidzyński",
+      "commune": "Prabuty-gmina miejsko-wiejska",
+      "latitude": 53.7589,
+      "longitude": 19.1989
+    },
+    {
+      "id": "28400",
+      "name": "Pruszcz Gdański",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "gdański",
+      "commune": "Pruszcz Gdański-gmina miejska",
+      "latitude": 54.2622,
+      "longitude": 18.6361
+    },
+    {
+      "id": "28977",
+      "name": "Puck",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "pucki",
+      "commune": "Puck-gmina miejska",
+      "latitude": 54.7181,
+      "longitude": 18.4092
+    },
+    {
+      "id": "29636",
+      "name": "Reda",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "wejherowski",
+      "commune": "Reda-gmina miejska",
+      "latitude": 54.6033,
+      "longitude": 18.3492
+    },
+    {
+      "id": "30642",
+      "name": "Rumia",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "wejherowski",
+      "commune": "Rumia-gmina miejska",
+      "latitude": 54.5642,
+      "longitude": 18.3889
+    },
+    {
+      "id": "32190",
+      "name": "Skarszewy",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "starogardzki",
+      "commune": "Skarszewy-gmina miejsko-wiejska",
+      "latitude": 54.0711,
+      "longitude": 18.4403
+    },
+    {
+      "id": "32357",
+      "name": "Skórcz",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "starogardzki",
+      "commune": "Skórcz-gmina miejska",
+      "latitude": 53.7939,
+      "longitude": 18.525
+    },
+    {
+      "id": "32729",
+      "name": "Słupsk",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "Słupsk",
+      "commune": "Słupsk-gmina miejska",
+      "latitude": 54.4656,
+      "longitude": 17.0372
+    },
+    {
+      "id": "33169",
+      "name": "Sopot",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "Sopot",
+      "commune": "Sopot-gmina miejska",
+      "latitude": 54.4453,
+      "longitude": 18.5608
+    },
+    {
+      "id": "33980",
+      "name": "Starogard Gdański",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "starogardzki",
+      "commune": "Starogard Gdański-gmina miejska",
+      "latitude": 53.9681,
+      "longitude": 18.5308
+    },
+    {
+      "id": "35845",
+      "name": "Sztum",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "sztumski",
+      "commune": "Sztum-gmina miejsko-wiejska",
+      "latitude": 53.9192,
+      "longitude": 19.0328
+    },
+    {
+      "id": "36717",
+      "name": "Tczew",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "tczewski",
+      "commune": "Tczew-gmina miejska",
+      "latitude": 54.0881,
+      "longitude": 18.7994
+    },
+    {
+      "id": "37938",
+      "name": "Ustka",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "słupski",
+      "commune": "Ustka-gmina miejska",
+      "latitude": 54.5847,
+      "longitude": 16.8569
+    },
+    {
+      "id": "38350",
+      "name": "Wejherowo",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "wejherowski",
+      "commune": "Wejherowo-gmina miejska",
+      "latitude": 54.6017,
+      "longitude": 18.2383
+    },
+    {
+      "id": "39512",
+      "name": "Władysławowo",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "pucki",
+      "commune": "Władysławowo-gmina miejsko-wiejska",
+      "latitude": 54.7903,
+      "longitude": 18.4089
+    },
+    {
+      "id": "43482",
+      "name": "Żukowo",
+      "type": "city",
+      "province": "pomorskie",
+      "district": "kartuski",
+      "commune": "Żukowo-gmina miejsko-wiejska",
+      "latitude": 54.3458,
+      "longitude": 18.3644
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie pomorskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Pomorskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 42 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie pomorskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie pomorskie — 42 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 42 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

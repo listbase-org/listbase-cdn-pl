@@ -1,0 +1,133 @@
+{
+  "id": "pl-jednostki-miary-electric",
+  "name": "Jednostki miary — kategoria 'electric' (8)",
+  "title": "Jednostki miary — kategoria 'electric' (8)",
+  "description": "Jednostki miary kategorii 'electric' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategoria": "electric",
+      "nazwa": "ampery",
+      "skrot": "A",
+      "forma_waska": "A",
+      "wzorzec": "{0} ampera"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategoria": "electric",
+      "nazwa": "kulomby",
+      "skrot": "C",
+      "forma_waska": "C",
+      "wzorzec": "{0} kulomba"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategoria": "electric",
+      "nazwa": "farady",
+      "skrot": "F",
+      "forma_waska": "F",
+      "wzorzec": "{0} farada"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategoria": "electric",
+      "nazwa": "henry",
+      "skrot": "H",
+      "forma_waska": "H",
+      "wzorzec": "{0} henra"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategoria": "electric",
+      "nazwa": "miliampery",
+      "skrot": "mA",
+      "forma_waska": "mA",
+      "wzorzec": "{0} miliampera"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategoria": "electric",
+      "nazwa": "omy",
+      "skrot": "Ω",
+      "forma_waska": "Ω",
+      "wzorzec": "{0} oma"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategoria": "electric",
+      "nazwa": "siemensy",
+      "skrot": "S",
+      "forma_waska": "S",
+      "wzorzec": "{0} siemensa"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategoria": "electric",
+      "nazwa": "wolty",
+      "skrot": "V",
+      "forma_waska": "V",
+      "wzorzec": "{0} wolta"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'electric' (8) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'electric' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 8 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'electric' (8) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'electric' (8) — 8 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 8 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "id": "tech-ascii-table",
+  "name": "Kompletny Zbiór Danych Tabela Znaków ASCII i Kody Referencyjne",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "decimal",
+      "label": "Decimal",
+      "type": "number"
+    },
+    {
+      "key": "hex",
+      "label": "Hexadecimal",
+      "type": "string"
+    },
+    {
+      "key": "binary",
+      "label": "Binary",
+      "type": "string"
+    },
+    {
+      "key": "octal",
+      "label": "Octal",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "decimal": 0,
+      "hex": "00",
+      "binary": "00000000",
+      "octal": "000",
+      "character": "",
+      "description": "NUL (Null)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 1,
+      "hex": "01",
+      "binary": "00000001",
+      "octal": "001",
+      "character": "",
+      "description": "SOH (Początek Nagłówka)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 2,
+      "hex": "02",
+      "binary": "00000010",
+      "octal": "002",
+      "character": "",
+      "description": "STX (Początek Tekstu)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 3,
+      "hex": "03",
+      "binary": "00000011",
+      "octal": "003",
+      "character": "",
+      "description": "ETX (Koniec Tekstu)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 4,
+      "hex": "04",
+      "binary": "00000100",
+      "octal": "004",
+      "character": "",
+      "description": "EOT (Koniec Transmisji)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 5,
+      "hex": "05",
+      "binary": "00000101",
+      "octal": "005",
+      "character": "",
+      "description": "ENQ (Zapytanie)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 6,
+      "hex": "06",
+      "binary": "00000110",
+      "octal": "006",
+      "character": "",
+      "description": "ACK (Potwierdzenie)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 7,
+      "hex": "07",
+      "binary": "00000111",
+      "octal": "007",
+      "character": "",
+      "description": "BEL (Dzwonek)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 8,
+      "hex": "08",
+      "binary": "00001000",
+      "octal": "010",
+      "character": "",
+      "description": "BS (Cofnięcie)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 9,
+      "hex": "09",
+      "binary": "00001001",
+      "octal": "011",
+      "character": "",
+      "description": "HT (Tabulacja Pozioma)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 10,
+      "hex": "0A",
+      "binary": "00001010",
+      "octal": "012",
+      "character": "",
+      "description": "LF (Nowa Linia)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 11,
+      "hex": "0B",
+      "binary": "00001011",
+      "octal": "013",
+      "character": "",
+      "description": "VT (Tabulacja Pionowa)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 12,
+      "hex": "0C",
+      "binary": "00001100",
+      "octal": "014",
+      "character": "",
+      "description": "FF (Nowa Strona)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 13,
+      "hex": "0D",
+      "binary": "00001101",
+      "octal": "015",
+      "character": "",
+      "description": "CR (Powrót Karetki)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 14,
+      "hex": "0E",
+      "binary": "00001110",
+      "octal": "016",
+      "character": "",
+      "description": "SO (Wyprowadzenie)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 15,
+      "hex": "0F",
+      "binary": "00001111",
+      "octal": "017",
+      "character": "",
+      "description": "SI (Wprowadzenie)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 16,
+      "hex": "10",
+      "binary": "00010000",
+      "octal": "020",
+      "character": "",
+      "description": "DLE (Ucieczka Łącza Danych)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 17,
+      "hex": "11",
+      "binary": "00010001",
+      "octal": "021",
+      "character": "",
+      "description": "DC1 (Kontrola Urządzenia 1)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 18,
+      "hex": "12",
+      "binary": "00010010",
+      "octal": "022",
+      "character": "",
+      "description": "DC2 (Kontrola Urządzenia 2)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 19,
+      "hex": "13",
+      "binary": "00010011",
+      "octal": "023",
+      "character": "",
+      "description": "DC3 (Kontrola Urządzenia 3)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 20,
+      "hex": "14",
+      "binary": "00010100",
+      "octal": "024",
+      "character": "",
+      "description": "DC4 (Sterowanie Urządzeniem 4)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 21,
+      "hex": "15",
+      "binary": "00010101",
+      "octal": "025",
+      "character": "",
+      "description": "NAK (Potwierdzenie Negatywne)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 22,
+      "hex": "16",
+      "binary": "00010110",
+      "octal": "026",
+      "character": "",
+      "description": "SYN (Synchroniczny stan bezczynności)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 23,
+      "hex": "17",
+      "binary": "00010111",
+      "octal": "027",
+      "character": "",
+      "description": "ETB (Koniec bloku transmisji)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 24,
+      "hex": "18",
+      "binary": "00011000",
+      "octal": "030",
+      "character": "",
+      "description": "CAN (Anuluj)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 25,
+      "hex": "19",
+      "binary": "00011001",
+      "octal": "031",
+      "character": "",
+      "description": "EM (Koniec nośnika)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 26,
+      "hex": "1A",
+      "binary": "00011010",
+      "octal": "032",
+      "character": "",
+      "description": "SUB (Zastąp)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 27,
+      "hex": "1B",
+      "binary": "00011011",
+      "octal": "033",
+      "character": "",
+      "description": "ESC (Ucieczka)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 28,
+      "hex": "1C",
+      "binary": "00011100",
+      "octal": "034",
+      "character": "",
+      "description": "FS (Separator plików)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 29,
+      "hex": "1D",
+      "binary": "00011101",
+      "octal": "035",
+      "character": "",
+      "description": "GS (Separator grup)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 30,
+      "hex": "1E",
+      "binary": "00011110",
+      "octal": "036",
+      "character": "",
+      "description": "RS (Separator rekordów)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 31,
+      "hex": "1F",
+      "binary": "00011111",
+      "octal": "037",
+      "character": "",
+      "description": "US (Separator jednostek)",
+      "category": "Sterowanie"
+    },
+    {
+      "decimal": 32,
+      "hex": "20",
+      "binary": "00100000",
+      "octal": "040",
+      "character": " ",
+      "description": "Spacja",
+      "category": "Drukowalny"
+    },
+    {
+      "decimal": 33,
+      "hex": "21",
+      "binary": "00100001",
+      "octal": "041",
+      "character": "!",
+      "description": "Wykrzyknik",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 34,
+      "hex": "22",
+      "binary": "00100010",
+      "octal": "042",
+      "character": "\"",
+      "description": "Cudzysłów",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 35,
+      "hex": "23",
+      "binary": "00100011",
+      "octal": "043",
+      "character": "#",
+      "description": "Hash/Znak liczby",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 36,
+      "hex": "24",
+      "binary": "00100100",
+      "octal": "044",
+      "character": "$",
+      "description": "Znak dolara",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 37,
+      "hex": "25",
+      "binary": "00100101",
+      "octal": "045",
+      "character": "%",
+      "description": "Znak procentu",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 38,
+      "hex": "26",
+      "binary": "00100110",
+      "octal": "046",
+      "character": "&",
+      "description": "Ampersand",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 39,
+      "hex": "27",
+      "binary": "00100111",
+      "octal": "047",
+      "character": "'",
+      "description": "Apostrof",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 40,
+      "hex": "28",
+      "binary": "00101000",
+      "octal": "050",
+      "character": "(",
+      "description": "Nawias otwierający",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 41,
+      "hex": "29",
+      "binary": "00101001",
+      "octal": "051",
+      "character": ")",
+      "description": "Nawias zamykający",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 42,
+      "hex": "2A",
+      "binary": "00101010",
+      "octal": "052",
+      "character": "*",
+      "description": "Gwiazdka",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 43,
+      "hex": "2B",
+      "binary": "00101011",
+      "octal": "053",
+      "character": "+",
+      "description": "Znak plus",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 44,
+      "hex": "2C",
+      "binary": "00101100",
+      "octal": "054",
+      "character": ",",
+      "description": "Przecinek",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 45,
+      "hex": "2D",
+      "binary": "00101101",
+      "octal": "055",
+      "character": "-",
+      "description": "Łącznik/Minus",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 46,
+      "hex": "2E",
+      "binary": "00101110",
+      "octal": "056",
+      "character": ".",
+      "description": "Kropka",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 47,
+      "hex": "2F",
+      "binary": "00101111",
+      "octal": "057",
+      "character": "/",
+      "description": "Ukośnik",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 48,
+      "hex": "30",
+      "binary": "00110000",
+      "octal": "060",
+      "character": "0",
+      "description": "Cyfra Zero",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 49,
+      "hex": "31",
+      "binary": "00110001",
+      "octal": "061",
+      "character": "1",
+      "description": "Cyfra Jeden",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 50,
+      "hex": "32",
+      "binary": "00110010",
+      "octal": "062",
+      "character": "2",
+      "description": "Cyfra Dwa",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 51,
+      "hex": "33",
+      "binary": "00110011",
+      "octal": "063",
+      "character": "3",
+      "description": "Cyfra Trzy",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 52,
+      "hex": "34",
+      "binary": "00110100",
+      "octal": "064",
+      "character": "4",
+      "description": "Cyfra Cztery",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 53,
+      "hex": "35",
+      "binary": "00110101",
+      "octal": "065",
+      "character": "5",
+      "description": "Cyfra Pięć",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 54,
+      "hex": "36",
+      "binary": "00110110",
+      "octal": "066",
+      "character": "6",
+      "description": "Cyfra Sześć",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 55,
+      "hex": "37",
+      "binary": "00110111",
+      "octal": "067",
+      "character": "7",
+      "description": "Cyfra Siedem",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 56,
+      "hex": "38",
+      "binary": "00111000",
+      "octal": "070",
+      "character": "8",
+      "description": "Cyfra Osiem",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 57,
+      "hex": "39",
+      "binary": "00111001",
+      "octal": "071",
+      "character": "9",
+      "description": "Cyfra Dziewięć",
+      "category": "Cyfra"
+    },
+    {
+      "decimal": 58,
+      "hex": "3A",
+      "binary": "00111010",
+      "octal": "072",
+      "character": ":",
+      "description": "Dwukropek",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 59,
+      "hex": "3B",
+      "binary": "00111011",
+      "octal": "073",
+      "character": ";",
+      "description": "Średnik",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 60,
+      "hex": "3C",
+      "binary": "00111100",
+      "octal": "074",
+      "character": "<",
+      "description": "Mniej niż",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 61,
+      "hex": "3D",
+      "binary": "00111101",
+      "octal": "075",
+      "character": "=",
+      "description": "Znak równości",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 62,
+      "hex": "3E",
+      "binary": "00111110",
+      "octal": "076",
+      "character": ">",
+      "description": "Więcej niż",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 63,
+      "hex": "3F",
+      "binary": "00111111",
+      "octal": "077",
+      "character": "?",
+      "description": "Znak zapytania",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 64,
+      "hex": "40",
+      "binary": "01000000",
+      "octal": "100",
+      "character": "@",
+      "description": "Małpa",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 65,
+      "hex": "41",
+      "binary": "01000001",
+      "octal": "101",
+      "character": "A",
+      "description": "Wielka litera A",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 66,
+      "hex": "42",
+      "binary": "01000010",
+      "octal": "102",
+      "character": "B",
+      "description": "Wielka litera B",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 67,
+      "hex": "43",
+      "binary": "01000011",
+      "octal": "103",
+      "character": "C",
+      "description": "Wielka litera C",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 68,
+      "hex": "44",
+      "binary": "01000100",
+      "octal": "104",
+      "character": "D",
+      "description": "Wielka litera D",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 69,
+      "hex": "45",
+      "binary": "01000101",
+      "octal": "105",
+      "character": "E",
+      "description": "Wielka litera E",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 70,
+      "hex": "46",
+      "binary": "01000110",
+      "octal": "106",
+      "character": "F",
+      "description": "Wielka litera F",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 71,
+      "hex": "47",
+      "binary": "01000111",
+      "octal": "107",
+      "character": "G",
+      "description": "Wielka litera G",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 72,
+      "hex": "48",
+      "binary": "01001000",
+      "octal": "110",
+      "character": "H",
+      "description": "Wielka litera H",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 73,
+      "hex": "49",
+      "binary": "01001001",
+      "octal": "111",
+      "character": "I",
+      "description": "Wielka litera I",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 74,
+      "hex": "4A",
+      "binary": "01001010",
+      "octal": "112",
+      "character": "J",
+      "description": "Wielka litera J",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 75,
+      "hex": "4B",
+      "binary": "01001011",
+      "octal": "113",
+      "character": "K",
+      "description": "Wielka litera K",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 76,
+      "hex": "4C",
+      "binary": "01001100",
+      "octal": "114",
+      "character": "L",
+      "description": "Wielka litera L",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 77,
+      "hex": "4D",
+      "binary": "01001101",
+      "octal": "115",
+      "character": "M",
+      "description": "Wielka litera M",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 78,
+      "hex": "4E",
+      "binary": "01001110",
+      "octal": "116",
+      "character": "N",
+      "description": "Wielka litera N",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 79,
+      "hex": "4F",
+      "binary": "01001111",
+      "octal": "117",
+      "character": "O",
+      "description": "Wielka litera O",
+      "category": "Wielkie litery"
+    },
+    {
+      "decimal": 80,
+      "hex": "50",
+      "binary": "01010000",
+      "octal": "120",
+      "character": "P",
+      "description": "Wielka litera P",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 81,
+      "hex": "51",
+      "binary": "01010001",
+      "octal": "121",
+      "character": "Q",
+      "description": "Wielka litera Q",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 82,
+      "hex": "52",
+      "binary": "01010010",
+      "octal": "122",
+      "character": "R",
+      "description": "Wielka litera R",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 83,
+      "hex": "53",
+      "binary": "01010011",
+      "octal": "123",
+      "character": "S",
+      "description": "Wielka litera S",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 84,
+      "hex": "54",
+      "binary": "01010100",
+      "octal": "124",
+      "character": "T",
+      "description": "Wielka litera T",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 85,
+      "hex": "55",
+      "binary": "01010101",
+      "octal": "125",
+      "character": "U",
+      "description": "Wielka litera U",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 86,
+      "hex": "56",
+      "binary": "01010110",
+      "octal": "126",
+      "character": "V",
+      "description": "Wielka litera V",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 87,
+      "hex": "57",
+      "binary": "01010111",
+      "octal": "127",
+      "character": "W",
+      "description": "Wielka litera W",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 88,
+      "hex": "58",
+      "binary": "01011000",
+      "octal": "130",
+      "character": "X",
+      "description": "Wielka litera X",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 89,
+      "hex": "59",
+      "binary": "01011001",
+      "octal": "131",
+      "character": "Y",
+      "description": "Wielka litera Y",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 90,
+      "hex": "5A",
+      "binary": "01011010",
+      "octal": "132",
+      "character": "Z",
+      "description": "Wielka litera Z",
+      "category": "Wielka litera"
+    },
+    {
+      "decimal": 91,
+      "hex": "5B",
+      "binary": "01011011",
+      "octal": "133",
+      "character": "[",
+      "description": "Nawias kwadratowy lewy",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 92,
+      "hex": "5C",
+      "binary": "01011100",
+      "octal": "134",
+      "character": "\\",
+      "description": "Ukośnik wsteczny",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 93,
+      "hex": "5D",
+      "binary": "01011101",
+      "octal": "135",
+      "character": "]",
+      "description": "Nawias kwadratowy prawy",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 94,
+      "hex": "5E",
+      "binary": "01011110",
+      "octal": "136",
+      "character": "^",
+      "description": "Znak karety/cyrkumfleks",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 95,
+      "hex": "5F",
+      "binary": "01011111",
+      "octal": "137",
+      "character": "_",
+      "description": "Podkreślenie",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 96,
+      "hex": "60",
+      "binary": "01100000",
+      "octal": "140",
+      "character": "`",
+      "description": "Akcent ciężki",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 97,
+      "hex": "61",
+      "binary": "01100001",
+      "octal": "141",
+      "character": "a",
+      "description": "Mała litera a",
+      "category": "Mała litera"
+    },
+    {
+      "decimal": 98,
+      "hex": "62",
+      "binary": "01100010",
+      "octal": "142",
+      "character": "b",
+      "description": "Mała litera b",
+      "category": "Mała litera"
+    },
+    {
+      "decimal": 99,
+      "hex": "63",
+      "binary": "01100011",
+      "octal": "143",
+      "character": "c",
+      "description": "Mała litera c",
+      "category": "Mała litera"
+    },
+    {
+      "decimal": 100,
+      "hex": "64",
+      "binary": "01100100",
+      "octal": "144",
+      "character": "d",
+      "description": "Mała litera d",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 101,
+      "hex": "65",
+      "binary": "01100101",
+      "octal": "145",
+      "character": "e",
+      "description": "Mała litera e",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 102,
+      "hex": "66",
+      "binary": "01100110",
+      "octal": "146",
+      "character": "f",
+      "description": "Mała litera f",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 103,
+      "hex": "67",
+      "binary": "01100111",
+      "octal": "147",
+      "character": "g",
+      "description": "Mała litera g",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 104,
+      "hex": "68",
+      "binary": "01101000",
+      "octal": "150",
+      "character": "h",
+      "description": "Mała litera h",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 105,
+      "hex": "69",
+      "binary": "01101001",
+      "octal": "151",
+      "character": "i",
+      "description": "Mała litera i",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 106,
+      "hex": "6A",
+      "binary": "01101010",
+      "octal": "152",
+      "character": "j",
+      "description": "Mała litera j",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 107,
+      "hex": "6B",
+      "binary": "01101011",
+      "octal": "153",
+      "character": "k",
+      "description": "Mała litera k",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 108,
+      "hex": "6C",
+      "binary": "01101100",
+      "octal": "154",
+      "character": "l",
+      "description": "Mała litera l",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 109,
+      "hex": "6D",
+      "binary": "01101101",
+      "octal": "155",
+      "character": "m",
+      "description": "Mała litera m",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 110,
+      "hex": "6E",
+      "binary": "01101110",
+      "octal": "156",
+      "character": "n",
+      "description": "Mała litera n",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 111,
+      "hex": "6F",
+      "binary": "01101111",
+      "octal": "157",
+      "character": "o",
+      "description": "Mała litera o",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 112,
+      "hex": "70",
+      "binary": "01110000",
+      "octal": "160",
+      "character": "p",
+      "description": "Mała litera p",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 113,
+      "hex": "71",
+      "binary": "01110001",
+      "octal": "161",
+      "character": "q",
+      "description": "Mała litera q",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 114,
+      "hex": "72",
+      "binary": "01110010",
+      "octal": "162",
+      "character": "r",
+      "description": "Mała litera r",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 115,
+      "hex": "73",
+      "binary": "01110011",
+      "octal": "163",
+      "character": "s",
+      "description": "Mała litera s",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 116,
+      "hex": "74",
+      "binary": "01110100",
+      "octal": "164",
+      "character": "t",
+      "description": "Mała litera t",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 117,
+      "hex": "75",
+      "binary": "01110101",
+      "octal": "165",
+      "character": "u",
+      "description": "Mała litera u",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 118,
+      "hex": "76",
+      "binary": "01110110",
+      "octal": "166",
+      "character": "v",
+      "description": "Mała litera v",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 119,
+      "hex": "77",
+      "binary": "01110111",
+      "octal": "167",
+      "character": "w",
+      "description": "Mała litera w",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 120,
+      "hex": "78",
+      "binary": "01111000",
+      "octal": "170",
+      "character": "x",
+      "description": "Mała litera x",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 121,
+      "hex": "79",
+      "binary": "01111001",
+      "octal": "171",
+      "character": "y",
+      "description": "Mała litera y",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 122,
+      "hex": "7A",
+      "binary": "01111010",
+      "octal": "172",
+      "character": "z",
+      "description": "Mała litera z",
+      "category": "Małe litery"
+    },
+    {
+      "decimal": 123,
+      "hex": "7B",
+      "binary": "01111011",
+      "octal": "173",
+      "character": "{",
+      "description": "Lewy nawias klamrowy",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 124,
+      "hex": "7C",
+      "binary": "01111100",
+      "octal": "174",
+      "character": "|",
+      "description": "Pionowa kreska",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 125,
+      "hex": "7D",
+      "binary": "01111101",
+      "octal": "175",
+      "character": "}",
+      "description": "Prawy nawias klamrowy",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 126,
+      "hex": "7E",
+      "binary": "01111110",
+      "octal": "176",
+      "character": "~",
+      "description": "Tylda",
+      "category": "Symbol"
+    },
+    {
+      "decimal": 127,
+      "hex": "7F",
+      "binary": "01111111",
+      "octal": "177",
+      "character": "",
+      "description": "DEL (Usuń)",
+      "category": "Sterujący"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Znaków ASCII - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo kompletny zbiór danych Tabela Znaków ASCII ze 128 rekordami. Uzyskaj dane dziesiętne, szesnastkowe, binarne i znakowe. Dostępne w formatach Excel, CSV, PDF.",
+    "title": "Kompletny Zbiór Danych Tabela Znaków ASCII i Kody Referencyjne",
+    "description": "Ten zbiór danych zawiera kompleksową listę 128 standardowych znaków ASCII, w tym ich reprezentacje dziesiętne, szesnastkowe, binarne i ósemkowe. Każdy rekord szczegółowo opisuje również znak, jego opis i kategorię (np. Kontrolne, Drukarskie).",
+    "key_takeaways": [
+      "Dostęp do wszystkich 128 standardowych znaków ASCII i ich różnych reprezentacji liczbowych.",
+      "Przeglądaj szczegółowe opisy i kategorie dla każdego znaku ASCII.",
+      "Pobierz kompletną tabelę ASCII do szybkiego odniesienia i rozwoju.",
+      "Użyj kompleksowych danych, w tym wartości dziesiętnych, szesnastkowych, binarnych i ósemkowych."
+    ],
+    "keywords": [
+      "pobierz tabelę ASCII",
+      "kody znaków ASCII",
+      "ASCII szesnastkowy binarny ósemkowy",
+      "ASCII drukarskie kontrolne",
+      "zbiór danych ASCII csv",
+      "tabela ASCII excel"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Pythona, aby łatwo zintegrować wyszukiwanie kodowania znaków z aplikacjami.",
+      "Użyj pliku **Excel** do filtrowania według kategorii (np. znaków kontrolnych) lub sortowania według wartości dziesiętnej w celu szybkiej analizy i raportowania.",
+      "Wydrukuj wersję **PDF** jako podręczny wykres referencyjny offline, idealny do celów edukacyjnych, warsztatów programistycznych lub użytku biurkowego.",
+      "Wykorzystaj ten zbiór danych do walidacji wprowadzanych znaków w potokach przetwarzania danych lub do zrozumienia kodowania znaków w różnych systemach."
+    ]
+  },
+  "record_count": 128,
+  "title": "Kompletny Zbiór Danych Tabela Znaków ASCII i Kody Referencyjne"
+}

@@ -1,0 +1,516 @@
+{
+  "id": "pl-swietokrzyskie-miasta",
+  "name": "Miasta w województwie świętokrzyskie",
+  "title": "Miasta w województwie świętokrzyskie",
+  "description": "Cities and towns (miasta) in Świętokrzyskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1953",
+      "name": "Bodzentyn",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Bodzentyn-gmina miejsko-wiejska",
+      "latitude": 50.9411,
+      "longitude": 20.9569
+    },
+    {
+      "id": "3809",
+      "name": "Busko-Zdrój",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "buski",
+      "commune": "Busko-Zdrój-gmina miejsko-wiejska",
+      "latitude": 50.4692,
+      "longitude": 20.7183
+    },
+    {
+      "id": "4212",
+      "name": "Chęciny",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Chęciny-gmina miejsko-wiejska",
+      "latitude": 50.8006,
+      "longitude": 20.4622
+    },
+    {
+      "id": "4300",
+      "name": "Chmielnik",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Chmielnik-gmina miejsko-wiejska",
+      "latitude": 50.6144,
+      "longitude": 20.7517
+    },
+    {
+      "id": "5829",
+      "name": "Ćmielów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "ostrowiecki",
+      "commune": "Ćmielów-gmina miejsko-wiejska",
+      "latitude": 50.8903,
+      "longitude": 21.51
+    },
+    {
+      "id": "5867",
+      "name": "Daleszyce",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Daleszyce-gmina miejsko-wiejska",
+      "latitude": 50.8014,
+      "longitude": 20.8067
+    },
+    {
+      "id": "7535",
+      "name": "Działoszyce",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "pińczowski",
+      "commune": "Działoszyce-gmina miejsko-wiejska",
+      "latitude": 50.3661,
+      "longitude": 20.3511
+    },
+    {
+      "id": "12542",
+      "name": "Jędrzejów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "jędrzejowski",
+      "commune": "Jędrzejów-gmina miejsko-wiejska",
+      "latitude": 50.6403,
+      "longitude": 20.3036
+    },
+    {
+      "id": "13749",
+      "name": "Kazimierza Wielka",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kazimierski",
+      "commune": "Kazimierza Wielka-gmina miejsko-wiejska",
+      "latitude": 50.2675,
+      "longitude": 20.4869
+    },
+    {
+      "id": "14011",
+      "name": "Kielce",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "Kielce",
+      "commune": "Kielce-gmina miejska",
+      "latitude": 50.8717,
+      "longitude": 20.6314
+    },
+    {
+      "id": "14352",
+      "name": "Klimontów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "sandomierski",
+      "commune": "Klimontów-gmina wiejska",
+      "latitude": 50.6564,
+      "longitude": 21.4503
+    },
+    {
+      "id": "15226",
+      "name": "Końskie",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "konecki",
+      "commune": "Końskie-gmina miejsko-wiejska",
+      "latitude": 51.1917,
+      "longitude": 20.4072
+    },
+    {
+      "id": "15309",
+      "name": "Koprzywnica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "sandomierski",
+      "commune": "Koprzywnica-gmina miejsko-wiejska",
+      "latitude": 50.5933,
+      "longitude": 21.5844
+    },
+    {
+      "id": "17227",
+      "name": "Kunów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "ostrowiecki",
+      "commune": "Kunów-gmina miejsko-wiejska",
+      "latitude": 50.9547,
+      "longitude": 21.2794
+    },
+    {
+      "id": "19014",
+      "name": "Łagów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Łagów-gmina wiejska",
+      "latitude": 50.775,
+      "longitude": 21.0842
+    },
+    {
+      "id": "20371",
+      "name": "Małogoszcz",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "jędrzejowski",
+      "commune": "Małogoszcz-gmina miejsko-wiejska",
+      "latitude": 50.8119,
+      "longitude": 20.2642
+    },
+    {
+      "id": "22092",
+      "name": "Morawica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Morawica-gmina miejsko-wiejska",
+      "latitude": 50.745,
+      "longitude": 20.6203
+    },
+    {
+      "id": "23357",
+      "name": "Nowa Słupia",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Nowa Słupia-gmina wiejska",
+      "latitude": 50.8639,
+      "longitude": 21.09
+    },
+    {
+      "id": "24157",
+      "name": "Nowy Korczyn",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "buski",
+      "commune": "Nowy Korczyn-gmina wiejska",
+      "latitude": 50.2997,
+      "longitude": 20.8081
+    },
+    {
+      "id": "24692",
+      "name": "Oleśnica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "staszowski",
+      "commune": "Oleśnica-gmina wiejska",
+      "latitude": 50.4506,
+      "longitude": 21.0639
+    },
+    {
+      "id": "24915",
+      "name": "Opatowiec",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kazimierski",
+      "commune": "Opatowiec-gmina wiejska",
+      "latitude": 50.2417,
+      "longitude": 20.7239
+    },
+    {
+      "id": "24918",
+      "name": "Opatów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "opatowski",
+      "commune": "Opatów-gmina miejsko-wiejska",
+      "latitude": 50.8014,
+      "longitude": 21.4239
+    },
+    {
+      "id": "25159",
+      "name": "Osiek",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "staszowski",
+      "commune": "Osiek-gmina miejsko-wiejska",
+      "latitude": 50.52,
+      "longitude": 21.4428
+    },
+    {
+      "id": "25393",
+      "name": "Ostrowiec Świętokrzyski",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "ostrowiecki",
+      "commune": "Ostrowiec Świętokrzyski-gmina miejska",
+      "latitude": 50.9439,
+      "longitude": 21.39
+    },
+    {
+      "id": "25671",
+      "name": "Ożarów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "opatowski",
+      "commune": "Ożarów-gmina miejsko-wiejska",
+      "latitude": 50.8861,
+      "longitude": 21.6653
+    },
+    {
+      "id": "25685",
+      "name": "Pacanów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "buski",
+      "commune": "Pacanów-gmina wiejska",
+      "latitude": 50.3997,
+      "longitude": 21.0411
+    },
+    {
+      "id": "26555",
+      "name": "Pierzchnica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kielecki",
+      "commune": "Pierzchnica-gmina wiejska",
+      "latitude": 50.6975,
+      "longitude": 20.7539
+    },
+    {
+      "id": "26699",
+      "name": "Pińczów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "pińczowski",
+      "commune": "Pińczów-gmina miejsko-wiejska",
+      "latitude": 50.52,
+      "longitude": 20.5267
+    },
+    {
+      "id": "27731",
+      "name": "Połaniec",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "staszowski",
+      "commune": "Połaniec-gmina miejsko-wiejska",
+      "latitude": 50.4325,
+      "longitude": 21.2806
+    },
+    {
+      "id": "29296",
+      "name": "Radoszyce",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "konecki",
+      "commune": "Radoszyce-gmina wiejska",
+      "latitude": 51.0744,
+      "longitude": 20.255
+    },
+    {
+      "id": "31380",
+      "name": "Sandomierz",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "sandomierski",
+      "commune": "Sandomierz-gmina miejska",
+      "latitude": 50.6794,
+      "longitude": 21.7494
+    },
+    {
+      "id": "31611",
+      "name": "Sędziszów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "jędrzejowski",
+      "commune": "Sędziszów-gmina miejsko-wiejska",
+      "latitude": 50.5633,
+      "longitude": 20.0519
+    },
+    {
+      "id": "32140",
+      "name": "Skalbmierz",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "kazimierski",
+      "commune": "Skalbmierz-gmina miejsko-wiejska",
+      "latitude": 50.3175,
+      "longitude": 20.3978
+    },
+    {
+      "id": "32210",
+      "name": "Skarżysko-Kamienna",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "skarżyski",
+      "commune": "Skarżysko-Kamienna-gmina miejska",
+      "latitude": 51.1156,
+      "longitude": 20.8953
+    },
+    {
+      "id": "33666",
+      "name": "Starachowice",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "starachowicki",
+      "commune": "Starachowice-gmina miejska",
+      "latitude": 51.0533,
+      "longitude": 21.0703
+    },
+    {
+      "id": "34267",
+      "name": "Staszów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "staszowski",
+      "commune": "Staszów-gmina miejsko-wiejska",
+      "latitude": 50.5642,
+      "longitude": 21.1675
+    },
+    {
+      "id": "34330",
+      "name": "Stąporków",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "konecki",
+      "commune": "Stąporków-gmina miejsko-wiejska",
+      "latitude": 51.1381,
+      "longitude": 20.5642
+    },
+    {
+      "id": "34518",
+      "name": "Stopnica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "buski",
+      "commune": "Stopnica-gmina wiejska",
+      "latitude": 50.4397,
+      "longitude": 20.9394
+    },
+    {
+      "id": "34986",
+      "name": "Suchedniów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "skarżyski",
+      "commune": "Suchedniów-gmina miejsko-wiejska",
+      "latitude": 51.0447,
+      "longitude": 20.8364
+    },
+    {
+      "id": "35925",
+      "name": "Szydłów",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "staszowski",
+      "commune": "Szydłów-gmina wiejska",
+      "latitude": 50.5908,
+      "longitude": 21.0067
+    },
+    {
+      "id": "38284",
+      "name": "Wąchock",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "starachowicki",
+      "commune": "Wąchock-gmina miejsko-wiejska",
+      "latitude": 51.0739,
+      "longitude": 21.0103
+    },
+    {
+      "id": "39345",
+      "name": "Wiślica",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "buski",
+      "commune": "Wiślica-gmina wiejska",
+      "latitude": 50.3489,
+      "longitude": 20.6742
+    },
+    {
+      "id": "39613",
+      "name": "Włoszczowa",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "włoszczowski",
+      "commune": "Włoszczowa-gmina miejsko-wiejska",
+      "latitude": 50.8517,
+      "longitude": 19.9692
+    },
+    {
+      "id": "39652",
+      "name": "Wodzisław",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "jędrzejowski",
+      "commune": "Wodzisław-gmina wiejska",
+      "latitude": 50.5208,
+      "longitude": 20.1917
+    },
+    {
+      "id": "42298",
+      "name": "Zawichost",
+      "type": "city",
+      "province": "świętokrzyskie",
+      "district": "sandomierski",
+      "commune": "Zawichost-gmina miejsko-wiejska",
+      "latitude": 50.8061,
+      "longitude": 21.8594
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie świętokrzyskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Świętokrzyskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 45 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie świętokrzyskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie świętokrzyskie — 45 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 45 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

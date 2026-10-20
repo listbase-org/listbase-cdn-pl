@@ -1,0 +1,446 @@
+{
+  "id": "units-temperatures",
+  "name": "Temperature Conversion Matrix Dataset",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "celsius",
+      "label": "Celsius (°C)",
+      "type": "number"
+    },
+    {
+      "key": "fahrenheit",
+      "label": "Fahrenheit (°F)",
+      "type": "number"
+    },
+    {
+      "key": "kelvin",
+      "label": "Kelvin (K)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "celsius": -273.15,
+      "fahrenheit": -459.67,
+      "kelvin": 0,
+      "description": "Zero absolutne",
+      "category": "Naukowe"
+    },
+    {
+      "celsius": -269,
+      "fahrenheit": -452.2,
+      "kelvin": 4.15,
+      "description": "Temperatura wrzenia ciekłego helu",
+      "category": "Naukowe"
+    },
+    {
+      "celsius": -196,
+      "fahrenheit": -320.8,
+      "kelvin": 77.15,
+      "description": "Temperatura wrzenia ciekłego azotu",
+      "category": "Naukowe"
+    },
+    {
+      "celsius": -89.2,
+      "fahrenheit": -128.56,
+      "kelvin": 183.95,
+      "description": "Najniższa zanotowana temperatura na Ziemi (Antarktyda)",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": -78.5,
+      "fahrenheit": -109.3,
+      "kelvin": 194.65,
+      "description": "Sublimacja suchego lodu",
+      "category": "Naukowe"
+    },
+    {
+      "celsius": -40,
+      "fahrenheit": -40,
+      "kelvin": 233.15,
+      "description": "Taka sama w stopniach Celsjusza i Fahrenheita",
+      "category": "Referencyjne"
+    },
+    {
+      "celsius": -30,
+      "fahrenheit": -22,
+      "kelvin": 243.15,
+      "description": "Ekstremalnie zimna pogoda",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": -20,
+      "fahrenheit": -4,
+      "kelvin": 253.15,
+      "description": "Bardzo mroźna zima",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": -18,
+      "fahrenheit": -0.4,
+      "kelvin": 255.15,
+      "description": "Standardowa temperatura zamrażarki",
+      "category": "Domowe"
+    },
+    {
+      "celsius": -10,
+      "fahrenheit": 14,
+      "kelvin": 263.15,
+      "description": "Mroźny zimowy dzień",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": 0,
+      "fahrenheit": 32,
+      "kelvin": 273.15,
+      "description": "Temperatura zamarzania wody",
+      "category": "Referencyjne"
+    },
+    {
+      "celsius": 4,
+      "fahrenheit": 39.2,
+      "kelvin": 277.15,
+      "description": "Temperatura lodówki / Maksymalna gęstość wody",
+      "category": "Domowe"
+    },
+    {
+      "celsius": 10,
+      "fahrenheit": 50,
+      "kelvin": 283.15,
+      "description": "Chłodny wiosenny dzień",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": 15,
+      "fahrenheit": 59,
+      "kelvin": 288.15,
+      "description": "Łagodny dzień",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": 20,
+      "fahrenheit": 68,
+      "kelvin": 293.15,
+      "description": "Standardowa temperatura pokojowa",
+      "category": "Referencyjne"
+    },
+    {
+      "celsius": 21,
+      "fahrenheit": 69.8,
+      "kelvin": 294.15,
+      "description": "Komfortowa temperatura wewnętrzna",
+      "category": "Domowe"
+    },
+    {
+      "celsius": 22,
+      "fahrenheit": 71.6,
+      "kelvin": 295.15,
+      "description": "Typowa temperatura w biurze",
+      "category": "Domowe"
+    },
+    {
+      "celsius": 25,
+      "fahrenheit": 77,
+      "kelvin": 298.15,
+      "description": "Ciepła temperatura pokojowa",
+      "category": "Referencyjne"
+    },
+    {
+      "celsius": 30,
+      "fahrenheit": 86,
+      "kelvin": 303.15,
+      "description": "Gorący letni dzień",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": 35,
+      "fahrenheit": 95,
+      "kelvin": 308.15,
+      "description": "Fala upałów",
+      "category": "Pogodowe"
+    },
+    {
+      "celsius": 37,
+      "fahrenheit": 98.6,
+      "kelvin": 310.15,
+      "description": "Temperatura ciała człowieka",
+      "category": "Medycyna"
+    },
+    {
+      "celsius": 38,
+      "fahrenheit": 100.4,
+      "kelvin": 311.15,
+      "description": "Próg gorączki",
+      "category": "Medycyna"
+    },
+    {
+      "celsius": 40,
+      "fahrenheit": 104,
+      "kelvin": 313.15,
+      "description": "Wysoka gorączka / Ekstremalne upały",
+      "category": "Medycyna"
+    },
+    {
+      "celsius": 42,
+      "fahrenheit": 107.6,
+      "kelvin": 315.15,
+      "description": "Niebezpieczna gorączka",
+      "category": "Medycyna"
+    },
+    {
+      "celsius": 50,
+      "fahrenheit": 122,
+      "kelvin": 323.15,
+      "description": "Ekstremalne upały pustynne",
+      "category": "Pogoda"
+    },
+    {
+      "celsius": 56.7,
+      "fahrenheit": 134.06,
+      "kelvin": 329.85,
+      "description": "Najwyższa zanotowana temperatura na Ziemi (Dolina Śmierci)",
+      "category": "Pogoda"
+    },
+    {
+      "celsius": 60,
+      "fahrenheit": 140,
+      "kelvin": 333.15,
+      "description": "Temperatura utrzymywania ciepła",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 63,
+      "fahrenheit": 145.4,
+      "kelvin": 336.15,
+      "description": "Minimalna bezpieczna temperatura dla wołowiny/wieprzowiny",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 70,
+      "fahrenheit": 158,
+      "kelvin": 343.15,
+      "description": "Minimalna bezpieczna temperatura do podgrzewania",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 74,
+      "fahrenheit": 165.2,
+      "kelvin": 347.15,
+      "description": "Minimalna bezpieczna temperatura dla drobiu",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 80,
+      "fahrenheit": 176,
+      "kelvin": 353.15,
+      "description": "Temperatura serwowania gorącej kawy",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 100,
+      "fahrenheit": 212,
+      "kelvin": 373.15,
+      "description": "Temperatura wrzenia wody (poziom morza)",
+      "category": "Referencje"
+    },
+    {
+      "celsius": 110,
+      "fahrenheit": 230,
+      "kelvin": 383.15,
+      "description": "Niska temperatura piekarnika / Rozgrzewanie",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 120,
+      "fahrenheit": 248,
+      "kelvin": 393.15,
+      "description": "Bardzo niska temperatura piekarnika",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 150,
+      "fahrenheit": 302,
+      "kelvin": 423.15,
+      "description": "Niska temperatura piekarnika (300°F)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 160,
+      "fahrenheit": 320,
+      "kelvin": 433.15,
+      "description": "Powolne pieczenie",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 175,
+      "fahrenheit": 347,
+      "kelvin": 448.15,
+      "description": "Średnio-niska temperatura piekarnika (350°F)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 180,
+      "fahrenheit": 356,
+      "kelvin": 453.15,
+      "description": "Standardowa temperatura pieczenia",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 190,
+      "fahrenheit": 374,
+      "kelvin": 463.15,
+      "description": "Średnia temperatura piekarnika (375°F)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 200,
+      "fahrenheit": 392,
+      "kelvin": 473.15,
+      "description": "Temperatura pieczenia",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 220,
+      "fahrenheit": 428,
+      "kelvin": 493.15,
+      "description": "Wysoki piec (425°F)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 230,
+      "fahrenheit": 446,
+      "kelvin": 503.15,
+      "description": "Bardzo gorący piec (450°F)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 250,
+      "fahrenheit": 482,
+      "kelvin": 523.15,
+      "description": "Piec do pizzy / Grillowanie",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 300,
+      "fahrenheit": 572,
+      "kelvin": 573.15,
+      "description": "Maksymalne smażenie w głębokim tłuszczu",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 350,
+      "fahrenheit": 662,
+      "kelvin": 623.15,
+      "description": "Punkt dymienia oleju (rafinowany)",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 400,
+      "fahrenheit": 752,
+      "kelvin": 673.15,
+      "description": "Piec opalany drewnem",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 450,
+      "fahrenheit": 842,
+      "kelvin": 723.15,
+      "description": "Profesjonalny piec do pizzy",
+      "category": "Gotowanie"
+    },
+    {
+      "celsius": 660,
+      "fahrenheit": 1220,
+      "kelvin": 933.15,
+      "description": "Temperatura topnienia aluminium",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 1064,
+      "fahrenheit": 1947.2,
+      "kelvin": 1337.15,
+      "description": "Temperatura topnienia złota",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 1085,
+      "fahrenheit": 1985,
+      "kelvin": 1358.15,
+      "description": "Temperatura topnienia miedzi",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 1538,
+      "fahrenheit": 2800.4,
+      "kelvin": 1811.15,
+      "description": "Temperatura topnienia żelaza",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 1668,
+      "fahrenheit": 3034.4,
+      "kelvin": 1941.15,
+      "description": "Temperatura topnienia tytanu",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 3422,
+      "fahrenheit": 6191.6,
+      "kelvin": 3695.15,
+      "description": "Temperatura topnienia wolframu (najwyższy metal)",
+      "category": "Przemysłowe"
+    },
+    {
+      "celsius": 5500,
+      "fahrenheit": 9932,
+      "kelvin": 5773.15,
+      "description": "Temperatura powierzchni Słońca",
+      "category": "Astronomiczne"
+    },
+    {
+      "celsius": 15000000,
+      "fahrenheit": 27000032,
+      "kelvin": 15000273.15,
+      "description": "Temperatura jądra Słońca",
+      "category": "Astronomiczne"
+    }
+  ],
+  "meta": {
+    "seo_title": "Temperature Conversion Matrix - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download Temperature Conversion Matrix with 55 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Temperature Conversion Matrix Dataset",
+    "description": "Temperature Conversion Matrix containing 55 records.",
+    "key_takeaways": [
+      "Access 55 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "temperature conversion matrix excel",
+      "temperature conversion matrix csv download",
+      "temperature conversion matrix data",
+      "temperature conversion matrix list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 55,
+  "title": "Temperature Conversion Matrix Dataset"
+}

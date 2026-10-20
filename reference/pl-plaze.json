@@ -1,0 +1,2291 @@
+{
+  "id": "pl-plaze",
+  "name": "Polska — plaże",
+  "title": "Polska — plaże",
+  "description": "Plaże w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 450,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Badestelle Alte Oder",
+      "latitude": 52.649564,
+      "longitude": 14.478976
+    },
+    {
+      "name": "Bahama",
+      "latitude": 52.546918,
+      "longitude": 17.755757
+    },
+    {
+      "name": "Bar Rabarbar Górska Plaża",
+      "latitude": 50.828594,
+      "longitude": 15.516039
+    },
+    {
+      "name": "boksze",
+      "latitude": 54.185344,
+      "longitude": 23.176123
+    },
+    {
+      "name": "Cypel",
+      "latitude": 52.437659,
+      "longitude": 22.867794
+    },
+    {
+      "name": "Cypel",
+      "latitude": 54.31937,
+      "longitude": 17.794437
+    },
+    {
+      "name": "Cypel Rewski",
+      "latitude": 54.639347,
+      "longitude": 18.515448
+    },
+    {
+      "name": "Czarcie Wrota",
+      "latitude": 53.785074,
+      "longitude": 20.40757
+    },
+    {
+      "name": "Czeskie",
+      "latitude": 52.653813,
+      "longitude": 15.897502
+    },
+    {
+      "name": "Czwarte",
+      "latitude": 53.374244,
+      "longitude": 14.728023
+    },
+    {
+      "name": "Deczno",
+      "latitude": 53.43783,
+      "longitude": 18.41723
+    },
+    {
+      "name": "Druga plaża",
+      "latitude": 53.988465,
+      "longitude": 22.022769
+    },
+    {
+      "name": "Dubova Bicka",
+      "latitude": 50.952688,
+      "longitude": 15.306753
+    },
+    {
+      "name": "Duża Plaża - Bałtycka",
+      "latitude": 54.60064,
+      "longitude": 18.823627
+    },
+    {
+      "name": "Dziewoklicz",
+      "latitude": 53.379037,
+      "longitude": 14.537778
+    },
+    {
+      "name": "Dzika plaza",
+      "latitude": 53.782237,
+      "longitude": 17.52735
+    },
+    {
+      "name": "dzika plaza",
+      "latitude": 53.799629,
+      "longitude": 17.446778
+    },
+    {
+      "name": "Dzika Plaża",
+      "latitude": 52.408889,
+      "longitude": 17.91198
+    },
+    {
+      "name": "Dzika plaża",
+      "latitude": 52.427457,
+      "longitude": 16.689466
+    },
+    {
+      "name": "Dzika plaża",
+      "latitude": 52.886405,
+      "longitude": 15.888063
+    },
+    {
+      "name": "Dzika Plaża",
+      "latitude": 53.115321,
+      "longitude": 19.060879
+    },
+    {
+      "name": "dzika plaża",
+      "latitude": 53.653956,
+      "longitude": 21.576403
+    },
+    {
+      "name": "dzika plaża",
+      "latitude": 53.661577,
+      "longitude": 21.574191
+    },
+    {
+      "name": "Dzika plaża",
+      "latitude": 53.682415,
+      "longitude": 22.48004
+    },
+    {
+      "name": "Dzika plaża",
+      "latitude": 53.968503,
+      "longitude": 14.763404
+    },
+    {
+      "name": "Dzika plaża Chmielniki",
+      "latitude": 53.018056,
+      "longitude": 18.055443
+    },
+    {
+      "name": "Dzika Plaża Myszyniec",
+      "latitude": 52.481956,
+      "longitude": 21.072852
+    },
+    {
+      "name": "Dzika Plaża nad Jeziorem Chodeckim",
+      "latitude": 52.396521,
+      "longitude": 19.026597
+    },
+    {
+      "name": "Dzika Plaża nad Jeziorem Kromszewickim",
+      "latitude": 52.382784,
+      "longitude": 19.023458
+    },
+    {
+      "name": "Dzika plaża Smerzyn",
+      "latitude": 52.938688,
+      "longitude": 17.860162
+    },
+    {
+      "name": "Dzikus",
+      "latitude": 52.665671,
+      "longitude": 18.334546
+    },
+    {
+      "name": "Eko Plaża Giżycko",
+      "latitude": 54.017707,
+      "longitude": 21.743293
+    },
+    {
+      "name": "Eko-Plaża",
+      "latitude": 52.517557,
+      "longitude": 17.177129
+    },
+    {
+      "name": "Freesurf - Szkoła Windsurfingu",
+      "latitude": 53.853996,
+      "longitude": 17.501639
+    },
+    {
+      "name": "Główna Plaża \"OSiR\"",
+      "latitude": 51.500454,
+      "longitude": 23.53992
+    },
+    {
+      "name": "Inter Piast",
+      "latitude": 53.418043,
+      "longitude": 20.061612
+    },
+    {
+      "name": "Jacht Klub \"Portowiec\"",
+      "latitude": 54.013672,
+      "longitude": 17.990772
+    },
+    {
+      "name": "Jezioro Chomęcickie Plaża",
+      "latitude": 52.318137,
+      "longitude": 16.741344
+    },
+    {
+      "name": "Jezioro Czarownic",
+      "latitude": 53.656397,
+      "longitude": 18.723386
+    },
+    {
+      "name": "Jezioro Glinki – Plaża",
+      "latitude": 51.50977,
+      "longitude": 23.55953
+    },
+    {
+      "name": "Kajaki Zakliczewo",
+      "latitude": 52.840031,
+      "longitude": 21.116748
+    },
+    {
+      "name": "kamieniec",
+      "latitude": 49.666978,
+      "longitude": 19.127805
+    },
+    {
+      "name": "Kamminker Strand",
+      "latitude": 53.868533,
+      "longitude": 14.203176
+    },
+    {
+      "name": "Kolorado",
+      "latitude": 53.17841,
+      "longitude": 17.961307
+    },
+    {
+      "name": "Kozia Góra",
+      "latitude": 54.232965,
+      "longitude": 17.964889
+    },
+    {
+      "name": "Koło Lasu- wypożyczalnia sprzętu sportowo rekreacyjnego.",
+      "latitude": 50.038825,
+      "longitude": 20.83062
+    },
+    {
+      "name": "Kraina Dobrej Energii",
+      "latitude": 51.243749,
+      "longitude": 16.097805
+    },
+    {
+      "name": "Kryspinów Plaża Naturystyczna",
+      "latitude": 50.055336,
+      "longitude": 19.788441
+    },
+    {
+      "name": "Krzeczkowo",
+      "latitude": 52.242287,
+      "longitude": 15.397293
+    },
+    {
+      "name": "Krzywe",
+      "latitude": 54.089575,
+      "longitude": 23.01744
+    },
+    {
+      "name": "Kuflowa, Nowa",
+      "latitude": 53.185657,
+      "longitude": 18.625328
+    },
+    {
+      "name": "Kąpielisko",
+      "latitude": 50.569301,
+      "longitude": 20.056838
+    },
+    {
+      "name": "Kąpielisko",
+      "latitude": 54.109548,
+      "longitude": 21.773484
+    },
+    {
+      "name": "Kąpielisko \"Moczydło\"",
+      "latitude": 50.78327,
+      "longitude": 23.031164
+    },
+    {
+      "name": "Kąpielisko Bolko",
+      "latitude": 50.644349,
+      "longitude": 17.938629
+    },
+    {
+      "name": "Kąpielisko Glinianki",
+      "latitude": 52.318643,
+      "longitude": 21.170985
+    },
+    {
+      "name": "Kąpielisko gminne Jezioro Białe",
+      "latitude": 54.376665,
+      "longitude": 18.195117
+    },
+    {
+      "name": "Kąpielisko Kamienica",
+      "latitude": 52.880132,
+      "longitude": 17.120831
+    },
+    {
+      "name": "Kąpielisko Karpowicze",
+      "latitude": 53.576117,
+      "longitude": 23.050009
+    },
+    {
+      "name": "Kąpielisko Krubin",
+      "latitude": 52.845582,
+      "longitude": 20.648203
+    },
+    {
+      "name": "Kąpielisko Malina",
+      "latitude": 50.634337,
+      "longitude": 17.98568
+    },
+    {
+      "name": "Kąpielisko miejskie",
+      "latitude": 52.058613,
+      "longitude": 15.86199
+    },
+    {
+      "name": "Kąpielisko miejskie",
+      "latitude": 52.461786,
+      "longitude": 14.86905
+    },
+    {
+      "name": "Kąpielisko Miejskie \"Starówka\"",
+      "latitude": 51.951573,
+      "longitude": 19.301708
+    },
+    {
+      "name": "Kąpielisko Miejskie 'Campingu Sudety'",
+      "latitude": 50.681658,
+      "longitude": 16.589993
+    },
+    {
+      "name": "Kąpielisko miejskie Stacja Pilica",
+      "latitude": 51.52313,
+      "longitude": 20.225669
+    },
+    {
+      "name": "Kąpielisko Miejskie w Rynie",
+      "latitude": 53.940273,
+      "longitude": 21.548272
+    },
+    {
+      "name": "Kąpielisko nad Lindą",
+      "latitude": 51.89213,
+      "longitude": 19.31697
+    },
+    {
+      "name": "Kąpielisko Niestrzeżone Dziekanowice",
+      "latitude": 52.524401,
+      "longitude": 17.384787
+    },
+    {
+      "name": "Kąpielisko Plaża Tarpno",
+      "latitude": 53.492182,
+      "longitude": 18.825086
+    },
+    {
+      "name": "Kąpielisko Silesia",
+      "latitude": 50.695917,
+      "longitude": 17.925309
+    },
+    {
+      "name": "Kąpielisko Teofilów",
+      "latitude": 51.524271,
+      "longitude": 20.195528
+    },
+    {
+      "name": "Kąpielisko Umer",
+      "latitude": 50.986397,
+      "longitude": 20.594781
+    },
+    {
+      "name": "Kąpielisko w Chałupach",
+      "latitude": 54.760187,
+      "longitude": 18.512748
+    },
+    {
+      "name": "Kąpielisko w Stepnicy nad Zalewem Szczecińskim",
+      "latitude": 53.650737,
+      "longitude": 14.617872
+    },
+    {
+      "name": "Kąpielisko „PLAŻA MIEJSKA NR 3”",
+      "latitude": 53.773865,
+      "longitude": 20.444599
+    },
+    {
+      "name": "Lazurowe Wybrzeże",
+      "latitude": 50.119712,
+      "longitude": 21.759126
+    },
+    {
+      "name": "Letnisko w Osiecznej",
+      "latitude": 51.901951,
+      "longitude": 16.687119
+    },
+    {
+      "name": "Lipie Plaża Naturystyczna",
+      "latitude": 50.112211,
+      "longitude": 21.925795
+    },
+    {
+      "name": "Lipie Plaża Naturystyczna",
+      "latitude": 50.11356,
+      "longitude": 21.927804
+    },
+    {
+      "name": "Manhattan Beach",
+      "latitude": 50.250421,
+      "longitude": 21.505277
+    },
+    {
+      "name": "Miami Beach",
+      "latitude": 53.307174,
+      "longitude": 22.926352
+    },
+    {
+      "name": "Mijanka",
+      "latitude": 53.554094,
+      "longitude": 14.595278
+    },
+    {
+      "name": "Morsowisko",
+      "latitude": 52.124136,
+      "longitude": 21.235986
+    },
+    {
+      "name": "Naturystyczna plaża zwyczajowa",
+      "latitude": 49.827765,
+      "longitude": 19.543348
+    },
+    {
+      "name": "nieznana",
+      "latitude": 53.916491,
+      "longitude": 23.205714
+    },
+    {
+      "name": "Nordoststrand",
+      "latitude": 51.104842,
+      "longitude": 14.975811
+    },
+    {
+      "name": "Nowa Plaża",
+      "latitude": 49.950997,
+      "longitude": 22.829626
+    },
+    {
+      "name": "Nowa Plaża miejska",
+      "latitude": 53.056962,
+      "longitude": 16.457425
+    },
+    {
+      "name": "Oberwanka",
+      "latitude": 51.974144,
+      "longitude": 20.236066
+    },
+    {
+      "name": "OW Kormoran",
+      "latitude": 54.08764,
+      "longitude": 17.883852
+    },
+    {
+      "name": "Pełczanka",
+      "latitude": 53.03126,
+      "longitude": 15.29811
+    },
+    {
+      "name": "Piaseczno",
+      "latitude": 53.662699,
+      "longitude": 18.251557
+    },
+    {
+      "name": "Piaszczysta",
+      "latitude": 51.649214,
+      "longitude": 19.370793
+    },
+    {
+      "name": "Piaszczyste",
+      "latitude": 53.130831,
+      "longitude": 16.710204
+    },
+    {
+      "name": "plaza",
+      "latitude": 53.493256,
+      "longitude": 20.553599
+    },
+    {
+      "name": "Plaza Lublewska",
+      "latitude": 54.74218,
+      "longitude": 17.937083
+    },
+    {
+      "name": "Plaza w Kamienczyku",
+      "latitude": 52.594828,
+      "longitude": 21.562267
+    },
+    {
+      "name": "Plaza wiejska",
+      "latitude": 53.578772,
+      "longitude": 20.719486
+    },
+    {
+      "name": "Plaż",
+      "latitude": 54.008073,
+      "longitude": 21.633719
+    },
+    {
+      "name": "Plaża",
+      "latitude": 52.209368,
+      "longitude": 20.200798
+    },
+    {
+      "name": "Plaża",
+      "latitude": 53.289757,
+      "longitude": 14.899736
+    },
+    {
+      "name": "Plaża  Miejska w Więcborku",
+      "latitude": 53.343649,
+      "longitude": 17.500258
+    },
+    {
+      "name": "Plaża \"Astur\"",
+      "latitude": 51.495231,
+      "longitude": 23.522467
+    },
+    {
+      "name": "Plaża \"Cypel\"",
+      "latitude": 53.017594,
+      "longitude": 18.057988
+    },
+    {
+      "name": "Plaża \"Harcerska\"",
+      "latitude": 52.673109,
+      "longitude": 21.087862
+    },
+    {
+      "name": "Plaża \"Kalina\"",
+      "latitude": 51.493709,
+      "longitude": 23.539531
+    },
+    {
+      "name": "Plaża \"Kąpielisko nr 2\"",
+      "latitude": 51.500372,
+      "longitude": 23.543424
+    },
+    {
+      "name": "Plaża \"Mleczarskiego\"",
+      "latitude": 51.493931,
+      "longitude": 23.524602
+    },
+    {
+      "name": "Plaża \"Ośrodek Bankowy\"",
+      "latitude": 51.494145,
+      "longitude": 23.541973
+    },
+    {
+      "name": "Plaża \"Ośrodek PKS\"",
+      "latitude": 51.492266,
+      "longitude": 23.531412
+    },
+    {
+      "name": "Plaża \"Rusałka\"",
+      "latitude": 51.497127,
+      "longitude": 23.544778
+    },
+    {
+      "name": "Plaża \"Sanvit\"",
+      "latitude": 51.492876,
+      "longitude": 23.527621
+    },
+    {
+      "name": "Plaża \"Świtezianka\"",
+      "latitude": 51.492617,
+      "longitude": 23.532873
+    },
+    {
+      "name": "Plaża -ogólnodostępna",
+      "latitude": 52.443801,
+      "longitude": 19.683136
+    },
+    {
+      "name": "Plaża A",
+      "latitude": 54.768205,
+      "longitude": 17.559611
+    },
+    {
+      "name": "Plaża Amalia",
+      "latitude": 52.535933,
+      "longitude": 15.680666
+    },
+    {
+      "name": "Plaża Anastazewo",
+      "latitude": 52.44251,
+      "longitude": 18.002232
+    },
+    {
+      "name": "plaża Annowo",
+      "latitude": 53.031641,
+      "longitude": 17.858903
+    },
+    {
+      "name": "Plaża Arciechów",
+      "latitude": 52.504723,
+      "longitude": 21.090439
+    },
+    {
+      "name": "Plaża B",
+      "latitude": 54.767085,
+      "longitude": 17.543038
+    },
+    {
+      "name": "Plaża Babie Lato",
+      "latitude": 52.040744,
+      "longitude": 20.199571
+    },
+    {
+      "name": "Plaża Bagry",
+      "latitude": 50.033334,
+      "longitude": 19.993698
+    },
+    {
+      "name": "Plaża Bagry",
+      "latitude": 50.034103,
+      "longitude": 19.993445
+    },
+    {
+      "name": "Plaża Bagry - Wschód",
+      "latitude": 50.030932,
+      "longitude": 19.998453
+    },
+    {
+      "name": "Plaża Bahama",
+      "latitude": 52.603057,
+      "longitude": 19.128269
+    },
+    {
+      "name": "Plaża Bartosze",
+      "latitude": 53.83161,
+      "longitude": 22.275521
+    },
+    {
+      "name": "Plaża Borówno (cywilna)",
+      "latitude": 53.238964,
+      "longitude": 18.128435
+    },
+    {
+      "name": "Plaża Boszkowo",
+      "latitude": 51.95844,
+      "longitude": 16.334329
+    },
+    {
+      "name": "Plaża Boszkowo",
+      "latitude": 51.958983,
+      "longitude": 16.328723
+    },
+    {
+      "name": "Plaża C",
+      "latitude": 54.768926,
+      "longitude": 17.572971
+    },
+    {
+      "name": "Plaża Charzykowy",
+      "latitude": 53.73482,
+      "longitude": 17.507478
+    },
+    {
+      "name": "Plaża Chańcza",
+      "latitude": 50.633305,
+      "longitude": 21.062098
+    },
+    {
+      "name": "Plaża Chmielniki",
+      "latitude": 53.005847,
+      "longitude": 18.052965
+    },
+    {
+      "name": "Plaża Choceń nad Jeziorem Borzymowskim",
+      "latitude": 52.487972,
+      "longitude": 18.995672
+    },
+    {
+      "name": "Plaża Cypel",
+      "latitude": 54.592887,
+      "longitude": 18.812436
+    },
+    {
+      "name": "Plaża Danowskie",
+      "latitude": 53.95935,
+      "longitude": 23.101559
+    },
+    {
+      "name": "Plaża dla naturystów",
+      "latitude": 49.890294,
+      "longitude": 19.196561
+    },
+    {
+      "name": "Plaża dla nudystów",
+      "latitude": 53.761591,
+      "longitude": 16.787523
+    },
+    {
+      "name": "Plaża dla psów",
+      "latitude": 52.625368,
+      "longitude": 15.858311
+    },
+    {
+      "name": "Plaża dla psów",
+      "latitude": 53.353239,
+      "longitude": 17.040928
+    },
+    {
+      "name": "Plaża dla psów",
+      "latitude": 54.408136,
+      "longitude": 18.65149
+    },
+    {
+      "name": "Plaża dla psów",
+      "latitude": 54.4671,
+      "longitude": 18.562462
+    },
+    {
+      "name": "Plaża dla psów",
+      "latitude": 54.657424,
+      "longitude": 17.032257
+    },
+    {
+      "name": "Plaża dla zwierząt",
+      "latitude": 54.767397,
+      "longitude": 17.54564
+    },
+    {
+      "name": "Plaża Dobiegniew",
+      "latitude": 52.973436,
+      "longitude": 15.772658
+    },
+    {
+      "name": "Plaża Dobrzankowo",
+      "latitude": 52.986744,
+      "longitude": 20.949621
+    },
+    {
+      "name": "Plaża Dubaj",
+      "latitude": 54.540812,
+      "longitude": 16.528165
+    },
+    {
+      "name": "plaża duża Solczyk",
+      "latitude": 52.711274,
+      "longitude": 15.793493
+    },
+    {
+      "name": "Plaża Dzika",
+      "latitude": 52.428918,
+      "longitude": 16.876505
+    },
+    {
+      "name": "Plaża Dąbie",
+      "latitude": 53.402276,
+      "longitude": 14.663229
+    },
+    {
+      "name": "Plaża Family Kamp Domaniów",
+      "latitude": 51.424017,
+      "longitude": 20.844593
+    },
+    {
+      "name": "Plaża gminna",
+      "latitude": 51.062521,
+      "longitude": 19.004375
+    },
+    {
+      "name": "plaża gminna",
+      "latitude": 51.943083,
+      "longitude": 16.307056
+    },
+    {
+      "name": "Plaża gminna",
+      "latitude": 53.647221,
+      "longitude": 18.599082
+    },
+    {
+      "name": "Plaża gminna",
+      "latitude": 53.799959,
+      "longitude": 22.540903
+    },
+    {
+      "name": "plaża gminna",
+      "latitude": 53.962549,
+      "longitude": 21.746694
+    },
+    {
+      "name": "Plaża gminna",
+      "latitude": 53.977442,
+      "longitude": 21.807656
+    },
+    {
+      "name": "Plaża gminna",
+      "latitude": 54.096469,
+      "longitude": 21.93612
+    },
+    {
+      "name": "Plaża Gminna",
+      "latitude": 54.266782,
+      "longitude": 23.040489
+    },
+    {
+      "name": "Plaża gminna Lepaki Małe",
+      "latitude": 53.831796,
+      "longitude": 22.239786
+    },
+    {
+      "name": "Plaża gminna Lepaki Wielkie",
+      "latitude": 53.829425,
+      "longitude": 22.231354
+    },
+    {
+      "name": "Plaża gminna w Borzestowie",
+      "latitude": 54.313505,
+      "longitude": 18.003992
+    },
+    {
+      "name": "Plaża gminna w Grzybinach",
+      "latitude": 53.377174,
+      "longitude": 20.058841
+    },
+    {
+      "name": "Plaża Gminna w Orlu",
+      "latitude": 52.496714,
+      "longitude": 18.643016
+    },
+    {
+      "name": "Plaża gminna w Siedliskach",
+      "latitude": 53.833935,
+      "longitude": 22.321102
+    },
+    {
+      "name": "Plaża Gminnego Ośrodka Sportów Wodnych w Białym Borze",
+      "latitude": 53.42888,
+      "longitude": 18.763697
+    },
+    {
+      "name": "Plaża GOSiR w Wilczynie",
+      "latitude": 52.491746,
+      "longitude": 18.142925
+    },
+    {
+      "name": "Plaża Grabniak",
+      "latitude": 51.377568,
+      "longitude": 23.117645
+    },
+    {
+      "name": "Plaża Główna",
+      "latitude": 51.420266,
+      "longitude": 20.839996
+    },
+    {
+      "name": "Plaża Harcerska",
+      "latitude": 52.761428,
+      "longitude": 19.291785
+    },
+    {
+      "name": "Plaża Jeziorko Czerniakowskie",
+      "latitude": 52.188304,
+      "longitude": 21.0722
+    },
+    {
+      "name": "Plaża Jezioro Białe",
+      "latitude": 52.495343,
+      "longitude": 19.515428
+    },
+    {
+      "name": "Plaża Jezioro Grodno",
+      "latitude": 53.073074,
+      "longitude": 19.029055
+    },
+    {
+      "name": "Plaża Jezioro Madej",
+      "latitude": 52.656331,
+      "longitude": 14.655396
+    },
+    {
+      "name": "Plaża Jezioro Mierzyn",
+      "latitude": 52.62454,
+      "longitude": 15.857658
+    },
+    {
+      "name": "Plaża Jezioro Radgoskie",
+      "latitude": 52.6336,
+      "longitude": 15.872544
+    },
+    {
+      "name": "Plaża Jezioro Tarnobrzeskie",
+      "latitude": 50.553042,
+      "longitude": 21.647116
+    },
+    {
+      "name": "Plaża Jurowce",
+      "latitude": 53.185774,
+      "longitude": 23.14962
+    },
+    {
+      "name": "Plaża Józefowo",
+      "latitude": 53.054177,
+      "longitude": 18.85048
+    },
+    {
+      "name": "Plaża Kaprów",
+      "latitude": 54.723734,
+      "longitude": 18.405938
+    },
+    {
+      "name": "Plaża Karolinów",
+      "latitude": 51.451743,
+      "longitude": 19.971601
+    },
+    {
+      "name": "Plaża Kopa Cwila",
+      "latitude": 52.16347,
+      "longitude": 21.023787
+    },
+    {
+      "name": "Plaża Kormoran",
+      "latitude": 52.220361,
+      "longitude": 15.394434
+    },
+    {
+      "name": "Plaża Korona",
+      "latitude": 53.256442,
+      "longitude": 16.415286
+    },
+    {
+      "name": "Plaża Kosewko",
+      "latitude": 52.494264,
+      "longitude": 20.700133
+    },
+    {
+      "name": "plaża Kozielno",
+      "latitude": 50.476127,
+      "longitude": 16.969364
+    },
+    {
+      "name": "Plaża Kręgiel",
+      "latitude": 53.354008,
+      "longitude": 18.004056
+    },
+    {
+      "name": "Plaża Kuligów",
+      "latitude": 52.507536,
+      "longitude": 21.16664
+    },
+    {
+      "name": "Plaża Lubiewo",
+      "latitude": 52.889033,
+      "longitude": 15.905102
+    },
+    {
+      "name": "Plaża Lubikowska",
+      "latitude": 52.536247,
+      "longitude": 15.703725
+    },
+    {
+      "name": "Plaża Lubkowo",
+      "latitude": 54.777526,
+      "longitude": 18.063197
+    },
+    {
+      "name": "Plaża Lusówko",
+      "latitude": 52.428808,
+      "longitude": 16.654032
+    },
+    {
+      "name": "Plaża Malibu",
+      "latitude": 52.462246,
+      "longitude": 16.826169
+    },
+    {
+      "name": "Plaża Mazurka",
+      "latitude": 53.858191,
+      "longitude": 23.013311
+    },
+    {
+      "name": "plaża mała Solczyk",
+      "latitude": 52.711683,
+      "longitude": 15.792079
+    },
+    {
+      "name": "plaża miejska",
+      "latitude": 49.799457,
+      "longitude": 19.052231
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 50.046789,
+      "longitude": 18.720273
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 50.772604,
+      "longitude": 19.686845
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 51.189491,
+      "longitude": 22.071233
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 51.415347,
+      "longitude": 21.948698
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 51.609047,
+      "longitude": 20.579606
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 51.89499,
+      "longitude": 19.602757
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.110738,
+      "longitude": 19.937375
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.224479,
+      "longitude": 20.233037
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.345025,
+      "longitude": 16.903164
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.434067,
+      "longitude": 20.708457
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.434263,
+      "longitude": 20.721892
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.516236,
+      "longitude": 21.077249
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.602252,
+      "longitude": 15.904517
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.695612,
+      "longitude": 21.85483
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 52.744218,
+      "longitude": 14.709182
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 52.862872,
+      "longitude": 14.398294
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.033773,
+      "longitude": 23.599184
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.101048,
+      "longitude": 14.653549
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.110626,
+      "longitude": 23.216384
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.176371,
+      "longitude": 22.099378
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.269615,
+      "longitude": 19.388582
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.306802,
+      "longitude": 22.925367
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.363709,
+      "longitude": 17.010021
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.429476,
+      "longitude": 14.570884
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.44721,
+      "longitude": 15.559873
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.567001,
+      "longitude": 20.988609
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.571081,
+      "longitude": 16.2296
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.605083,
+      "longitude": 19.558959
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.70636,
+      "longitude": 19.94459
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.732113,
+      "longitude": 22.686174
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 53.778399,
+      "longitude": 19.200845
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.799164,
+      "longitude": 21.567668
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.857248,
+      "longitude": 20.887224
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.858018,
+      "longitude": 21.315322
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 53.930538,
+      "longitude": 19.934508
+    },
+    {
+      "name": "Plaża miejska",
+      "latitude": 54.046898,
+      "longitude": 22.504277
+    },
+    {
+      "name": "plaża miejska",
+      "latitude": 54.093057,
+      "longitude": 22.924819
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 54.197214,
+      "longitude": 21.720341
+    },
+    {
+      "name": "Plaża Miejska",
+      "latitude": 54.60663,
+      "longitude": 18.7994
+    },
+    {
+      "name": "Plaża Miejska - Błonia Nadwiślańskie",
+      "latitude": 53.006225,
+      "longitude": 18.595386
+    },
+    {
+      "name": "Plaża Miejska Augustów",
+      "latitude": 53.85395,
+      "longitude": 22.985938
+    },
+    {
+      "name": "Plaża miejska Chwaliszewo",
+      "latitude": 52.406264,
+      "longitude": 16.944769
+    },
+    {
+      "name": "plaża miejska jezioro Logo",
+      "latitude": 53.05465,
+      "longitude": 16.424556
+    },
+    {
+      "name": "Plaża Miejska Korycin",
+      "latitude": 53.443218,
+      "longitude": 23.101041
+    },
+    {
+      "name": "Plaża miejska nad Jeziorem Rybnickim",
+      "latitude": 50.146418,
+      "longitude": 18.481483
+    },
+    {
+      "name": "Plaża Miejska nr 4 w Trzciance",
+      "latitude": 53.055908,
+      "longitude": 16.40562
+    },
+    {
+      "name": "Plaża Miejska Otwock",
+      "latitude": 52.124181,
+      "longitude": 21.237501
+    },
+    {
+      "name": "Plaża miejska Pniewy",
+      "latitude": 52.513279,
+      "longitude": 16.24919
+    },
+    {
+      "name": "Plaża Miejska przy Moście Północnym",
+      "latitude": 52.309504,
+      "longitude": 20.951111
+    },
+    {
+      "name": "Plaża miejska w Białobrzegach",
+      "latitude": 51.654394,
+      "longitude": 20.955457
+    },
+    {
+      "name": "Plaża miejska w Biskupcu",
+      "latitude": 53.854278,
+      "longitude": 20.956939
+    },
+    {
+      "name": "Plaża miejska w Dąbrównie",
+      "latitude": 53.434946,
+      "longitude": 20.037172
+    },
+    {
+      "name": "Plaża miejska w Goniądzu",
+      "latitude": 53.492374,
+      "longitude": 22.728214
+    },
+    {
+      "name": "Plaża miejska w Jastrowiu",
+      "latitude": 53.41334,
+      "longitude": 16.853875
+    },
+    {
+      "name": "Plaża Miejska w Myśliborzu",
+      "latitude": 52.92563,
+      "longitude": 14.857786
+    },
+    {
+      "name": "Plaża miejska w Wielochowie",
+      "latitude": 54.1532,
+      "longitude": 20.558881
+    },
+    {
+      "name": "Plaża miejska w Śremie",
+      "latitude": 52.070921,
+      "longitude": 17.009577
+    },
+    {
+      "name": "Plaża Miejska Wilda",
+      "latitude": 52.391108,
+      "longitude": 16.938174
+    },
+    {
+      "name": "Plaża miejska Wyszków",
+      "latitude": 52.590079,
+      "longitude": 21.459756
+    },
+    {
+      "name": "Plaża Mochel",
+      "latitude": 53.541222,
+      "longitude": 17.528237
+    },
+    {
+      "name": "Plaża MOSiR",
+      "latitude": 53.274004,
+      "longitude": 16.458493
+    },
+    {
+      "name": "Plaża na Miłej",
+      "latitude": 51.138333,
+      "longitude": 20.592542
+    },
+    {
+      "name": "Plaża na Sanie",
+      "latitude": 49.954297,
+      "longitude": 22.849151
+    },
+    {
+      "name": "Plaża nad Jeziorem Chodeckim",
+      "latitude": 52.402904,
+      "longitude": 19.025601
+    },
+    {
+      "name": "Plaża nad Jeziorem Rokitno",
+      "latitude": 52.530638,
+      "longitude": 15.627918
+    },
+    {
+      "name": "Plaża nad Jeziorem Wierzchucińskim Dużym",
+      "latitude": 53.26273,
+      "longitude": 17.778243
+    },
+    {
+      "name": "Plaża nad Wkrą",
+      "latitude": 53.071318,
+      "longitude": 19.867226
+    },
+    {
+      "name": "Plaża nad zalewem Tasarki",
+      "latitude": 50.826706,
+      "longitude": 19.293194
+    },
+    {
+      "name": "Plaża naturystyczna",
+      "latitude": 51.448596,
+      "longitude": 19.930338
+    },
+    {
+      "name": "plaża naturystyczna",
+      "latitude": 52.475398,
+      "longitude": 17.159137
+    },
+    {
+      "name": "Plaża naturystyczna",
+      "latitude": 53.917745,
+      "longitude": 14.400166
+    },
+    {
+      "name": "Plaża Naturystyczna Turawa",
+      "latitude": 50.735712,
+      "longitude": 18.132643
+    },
+    {
+      "name": "Plaża Naturystów",
+      "latitude": 54.166101,
+      "longitude": 15.456721
+    },
+    {
+      "name": "Plaża naturystów - dolna plaża",
+      "latitude": 52.167616,
+      "longitude": 21.136862
+    },
+    {
+      "name": "Plaża naturystów - górna plaża",
+      "latitude": 52.168647,
+      "longitude": 21.134112
+    },
+    {
+      "name": "Plaża Naturystów Dębki",
+      "latitude": 54.832001,
+      "longitude": 18.022781
+    },
+    {
+      "name": "Plaża niestrzeżona",
+      "latitude": 50.126058,
+      "longitude": 19.477973
+    },
+    {
+      "name": "Plaża niestrzeżona Wasilków",
+      "latitude": 53.195581,
+      "longitude": 23.197319
+    },
+    {
+      "name": "Plaża Nowodworce",
+      "latitude": 53.195516,
+      "longitude": 23.234111
+    },
+    {
+      "name": "Plaża nudystów",
+      "latitude": 50.385931,
+      "longitude": 19.212821
+    },
+    {
+      "name": "plaża nudystów",
+      "latitude": 54.350526,
+      "longitude": 18.932971
+    },
+    {
+      "name": "plaża nudystów",
+      "latitude": 54.370301,
+      "longitude": 18.77205
+    },
+    {
+      "name": "Plaża nudystów",
+      "latitude": 54.372707,
+      "longitude": 18.755357
+    },
+    {
+      "name": "plaża nudystów",
+      "latitude": 54.630534,
+      "longitude": 18.478671
+    },
+    {
+      "name": "Plaża nudystów w Chałupach",
+      "latitude": 54.75205,
+      "longitude": 18.536296
+    },
+    {
+      "name": "plaża Ostrowite",
+      "latitude": 53.755228,
+      "longitude": 18.035557
+    },
+    {
+      "name": "Plaża Ostrowińska",
+      "latitude": 53.641345,
+      "longitude": 20.132483
+    },
+    {
+      "name": "Plaża Ostrów",
+      "latitude": 49.789985,
+      "longitude": 22.695359
+    },
+    {
+      "name": "Plaża Ośrodek Wypoczynkowy Grabniak",
+      "latitude": 51.376532,
+      "longitude": 23.117129
+    },
+    {
+      "name": "Plaża Parkowa",
+      "latitude": 52.473843,
+      "longitude": 16.783262
+    },
+    {
+      "name": "Plaża Patelnia",
+      "latitude": 52.480805,
+      "longitude": 19.653256
+    },
+    {
+      "name": "Plaża Patelnia",
+      "latitude": 53.872857,
+      "longitude": 23.086378
+    },
+    {
+      "name": "Plaża Pennera",
+      "latitude": 54.065516,
+      "longitude": 22.047732
+    },
+    {
+      "name": "Plaża piasczysta",
+      "latitude": 50.389342,
+      "longitude": 18.564739
+    },
+    {
+      "name": "Plaża Piaski",
+      "latitude": 54.030338,
+      "longitude": 23.142812
+    },
+    {
+      "name": "Plaża Piecki",
+      "latitude": 53.019553,
+      "longitude": 18.07184
+    },
+    {
+      "name": "Plaża Pieczyska",
+      "latitude": 53.34484,
+      "longitude": 17.972541
+    },
+    {
+      "name": "Plaża Pilica",
+      "latitude": 51.747294,
+      "longitude": 21.135172
+    },
+    {
+      "name": "Plaża Pluszkiejny",
+      "latitude": 54.298831,
+      "longitude": 22.465606
+    },
+    {
+      "name": "Plaża pod Bykiem",
+      "latitude": 51.602011,
+      "longitude": 19.185973
+    },
+    {
+      "name": "Plaża Polanka",
+      "latitude": 51.365876,
+      "longitude": 19.863798
+    },
+    {
+      "name": "Plaża pompka",
+      "latitude": 51.324563,
+      "longitude": 23.631925
+    },
+    {
+      "name": "Plaża południowa",
+      "latitude": 52.506185,
+      "longitude": 21.335511
+    },
+    {
+      "name": "Plaża przy Czerwonej Rzeczce",
+      "latitude": 54.229137,
+      "longitude": 15.799146
+    },
+    {
+      "name": "Plaża Przydwórz",
+      "latitude": 53.26181,
+      "longitude": 18.809835
+    },
+    {
+      "name": "Plaża przyhotelowa",
+      "latitude": 52.481171,
+      "longitude": 20.965524
+    },
+    {
+      "name": "Plaża Prądocin",
+      "latitude": 53.018615,
+      "longitude": 18.071742
+    },
+    {
+      "name": "Plaża publiczna",
+      "latitude": 54.104635,
+      "longitude": 23.188958
+    },
+    {
+      "name": "Plaża Płotki",
+      "latitude": 53.178411,
+      "longitude": 16.828662
+    },
+    {
+      "name": "Plaża Racibór",
+      "latitude": 53.598831,
+      "longitude": 21.25287
+    },
+    {
+      "name": "Plaża rodzinna",
+      "latitude": 52.509507,
+      "longitude": 21.333265
+    },
+    {
+      "name": "Plaża Rogoźnik I",
+      "latitude": 50.39763,
+      "longitude": 19.025452
+    },
+    {
+      "name": "Plaża Rogoźnik II",
+      "latitude": 50.401584,
+      "longitude": 19.034178
+    },
+    {
+      "name": "Plaża Rusałka",
+      "latitude": 52.254153,
+      "longitude": 21.019403
+    },
+    {
+      "name": "Plaża Rusinowo",
+      "latitude": 54.523403,
+      "longitude": 16.495981
+    },
+    {
+      "name": "Plaża Sadłogoszcz",
+      "latitude": 52.859258,
+      "longitude": 18.008845
+    },
+    {
+      "name": "Plaża Salamonowo",
+      "latitude": 52.440846,
+      "longitude": 18.002776
+    },
+    {
+      "name": "Plaża Samociążek",
+      "latitude": 53.278065,
+      "longitude": 17.972298
+    },
+    {
+      "name": "Plaża Saska",
+      "latitude": 52.228042,
+      "longitude": 21.049656
+    },
+    {
+      "name": "Plaża Skrzypki",
+      "latitude": 53.798145,
+      "longitude": 22.667238
+    },
+    {
+      "name": "Plaża Skwierzyńska",
+      "latitude": 52.53751,
+      "longitude": 15.698833
+    },
+    {
+      "name": "Plaża Smerzyn",
+      "latitude": 52.93749,
+      "longitude": 17.862947
+    },
+    {
+      "name": "Plaża Smocza",
+      "latitude": 52.444591,
+      "longitude": 16.802568
+    },
+    {
+      "name": "Plaża Sobótka",
+      "latitude": 52.546432,
+      "longitude": 19.673081
+    },
+    {
+      "name": "Plaża Sołecka w Radziejach",
+      "latitude": 54.115426,
+      "longitude": 21.609488
+    },
+    {
+      "name": "Plaża Srebrne Jezioro",
+      "latitude": 50.756208,
+      "longitude": 18.074601
+    },
+    {
+      "name": "Plaża Stogi",
+      "latitude": 54.375808,
+      "longitude": 18.731295
+    },
+    {
+      "name": "Plaża strzeżona",
+      "latitude": 52.604769,
+      "longitude": 19.123656
+    },
+    {
+      "name": "Plaża Strzeżona",
+      "latitude": 54.587168,
+      "longitude": 16.841423
+    },
+    {
+      "name": "Plaża strzeżona \"Dom Zdrojowy Brzeźno\"",
+      "latitude": 54.409315,
+      "longitude": 18.639215
+    },
+    {
+      "name": "Plaża strzeżona \"Jelitkowo\"",
+      "latitude": 54.426354,
+      "longitude": 18.59785
+    },
+    {
+      "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+      "latitude": 54.423966,
+      "longitude": 18.602277
+    },
+    {
+      "name": "Plaża strzeżona \"Molo Brzeźno\"",
+      "latitude": 54.413378,
+      "longitude": 18.626158
+    },
+    {
+      "name": "Plaża strzeżona \"Orle\"",
+      "latitude": 54.348551,
+      "longitude": 18.875966
+    },
+    {
+      "name": "Plaża strzeżona \"Stogi\"",
+      "latitude": 54.375292,
+      "longitude": 18.732204
+    },
+    {
+      "name": "Plaża Strzeżona w wakacje",
+      "latitude": 54.708677,
+      "longitude": 18.663097
+    },
+    {
+      "name": "plaża Swornegacie",
+      "latitude": 53.854024,
+      "longitude": 17.503244
+    },
+    {
+      "name": "Plaża Słoneczna",
+      "latitude": 53.590399,
+      "longitude": 16.553076
+    },
+    {
+      "name": "Plaża Tomczyce",
+      "latitude": 51.627453,
+      "longitude": 20.700201
+    },
+    {
+      "name": "Plaża Trawiasta",
+      "latitude": 53.761265,
+      "longitude": 20.52635
+    },
+    {
+      "name": "Plaża Tresta",
+      "latitude": 51.460451,
+      "longitude": 19.994161
+    },
+    {
+      "name": "Plaża U Jawora",
+      "latitude": 54.018484,
+      "longitude": 23.018854
+    },
+    {
+      "name": "Plaża w Czernichowie",
+      "latitude": 49.762683,
+      "longitude": 19.211253
+    },
+    {
+      "name": "Plaża w Dorotowie",
+      "latitude": 53.702175,
+      "longitude": 20.416169
+    },
+    {
+      "name": "Plaża w Falmierowie",
+      "latitude": 53.1947,
+      "longitude": 17.218034
+    },
+    {
+      "name": "Plaża w Giewartowie",
+      "latitude": 52.373724,
+      "longitude": 17.946265
+    },
+    {
+      "name": "Plaża w Klembowie",
+      "latitude": 52.403956,
+      "longitude": 21.334158
+    },
+    {
+      "name": "Plaża w Kobylcu",
+      "latitude": 52.849819,
+      "longitude": 17.210667
+    },
+    {
+      "name": "Plaża w Kłodawie",
+      "latitude": 52.790045,
+      "longitude": 15.216068
+    },
+    {
+      "name": "Plaża w Mirakowie",
+      "latitude": 53.163497,
+      "longitude": 18.683864
+    },
+    {
+      "name": "Plaża w Ostrowie",
+      "latitude": 53.276866,
+      "longitude": 18.780484
+    },
+    {
+      "name": "Plaża w parku miejskim",
+      "latitude": 52.371707,
+      "longitude": 18.30871
+    },
+    {
+      "name": "Plaża w Pułtusku",
+      "latitude": 52.703995,
+      "longitude": 21.098874
+    },
+    {
+      "name": "Plaża w Radzimiu",
+      "latitude": 53.534211,
+      "longitude": 17.596783
+    },
+    {
+      "name": "Plaża w Ratajach - kąpielisko miejskie nad Jeziorem Miejskim",
+      "latitude": 52.997291,
+      "longitude": 16.942377
+    },
+    {
+      "name": "Plaża w Ratajach - kąpielisko nad Jeziorem Miejskim",
+      "latitude": 52.997146,
+      "longitude": 16.942753
+    },
+    {
+      "name": "plaża w Strzalinach",
+      "latitude": 53.188573,
+      "longitude": 16.199877
+    },
+    {
+      "name": "Plaża w Tuchomiu",
+      "latitude": 54.427148,
+      "longitude": 18.36943
+    },
+    {
+      "name": "plaża w Uniejowie",
+      "latitude": 51.971609,
+      "longitude": 18.791038
+    },
+    {
+      "name": "Plaża w Wólce",
+      "latitude": 52.901378,
+      "longitude": 19.411029
+    },
+    {
+      "name": "Plaża w Wąsoszu",
+      "latitude": 52.948448,
+      "longitude": 17.751692
+    },
+    {
+      "name": "Plaża w Zdbicach",
+      "latitude": 53.380126,
+      "longitude": 16.495986
+    },
+    {
+      "name": "Plaża WDW",
+      "latitude": 53.808164,
+      "longitude": 21.974679
+    },
+    {
+      "name": "Plaża Wicie 3W",
+      "latitude": 54.511758,
+      "longitude": 16.472042
+    },
+    {
+      "name": "Plaża wiejska",
+      "latitude": 53.342501,
+      "longitude": 19.799118
+    },
+    {
+      "name": "plaża wiejska",
+      "latitude": 53.652533,
+      "longitude": 20.761428
+    },
+    {
+      "name": "Plaża Wiejska",
+      "latitude": 53.732649,
+      "longitude": 20.364747
+    },
+    {
+      "name": "Plaża wiejska",
+      "latitude": 53.802321,
+      "longitude": 21.490898
+    },
+    {
+      "name": "Plaża wiejska",
+      "latitude": 53.924512,
+      "longitude": 22.211005
+    },
+    {
+      "name": "plaża wiejska",
+      "latitude": 53.937666,
+      "longitude": 21.756155
+    },
+    {
+      "name": "plaża wiejska",
+      "latitude": 53.944133,
+      "longitude": 22.432964
+    },
+    {
+      "name": "plaża wiejska",
+      "latitude": 53.945562,
+      "longitude": 20.870696
+    },
+    {
+      "name": "plaża wiejska",
+      "latitude": 54.040074,
+      "longitude": 22.444891
+    },
+    {
+      "name": "Plaża wiejska Dłużek",
+      "latitude": 53.540844,
+      "longitude": 20.675953
+    },
+    {
+      "name": "Plaża wiejska Jezioro Szarek",
+      "latitude": 53.803559,
+      "longitude": 22.320795
+    },
+    {
+      "name": "Plaża Wiejska Rożyńsk",
+      "latitude": 53.826866,
+      "longitude": 22.167584
+    },
+    {
+      "name": "Plaża wiejska w Pieckach",
+      "latitude": 53.774238,
+      "longitude": 21.342968
+    },
+    {
+      "name": "plaża Wiele",
+      "latitude": 53.92056,
+      "longitude": 17.85742
+    },
+    {
+      "name": "Plaża Wieliszew",
+      "latitude": 52.481273,
+      "longitude": 20.94739
+    },
+    {
+      "name": "Plaża Wieżba",
+      "latitude": 52.292493,
+      "longitude": 23.097481
+    },
+    {
+      "name": "Plaża Wilkasy",
+      "latitude": 54.009783,
+      "longitude": 21.736381
+    },
+    {
+      "name": "Plaża Więcbork - Czarmuń",
+      "latitude": 53.301135,
+      "longitude": 17.451924
+    },
+    {
+      "name": "Plaża wojskowa",
+      "latitude": 53.274911,
+      "longitude": 16.513457
+    },
+    {
+      "name": "Plaża Wojskowa",
+      "latitude": 53.711707,
+      "longitude": 16.676611
+    },
+    {
+      "name": "plaża wojskowa",
+      "latitude": 53.807672,
+      "longitude": 22.382186
+    },
+    {
+      "name": "Plaża wschodnia",
+      "latitude": 52.508362,
+      "longitude": 21.333781
+    },
+    {
+      "name": "Plaża wschodnia",
+      "latitude": 54.589171,
+      "longitude": 16.865247
+    },
+    {
+      "name": "Plaża Wyśmierzyce",
+      "latitude": 51.632325,
+      "longitude": 20.785126
+    },
+    {
+      "name": "Plaża zachodnia",
+      "latitude": 52.508045,
+      "longitude": 21.332829
+    },
+    {
+      "name": "Plaża zachodnia",
+      "latitude": 54.587295,
+      "longitude": 16.842119
+    },
+    {
+      "name": "Plaża Zagórze",
+      "latitude": 52.889939,
+      "longitude": 15.866123
+    },
+    {
+      "name": "Plaża Zalesie k. Torunia",
+      "latitude": 53.165085,
+      "longitude": 18.691678
+    },
+    {
+      "name": "Plaża Zborowo",
+      "latitude": 52.373094,
+      "longitude": 16.625338
+    },
+    {
+      "name": "Plaża Zielona",
+      "latitude": 53.590968,
+      "longitude": 16.541834
+    },
+    {
+      "name": "Plaża Złota",
+      "latitude": 53.285544,
+      "longitude": 17.966495
+    },
+    {
+      "name": "Plaża Łazienki",
+      "latitude": 52.247855,
+      "longitude": 15.912501
+    },
+    {
+      "name": "Plaża Śródmieście",
+      "latitude": 54.515179,
+      "longitude": 18.550213
+    },
+    {
+      "name": "Plaża Żoliborska",
+      "latitude": 52.26894,
+      "longitude": 21.003019
+    },
+    {
+      "name": "Plaża Żuczek",
+      "latitude": 53.541268,
+      "longitude": 17.272646
+    },
+    {
+      "name": "Plaża Żydowska",
+      "latitude": 51.468082,
+      "longitude": 22.631024
+    },
+    {
+      "name": "plażyczka gminna",
+      "latitude": 53.753051,
+      "longitude": 22.595143
+    },
+    {
+      "name": "Plażą w Chomiąży Szlacheckiej",
+      "latitude": 52.753599,
+      "longitude": 17.839583
+    },
+    {
+      "name": "Polana Urszulewska",
+      "latitude": 52.974522,
+      "longitude": 19.564093
+    },
+    {
+      "name": "Pole Namiotowe \"Na Rataja\"",
+      "latitude": 53.682198,
+      "longitude": 19.799683
+    },
+    {
+      "name": "Pomost i plaża",
+      "latitude": 53.966661,
+      "longitude": 22.062943
+    },
+    {
+      "name": "Poniatówka",
+      "latitude": 52.236959,
+      "longitude": 21.042074
+    },
+    {
+      "name": "Przystań Horn",
+      "latitude": 52.400165,
+      "longitude": 17.948924
+    },
+    {
+      "name": "przystań Rajcocha",
+      "latitude": 54.073477,
+      "longitude": 21.630629
+    },
+    {
+      "name": "Punkt czerpania wody",
+      "latitude": 53.712589,
+      "longitude": 14.961579
+    },
+    {
+      "name": "Pustynia Mniszek",
+      "latitude": 53.42435,
+      "longitude": 18.728328
+    },
+    {
+      "name": "Resort \"Marina\"",
+      "latitude": 50.786502,
+      "longitude": 23.033964
+    },
+    {
+      "name": "Riviera Radłowska",
+      "latitude": 50.07107,
+      "longitude": 20.84595
+    },
+    {
+      "name": "Ruschebuhne",
+      "latitude": 52.730835,
+      "longitude": 14.376599
+    },
+    {
+      "name": "Rybaczówka",
+      "latitude": 53.432877,
+      "longitude": 20.0401
+    },
+    {
+      "name": "Sobieszewo",
+      "latitude": 54.355107,
+      "longitude": 18.836724
+    },
+    {
+      "name": "Srebrna Riviera",
+      "latitude": 54.301112,
+      "longitude": 19.468495
+    },
+    {
+      "name": "Stara Plaża",
+      "latitude": 49.953063,
+      "longitude": 22.824207
+    },
+    {
+      "name": "Stara Plaża miejska",
+      "latitude": 53.058955,
+      "longitude": 16.463771
+    },
+    {
+      "name": "Stara plaża miejska",
+      "latitude": 54.307332,
+      "longitude": 19.478108
+    },
+    {
+      "name": "Starganiec",
+      "latitude": 50.208379,
+      "longitude": 18.918886
+    },
+    {
+      "name": "Stary obóz Harcerski",
+      "latitude": 52.326394,
+      "longitude": 15.484577
+    },
+    {
+      "name": "Staw",
+      "latitude": 50.70941,
+      "longitude": 20.054224
+    },
+    {
+      "name": "Stolbud",
+      "latitude": 53.18315,
+      "longitude": 18.613986
+    },
+    {
+      "name": "Sudecka Plaża",
+      "latitude": 50.678508,
+      "longitude": 16.593903
+    },
+    {
+      "name": "Szika Plaża Rybienko Lesne",
+      "latitude": 52.581708,
+      "longitude": 21.446298
+    },
+    {
+      "name": "Szyjka",
+      "latitude": 54.026018,
+      "longitude": 22.517693
+    },
+    {
+      "name": "Słoneczko",
+      "latitude": 51.408725,
+      "longitude": 19.726921
+    },
+    {
+      "name": "Tawerna pod Wieżą - plaża",
+      "latitude": 53.270067,
+      "longitude": 16.457272
+    },
+    {
+      "name": "Topielki",
+      "latitude": 53.231419,
+      "longitude": 17.94656
+    },
+    {
+      "name": "Trzecia Plaża",
+      "latitude": 52.123789,
+      "longitude": 15.767645
+    },
+    {
+      "name": "U Jerzego",
+      "latitude": 49.799569,
+      "longitude": 19.581869
+    },
+    {
+      "name": "Wakepark Bydgoszcz",
+      "latitude": 53.16299,
+      "longitude": 18.028748
+    },
+    {
+      "name": "Wejście 31 Białogóra",
+      "latitude": 54.830831,
+      "longitude": 17.988171
+    },
+    {
+      "name": "Wejście 32 Białogóra",
+      "latitude": 54.829849,
+      "longitude": 17.964082
+    },
+    {
+      "name": "Wejście 33 Białogóra",
+      "latitude": 54.829361,
+      "longitude": 17.954617
+    },
+    {
+      "name": "Wejście 34 Białogóra",
+      "latitude": 54.827555,
+      "longitude": 17.939678
+    },
+    {
+      "name": "Wejście 35 Białogóra",
+      "latitude": 54.826594,
+      "longitude": 17.931717
+    },
+    {
+      "name": "Wejście 36A Osieki",
+      "latitude": 54.823825,
+      "longitude": 17.905077
+    },
+    {
+      "name": "Wejście 37 Lubiatowo",
+      "latitude": 54.821868,
+      "longitude": 17.889528
+    },
+    {
+      "name": "Wejście 5",
+      "latitude": 54.458536,
+      "longitude": 18.561487
+    },
+    {
+      "name": "Wiekowo Plaża",
+      "latitude": 52.444704,
+      "longitude": 17.866654
+    },
+    {
+      "name": "Witoszewo",
+      "latitude": 53.819979,
+      "longitude": 19.506671
+    },
+    {
+      "name": "Wyspa Mała",
+      "latitude": 49.373884,
+      "longitude": 22.454631
+    },
+    {
+      "name": "Zacisze Pomiechówek",
+      "latitude": 52.490484,
+      "longitude": 20.714408
+    },
+    {
+      "name": "Zakręt",
+      "latitude": 53.790155,
+      "longitude": 20.411656
+    },
+    {
+      "name": "Zalew Czyste",
+      "latitude": 50.146966,
+      "longitude": 22.4761
+    },
+    {
+      "name": "Zatopiony las koło Czołpina",
+      "latitude": 54.704389,
+      "longitude": 17.172032
+    },
+    {
+      "name": "Zielona plaża",
+      "latitude": 49.359737,
+      "longitude": 22.44926
+    },
+    {
+      "name": "Zielona plaża",
+      "latitude": 54.722575,
+      "longitude": 18.416224
+    },
+    {
+      "name": "Zielona Zatoka",
+      "latitude": 50.434819,
+      "longitude": 17.736297
+    },
+    {
+      "name": "Złote Piaski",
+      "latitude": 53.727963,
+      "longitude": 18.502468
+    },
+    {
+      "name": "Świbno",
+      "latitude": 54.346471,
+      "longitude": 18.910868
+    },
+    {
+      "name": "Żółte Piaski",
+      "latitude": 53.835884,
+      "longitude": 22.384718
+    }
+  ],
+  "meta": {
+    "title": "Polska — plaże - Bezpłatne pobieranie",
+    "description": "Plaże w Polsce (OpenStreetMap) Zawiera 450 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — plaże | ListBase",
+    "seo_description": "Pobierz Polska — plaże — 450 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 450 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

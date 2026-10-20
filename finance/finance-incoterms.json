@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Zbiór Danych Reguł i Definicji Incoterms 2020",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "Na warunkach „Ex Works” (EXW)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "Brak (towar dostępny w siedzibie)",
+      "buyer_pays": "Cały transport, ubezpieczenie, cło",
+      "description": "Kupujący odbiera towary z lokalizacji sprzedawcy"
+    },
+    {
+      "code": "FCA",
+      "name": "Na warunkach „Free Carrier” (FCA)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Dostawa do przewoźnika, cło eksportowe",
+      "buyer_pays": "Główny przewóz, ubezpieczenie, cło importowe",
+      "description": "Sprzedawca dostarcza towary do przewoźnika lub wyznaczonego miejsca"
+    },
+    {
+      "code": "CPT",
+      "name": "Na warunkach „Carriage Paid To” (CPT)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Przewóz do miejsca przeznaczenia, cło eksportowe",
+      "buyer_pays": "Ubezpieczenie, cło importowe, rozładunek",
+      "description": "Sprzedawca pokrywa koszty przewozu, ryzyko przechodzi w momencie przekazania przewoźnikowi"
+    },
+    {
+      "code": "CIP",
+      "name": "Na warunkach „Carriage and Insurance Paid To” (CIP)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Przewóz, ubezpieczenie do miejsca przeznaczenia, cło eksportowe",
+      "buyer_pays": "Cło importowe, rozładunek",
+      "description": "Podobnie jak CPT, ale sprzedawca pokrywa również koszty ubezpieczenia"
+    },
+    {
+      "code": "DAP",
+      "name": "Na warunkach „Delivered at Place” (DAP)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Cały transport do miejsca przeznaczenia, cło eksportowe",
+      "buyer_pays": "Rozładunek, cło importowe",
+      "description": "Sprzedawca dostarcza towary gotowe do rozładunku"
+    },
+    {
+      "code": "DPU",
+      "name": "Na warunkach „Delivered at Place Unloaded” (DPU)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "Cały transport, rozładunek, cło eksportowe",
+      "buyer_pays": "Cło importowe",
+      "description": "Sprzedawca rozładowuje towary w miejscu przeznaczenia"
+    },
+    {
+      "code": "DDP",
+      "name": "Na warunkach „Delivered Duty Paid” (DDP)",
+      "category": "Wszystkie Rodzaje Transportu",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Wszystko, łącznie z cłem importowym",
+      "buyer_pays": "Tylko rozładunek",
+      "description": "Maksymalne zobowiązanie dla sprzedawcy"
+    },
+    {
+      "code": "FAS",
+      "name": "Na warunkach „Free Alongside Ship” (FAS)",
+      "category": "Transport Morski/Wodny",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Transport do portu, cło eksportowe",
+      "buyer_pays": "Załadunek, fracht, ubezpieczenie, cło importowe",
+      "description": "Sprzedawca dostarcza towary wzdłuż burty statku"
+    },
+    {
+      "code": "FOB",
+      "name": "Na warunkach „Free on Board” (FOB)",
+      "category": "Transport Morski/Wodny",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Załadunek na statek, cło eksportowe",
+      "buyer_pays": "Fracht, ubezpieczenie, cło importowe",
+      "description": "Sprzedawca ładuje towary na statek"
+    },
+    {
+      "code": "CFR",
+      "name": "Na warunkach „Cost and Freight” (CFR)",
+      "category": "Transport Morski/Wodny",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Fracht do miejsca przeznaczenia, cło eksportowe",
+      "buyer_pays": "Ubezpieczenie, cło importowe, rozładunek",
+      "description": "Sprzedawca pokrywa koszty frachtu, ryzyko przechodzi w momencie załadunku"
+    },
+    {
+      "code": "CIF",
+      "name": "Na warunkach „Cost, Insurance and Freight” (CIF)",
+      "category": "Transport Morski/Wodny",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Fracht, ubezpieczenie, cło eksportowe",
+      "buyer_pays": "Cło importowe, rozładunek",
+      "description": "Podobnie jak CFR, ale sprzedawca pokrywa również koszty ubezpieczenia"
+    }
+  ],
+  "meta": {
+    "seo_title": "Reguły Incoterms 2020 - Pobierz za darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo reguły Incoterms 2020 dla handlu międzynarodowego. Uzyskaj 11 kluczowych terminów, w tym transfer ryzyka i alokację kosztów. Dostępne w Excel, CSV, PDF.",
+    "title": "Zbiór Danych Reguł i Definicji Incoterms 2020",
+    "description": "Ten zbiór danych zawiera zwięzłą listę 11 reguł Incoterms 2020, szczegółowo określającą odpowiedzialność za dostawę, transfer ryzyka i alokację kosztów w handlu międzynarodowym. Obejmuje wszystkie kluczowe aspekty dla kupujących i sprzedających.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 11 reguł Incoterms 2020 dla handlu globalnego.",
+      "Poznaj definicje, tryby transportu i punkty transferu ryzyka.",
+      "Zrozum odpowiedzialność sprzedawcy i kupującego za koszty.",
+      "Uprość międzynarodowe umowy wysyłkowe."
+    ],
+    "keywords": [
+      "incoterms 2020 lista",
+      "międzynarodowe warunki handlowe",
+      "zasady wysyłki 2020",
+      "incoterms excel pobierz",
+      "warunki handlowe csv",
+      "definicje logistyczne"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojego systemu ERP lub logistycznego, aby zautomatyzować generowanie klauzul umownych i kontrolę zgodności dla przesyłek międzynarodowych.",
+      "Wykorzystaj plik **Excel** do filtrowania terminów według trybu transportu, analizy alokacji kosztów i przygotowania materiałów szkoleniowych dla zespołów sprzedaży lub zaopatrzenia.",
+      "Wydrukuj wersję **PDF** jako szybki, offline przewodnik referencyjny w magazynach, salach lekcyjnych lub podczas negocjacji umów.",
+      "Wykorzystaj te dane do celów edukacyjnych, aby uczyć studentów o globalnym zarządzaniu łańcuchem dostaw i przepisach handlowych."
+    ]
+  },
+  "record_count": 11,
+  "title": "Zbiór Danych Reguł i Definicji Incoterms 2020"
+}

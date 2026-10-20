@@ -1,0 +1,1246 @@
+{
+  "id": "pl-parki-krajobrazowe-cdda",
+  "name": "Polska — parki krajobrazowe (CDDA)",
+  "title": "Polska — parki krajobrazowe (CDDA)",
+  "description": "118 obiektów, których nazwa w rejestrze CDDA zawiera „park krajobrazowy” (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 62868,
+      "nazwa": "Barlinecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 52.95012,
+      "srodek_lon": 15.23223,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148562,
+      "nazwa": "Bielańsko-Tyniecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.02699,
+      "srodek_lon": 19.81735,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12273,
+      "nazwa": "Bolimowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 52.00248,
+      "srodek_lon": 20.25594,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12265,
+      "nazwa": "Brodnicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 53.36399,
+      "srodek_lon": 19.38472,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62870,
+      "nazwa": "Brudzeński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 52.6235,
+      "srodek_lon": 19.5548,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106898,
+      "nazwa": "Cedyński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.88252,
+      "srodek_lon": 14.28011,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562926,
+      "nazwa": "Chełmiński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.33635,
+      "srodek_lon": 18.46614,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11638,
+      "nazwa": "Chełmski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.21992,
+      "srodek_lon": 23.54202,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106902,
+      "nazwa": "Chojnowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.01557,
+      "srodek_lon": 21.03401,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148569,
+      "nazwa": "Chęcińsko-Kielecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.80937,
+      "srodek_lon": 20.42381,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106894,
+      "nazwa": "Cisowsko-Orłowiński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.75246,
+      "srodek_lon": 20.92227,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148563,
+      "nazwa": "Ciężkowicko-Rożnowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 49.79717,
+      "srodek_lon": 20.88166,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62872,
+      "nazwa": "Ciśniańsko-Wetliński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.23819,
+      "srodek_lon": 22.28218,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106897,
+      "nazwa": "Czarnorzecko-Strzyżowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 49.81029,
+      "srodek_lon": 21.7266,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11459,
+      "nazwa": "Drawski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1979,
+      "srodek_lat": 53.64291,
+      "srodek_lon": 16.15514,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148558,
+      "nazwa": "Dłubniański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.2559,
+      "srodek_lon": 19.90994,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737611,
+      "nazwa": "Gorzowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 52.87605,
+      "srodek_lon": 15.32003,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11463,
+      "nazwa": "Gostynińsko-Włocławski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1979,
+      "srodek_lat": 52.54676,
+      "srodek_lon": 19.35465,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148572,
+      "nazwa": "Gryżyński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 52.13998,
+      "srodek_lon": 15.28449,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62876,
+      "nazwa": "Górznieńsko-Lidzbarski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 53.18835,
+      "srodek_lon": 19.72326,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11631,
+      "nazwa": "Iński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 53.43785,
+      "srodek_lon": 15.50382,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62880,
+      "nazwa": "Jaśliski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.413,
+      "srodek_lon": 21.81022,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106895,
+      "nazwa": "Jeleniowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.82779,
+      "srodek_lon": 21.17492,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11632,
+      "nazwa": "Kaszubski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 54.32063,
+      "srodek_lon": 18.03236,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11465,
+      "nazwa": "Kazimierski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1979,
+      "srodek_lat": 51.32455,
+      "srodek_lon": 22.00522,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148557,
+      "nazwa": "Kozienicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.49277,
+      "srodek_lon": 21.46123,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 196460,
+      "nazwa": "Kozubowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 50.42394,
+      "srodek_lon": 20.4758,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62881,
+      "nazwa": "Kozłowiecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.40058,
+      "srodek_lon": 22.54025,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177252,
+      "nazwa": "Krajeński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.43857,
+      "srodek_lon": 17.52147,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62882,
+      "nazwa": "Krasnobrodzki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.51199,
+      "srodek_lon": 23.22496,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62883,
+      "nazwa": "Krzczonowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.02531,
+      "srodek_lon": 22.77722,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148573,
+      "nazwa": "Krzesiński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 52.06049,
+      "srodek_lon": 14.80284,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11634,
+      "nazwa": "Książański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.84959,
+      "srodek_lon": 16.29267,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62884,
+      "nazwa": "Lednicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 52.55052,
+      "srodek_lon": 17.37982,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12272,
+      "nazwa": "Mazowiecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1987,
+      "srodek_lat": 52.07041,
+      "srodek_lon": 21.3407,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11460,
+      "nazwa": "Mazurski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1977,
+      "srodek_lat": 53.72875,
+      "srodek_lon": 21.57566,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555691999,
+      "nazwa": "Miedzichowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 52.41885,
+      "srodek_lon": 15.85069,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106903,
+      "nazwa": "Nadbużański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.57062,
+      "srodek_lon": 22.05182,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11457,
+      "nazwa": "Nadmorski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1978,
+      "srodek_lat": 54.71993,
+      "srodek_lon": 18.47119,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148555,
+      "nazwa": "Nadnidziański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 50.43735,
+      "srodek_lon": 20.60916,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177256,
+      "nazwa": "Nadwarciański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 52.17854,
+      "srodek_lon": 17.87084,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62886,
+      "nazwa": "Nadwieprzański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.24154,
+      "srodek_lon": 22.93885,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562925,
+      "nazwa": "Nadwiślański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 53.40022,
+      "srodek_lon": 18.48876,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148575,
+      "nazwa": "Park Krajobrazowy Beskidu Małego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 49.78561,
+      "srodek_lon": 19.30528,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 196461,
+      "nazwa": "Park Krajobrazowy Beskidu Śląskiego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 49.66703,
+      "srodek_lon": 18.95097,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62871,
+      "nazwa": "Park Krajobrazowy Chełmy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 51.0278,
+      "srodek_lon": 16.04999,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106906,
+      "nazwa": "Park Krajobrazowy Cysterskie Kompozycje Krajobrazowe Rud Wielkich",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 50.16033,
+      "srodek_lon": 18.48739,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 388682,
+      "nazwa": "Park Krajobrazowy Dolina Baryczy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 51.50561,
+      "srodek_lon": 17.30905,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 196462,
+      "nazwa": "Park Krajobrazowy Dolina Bystrzycy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 51.01565,
+      "srodek_lon": 16.73835,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106908,
+      "nazwa": "Park Krajobrazowy Dolina Jezierzycy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 51.35525,
+      "srodek_lon": 16.54726,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11749,
+      "nazwa": "Park Krajobrazowy Dolina Słupi",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 54.29565,
+      "srodek_lon": 17.30384,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148559,
+      "nazwa": "Park Krajobrazowy Dolinki Krakowskie",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.17996,
+      "srodek_lon": 19.69844,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62874,
+      "nazwa": "Park Krajobrazowy Doliny Sanu",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.20557,
+      "srodek_lon": 22.63244,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62879,
+      "nazwa": "Park Krajobrazowy Gór Sowich",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 50.66545,
+      "srodek_lon": 16.51438,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62878,
+      "nazwa": "Park Krajobrazowy Gór Słonnych",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.53878,
+      "srodek_lon": 22.49162,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62875,
+      "nazwa": "Park Krajobrazowy Góra Św. Anny",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.45586,
+      "srodek_lon": 18.18086,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62877,
+      "nazwa": "Park Krajobrazowy Góry Opawskie",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.28626,
+      "srodek_lon": 17.45222,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11466,
+      "nazwa": "Park Krajobrazowy Lasy Janowskie",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1984,
+      "srodek_lat": 50.65937,
+      "srodek_lon": 22.33976,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177255,
+      "nazwa": "Park Krajobrazowy Lasy nad Górną Liswartą",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 50.73929,
+      "srodek_lon": 18.81603,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12267,
+      "nazwa": "Park Krajobrazowy Mierzeja Wiślana",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 54.37557,
+      "srodek_lon": 19.38022,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62885,
+      "nazwa": "Park Krajobrazowy Międzyrzecza Warty i Widawki",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1989,
+      "srodek_lat": 51.43469,
+      "srodek_lon": 18.86473,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148564,
+      "nazwa": "Park Krajobrazowy Pasma Brzanki",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 49.84606,
+      "srodek_lon": 21.17577,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62888,
+      "nazwa": "Park Krajobrazowy Pogórza Przemyskiego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.72757,
+      "srodek_lon": 22.52355,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106901,
+      "nazwa": "Park Krajobrazowy Pojezierza Iławskiego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 53.74644,
+      "srodek_lon": 19.53088,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62887,
+      "nazwa": "Park Krajobrazowy Pojezierze Łęczyńskie",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.4476,
+      "srodek_lon": 22.9725,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106905,
+      "nazwa": "Park Krajobrazowy Promno",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.44531,
+      "srodek_lon": 17.31269,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106904,
+      "nazwa": "Park Krajobrazowy Puszcza Zielonka",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.54654,
+      "srodek_lon": 17.1,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 19017,
+      "nazwa": "Park Krajobrazowy Puszczy Knyszyńskiej im. profesora Witolda Sławińskiego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 53.2427,
+      "srodek_lon": 23.38053,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148579,
+      "nazwa": "Park Krajobrazowy Puszczy Rominckiej",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 54.32393,
+      "srodek_lon": 22.55248,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62892,
+      "nazwa": "Park Krajobrazowy Puszczy Solskiej",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.3928,
+      "srodek_lon": 23.11651,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148553,
+      "nazwa": "Park Krajobrazowy Stawki",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1982,
+      "srodek_lat": 50.79267,
+      "srodek_lon": 19.45939,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177260,
+      "nazwa": "Park Krajobrazowy Sudetów Wałbrzyskich",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 50.70076,
+      "srodek_lon": 16.25002,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148550,
+      "nazwa": "Park Krajobrazowy Wysoczyzny Elbląskiej",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 54.26154,
+      "srodek_lon": 19.50226,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106907,
+      "nazwa": "Park Krajobrazowy Wzgórz Dylewskich",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 53.53898,
+      "srodek_lon": 19.92799,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 196464,
+      "nazwa": "Park Krajobrazowy Wzniesień Łódzkich",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 51.84438,
+      "srodek_lon": 19.62999,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148551,
+      "nazwa": "Park Krajobrazowy im. Gen. Dezyderego Chłapowskiego",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 52.05621,
+      "srodek_lon": 16.82223,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177254,
+      "nazwa": "Park Krajobrazowy Łuk Mużakowa",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 2001,
+      "srodek_lat": 51.59979,
+      "srodek_lon": 14.82776,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11639,
+      "nazwa": "Poleski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.44395,
+      "srodek_lon": 23.15333,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 19015,
+      "nazwa": "Popradzki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1987,
+      "srodek_lat": 49.42927,
+      "srodek_lon": 20.77402,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177257,
+      "nazwa": "Powidzki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 52.46258,
+      "srodek_lon": 17.97395,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62889,
+      "nazwa": "Południoworoztoczański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1989,
+      "srodek_lat": 50.26617,
+      "srodek_lon": 23.42886,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 19016,
+      "nazwa": "Przedborski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.99997,
+      "srodek_lon": 20.01089,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177258,
+      "nazwa": "Przemkowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1997,
+      "srodek_lat": 51.49435,
+      "srodek_lon": 15.77474,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62891,
+      "nazwa": "Przemęcki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 51.94041,
+      "srodek_lon": 16.30214,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12271,
+      "nazwa": "Pszczewski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 52.47344,
+      "srodek_lon": 15.75016,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148571,
+      "nazwa": "Rogaliński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1997,
+      "srodek_lat": 52.19694,
+      "srodek_lon": 16.93566,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62893,
+      "nazwa": "Rudawski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1989,
+      "srodek_lat": 50.83476,
+      "srodek_lon": 15.90887,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148561,
+      "nazwa": "Rudniański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.03868,
+      "srodek_lon": 19.58609,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106893,
+      "nazwa": "Sieradowicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 51.01444,
+      "srodek_lon": 20.9651,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62894,
+      "nazwa": "Sierakowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 52.61942,
+      "srodek_lon": 16.13601,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148565,
+      "nazwa": "Skierbieszowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 50.8712,
+      "srodek_lon": 23.32126,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11640,
+      "nazwa": "Sobiborski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.42664,
+      "srodek_lon": 23.57881,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148568,
+      "nazwa": "Spalski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 51.54766,
+      "srodek_lon": 20.25632,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177259,
+      "nazwa": "Stobrawski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1999,
+      "srodek_lat": 50.89229,
+      "srodek_lon": 17.83709,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11641,
+      "nazwa": "Strzelecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 50.96359,
+      "srodek_lon": 23.89393,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106892,
+      "nazwa": "Suchedniowsko-Oblęgorski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 51.03576,
+      "srodek_lon": 20.66014,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106911,
+      "nazwa": "Sulejowski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 51.38407,
+      "srodek_lon": 19.89774,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11461,
+      "nazwa": "Suwalski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1976,
+      "srodek_lat": 54.25302,
+      "srodek_lon": 22.85555,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148554,
+      "nazwa": "Szaniecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 50.50471,
+      "srodek_lon": 20.7322,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62895,
+      "nazwa": "Szczebrzeszyński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1991,
+      "srodek_lat": 50.68234,
+      "srodek_lon": 22.86063,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11636,
+      "nazwa": "Szczeciński Park Krajobrazowy Puszcza Bukowa",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 53.32191,
+      "srodek_lon": 14.68517,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148560,
+      "nazwa": "Tenczyński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.10049,
+      "srodek_lon": 19.64579,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11458,
+      "nazwa": "Trójmiejski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1979,
+      "srodek_lat": 54.5108,
+      "srodek_lon": 18.37759,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12264,
+      "nazwa": "Tucholski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 53.68175,
+      "srodek_lon": 17.9356,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555595637,
+      "nazwa": "Wdecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 53.62258,
+      "srodek_lon": 18.31984,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11750,
+      "nazwa": "Wdzydzki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 54.00694,
+      "srodek_lon": 17.89433,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148567,
+      "nazwa": "Welski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 53.32944,
+      "srodek_lon": 19.86308,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 148577,
+      "nazwa": "Wiśnicko-Lipnicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1997,
+      "srodek_lat": 49.87867,
+      "srodek_lon": 20.48694,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62896,
+      "nazwa": "Wrzelowiecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.07354,
+      "srodek_lon": 21.89946,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 62897,
+      "nazwa": "Zaborski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 53.88105,
+      "srodek_lon": 17.56723,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11464,
+      "nazwa": "Załęczański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1978,
+      "srodek_lat": 51.11641,
+      "srodek_lon": 18.73822,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555638771,
+      "nazwa": "Załęczański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 51.05353,
+      "srodek_lon": 18.68013,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12268,
+      "nazwa": "Łagowsko-Sulęciński Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 52.35939,
+      "srodek_lon": 15.29856,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177253,
+      "nazwa": "Łomżyński Park Krajobrazowy Doliny Narwi",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 53.13061,
+      "srodek_lon": 22.19669,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555638774,
+      "nazwa": "Ślężański Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1988,
+      "srodek_lat": 50.84828,
+      "srodek_lon": 16.73041,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11635,
+      "nazwa": "Śnieżnicki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1981,
+      "srodek_lat": 50.28048,
+      "srodek_lon": 16.85972,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 106910,
+      "nazwa": "Żerkowsko-Czeszewski Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1994,
+      "srodek_lat": 52.11691,
+      "srodek_lon": 17.53965,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 12270,
+      "nazwa": "Żywiecki Park Krajobrazowy",
+      "kategoria_z_nazwy": "park krajobrazowy",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 49.51442,
+      "srodek_lon": 19.16324,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — parki krajobrazowe (CDDA) - Bezpłatne pobieranie",
+    "description": "118 obiektów, których nazwa w rejestrze CDDA zawiera „park krajobrazowy” (podzbiór pl-obszary-chronione-cdda). Zawiera 118 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — parki krajobrazowe (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — parki krajobrazowe (CDDA) — 118 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 118 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

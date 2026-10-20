@@ -1,0 +1,196 @@
+{
+  "id": "pl-wielkopolskie-counties",
+  "name": "Województwo wielkopolskie — powiaty",
+  "title": "Województwo wielkopolskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie wielkopolskim (województwo wielkopolskie) — 31 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the wielkopolskie voivodeship — 31 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 266,
+      "name": "chodzieski",
+      "slug": "chodzieski"
+    },
+    {
+      "county_id": 267,
+      "name": "czarnkowsko-trzcianecki",
+      "slug": "czarnkowsko-trzcianecki"
+    },
+    {
+      "county_id": 268,
+      "name": "gnieźnieński",
+      "slug": "gnieznienski"
+    },
+    {
+      "county_id": 269,
+      "name": "gostyński",
+      "slug": "gostynski"
+    },
+    {
+      "county_id": 270,
+      "name": "grodziski",
+      "slug": "grodziski"
+    },
+    {
+      "county_id": 271,
+      "name": "jarociński",
+      "slug": "jarocinski"
+    },
+    {
+      "county_id": 272,
+      "name": "kaliski",
+      "slug": "kaliski"
+    },
+    {
+      "county_id": 274,
+      "name": "kolski",
+      "slug": "kolski"
+    },
+    {
+      "county_id": 275,
+      "name": "koniński",
+      "slug": "koninski"
+    },
+    {
+      "county_id": 276,
+      "name": "kościański",
+      "slug": "koscianski"
+    },
+    {
+      "county_id": 277,
+      "name": "krotoszyński",
+      "slug": "krotoszynski"
+    },
+    {
+      "county_id": 273,
+      "name": "kępiński",
+      "slug": "kepinski"
+    },
+    {
+      "county_id": 278,
+      "name": "leszczyński",
+      "slug": "leszczynski"
+    },
+    {
+      "county_id": 279,
+      "name": "międzychodzki",
+      "slug": "miedzychodzki"
+    },
+    {
+      "county_id": 280,
+      "name": "nowotomyski",
+      "slug": "nowotomyski"
+    },
+    {
+      "county_id": 281,
+      "name": "obornicki",
+      "slug": "obornicki"
+    },
+    {
+      "county_id": 282,
+      "name": "ostrowski",
+      "slug": "ostrowski"
+    },
+    {
+      "county_id": 283,
+      "name": "ostrzeszowski",
+      "slug": "ostrzeszowski"
+    },
+    {
+      "county_id": 284,
+      "name": "pilski",
+      "slug": "pilski"
+    },
+    {
+      "county_id": 285,
+      "name": "pleszewski",
+      "slug": "pleszewski"
+    },
+    {
+      "county_id": 286,
+      "name": "poznański",
+      "slug": "poznanski"
+    },
+    {
+      "county_id": 287,
+      "name": "rawicki",
+      "slug": "rawicki"
+    },
+    {
+      "county_id": 289,
+      "name": "szamotulski",
+      "slug": "szamotulski"
+    },
+    {
+      "county_id": 288,
+      "name": "słupecki",
+      "slug": "slupecki"
+    },
+    {
+      "county_id": 292,
+      "name": "turecki",
+      "slug": "turecki"
+    },
+    {
+      "county_id": 294,
+      "name": "wolsztyński",
+      "slug": "wolsztynski"
+    },
+    {
+      "county_id": 295,
+      "name": "wrzesiński",
+      "slug": "wrzesinski"
+    },
+    {
+      "county_id": 293,
+      "name": "wągrowiecki",
+      "slug": "wagrowiecki"
+    },
+    {
+      "county_id": 296,
+      "name": "złotowski",
+      "slug": "zlotowski"
+    },
+    {
+      "county_id": 290,
+      "name": "średzki",
+      "slug": "sredzki"
+    },
+    {
+      "county_id": 291,
+      "name": "śremski",
+      "slug": "sremski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo wielkopolskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie wielkopolskim (województwo wielkopolskie) — 31 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the wielkopolskie voivodeship — 31 entries. Excludes city-counties (see pl-city-counties). Zawiera 31 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo wielkopolskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo wielkopolskie — powiaty — 31 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 31 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

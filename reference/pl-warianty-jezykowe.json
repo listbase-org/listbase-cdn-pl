@@ -1,0 +1,196 @@
+{
+  "id": "pl-warianty-jezykowe",
+  "name": "Warianty językowe — nazwy po polsku (CLDR)",
+  "title": "Warianty językowe — nazwy po polsku (CLDR)",
+  "description": "Kody wariantów językowych BCP 47 i ich polskie nazwy z lokalizacji pl w CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "nazwa": "tradycyjna ortografia niemiecka"
+    },
+    {
+      "id": 2,
+      "code": "1994",
+      "nazwa": "standardowa ortografia regionu Resia"
+    },
+    {
+      "id": 3,
+      "code": "1996",
+      "nazwa": "ortografia niemiecka z 1996 r."
+    },
+    {
+      "id": 4,
+      "code": "1606NICT",
+      "nazwa": "szesnastowieczny francuski"
+    },
+    {
+      "id": 5,
+      "code": "1694ACAD",
+      "nazwa": "siedemnastowieczny francuski"
+    },
+    {
+      "id": 6,
+      "code": "AREVELA",
+      "nazwa": "ormiański wchodni"
+    },
+    {
+      "id": 7,
+      "code": "AREVMDA",
+      "nazwa": "ormiański zachodni"
+    },
+    {
+      "id": 8,
+      "code": "BAKU1926",
+      "nazwa": "turecki zunifikowany alfabet łaciński"
+    },
+    {
+      "id": 9,
+      "code": "BISKE",
+      "nazwa": "dialekt San Giorgio/Bila"
+    },
+    {
+      "id": 10,
+      "code": "BOONT",
+      "nazwa": "dialekt Boontling"
+    },
+    {
+      "id": 11,
+      "code": "FONIPA",
+      "nazwa": "fonetyczny międzynarodowy"
+    },
+    {
+      "id": 12,
+      "code": "FONUPA",
+      "nazwa": "fonetyczny"
+    },
+    {
+      "id": 13,
+      "code": "KKCOR",
+      "nazwa": "ortografia wspólna"
+    },
+    {
+      "id": 14,
+      "code": "LIPAW",
+      "nazwa": "dialekt Lipovaz w regionie Resia"
+    },
+    {
+      "id": 15,
+      "code": "MONOTON",
+      "nazwa": "monotoniczny"
+    },
+    {
+      "id": 16,
+      "code": "NEDIS",
+      "nazwa": "dialekt Natisone"
+    },
+    {
+      "id": 17,
+      "code": "NJIVA",
+      "nazwa": "dialekt Gniva/Njiva"
+    },
+    {
+      "id": 18,
+      "code": "OSOJS",
+      "nazwa": "dialekt Oseacco/Osojane"
+    },
+    {
+      "id": 19,
+      "code": "POLYTON",
+      "nazwa": "politoniczny"
+    },
+    {
+      "id": 20,
+      "code": "POSIX",
+      "nazwa": "komputerowy"
+    },
+    {
+      "id": 21,
+      "code": "REVISED",
+      "nazwa": "ortografia zreformowana"
+    },
+    {
+      "id": 22,
+      "code": "ROZAJ",
+      "nazwa": "dialekt regionu Resia"
+    },
+    {
+      "id": 23,
+      "code": "SAAHO",
+      "nazwa": "dialekt Saho"
+    },
+    {
+      "id": 24,
+      "code": "SCOTLAND",
+      "nazwa": "standardowy szkocki angielski"
+    },
+    {
+      "id": 25,
+      "code": "SCOUSE",
+      "nazwa": "dialekt Scouse"
+    },
+    {
+      "id": 26,
+      "code": "SOLBA",
+      "nazwa": "dialekt Stolvizza/Solbica"
+    },
+    {
+      "id": 27,
+      "code": "TARASK",
+      "nazwa": "ortografia taraszkiewicka"
+    },
+    {
+      "id": 28,
+      "code": "UCCOR",
+      "nazwa": "ortografia ujednolicona"
+    },
+    {
+      "id": 29,
+      "code": "UCRCOR",
+      "nazwa": "zreformowana ortografia ujednolicona"
+    },
+    {
+      "id": 30,
+      "code": "VALENCIA",
+      "nazwa": "walencki"
+    },
+    {
+      "id": 31,
+      "code": "WADEGILE",
+      "nazwa": "latynizacja Wade’a i Gilesa"
+    }
+  ],
+  "meta": {
+    "title": "Warianty językowe — nazwy po polsku (CLDR) - Bezpłatne pobieranie",
+    "description": "Kody wariantów językowych BCP 47 i ich polskie nazwy z lokalizacji pl w CLDR. Zawiera 31 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Warianty językowe — nazwy po polsku (CLDR) | ListBase",
+    "seo_description": "Pobierz Warianty językowe — nazwy po polsku (CLDR) — 31 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 31 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "id": "pl-podkarpackie-cities",
+  "name": "Województwo podkarpackie — miasta",
+  "title": "Województwo podkarpackie — miasta",
+  "description": "Lista miast w województwie podkarpackim (województwo podkarpackie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the podkarpackie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 519,
+      "name": "Baranów Sandomierski",
+      "slug": "baranow-sandomierski",
+      "name_locative": "Baranowie Sandomierskim",
+      "county_id": 185,
+      "county_name": "tarnobrzeski",
+      "latitude": 50.4994982,
+      "longitude": 21.5417887
+    },
+    {
+      "city_id": 510,
+      "name": "Boguchwała",
+      "slug": "boguchwala",
+      "name_locative": "Boguchwale",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 49.9806882,
+      "longitude": 21.9391822
+    },
+    {
+      "city_id": 477,
+      "name": "Brzostek",
+      "slug": "brzostek",
+      "name_locative": "Brzostku",
+      "county_id": 168,
+      "county_name": "dębicki",
+      "latitude": 49.8784697,
+      "longitude": 21.411865
+    },
+    {
+      "city_id": 475,
+      "name": "Brzozów",
+      "slug": "brzozow",
+      "name_locative": "Brzozowie",
+      "county_id": 167,
+      "county_name": "brzozowski",
+      "latitude": 49.6950395,
+      "longitude": 22.0196537
+    },
+    {
+      "city_id": 509,
+      "name": "Błażowa",
+      "slug": "blazowa",
+      "name_locative": "Błażowej",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 49.8856022,
+      "longitude": 22.1008013
+    },
+    {
+      "city_id": 492,
+      "name": "Cieszanów",
+      "slug": "cieszanow",
+      "name_locative": "Cieszanowie",
+      "county_id": 174,
+      "county_name": "lubaczowski",
+      "latitude": 50.2454329,
+      "longitude": 23.1301265
+    },
+    {
+      "city_id": 502,
+      "name": "Dubiecko",
+      "slug": "dubiecko",
+      "name_locative": "Dubiecku",
+      "county_id": 178,
+      "county_name": "przemyski",
+      "latitude": 49.8253187,
+      "longitude": 22.3916222
+    },
+    {
+      "city_id": 485,
+      "name": "Dukla",
+      "slug": "dukla",
+      "name_locative": "Dukli",
+      "county_id": 172,
+      "county_name": "krośnieński",
+      "latitude": 49.55636,
+      "longitude": 21.6847523
+    },
+    {
+      "city_id": 508,
+      "name": "Dynów",
+      "slug": "dynow",
+      "name_locative": "Dynowie",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 49.81377735,
+      "longitude": 22.23809436
+    },
+    {
+      "city_id": 476,
+      "name": "Dębica",
+      "slug": "debica",
+      "name_locative": "Dębicy",
+      "county_id": 168,
+      "county_name": "dębicki",
+      "latitude": 50.04611635,
+      "longitude": 21.41276155
+    },
+    {
+      "city_id": 511,
+      "name": "Głogów Małopolski",
+      "slug": "glogow-malopolski",
+      "name_locative": "Głogowie Małopolskim",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 50.1511809,
+      "longitude": 21.9627571
+    },
+    {
+      "city_id": 486,
+      "name": "Iwonicz-Zdrój",
+      "slug": "iwonicz-zdroj",
+      "name_locative": "Iwoniczu-Zdroju",
+      "county_id": 172,
+      "county_name": "krośnieński",
+      "latitude": 49.5696688,
+      "longitude": 21.7932328
+    },
+    {
+      "city_id": 479,
+      "name": "Jarosław",
+      "slug": "jaroslaw",
+      "name_locative": "Jarosławiu",
+      "county_id": 169,
+      "county_name": "jarosławski",
+      "latitude": 50.0104958,
+      "longitude": 22.678605
+    },
+    {
+      "city_id": 482,
+      "name": "Jasło",
+      "slug": "jaslo",
+      "name_locative": "Jaśle",
+      "county_id": 170,
+      "county_name": "jasielski",
+      "latitude": 49.74696275,
+      "longitude": 21.49357602
+    },
+    {
+      "city_id": 487,
+      "name": "Jedlicze",
+      "slug": "jedlicze",
+      "name_locative": "Jedliczu",
+      "county_id": 172,
+      "county_name": "krośnieński",
+      "latitude": 49.714148,
+      "longitude": 21.6421513
+    },
+    {
+      "city_id": 504,
+      "name": "Kańczuga",
+      "slug": "kanczuga",
+      "name_locative": "Kańczudze",
+      "county_id": 179,
+      "county_name": "przeworski",
+      "latitude": 49.9843732,
+      "longitude": 22.4131838
+    },
+    {
+      "city_id": 484,
+      "name": "Kolbuszowa",
+      "slug": "kolbuszowa",
+      "name_locative": "Kolbuszowej",
+      "county_id": 171,
+      "county_name": "kolbuszowski",
+      "latitude": 50.2433277,
+      "longitude": 21.7754563
+    },
+    {
+      "city_id": 483,
+      "name": "Kołaczyce",
+      "slug": "kolaczyce",
+      "name_locative": "Kołaczycach",
+      "county_id": 170,
+      "county_name": "jasielski",
+      "latitude": 49.8076605,
+      "longitude": 21.4340516
+    },
+    {
+      "city_id": 521,
+      "name": "Lesko",
+      "slug": "lesko",
+      "name_locative": "Lesku",
+      "county_id": 186,
+      "county_name": "leski",
+      "latitude": 49.4689014,
+      "longitude": 22.3303816
+    },
+    {
+      "city_id": 489,
+      "name": "Leżajsk",
+      "slug": "lezajsk",
+      "name_locative": "Leżajsku",
+      "county_id": 173,
+      "county_name": "leżajski",
+      "latitude": 50.26539575,
+      "longitude": 22.42176054
+    },
+    {
+      "city_id": 491,
+      "name": "Lubaczów",
+      "slug": "lubaczow",
+      "name_locative": "Lubaczowie",
+      "county_id": 174,
+      "county_name": "lubaczowski",
+      "latitude": 50.15712635,
+      "longitude": 23.11793411
+    },
+    {
+      "city_id": 496,
+      "name": "Mielec",
+      "slug": "mielec",
+      "name_locative": "Mielcu",
+      "county_id": 176,
+      "county_name": "mielecki",
+      "latitude": 50.2895336,
+      "longitude": 21.4228289
+    },
+    {
+      "city_id": 493,
+      "name": "Narol",
+      "slug": "narol",
+      "name_locative": "Narolu",
+      "county_id": 174,
+      "county_name": "lubaczowski",
+      "latitude": 50.3488112,
+      "longitude": 23.3274426
+    },
+    {
+      "city_id": 499,
+      "name": "Nisko",
+      "slug": "nisko",
+      "name_locative": "Nisku",
+      "county_id": 177,
+      "county_name": "niżański",
+      "latitude": 50.5198985,
+      "longitude": 22.139886
+    },
+    {
+      "city_id": 520,
+      "name": "Nowa Dęba",
+      "slug": "nowa-deba",
+      "name_locative": "Nowej Dębie",
+      "county_id": 185,
+      "county_name": "tarnobrzeski",
+      "latitude": 50.4132684,
+      "longitude": 21.749056
+    },
+    {
+      "city_id": 490,
+      "name": "Nowa Sarzyna",
+      "slug": "nowa-sarzyna",
+      "name_locative": "Nowej Sarzynie",
+      "county_id": 173,
+      "county_name": "leżajski",
+      "latitude": 50.3198578,
+      "longitude": 22.3433771
+    },
+    {
+      "city_id": 494,
+      "name": "Oleszyce",
+      "slug": "oleszyce",
+      "name_locative": "Oleszycach",
+      "county_id": 174,
+      "county_name": "lubaczowski",
+      "latitude": 50.1682003,
+      "longitude": 23.0314836
+    },
+    {
+      "city_id": 478,
+      "name": "Pilzno",
+      "slug": "pilzno",
+      "name_locative": "Pilźnie",
+      "county_id": 168,
+      "county_name": "dębicki",
+      "latitude": 49.978578,
+      "longitude": 21.2908438
+    },
+    {
+      "city_id": 481,
+      "name": "Pruchnik",
+      "slug": "pruchnik",
+      "name_locative": "Pruchniku",
+      "county_id": 169,
+      "county_name": "jarosławski",
+      "latitude": 49.9061358,
+      "longitude": 22.5160585
+    },
+    {
+      "city_id": 497,
+      "name": "Przecław",
+      "slug": "przeclaw",
+      "name_locative": "Przecławiu",
+      "county_id": 176,
+      "county_name": "mielecki",
+      "latitude": 50.1939186,
+      "longitude": 21.4798564
+    },
+    {
+      "city_id": 503,
+      "name": "Przeworsk",
+      "slug": "przeworsk",
+      "name_locative": "Przeworsku",
+      "county_id": 179,
+      "county_name": "przeworski",
+      "latitude": 50.0544952,
+      "longitude": 22.50137899
+    },
+    {
+      "city_id": 498,
+      "name": "Radomyśl Wielki",
+      "slug": "radomysl-wielki",
+      "name_locative": "Radomyślu Wielkim",
+      "county_id": 176,
+      "county_name": "mielecki",
+      "latitude": 50.1963674,
+      "longitude": 21.2761596
+    },
+    {
+      "city_id": 480,
+      "name": "Radymno",
+      "slug": "radymno",
+      "name_locative": "Radymnie",
+      "county_id": 169,
+      "county_name": "jarosławski",
+      "latitude": 49.9540655,
+      "longitude": 22.82673336
+    },
+    {
+      "city_id": 506,
+      "name": "Ropczyce",
+      "slug": "ropczyce",
+      "name_locative": "Ropczycach",
+      "county_id": 180,
+      "county_name": "ropczycko-sędziszowski",
+      "latitude": 50.0528608,
+      "longitude": 21.6116324
+    },
+    {
+      "city_id": 500,
+      "name": "Rudnik nad Sanem",
+      "slug": "rudnik-nad-sanem",
+      "name_locative": "Rudniku nad Sanem",
+      "county_id": 177,
+      "county_name": "niżański",
+      "latitude": 50.4447917,
+      "longitude": 22.2438721
+    },
+    {
+      "city_id": 488,
+      "name": "Rymanów",
+      "slug": "rymanow",
+      "name_locative": "Rymanowie",
+      "county_id": 172,
+      "county_name": "krośnieński",
+      "latitude": 49.576131,
+      "longitude": 21.8676433
+    },
+    {
+      "city_id": 514,
+      "name": "Sanok",
+      "slug": "sanok",
+      "name_locative": "Sanoku",
+      "county_id": 182,
+      "county_name": "sanocki",
+      "latitude": 49.5567406,
+      "longitude": 22.21170168
+    },
+    {
+      "city_id": 505,
+      "name": "Sieniawa",
+      "slug": "sieniawa",
+      "name_locative": "Sieniawie",
+      "county_id": 179,
+      "county_name": "przeworski",
+      "latitude": 50.1780728,
+      "longitude": 22.6102155
+    },
+    {
+      "city_id": 512,
+      "name": "Sokołów Małopolski",
+      "slug": "sokolow-malopolski",
+      "name_locative": "Sokołowie Małopolskim",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 50.2311643,
+      "longitude": 22.1189272
+    },
+    {
+      "city_id": 516,
+      "name": "Stalowa Wola",
+      "slug": "stalowa-wola",
+      "name_locative": "Stalowej Woli",
+      "county_id": 183,
+      "county_name": "stalowowolski",
+      "latitude": 50.5653105,
+      "longitude": 22.0644075
+    },
+    {
+      "city_id": 518,
+      "name": "Strzyżów",
+      "slug": "strzyzow",
+      "name_locative": "Strzyżowie",
+      "county_id": 184,
+      "county_name": "strzyżowski",
+      "latitude": 49.8702087,
+      "longitude": 21.7856291
+    },
+    {
+      "city_id": 507,
+      "name": "Sędziszów Małopolski",
+      "slug": "sedziszow-malopolski",
+      "name_locative": "Sędziszowie Małopolskim",
+      "county_id": 180,
+      "county_name": "ropczycko-sędziszowski",
+      "latitude": 50.0715996,
+      "longitude": 21.7007524
+    },
+    {
+      "city_id": 513,
+      "name": "Tyczyn",
+      "slug": "tyczyn",
+      "name_locative": "Tyczynie",
+      "county_id": 181,
+      "county_name": "rzeszowski",
+      "latitude": 49.9637919,
+      "longitude": 22.0336719
+    },
+    {
+      "city_id": 501,
+      "name": "Ulanów",
+      "slug": "ulanow",
+      "name_locative": "Ulanowie",
+      "county_id": 177,
+      "county_name": "niżański",
+      "latitude": 50.4904352,
+      "longitude": 22.2625676
+    },
+    {
+      "city_id": 474,
+      "name": "Ustrzyki Dolne",
+      "slug": "ustrzyki-dolne",
+      "name_locative": "Ustrzykach Dolnych",
+      "county_id": 166,
+      "county_name": "bieszczadzki",
+      "latitude": 49.4301874,
+      "longitude": 22.5877003
+    },
+    {
+      "city_id": 515,
+      "name": "Zagórz",
+      "slug": "zagorz",
+      "name_locative": "Zagórzu",
+      "county_id": 182,
+      "county_name": "sanocki",
+      "latitude": 49.5098822,
+      "longitude": 22.2632894
+    },
+    {
+      "city_id": 517,
+      "name": "Zaklików",
+      "slug": "zaklikow",
+      "name_locative": "Zaklikowie",
+      "county_id": 183,
+      "county_name": "stalowowolski",
+      "latitude": 50.7554368,
+      "longitude": 22.1020214
+    },
+    {
+      "city_id": 495,
+      "name": "Łańcut",
+      "slug": "lancut",
+      "name_locative": "Łańcucie",
+      "county_id": 175,
+      "county_name": "łańcucki",
+      "latitude": 50.06959495,
+      "longitude": 22.2335056
+    }
+  ],
+  "meta": {
+    "title": "Województwo podkarpackie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie podkarpackim (województwo podkarpackie) — 48 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the podkarpackie voivodeship — 48 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 48 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo podkarpackie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo podkarpackie — miasta — 48 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 48 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

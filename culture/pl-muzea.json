@@ -1,0 +1,6451 @@
+{
+  "id": "pl-muzea",
+  "name": "Muzea w Polsce (Museums in Poland)",
+  "title": "Muzea w Polsce (Museums in Poland)",
+  "description": "Lista 710 muzeów w Polsce z OpenStreetMap — nazwa, miasto, współrzędne i strona internetowa.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 710,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Apteka Muzeum",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.248506,
+      "longitude": 22.568608,
+      "website": ""
+    },
+    {
+      "name": "Apteka Pod Orłem",
+      "name_en": "Under the Eagle Pharmacy",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.046236,
+      "longitude": 19.954148,
+      "website": ""
+    },
+    {
+      "name": "Archeopark Chotěbuz",
+      "name_en": "",
+      "city": "Pogwizdów",
+      "country": "Poland",
+      "latitude": 49.78765,
+      "longitude": 18.590176,
+      "website": ""
+    },
+    {
+      "name": "Archiwum Budowlane Oddział Muzeum Architektury",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.112944,
+      "longitude": 17.026264,
+      "website": ""
+    },
+    {
+      "name": "Archiwum muzealne",
+      "name_en": "",
+      "city": "Rzeszów",
+      "country": "Poland",
+      "latitude": 50.037023,
+      "longitude": 22.004596,
+      "website": ""
+    },
+    {
+      "name": "Baszta",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.324757,
+      "longitude": 21.952751,
+      "website": ""
+    },
+    {
+      "name": "Baszta Tkaczy",
+      "name_en": "",
+      "city": "Chojnów",
+      "country": "Poland",
+      "latitude": 51.273235,
+      "longitude": 15.932561,
+      "website": ""
+    },
+    {
+      "name": "Białostockie Muzeum Wsi",
+      "name_en": "",
+      "city": "Białystok",
+      "country": "Poland",
+      "latitude": 53.176887,
+      "longitude": 23.148542,
+      "website": ""
+    },
+    {
+      "name": "Bielawska Placówka Muzealna",
+      "name_en": "",
+      "city": "Bielawa",
+      "country": "Poland",
+      "latitude": 50.681424,
+      "longitude": 16.608163,
+      "website": ""
+    },
+    {
+      "name": "Bieszczadzkie Muzeum Kolejnictwa",
+      "name_en": "",
+      "city": "Komańcza",
+      "country": "Poland",
+      "latitude": 49.252311,
+      "longitude": 22.083004,
+      "website": ""
+    },
+    {
+      "name": "Brama Rzymska",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.411947,
+      "longitude": 21.964112,
+      "website": ""
+    },
+    {
+      "name": "Brama wjazdowa z Borek (XIX w.)",
+      "name_en": "",
+      "city": "Olsztynek",
+      "country": "Poland",
+      "latitude": 53.590606,
+      "longitude": 20.288809,
+      "website": "http://muzeumolsztynek.com.pl/"
+    },
+    {
+      "name": "Bunker Oder-Warthe-Bogen/MRU, Panzerwerk 716",
+      "name_en": "",
+      "city": "Lubrza",
+      "country": "Poland",
+      "latitude": 52.366416,
+      "longitude": 15.501102,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Bunker Oder-Warthe-Bogen/MRU, Panzerwerk 717",
+      "name_en": "",
+      "city": "Lubrza",
+      "country": "Poland",
+      "latitude": 52.371106,
+      "longitude": 15.50283,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Bunker Oder-Warthe-Bogen/MRU, Panzerwerk 719",
+      "name_en": "",
+      "city": "Międzyrzecz",
+      "country": "Poland",
+      "latitude": 52.381075,
+      "longitude": 15.504826,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Bunker Oder-Warthe-Bogen/MRU, Panzerwerk 724; Rezerwat nietopyrow",
+      "name_en": "",
+      "city": "Międzyrzecz",
+      "country": "Poland",
+      "latitude": 52.395661,
+      "longitude": 15.512097,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Bunkier Jeleń",
+      "name_en": "",
+      "city": "Tomaszów Mazowiecki",
+      "country": "Poland",
+      "latitude": 51.50352,
+      "longitude": 20.079628,
+      "website": ""
+    },
+    {
+      "name": "Bunkier Sztuki",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.063581,
+      "longitude": 19.934447,
+      "website": "http://bunkier.art.pl/"
+    },
+    {
+      "name": "Bunkry",
+      "name_en": "",
+      "city": "Filipów",
+      "country": "Poland",
+      "latitude": 54.099205,
+      "longitude": 22.647029,
+      "website": ""
+    },
+    {
+      "name": "Bunkry Blüchera",
+      "name_en": "",
+      "city": "Ustka",
+      "country": "Poland",
+      "latitude": 54.586399,
+      "longitude": 16.849202,
+      "website": "http://bunkryustka.pl"
+    },
+    {
+      "name": "BWA Olsztyn Galeria Sztuki",
+      "name_en": "",
+      "city": "Olsztyn",
+      "country": "Poland",
+      "latitude": 53.774858,
+      "longitude": 20.49146,
+      "website": ""
+    },
+    {
+      "name": "Centrum \"Osada średniowieczna\"",
+      "name_en": "",
+      "city": "Nowa Słupia",
+      "country": "Poland",
+      "latitude": 50.863122,
+      "longitude": 21.019429,
+      "website": ""
+    },
+    {
+      "name": "Centrum \"Synagoga\"",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.717916,
+      "longitude": 23.25407,
+      "website": ""
+    },
+    {
+      "name": "Centrum Dokumentacji Deportacji Górnoślązaków do ZSRR w 1945 roku",
+      "name_en": "",
+      "city": "Radzionków",
+      "country": "Poland",
+      "latitude": 50.408873,
+      "longitude": 18.914492,
+      "website": ""
+    },
+    {
+      "name": "Centrum Edukacji Archeologicznej \"BŁĘKITNY LEW\"",
+      "name_en": "Archaeological Education Centre \"Blue Lion\"",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.344823,
+      "longitude": 18.655156,
+      "website": "http://www.blekitnylew.pl/"
+    },
+    {
+      "name": "Centrum Geoedukacji",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.852589,
+      "longitude": 20.649726,
+      "website": ""
+    },
+    {
+      "name": "Centrum Hewellianum",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.356526,
+      "longitude": 18.638952,
+      "website": ""
+    },
+    {
+      "name": "Centrum Kultury \"Wisła\"",
+      "name_en": "",
+      "city": "Wyszogród",
+      "country": "Poland",
+      "latitude": 52.385665,
+      "longitude": 20.191998,
+      "website": ""
+    },
+    {
+      "name": "Centrum Kultury Żydowskiej",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.051373,
+      "longitude": 19.944384,
+      "website": ""
+    },
+    {
+      "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+      "name_en": "",
+      "city": "Kalisz",
+      "country": "Poland",
+      "latitude": 51.762204,
+      "longitude": 18.09271,
+      "website": "https://www.muzeumwkaliszu.pl/"
+    },
+    {
+      "name": "Centrum Tradycji Tkackiej",
+      "name_en": "",
+      "city": "Prudnik",
+      "country": "Poland",
+      "latitude": 50.322084,
+      "longitude": 17.582288,
+      "website": "http://www.muzeumprudnik.pl/muzeum-tresc-7-centrum_tradycji_tkackich.html"
+    },
+    {
+      "name": "Centrum Wikliniarstwa",
+      "name_en": "",
+      "city": "Rudnik nad Sanem",
+      "country": "Poland",
+      "latitude": 50.442739,
+      "longitude": 22.253234,
+      "website": ""
+    },
+    {
+      "name": "Chata Mazurska",
+      "name_en": "",
+      "city": "Szczytno",
+      "country": "Poland",
+      "latitude": 53.566704,
+      "longitude": 20.999627,
+      "website": ""
+    },
+    {
+      "name": "Chata Mazurska",
+      "name_en": "",
+      "city": "Ryn",
+      "country": "Poland",
+      "latitude": 53.919039,
+      "longitude": 21.444628,
+      "website": ""
+    },
+    {
+      "name": "Chatka Żeromskiego",
+      "name_en": "",
+      "city": "Nałęczów",
+      "country": "Poland",
+      "latitude": 51.289563,
+      "longitude": 22.21043,
+      "website": ""
+    },
+    {
+      "name": "Chlebowa Chata",
+      "name_en": "",
+      "city": "Górki Wielkie",
+      "country": "Poland",
+      "latitude": 49.75801,
+      "longitude": 18.866054,
+      "website": "http://www.chlebowachata.pl/"
+    },
+    {
+      "name": "Cmentarz austriacki",
+      "name_en": "",
+      "city": "Włodowice",
+      "country": "Poland",
+      "latitude": 50.583434,
+      "longitude": 19.447892,
+      "website": ""
+    },
+    {
+      "name": "Dalineum",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.408563,
+      "longitude": 16.935999,
+      "website": "https://www.facebook.com/dalineum"
+    },
+    {
+      "name": "Dar Pomorza",
+      "name_en": "",
+      "city": "Gdynia",
+      "country": "Poland",
+      "latitude": 54.519474,
+      "longitude": 18.552708,
+      "website": ""
+    },
+    {
+      "name": "Dawna Kopalnia Uranu Kletna",
+      "name_en": "Uranium mine Kletno",
+      "city": "Stronie Śląskie",
+      "country": "Poland",
+      "latitude": 50.248017,
+      "longitude": 16.844845,
+      "website": ""
+    },
+    {
+      "name": "Dawna Synagoga",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32172,
+      "longitude": 21.94808,
+      "website": ""
+    },
+    {
+      "name": "Dawna Wozownia",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.322502,
+      "longitude": 21.949327,
+      "website": ""
+    },
+    {
+      "name": "dawny schron prezydenta miasta Poznania",
+      "name_en": "",
+      "city": "Baranowo",
+      "country": "Poland",
+      "latitude": 52.44126,
+      "longitude": 16.808066,
+      "website": ""
+    },
+    {
+      "name": "Dawny Zajazd Pocztowy",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32075,
+      "longitude": 21.94658,
+      "website": ""
+    },
+    {
+      "name": "Dom Carla i Gerharta Hauptmannów - Muzeum Karkonoskie",
+      "name_en": "",
+      "city": "Szklarska Poręba",
+      "country": "Poland",
+      "latitude": 50.839296,
+      "longitude": 15.529944,
+      "website": ""
+    },
+    {
+      "name": "Dom dr Huberta",
+      "name_en": "",
+      "city": "Mińsk Mazowiecki",
+      "country": "Poland",
+      "latitude": 52.174917,
+      "longitude": 21.55208,
+      "website": ""
+    },
+    {
+      "name": "Dom Długosza",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.055631,
+      "longitude": 19.936794,
+      "website": ""
+    },
+    {
+      "name": "Dom Eskenów",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.009319,
+      "longitude": 18.60736,
+      "website": "http://www.muzeum.torun.pl/strona-27.html#_=_"
+    },
+    {
+      "name": "Dom Jana Petera",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.774237,
+      "longitude": 19.454795,
+      "website": ""
+    },
+    {
+      "name": "Dom Kultury \"Świt\"",
+      "name_en": "",
+      "city": "Targówek",
+      "country": "Poland",
+      "latitude": 52.284896,
+      "longitude": 21.021529,
+      "website": ""
+    },
+    {
+      "name": "Dom Lalki Adoptowanej",
+      "name_en": "",
+      "city": "Karpacz",
+      "country": "Poland",
+      "latitude": 50.776296,
+      "longitude": 15.746432,
+      "website": ""
+    },
+    {
+      "name": "Dom Leona Wyczółkowskiego",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.122137,
+      "longitude": 17.995129,
+      "website": "http://www.muzeum.bydgoszcz.pl"
+    },
+    {
+      "name": "Dom Mikołaja Kopernika",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.009276,
+      "longitude": 18.603998,
+      "website": "http://pl.wikipedia.org/wiki/Dom_Kopernika_w_Toruniu"
+    },
+    {
+      "name": "Dom Pamięci Stanisława Westwalewicza",
+      "name_en": "",
+      "city": "Tarnów",
+      "country": "Poland",
+      "latitude": 50.00561,
+      "longitude": 20.99219,
+      "website": ""
+    },
+    {
+      "name": "Dom Pastora",
+      "name_en": "",
+      "city": "Łomża",
+      "country": "Poland",
+      "latitude": 53.180878,
+      "longitude": 22.080368,
+      "website": ""
+    },
+    {
+      "name": "Dom Pod Krzyżem",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.063312,
+      "longitude": 19.941788,
+      "website": ""
+    },
+    {
+      "name": "Dom rodzinny majora Jana Piwnika Ponurego",
+      "name_en": "",
+      "city": "Baćkowice",
+      "country": "Poland",
+      "latitude": 50.84426,
+      "longitude": 21.24098,
+      "website": ""
+    },
+    {
+      "name": "Dom Spotkań z Historią",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.242386,
+      "longitude": 21.016663,
+      "website": ""
+    },
+    {
+      "name": "Dom Tarłowskich",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32374,
+      "longitude": 21.94844,
+      "website": ""
+    },
+    {
+      "name": "Dom Urbańczyka",
+      "name_en": "",
+      "city": "Chrzanów",
+      "country": "Poland",
+      "latitude": 50.142001,
+      "longitude": 19.401995,
+      "website": ""
+    },
+    {
+      "name": "Dom Wincentego Witosa",
+      "name_en": "",
+      "city": "Wierzchosławice",
+      "country": "Poland",
+      "latitude": 50.039881,
+      "longitude": 20.855861,
+      "website": ""
+    },
+    {
+      "name": "Dom z basztą",
+      "name_en": "",
+      "city": "Biecz",
+      "country": "Poland",
+      "latitude": 49.729997,
+      "longitude": 21.247476,
+      "website": ""
+    },
+    {
+      "name": "Dom Zwierzyniecki - Oddział Muzeum Historycznego Miasta Krakowa",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.055002,
+      "longitude": 19.908853,
+      "website": ""
+    },
+    {
+      "name": "Dom Żeromskiego",
+      "name_en": "",
+      "city": "Sopot",
+      "country": "Poland",
+      "latitude": 54.481456,
+      "longitude": 18.564067,
+      "website": "https://pl.m.wikipedia.org/wiki/Domek_Stefana_Żeromskiego_w_Gdyni-Orłowie"
+    },
+    {
+      "name": "Domek Gotycki",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.411345,
+      "longitude": 21.963184,
+      "website": ""
+    },
+    {
+      "name": "Domek Grecki",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.41223,
+      "longitude": 21.96553,
+      "website": ""
+    },
+    {
+      "name": "Dworek \"Du Chateau\"",
+      "name_en": "",
+      "city": "Hrubieszów",
+      "country": "Poland",
+      "latitude": 50.804164,
+      "longitude": 23.887648,
+      "website": ""
+    },
+    {
+      "name": "Dworek Józefa Wybickiego",
+      "name_en": "",
+      "city": "Stężyca",
+      "country": "Poland",
+      "latitude": 54.193207,
+      "longitude": 18.029777,
+      "website": ""
+    },
+    {
+      "name": "Dworek Kościuszków",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.26082,
+      "longitude": 22.513008,
+      "website": ""
+    },
+    {
+      "name": "Dworek Wincentego Pola",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.252232,
+      "longitude": 22.581458,
+      "website": ""
+    },
+    {
+      "name": "Dworek Zacisze",
+      "name_en": "",
+      "city": "Miechów",
+      "country": "Poland",
+      "latitude": 50.355152,
+      "longitude": 20.037599,
+      "website": ""
+    },
+    {
+      "name": "Dworek Zygmunta Krasińskiego",
+      "name_en": "",
+      "city": "Potok Złoty",
+      "country": "Poland",
+      "latitude": 50.714314,
+      "longitude": 19.439379,
+      "website": ""
+    },
+    {
+      "name": "Dwór",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32413,
+      "longitude": 21.94925,
+      "website": ""
+    },
+    {
+      "name": "Dwór i Muzeum Marii Konopnickiej w Bronowie",
+      "name_en": "",
+      "city": "Świnice Warckie",
+      "country": "Poland",
+      "latitude": 51.963228,
+      "longitude": 18.913255,
+      "website": "http://www.mariakonopnickawbronowie.pl/"
+    },
+    {
+      "name": "Dąbrowiecka Góra k/Otwocka - bunkier",
+      "name_en": "",
+      "city": "Celestynów",
+      "country": "Poland",
+      "latitude": 52.071005,
+      "longitude": 21.327339,
+      "website": ""
+    },
+    {
+      "name": "Ekomuzeum Kuźnia",
+      "name_en": "",
+      "city": "Debrzno",
+      "country": "Poland",
+      "latitude": 53.569743,
+      "longitude": 17.303166,
+      "website": ""
+    },
+    {
+      "name": "Ekspozycja Przyrodnicza",
+      "name_en": "",
+      "city": "Skała",
+      "country": "Poland",
+      "latitude": 50.209963,
+      "longitude": 19.829362,
+      "website": "http://www.ojcowskiparknarodowy.pl/main/muzeum.html"
+    },
+    {
+      "name": "Ernst-Wiechert-Gedenkstube",
+      "name_en": "",
+      "city": "Piecki",
+      "country": "Poland",
+      "latitude": 53.759475,
+      "longitude": 21.380084,
+      "website": ""
+    },
+    {
+      "name": "Europeum",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.061435,
+      "longitude": 19.929144,
+      "website": ""
+    },
+    {
+      "name": "Exhibition Ostwall/MRU",
+      "name_en": "",
+      "city": "Lubrza",
+      "country": "Poland",
+      "latitude": 52.371941,
+      "longitude": 15.506155,
+      "website": ""
+    },
+    {
+      "name": "Exploseum DAG Fabrik Bromberg",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.071248,
+      "longitude": 18.074953,
+      "website": ""
+    },
+    {
+      "name": "Expozícia Hviezdoslavovej Hájnikovej Ženy  Mila Urbana",
+      "name_en": "",
+      "city": "Zawoja",
+      "country": "Poland",
+      "latitude": 49.541259,
+      "longitude": 19.500323,
+      "website": "http://www.oravskemuzeum.sk/?get=qmT3zI5Wq[9MG1gG5}qmw1z5YWi}qHGLVg5Wq[g5}q9Vi5Wq0G[95}qJ3l[9MG1gG5W99}q0M05W9QMiQ"
+    },
+    {
+      "name": "Fort Rogowo",
+      "name_en": "",
+      "city": "Mrzeżyno",
+      "country": "Poland",
+      "latitude": 54.149038,
+      "longitude": 15.332383,
+      "website": ""
+    },
+    {
+      "name": "Fotoplastikon Warszawski",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.22859,
+      "longitude": 21.008643,
+      "website": "http://fotoplastikonwarszawski.pl/"
+    },
+    {
+      "name": "Galeria Café Silesia",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.303368,
+      "longitude": 18.786051,
+      "website": ""
+    },
+    {
+      "name": "Galeria Historii Miasta",
+      "name_en": "",
+      "city": "Jastrzębie Zdrój",
+      "country": "Poland",
+      "latitude": 49.949917,
+      "longitude": 18.568544,
+      "website": ""
+    },
+    {
+      "name": "Galeria Kamienny kwiatek",
+      "name_en": "",
+      "city": "Krzeszowice",
+      "country": "Poland",
+      "latitude": 50.126232,
+      "longitude": 19.653803,
+      "website": "http://kamiennykwiatek.weebly.com/"
+    },
+    {
+      "name": "Galeria M Odwach",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.104721,
+      "longitude": 17.031486,
+      "website": ""
+    },
+    {
+      "name": "Galeria Marii Ritter w Nowym Sączu",
+      "name_en": "",
+      "city": "Nowy Sącz",
+      "country": "Poland",
+      "latitude": 49.624414,
+      "longitude": 20.691978,
+      "website": "http://muzeum.sacz.pl/46,Galeria_Marii_Ritter_w_Nowym_Saczu.htm"
+    },
+    {
+      "name": "Galeria Na Skraju Puszczy",
+      "name_en": "",
+      "city": "Krynki",
+      "country": "Poland",
+      "latitude": 53.262441,
+      "longitude": 23.637964,
+      "website": ""
+    },
+    {
+      "name": "Galeria Sportowych Trofeów Adama Małysza",
+      "name_en": "",
+      "city": "Wisła",
+      "country": "Poland",
+      "latitude": 49.646843,
+      "longitude": 18.868588,
+      "website": "http://www.malysz.org/"
+    },
+    {
+      "name": "Galeria Sztuki Dawna Synagoga w Nowym Sączu",
+      "name_en": "",
+      "city": "Nowy Sącz",
+      "country": "Poland",
+      "latitude": 49.6277,
+      "longitude": 20.690316,
+      "website": ""
+    },
+    {
+      "name": "Galeria Sztuki Dawnej",
+      "name_en": "",
+      "city": "Szczecin",
+      "country": "Poland",
+      "latitude": 53.428053,
+      "longitude": 14.555061,
+      "website": ""
+    },
+    {
+      "name": "Galeria Sztuki im. Jana Tarasina",
+      "name_en": "",
+      "city": "Kalisz",
+      "country": "Poland",
+      "latitude": 51.762828,
+      "longitude": 18.092649,
+      "website": "http://tarasin.pl/"
+    },
+    {
+      "name": "Galeria Sztuki Ludowej",
+      "name_en": "",
+      "city": "Lubaczów",
+      "country": "Poland",
+      "latitude": 50.157204,
+      "longitude": 23.121465,
+      "website": ""
+    },
+    {
+      "name": "Galeria Sztuki Polskiej XIX wieku",
+      "name_en": "National Museum The Nineteenth Century Polish Art Gallery at the Sukiennice",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.061733,
+      "longitude": 19.937586,
+      "website": "http://mnk.pl/oddzial/galeria-sztuki-polskiej/o-oddziale"
+    },
+    {
+      "name": "Galeria Wiejska",
+      "name_en": "",
+      "city": "Filipów",
+      "country": "Poland",
+      "latitude": 54.263874,
+      "longitude": 22.78028,
+      "website": ""
+    },
+    {
+      "name": "Garnizon \"Nowowilejka\"",
+      "name_en": "",
+      "city": "Zakroczym",
+      "country": "Poland",
+      "latitude": 52.430169,
+      "longitude": 20.62515,
+      "website": ""
+    },
+    {
+      "name": "Gestapo Cells",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.070776,
+      "longitude": 19.924807,
+      "website": ""
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "name_en": "",
+      "city": "Szydłów",
+      "country": "Poland",
+      "latitude": 50.592496,
+      "longitude": 21.000891,
+      "website": "http://www.szydlow.pl/gck/"
+    },
+    {
+      "name": "Grodzisko Żmijowiska",
+      "name_en": "",
+      "city": "Wilków",
+      "country": "Poland",
+      "latitude": 51.218538,
+      "longitude": 21.900166,
+      "website": "http://zmijowiska.pl/"
+    },
+    {
+      "name": "Groty",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.41073,
+      "longitude": 21.96114,
+      "website": ""
+    },
+    {
+      "name": "Gród Pobiedziska",
+      "name_en": "",
+      "city": "Pobiedziska",
+      "country": "Poland",
+      "latitude": 52.476821,
+      "longitude": 17.249689,
+      "website": ""
+    },
+    {
+      "name": "Gubińska Izba Muzealna",
+      "name_en": "",
+      "city": "Gubin",
+      "country": "Poland",
+      "latitude": 51.950827,
+      "longitude": 14.727937,
+      "website": ""
+    },
+    {
+      "name": "Głucha Puszcza",
+      "name_en": "",
+      "city": "Orchowo",
+      "country": "Poland",
+      "latitude": 52.498307,
+      "longitude": 18.000176,
+      "website": ""
+    },
+    {
+      "name": "Hallerówka",
+      "name_en": "",
+      "city": "Władysławowo",
+      "country": "Poland",
+      "latitude": 54.79663,
+      "longitude": 18.400289,
+      "website": ""
+    },
+    {
+      "name": "Handwerk- und Gewerbemuseum Sagar",
+      "name_en": "",
+      "city": "Łęknica",
+      "country": "Poland",
+      "latitude": 51.51639,
+      "longitude": 14.76329,
+      "website": "http://www.museum-sagar.de/"
+    },
+    {
+      "name": "Heimatstube Book",
+      "name_en": "",
+      "city": "Dobra",
+      "country": "Poland",
+      "latitude": 53.49107,
+      "longitude": 14.244632,
+      "website": ""
+    },
+    {
+      "name": "Historia i tradycje rybołówstwa nad Wigrami",
+      "name_en": "",
+      "city": "Krasnopol",
+      "country": "Poland",
+      "latitude": 54.067887,
+      "longitude": 23.107358,
+      "website": ""
+    },
+    {
+      "name": "Historii Miasta Lublina",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.247337,
+      "longitude": 22.566497,
+      "website": ""
+    },
+    {
+      "name": "Hvezdáreň v Roztokoch",
+      "name_en": "",
+      "city": "Krempna",
+      "country": "Poland",
+      "latitude": 49.398972,
+      "longitude": 21.483495,
+      "website": ""
+    },
+    {
+      "name": "im. Jacka Malczewskiego",
+      "name_en": "",
+      "city": "Radom",
+      "country": "Poland",
+      "latitude": 51.402623,
+      "longitude": 21.142115,
+      "website": "http://www.muzeum.edu.pl/"
+    },
+    {
+      "name": "Izba Drukarstwa",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.246176,
+      "longitude": 22.567973,
+      "website": ""
+    },
+    {
+      "name": "Izba Historii Kanału Elbląskiego",
+      "name_en": "",
+      "city": "Pasłęk",
+      "country": "Poland",
+      "latitude": 53.977417,
+      "longitude": 19.618736,
+      "website": ""
+    },
+    {
+      "name": "Izba historyczna",
+      "name_en": "",
+      "city": "Wińsko",
+      "country": "Poland",
+      "latitude": 51.457911,
+      "longitude": 16.691238,
+      "website": ""
+    },
+    {
+      "name": "Izba ludowa - Kuźnia Kurpiowska",
+      "name_en": "",
+      "city": "Obryte",
+      "country": "Poland",
+      "latitude": 52.648364,
+      "longitude": 21.253379,
+      "website": ""
+    },
+    {
+      "name": "Izba Muzealneo Kolekcjonerska",
+      "name_en": "",
+      "city": "Chrząstowice",
+      "country": "Poland",
+      "latitude": 50.660004,
+      "longitude": 18.101876,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci",
+      "name_en": "",
+      "city": "Krzeszów",
+      "country": "Poland",
+      "latitude": 50.406987,
+      "longitude": 22.347572,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci",
+      "name_en": "",
+      "city": "Rokietnica",
+      "country": "Poland",
+      "latitude": 49.941271,
+      "longitude": 22.617851,
+      "website": ""
+    },
+    {
+      "name": "Izba pamięci generała Stanisława Klickiego",
+      "name_en": "",
+      "city": "Łowicz",
+      "country": "Poland",
+      "latitude": 52.104247,
+      "longitude": 19.950847,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci Jednostek Garnizonu Prudnik",
+      "name_en": "",
+      "city": "Prudnik",
+      "country": "Poland",
+      "latitude": 50.320104,
+      "longitude": 17.573656,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci Jerzego Kukuczki",
+      "name_en": "",
+      "city": "Istebna",
+      "country": "Poland",
+      "latitude": 49.587115,
+      "longitude": 18.871897,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci Kopalni Wujek",
+      "name_en": "",
+      "city": "Katowice",
+      "country": "Poland",
+      "latitude": 50.244129,
+      "longitude": 18.98996,
+      "website": "http://www.muzeum-wujek.pl/"
+    },
+    {
+      "name": "Izba Pamięci Narodowej Las Świadkiem Walk o Wał Pomorski",
+      "name_en": "",
+      "city": "Wałcz",
+      "country": "Poland",
+      "latitude": 53.380153,
+      "longitude": 16.498817,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci Pułkownika Kuklińskiego",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.249412,
+      "longitude": 21.013995,
+      "website": "http://www.kuklinski.org.pl/"
+    },
+    {
+      "name": "Izba Pamięci Wincentego Pola",
+      "name_en": "",
+      "city": "Cedry Wielkie",
+      "country": "Poland",
+      "latitude": 54.34446,
+      "longitude": 18.828965,
+      "website": ""
+    },
+    {
+      "name": "Izba Pamięci Żydów",
+      "name_en": "",
+      "city": "Dąbrowa Tarnowska",
+      "country": "Poland",
+      "latitude": 50.174087,
+      "longitude": 20.984704,
+      "website": "http://www.ddkdabrowa.pl/izba-pamieci-zydow"
+    },
+    {
+      "name": "Izba Regionalna",
+      "name_en": "",
+      "city": "Lądek-Zdrój",
+      "country": "Poland",
+      "latitude": 50.331638,
+      "longitude": 16.827962,
+      "website": ""
+    },
+    {
+      "name": "Izba Regionalna",
+      "name_en": "",
+      "city": "Czechowice-Dziedzice",
+      "country": "Poland",
+      "latitude": 49.909646,
+      "longitude": 19.005736,
+      "website": ""
+    },
+    {
+      "name": "Izba Regionalna Doliny Karpia",
+      "name_en": "",
+      "city": "Osiek",
+      "country": "Poland",
+      "latitude": 49.948368,
+      "longitude": 19.263592,
+      "website": "http://izbaregionalnadolinykarpia.pl"
+    },
+    {
+      "name": "Izba Regionalna w Kamieniu",
+      "name_en": "",
+      "city": "Kamień",
+      "country": "Poland",
+      "latitude": 50.016006,
+      "longitude": 19.587764,
+      "website": ""
+    },
+    {
+      "name": "Izba Tradycji Bydgoskich Dróg Żelaznych",
+      "name_en": "",
+      "city": "Osielsko",
+      "country": "Poland",
+      "latitude": 53.128006,
+      "longitude": 18.08805,
+      "website": ""
+    },
+    {
+      "name": "Izba Tradycji Hutniczej SMHC",
+      "name_en": "",
+      "city": "Sosnowiec",
+      "country": "Poland",
+      "latitude": 50.260478,
+      "longitude": 19.084791,
+      "website": ""
+    },
+    {
+      "name": "Izba Tradycji Pożarniczej Komendy Powiatowej PSP w Kłobucku",
+      "name_en": "",
+      "city": "Kłobuck",
+      "country": "Poland",
+      "latitude": 50.898313,
+      "longitude": 18.94701,
+      "website": ""
+    },
+    {
+      "name": "Izba Tradycji Regionalnej Rolnictwa",
+      "name_en": "",
+      "city": "Rudka",
+      "country": "Poland",
+      "latitude": 52.855016,
+      "longitude": 22.707988,
+      "website": ""
+    },
+    {
+      "name": "Izba Śląska",
+      "name_en": "",
+      "city": "Murcki",
+      "country": "Poland",
+      "latitude": 50.22242,
+      "longitude": 19.067493,
+      "website": ""
+    },
+    {
+      "name": "Kalktunnel von Chełm",
+      "name_en": "",
+      "city": "Sawin",
+      "country": "Poland",
+      "latitude": 51.313,
+      "longitude": 23.4712,
+      "website": ""
+    },
+    {
+      "name": "Kamienica Biala",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32231,
+      "longitude": 21.9452,
+      "website": ""
+    },
+    {
+      "name": "Kamienica Celejowska - Muzeum Nadwiślańskie",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32208,
+      "longitude": 21.94555,
+      "website": ""
+    },
+    {
+      "name": "Kamienica Gdańska",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.321852,
+      "longitude": 21.946937,
+      "website": ""
+    },
+    {
+      "name": "Kamienica Przybyłów",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32172,
+      "longitude": 21.94753,
+      "website": ""
+    },
+    {
+      "name": "Kantor Młyński",
+      "name_en": "",
+      "city": "Strzegowo",
+      "country": "Poland",
+      "latitude": 52.890918,
+      "longitude": 20.286236,
+      "website": ""
+    },
+    {
+      "name": "Kaplica bł. J.Kowalskiego",
+      "name_en": "",
+      "city": "Siedliska",
+      "country": "Poland",
+      "latitude": 49.953348,
+      "longitude": 21.947163,
+      "website": "http://www.lubenia.pl/index.php?action=pages_1&action_id=44"
+    },
+    {
+      "name": "Kaplica Świętego Ducha",
+      "name_en": "",
+      "city": "Pyrzyce",
+      "country": "Poland",
+      "latitude": 53.140918,
+      "longitude": 14.891616,
+      "website": ""
+    },
+    {
+      "name": "Kino",
+      "name_en": "",
+      "city": "Łeba",
+      "country": "Poland",
+      "latitude": 54.738361,
+      "longitude": 17.648646,
+      "website": ""
+    },
+    {
+      "name": "Kolej Wąskotorowa Rogów-Rawa-Biała",
+      "name_en": "",
+      "city": "Rogów",
+      "country": "Poland",
+      "latitude": 51.812881,
+      "longitude": 19.882394,
+      "website": ""
+    },
+    {
+      "name": "Kolekcja Antoniego Kocyana",
+      "name_en": "",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.269707,
+      "longitude": 19.981357,
+      "website": ""
+    },
+    {
+      "name": "Kopalnia Soli",
+      "name_en": "",
+      "city": "Bochnia",
+      "country": "Poland",
+      "latitude": 49.969352,
+      "longitude": 20.417824,
+      "website": ""
+    },
+    {
+      "name": "Kopalnia Soli \"Bochnia\"",
+      "name_en": "",
+      "city": "Bochnia",
+      "country": "Poland",
+      "latitude": 49.970187,
+      "longitude": 20.431438,
+      "website": ""
+    },
+    {
+      "name": "Kopalnia Soli w Bochni",
+      "name_en": "",
+      "city": "Bochnia",
+      "country": "Poland",
+      "latitude": 49.967357,
+      "longitude": 20.415773,
+      "website": "http://www.kopalnia-bochnia.pl/"
+    },
+    {
+      "name": "Kopalnia soli Wieliczka (trasa górnicza)",
+      "name_en": "",
+      "city": "Wieliczka",
+      "country": "Poland",
+      "latitude": 49.983521,
+      "longitude": 20.061261,
+      "website": ""
+    },
+    {
+      "name": "Kopalnia Złota",
+      "name_en": "",
+      "city": "Złoty Stok",
+      "country": "Poland",
+      "latitude": 50.439827,
+      "longitude": 16.874609,
+      "website": ""
+    },
+    {
+      "name": "Kołobrzeski Skansen Morski",
+      "name_en": "Open Air Maritime Museum",
+      "city": "Kołobrzeg",
+      "country": "Poland",
+      "latitude": 54.177322,
+      "longitude": 15.559965,
+      "website": "http://www.muzeum.kolobrzeg.pl/wokol-muzeum/oddzialy-muzeum/18-oddzial-skansen-morski"
+    },
+    {
+      "name": "Krasnobrodzkie Muzeum Parafialne",
+      "name_en": "",
+      "city": "Krasnobród",
+      "country": "Poland",
+      "latitude": 50.538844,
+      "longitude": 23.228356,
+      "website": ""
+    },
+    {
+      "name": "Kuncewiczówka",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.316763,
+      "longitude": 21.950593,
+      "website": ""
+    },
+    {
+      "name": "Lapidarium",
+      "name_en": "",
+      "city": "Domaszowice",
+      "country": "Poland",
+      "latitude": 50.879768,
+      "longitude": 20.656493,
+      "website": ""
+    },
+    {
+      "name": "Leśniczówka Pranie",
+      "name_en": "",
+      "city": "Ruciane-Nida",
+      "country": "Poland",
+      "latitude": 53.61059,
+      "longitude": 21.502222,
+      "website": ""
+    },
+    {
+      "name": "Leśny Kot",
+      "name_en": "",
+      "city": "Słupsk",
+      "country": "Poland",
+      "latitude": 54.478445,
+      "longitude": 17.053648,
+      "website": ""
+    },
+    {
+      "name": "Magazyn Wystawowy Polskiej Motoryzacji",
+      "name_en": "",
+      "city": "Budzyń",
+      "country": "Poland",
+      "latitude": 52.906474,
+      "longitude": 16.965013,
+      "website": "https://www.facebook.com/Magazyn-Wystawowy-Polskiej-Motoryzacji-446488468871823/"
+    },
+    {
+      "name": "Mamerki - Miasto Brigidy",
+      "name_en": "",
+      "city": "Węgorzewo",
+      "country": "Poland",
+      "latitude": 54.182964,
+      "longitude": 21.649846,
+      "website": ""
+    },
+    {
+      "name": "Mamerki - U-Boot",
+      "name_en": "",
+      "city": "Węgorzewo",
+      "country": "Poland",
+      "latitude": 54.180763,
+      "longitude": 21.650814,
+      "website": ""
+    },
+    {
+      "name": "Mauzoleum Walki i Męczeństwa",
+      "name_en": "Mausoleum of Struggle and Martyrdom",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.218132,
+      "longitude": 21.023417,
+      "website": ""
+    },
+    {
+      "name": "Małe Muzeum Ludowe u Kowalskich",
+      "name_en": "",
+      "city": "Trzebnica",
+      "country": "Poland",
+      "latitude": 51.321771,
+      "longitude": 17.025784,
+      "website": "http://www.krainawzgorz.pl/marian-kowalski"
+    },
+    {
+      "name": "Małopolskie Muzeum Pożarnictwa w Alwerni",
+      "name_en": "",
+      "city": "Alwernia",
+      "country": "Poland",
+      "latitude": 50.069344,
+      "longitude": 19.536133,
+      "website": ""
+    },
+    {
+      "name": "MDLot Puck",
+      "name_en": "",
+      "city": "Puck",
+      "country": "Poland",
+      "latitude": 54.720376,
+      "longitude": 18.402318,
+      "website": ""
+    },
+    {
+      "name": "Minimuzeum Etnograficzne Grociarnia",
+      "name_en": "",
+      "city": "Jastrzębia",
+      "country": "Poland",
+      "latitude": 49.784262,
+      "longitude": 20.899975,
+      "website": ""
+    },
+    {
+      "name": "Mobilne Muzeum Militarne",
+      "name_en": "",
+      "city": "Psary",
+      "country": "Poland",
+      "latitude": 51.164409,
+      "longitude": 17.000277,
+      "website": ""
+    },
+    {
+      "name": "Multimedialna Izba Tradycji",
+      "name_en": "",
+      "city": "Garbów",
+      "country": "Poland",
+      "latitude": 51.353646,
+      "longitude": 22.334044,
+      "website": ""
+    },
+    {
+      "name": "Multimedialne Muzeum Obozu Jenieckiego Stalag IB oraz Historii Olsztynka",
+      "name_en": "",
+      "city": "Olsztynek",
+      "country": "Poland",
+      "latitude": 53.582354,
+      "longitude": 20.282407,
+      "website": ""
+    },
+    {
+      "name": "Muzealia",
+      "name_en": "",
+      "city": "Strzegowo",
+      "country": "Poland",
+      "latitude": 52.892874,
+      "longitude": 20.284571,
+      "website": ""
+    },
+    {
+      "name": "Muzealna Izba Górnictwa Kruszcowego w Miedziance",
+      "name_en": "",
+      "city": "Piekoszów",
+      "country": "Poland",
+      "latitude": 50.844466,
+      "longitude": 20.365218,
+      "website": ""
+    },
+    {
+      "name": "Muzeum",
+      "name_en": "",
+      "city": "Wronki",
+      "country": "Poland",
+      "latitude": 52.710128,
+      "longitude": 16.375796,
+      "website": ""
+    },
+    {
+      "name": "Muzeum",
+      "name_en": "",
+      "city": "Stargard Szczeciński",
+      "country": "Poland",
+      "latitude": 53.33703,
+      "longitude": 15.046243,
+      "website": "http://www.muzeum-stargard.pl/"
+    },
+    {
+      "name": "Muzeum",
+      "name_en": "",
+      "city": "Łaskarzew",
+      "country": "Poland",
+      "latitude": 51.788723,
+      "longitude": 21.593992,
+      "website": ""
+    },
+    {
+      "name": "Muzeum - Kaszubski Park Etnograficzny",
+      "name_en": "",
+      "city": "Karsin",
+      "country": "Poland",
+      "latitude": 54.010779,
+      "longitude": 17.944055,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Adwokatury Polskiej",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.250494,
+      "longitude": 21.004338,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Afrykanistyczne",
+      "name_en": "",
+      "city": "Olkusz",
+      "country": "Poland",
+      "latitude": 50.277381,
+      "longitude": 19.561229,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Akademii Sztuk Pięknych",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.239403,
+      "longitude": 21.01516,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Andrzeja Struga",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.217627,
+      "longitude": 21.00545,
+      "website": "http://muzeumliteratury.pl/author/muzeumstruga/"
+    },
+    {
+      "name": "Muzeum Archeologiczne",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.354834,
+      "longitude": 18.659694,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archeologiczne",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.112871,
+      "longitude": 17.026753,
+      "website": "http://www.muzeum.miejskie.wroclaw.pl/CMS/muzeum_archeologiczne/muzeum_archeologiczne.html"
+    },
+    {
+      "name": "Muzeum Archeologiczne",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.349341,
+      "longitude": 18.656522,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archeologiczne i Rezerwat „Krzemionki”",
+      "name_en": "",
+      "city": "Bałtów",
+      "country": "Poland",
+      "latitude": 50.972285,
+      "longitude": 21.489916,
+      "website": "http://krzemionki.pl"
+    },
+    {
+      "name": "Muzeum Archeologiczne w Gdańsku oddział Zamek w Gniewie",
+      "name_en": "",
+      "city": "Gniew",
+      "country": "Poland",
+      "latitude": 53.834366,
+      "longitude": 18.827861,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archidiecezjalne",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.114611,
+      "longitude": 17.047332,
+      "website": "http://www.muzeum.archidiecezja.wroc.pl/"
+    },
+    {
+      "name": "Muzeum Archidiecezjalne",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.056089,
+      "longitude": 19.937104,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archidiecezjalne",
+      "name_en": "",
+      "city": "Katowice",
+      "country": "Poland",
+      "latitude": 50.250998,
+      "longitude": 19.018295,
+      "website": "http://www.muzeum.archidiecezja.katowice.pl"
+    },
+    {
+      "name": "Muzeum Archidiecezji Częstochowskiej",
+      "name_en": "",
+      "city": "Częstochowa",
+      "country": "Poland",
+      "latitude": 50.805925,
+      "longitude": 19.095696,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archidiecezji Warszawskiej",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.23132,
+      "longitude": 21.03978,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Archidiecezji Warszawskiej",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.248719,
+      "longitude": 21.013979,
+      "website": "http://www.maw.waw.pl"
+    },
+    {
+      "name": "Muzeum Architektury",
+      "name_en": "Museum of Architecture",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.109704,
+      "longitude": 17.042419,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Architektury Drewnianej",
+      "name_en": "",
+      "city": "Grębków",
+      "country": "Poland",
+      "latitude": 52.25285,
+      "longitude": 22.001714,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Armii „Poznań”",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.417949,
+      "longitude": 16.933602,
+      "website": "http://www.muzeumniepodleglosci.poznan.pl/index.php?module=htmlpages&func=display&pid=3"
+    },
+    {
+      "name": "Muzeum Basteja",
+      "name_en": "",
+      "city": "Stargard Szczeciński",
+      "country": "Poland",
+      "latitude": 53.334768,
+      "longitude": 15.043073,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Beskidzkie",
+      "name_en": "",
+      "city": "Wisła",
+      "country": "Poland",
+      "latitude": 49.654232,
+      "longitude": 18.859431,
+      "website": "http://www.muzeumwisla.muzeumcieszyn.pl/"
+    },
+    {
+      "name": "Muzeum Biebrzańskie Krzysztofa Kawenczyńskiego",
+      "name_en": "",
+      "city": "Mońki",
+      "country": "Poland",
+      "latitude": 53.344957,
+      "longitude": 22.680845,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Bieszczadzkiego Parku Narodowego",
+      "name_en": "",
+      "city": "Ustrzyki Dolne",
+      "country": "Poland",
+      "latitude": 49.430663,
+      "longitude": 22.586644,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Bieszczadzkiej Kolejki",
+      "name_en": "",
+      "city": "Cisna",
+      "country": "Poland",
+      "latitude": 49.205962,
+      "longitude": 22.298485,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Biograficzne Władysława Orkana \"Orkanówka\" w Porębie Wielkiej",
+      "name_en": "",
+      "city": "Niedźwiedź",
+      "country": "Poland",
+      "latitude": 49.599254,
+      "longitude": 20.093885,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Bitwy pod Grunwaldem w Stębarku",
+      "name_en": "",
+      "city": "Gierzwałd",
+      "country": "Poland",
+      "latitude": 53.485856,
+      "longitude": 20.125037,
+      "website": ""
+    },
+    {
+      "name": "Muzeum BPN",
+      "name_en": "",
+      "city": "Zawoja",
+      "country": "Poland",
+      "latitude": 49.61194,
+      "longitude": 19.518038,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Brata Zenona Żebrowskiego",
+      "name_en": "",
+      "city": "Czarnia",
+      "country": "Poland",
+      "latitude": 53.353833,
+      "longitude": 21.204427,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Broni i Militariów",
+      "name_en": "",
+      "city": "Świdnica",
+      "country": "Poland",
+      "latitude": 50.826033,
+      "longitude": 16.458569,
+      "website": "http://www.muzeum-broni.pl/"
+    },
+    {
+      "name": "Muzeum Browaru Żywiec",
+      "name_en": "",
+      "city": "Wieprz",
+      "country": "Poland",
+      "latitude": 49.663232,
+      "longitude": 19.174173,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Budownictwa Ludowego",
+      "name_en": "",
+      "city": "Olsztynek",
+      "country": "Poland",
+      "latitude": 53.583284,
+      "longitude": 20.283376,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Budownictwa Ludowego w Sanoku",
+      "name_en": "",
+      "city": "Sanok",
+      "country": "Poland",
+      "latitude": 49.565958,
+      "longitude": 22.201085,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Bursztynu",
+      "name_en": "Amber Museum",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.349794,
+      "longitude": 18.647488,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Cechu Rzemiosł Skórzanych im. Jana Kilińskiego",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.249766,
+      "longitude": 21.010449,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Chełmskie",
+      "name_en": "",
+      "city": "Chełm",
+      "country": "Poland",
+      "latitude": 51.133163,
+      "longitude": 23.476794,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Chleba",
+      "name_en": "",
+      "city": "Ustka",
+      "country": "Poland",
+      "latitude": 54.584682,
+      "longitude": 16.855804,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Chleba",
+      "name_en": "",
+      "city": "Radzionków",
+      "country": "Poland",
+      "latitude": 50.381835,
+      "longitude": 18.901394,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Chwały Oręża Polskiego",
+      "name_en": "",
+      "city": "Witnica",
+      "country": "Poland",
+      "latitude": 52.676886,
+      "longitude": 14.892704,
+      "website": "https://www.facebook.com/pages/Prywatne-Muzeum-Chwa%C5%82y-Or%C4%99%C5%BCa-Polskiego/112249742208969"
+    },
+    {
+      "name": "Muzeum Czynu Zbrojnego",
+      "name_en": "Museum of Armed Deed",
+      "city": "Kokotów",
+      "country": "Poland",
+      "latitude": 50.081443,
+      "longitude": 20.036281,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Czynu Zbrojnego",
+      "name_en": "",
+      "city": "Lipce Reymontowskie",
+      "country": "Poland",
+      "latitude": 51.899117,
+      "longitude": 19.942087,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Człowieka",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.113704,
+      "longitude": 17.035123,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Dawnego Kupiectwa",
+      "name_en": "",
+      "city": "Świdnica",
+      "country": "Poland",
+      "latitude": 50.842906,
+      "longitude": 16.486674,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne",
+      "name_en": "",
+      "city": "Tarnów",
+      "country": "Poland",
+      "latitude": 50.01282,
+      "longitude": 20.98674,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.86899,
+      "longitude": 20.629776,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne",
+      "name_en": "",
+      "city": "Płock",
+      "country": "Poland",
+      "latitude": 52.541149,
+      "longitude": 19.688834,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne w Pelplinie",
+      "name_en": "",
+      "city": "Pelplin",
+      "country": "Poland",
+      "latitude": 53.924859,
+      "longitude": 18.689804,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne w Siedlcach",
+      "name_en": "",
+      "city": "Siedlce",
+      "country": "Poland",
+      "latitude": 52.169912,
+      "longitude": 22.274689,
+      "website": "http://muzeum.siedlce.pl"
+    },
+    {
+      "name": "Muzeum Diecezjalne w Łomży",
+      "name_en": "",
+      "city": "Łomża",
+      "country": "Poland",
+      "latitude": 53.176212,
+      "longitude": 22.079217,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Diecezjalne w Łowiczu",
+      "name_en": "",
+      "city": "Łowicz",
+      "country": "Poland",
+      "latitude": 52.107887,
+      "longitude": 19.943389,
+      "website": "http://muzeum.diecezja.lowicz.pl/"
+    },
+    {
+      "name": "Muzeum Dobranocek",
+      "name_en": "",
+      "city": "Rzeszów",
+      "country": "Poland",
+      "latitude": 50.037843,
+      "longitude": 22.006753,
+      "website": "http://www.muzeumdobranocek.com.pl/"
+    },
+    {
+      "name": "Muzeum Dom Rodzinny Ojca Świętego Jana Pawła II",
+      "name_en": "",
+      "city": "Wadowice",
+      "country": "Poland",
+      "latitude": 49.883368,
+      "longitude": 19.49391,
+      "website": "http://domjp2.pl"
+    },
+    {
+      "name": "Muzeum Drukarstwa",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.232782,
+      "longitude": 20.991284,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Drukarstwa",
+      "name_en": "",
+      "city": "Cieszyn",
+      "country": "Poland",
+      "latitude": 49.749998,
+      "longitude": 18.628753,
+      "website": ""
+    },
+    {
+      "name": "Muzeum DULAG 121",
+      "name_en": "",
+      "city": "Pruszków",
+      "country": "Poland",
+      "latitude": 52.173062,
+      "longitude": 20.807593,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Dworu Polskiego",
+      "name_en": "",
+      "city": "Józefów",
+      "country": "Poland",
+      "latitude": 52.2311,
+      "longitude": 20.693802,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Dyplomacji i Uchodźstwa Polskiego",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.126391,
+      "longitude": 18.018839,
+      "website": "http://www.muzeum.ukw.edu.pl"
+    },
+    {
+      "name": "Muzeum Dzwonów i Fajek",
+      "name_en": "",
+      "city": "Przemyśl",
+      "country": "Poland",
+      "latitude": 49.78184,
+      "longitude": 22.773665,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Edyty Stein",
+      "name_en": "",
+      "city": "Lubliniec",
+      "country": "Poland",
+      "latitude": 50.669445,
+      "longitude": 18.682927,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Emigracji w Gdyni",
+      "name_en": "",
+      "city": "Gdynia",
+      "country": "Poland",
+      "latitude": 54.532984,
+      "longitude": 18.548085,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Energetyki",
+      "name_en": "",
+      "city": "Łaziska Górne",
+      "country": "Poland",
+      "latitude": 50.132389,
+      "longitude": 18.841316,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.238149,
+      "longitude": 21.012166,
+      "website": "http://www.ethnomuseum.pl/"
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.048662,
+      "longitude": 19.943485,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Janowiec",
+      "country": "Poland",
+      "latitude": 51.325153,
+      "longitude": 21.89799,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Tarnów",
+      "country": "Poland",
+      "latitude": 50.01088,
+      "longitude": 20.98333,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.01409,
+      "longitude": 18.604449,
+      "website": "http://www.etnomuzeum.pl/"
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Włocławek",
+      "country": "Poland",
+      "latitude": 52.659627,
+      "longitude": 19.075506,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Etnograficzne",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.099847,
+      "longitude": 17.052996,
+      "website": "http://www.muzeumetnograficzne.pl/"
+    },
+    {
+      "name": "Muzeum Etnograficzne (Dom Esterki)",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.047819,
+      "longitude": 19.943813,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ełckiej Kolei Wąskotorowej",
+      "name_en": "",
+      "city": "Ełk",
+      "country": "Poland",
+      "latitude": 53.826271,
+      "longitude": 22.363475,
+      "website": "http://www.mosir.elk.com.pl/ekw/muzeum.html"
+    },
+    {
+      "name": "Muzeum Fabryki",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.780698,
+      "longitude": 19.448137,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Farmacji",
+      "name_en": "",
+      "city": "Ochota",
+      "country": "Poland",
+      "latitude": 52.230511,
+      "longitude": 20.969501,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Farmacji",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.249147,
+      "longitude": 21.011293,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Farmacji",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.407547,
+      "longitude": 16.929372,
+      "website": "http://www.woia.pl/viewpage.php?page_id=12"
+    },
+    {
+      "name": "Muzeum Farmacji Apteki \"Pod Łabędziem\"",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.124821,
+      "longitude": 18.002574,
+      "website": "http://www.aptekapodlabedziem.pl/"
+    },
+    {
+      "name": "Muzeum Farmacji im. prof. Jana Muszyńskiego",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.776229,
+      "longitude": 19.45429,
+      "website": "http://www.muzeumfarmacji.eu"
+    },
+    {
+      "name": "Muzeum Farmacji UJ",
+      "name_en": "Museum of Pharmacy",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.063226,
+      "longitude": 19.94033,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Farmacji Uniwersytetu Medycznego",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.109685,
+      "longitude": 17.03402,
+      "website": "http://www.muzeumfarmacji.am.wroc.pl/content/blogcategory/9/235/"
+    },
+    {
+      "name": "Muzeum Feliksa Nowowiejskiego",
+      "name_en": "",
+      "city": "Barczewo",
+      "country": "Poland",
+      "latitude": 53.82892,
+      "longitude": 20.690498,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Figur Woskowych",
+      "name_en": "",
+      "city": "Rewal",
+      "country": "Poland",
+      "latitude": 54.093804,
+      "longitude": 15.064742,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Fonografii",
+      "name_en": "",
+      "city": "Niepołomice",
+      "country": "Poland",
+      "latitude": 50.035581,
+      "longitude": 20.217831,
+      "website": "http://muzeumfonografii.pl/"
+    },
+    {
+      "name": "Muzeum Fortyfikacji i Broni",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.716737,
+      "longitude": 23.248336,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Fortyfikacji i Broni",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.716482,
+      "longitude": 23.247896,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Fortyfikacji i Broni",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.716723,
+      "longitude": 23.247072,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Fotografii",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.1295,
+      "longitude": 17.99361,
+      "website": "http://muzeumfoto.byd.pl"
+    },
+    {
+      "name": "Muzeum Fryderyka Chopina",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.236473,
+      "longitude": 21.02292,
+      "website": "http://chopin.museum"
+    },
+    {
+      "name": "Muzeum Gazownictwa",
+      "name_en": "",
+      "city": "Paczków",
+      "country": "Poland",
+      "latitude": 50.466048,
+      "longitude": 17.004189,
+      "website": ""
+    },
+    {
+      "name": "Muzeum gen. Władysława Sikorskiego",
+      "name_en": "",
+      "city": "Mokotów",
+      "country": "Poland",
+      "latitude": 52.203226,
+      "longitude": 21.034595,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Geologiczne imienia Władysława Józefa Thugutta",
+      "name_en": "",
+      "city": "Ochota",
+      "country": "Poland",
+      "latitude": 52.210792,
+      "longitude": 20.98602,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Geologiczne PAN",
+      "name_en": "Geological Museum",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.057869,
+      "longitude": 19.936598,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Geologiczne WNG UŁ",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.773991,
+      "longitude": 19.482272,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Geologiczne WNoZ",
+      "name_en": "",
+      "city": "Będzin",
+      "country": "Poland",
+      "latitude": 50.299439,
+      "longitude": 19.134128,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Geologiczne Wydziału Geologi AGH",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.064317,
+      "longitude": 19.923445,
+      "website": "http://www.geol.agh.edu.pl/~muzeum/index.php"
+    },
+    {
+      "name": "Muzeum Gwizdka",
+      "name_en": "",
+      "city": "Łochów",
+      "country": "Poland",
+      "latitude": 52.549526,
+      "longitude": 21.628495,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Górnictwa",
+      "name_en": "",
+      "city": "Nowa Ruda",
+      "country": "Poland",
+      "latitude": 50.590627,
+      "longitude": 16.514311,
+      "website": "http://www.kopalnia-muzeum.pl"
+    },
+    {
+      "name": "Muzeum Górnictwa Rud Żelaza",
+      "name_en": "",
+      "city": "Częstochowa",
+      "country": "Poland",
+      "latitude": 50.810938,
+      "longitude": 19.100525,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Górnictwa Węglowego",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.300613,
+      "longitude": 18.786071,
+      "website": "http://www.muzeumgornictwa.pl"
+    },
+    {
+      "name": "Muzeum Górzna",
+      "name_en": "",
+      "city": "Górzno",
+      "country": "Poland",
+      "latitude": 53.19803,
+      "longitude": 19.641998,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Harcerstwa",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.228018,
+      "longitude": 21.026123,
+      "website": "http://muzeumharcerstwa.pl/"
+    },
+    {
+      "name": "Muzeum Historii i Kultury Żydów Krakowa",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.051501,
+      "longitude": 19.948542,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historii Katowic",
+      "name_en": "",
+      "city": "Katowice",
+      "country": "Poland",
+      "latitude": 50.255239,
+      "longitude": 19.028618,
+      "website": "http://www.mhk.katowice.pl"
+    },
+    {
+      "name": "Muzeum Historii Katowic Dział Etnologii Miasta",
+      "name_en": "",
+      "city": "Sosnowiec",
+      "country": "Poland",
+      "latitude": 50.244139,
+      "longitude": 19.082,
+      "website": "http://www.mhk.katowice.pl"
+    },
+    {
+      "name": "Muzeum Historii Kielc",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.86977,
+      "longitude": 20.634582,
+      "website": "http://www.muzeumhistoriikielc.pl/"
+    },
+    {
+      "name": "Muzeum Historii Medycyny",
+      "name_en": "",
+      "city": "Ochota",
+      "country": "Poland",
+      "latitude": 52.206482,
+      "longitude": 20.985878,
+      "website": "http://muzeum.wum.edu.pl/"
+    },
+    {
+      "name": "Muzeum Historii Miasta",
+      "name_en": "",
+      "city": "Przemyśl",
+      "country": "Poland",
+      "latitude": 49.782331,
+      "longitude": 22.770276,
+      "website": ""
+    },
+    {
+      "name": "Muzeum historii miasta",
+      "name_en": "",
+      "city": "Zduńska Wola",
+      "country": "Poland",
+      "latitude": 51.599922,
+      "longitude": 18.934011,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historii Miasta Poznania",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.408603,
+      "longitude": 16.934039,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historii Polski",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.2427,
+      "longitude": 21.005432,
+      "website": "http://www.muzhp.pl/"
+    },
+    {
+      "name": "Muzeum Historii Polskiego Ruchu Ludowego",
+      "name_en": "",
+      "city": "Sandomierz",
+      "country": "Poland",
+      "latitude": 50.679621,
+      "longitude": 21.748949,
+      "website": "http://mhprl.pl/sandomierz.html"
+    },
+    {
+      "name": "Muzeum Historii Spółdzielczości w Polsce",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.233733,
+      "longitude": 21.012036,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historii Szczecina",
+      "name_en": "",
+      "city": "Szczecin",
+      "country": "Poland",
+      "latitude": 53.424405,
+      "longitude": 14.560177,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historii Włocławka",
+      "name_en": "",
+      "city": "Włocławek",
+      "country": "Poland",
+      "latitude": 52.660256,
+      "longitude": 19.072545,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historyczne",
+      "name_en": "",
+      "city": "Legionowo",
+      "country": "Poland",
+      "latitude": 52.401163,
+      "longitude": 20.927262,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historyczne",
+      "name_en": "",
+      "city": "Białystok",
+      "country": "Poland",
+      "latitude": 53.132052,
+      "longitude": 23.172022,
+      "website": "http://www.muzeum.bialystok.pl/s,muzeum-historyczne,28.html"
+    },
+    {
+      "name": "Muzeum Historyczne Miasta Krakowa",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.062775,
+      "longitude": 19.936496,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historyczne w Ełku",
+      "name_en": "",
+      "city": "Ełk",
+      "country": "Poland",
+      "latitude": 53.824494,
+      "longitude": 22.351484,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Historyczne w Sanoku",
+      "name_en": "",
+      "city": "Sanok",
+      "country": "Poland",
+      "latitude": 49.562431,
+      "longitude": 22.209207,
+      "website": "http://www.muzeum.sanok.pl/pl/"
+    },
+    {
+      "name": "Muzeum Hutnictwa i Przemysłu Maszynowego w Chlewiskach",
+      "name_en": "",
+      "city": "Chlewiska",
+      "country": "Poland",
+      "latitude": 51.235769,
+      "longitude": 20.756424,
+      "website": ""
+    },
+    {
+      "name": "Muzeum i Archiwum Marii Angeli Truszkowskiej",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.061374,
+      "longitude": 19.941713,
+      "website": "http://www.muzeum-mat.cssf.opoka.org.pl/"
+    },
+    {
+      "name": "Muzeum Ikon",
+      "name_en": "",
+      "city": "Supraśl",
+      "country": "Poland",
+      "latitude": 53.21119,
+      "longitude": 23.337902,
+      "website": ""
+    },
+    {
+      "name": "Muzeum im. Gustawa Morcinka",
+      "name_en": "",
+      "city": "Skoczów",
+      "country": "Poland",
+      "latitude": 49.801268,
+      "longitude": 18.789582,
+      "website": "http://muzeumcieszyn.pl/index.php?option=com_content&task=view&id=166&Itemid=164"
+    },
+    {
+      "name": "Muzeum im. Stanisława Fischera w Bochni",
+      "name_en": "",
+      "city": "Bochnia",
+      "country": "Poland",
+      "latitude": 49.969378,
+      "longitude": 20.431394,
+      "website": "http://www.muzeum.bochnia.pl/"
+    },
+    {
+      "name": "Muzeum im. św. Jana Sarkandra",
+      "name_en": "",
+      "city": "Skoczów",
+      "country": "Poland",
+      "latitude": 49.800384,
+      "longitude": 18.787956,
+      "website": "http://www.muzeumsarkandra.akcja.pl/"
+    },
+    {
+      "name": "Muzeum im.Przypkowskich",
+      "name_en": "",
+      "city": "Jędrzejów",
+      "country": "Poland",
+      "latitude": 50.639045,
+      "longitude": 20.30434,
+      "website": ""
+    },
+    {
+      "name": "Muzeum imienia Ireny i Mieczysława Mazarakich w Chrzanowie",
+      "name_en": "",
+      "city": "Chrzanów",
+      "country": "Poland",
+      "latitude": 50.143443,
+      "longitude": 19.402024,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Indian Ameryki Północnej im. Sat-Okha",
+      "name_en": "",
+      "city": "Tuchola",
+      "country": "Poland",
+      "latitude": 53.60673,
+      "longitude": 17.91586,
+      "website": "https://www.facebook.com/MuzeumKulturyIndian/"
+    },
+    {
+      "name": "Muzeum Instrumentów Muzycznych",
+      "name_en": "",
+      "city": "Szydłowiec",
+      "country": "Poland",
+      "latitude": 51.226595,
+      "longitude": 20.853664,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Instrumentów Muzycznych",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.408042,
+      "longitude": 16.934738,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Jana Kochanowskiego w Czarnolesie",
+      "name_en": "",
+      "city": "Policzna",
+      "country": "Poland",
+      "latitude": 51.430628,
+      "longitude": 21.710509,
+      "website": "http://www.muzeum.edu.pl/index.php/main/page/pg_flink/muzeum-jana-kochanowskiego-w-czarnolesie/idpage/46"
+    },
+    {
+      "name": "Muzeum Jana Pawła II",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.013371,
+      "longitude": 19.93678,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Jana Pawła II i Prymasa Wyszyńskiego",
+      "name_en": "",
+      "city": "Wilanów",
+      "country": "Poland",
+      "latitude": 52.158558,
+      "longitude": 21.071839,
+      "website": "http://muzeumjp2.pl/"
+    },
+    {
+      "name": "Muzeum Jana Wałacha",
+      "name_en": "",
+      "city": "Istebna",
+      "country": "Poland",
+      "latitude": 49.582034,
+      "longitude": 18.905659,
+      "website": "http://www.janwalach.pl"
+    },
+    {
+      "name": "Muzeum Jerzego Popiełuszki",
+      "name_en": "",
+      "city": "Żoliborz",
+      "country": "Poland",
+      "latitude": 52.267551,
+      "longitude": 20.984093,
+      "website": "http://www.popieluszko.net.pl/muzeum/Index.htm"
+    },
+    {
+      "name": "Muzeum Jeńców Wojennych w Łambinowicach",
+      "name_en": "",
+      "city": "Łambinowice",
+      "country": "Poland",
+      "latitude": 50.546231,
+      "longitude": 17.570557,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Józefa Ignacego Kraszewskiego",
+      "name_en": "",
+      "city": "Sosnówka",
+      "country": "Poland",
+      "latitude": 51.740089,
+      "longitude": 23.389682,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Józefa Piłsudskiego w Sulejówku",
+      "name_en": "",
+      "city": "Sulejówek",
+      "country": "Poland",
+      "latitude": 52.247476,
+      "longitude": 21.267368,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kamieni",
+      "name_en": "",
+      "city": "Kamień Pomorski",
+      "country": "Poland",
+      "latitude": 53.97189,
+      "longitude": 14.766236,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kanału \"Dętka\"",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.777003,
+      "longitude": 19.45459,
+      "website": "http://muzeum-lodz.pl/pl/muzeum-kanalu-detka"
+    },
+    {
+      "name": "Muzeum Kapuściane",
+      "name_en": "",
+      "city": "Miechów Charsznica",
+      "country": "Poland",
+      "latitude": 50.395118,
+      "longitude": 19.946996,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Karawaningu",
+      "name_en": "",
+      "city": "Warka",
+      "country": "Poland",
+      "latitude": 51.779881,
+      "longitude": 21.186841,
+      "website": "http://kemping-nad-pilica.pl/o-nas/muzeum-karawaningu/"
+    },
+    {
+      "name": "Muzeum Karmelitańskie w Czernej",
+      "name_en": "",
+      "city": "Krzeszowice",
+      "country": "Poland",
+      "latitude": 50.168839,
+      "longitude": 19.633854,
+      "website": "http://dompielgrzyma.karmelczerna.pl/muzeum-karmelitanskie/"
+    },
+    {
+      "name": "Muzeum Karola Szymanowskiego w Willi Atma",
+      "name_en": "",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.292402,
+      "longitude": 19.94857,
+      "website": "http://mnk.pl/oddzial/muzeum-karola-szymanowskiego"
+    },
+    {
+      "name": "Muzeum Kaszubskie",
+      "name_en": "",
+      "city": "Kartuzy",
+      "country": "Poland",
+      "latitude": 54.329426,
+      "longitude": 18.204125,
+      "website": ""
+    },
+    {
+      "name": "Muzeum katedralne",
+      "name_en": "",
+      "city": "Frombork",
+      "country": "Poland",
+      "latitude": 54.357034,
+      "longitude": 19.683029,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Katedralne im. Jana Pawła II",
+      "name_en": "John Paul II Cathedral Museum",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.054659,
+      "longitude": 19.934496,
+      "website": "http://www.katedra-wawelska.pl/historia,42.html"
+    },
+    {
+      "name": "Muzeum kocham Bałtyk",
+      "name_en": "",
+      "city": "Gnieżdżewo",
+      "country": "Poland",
+      "latitude": 54.760161,
+      "longitude": 18.39589,
+      "website": "http://www.kochambaltyk.com.pl"
+    },
+    {
+      "name": "Muzeum Kolei Mazurskich",
+      "name_en": "",
+      "city": "Węgorzewo",
+      "country": "Poland",
+      "latitude": 54.217797,
+      "longitude": 21.725539,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kolejki Wąskotorowej",
+      "name_en": "",
+      "city": "Karczmiska",
+      "country": "Poland",
+      "latitude": 51.215971,
+      "longitude": 21.998883,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Komunikacji",
+      "name_en": "",
+      "city": "Nakło nad Notecią",
+      "country": "Poland",
+      "latitude": 53.118526,
+      "longitude": 17.61262,
+      "website": "http://www.zabytkowe-autobusy.pl"
+    },
+    {
+      "name": "Muzeum Komunikacji Miejskiej",
+      "name_en": "",
+      "city": "Luboń",
+      "country": "Poland",
+      "latitude": 52.387864,
+      "longitude": 16.892644,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Konstantego Ildefonsa Gałczyńskiego",
+      "name_en": "",
+      "city": "Ruciane-Nida",
+      "country": "Poland",
+      "latitude": 53.610713,
+      "longitude": 21.502323,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kornela Makuszyńskiego",
+      "name_en": "",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.289518,
+      "longitude": 19.958059,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kowalstwa",
+      "name_en": "",
+      "city": "Wojciechów",
+      "country": "Poland",
+      "latitude": 51.23647,
+      "longitude": 22.24255,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kowalstwa i Ślusarstwa",
+      "name_en": "",
+      "city": "Hajnówka",
+      "country": "Poland",
+      "latitude": 52.74221,
+      "longitude": 23.580354,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kresów Wschodnich",
+      "name_en": "",
+      "city": "Węgliniec",
+      "country": "Poland",
+      "latitude": 51.286619,
+      "longitude": 15.223358,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Księdza Józefa Tischnera",
+      "name_en": "",
+      "city": "Stary Sącz",
+      "country": "Poland",
+      "latitude": 49.563396,
+      "longitude": 20.636336,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kultury Kurpiowskiej",
+      "name_en": "",
+      "city": "Ostrołęka",
+      "country": "Poland",
+      "latitude": 53.084648,
+      "longitude": 21.566592,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kultury Ludowej",
+      "name_en": "",
+      "city": "Węgorzewo",
+      "country": "Poland",
+      "latitude": 54.211083,
+      "longitude": 21.738003,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Kultury Łemkowskiej",
+      "name_en": "",
+      "city": "Jaśliska",
+      "country": "Poland",
+      "latitude": 49.437393,
+      "longitude": 21.71219,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Lachów Sądeckich",
+      "name_en": "",
+      "city": "Podegrodzie",
+      "country": "Poland",
+      "latitude": 49.576261,
+      "longitude": 20.593847,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Latarnictwa i Ratownictwa Morskiego",
+      "name_en": "",
+      "city": "Świnoujście",
+      "country": "Poland",
+      "latitude": 53.916101,
+      "longitude": 14.284228,
+      "website": "http://www.latarnia.swinoujscie.pl"
+    },
+    {
+      "name": "Muzeum Legii Warszawa",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.221329,
+      "longitude": 21.041234,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Liczników",
+      "name_en": "",
+      "city": "Praga Południe",
+      "country": "Poland",
+      "latitude": 52.265224,
+      "longitude": 21.083015,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Literackie Henryka Sienkiewicza",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.408883,
+      "longitude": 16.932718,
+      "website": "http://www.bracz.edu.pl/index.php?option=com_content&task=view&id=268&Itemid=45"
+    },
+    {
+      "name": "Muzeum Literatury im. Adama Mickiewicza",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.250214,
+      "longitude": 21.012454,
+      "website": "http://muzeumliteratury.pl/"
+    },
+    {
+      "name": "Muzeum Ludowe Rodziny Brzozowskich w Sromowie",
+      "name_en": "",
+      "city": "Kocierzew Południowy",
+      "country": "Poland",
+      "latitude": 52.150562,
+      "longitude": 20.043926,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Lwowa",
+      "name_en": "",
+      "city": "Radziejowice",
+      "country": "Poland",
+      "latitude": 52.036139,
+      "longitude": 20.587177,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Marii Skłodowskiej-Curie",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.251089,
+      "longitude": 21.008607,
+      "website": "http://muzeum-msc.pl/"
+    },
+    {
+      "name": "Muzeum Martyrologii \"Pod Zegarem\"",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.246738,
+      "longitude": 22.546251,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Martyrologii i Walki",
+      "name_en": "",
+      "city": "Zgierz",
+      "country": "Poland",
+      "latitude": 51.809316,
+      "longitude": 19.439024,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Maszyn Biurowych",
+      "name_en": "",
+      "city": "Cielmice",
+      "country": "Poland",
+      "latitude": 50.113011,
+      "longitude": 18.995298,
+      "website": ""
+    },
+    {
+      "name": "Muzeum maziarstwa w Łosiach",
+      "name_en": "",
+      "city": "Ropa",
+      "country": "Poland",
+      "latitude": 49.570921,
+      "longitude": 21.089276,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Mazurskie",
+      "name_en": "",
+      "city": "Szczytno",
+      "country": "Poland",
+      "latitude": 53.566295,
+      "longitude": 20.990157,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miasta",
+      "name_en": "",
+      "city": "Ostrów Wielkopolski",
+      "country": "Poland",
+      "latitude": 51.6496,
+      "longitude": 17.816664,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miasta Jaworzna",
+      "name_en": "",
+      "city": "Jaworzno",
+      "country": "Poland",
+      "latitude": 50.202322,
+      "longitude": 19.275933,
+      "website": ""
+    },
+    {
+      "name": "Muzeum miasta Pabianic",
+      "name_en": "",
+      "city": "Pabianice",
+      "country": "Poland",
+      "latitude": 51.664177,
+      "longitude": 19.361265,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miasta Zgierza",
+      "name_en": "",
+      "city": "Zgierz",
+      "country": "Poland",
+      "latitude": 51.85785,
+      "longitude": 19.414081,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miasta Łodzi",
+      "name_en": "Museum of the City of Lodz",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.778721,
+      "longitude": 19.451049,
+      "website": "http://muzeum-lodz.pl/"
+    },
+    {
+      "name": "Muzeum Miasta Łodzi Oddział Kultur i Tradycji Wyznaniowych",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.776162,
+      "longitude": 19.45436,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Michała Kajki",
+      "name_en": "",
+      "city": "Stare Juchy",
+      "country": "Poland",
+      "latitude": 53.805632,
+      "longitude": 22.107299,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miedzi",
+      "name_en": "",
+      "city": "Legnica",
+      "country": "Poland",
+      "latitude": 51.208455,
+      "longitude": 16.159364,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miejskie",
+      "name_en": "",
+      "city": "Tychy",
+      "country": "Poland",
+      "latitude": 50.129243,
+      "longitude": 18.989539,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miejskie",
+      "name_en": "",
+      "city": "Tarnowskie Góry",
+      "country": "Poland",
+      "latitude": 50.444265,
+      "longitude": 18.854799,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miejskie im. Maksymiliana Chroboka",
+      "name_en": "",
+      "city": "Ruda Śląska",
+      "country": "Poland",
+      "latitude": 50.310618,
+      "longitude": 18.852307,
+      "website": "http://www.muzeum.rsl.pl/"
+    },
+    {
+      "name": "Muzeum Miejskie Suchej Beskidzkiej",
+      "name_en": "",
+      "city": "Sucha Beskidzka",
+      "country": "Poland",
+      "latitude": 49.745966,
+      "longitude": 19.601702,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miejskie w Rybniku",
+      "name_en": "",
+      "city": "Rybnik",
+      "country": "Poland",
+      "latitude": 50.095914,
+      "longitude": 18.541553,
+      "website": "http://www.muzeum.rybnik.pl/"
+    },
+    {
+      "name": "Muzeum Miejskie w Zabrzu",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.307991,
+      "longitude": 18.785269,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miejskie w Żorach",
+      "name_en": "",
+      "city": "Żory",
+      "country": "Poland",
+      "latitude": 50.046244,
+      "longitude": 18.690925,
+      "website": "http://www.muzeum.zory.pl/"
+    },
+    {
+      "name": "Muzeum Mikołaja Kopernika we Fromborku",
+      "name_en": "",
+      "city": "Frombork",
+      "country": "Poland",
+      "latitude": 54.356957,
+      "longitude": 19.683035,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Militariów",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.113107,
+      "longitude": 17.027107,
+      "website": "http://www.muzeum.miejskie.wroclaw.pl/CMS/muzeum_militariow/muzeum_militariow.html"
+    },
+    {
+      "name": "Muzeum Mineralogiczne",
+      "name_en": "",
+      "city": "Ustka",
+      "country": "Poland",
+      "latitude": 54.588074,
+      "longitude": 16.858393,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Mineralogiczne",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.116239,
+      "longitude": 17.030452,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Mineralogiczne",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.112155,
+      "longitude": 17.034459,
+      "website": ""
+    },
+    {
+      "name": "Muzeum minerałów",
+      "name_en": "",
+      "city": "Nowa Ruda",
+      "country": "Poland",
+      "latitude": 50.590502,
+      "longitude": 16.514312,
+      "website": "http://www.redbor.pl/"
+    },
+    {
+      "name": "Muzeum Minerałów",
+      "name_en": "",
+      "city": "Kołobrzeg",
+      "country": "Poland",
+      "latitude": 54.186373,
+      "longitude": 15.554341,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Miodu",
+      "name_en": "",
+      "city": "Pszczółki",
+      "country": "Poland",
+      "latitude": 54.185138,
+      "longitude": 18.678174,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Misiów Misioland",
+      "name_en": "Teddy Bear Museum",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.294973,
+      "longitude": 19.953437,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Misyjne Sióstr Klawerianek",
+      "name_en": "",
+      "city": "Krosno",
+      "country": "Poland",
+      "latitude": 49.69221,
+      "longitude": 21.761,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Modlitewnika Polskiego im. Wandy Malczewskiej",
+      "name_en": "",
+      "city": "Kluki",
+      "country": "Poland",
+      "latitude": 51.390216,
+      "longitude": 19.24877,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Molke",
+      "name_en": "",
+      "city": "Jugów",
+      "country": "Poland",
+      "latitude": 50.627981,
+      "longitude": 16.494631,
+      "website": "http://www.muzeummolke.pl"
+    },
+    {
+      "name": "Muzeum Monet i Medali Jana Pawła II",
+      "name_en": "",
+      "city": "Częstochowa",
+      "country": "Poland",
+      "latitude": 50.78453,
+      "longitude": 19.125856,
+      "website": "http://jp2muzeum.pl"
+    },
+    {
+      "name": "Muzeum Morskie",
+      "name_en": "",
+      "city": "Szczecin",
+      "country": "Poland",
+      "latitude": 53.429972,
+      "longitude": 14.564969,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Motoryzacji",
+      "name_en": "",
+      "city": "Krosno",
+      "country": "Poland",
+      "latitude": 49.69829,
+      "longitude": 21.74433,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Motyli",
+      "name_en": "",
+      "city": "Władysławowo",
+      "country": "Poland",
+      "latitude": 54.794437,
+      "longitude": 18.409482,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Mydła i Historii Brudu",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.121437,
+      "longitude": 17.997738,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Młynarstwa i Rolnictwa w Osiecznej",
+      "name_en": "",
+      "city": "Osieczna",
+      "country": "Poland",
+      "latitude": 51.898381,
+      "longitude": 16.663181,
+      "website": "https://www.facebook.com/pages/Muzeum-Młynarstwa-i-Rolnictwa-w-Osiecznej/430378337027305"
+    },
+    {
+      "name": "Muzeum Młynarstwa i Wodnych Urządzeń Przemysłu Wiejskiego",
+      "name_en": "",
+      "city": "Oborniki",
+      "country": "Poland",
+      "latitude": 52.713744,
+      "longitude": 16.881947,
+      "website": "http://www.muzeum-szreniawa.pl/?q=pl/node/78"
+    },
+    {
+      "name": "Muzeum Narciarstwa",
+      "name_en": "",
+      "city": "Wisła",
+      "country": "Poland",
+      "latitude": 49.659976,
+      "longitude": 18.85656,
+      "website": "http://wislazimowit.pl/"
+    },
+    {
+      "name": "Muzeum Narciarstwa im. Stanisława Barabasza w Cieklinie",
+      "name_en": "",
+      "city": "Dębowiec",
+      "country": "Poland",
+      "latitude": 49.64587,
+      "longitude": 21.386851,
+      "website": "http://muzeum-narciarstwa.pl"
+    },
+    {
+      "name": "Muzeum Narodowe w Gdańsku o/Zielona Brama",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.347868,
+      "longitude": 18.655717,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Narodowe w Kielcach",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.869075,
+      "longitude": 20.627565,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Natury",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.3286,
+      "longitude": 21.95572,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Nietypowych Rowerów",
+      "name_en": "",
+      "city": "Dęblin",
+      "country": "Poland",
+      "latitude": 51.487678,
+      "longitude": 21.87428,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Nikifora",
+      "name_en": "",
+      "city": "Krynica-Zdrój",
+      "country": "Poland",
+      "latitude": 49.418512,
+      "longitude": 20.956123,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Nurkowania",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.233387,
+      "longitude": 20.98111,
+      "website": "http://www.muzeumnurkowania.pl/"
+    },
+    {
+      "name": "Muzeum Obrony Wybrzeża",
+      "name_en": "",
+      "city": "Świnoujście",
+      "country": "Poland",
+      "latitude": 53.917624,
+      "longitude": 14.286024,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ognia",
+      "name_en": "",
+      "city": "Żory",
+      "country": "Poland",
+      "latitude": 50.044108,
+      "longitude": 18.699294,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ogrodu Botanicznego UJ",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.063601,
+      "longitude": 19.955969,
+      "website": "http://www.ogrod.uj.edu.pl/ogrod/ekspozycja-muzealna"
+    },
+    {
+      "name": "Muzeum Okręgowe",
+      "name_en": "",
+      "city": "Tarnów",
+      "country": "Poland",
+      "latitude": 50.01287,
+      "longitude": 20.98847,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Okręgowe",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.1246,
+      "longitude": 18.003135,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Okręgowe",
+      "name_en": "",
+      "city": "Leszno",
+      "country": "Poland",
+      "latitude": 51.841374,
+      "longitude": 16.571479,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Okręgowe w Toruniu",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.010683,
+      "longitude": 18.60422,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Oręża i Techniki Użytkowej",
+      "name_en": "",
+      "city": "Kobyłka",
+      "country": "Poland",
+      "latitude": 52.350029,
+      "longitude": 21.194616,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Oręża Polskiego",
+      "name_en": "",
+      "city": "Kołobrzeg",
+      "country": "Poland",
+      "latitude": 54.174386,
+      "longitude": 15.574386,
+      "website": "www.muzeumkolobrzeg.pl"
+    },
+    {
+      "name": "Muzeum Oświatowe",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.400459,
+      "longitude": 21.971128,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Oświaty",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.125055,
+      "longitude": 18.02535,
+      "website": "http://www.muzeumoswiaty_bydgoszcz.republika.pl/"
+    },
+    {
+      "name": "Muzeum Paleobotaniczne UJ",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.064403,
+      "longitude": 19.95739,
+      "website": "http://www.ib.uj.edu.pl/instytut/muzeum"
+    },
+    {
+      "name": "Muzeum Paleontologiczne",
+      "name_en": "",
+      "city": "Pawonków",
+      "country": "Poland",
+      "latitude": 50.681821,
+      "longitude": 18.629047,
+      "website": "http://muzeum.lisowice.com/"
+    },
+    {
+      "name": "Muzeum Parafialne",
+      "name_en": "",
+      "city": "Grybów",
+      "country": "Poland",
+      "latitude": 49.62609,
+      "longitude": 20.94856,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Parafialne w Paszynie",
+      "name_en": "",
+      "city": "Kamionka Wielka",
+      "country": "Poland",
+      "latitude": 49.625057,
+      "longitude": 20.780707,
+      "website": "http://paszyn.eu/"
+    },
+    {
+      "name": "Muzeum Piekarstwa",
+      "name_en": "",
+      "city": "Pleszew",
+      "country": "Poland",
+      "latitude": 51.897278,
+      "longitude": 17.787014,
+      "website": "http://muzeum.vogt.pl/"
+    },
+    {
+      "name": "Muzeum Pierwszych Piastów na Lednicy",
+      "name_en": "",
+      "city": "Łubowo",
+      "country": "Poland",
+      "latitude": 52.527011,
+      "longitude": 17.377626,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Piśmiennictwa i Drukarstwa",
+      "name_en": "Museum of Literature and Printing",
+      "city": "Lubicz Dolny",
+      "country": "Poland",
+      "latitude": 53.054508,
+      "longitude": 18.719945,
+      "website": "http://pl.wikipedia.org/wiki/Muzeum_Pi%C5%9Bmiennictwa_i_Drukarstwa"
+    },
+    {
+      "name": "Muzeum Piśmiennictwa i Muzyki Kaszubsko-Pomorskiej",
+      "name_en": "",
+      "city": "Wejherowo",
+      "country": "Poland",
+      "latitude": 54.598752,
+      "longitude": 18.23893,
+      "website": "http://www.muzeum.wejherowo.pl/"
+    },
+    {
+      "name": "Muzeum Plakatu w Wilanowie",
+      "name_en": "Wilanów Poster Museum",
+      "city": "Wilanów",
+      "country": "Poland",
+      "latitude": 52.164089,
+      "longitude": 21.088152,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Poczty i Telekomunikacji we Wrocławiu",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.108499,
+      "longitude": 17.044451,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Podkarpackie",
+      "name_en": "",
+      "city": "Krosno",
+      "country": "Poland",
+      "latitude": 49.695608,
+      "longitude": 21.763605,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Podlaskie w Białymstoku - Ratusz",
+      "name_en": "",
+      "city": "Białystok",
+      "country": "Poland",
+      "latitude": 53.13239,
+      "longitude": 23.158771,
+      "website": "http://www.muzeum.bialystok.pl/"
+    },
+    {
+      "name": "Muzeum Podróżników im. Tony Halika",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.01157,
+      "longitude": 18.603249,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pogranicza Śląsko-Łużyckiego",
+      "name_en": "",
+      "city": "Żary",
+      "country": "Poland",
+      "latitude": 51.636379,
+      "longitude": 15.140402,
+      "website": "http://www.muzeumzary.pl/"
+    },
+    {
+      "name": "Muzeum Pojazdów Zabytkowych Automobilklubu Śląskiego",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.296958,
+      "longitude": 18.80673,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Polaków Ratujących Żydów na Podkarpaciu im. Ulmów",
+      "name_en": "",
+      "city": "Markowa",
+      "country": "Poland",
+      "latitude": 50.022533,
+      "longitude": 22.317146,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Policji",
+      "name_en": "",
+      "city": "Mokotów",
+      "country": "Poland",
+      "latitude": 52.184026,
+      "longitude": 21.00545,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Policji",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.245977,
+      "longitude": 20.999142,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Politechniki Opolskiej i lamp rentgenowskich",
+      "name_en": "",
+      "city": "Opole",
+      "country": "Poland",
+      "latitude": 50.652561,
+      "longitude": 17.904585,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Politechniki Warszawskiej",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.220399,
+      "longitude": 21.006031,
+      "website": "http://www.muzeumpw.com.pl/"
+    },
+    {
+      "name": "Muzeum Pomorza Środkowego",
+      "name_en": "",
+      "city": "Słupsk",
+      "country": "Poland",
+      "latitude": 54.463964,
+      "longitude": 17.033395,
+      "website": "http://www.muzeum.slupsk.pl"
+    },
+    {
+      "name": "Muzeum Pomorza Środkowego",
+      "name_en": "",
+      "city": "Słupsk",
+      "country": "Poland",
+      "latitude": 54.464037,
+      "longitude": 17.034427,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Powstania Chochołowskiego",
+      "name_en": "",
+      "city": "Czarny Dunajec",
+      "country": "Poland",
+      "latitude": 49.371724,
+      "longitude": 19.816556,
+      "website": "http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,0,0,1391,ant.html"
+    },
+    {
+      "name": "Muzeum Powstania Poznańskiego – Czerwiec 1956",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.407682,
+      "longitude": 16.918918,
+      "website": "http://www.czerwiec1956.pl/"
+    },
+    {
+      "name": "Muzeum Powstania Warszawskiego",
+      "name_en": "Warsaw Uprising 1944 Museum",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.232826,
+      "longitude": 20.980995,
+      "website": "http://1944.pl"
+    },
+    {
+      "name": "Muzeum Powstańców Wielkopolskich im. Gen. Józefa Dowbora Muśnickiego",
+      "name_en": "",
+      "city": "Tarnowo Podgórne",
+      "country": "Poland",
+      "latitude": 52.433685,
+      "longitude": 16.694348,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pożarnictwa",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.238522,
+      "longitude": 20.994119,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pożarnictwa",
+      "name_en": "",
+      "city": "Paprotnia",
+      "country": "Poland",
+      "latitude": 52.204941,
+      "longitude": 20.420993,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pożarnictwa",
+      "name_en": "",
+      "city": "Przodkowo",
+      "country": "Poland",
+      "latitude": 54.376622,
+      "longitude": 18.28759,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pożarnictwa w Oseredku",
+      "name_en": "",
+      "city": "Susiec",
+      "country": "Poland",
+      "latitude": 50.42538,
+      "longitude": 23.177996,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Pożarnictwa w Przeworsku",
+      "name_en": "",
+      "city": "Przeworsk",
+      "country": "Poland",
+      "latitude": 50.063174,
+      "longitude": 22.484894,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Prasy Śląskiej",
+      "name_en": "",
+      "city": "Pszczyna",
+      "country": "Poland",
+      "latitude": 49.978296,
+      "longitude": 18.945845,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Prasy Śląskiej",
+      "name_en": "",
+      "city": "Pszczyna",
+      "country": "Poland",
+      "latitude": 49.978383,
+      "longitude": 18.945727,
+      "website": "http://www.muzeumprasy.pl/"
+    },
+    {
+      "name": "Muzeum PRL",
+      "name_en": "",
+      "city": "Praga Południe",
+      "country": "Poland",
+      "latitude": 52.246936,
+      "longitude": 21.061137,
+      "website": ""
+    },
+    {
+      "name": "Muzeum PRL-u",
+      "name_en": "",
+      "city": "Kokotów",
+      "country": "Poland",
+      "latitude": 50.070058,
+      "longitude": 20.04132,
+      "website": "http://www.muzprl.pl/"
+    },
+    {
+      "name": "Muzeum PRLu",
+      "name_en": "",
+      "city": "Ruda Śląska",
+      "country": "Poland",
+      "latitude": 50.287242,
+      "longitude": 18.832949,
+      "website": "http://www.muzeumprl-u.pl"
+    },
+    {
+      "name": "Muzeum Protestantyzmu",
+      "name_en": "",
+      "city": "Cieszyn",
+      "country": "Poland",
+      "latitude": 49.745015,
+      "longitude": 18.636817,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Prowincji OB",
+      "name_en": "",
+      "city": "Leżajsk",
+      "country": "Poland",
+      "latitude": 50.27035,
+      "longitude": 22.40938,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przedmoście Piła",
+      "name_en": "",
+      "city": "Piła",
+      "country": "Poland",
+      "latitude": 53.167716,
+      "longitude": 16.700876,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przedzamcza",
+      "name_en": "",
+      "city": "Leśna",
+      "country": "Poland",
+      "latitude": 51.029511,
+      "longitude": 15.302437,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przemysłu",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.232284,
+      "longitude": 20.990441,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przyrodnicze",
+      "name_en": "",
+      "city": "Cieplice Śląskie Zdrój",
+      "country": "Poland",
+      "latitude": 50.865429,
+      "longitude": 15.678003,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przyrodnicze",
+      "name_en": "",
+      "city": "Medyka",
+      "country": "Poland",
+      "latitude": 49.817298,
+      "longitude": 22.856968,
+      "website": "http://www.bolestraszyce.com/muzeum-przyrodnicze"
+    },
+    {
+      "name": "Muzeum Przyrodnicze PAN",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.055475,
+      "longitude": 19.941514,
+      "website": "http://www.isez.pan.krakow.pl/muzeum.html"
+    },
+    {
+      "name": "Muzeum Przyrodnicze Słowińskiego Parku Narodowego",
+      "name_en": "",
+      "city": "Smołdzino",
+      "country": "Poland",
+      "latitude": 54.66156,
+      "longitude": 17.21812,
+      "website": ""
+    },
+    {
+      "name": "Muzeum przyrodnicze TPN",
+      "name_en": "",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.284976,
+      "longitude": 19.972086,
+      "website": "https://pl.m.wikipedia.org/wiki/Muzeum_Przyrodnicze_Tatrzańskiego_Parku_Narodowego_w_Zakopanem"
+    },
+    {
+      "name": "Muzeum Przyrodnicze UŁ Budynek B",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.764836,
+      "longitude": 19.466315,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przyrodnicze w Drozdowie",
+      "name_en": "",
+      "city": "Piątnica",
+      "country": "Poland",
+      "latitude": 53.15194,
+      "longitude": 22.170262,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przyrodniczo-Leśne im. prof. J. Miklaszewskiego Białowieskiego Parku Narodowego",
+      "name_en": "",
+      "city": "Białowieża",
+      "country": "Poland",
+      "latitude": 52.703381,
+      "longitude": 23.846965,
+      "website": "http://www.muzeum.bpn.com.pl"
+    },
+    {
+      "name": "Muzeum Przyrody",
+      "name_en": "",
+      "city": "Olsztyn",
+      "country": "Poland",
+      "latitude": 53.761186,
+      "longitude": 20.494326,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Przyrody i Techniki",
+      "name_en": "",
+      "city": "Starachowice",
+      "country": "Poland",
+      "latitude": 51.048815,
+      "longitude": 21.066656,
+      "website": ""
+    },
+    {
+      "name": "Muzeum PTTK",
+      "name_en": "",
+      "city": "Starachowice",
+      "country": "Poland",
+      "latitude": 51.051252,
+      "longitude": 21.065011,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Puszczy Kampinoskiej",
+      "name_en": "",
+      "city": "Kampinos",
+      "country": "Poland",
+      "latitude": 52.286934,
+      "longitude": 20.455284,
+      "website": "http://www.kampinoski-pn.gov.pl/edukacja/odm-w-granicy"
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Stalowa Wola",
+      "country": "Poland",
+      "latitude": 50.593815,
+      "longitude": 22.04177,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Brzozów",
+      "country": "Poland",
+      "latitude": 49.697158,
+      "longitude": 22.021477,
+      "website": "http://cit.muzeum.brzozow.pl/"
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Krokowa",
+      "country": "Poland",
+      "latitude": 54.778162,
+      "longitude": 18.164752,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Chojnów",
+      "country": "Poland",
+      "latitude": 51.270624,
+      "longitude": 15.929378,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Zbójna",
+      "country": "Poland",
+      "latitude": 53.387099,
+      "longitude": 21.726602,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Kozienice",
+      "country": "Poland",
+      "latitude": 51.588671,
+      "longitude": 21.553717,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Głowno",
+      "country": "Poland",
+      "latitude": 51.96398,
+      "longitude": 19.729235,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Jawor",
+      "country": "Poland",
+      "latitude": 51.048881,
+      "longitude": 16.193845,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Międzyrzecz",
+      "country": "Poland",
+      "latitude": 52.444604,
+      "longitude": 15.572769,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Twardogóra",
+      "country": "Poland",
+      "latitude": 51.369051,
+      "longitude": 17.470014,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne",
+      "name_en": "",
+      "city": "Świebodzin",
+      "country": "Poland",
+      "latitude": 52.249996,
+      "longitude": 15.532835,
+      "website": "http://www.muzeumswiebodzin.pl/"
+    },
+    {
+      "name": "Muzeum Regionalne \"Bazar Warszawski\"",
+      "name_en": "",
+      "city": "Skała",
+      "country": "Poland",
+      "latitude": 50.208457,
+      "longitude": 19.82924,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne \"Stara Zagroda\"",
+      "name_en": "",
+      "city": "Ustroń",
+      "country": "Poland",
+      "latitude": 49.720161,
+      "longitude": 18.811498,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne im. J. Przybosia",
+      "name_en": "",
+      "city": "Gwoźnica Górna",
+      "country": "Poland",
+      "latitude": 49.842138,
+      "longitude": 21.981328,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne im.Seweryna Udzieli",
+      "name_en": "",
+      "city": "Stary Sącz",
+      "country": "Poland",
+      "latitude": 49.56344,
+      "longitude": 20.636288,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne imienia Andrzeja Kaubego",
+      "name_en": "",
+      "city": "Wolin",
+      "country": "Poland",
+      "latitude": 53.844333,
+      "longitude": 14.617151,
+      "website": "http://www.muzeumwolin.pl/"
+    },
+    {
+      "name": "Muzeum Regionalne PTTK",
+      "name_en": "",
+      "city": "Gorlice",
+      "country": "Poland",
+      "latitude": 49.656778,
+      "longitude": 21.156751,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne PTTK im.W.Kowalskiego",
+      "name_en": "",
+      "city": "Dobczyce",
+      "country": "Poland",
+      "latitude": 49.87699,
+      "longitude": 20.085191,
+      "website": "http://www.pttk.pl/kznw/muzea/index.php?co=muz01"
+    },
+    {
+      "name": "Muzeum Regionalne PTTK w Iwanowicach",
+      "name_en": "",
+      "city": "Michałowice",
+      "country": "Poland",
+      "latitude": 50.220961,
+      "longitude": 19.979364,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne Skarbczyk",
+      "name_en": "",
+      "city": "Szydłów",
+      "country": "Poland",
+      "latitude": 50.591302,
+      "longitude": 20.999165,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne w Barlinku",
+      "name_en": "",
+      "city": "Barlinek",
+      "country": "Poland",
+      "latitude": 52.993069,
+      "longitude": 15.218298,
+      "website": ""
+    },
+    {
+      "name": "Muzeum regionalne w Sierakowie",
+      "name_en": "",
+      "city": "Sieraków",
+      "country": "Poland",
+      "latitude": 52.651442,
+      "longitude": 16.084496,
+      "website": "https://muzeum-sierakow.pl/"
+    },
+    {
+      "name": "Muzeum Regionalne w Trzebini",
+      "name_en": "",
+      "city": "Myślachowice",
+      "country": "Poland",
+      "latitude": 50.173895,
+      "longitude": 19.47265,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne Ziemi Limanowskiej",
+      "name_en": "",
+      "city": "Limanowa",
+      "country": "Poland",
+      "latitude": 49.704034,
+      "longitude": 20.419177,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Regionalne, Galeria",
+      "name_en": "",
+      "city": "Lesko",
+      "country": "Poland",
+      "latitude": 49.42623,
+      "longitude": 22.321681,
+      "website": ""
+    },
+    {
+      "name": "Muzeum rolnictwa",
+      "name_en": "",
+      "city": "Buk",
+      "country": "Poland",
+      "latitude": 52.433102,
+      "longitude": 16.528487,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Rolnictwa im. ks. Krzysztofa Kluka",
+      "name_en": "",
+      "city": "Ciechanowiec",
+      "country": "Poland",
+      "latitude": 52.682712,
+      "longitude": 22.486645,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Romantyzmu",
+      "name_en": "Romantism Museum",
+      "city": "Opinogóra Górna",
+      "country": "Poland",
+      "latitude": 52.90666,
+      "longitude": 20.7164,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Rzemiosł Artystycznych i Precyzyjnych",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.248502,
+      "longitude": 21.01077,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Rzemiosła",
+      "name_en": "",
+      "city": "Krosno",
+      "country": "Poland",
+      "latitude": 49.69532,
+      "longitude": 21.76297,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Rzemiosła Tkackiego",
+      "name_en": "",
+      "city": "Turek",
+      "country": "Poland",
+      "latitude": 52.01627,
+      "longitude": 18.500645,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sakralne Katedry Zamojskiej",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.716105,
+      "longitude": 23.250584,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Salezjanów",
+      "name_en": "",
+      "city": "Czerwińsk Nad Wisłą",
+      "country": "Poland",
+      "latitude": 52.395332,
+      "longitude": 20.310392,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Saperskie Explosive",
+      "name_en": "",
+      "city": "Gościcino",
+      "country": "Poland",
+      "latitude": 54.551623,
+      "longitude": 18.171251,
+      "website": "http://www.muzeumsaperskie.pl"
+    },
+    {
+      "name": "Muzeum Saturn",
+      "name_en": "",
+      "city": "Czeladź",
+      "country": "Poland",
+      "latitude": 50.3076,
+      "longitude": 19.067143,
+      "website": ""
+    },
+    {
+      "name": "Muzeum SGGW",
+      "name_en": "Museum of SGGW",
+      "city": "Ursynów",
+      "country": "Poland",
+      "latitude": 52.163825,
+      "longitude": 21.044466,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Skamieniałości i Minerałów",
+      "name_en": "",
+      "city": "Dubiecko",
+      "country": "Poland",
+      "latitude": 49.822452,
+      "longitude": 22.391835,
+      "website": "http://muzeumdubiecko.republika.pl/"
+    },
+    {
+      "name": "Muzeum Socrealizmu",
+      "name_en": "",
+      "city": "Kamionka",
+      "country": "Poland",
+      "latitude": 51.460494,
+      "longitude": 22.487551,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sportu i Turystyki",
+      "name_en": "",
+      "city": "Żoliborz",
+      "country": "Poland",
+      "latitude": 52.274164,
+      "longitude": 20.99689,
+      "website": "http://www.muzeumsportu.waw.pl/"
+    },
+    {
+      "name": "Muzeum Sprzętu Gospodarstwa Domowego",
+      "name_en": "",
+      "city": "Ziębice",
+      "country": "Poland",
+      "latitude": 50.600557,
+      "longitude": 17.040753,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sprzętu Wojskowego",
+      "name_en": "",
+      "city": "Mrągowo",
+      "country": "Poland",
+      "latitude": 53.850653,
+      "longitude": 21.294632,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Stanisława Wyspiańskiego",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.06335,
+      "longitude": 19.935964,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Starożytnego Hutnictwa",
+      "name_en": "",
+      "city": "Nowa Słupia",
+      "country": "Poland",
+      "latitude": 50.86037,
+      "longitude": 21.080349,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Strachów Polnych",
+      "name_en": "",
+      "city": "Straszydle",
+      "country": "Poland",
+      "latitude": 49.899777,
+      "longitude": 21.949669,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sukiennice",
+      "name_en": "",
+      "city": "Niepołomice",
+      "country": "Poland",
+      "latitude": 50.03412,
+      "longitude": 20.217573,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sztuki Drukarskiej i Papiernictwa",
+      "name_en": "",
+      "city": "Supraśl",
+      "country": "Poland",
+      "latitude": 53.210842,
+      "longitude": 23.338162,
+      "website": "www.muzeumdruku.pl"
+    },
+    {
+      "name": "Muzeum Sztuki MS1",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.771844,
+      "longitude": 19.448283,
+      "website": "http://msl.org.pl"
+    },
+    {
+      "name": "Muzeum Sztuki Nowoczesnej",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.232765,
+      "longitude": 21.001958,
+      "website": "http://artmuseum.pl"
+    },
+    {
+      "name": "Muzeum Sztuki Współczesnej",
+      "name_en": "Museum of Contemporary Art",
+      "city": "Szczecin",
+      "country": "Poland",
+      "latitude": 53.428148,
+      "longitude": 14.554524,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Sztuki Złotniczej",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32235,
+      "longitude": 21.94904,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Teatralne",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.243415,
+      "longitude": 21.009752,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Techniki Drogowej i Mostowej",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.716739,
+      "longitude": 23.253424,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Techniki i Przemysłu",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.230573,
+      "longitude": 21.005874,
+      "website": "http://www.muzeumtechniki.warszawa.pl/"
+    },
+    {
+      "name": "Muzeum Tkactwa w Kamiennej Górze",
+      "name_en": "",
+      "city": "Kamienna Góra",
+      "country": "Poland",
+      "latitude": 50.78405,
+      "longitude": 16.033233,
+      "website": "http://www.muzeumtkactwa.pl"
+    },
+    {
+      "name": "Muzeum Towarzystwa Ziemi Kozielskiej w Kędzierzynie-Koźlu",
+      "name_en": "",
+      "city": "Koźle",
+      "country": "Poland",
+      "latitude": 50.334377,
+      "longitude": 18.141971,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Tradycji Niepodległościowych",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.775736,
+      "longitude": 19.4474,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Trybunału Koronnego",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.247756,
+      "longitude": 22.567995,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Turystyki Górskiej",
+      "name_en": "",
+      "city": "Zawoja",
+      "country": "Poland",
+      "latitude": 49.605951,
+      "longitude": 19.513932,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Turystyki Górskiej",
+      "name_en": "",
+      "city": "Zawoja",
+      "country": "Poland",
+      "latitude": 49.58763,
+      "longitude": 19.517405,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Twierdzy Modlin",
+      "name_en": "",
+      "city": "Nowy Dwór Mazowiecki",
+      "country": "Poland",
+      "latitude": 52.442112,
+      "longitude": 20.679044,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ubezpieczeń",
+      "name_en": "Insurance Museum",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.06437,
+      "longitude": 19.933732,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Uniwersytetu Jagiellońskiego",
+      "name_en": "University Museum",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.061562,
+      "longitude": 19.933737,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Uniwersytetu Kardynała Stefana Wyszyńskiego",
+      "name_en": "",
+      "city": "Bielany",
+      "country": "Poland",
+      "latitude": 52.295245,
+      "longitude": 20.959976,
+      "website": "http://www.muzeum.uksw.edu.pl/"
+    },
+    {
+      "name": "Muzeum Uniwersytetu Warszawskiego",
+      "name_en": "Museum of the University of Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.240856,
+      "longitude": 21.017155,
+      "website": "http://www.muzeum.uw.edu.pl/"
+    },
+    {
+      "name": "Muzeum Uniwersytetu Wrocławskiego",
+      "name_en": "University of Wrocław Museum",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.113969,
+      "longitude": 17.034501,
+      "website": "http://muzeum.uni.wroc.pl/"
+    },
+    {
+      "name": "Muzeum Ustrońskie imienia Jana Jarockiego",
+      "name_en": "",
+      "city": "Ustroń",
+      "country": "Poland",
+      "latitude": 49.716149,
+      "longitude": 18.817371,
+      "website": "http://www.muzuemustronskie.republika.pl"
+    },
+    {
+      "name": "Muzeum w Kwidzynie",
+      "name_en": "",
+      "city": "Kwidzyn",
+      "country": "Poland",
+      "latitude": 53.736211,
+      "longitude": 18.92116,
+      "website": ""
+    },
+    {
+      "name": "Muzeum w Ostródzie",
+      "name_en": "",
+      "city": "Ostróda",
+      "country": "Poland",
+      "latitude": 53.703415,
+      "longitude": 19.960868,
+      "website": ""
+    },
+    {
+      "name": "Muzeum w Tomaszowie Mazowieckim",
+      "name_en": "",
+      "city": "Tomaszów Mazowiecki",
+      "country": "Poland",
+      "latitude": 51.531435,
+      "longitude": 20.012447,
+      "website": ""
+    },
+    {
+      "name": "Muzeum w Wodzisławiu Śląskim",
+      "name_en": "",
+      "city": "Wodzisław Śląski",
+      "country": "Poland",
+      "latitude": 50.002361,
+      "longitude": 18.465028,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Warszawskiej Pragi",
+      "name_en": "",
+      "city": "Praga Północ",
+      "country": "Poland",
+      "latitude": 52.25158,
+      "longitude": 21.039278,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Warszawy",
+      "name_en": "",
+      "city": "Warsaw",
+      "country": "Poland",
+      "latitude": 52.249979,
+      "longitude": 21.01138,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Wigier",
+      "name_en": "",
+      "city": "Krasnopol",
+      "country": "Poland",
+      "latitude": 54.075309,
+      "longitude": 23.075661,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Wodociągów",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.119761,
+      "longitude": 17.990282,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Wojsk Lądowych",
+      "name_en": "",
+      "city": "Żoliborz",
+      "country": "Poland",
+      "latitude": 52.261026,
+      "longitude": 21.00455,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Wojska Polskiego",
+      "name_en": "Museum of the Polish Army",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.232072,
+      "longitude": 21.025951,
+      "website": "http://www.muzeumwp.pl/"
+    },
+    {
+      "name": "Muzeum Wojska Polskiego",
+      "name_en": "",
+      "city": "Wilanów",
+      "country": "Poland",
+      "latitude": 52.181742,
+      "longitude": 21.065334,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Woli",
+      "name_en": "",
+      "city": "Ochota",
+      "country": "Poland",
+      "latitude": 52.22804,
+      "longitude": 20.989652,
+      "website": "http://muzeumwoli.muzeumwarszawy.pl/"
+    },
+    {
+      "name": "Muzeum Wolińskiego Parku Narodowego",
+      "name_en": "",
+      "city": "Międzyzdroje",
+      "country": "Poland",
+      "latitude": 53.927249,
+      "longitude": 14.449937,
+      "website": ""
+    },
+    {
+      "name": "Muzeum wsi Podkarpackiej \"Potoki\"",
+      "name_en": "",
+      "city": "Lecka",
+      "country": "Poland",
+      "latitude": 49.889878,
+      "longitude": 22.050652,
+      "website": "http://www.blazowa.com.pl/?c=mdTresc-cmPokaz-107"
+    },
+    {
+      "name": "Muzeum Wsi Podlaskiej",
+      "name_en": "",
+      "city": "Łomazy",
+      "country": "Poland",
+      "latitude": 51.929762,
+      "longitude": 23.238246,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Wsi Słowińskiej",
+      "name_en": "",
+      "city": "Główczyce",
+      "country": "Poland",
+      "latitude": 54.681957,
+      "longitude": 17.333582,
+      "website": "http://www.muzeumkluki.pl"
+    },
+    {
+      "name": "Muzeum Współczesnego Pomorskiego Rękodzieła Marynistycznego",
+      "name_en": "",
+      "city": "Łeba",
+      "country": "Poland",
+      "latitude": 54.738033,
+      "longitude": 17.64928,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zabawek",
+      "name_en": "",
+      "city": "Kudowa-Zdrój",
+      "country": "Poland",
+      "latitude": 50.441734,
+      "longitude": 16.243158,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zabawek \"Bajka\"",
+      "name_en": "",
+      "city": "Krynica-Zdrój",
+      "country": "Poland",
+      "latitude": 49.421415,
+      "longitude": 20.96065,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zabawek i Zabawy",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.868124,
+      "longitude": 20.634821,
+      "website": "http://www.muzeumzabawek.eu/"
+    },
+    {
+      "name": "Muzeum Zagroda Guciów",
+      "name_en": "",
+      "city": "Józefów",
+      "country": "Poland",
+      "latitude": 50.583235,
+      "longitude": 23.075193,
+      "website": "http://www.guciow.pl"
+    },
+    {
+      "name": "Muzeum Zagłębia",
+      "name_en": "",
+      "city": "Będzin",
+      "country": "Poland",
+      "latitude": 50.328811,
+      "longitude": 19.12386,
+      "website": "http://muzeum.bedzin.pl/"
+    },
+    {
+      "name": "Muzeum Zamek Czocha",
+      "name_en": "",
+      "city": "Leśna",
+      "country": "Poland",
+      "latitude": 51.030415,
+      "longitude": 15.303632,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zamkowe",
+      "name_en": "",
+      "city": "Szczecin",
+      "country": "Poland",
+      "latitude": 53.426032,
+      "longitude": 14.560652,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zamku i Szpitala Wojskowego na Ujazdowie",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.219766,
+      "longitude": 21.03033,
+      "website": "http://www.zamekujazdowski.art.pl/"
+    },
+    {
+      "name": "Muzeum Zamojskie",
+      "name_en": "",
+      "city": "Zamość",
+      "country": "Poland",
+      "latitude": 50.717625,
+      "longitude": 23.253079,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zamoyskich w Kozłówce",
+      "name_en": "",
+      "city": "Kamionka",
+      "country": "Poland",
+      "latitude": 51.459593,
+      "longitude": 22.489498,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zbiorów Geologicznych",
+      "name_en": "",
+      "city": "Kielce",
+      "country": "Poland",
+      "latitude": 50.860795,
+      "longitude": 20.629081,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zdrojowe",
+      "name_en": "",
+      "city": "Świeradów-Zdrój",
+      "country": "Poland",
+      "latitude": 50.906154,
+      "longitude": 15.334949,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.152654,
+      "longitude": 18.027427,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Biłgorajskiej",
+      "name_en": "",
+      "city": "Biłgoraj",
+      "country": "Poland",
+      "latitude": 50.531723,
+      "longitude": 22.717892,
+      "website": "http://www.muzeumbilgoraj.pl/"
+    },
+    {
+      "name": "Muzeum Ziemi Chełmskiej",
+      "name_en": "",
+      "city": "Chełm",
+      "country": "Poland",
+      "latitude": 51.133229,
+      "longitude": 23.470538,
+      "website": "http://www.muzeum.chelm.pl/"
+    },
+    {
+      "name": "Muzeum Ziemi Czyżewskiej",
+      "name_en": "",
+      "city": "Czyżew",
+      "country": "Poland",
+      "latitude": 52.799656,
+      "longitude": 22.342361,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Dobrzyńskiej",
+      "name_en": "",
+      "city": "Rypin",
+      "country": "Poland",
+      "latitude": 53.0641,
+      "longitude": 19.40994,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Geologiczne",
+      "name_en": "",
+      "city": "Stronie Śląskie",
+      "country": "Poland",
+      "latitude": 50.242565,
+      "longitude": 16.851428,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Gołdapskiej",
+      "name_en": "",
+      "city": "Gołdap",
+      "country": "Poland",
+      "latitude": 54.304714,
+      "longitude": 22.296037,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Kociewskiej",
+      "name_en": "",
+      "city": "Starogard Gdański",
+      "country": "Poland",
+      "latitude": 53.96847,
+      "longitude": 18.531052,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Koźmińskiej",
+      "name_en": "",
+      "city": "Koźmin Wielkopolski",
+      "country": "Poland",
+      "latitude": 51.824574,
+      "longitude": 17.451124,
+      "website": "http://www.kozminwlkp.pl/index.php?option=com_content&view=article&id=40&Itemid=152"
+    },
+    {
+      "name": "Muzeum Ziemi Krajeńskiej",
+      "name_en": "",
+      "city": "Nakło nad Notecią",
+      "country": "Poland",
+      "latitude": 53.139596,
+      "longitude": 17.602684,
+      "website": "http://www.muzeum.naklo.pl/"
+    },
+    {
+      "name": "Muzeum Ziemi Kujawskiej i Dobrzyńskiej",
+      "name_en": "",
+      "city": "Włocławek",
+      "country": "Poland",
+      "latitude": 52.657157,
+      "longitude": 19.064734,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Kłodzkiej",
+      "name_en": "",
+      "city": "Kłodzko",
+      "country": "Poland",
+      "latitude": 50.438147,
+      "longitude": 16.65141,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Miechowskiej",
+      "name_en": "",
+      "city": "Miechów",
+      "country": "Poland",
+      "latitude": 50.357912,
+      "longitude": 20.027215,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Mogileńskiej",
+      "name_en": "",
+      "city": "Mogilno",
+      "country": "Poland",
+      "latitude": 52.627182,
+      "longitude": 17.929635,
+      "website": "http://www.mzm.mogilno.pl/"
+    },
+    {
+      "name": "Muzeum Ziemi Namysłowskiej",
+      "name_en": "",
+      "city": "Namysłów",
+      "country": "Poland",
+      "latitude": 51.075983,
+      "longitude": 17.715821,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Pałuckiej",
+      "name_en": "",
+      "city": "Żnin",
+      "country": "Poland",
+      "latitude": 52.846611,
+      "longitude": 17.723697,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Piskiej",
+      "name_en": "",
+      "city": "Pisz",
+      "country": "Poland",
+      "latitude": 53.627995,
+      "longitude": 21.807736,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Puckiej",
+      "name_en": "",
+      "city": "Puck",
+      "country": "Poland",
+      "latitude": 54.719266,
+      "longitude": 18.411503,
+      "website": "http://muzeumpuck.kaszubia.com/"
+    },
+    {
+      "name": "Muzeum Ziemi Pyzdrskiej",
+      "name_en": "",
+      "city": "Pyzdry",
+      "country": "Poland",
+      "latitude": 52.16615,
+      "longitude": 17.690166,
+      "website": "http://www.pyzdry.pl/459,muzeum-ziemi-pyzdrskiej.html"
+    },
+    {
+      "name": "Muzeum Ziemi Rawskiej",
+      "name_en": "",
+      "city": "Rawa Mazowiecka",
+      "country": "Poland",
+      "latitude": 51.768347,
+      "longitude": 20.249862,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Sadowieńskiej",
+      "name_en": "",
+      "city": "Sadowne",
+      "country": "Poland",
+      "latitude": 52.634963,
+      "longitude": 21.84986,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Starozamojskiej",
+      "name_en": "",
+      "city": "Stary Zamość",
+      "country": "Poland",
+      "latitude": 50.817981,
+      "longitude": 23.159586,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Torzymskiej",
+      "name_en": "",
+      "city": "Ośno Lubuskie",
+      "country": "Poland",
+      "latitude": 52.45408,
+      "longitude": 14.870178,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Usteckiej",
+      "name_en": "",
+      "city": "Ustka",
+      "country": "Poland",
+      "latitude": 54.582885,
+      "longitude": 16.857374,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Wiśnickiej",
+      "name_en": "",
+      "city": "Nowy Wiśnicz",
+      "country": "Poland",
+      "latitude": 49.915416,
+      "longitude": 20.465019,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Zaborskiej",
+      "name_en": "",
+      "city": "Karsin",
+      "country": "Poland",
+      "latitude": 53.921146,
+      "longitude": 17.861021,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemi Zawkrzeńskiej",
+      "name_en": "",
+      "city": "Mława",
+      "country": "Poland",
+      "latitude": 53.112218,
+      "longitude": 20.380128,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ziemii Lubawskiej",
+      "name_en": "",
+      "city": "Nowe Miasto Lubawskie",
+      "country": "Poland",
+      "latitude": 53.422634,
+      "longitude": 19.592078,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Zofii Kossak-Szatkowskiej",
+      "name_en": "",
+      "city": "Górki Wielkie",
+      "country": "Poland",
+      "latitude": 49.782096,
+      "longitude": 18.827095,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Łowiectwa i Jeździectwa",
+      "name_en": "",
+      "city": "Mokotów",
+      "country": "Poland",
+      "latitude": 52.213509,
+      "longitude": 21.039089,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Ślęźańskie",
+      "name_en": "",
+      "city": "Sobótka",
+      "country": "Poland",
+      "latitude": 50.896157,
+      "longitude": 16.744534,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Średzkie",
+      "name_en": "",
+      "city": "Środa Śląska",
+      "country": "Poland",
+      "latitude": 51.163705,
+      "longitude": 16.595165,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Świerka Istebniańskiego",
+      "name_en": "",
+      "city": "Koniaków",
+      "country": "Poland",
+      "latitude": 49.534092,
+      "longitude": 18.935214,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Żaby",
+      "name_en": "",
+      "city": "Żabia Wola",
+      "country": "Poland",
+      "latitude": 52.03161,
+      "longitude": 20.68956,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Żaby",
+      "name_en": "",
+      "city": "Kudowa-Zdrój",
+      "country": "Poland",
+      "latitude": 50.437334,
+      "longitude": 16.251901,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Żuławskie",
+      "name_en": "",
+      "city": "Nowy Dwór Gdański",
+      "country": "Poland",
+      "latitude": 54.212867,
+      "longitude": 19.113748,
+      "website": ""
+    },
+    {
+      "name": "Muzeum Żydowskiego Instytutu Historycznego",
+      "name_en": "",
+      "city": "Wola",
+      "country": "Poland",
+      "latitude": 52.244383,
+      "longitude": 21.002841,
+      "website": "http://www.jhi.pl/"
+    },
+    {
+      "name": "Muzeum – Miejsce Pamięci Palmiry",
+      "name_en": "",
+      "city": "Truskaw",
+      "country": "Poland",
+      "latitude": 52.332212,
+      "longitude": 20.745379,
+      "website": ""
+    },
+    {
+      "name": "Neon Muzeum",
+      "name_en": "",
+      "city": "Praga Południe",
+      "country": "Poland",
+      "latitude": 52.249932,
+      "longitude": 21.061781,
+      "website": ""
+    },
+    {
+      "name": "Nova",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.067425,
+      "longitude": 19.933682,
+      "website": ""
+    },
+    {
+      "name": "Oddział Muzeum Narodowego",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.056302,
+      "longitude": 19.937223,
+      "website": ""
+    },
+    {
+      "name": "Orawski Park Etnograficzny",
+      "name_en": "Orava Ethnographic Park Museum",
+      "city": "Zubrzyca Górna",
+      "country": "Poland",
+      "latitude": 49.570745,
+      "longitude": 19.633669,
+      "website": "http://www.orawa.eu"
+    },
+    {
+      "name": "Oławska Izba Muzealna",
+      "name_en": "",
+      "city": "Oława",
+      "country": "Poland",
+      "latitude": 50.942724,
+      "longitude": 17.295185,
+      "website": ""
+    },
+    {
+      "name": "Ośrodek Dydaktyczno-Muzealny Poleskiego Parku Narodowego",
+      "name_en": "",
+      "city": "Urszulin",
+      "country": "Poland",
+      "latitude": 51.395816,
+      "longitude": 23.122169,
+      "website": ""
+    },
+    {
+      "name": "Ośrodek Edukacji Przyrodniczo-Leśnej Dąbrowa",
+      "name_en": "",
+      "city": "Pniewy",
+      "country": "Poland",
+      "latitude": 52.483021,
+      "longitude": 16.256158,
+      "website": ""
+    },
+    {
+      "name": "Parowozownia Gniezno",
+      "name_en": "Gniezno Train Depot",
+      "city": "Gniezno",
+      "country": "Poland",
+      "latitude": 52.528211,
+      "longitude": 17.599464,
+      "website": "http://parowozowniagniezno.pl"
+    },
+    {
+      "name": "Patria Colbergiensis",
+      "name_en": "",
+      "city": "Kołobrzeg",
+      "country": "Poland",
+      "latitude": 54.176023,
+      "longitude": 15.57616,
+      "website": "http://www.colbergiensis.eu"
+    },
+    {
+      "name": "Pawilon z wystawą dotycząca arboretum",
+      "name_en": "",
+      "city": "Niemcza",
+      "country": "Poland",
+      "latitude": 50.712049,
+      "longitude": 16.857173,
+      "website": ""
+    },
+    {
+      "name": "Pałac Czartoryskich",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.41232,
+      "longitude": 21.95927,
+      "website": ""
+    },
+    {
+      "name": "Pałac Dohnów",
+      "name_en": "",
+      "city": "Morąg",
+      "country": "Poland",
+      "latitude": 53.911804,
+      "longitude": 19.925607,
+      "website": ""
+    },
+    {
+      "name": "Pałac Jedlinka",
+      "name_en": "",
+      "city": "Jedlina-Zdrój",
+      "country": "Poland",
+      "latitude": 50.712309,
+      "longitude": 16.359299,
+      "website": "www.jedlinka.pl"
+    },
+    {
+      "name": "Pałac Marynki",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.40854,
+      "longitude": 21.96737,
+      "website": ""
+    },
+    {
+      "name": "pałac Radziwiłłów (ośrodek NBP)",
+      "name_en": "",
+      "city": "Liw",
+      "country": "Poland",
+      "latitude": 52.457532,
+      "longitude": 21.94457,
+      "website": ""
+    },
+    {
+      "name": "Pałac w Łomnicy",
+      "name_en": "",
+      "city": "Mysłakowice",
+      "country": "Poland",
+      "latitude": 50.876503,
+      "longitude": 15.808641,
+      "website": "http://www.palac-lomnica.pl/pl/zwiedzanie_i_cennik"
+    },
+    {
+      "name": "Piwnica pod Fortuną - multimedialna historia Lublina",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.248035,
+      "longitude": 22.568506,
+      "website": ""
+    },
+    {
+      "name": "Planetarium",
+      "name_en": "",
+      "city": "Łódź",
+      "country": "Poland",
+      "latitude": 51.777377,
+      "longitude": 19.458389,
+      "website": ""
+    },
+    {
+      "name": "Planetarium",
+      "name_en": "",
+      "city": "Olsztyn",
+      "country": "Poland",
+      "latitude": 53.775193,
+      "longitude": 20.491295,
+      "website": ""
+    },
+    {
+      "name": "Plebania",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32257,
+      "longitude": 21.94982,
+      "website": ""
+    },
+    {
+      "name": "plenerowa wystawa zabytkowych maszyn rolniczych",
+      "name_en": "",
+      "city": "Większyce",
+      "country": "Poland",
+      "latitude": 50.360706,
+      "longitude": 18.071252,
+      "website": ""
+    },
+    {
+      "name": "Podziemia Rynku",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.061996,
+      "longitude": 19.937774,
+      "website": "http://www.podziemiarynku.com/"
+    },
+    {
+      "name": "Podziemne Miasto na wyspie Wolin",
+      "name_en": "",
+      "city": "Świnoujście",
+      "country": "Poland",
+      "latitude": 53.902733,
+      "longitude": 14.333071,
+      "website": ""
+    },
+    {
+      "name": "Podziemny kompleks Włodarz",
+      "name_en": "",
+      "city": "Walim",
+      "country": "Poland",
+      "latitude": 50.701658,
+      "longitude": 16.419685,
+      "website": ""
+    },
+    {
+      "name": "Polonia Wax",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.062514,
+      "longitude": 19.936135,
+      "website": "http://poloniawaxmuseum.com/"
+    },
+    {
+      "name": "Pomorskie Muzeum Wojskowe",
+      "name_en": "",
+      "city": "Bydgoszcz",
+      "country": "Poland",
+      "latitude": 53.141842,
+      "longitude": 18.020754,
+      "website": ""
+    },
+    {
+      "name": "Pracownia Zegarów Wieżowych",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.353945,
+      "longitude": 18.650932,
+      "website": "http://www.mhmg.pl/oddzial/3/muzeum-nauki-gdanskiej"
+    },
+    {
+      "name": "Prehistoryczne muzeum",
+      "name_en": "",
+      "city": "Łeba",
+      "country": "Poland",
+      "latitude": 54.738438,
+      "longitude": 17.648879,
+      "website": ""
+    },
+    {
+      "name": "Prywatne Muzeum Konsol Gier Video",
+      "name_en": "",
+      "city": "Karpacz",
+      "country": "Poland",
+      "latitude": 50.774185,
+      "longitude": 15.747968,
+      "website": "http://www.muzeumgier.karpacz.pl/"
+    },
+    {
+      "name": "Prywatne Muzeum Literatury im. Władysława Reymonta",
+      "name_en": "",
+      "city": "Bielsko-Biala",
+      "country": "Poland",
+      "latitude": 49.821854,
+      "longitude": 19.04254,
+      "website": ""
+    },
+    {
+      "name": "Prywatne Muzeum Techniki i Budowli z Klocków Lego",
+      "name_en": "",
+      "city": "Karpacz",
+      "country": "Poland",
+      "latitude": 50.774222,
+      "longitude": 15.747912,
+      "website": "http://www.muzeumklockow.pl/"
+    },
+    {
+      "name": "Pz.W. 772",
+      "name_en": "",
+      "city": "Sieniawa",
+      "country": "Poland",
+      "latitude": 52.388055,
+      "longitude": 15.45869,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Pz.W. 773",
+      "name_en": "",
+      "city": "Lubrza",
+      "country": "Poland",
+      "latitude": 52.386261,
+      "longitude": 15.45972,
+      "website": "http://wwojnar.com/2014/05/down-the-ffowb-bunkers-once-again/"
+    },
+    {
+      "name": "Ratusz",
+      "name_en": "",
+      "city": "Wrocław",
+      "country": "Poland",
+      "latitude": 51.109588,
+      "longitude": 17.031895,
+      "website": ""
+    },
+    {
+      "name": "Regionalna Izba Historyczna",
+      "name_en": "",
+      "city": "Zambrów",
+      "country": "Poland",
+      "latitude": 52.974992,
+      "longitude": 22.245441,
+      "website": ""
+    },
+    {
+      "name": "Rogalowe Muzeum Poznania",
+      "name_en": "",
+      "city": "Poznań",
+      "country": "Poland",
+      "latitude": 52.408378,
+      "longitude": 16.935015,
+      "website": "http://rogalowemuzeum.pl/"
+    },
+    {
+      "name": "Romański Ośrodek Kultury Ottona i Bolesława",
+      "name_en": "",
+      "city": "Strzelno",
+      "country": "Poland",
+      "latitude": 52.629914,
+      "longitude": 18.179564,
+      "website": ""
+    },
+    {
+      "name": "Ruchoma szopka w Czermnej",
+      "name_en": "",
+      "city": "Kudowa-Zdrój",
+      "country": "Poland",
+      "latitude": 50.463728,
+      "longitude": 16.255088,
+      "website": ""
+    },
+    {
+      "name": "Rzeźba Tankred i Klorynda",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.411159,
+      "longitude": 21.963158,
+      "website": ""
+    },
+    {
+      "name": "Sala Tradycji Kolejnictwa",
+      "name_en": "",
+      "city": "Karpacz",
+      "country": "Poland",
+      "latitude": 50.7823,
+      "longitude": 15.761758,
+      "website": ""
+    },
+    {
+      "name": "Salon Boya",
+      "name_en": "",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "latitude": 52.232901,
+      "longitude": 21.023916,
+      "website": ""
+    },
+    {
+      "name": "Sarkofag",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.4102,
+      "longitude": 21.96442,
+      "website": ""
+    },
+    {
+      "name": "Schody angielskie",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.412959,
+      "longitude": 21.957952,
+      "website": ""
+    },
+    {
+      "name": "Schody Tarasowe",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.41131,
+      "longitude": 21.95996,
+      "website": ""
+    },
+    {
+      "name": "Siennickie Muzeum Szkolne",
+      "name_en": "",
+      "city": "Siennica",
+      "country": "Poland",
+      "latitude": 52.093795,
+      "longitude": 21.615623,
+      "website": ""
+    },
+    {
+      "name": "Skansen \"Zagroda Wsi Pszczyńskiej\"",
+      "name_en": "",
+      "city": "Pszczyna",
+      "country": "Poland",
+      "latitude": 49.978598,
+      "longitude": 18.95074,
+      "website": "http://www.skansen.pszczyna.pl/"
+    },
+    {
+      "name": "Skansen Archeologiczny \"Karpacka Troja\"",
+      "name_en": "",
+      "city": "Trzcinica",
+      "country": "Poland",
+      "latitude": 49.732189,
+      "longitude": 21.432739,
+      "website": "http://www.karpackatroja.pl"
+    },
+    {
+      "name": "Skansen Górniczy Królowa Luiza",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.2975,
+      "longitude": 18.8061,
+      "website": ""
+    },
+    {
+      "name": "Skansen im. J.Żaka",
+      "name_en": "",
+      "city": "Zawoja",
+      "country": "Poland",
+      "latitude": 49.607113,
+      "longitude": 19.514564,
+      "website": ""
+    },
+    {
+      "name": "Skansen kolejowy",
+      "name_en": "",
+      "city": "Pyskowice",
+      "country": "Poland",
+      "latitude": 50.387515,
+      "longitude": 18.612071,
+      "website": ""
+    },
+    {
+      "name": "Skansen Pszczelarski",
+      "name_en": "",
+      "city": "Ełk",
+      "country": "Poland",
+      "latitude": 53.826418,
+      "longitude": 22.364038,
+      "website": ""
+    },
+    {
+      "name": "Skansen Rzeki Pilicy",
+      "name_en": "",
+      "city": "Tomaszów Mazowiecki",
+      "country": "Poland",
+      "latitude": 51.515239,
+      "longitude": 20.029962,
+      "website": "http://www.skansenpilicy.pl/"
+    },
+    {
+      "name": "Skansen Soplicowo",
+      "name_en": "",
+      "city": "Dolsk",
+      "country": "Poland",
+      "latitude": 51.992751,
+      "longitude": 16.981191,
+      "website": ""
+    },
+    {
+      "name": "Skansen Uzbrojenia Wojska Polskiego",
+      "name_en": "",
+      "city": "Jelenia Góra",
+      "country": "Poland",
+      "latitude": 50.889608,
+      "longitude": 15.752552,
+      "website": "http://muzeumkarkonoskie.pl"
+    },
+    {
+      "name": "Skansen w Kuligowie",
+      "name_en": "",
+      "city": "Zatory",
+      "country": "Poland",
+      "latitude": 52.511204,
+      "longitude": 21.178022,
+      "website": "http://skansen.powiatwolominski.pl/"
+    },
+    {
+      "name": "Skansen w Sidzinie",
+      "name_en": "",
+      "city": "Sidzina",
+      "country": "Poland",
+      "latitude": 49.619485,
+      "longitude": 19.701802,
+      "website": "http://skansen.bystra-sidzina.net/"
+    },
+    {
+      "name": "Skarbiec św. Jakuba",
+      "name_en": "",
+      "city": "Nysa",
+      "country": "Poland",
+      "latitude": 50.474609,
+      "longitude": 17.334098,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.331618,
+      "longitude": 21.959663,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz Bliźniaczy z XVIII wieku",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32997,
+      "longitude": 21.95765,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz Feuersteina XVII wieku",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32844,
+      "longitude": 21.95539,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz Lenkiewicza XVII w.",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32574,
+      "longitude": 21.95114,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz Pod Wianuszkami z XVIII wieku",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.33094,
+      "longitude": 21.95804,
+      "website": ""
+    },
+    {
+      "name": "Spichlerz Przybyłów i Ułanowskich z XVII wieku",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.32804,
+      "longitude": 21.95488,
+      "website": ""
+    },
+    {
+      "name": "Społeczne Muzeum Ziemi Tłuszczańskiej",
+      "name_en": "",
+      "city": "Tłuszcz",
+      "country": "Poland",
+      "latitude": 52.429055,
+      "longitude": 21.436281,
+      "website": ""
+    },
+    {
+      "name": "Stara Chata Walońska",
+      "name_en": "",
+      "city": "Szklarska Poręba",
+      "country": "Poland",
+      "latitude": 50.824965,
+      "longitude": 15.547629,
+      "website": ""
+    },
+    {
+      "name": "Stara chałupa",
+      "name_en": "",
+      "city": "Milówka",
+      "country": "Poland",
+      "latitude": 49.560124,
+      "longitude": 19.087183,
+      "website": ""
+    },
+    {
+      "name": "Stara Fabryka (dawniej Muzeum Techniki i Włókiennictwa)",
+      "name_en": "",
+      "city": "Bielsko-Biala",
+      "country": "Poland",
+      "latitude": 49.820031,
+      "longitude": 19.044851,
+      "website": "http://www.muzeum.bielsko.pl/www/strona.php?jezyk=pl&tresc=str_mtiw"
+    },
+    {
+      "name": "Stara Kopalnia",
+      "name_en": "",
+      "city": "Wałbrzych",
+      "country": "Poland",
+      "latitude": 50.772374,
+      "longitude": 16.261475,
+      "website": ""
+    },
+    {
+      "name": "Stary Młyn Wodny",
+      "name_en": "",
+      "city": "Sułów",
+      "country": "Poland",
+      "latitude": 51.381056,
+      "longitude": 17.18227,
+      "website": ""
+    },
+    {
+      "name": "Strażacka Izba Pamięci",
+      "name_en": "",
+      "city": "Siennica",
+      "country": "Poland",
+      "latitude": 52.090917,
+      "longitude": 21.622106,
+      "website": ""
+    },
+    {
+      "name": "Strefa Historii",
+      "name_en": "",
+      "city": "Świdnik",
+      "country": "Poland",
+      "latitude": 51.217192,
+      "longitude": 22.698552,
+      "website": ""
+    },
+    {
+      "name": "Studnia",
+      "name_en": "",
+      "city": "Kazimierz Dolny",
+      "country": "Poland",
+      "latitude": 51.3222,
+      "longitude": 21.94795,
+      "website": ""
+    },
+    {
+      "name": "Synagoga",
+      "name_en": "",
+      "city": "Konstantynów",
+      "country": "Poland",
+      "latitude": 52.33099,
+      "longitude": 23.04495,
+      "website": ""
+    },
+    {
+      "name": "Sztolnia Czarnego Pstrąga",
+      "name_en": "",
+      "city": "Zbrosławice",
+      "country": "Poland",
+      "latitude": 50.4302,
+      "longitude": 18.8005,
+      "website": ""
+    },
+    {
+      "name": "Sztolnia Królowa Luiza (łaźnia łańcuszkowa)",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.295705,
+      "longitude": 18.806141,
+      "website": "http://sztolnialuiza.pl"
+    },
+    {
+      "name": "Szyb Daniłowicza",
+      "name_en": "",
+      "city": "Wieliczka",
+      "country": "Poland",
+      "latitude": 49.983047,
+      "longitude": 20.055696,
+      "website": ""
+    },
+    {
+      "name": "Szyb Maciej",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.315058,
+      "longitude": 18.741565,
+      "website": ""
+    },
+    {
+      "name": "Szyb poszukiwawczy",
+      "name_en": "",
+      "city": "Wieliczka",
+      "country": "Poland",
+      "latitude": 49.98375,
+      "longitude": 20.059593,
+      "website": ""
+    },
+    {
+      "name": "Tralewo na szlaku turystycznym Żuław Wielkich",
+      "name_en": "",
+      "city": "Nowy Staw",
+      "country": "Poland",
+      "latitude": 54.10162,
+      "longitude": 19.002553,
+      "website": ""
+    },
+    {
+      "name": "Twierdza Łomża - Fort III",
+      "name_en": "",
+      "city": "Piątnica",
+      "country": "Poland",
+      "latitude": 53.206341,
+      "longitude": 22.096902,
+      "website": ""
+    },
+    {
+      "name": "Twierdza Łomża - Fort III",
+      "name_en": "",
+      "city": "Piątnica",
+      "country": "Poland",
+      "latitude": 53.199284,
+      "longitude": 22.113217,
+      "website": ""
+    },
+    {
+      "name": "Twierdza Łomża- Fort I",
+      "name_en": "",
+      "city": "Piątnica",
+      "country": "Poland",
+      "latitude": 53.188126,
+      "longitude": 22.108916,
+      "website": ""
+    },
+    {
+      "name": "Tyskie Browarium",
+      "name_en": "",
+      "city": "Tychy",
+      "country": "Poland",
+      "latitude": 50.129303,
+      "longitude": 18.989292,
+      "website": "http://www.tyskiebrowarium.com.pl/"
+    },
+    {
+      "name": "Vojenské historické múzeum",
+      "name_en": "",
+      "city": "Jaśliska",
+      "country": "Poland",
+      "latitude": 49.414685,
+      "longitude": 21.708273,
+      "website": ""
+    },
+    {
+      "name": "Wielkopolski Park Etnograficzny",
+      "name_en": "",
+      "city": "Łubowo",
+      "country": "Poland",
+      "latitude": 52.514009,
+      "longitude": 17.383051,
+      "website": "http://www.lednicamuzeum.pl/"
+    },
+    {
+      "name": "Wieża ciśnień",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.41294,
+      "longitude": 21.962233,
+      "website": ""
+    },
+    {
+      "name": "Wieża Trynitarska - Muzeum Archidiecezjalne Sztuki Religijnej",
+      "name_en": "",
+      "city": "Lublin",
+      "country": "Poland",
+      "latitude": 51.247031,
+      "longitude": 22.568105,
+      "website": ""
+    },
+    {
+      "name": "Wieża Woka",
+      "name_en": "",
+      "city": "Prudnik",
+      "country": "Poland",
+      "latitude": 50.323014,
+      "longitude": 17.578538,
+      "website": ""
+    },
+    {
+      "name": "Wigierski Park Narodowy",
+      "name_en": "",
+      "city": "Suwałki",
+      "country": "Poland",
+      "latitude": 54.084491,
+      "longitude": 23.00957,
+      "website": ""
+    },
+    {
+      "name": "Willa Samotnia",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.410946,
+      "longitude": 21.968041,
+      "website": ""
+    },
+    {
+      "name": "Więzienie Policji Bezpieczeństwa i Wychowawczy Obóz Pracy w Żabikowie",
+      "name_en": "",
+      "city": "Luboń",
+      "country": "Poland",
+      "latitude": 52.35449,
+      "longitude": 16.869108,
+      "website": ""
+    },
+    {
+      "name": "Wyrzutnia Rakiet",
+      "name_en": "",
+      "city": "Łeba",
+      "country": "Poland",
+      "latitude": 54.751417,
+      "longitude": 17.46717,
+      "website": ""
+    },
+    {
+      "name": "Wystawa samochodów klasycznych",
+      "name_en": "",
+      "city": "Gdańsk",
+      "country": "Poland",
+      "latitude": 54.382852,
+      "longitude": 18.605389,
+      "website": ""
+    },
+    {
+      "name": "Wytwornia",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.048403,
+      "longitude": 19.9611,
+      "website": ""
+    },
+    {
+      "name": "Zabytkowa chyża łemkowska",
+      "name_en": "",
+      "city": "Krempna",
+      "country": "Poland",
+      "latitude": 49.46763,
+      "longitude": 21.590048,
+      "website": ""
+    },
+    {
+      "name": "Zabytkowa Kopalnia Ignacy",
+      "name_en": "",
+      "city": "Radlin",
+      "country": "Poland",
+      "latitude": 50.062325,
+      "longitude": 18.467374,
+      "website": "http://www.rybnik.pl/ignacy/dzis1.html"
+    },
+    {
+      "name": "Zabytkowa Kopalnia Węgla Kamiennego Guido",
+      "name_en": "",
+      "city": "Zabrze",
+      "country": "Poland",
+      "latitude": 50.289574,
+      "longitude": 18.791325,
+      "website": "http://kopalniaguido.pl/"
+    },
+    {
+      "name": "Zagroda Albrechta",
+      "name_en": "",
+      "city": "Ustka",
+      "country": "Poland",
+      "latitude": 54.477828,
+      "longitude": 16.838444,
+      "website": ""
+    },
+    {
+      "name": "Zagroda Czerniakiewiczów",
+      "name_en": "",
+      "city": "Bodzentyn",
+      "country": "Poland",
+      "latitude": 50.940281,
+      "longitude": 20.960274,
+      "website": ""
+    },
+    {
+      "name": "Zagroda Felicji Curyłowej",
+      "name_en": "",
+      "city": "Gręboszów",
+      "country": "Poland",
+      "latitude": 50.23496,
+      "longitude": 20.849215,
+      "website": "http://www.muzeum.tarnow.pl/oddzialy.php?id=6"
+    },
+    {
+      "name": "Zagroda Lachowska \"Kubalówka\"",
+      "name_en": "",
+      "city": "Podegrodzie",
+      "country": "Poland",
+      "latitude": 49.575598,
+      "longitude": 20.590038,
+      "website": ""
+    },
+    {
+      "name": "Zagroda Młyńska",
+      "name_en": "",
+      "city": "Bogdaniec",
+      "country": "Poland",
+      "latitude": 52.696869,
+      "longitude": 15.065184,
+      "website": "http://www.muzeumlubuskie.pl/"
+    },
+    {
+      "name": "Zajezdnia Muzealna Brus",
+      "name_en": "",
+      "city": "Konstantynów Łódzki",
+      "country": "Poland",
+      "latitude": 51.753652,
+      "longitude": 19.381428,
+      "website": ""
+    },
+    {
+      "name": "Zamek biskupi w Oporowie",
+      "name_en": "",
+      "city": "Oporów",
+      "country": "Poland",
+      "latitude": 52.262542,
+      "longitude": 19.562359,
+      "website": ""
+    },
+    {
+      "name": "Zamek Dunajec",
+      "name_en": "",
+      "city": "Niedzica",
+      "country": "Poland",
+      "latitude": 49.422534,
+      "longitude": 20.31968,
+      "website": "http://zamek-w-niedzicy.pl"
+    },
+    {
+      "name": "Zamek Grodno",
+      "name_en": "",
+      "city": "Dziećmorowice",
+      "country": "Poland",
+      "latitude": 50.749356,
+      "longitude": 16.410369,
+      "website": ""
+    },
+    {
+      "name": "Zamek królewski w Stopnicy",
+      "name_en": "",
+      "city": "Stopnica",
+      "country": "Poland",
+      "latitude": 50.441109,
+      "longitude": 20.933803,
+      "website": ""
+    },
+    {
+      "name": "Zamek Ślaskich Legend",
+      "name_en": "",
+      "city": "Lwówek Śląski",
+      "country": "Poland",
+      "latitude": 51.049523,
+      "longitude": 15.589339,
+      "website": ""
+    },
+    {
+      "name": "Zamoyscy i ich dzieło",
+      "name_en": "",
+      "city": "Zakopane",
+      "country": "Poland",
+      "latitude": 49.272485,
+      "longitude": 19.98222,
+      "website": ""
+    },
+    {
+      "name": "Zbiory Sztuki MZKiD",
+      "name_en": "",
+      "city": "Włocławek",
+      "country": "Poland",
+      "latitude": 52.661239,
+      "longitude": 19.070532,
+      "website": ""
+    },
+    {
+      "name": "Zespół huty żelaza",
+      "name_en": "",
+      "city": "Murów",
+      "country": "Poland",
+      "latitude": 50.873439,
+      "longitude": 17.971984,
+      "website": ""
+    },
+    {
+      "name": "Zespół Pałacowy w Kurozwękach",
+      "name_en": "",
+      "city": "Staszów",
+      "country": "Poland",
+      "latitude": 50.59724,
+      "longitude": 21.100711,
+      "website": ""
+    },
+    {
+      "name": "Zielnik Uniwersytetu Jagiellońskiego",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.06424,
+      "longitude": 19.957768,
+      "website": "http://www.ib.uj.edu.pl/instytut/zielnik"
+    },
+    {
+      "name": "Średzka Kolej Wąskotorowa",
+      "name_en": "",
+      "city": "Środa Wielkopolska",
+      "country": "Poland",
+      "latitude": 52.221825,
+      "longitude": 17.27893,
+      "website": ""
+    },
+    {
+      "name": "Świątynia Sybilli",
+      "name_en": "",
+      "city": "Puławy",
+      "country": "Poland",
+      "latitude": 51.410604,
+      "longitude": 21.962783,
+      "website": ""
+    },
+    {
+      "name": "Żarowska Izba Historyczna",
+      "name_en": "",
+      "city": "Żarów",
+      "country": "Poland",
+      "latitude": 50.940737,
+      "longitude": 16.495062,
+      "website": ""
+    },
+    {
+      "name": "Żydowskie Muzeum Galicja",
+      "name_en": "",
+      "city": "Kraków",
+      "country": "Poland",
+      "latitude": 50.050857,
+      "longitude": 19.949677,
+      "website": "http://www.galiciajewishmuseum.org/"
+    },
+    {
+      "name": "Żywe Muzeum Piernika",
+      "name_en": "",
+      "city": "Toruń",
+      "country": "Poland",
+      "latitude": 53.008653,
+      "longitude": 18.604874,
+      "website": "http://muzeumpiernika.pl"
+    },
+    {
+      "name": "Żywe Muzeum Porcelany",
+      "name_en": "",
+      "city": "Ćmielów",
+      "country": "Poland",
+      "latitude": 50.886516,
+      "longitude": 21.532503,
+      "website": ""
+    },
+    {
+      "name": "Żółty Domek",
+      "name_en": "",
+      "city": "Goleniów",
+      "country": "Poland",
+      "latitude": 53.562879,
+      "longitude": 14.832562,
+      "website": ""
+    },
+    {
+      "name": "Кімната-музей народного побуту",
+      "name_en": "",
+      "city": "Lutowiska",
+      "country": "Poland",
+      "latitude": 49.255464,
+      "longitude": 22.833305,
+      "website": ""
+    },
+    {
+      "name": "Мемориальный музей Кристионаса Донелайтиса",
+      "name_en": "Kristijonas Donelaitis Memorial Museum",
+      "city": "Gołdap",
+      "country": "Poland",
+      "latitude": 54.455975,
+      "longitude": 22.433522,
+      "website": "http://www.museum.ru/westrussia/pastor-house.html"
+    },
+    {
+      "name": "Музей космонавтики (им. П. Климука)",
+      "name_en": "",
+      "city": "Włodawa",
+      "country": "Poland",
+      "latitude": 51.561282,
+      "longitude": 23.601736,
+      "website": ""
+    },
+    {
+      "name": "Музей народного быта",
+      "name_en": "",
+      "city": "Białowieża",
+      "country": "Poland",
+      "latitude": 52.647443,
+      "longitude": 23.929364,
+      "website": ""
+    },
+    {
+      "name": "Художественный музей",
+      "name_en": "",
+      "city": "Terespol",
+      "country": "Poland",
+      "latitude": 52.081757,
+      "longitude": 23.652444,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Muzea w Polsce (Museums in Poland) - Bezpłatne pobieranie",
+    "description": "Lista 710 muzeów w Polsce z OpenStreetMap — nazwa, miasto, współrzędne i strona internetowa. Zawiera 710 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Muzea w Polsce (Museums in Poland) | ListBase",
+    "seo_description": "Pobierz Muzea w Polsce (Museums in Poland) — 710 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 710 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

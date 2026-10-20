@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "Zbiór Danych: Tabela Klasyfikacji Zaimków Angielskich",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Pierwsza",
+      "number": "Pojedyncza",
+      "gender": "Neutralny",
+      "example": "I am happy.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "you",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Druga",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Neutralny",
+      "example": "You are kind.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "he",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Męski",
+      "example": "He runs fast.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "she",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Żeński",
+      "example": "She sings well.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "it",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "It is raining.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "we",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Pierwsza",
+      "number": "Mnoga",
+      "gender": "Neutralny",
+      "example": "We are friends.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "they",
+      "type": "Osobowy",
+      "case": "Mianownik",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Neutralny",
+      "example": "They work hard.",
+      "function": "Podmiot czasownika"
+    },
+    {
+      "pronoun": "me",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Pierwsza",
+      "number": "Pojedyncza",
+      "gender": "Neutralny",
+      "example": "She called me.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "you",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Druga",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Neutralny",
+      "example": "I saw you.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "him",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Męski",
+      "example": "We helped him.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "her",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Żeński",
+      "example": "They met her.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "it",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "I found it.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "us",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Pierwsza",
+      "number": "Mnoga",
+      "gender": "Neutralny",
+      "example": "She joined us.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "them",
+      "type": "Osobowy",
+      "case": "Biernik",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Neutralny",
+      "example": "We invited them.",
+      "function": "Dopełnienie czasownika/przyimka"
+    },
+    {
+      "pronoun": "my",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Pierwsza",
+      "number": "Pojedyncza",
+      "gender": "Neutralny",
+      "example": "This is my book.",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "your",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Druga",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Neutralny",
+      "example": "Is this your car?",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "his",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Męski",
+      "example": "That is his phone.",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "her",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Żeński",
+      "example": "I like her dress.",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "its",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "The dog wagged its tail.",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "our",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnik",
+      "person": "Pierwsza",
+      "number": "Mnoga",
+      "gender": "Neutralny",
+      "example": "This is our house.",
+      "function": "Określa rzeczownik"
+    },
+    {
+      "pronoun": "their",
+      "type": "Dzierżawczy",
+      "case": "Przymiotnikowy",
+      "person": "Trzecia",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "They lost their keys.",
+      "function": "Modyfikuje rzeczownik"
+    },
+    {
+      "pronoun": "mine",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Pierwsza",
+      "number": "Liczba pojedyncza",
+      "gender": "Neutralny",
+      "example": "This book is mine.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "yours",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Druga",
+      "number": "Liczba pojedyncza/mnoga",
+      "gender": "Neutralny",
+      "example": "Is this car yours?",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "his",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Męski",
+      "example": "The phone is his.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "hers",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Żeński",
+      "example": "The dress is hers.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "its",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Nijaki",
+      "example": "The responsibility is its.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "ours",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Pierwsza",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "The house is ours.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "Dzierżawczy",
+      "case": "Samodzielny",
+      "person": "Trzecia",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "The car is theirs.",
+      "function": "Zastępuje frazę rzeczownikową"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Pierwsza",
+      "number": "Liczba pojedyncza",
+      "gender": "Neutralny",
+      "example": "I hurt myself.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Druga",
+      "number": "Liczba pojedyncza",
+      "gender": "Neutralny",
+      "example": "You should believe in yourself.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Męski",
+      "example": "He taught himself.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Żeński",
+      "example": "She introduced herself.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Trzecia",
+      "number": "Liczba pojedyncza",
+      "gender": "Nijaki",
+      "example": "The cat cleaned itself.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Pierwsza",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "We enjoyed ourselves.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Druga",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "Help yourselves.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Zwrotny",
+      "case": "Zwrotny",
+      "person": "Trzecia",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "They blamed themselves.",
+      "function": "Dopełnienie odnosi się do podmiotu"
+    },
+    {
+      "pronoun": "this",
+      "type": "Wskazujący",
+      "case": "-",
+      "person": "-",
+      "number": "Liczba pojedyncza",
+      "gender": "Neutralny",
+      "example": "This is delicious.",
+      "function": "Wskazuje na bliski obiekt"
+    },
+    {
+      "pronoun": "that",
+      "type": "Wskazujący",
+      "case": "-",
+      "person": "-",
+      "number": "Liczba pojedyncza",
+      "gender": "Neutralny",
+      "example": "That is beautiful.",
+      "function": "Wskazuje na daleki obiekt"
+    },
+    {
+      "pronoun": "these",
+      "type": "Wskazujący",
+      "case": "-",
+      "person": "-",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "These are my books.",
+      "function": "Wskazuje na bliskie obiekty"
+    },
+    {
+      "pronoun": "those",
+      "type": "Wskazujący",
+      "case": "-",
+      "person": "-",
+      "number": "Liczba mnoga",
+      "gender": "Neutralny",
+      "example": "Those are expensive.",
+      "function": "Wskazuje na dalekie obiekty"
+    },
+    {
+      "pronoun": "who",
+      "type": "Pytający",
+      "case": "Podmiot",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Who called?",
+      "function": "Pyta o osobę (podmiot)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Pytający",
+      "case": "Przedmiot",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Whom did you call?",
+      "function": "Pyta o osobę (przedmiot)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Pytający",
+      "case": "Dopełniacz",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Whose is this?",
+      "function": "Pyta o posiadanie"
+    },
+    {
+      "pronoun": "what",
+      "type": "Pytający",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Rzecz",
+      "example": "What happened?",
+      "function": "Pyta o rzecz/czynność"
+    },
+    {
+      "pronoun": "which",
+      "type": "Pytający",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Rzecz",
+      "example": "Which do you prefer?",
+      "function": "Pyta o wybór"
+    },
+    {
+      "pronoun": "who",
+      "type": "Względny",
+      "case": "Podmiot",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "The man who called is here.",
+      "function": "Wprowadza zdanie podrzędne (podmiot)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Względny",
+      "case": "Przedmiot",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "The person whom I met was kind.",
+      "function": "Wprowadza zdanie podrzędne (przedmiot)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Względny",
+      "case": "Dopełniacz",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Rzecz",
+      "example": "The author whose book I read.",
+      "function": "Pokazuje posiadanie w zdaniu podrzędnym"
+    },
+    {
+      "pronoun": "which",
+      "type": "Względny",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Rzecz",
+      "example": "The book which I read was good.",
+      "function": "Wprowadza zdanie podrzędne (rzecz)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Względny",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Rzecz",
+      "example": "The house that Jack built.",
+      "function": "Wprowadza zdanie podrzędne ograniczające"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Osoba",
+      "example": "Anyone can join.",
+      "function": "Odnosi się do dowolnej osoby"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Osoba",
+      "example": "Everyone is welcome.",
+      "function": "Odnosi się do wszystkich osób"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Osoba",
+      "example": "Someone called you.",
+      "function": "Odnosi się do nieokreślonej osoby"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Osoba",
+      "example": "No one was there.",
+      "function": "Odnosi się do żadnej osoby"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Rzecz",
+      "example": "Is there anything to eat?",
+      "function": "Odnosi się do dowolnej rzeczy"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Rzecz",
+      "example": "Everything is ready.",
+      "function": "Odnosi się do wszystkich rzeczy"
+    },
+    {
+      "pronoun": "something",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Rzecz",
+      "example": "I heard something.",
+      "function": "Odnosi się do nieokreślonej rzeczy"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Rzecz",
+      "example": "Nothing happened.",
+      "function": "Odnosi się do żadnej rzeczy"
+    },
+    {
+      "pronoun": "all",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Neutralny",
+      "example": "All are welcome.",
+      "function": "Odnosi się do całej ilości"
+    },
+    {
+      "pronoun": "some",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Neutralny",
+      "example": "Some are missing.",
+      "function": "Odnosi się do części ilości"
+    },
+    {
+      "pronoun": "none",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza/Mnoga",
+      "gender": "Nijaki",
+      "example": "None were found.",
+      "function": "Odnosi się do zerowej ilości"
+    },
+    {
+      "pronoun": "both",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Nijaki",
+      "example": "Both are correct.",
+      "function": "Odnosi się do dwóch rzeczy razem"
+    },
+    {
+      "pronoun": "each",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "Each has a role.",
+      "function": "Odnosi się do jednostek"
+    },
+    {
+      "pronoun": "either",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "Either will work.",
+      "function": "Odnosi się do jednej z dwóch"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "Neither is correct.",
+      "function": "Odnosi się do żadnej z dwóch"
+    },
+    {
+      "pronoun": "few",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Nijaki",
+      "example": "Few attended.",
+      "function": "Odnosi się do małej liczby"
+    },
+    {
+      "pronoun": "many",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Nijaki",
+      "example": "Many have tried.",
+      "function": "Odnosi się do dużej liczby"
+    },
+    {
+      "pronoun": "several",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Mnoga",
+      "gender": "Nijaki",
+      "example": "Several are broken.",
+      "function": "Odnosi się do więcej niż dwóch"
+    },
+    {
+      "pronoun": "one",
+      "type": "Nieokreślony",
+      "case": "-",
+      "person": "Trzecia",
+      "number": "Pojedyncza",
+      "gender": "Nijaki",
+      "example": "One must be careful.",
+      "function": "Odnosi się do dowolnej osoby (formalnie)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Zaimków Angielskich - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz obszerny zestaw danych tabeli zaimków angielskich. Dostęp do 69 rekordów obejmujących typ, przypadek, osobę, rodzaj i przykłady zaimków. Bezpłatnie w Excel, CSV, PDF.",
+    "title": "Zbiór Danych: Tabela Klasyfikacji Zaimków Angielskich",
+    "description": "Ten zbiór danych dostarcza szczegółową klasyfikację 69 angielskich zaimków, w tym ich typ, przypadek gramatyczny, osobę, liczbę, rodzaj, przykładowe zdania i funkcję. Jest to niezbędne źródło dla lingwistów, pedagogów i osób uczących się języka.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do obszernej listy 69 angielskich zaimków ze szczegółowymi atrybutami gramatycznymi.",
+      "Przeglądaj typy zaimków, przypadki, osoby, liczby, rodzaje i funkcje.",
+      "Pobierz przykładowe zdania dla praktycznego zrozumienia użycia zaimków.",
+      "Wykorzystaj ustrukturyzowane dane do analizy językowej i tworzenia materiałów edukacyjnych."
+    ],
+    "keywords": [
+      "zaimki angielskie lista",
+      "tabela zaimków angielskich",
+      "gramatyka angielska excel",
+      "typy zaimków",
+      "przykłady zaimków csv",
+      "pobierz zaimki"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do bazy danych SQL lub skryptu Pythona, aby zbudować narzędzie do analizy zaimków lub API.",
+      "Użyj pliku **Excel** do filtrowania zaimków według typu, przypadku lub rodzaju, tworzenia tabel przestawnych do analizy statystycznej lub przygotowywania raportów gramatycznych.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, materiałów do nauki języka lub jako szybki przewodnik offline po angielskich zaimkach.",
+      "Zintegruj ten ustrukturyzowany zbiór danych z oprogramowaniem edukacyjnym lub platformami e-learningowymi, aby wzbogacić lekcje gramatyki angielskiej."
+    ]
+  },
+  "record_count": 69,
+  "title": "Zbiór Danych: Tabela Klasyfikacji Zaimków Angielskich"
+}

@@ -1,0 +1,776 @@
+{
+  "id": "pl-slaskie-miasta",
+  "name": "Miasta w województwie śląskie",
+  "title": "Miasta w województwie śląskie",
+  "description": "Cities and towns (miasta) in Śląskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "1087",
+      "name": "Będzin",
+      "type": "city",
+      "province": "śląskie",
+      "district": "będziński",
+      "commune": "Będzin-gmina miejska",
+      "latitude": 50.3242,
+      "longitude": 19.1358
+    },
+    {
+      "id": "1483",
+      "name": "Bielsko-Biała",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Bielsko-Biała",
+      "commune": "Bielsko-Biała-gmina miejska",
+      "latitude": 49.8219,
+      "longitude": 19.0444
+    },
+    {
+      "id": "1539",
+      "name": "Bieruń",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bieruńsko-lędziński",
+      "commune": "Bieruń-gmina miejska",
+      "latitude": 50.0917,
+      "longitude": 19.0911
+    },
+    {
+      "id": "1686",
+      "name": "Blachownia",
+      "type": "city",
+      "province": "śląskie",
+      "district": "częstochowski",
+      "commune": "Blachownia-gmina miejsko-wiejska",
+      "latitude": 50.7842,
+      "longitude": 18.9625
+    },
+    {
+      "id": "3941",
+      "name": "Bytom",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Bytom",
+      "commune": "Bytom-gmina miejska",
+      "latitude": 50.3469,
+      "longitude": 18.9233
+    },
+    {
+      "id": "4529",
+      "name": "Chorzów",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Chorzów",
+      "commune": "Chorzów-gmina miejska",
+      "latitude": 50.2986,
+      "longitude": 18.9547
+    },
+    {
+      "id": "5038",
+      "name": "Cieszyn",
+      "type": "city",
+      "province": "śląskie",
+      "district": "cieszyński",
+      "commune": "Cieszyn-gmina miejska",
+      "latitude": 49.7486,
+      "longitude": 18.6339
+    },
+    {
+      "id": "5507",
+      "name": "Czechowice-Dziedzice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bielski",
+      "commune": "Czechowice-Dziedzice-gmina miejsko-wiejska",
+      "latitude": 49.9111,
+      "longitude": 19.0072
+    },
+    {
+      "id": "5544",
+      "name": "Czeladź",
+      "type": "city",
+      "province": "śląskie",
+      "district": "będziński",
+      "commune": "Czeladź-gmina miejska",
+      "latitude": 50.3153,
+      "longitude": 19.0717
+    },
+    {
+      "id": "5662",
+      "name": "Czerwionka-Leszczyny",
+      "type": "city",
+      "province": "śląskie",
+      "district": "rybnicki",
+      "commune": "Czerwionka-Leszczyny-gmina miejsko-wiejska",
+      "latitude": 50.1592,
+      "longitude": 18.6633
+    },
+    {
+      "id": "5721",
+      "name": "Częstochowa",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Częstochowa",
+      "commune": "Częstochowa-gmina miejska",
+      "latitude": 50.8083,
+      "longitude": 19.1272
+    },
+    {
+      "id": "6165",
+      "name": "Dąbrowa Górnicza",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Dąbrowa Górnicza",
+      "commune": "Dąbrowa Górnicza-gmina miejska",
+      "latitude": 50.3214,
+      "longitude": 19.1872
+    },
+    {
+      "id": "8703",
+      "name": "Gliwice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Gliwice",
+      "commune": "Gliwice-gmina miejska",
+      "latitude": 50.2939,
+      "longitude": 18.6656
+    },
+    {
+      "id": "11145",
+      "name": "Imielin",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bieruńsko-lędziński",
+      "commune": "Imielin-gmina miejska",
+      "latitude": 50.1461,
+      "longitude": 19.1858
+    },
+    {
+      "id": "12098",
+      "name": "Jastrzębie-Zdrój",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Jastrzębie-Zdrój",
+      "commune": "Jastrzębie-Zdrój-gmina miejska",
+      "latitude": 49.9503,
+      "longitude": 18.5742
+    },
+    {
+      "id": "12221",
+      "name": "Jaworzno",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Jaworzno",
+      "commune": "Jaworzno-gmina miejska",
+      "latitude": 50.2042,
+      "longitude": 19.2644
+    },
+    {
+      "id": "12961",
+      "name": "Kalety",
+      "type": "city",
+      "province": "śląskie",
+      "district": "tarnogórski",
+      "commune": "Kalety-gmina miejska",
+      "latitude": 50.5661,
+      "longitude": 18.8889
+    },
+    {
+      "id": "13679",
+      "name": "Katowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Katowice",
+      "commune": "Katowice-gmina miejska",
+      "latitude": 50.2597,
+      "longitude": 19.0133
+    },
+    {
+      "id": "14478",
+      "name": "Kłobuck",
+      "type": "city",
+      "province": "śląskie",
+      "district": "kłobucki",
+      "commune": "Kłobuck-gmina miejsko-wiejska",
+      "latitude": 50.9053,
+      "longitude": 18.9378
+    },
+    {
+      "id": "14585",
+      "name": "Knurów",
+      "type": "city",
+      "province": "śląskie",
+      "district": "gliwicki",
+      "commune": "Knurów-gmina miejska",
+      "latitude": 50.2231,
+      "longitude": 18.6669
+    },
+    {
+      "id": "15100",
+      "name": "Koniecpol",
+      "type": "city",
+      "province": "śląskie",
+      "district": "częstochowski",
+      "commune": "Koniecpol-gmina miejsko-wiejska",
+      "latitude": 50.7728,
+      "longitude": 19.6769
+    },
+    {
+      "id": "15927",
+      "name": "Koziegłowy",
+      "type": "city",
+      "province": "śląskie",
+      "district": "myszkowski",
+      "commune": "Koziegłowy-gmina miejsko-wiejska",
+      "latitude": 50.5983,
+      "longitude": 19.1619
+    },
+    {
+      "id": "16662",
+      "name": "Krzanowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "raciborski",
+      "commune": "Krzanowice-gmina miejsko-wiejska",
+      "latitude": 50.0186,
+      "longitude": 18.1253
+    },
+    {
+      "id": "16733",
+      "name": "Krzepice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "kłobucki",
+      "commune": "Krzepice-gmina miejsko-wiejska",
+      "latitude": 50.9708,
+      "longitude": 18.7283
+    },
+    {
+      "id": "17389",
+      "name": "Kuźnia Raciborska",
+      "type": "city",
+      "province": "śląskie",
+      "district": "raciborski",
+      "commune": "Kuźnia Raciborska-gmina miejsko-wiejska",
+      "latitude": 50.2003,
+      "longitude": 18.3114
+    },
+    {
+      "id": "18002",
+      "name": "Lędziny",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bieruńsko-lędziński",
+      "commune": "Lędziny-gmina miejska",
+      "latitude": 50.1303,
+      "longitude": 19.1083
+    },
+    {
+      "id": "18657",
+      "name": "Lubliniec",
+      "type": "city",
+      "province": "śląskie",
+      "district": "lubliniecki",
+      "commune": "Lubliniec-gmina miejska",
+      "latitude": 50.6692,
+      "longitude": 18.6831
+    },
+    {
+      "id": "19167",
+      "name": "Łaziska Górne",
+      "type": "city",
+      "province": "śląskie",
+      "district": "mikołowski",
+      "commune": "Łaziska Górne-gmina miejska",
+      "latitude": 50.1494,
+      "longitude": 18.8397
+    },
+    {
+      "id": "19203",
+      "name": "Łazy",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Łazy-gmina miejsko-wiejska",
+      "latitude": 50.4275,
+      "longitude": 19.3942
+    },
+    {
+      "id": "20981",
+      "name": "Miasteczko Śląskie",
+      "type": "city",
+      "province": "śląskie",
+      "district": "tarnogórski",
+      "commune": "Miasteczko Śląskie-gmina miejska",
+      "latitude": 50.4906,
+      "longitude": 18.9222
+    },
+    {
+      "id": "21430",
+      "name": "Mikołów",
+      "type": "city",
+      "province": "śląskie",
+      "district": "mikołowski",
+      "commune": "Mikołów-gmina miejska",
+      "latitude": 50.1697,
+      "longitude": 18.9053
+    },
+    {
+      "id": "22452",
+      "name": "Mysłowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Mysłowice",
+      "commune": "Mysłowice-gmina miejska",
+      "latitude": 50.245,
+      "longitude": 19.1353
+    },
+    {
+      "id": "22480",
+      "name": "Myszków",
+      "type": "city",
+      "province": "śląskie",
+      "district": "myszkowski",
+      "commune": "Myszków-gmina miejska",
+      "latitude": 50.5739,
+      "longitude": 19.3233
+    },
+    {
+      "id": "24530",
+      "name": "Ogrodzieniec",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Ogrodzieniec-gmina miejsko-wiejska",
+      "latitude": 50.4514,
+      "longitude": 19.5217
+    },
+    {
+      "id": "25082",
+      "name": "Orzesze",
+      "type": "city",
+      "province": "śląskie",
+      "district": "mikołowski",
+      "commune": "Orzesze-gmina miejska",
+      "latitude": 50.1444,
+      "longitude": 18.7761
+    },
+    {
+      "id": "26446",
+      "name": "Piekary Śląskie",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Piekary Śląskie",
+      "commune": "Piekary Śląskie-gmina miejska",
+      "latitude": 50.3839,
+      "longitude": 18.9447
+    },
+    {
+      "id": "26659",
+      "name": "Pilica",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Pilica-gmina miejsko-wiejska",
+      "latitude": 50.4678,
+      "longitude": 19.6572
+    },
+    {
+      "id": "27972",
+      "name": "Poręba",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Poręba-gmina miejska",
+      "latitude": 50.4886,
+      "longitude": 19.3406
+    },
+    {
+      "id": "28944",
+      "name": "Pszczyna",
+      "type": "city",
+      "province": "śląskie",
+      "district": "pszczyński",
+      "commune": "Pszczyna-gmina miejsko-wiejska",
+      "latitude": 49.9781,
+      "longitude": 18.9417
+    },
+    {
+      "id": "28947",
+      "name": "Pszów",
+      "type": "city",
+      "province": "śląskie",
+      "district": "wodzisławski",
+      "commune": "Pszów-gmina miejska",
+      "latitude": 50.0375,
+      "longitude": 18.3961
+    },
+    {
+      "id": "29071",
+      "name": "Pyskowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "gliwicki",
+      "commune": "Pyskowice-gmina miejska",
+      "latitude": 50.3978,
+      "longitude": 18.6275
+    },
+    {
+      "id": "29124",
+      "name": "Racibórz",
+      "type": "city",
+      "province": "śląskie",
+      "district": "raciborski",
+      "commune": "Racibórz-gmina miejska",
+      "latitude": 50.0908,
+      "longitude": 18.22
+    },
+    {
+      "id": "29202",
+      "name": "Radlin",
+      "type": "city",
+      "province": "śląskie",
+      "district": "wodzisławski",
+      "commune": "Radlin-gmina miejska",
+      "latitude": 50.0467,
+      "longitude": 18.4547
+    },
+    {
+      "id": "29393",
+      "name": "Radzionków",
+      "type": "city",
+      "province": "śląskie",
+      "district": "tarnogórski",
+      "commune": "Radzionków-gmina miejska",
+      "latitude": 50.4003,
+      "longitude": 18.9033
+    },
+    {
+      "id": "30478",
+      "name": "Ruda Śląska",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Ruda Śląska",
+      "commune": "Ruda Śląska-gmina miejska",
+      "latitude": 50.2806,
+      "longitude": 18.8592
+    },
+    {
+      "id": "30840",
+      "name": "Rybnik",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Rybnik",
+      "commune": "Rybnik-gmina miejska",
+      "latitude": 50.0947,
+      "longitude": 18.5422
+    },
+    {
+      "id": "30910",
+      "name": "Rydułtowy",
+      "type": "city",
+      "province": "śląskie",
+      "district": "wodzisławski",
+      "commune": "Rydułtowy-gmina miejska",
+      "latitude": 50.0581,
+      "longitude": 18.4178
+    },
+    {
+      "id": "31843",
+      "name": "Siemianowice Śląskie",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Siemianowice Śląskie",
+      "commune": "Siemianowice Śląskie-gmina miejska",
+      "latitude": 50.3025,
+      "longitude": 19.0336
+    },
+    {
+      "id": "32026",
+      "name": "Siewierz",
+      "type": "city",
+      "province": "śląskie",
+      "district": "będziński",
+      "commune": "Siewierz-gmina miejsko-wiejska",
+      "latitude": 50.4694,
+      "longitude": 19.2364
+    },
+    {
+      "id": "32270",
+      "name": "Skoczów",
+      "type": "city",
+      "province": "śląskie",
+      "district": "cieszyński",
+      "commune": "Skoczów-gmina miejsko-wiejska",
+      "latitude": 49.8019,
+      "longitude": 18.7875
+    },
+    {
+      "id": "32543",
+      "name": "Sławków",
+      "type": "city",
+      "province": "śląskie",
+      "district": "będziński",
+      "commune": "Sławków-gmina miejska",
+      "latitude": 50.2983,
+      "longitude": 19.3883
+    },
+    {
+      "id": "33198",
+      "name": "Sosnowiec",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Sosnowiec",
+      "commune": "Sosnowiec-gmina miejska",
+      "latitude": 50.2789,
+      "longitude": 19.1294
+    },
+    {
+      "id": "33222",
+      "name": "Sośnicowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "gliwicki",
+      "commune": "Sośnicowice-gmina miejsko-wiejska",
+      "latitude": 50.2722,
+      "longitude": 18.5297
+    },
+    {
+      "id": "34671",
+      "name": "Strumień",
+      "type": "city",
+      "province": "śląskie",
+      "district": "cieszyński",
+      "commune": "Strumień-gmina miejsko-wiejska",
+      "latitude": 49.9172,
+      "longitude": 18.7633
+    },
+    {
+      "id": "35493",
+      "name": "Szczekociny",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Szczekociny-gmina miejsko-wiejska",
+      "latitude": 50.6258,
+      "longitude": 19.8181
+    },
+    {
+      "id": "35616",
+      "name": "Szczyrk",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bielski",
+      "commune": "Szczyrk-gmina miejska",
+      "latitude": 49.7119,
+      "longitude": 19.0192
+    },
+    {
+      "id": "36424",
+      "name": "Świętochłowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Świętochłowice",
+      "commune": "Świętochłowice-gmina miejska",
+      "latitude": 50.2919,
+      "longitude": 18.915
+    },
+    {
+      "id": "36647",
+      "name": "Tarnowskie Góry",
+      "type": "city",
+      "province": "śląskie",
+      "district": "tarnogórski",
+      "commune": "Tarnowskie Góry-gmina miejska",
+      "latitude": 50.4456,
+      "longitude": 18.8558
+    },
+    {
+      "id": "37024",
+      "name": "Toszek",
+      "type": "city",
+      "province": "śląskie",
+      "district": "gliwicki",
+      "commune": "Toszek-gmina miejsko-wiejska",
+      "latitude": 50.4547,
+      "longitude": 18.52
+    },
+    {
+      "id": "37632",
+      "name": "Tychy",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Tychy",
+      "commune": "Tychy-gmina miejska",
+      "latitude": 50.1283,
+      "longitude": 18.9817
+    },
+    {
+      "id": "37950",
+      "name": "Ustroń",
+      "type": "city",
+      "province": "śląskie",
+      "district": "cieszyński",
+      "commune": "Ustroń-gmina miejska",
+      "latitude": 49.7203,
+      "longitude": 18.8119
+    },
+    {
+      "id": "39054",
+      "name": "Wilamowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "bielski",
+      "commune": "Wilamowice-gmina miejsko-wiejska",
+      "latitude": 49.9164,
+      "longitude": 19.1528
+    },
+    {
+      "id": "39324",
+      "name": "Wisła",
+      "type": "city",
+      "province": "śląskie",
+      "district": "cieszyński",
+      "commune": "Wisła-gmina miejska",
+      "latitude": 49.6542,
+      "longitude": 18.8608
+    },
+    {
+      "id": "39653",
+      "name": "Wodzisław Śląski",
+      "type": "city",
+      "province": "śląskie",
+      "district": "wodzisławski",
+      "commune": "Wodzisław Śląski-gmina miejska",
+      "latitude": 50.0028,
+      "longitude": 18.4631
+    },
+    {
+      "id": "39724",
+      "name": "Wojkowice",
+      "type": "city",
+      "province": "śląskie",
+      "district": "będziński",
+      "commune": "Wojkowice-gmina miejska",
+      "latitude": 50.3628,
+      "longitude": 19.0447
+    },
+    {
+      "id": "40342",
+      "name": "Woźniki",
+      "type": "city",
+      "province": "śląskie",
+      "district": "lubliniecki",
+      "commune": "Woźniki-gmina miejsko-wiejska",
+      "latitude": 50.5869,
+      "longitude": 19.06
+    },
+    {
+      "id": "41379",
+      "name": "Zabrze",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Zabrze",
+      "commune": "Zabrze-gmina miejska",
+      "latitude": 50.3,
+      "longitude": 18.7889
+    },
+    {
+      "id": "42307",
+      "name": "Zawiercie",
+      "type": "city",
+      "province": "śląskie",
+      "district": "zawierciański",
+      "commune": "Zawiercie-gmina miejska",
+      "latitude": 50.4878,
+      "longitude": 19.4258
+    },
+    {
+      "id": "43157",
+      "name": "Żarki",
+      "type": "city",
+      "province": "śląskie",
+      "district": "myszkowski",
+      "commune": "Żarki-gmina miejsko-wiejska",
+      "latitude": 50.6258,
+      "longitude": 19.3658
+    },
+    {
+      "id": "43434",
+      "name": "Żory",
+      "type": "city",
+      "province": "śląskie",
+      "district": "Żory",
+      "commune": "Żory-gmina miejska",
+      "latitude": 50.0453,
+      "longitude": 18.6942
+    },
+    {
+      "id": "43616",
+      "name": "Żywiec",
+      "type": "city",
+      "province": "śląskie",
+      "district": "żywiecki",
+      "commune": "Żywiec-gmina miejska",
+      "latitude": 49.6781,
+      "longitude": 19.1881
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie śląskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Śląskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 71 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie śląskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie śląskie — 71 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 71 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "pl-jednostki-miary-duration",
+  "name": "Jednostki miary — kategoria 'duration' (15)",
+  "title": "Jednostki miary — kategoria 'duration' (15)",
+  "description": "Jednostki miary kategorii 'duration' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategoria": "duration",
+      "nazwa": "wieki",
+      "skrot": "w.",
+      "forma_waska": "w.",
+      "wzorzec": "{0} wieku"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategoria": "duration",
+      "nazwa": "dzień",
+      "skrot": "dzień",
+      "forma_waska": "dzień",
+      "wzorzec": "{0} dnia"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategoria": "duration",
+      "nazwa": "dekady",
+      "skrot": "dek",
+      "forma_waska": "dek",
+      "wzorzec": "{0} dekady"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategoria": "duration",
+      "nazwa": "fortnight",
+      "skrot": "fortnight",
+      "forma_waska": "fortnight",
+      "wzorzec": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategoria": "duration",
+      "nazwa": "godziny",
+      "skrot": "godz.",
+      "forma_waska": "h",
+      "wzorzec": "{0} godziny"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategoria": "duration",
+      "nazwa": "mikrosekundy",
+      "skrot": "μs",
+      "forma_waska": "μs",
+      "wzorzec": "{0} mikrosekundy"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategoria": "duration",
+      "nazwa": "milisekundy",
+      "skrot": "ms",
+      "forma_waska": "ms",
+      "wzorzec": "{0} milisekundy"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategoria": "duration",
+      "nazwa": "minuty",
+      "skrot": "min",
+      "forma_waska": "min",
+      "wzorzec": "{0} minuty"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategoria": "duration",
+      "nazwa": "miesiące",
+      "skrot": "miesiące",
+      "forma_waska": "m-c",
+      "wzorzec": "{0} miesiąca"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategoria": "duration",
+      "nazwa": "nanosekundy",
+      "skrot": "ns",
+      "forma_waska": "ns",
+      "wzorzec": "{0} nanosekundy"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategoria": "duration",
+      "nazwa": "noce",
+      "skrot": "noce",
+      "forma_waska": "noce",
+      "wzorzec": "{0} nocy"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategoria": "duration",
+      "nazwa": "kwartały",
+      "skrot": "kw.",
+      "forma_waska": "kw.",
+      "wzorzec": "{0} kwartału"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategoria": "duration",
+      "nazwa": "sekundy",
+      "skrot": "sek.",
+      "forma_waska": "s",
+      "wzorzec": "{0} sekundy"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategoria": "duration",
+      "nazwa": "tygodnie",
+      "skrot": "tyg.",
+      "forma_waska": "tydz.",
+      "wzorzec": "{0} tygodnia"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategoria": "duration",
+      "nazwa": "lata",
+      "skrot": "lata",
+      "forma_waska": "r.",
+      "wzorzec": "{0} roku"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'duration' (15) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'duration' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 15 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'duration' (15) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'duration' (15) — 15 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 15 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

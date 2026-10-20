@@ -1,0 +1,485 @@
+{
+  "id": "tech-paper-sizes",
+  "name": "Zestaw Danych Rozmiarów Papieru i Wymiarów w Pikselach",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Paper Size (EN)",
+      "type": "string"
+    },
+    {
+      "key": "width_mm",
+      "label": "Width (mm)",
+      "type": "number"
+    },
+    {
+      "key": "height_mm",
+      "label": "Height (mm)",
+      "type": "number"
+    },
+    {
+      "key": "width_inch",
+      "label": "Width (in)",
+      "type": "string"
+    },
+    {
+      "key": "height_inch",
+      "label": "Height (in)",
+      "type": "string"
+    },
+    {
+      "key": "px_72ppi",
+      "label": "Pixels @72 PPI",
+      "type": "string"
+    },
+    {
+      "key": "px_150ppi",
+      "label": "Pixels @150 PPI",
+      "type": "string"
+    },
+    {
+      "key": "px_300ppi",
+      "label": "Pixels @300 PPI",
+      "type": "string"
+    },
+    {
+      "key": "series",
+      "label": "Series (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Common Usage (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A0",
+      "width_mm": 841,
+      "height_mm": 1189,
+      "width_inch": "33.11",
+      "height_inch": "46.81",
+      "px_72ppi": "2384 × 3370",
+      "px_150ppi": "4967 × 7022",
+      "px_300ppi": "9933 × 14043",
+      "series": "ISO A",
+      "description": "Plakaty, rysunki techniczne"
+    },
+    {
+      "name": "A1",
+      "width_mm": 594,
+      "height_mm": 841,
+      "width_inch": "23.39",
+      "height_inch": "33.11",
+      "px_72ppi": "1684 × 2384",
+      "px_150ppi": "3508 × 4967",
+      "px_300ppi": "7016 × 9933",
+      "series": "ISO A",
+      "description": "Plakaty, flipcharty"
+    },
+    {
+      "name": "A2",
+      "width_mm": 420,
+      "height_mm": 594,
+      "width_inch": "16.54",
+      "height_inch": "23.39",
+      "px_72ppi": "1191 × 1684",
+      "px_150ppi": "2480 × 3508",
+      "px_300ppi": "4961 × 7016",
+      "series": "ISO A",
+      "description": "Plakaty, diagramy"
+    },
+    {
+      "name": "A3",
+      "width_mm": 297,
+      "height_mm": 420,
+      "width_inch": "11.69",
+      "height_inch": "16.54",
+      "px_72ppi": "842 × 1191",
+      "px_150ppi": "1754 × 2480",
+      "px_300ppi": "3508 × 4961",
+      "series": "ISO A",
+      "description": "Rysunki, diagramy, duże tabele"
+    },
+    {
+      "name": "A4",
+      "width_mm": 210,
+      "height_mm": 297,
+      "width_inch": "8.27",
+      "height_inch": "11.69",
+      "px_72ppi": "595 × 842",
+      "px_150ppi": "1240 × 1754",
+      "px_300ppi": "2480 × 3508",
+      "series": "ISO A",
+      "description": "Standardowe dokumenty biurowe"
+    },
+    {
+      "name": "A5",
+      "width_mm": 148,
+      "height_mm": 210,
+      "width_inch": "5.83",
+      "height_inch": "8.27",
+      "px_72ppi": "420 × 595",
+      "px_150ppi": "874 × 1240",
+      "px_300ppi": "1748 × 2480",
+      "series": "ISO A",
+      "description": "Notatniki, broszury"
+    },
+    {
+      "name": "A6",
+      "width_mm": 105,
+      "height_mm": 148,
+      "width_inch": "4.13",
+      "height_inch": "5.83",
+      "px_72ppi": "298 × 420",
+      "px_150ppi": "620 × 874",
+      "px_300ppi": "1240 × 1748",
+      "series": "ISO A",
+      "description": "Pocztówki, ulotki"
+    },
+    {
+      "name": "A7",
+      "width_mm": 74,
+      "height_mm": 105,
+      "width_inch": "2.91",
+      "height_inch": "4.13",
+      "px_72ppi": "210 × 298",
+      "px_150ppi": "437 × 620",
+      "px_300ppi": "874 × 1240",
+      "series": "ISO A",
+      "description": "Karty kieszonkowe"
+    },
+    {
+      "name": "A8",
+      "width_mm": 52,
+      "height_mm": 74,
+      "width_inch": "2.05",
+      "height_inch": "2.91",
+      "px_72ppi": "147 × 210",
+      "px_150ppi": "307 × 437",
+      "px_300ppi": "614 × 874",
+      "series": "ISO A",
+      "description": "Karty, etykiety"
+    },
+    {
+      "name": "A9",
+      "width_mm": 37,
+      "height_mm": 52,
+      "width_inch": "1.46",
+      "height_inch": "2.05",
+      "px_72ppi": "105 × 147",
+      "px_150ppi": "219 × 307",
+      "px_300ppi": "437 × 614",
+      "series": "ISO A",
+      "description": "Małe etykiety"
+    },
+    {
+      "name": "A10",
+      "width_mm": 26,
+      "height_mm": 37,
+      "width_inch": "1.02",
+      "height_inch": "1.46",
+      "px_72ppi": "74 × 105",
+      "px_150ppi": "154 × 219",
+      "px_300ppi": "307 × 437",
+      "series": "ISO A",
+      "description": "Malutkie etykiety"
+    },
+    {
+      "name": "B0",
+      "width_mm": 1000,
+      "height_mm": 1414,
+      "width_inch": "39.37",
+      "height_inch": "55.67",
+      "px_72ppi": "2835 × 4008",
+      "px_150ppi": "5906 × 8350",
+      "px_300ppi": "11811 × 16701",
+      "series": "ISO B",
+      "description": "Duże plakaty"
+    },
+    {
+      "name": "B1",
+      "width_mm": 707,
+      "height_mm": 1000,
+      "width_inch": "27.83",
+      "height_inch": "39.37",
+      "px_72ppi": "2004 × 2835",
+      "px_150ppi": "4175 × 5906",
+      "px_300ppi": "8350 × 11811",
+      "series": "ISO B",
+      "description": "Plakaty"
+    },
+    {
+      "name": "B2",
+      "width_mm": 500,
+      "height_mm": 707,
+      "width_inch": "19.69",
+      "height_inch": "27.83",
+      "px_72ppi": "1417 × 2004",
+      "px_150ppi": "2953 × 4175",
+      "px_300ppi": "5906 × 8350",
+      "series": "ISO B",
+      "description": "Plakaty"
+    },
+    {
+      "name": "B3",
+      "width_mm": 353,
+      "height_mm": 500,
+      "width_inch": "13.90",
+      "height_inch": "19.69",
+      "px_72ppi": "1001 × 1417",
+      "px_150ppi": "2085 × 2953",
+      "px_300ppi": "4169 × 5906",
+      "series": "ISO B",
+      "description": "Plakaty, mapy"
+    },
+    {
+      "name": "B4",
+      "width_mm": 250,
+      "height_mm": 353,
+      "width_inch": "9.84",
+      "height_inch": "13.90",
+      "px_72ppi": "709 × 1001",
+      "px_150ppi": "1476 × 2085",
+      "px_300ppi": "2953 × 4169",
+      "series": "ISO B",
+      "description": "Gazety, książki"
+    },
+    {
+      "name": "B5",
+      "width_mm": 176,
+      "height_mm": 250,
+      "width_inch": "6.93",
+      "height_inch": "9.84",
+      "px_72ppi": "499 × 709",
+      "px_150ppi": "1039 × 1476",
+      "px_300ppi": "2079 × 2953",
+      "series": "ISO B",
+      "description": "Książki, czasopisma"
+    },
+    {
+      "name": "Letter",
+      "width_mm": 216,
+      "height_mm": 279,
+      "width_inch": "8.50",
+      "height_inch": "10.98",
+      "px_72ppi": "612 × 791",
+      "px_150ppi": "1276 × 1648",
+      "px_300ppi": "2551 × 3295",
+      "series": "Ameryka Północna",
+      "description": "Standardowy papier biurowy USA"
+    },
+    {
+      "name": "Legal",
+      "width_mm": 216,
+      "height_mm": 356,
+      "width_inch": "8.50",
+      "height_inch": "14.02",
+      "px_72ppi": "612 × 1009",
+      "px_150ppi": "1276 × 2102",
+      "px_300ppi": "2551 × 4205",
+      "series": "Ameryka Północna",
+      "description": "Dokumenty prawne USA"
+    },
+    {
+      "name": "Tabloid",
+      "width_mm": 279,
+      "height_mm": 432,
+      "width_inch": "10.98",
+      "height_inch": "17.01",
+      "px_72ppi": "791 × 1225",
+      "px_150ppi": "1648 × 2551",
+      "px_300ppi": "3295 × 5102",
+      "series": "Ameryka Północna",
+      "description": "Gazety, plakaty USA"
+    },
+    {
+      "name": "Ledger",
+      "width_mm": 432,
+      "height_mm": 279,
+      "width_inch": "17.01",
+      "height_inch": "10.98",
+      "px_72ppi": "1225 × 791",
+      "px_150ppi": "2551 × 1648",
+      "px_300ppi": "5102 × 3295",
+      "series": "Ameryka Północna",
+      "description": "Tabloid poziomy"
+    },
+    {
+      "name": "Executive",
+      "width_mm": 184,
+      "height_mm": 267,
+      "width_inch": "7.24",
+      "height_inch": "10.51",
+      "px_72ppi": "522 × 757",
+      "px_150ppi": "1087 × 1577",
+      "px_300ppi": "2173 × 3154",
+      "series": "Ameryka Północna",
+      "description": "Listy służbowe"
+    },
+    {
+      "name": "Pół Letter",
+      "width_mm": 140,
+      "height_mm": 216,
+      "width_inch": "5.51",
+      "height_inch": "8.50",
+      "px_72ppi": "397 × 612",
+      "px_150ppi": "827 × 1276",
+      "px_300ppi": "1654 × 2551",
+      "series": "Ameryka Północna",
+      "description": "Notatki, małe dokumenty"
+    },
+    {
+      "name": "Junior Legal",
+      "width_mm": 127,
+      "height_mm": 203,
+      "width_inch": "5.00",
+      "height_inch": "7.99",
+      "px_72ppi": "360 × 575",
+      "px_150ppi": "750 × 1199",
+      "px_300ppi": "1500 × 2398",
+      "series": "Ameryka Północna",
+      "description": "Bloki notatnikowe"
+    },
+    {
+      "name": "Zdjęcie 4x6",
+      "width_mm": 102,
+      "height_mm": 152,
+      "width_inch": "4.02",
+      "height_inch": "5.98",
+      "px_72ppi": "289 × 431",
+      "px_150ppi": "602 × 898",
+      "px_300ppi": "1205 × 1795",
+      "series": "Zdjęcie",
+      "description": "Standardowy wydruk zdjęcia"
+    },
+    {
+      "name": "Zdjęcie 5x7",
+      "width_mm": 127,
+      "height_mm": 178,
+      "width_inch": "5.00",
+      "height_inch": "7.01",
+      "px_72ppi": "360 × 505",
+      "px_150ppi": "750 × 1051",
+      "px_300ppi": "1500 × 2102",
+      "series": "Zdjęcie",
+      "description": "Wydruk zdjęcia"
+    },
+    {
+      "name": "Zdjęcie 8x10",
+      "width_mm": 203,
+      "height_mm": 254,
+      "width_inch": "7.99",
+      "height_inch": "10.00",
+      "px_72ppi": "575 × 720",
+      "px_150ppi": "1199 × 1500",
+      "px_300ppi": "2398 × 3000",
+      "series": "Zdjęcie",
+      "description": "Duży wydruk zdjęcia"
+    },
+    {
+      "name": "Zdjęcie 11x14",
+      "width_mm": 279,
+      "height_mm": 356,
+      "width_inch": "10.98",
+      "height_inch": "14.02",
+      "px_72ppi": "791 × 1009",
+      "px_150ppi": "1648 × 2102",
+      "px_300ppi": "3295 × 4205",
+      "series": "Zdjęcie",
+      "description": "Portret, plakat"
+    },
+    {
+      "name": "Koperta DL",
+      "width_mm": 110,
+      "height_mm": 220,
+      "width_inch": "4.33",
+      "height_inch": "8.66",
+      "px_72ppi": "312 × 624",
+      "px_150ppi": "650 × 1299",
+      "px_300ppi": "1299 × 2598",
+      "series": "Koperta",
+      "description": "Standardowa koperta biznesowa"
+    },
+    {
+      "name": "Koperta C4",
+      "width_mm": 229,
+      "height_mm": 324,
+      "width_inch": "9.02",
+      "height_inch": "12.76",
+      "px_72ppi": "649 × 918",
+      "px_150ppi": "1352 × 1913",
+      "px_300ppi": "2705 × 3827",
+      "series": "Koperta",
+      "description": "Pasuje do A4 bez złożenia"
+    },
+    {
+      "name": "Koperta C5",
+      "width_mm": 162,
+      "height_mm": 229,
+      "width_inch": "6.38",
+      "height_inch": "9.02",
+      "px_72ppi": "459 × 649",
+      "px_150ppi": "957 × 1352",
+      "px_300ppi": "1913 × 2705",
+      "series": "Koperta",
+      "description": "Pasuje do A5 lub złożonego A4"
+    },
+    {
+      "name": "Koperta C6",
+      "width_mm": 114,
+      "height_mm": 162,
+      "width_inch": "4.49",
+      "height_inch": "6.38",
+      "px_72ppi": "323 × 459",
+      "px_150ppi": "673 × 957",
+      "px_300ppi": "1346 × 1913",
+      "series": "Koperta",
+      "description": "Pasuje do A6 lub A4 złożonego dwukrotnie"
+    },
+    {
+      "name": "Koperta #10",
+      "width_mm": 105,
+      "height_mm": 241,
+      "width_inch": "4.13",
+      "height_inch": "9.49",
+      "px_72ppi": "298 × 683",
+      "px_150ppi": "620 × 1423",
+      "px_300ppi": "1240 × 2846",
+      "series": "Koperta",
+      "description": "Amerykańska koperta biznesowa"
+    }
+  ],
+  "meta": {
+    "seo_title": "Rozmiary Papieru w Pikselach - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Darmowy plik z 33 standardowymi rozmiarami papieru: wymiary w mm, calach i pikselach dla 72, 150, 300 PPI. Dostępny w Excel, CSV i PDF.",
+    "title": "Zestaw Danych Rozmiarów Papieru i Wymiarów w Pikselach",
+    "description": "Ten zestaw danych zawiera kompleksowe szczegóły dla 33 popularnych rozmiarów papieru, w tym ich fizyczne wymiary w milimetrach i calach, wraz z wymiarami w pikselach dla rozdzielczości 72, 150 i 300 PPI.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 33 standardowych rozmiarów papieru, takich jak A4, Letter i Legal.",
+      "Przeglądaj wymiary w mm, calach i pikselach przy różnych PPI.",
+      "Pobierz dokładne konwersje pikseli dla projektów graficznych i drukarskich.",
+      "Wykorzystaj opisy typowego zastosowania dla każdego rozmiaru papieru."
+    ],
+    "keywords": [
+      "rozmiary papieru piksele",
+      "wymiary a4 piksele",
+      "rozmiar letter piksele",
+      "tabela konwersji ppi",
+      "rozmiary papieru csv",
+      "darmowe dane rozmiarów papieru"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Python, aby programowo wyświetlać specyfikacje rozmiarów papieru w aplikacjach.",
+      "Użyj pliku **Excel** do filtrowania i sortowania rozmiarów papieru według serii lub wymiarów do planowania projektów druku i raportowania.",
+      "Wydrukuj wersję **PDF**, aby stworzyć poręczną tabelę referencyjną dla projektantów i drukarni do szybkiego sprawdzania wymiarów.",
+      "Odwołaj się do tych danych, aby zapewnić, że makiety projektowe i układy druku wykorzystują dokładne wymiary, optymalizując je pod różne rozdzielczości."
+    ]
+  },
+  "record_count": 33,
+  "title": "Zestaw Danych Rozmiarów Papieru i Wymiarów w Pikselach"
+}

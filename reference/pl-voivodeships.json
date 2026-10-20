@@ -1,0 +1,184 @@
+{
+  "id": "pl-voivodeships",
+  "name": "Polska — województwa",
+  "title": "Polska — województwa",
+  "description": "Lista 16 polskich województw (najwyższy poziom podziału administracyjnego, NUTS-2) z natywną nazwą, formą miejscownikową, oraz przybliżonym środkiem geograficznym (lat/lng). List of all 16 Polish voivodeships (highest-level administrative division, NUTS-2) with native name, locative form, and approximate centroid.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship_id",
+      "label": "Voivodeship Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship_id": 1,
+      "name": "dolnośląskie",
+      "slug": "dolnoslaskie",
+      "name_locative": "dolnośląskim",
+      "latitude": 51.107885,
+      "longitude": 16.037986
+    },
+    {
+      "voivodeship_id": 2,
+      "name": "kujawsko-pomorskie",
+      "slug": "kujawsko-pomorskie",
+      "name_locative": "kujawsko-pomorskim",
+      "latitude": 53.166472,
+      "longitude": 18.71584
+    },
+    {
+      "voivodeship_id": 3,
+      "name": "lubelskie",
+      "slug": "lubelskie",
+      "name_locative": "lubelskim",
+      "latitude": 51.246452,
+      "longitude": 22.566619
+    },
+    {
+      "voivodeship_id": 4,
+      "name": "lubuskie",
+      "slug": "lubuskie",
+      "name_locative": "lubuskim",
+      "latitude": 51.935621,
+      "longitude": 15.49779
+    },
+    {
+      "voivodeship_id": 5,
+      "name": "łódzkie",
+      "slug": "lodzkie",
+      "name_locative": "łódzkim",
+      "latitude": 51.768732,
+      "longitude": 19.45471
+    },
+    {
+      "voivodeship_id": 6,
+      "name": "małopolskie",
+      "slug": "malopolskie",
+      "name_locative": "małopolskim",
+      "latitude": 49.803765,
+      "longitude": 19.36006
+    },
+    {
+      "voivodeship_id": 7,
+      "name": "mazowieckie",
+      "slug": "mazowieckie",
+      "name_locative": "mazowieckim",
+      "latitude": 52.2477,
+      "longitude": 21.009448
+    },
+    {
+      "voivodeship_id": 8,
+      "name": "opolskie",
+      "slug": "opolskie",
+      "name_locative": "opolskim",
+      "latitude": 50.672111,
+      "longitude": 17.93033
+    },
+    {
+      "voivodeship_id": 9,
+      "name": "podkarpackie",
+      "slug": "podkarpackie",
+      "name_locative": "podkarpackim",
+      "latitude": 49.993501,
+      "longitude": 21.705067
+    },
+    {
+      "voivodeship_id": 10,
+      "name": "podlaskie",
+      "slug": "podlaskie",
+      "name_locative": "podlaskim",
+      "latitude": 53.154548,
+      "longitude": 23.17462
+    },
+    {
+      "voivodeship_id": 11,
+      "name": "pomorskie",
+      "slug": "pomorskie",
+      "name_locative": "pomorskim",
+      "latitude": 54.441601,
+      "longitude": 18.293685
+    },
+    {
+      "voivodeship_id": 12,
+      "name": "śląskie",
+      "slug": "slaskie",
+      "name_locative": "śląskim",
+      "latitude": 50.264892,
+      "longitude": 18.971946
+    },
+    {
+      "voivodeship_id": 13,
+      "name": "świętokrzyskie",
+      "slug": "swietokrzyskie",
+      "name_locative": "świętokrzyskim",
+      "latitude": 50.807632,
+      "longitude": 20.627735
+    },
+    {
+      "voivodeship_id": 14,
+      "name": "warmińsko-mazurskie",
+      "slug": "warminsko-mazurskie",
+      "name_locative": "warmińsko-mazurskim",
+      "latitude": 53.775575,
+      "longitude": 20.92979
+    },
+    {
+      "voivodeship_id": 15,
+      "name": "wielkopolskie",
+      "slug": "wielkopolskie",
+      "name_locative": "wielkopolskim",
+      "latitude": 52.348379,
+      "longitude": 17.033792
+    },
+    {
+      "voivodeship_id": 16,
+      "name": "zachodniopomorskie",
+      "slug": "zachodniopomorskie",
+      "name_locative": "zachodniopomorskim",
+      "latitude": 53.135973,
+      "longitude": 15.490046
+    }
+  ],
+  "meta": {
+    "title": "Polska — województwa - Bezpłatne pobieranie",
+    "description": "Lista 16 polskich województw (najwyższy poziom podziału administracyjnego, NUTS-2) z natywną nazwą, formą miejscownikową, oraz przybliżonym środkiem geograficznym (lat/lng). List of all 16 Polish voivodeships (highest-level administrative division, NUTS-2) with native name, locative form, and approximate centroid. Zawiera 16 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — województwa | ListBase",
+    "seo_description": "Pobierz Polska — województwa — 16 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 16 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

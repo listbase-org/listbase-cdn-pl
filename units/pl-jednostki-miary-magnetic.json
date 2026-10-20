@@ -1,0 +1,79 @@
+{
+  "id": "pl-jednostki-miary-magnetic",
+  "name": "Jednostki miary — kategoria 'magnetic' (2)",
+  "title": "Jednostki miary — kategoria 'magnetic' (2)",
+  "description": "Jednostki miary kategorii 'magnetic' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "magnetic-tesla",
+      "kategoria": "magnetic",
+      "nazwa": "tesle",
+      "skrot": "T",
+      "forma_waska": "T",
+      "wzorzec": "{0} tesli"
+    },
+    {
+      "id": 2,
+      "unit_code": "magnetic-weber",
+      "kategoria": "magnetic",
+      "nazwa": "webery",
+      "skrot": "Wb",
+      "forma_waska": "Wb",
+      "wzorzec": "{0} webera"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'magnetic' (2) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'magnetic' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 2 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'magnetic' (2) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'magnetic' (2) — 2 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 2 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,7371 @@
+{
+  "id": "pl-galerie-handlowe",
+  "name": "Polska — galerie handlowe",
+  "title": "Polska — galerie handlowe",
+  "description": "Galerie i centra handlowe w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1466,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"AB\" wykańczanie wnętrz",
+      "latitude": 52.798952,
+      "longitude": 21.917379
+    },
+    {
+      "name": "11-stka",
+      "latitude": 50.679358,
+      "longitude": 18.678313
+    },
+    {
+      "name": "7 Park Handlowy",
+      "latitude": 49.939781,
+      "longitude": 18.597671
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 50.357826,
+      "longitude": 20.046206
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 50.735744,
+      "longitude": 16.64442
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 51.151666,
+      "longitude": 15.016524
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 51.617815,
+      "longitude": 15.312142
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 52.204603,
+      "longitude": 18.625853
+    },
+    {
+      "name": "A Centrum",
+      "latitude": 52.222752,
+      "longitude": 17.276639
+    },
+    {
+      "name": "A-Centrum",
+      "latitude": 53.58835,
+      "longitude": 19.573453
+    },
+    {
+      "name": "A-Centrum Słupca",
+      "latitude": 52.297983,
+      "longitude": 17.871478
+    },
+    {
+      "name": "Abler",
+      "latitude": 51.769206,
+      "longitude": 18.074817
+    },
+    {
+      "name": "Abler",
+      "latitude": 53.261542,
+      "longitude": 19.407988
+    },
+    {
+      "name": "Agma. Centrum hurtowe",
+      "latitude": 49.904733,
+      "longitude": 22.512412
+    },
+    {
+      "name": "Agro-Mix",
+      "latitude": 50.02344,
+      "longitude": 22.29484
+    },
+    {
+      "name": "Albatros",
+      "latitude": 54.795204,
+      "longitude": 18.402662
+    },
+    {
+      "name": "Aleja Bielany",
+      "latitude": 51.047749,
+      "longitude": 16.957969
+    },
+    {
+      "name": "Alfa Centrum",
+      "latitude": 53.125259,
+      "longitude": 23.168689
+    },
+    {
+      "name": "Alfa Centrum",
+      "latitude": 53.484456,
+      "longitude": 18.747691
+    },
+    {
+      "name": "Alfa Centrum",
+      "latitude": 54.404262,
+      "longitude": 18.5874
+    },
+    {
+      "name": "Alfa Park",
+      "latitude": 51.498568,
+      "longitude": 16.068769
+    },
+    {
+      "name": "Alton-hurtowniaGSM",
+      "latitude": 50.047137,
+      "longitude": 21.989454
+    },
+    {
+      "name": "Aniołów Park",
+      "latitude": 50.823996,
+      "longitude": 19.143763
+    },
+    {
+      "name": "ARES Park",
+      "latitude": 53.914497,
+      "longitude": 14.436998
+    },
+    {
+      "name": "Arka",
+      "latitude": 50.43517,
+      "longitude": 16.233348
+    },
+    {
+      "name": "Arkada Galeria Wnętrz",
+      "latitude": 53.119732,
+      "longitude": 18.047888
+    },
+    {
+      "name": "Arkadia",
+      "latitude": 51.842712,
+      "longitude": 16.579056
+    },
+    {
+      "name": "Arkadia Park",
+      "latitude": 53.663587,
+      "longitude": 17.347732
+    },
+    {
+      "name": "Arkadia Park",
+      "latitude": 54.039602,
+      "longitude": 22.49366
+    },
+    {
+      "name": "Arkadia Park",
+      "latitude": 54.531813,
+      "longitude": 17.761753
+    },
+    {
+      "name": "AS Sklep",
+      "latitude": 53.110647,
+      "longitude": 17.98393
+    },
+    {
+      "name": "ASG",
+      "latitude": 52.056645,
+      "longitude": 20.85985
+    },
+    {
+      "name": "ASG 3",
+      "latitude": 52.055892,
+      "longitude": 20.861224
+    },
+    {
+      "name": "Asian Market",
+      "latitude": 51.646302,
+      "longitude": 19.492616
+    },
+    {
+      "name": "Astra",
+      "latitude": 51.126635,
+      "longitude": 16.9757
+    },
+    {
+      "name": "Atrium",
+      "latitude": 50.304489,
+      "longitude": 18.917557
+    },
+    {
+      "name": "Atrium Kasztanowa",
+      "latitude": 53.158554,
+      "longitude": 16.756849
+    },
+    {
+      "name": "Atrium Promenada",
+      "latitude": 52.232015,
+      "longitude": 21.105903
+    },
+    {
+      "name": "Atrium Reduta",
+      "latitude": 52.21309,
+      "longitude": 20.950987
+    },
+    {
+      "name": "Atut",
+      "latitude": 50.09246,
+      "longitude": 19.089784
+    },
+    {
+      "name": "Atut",
+      "latitude": 50.115824,
+      "longitude": 19.968294
+    },
+    {
+      "name": "Atut",
+      "latitude": 50.289714,
+      "longitude": 19.082048
+    },
+    {
+      "name": "Atut Galicyjska",
+      "latitude": 50.057314,
+      "longitude": 20.006738
+    },
+    {
+      "name": "Atut Galicyjska",
+      "latitude": 50.058707,
+      "longitude": 20.006722
+    },
+    {
+      "name": "Atut Ruczaj",
+      "latitude": 50.011749,
+      "longitude": 19.886058
+    },
+    {
+      "name": "Atut Ruczaj 2",
+      "latitude": 50.013164,
+      "longitude": 19.88644
+    },
+    {
+      "name": "ATUT Złocień",
+      "latitude": 50.022658,
+      "longitude": 20.049362
+    },
+    {
+      "name": "Auchan",
+      "latitude": 50.806362,
+      "longitude": 19.115534
+    },
+    {
+      "name": "Auchan Hetmańska",
+      "latitude": 53.135377,
+      "longitude": 23.117665
+    },
+    {
+      "name": "Auchan Kielce",
+      "latitude": 50.886744,
+      "longitude": 20.66688
+    },
+    {
+      "name": "Auchan Komorniki",
+      "latitude": 52.354267,
+      "longitude": 16.835196
+    },
+    {
+      "name": "Auchan Produkcyjna",
+      "latitude": 53.161342,
+      "longitude": 23.098435
+    },
+    {
+      "name": "Auchan Swadzim",
+      "latitude": 52.440257,
+      "longitude": 16.765771
+    },
+    {
+      "name": "August Park",
+      "latitude": 53.838324,
+      "longitude": 22.971169
+    },
+    {
+      "name": "Aura",
+      "latitude": 52.349197,
+      "longitude": 14.562777
+    },
+    {
+      "name": "Aura Centrum Olsztyna",
+      "latitude": 53.7772,
+      "longitude": 20.483053
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 49.690905,
+      "longitude": 19.192358
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 50.107807,
+      "longitude": 19.335082
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 50.485984,
+      "longitude": 19.399543
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 53.040695,
+      "longitude": 16.466356
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 53.526382,
+      "longitude": 15.821452
+    },
+    {
+      "name": "Aura Park",
+      "latitude": 53.721216,
+      "longitude": 16.682103
+    },
+    {
+      "name": "Aura Park Oleśnica",
+      "latitude": 51.213616,
+      "longitude": 17.378303
+    },
+    {
+      "name": "Avenida Poznań",
+      "latitude": 52.40051,
+      "longitude": 16.913433
+    },
+    {
+      "name": "Awangarda - Galeria Handlowa",
+      "latitude": 54.263809,
+      "longitude": 20.801123
+    },
+    {
+      "name": "Bazar Pałacowy",
+      "latitude": 53.133391,
+      "longitude": 23.170407
+    },
+    {
+      "name": "BBS",
+      "latitude": 53.141451,
+      "longitude": 18.027516
+    },
+    {
+      "name": "Bendiks auto sklep",
+      "latitude": 50.06652,
+      "longitude": 22.04726
+    },
+    {
+      "name": "BIG Suwałki",
+      "latitude": 54.128609,
+      "longitude": 22.940855
+    },
+    {
+      "name": "BIG Suwałki",
+      "latitude": 54.128895,
+      "longitude": 22.93882
+    },
+    {
+      "name": "BIG Włocławek",
+      "latitude": 52.652841,
+      "longitude": 19.046819
+    },
+    {
+      "name": "BIG Łubna",
+      "latitude": 52.026411,
+      "longitude": 21.121005
+    },
+    {
+      "name": "Bingo",
+      "latitude": 54.422715,
+      "longitude": 18.472357
+    },
+    {
+      "name": "Bistro Dzień Dobry",
+      "latitude": 50.287167,
+      "longitude": 21.422651
+    },
+    {
+      "name": "Blaszak",
+      "latitude": 51.142499,
+      "longitude": 17.127864
+    },
+    {
+      "name": "Blue City",
+      "latitude": 52.212682,
+      "longitude": 20.955702
+    },
+    {
+      "name": "Bolesławiec City Center",
+      "latitude": 51.262854,
+      "longitude": 15.568834
+    },
+    {
+      "name": "Bonarka City Center",
+      "latitude": 50.02802,
+      "longitude": 19.951396
+    },
+    {
+      "name": "Brama Mazur",
+      "latitude": 53.82271,
+      "longitude": 22.361532
+    },
+    {
+      "name": "Brico Marche",
+      "latitude": 54.07825,
+      "longitude": 21.393244
+    },
+    {
+      "name": "Bursztyn",
+      "latitude": 51.762032,
+      "longitude": 18.077407
+    },
+    {
+      "name": "Bursztynowa Park",
+      "latitude": 53.074177,
+      "longitude": 21.576935
+    },
+    {
+      "name": "Błękitne Centrum",
+      "latitude": 52.397198,
+      "longitude": 20.934656
+    },
+    {
+      "name": "C.H. Dekada",
+      "latitude": 53.784095,
+      "longitude": 20.495287
+    },
+    {
+      "name": "C.H. ERAPARK Handlowy",
+      "latitude": 51.22315,
+      "longitude": 18.577116
+    },
+    {
+      "name": "C.H. Fortuna",
+      "latitude": 50.780912,
+      "longitude": 19.14429
+    },
+    {
+      "name": "C.H. Galeria Venus",
+      "latitude": 51.216772,
+      "longitude": 22.69819
+    },
+    {
+      "name": "C.H. LILIA",
+      "latitude": 51.224409,
+      "longitude": 18.577763
+    },
+    {
+      "name": "C.H. Manhattan",
+      "latitude": 53.780448,
+      "longitude": 20.490369
+    },
+    {
+      "name": "C.H. Omni",
+      "latitude": 50.280952,
+      "longitude": 19.568368
+    },
+    {
+      "name": "C.H. Tayger",
+      "latitude": 52.546952,
+      "longitude": 19.689217
+    },
+    {
+      "name": "C.H. Tuchowiak",
+      "latitude": 49.89171,
+      "longitude": 21.055183
+    },
+    {
+      "name": "C.H. Zielony Dach",
+      "latitude": 51.22402,
+      "longitude": 18.57687
+    },
+    {
+      "name": "C.H. Żuraw",
+      "latitude": 52.701826,
+      "longitude": 21.076925
+    },
+    {
+      "name": "C.H.U. Nowa Cegielnia",
+      "latitude": 50.232897,
+      "longitude": 18.664408
+    },
+    {
+      "name": "Canpol",
+      "latitude": 53.650826,
+      "longitude": 17.317992
+    },
+    {
+      "name": "Capital Park",
+      "latitude": 50.029311,
+      "longitude": 22.017827
+    },
+    {
+      "name": "Carrefour",
+      "latitude": 51.752891,
+      "longitude": 19.419759
+    },
+    {
+      "name": "Cegielnia",
+      "latitude": 50.213806,
+      "longitude": 19.86722
+    },
+    {
+      "name": "Cenrum Handlowe \"Korej\"",
+      "latitude": 51.408597,
+      "longitude": 21.146046
+    },
+    {
+      "name": "Center Park",
+      "latitude": 50.040647,
+      "longitude": 22.007717
+    },
+    {
+      "name": "Centrum 2000",
+      "latitude": 53.342439,
+      "longitude": 15.035412
+    },
+    {
+      "name": "Centrum 4",
+      "latitude": 50.24236,
+      "longitude": 19.137855
+    },
+    {
+      "name": "Centrum Bielizny TM",
+      "latitude": 52.057547,
+      "longitude": 20.861788
+    },
+    {
+      "name": "Centrum Biznesu Rondo",
+      "latitude": 51.594588,
+      "longitude": 18.730848
+    },
+    {
+      "name": "Centrum Chińskie",
+      "latitude": 50.060071,
+      "longitude": 22.483145
+    },
+    {
+      "name": "Centrum Chińskie",
+      "latitude": 54.259833,
+      "longitude": 18.650157
+    },
+    {
+      "name": "Centrum chińskie \"Hiperking\"",
+      "latitude": 49.569078,
+      "longitude": 22.153172
+    },
+    {
+      "name": "Centrum Chińskie Hang Le",
+      "latitude": 51.135833,
+      "longitude": 23.468287
+    },
+    {
+      "name": "Centrum Familia",
+      "latitude": 54.402064,
+      "longitude": 18.574463
+    },
+    {
+      "name": "Centrum Franowo",
+      "latitude": 52.379829,
+      "longitude": 16.98374
+    },
+    {
+      "name": "Centrum Galardia",
+      "latitude": 51.036666,
+      "longitude": 21.087373
+    },
+    {
+      "name": "Centrum H&B",
+      "latitude": 53.740569,
+      "longitude": 20.493169
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 50.175042,
+      "longitude": 20.989156
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 51.380506,
+      "longitude": 20.976863
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 51.67245,
+      "longitude": 16.538606
+    },
+    {
+      "name": "Centrum handlowe",
+      "latitude": 52.310307,
+      "longitude": 16.130602
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 52.415906,
+      "longitude": 21.181952
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 52.675091,
+      "longitude": 14.893952
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 53.157173,
+      "longitude": 18.900386
+    },
+    {
+      "name": "Centrum Handlowe",
+      "latitude": 54.213302,
+      "longitude": 15.749858
+    },
+    {
+      "name": "Centrum Handlowe \"Arbat\"",
+      "latitude": 54.260253,
+      "longitude": 18.649306
+    },
+    {
+      "name": "Centrum Handlowe \"Białołęcka\"",
+      "latitude": 52.317201,
+      "longitude": 21.030352
+    },
+    {
+      "name": "Centrum handlowe \"Dekada\"",
+      "latitude": 50.005005,
+      "longitude": 19.949385
+    },
+    {
+      "name": "Centrum Handlowe \"Dominik\"",
+      "latitude": 54.03732,
+      "longitude": 21.774072
+    },
+    {
+      "name": "Centrum Handlowe \"Inbag\"",
+      "latitude": 54.253075,
+      "longitude": 20.814878
+    },
+    {
+      "name": "Centrum Handlowe \"Klif\"",
+      "latitude": 54.474787,
+      "longitude": 18.551988
+    },
+    {
+      "name": "Centrum Handlowe \"Krakowska\"",
+      "latitude": 49.675769,
+      "longitude": 20.063079
+    },
+    {
+      "name": "Centrum Handlowe \"Przy Struga\"",
+      "latitude": 51.407337,
+      "longitude": 21.172471
+    },
+    {
+      "name": "Centrum Handlowe \"Retkinia\" (Hala 1)",
+      "latitude": 51.740709,
+      "longitude": 19.405317
+    },
+    {
+      "name": "Centrum Handlowe \"Saga\"",
+      "latitude": 54.035491,
+      "longitude": 21.775891
+    },
+    {
+      "name": "Centrum handlowe \"Stawna\"",
+      "latitude": 51.661902,
+      "longitude": 16.080738
+    },
+    {
+      "name": "Centrum Handlowe \"Tu i Teraz\"",
+      "latitude": 53.86482,
+      "longitude": 20.952061
+    },
+    {
+      "name": "Centrum Handlowe \"Witawa\"",
+      "latitude": 54.497763,
+      "longitude": 18.508713
+    },
+    {
+      "name": "Centrum Handlowe \"Włodawa\"",
+      "latitude": 51.548421,
+      "longitude": 23.539928
+    },
+    {
+      "name": "Centrum Handlowe ,,Mozaika\"",
+      "latitude": 51.235169,
+      "longitude": 22.493046
+    },
+    {
+      "name": "Centrum Handlowe - \"Stara Rzeźnia\"",
+      "latitude": 53.30912,
+      "longitude": 17.941961
+    },
+    {
+      "name": "Centrum Handlowe - E.Leclerc",
+      "latitude": 52.228824,
+      "longitude": 18.27332
+    },
+    {
+      "name": "Centrum Handlowe 3 Stawy",
+      "latitude": 50.243204,
+      "longitude": 19.037408
+    },
+    {
+      "name": "Centrum Handlowe AKS",
+      "latitude": 50.290641,
+      "longitude": 18.96648
+    },
+    {
+      "name": "Centrum Handlowe Arena",
+      "latitude": 50.307364,
+      "longitude": 18.645574
+    },
+    {
+      "name": "Centrum Handlowe Arena",
+      "latitude": 51.094979,
+      "longitude": 17.027932
+    },
+    {
+      "name": "Centrum Handlowe ATUT",
+      "latitude": 51.73713,
+      "longitude": 19.384421
+    },
+    {
+      "name": "Centrum Handlowe Auchan Bydgoszcz",
+      "latitude": 53.137216,
+      "longitude": 18.115441
+    },
+    {
+      "name": "Centrum Handlowe Auchan Gdańsk",
+      "latitude": 54.351931,
+      "longitude": 18.525273
+    },
+    {
+      "name": "Centrum Handlowe Auchan Gliwice",
+      "latitude": 50.256495,
+      "longitude": 18.657385
+    },
+    {
+      "name": "Centrum Handlowe Auchan Katowice",
+      "latitude": 50.273973,
+      "longitude": 18.969081
+    },
+    {
+      "name": "Centrum Handlowe Auchan Krasne",
+      "latitude": 50.038079,
+      "longitude": 22.068995
+    },
+    {
+      "name": "Centrum Handlowe Auchan Mikołów",
+      "latitude": 50.178623,
+      "longitude": 18.886746
+    },
+    {
+      "name": "Centrum Handlowe Auchan Piaseczno",
+      "latitude": 52.095825,
+      "longitude": 21.022496
+    },
+    {
+      "name": "Centrum Handlowe Auchan Płock",
+      "latitude": 52.535257,
+      "longitude": 19.749694
+    },
+    {
+      "name": "Centrum Handlowe Auchan Żory",
+      "latitude": 50.040223,
+      "longitude": 18.702626
+    },
+    {
+      "name": "Centrum Handlowe Aura Park",
+      "latitude": 53.14946,
+      "longitude": 17.587711
+    },
+    {
+      "name": "Centrum Handlowe Aura Park",
+      "latitude": 53.149761,
+      "longitude": 17.591955
+    },
+    {
+      "name": "Centrum Handlowe Aura Park",
+      "latitude": 53.149883,
+      "longitude": 17.588863
+    },
+    {
+      "name": "Centrum Handlowe Aura Park",
+      "latitude": 53.15011,
+      "longitude": 17.589843
+    },
+    {
+      "name": "Centrum Handlowe Batory",
+      "latitude": 54.035691,
+      "longitude": 21.77192
+    },
+    {
+      "name": "Centrum Handlowe Batory",
+      "latitude": 54.518971,
+      "longitude": 18.539614
+    },
+    {
+      "name": "Centrum Handlowe Bemowo",
+      "latitude": 52.262788,
+      "longitude": 20.928237
+    },
+    {
+      "name": "Centrum Handlowe Borek",
+      "latitude": 51.088249,
+      "longitude": 16.99871
+    },
+    {
+      "name": "Centrum Handlowe Błonie",
+      "latitude": 49.558243,
+      "longitude": 22.210454
+    },
+    {
+      "name": "Centrum Handlowe Castorama",
+      "latitude": 51.940868,
+      "longitude": 15.495144
+    },
+    {
+      "name": "Centrum Handlowe Dąbrowiak",
+      "latitude": 50.17873,
+      "longitude": 20.984342
+    },
+    {
+      "name": "Centrum Handlowe Dąbrówka",
+      "latitude": 51.938099,
+      "longitude": 15.495365
+    },
+    {
+      "name": "Centrum Handlowe E. Leclerc Tomasza Zana",
+      "latitude": 51.240413,
+      "longitude": 22.519436
+    },
+    {
+      "name": "Centrum Handlowe Echo",
+      "latitude": 51.425622,
+      "longitude": 21.154879
+    },
+    {
+      "name": "Centrum handlowe Echo",
+      "latitude": 51.665033,
+      "longitude": 19.350223
+    },
+    {
+      "name": "Centrum Handlowe Epi",
+      "latitude": 52.02496,
+      "longitude": 23.157141
+    },
+    {
+      "name": "Centrum Handlowe Estakada",
+      "latitude": 50.783497,
+      "longitude": 19.141959
+    },
+    {
+      "name": "Centrum Handlowe Fabryka",
+      "latitude": 51.532784,
+      "longitude": 20.009384
+    },
+    {
+      "name": "Centrum Handlowe Fabryka",
+      "latitude": 53.863993,
+      "longitude": 21.293669
+    },
+    {
+      "name": "Centrum Handlowe Fasty",
+      "latitude": 53.159821,
+      "longitude": 23.075917
+    },
+    {
+      "name": "Centrum Handlowe Feeria",
+      "latitude": 52.760427,
+      "longitude": 15.260322
+    },
+    {
+      "name": "Centrum Handlowe Flisik",
+      "latitude": 54.39385,
+      "longitude": 18.388597
+    },
+    {
+      "name": "Centrum Handlowe Gaj",
+      "latitude": 51.077392,
+      "longitude": 17.047792
+    },
+    {
+      "name": "Centrum Handlowe Galeria Dekada",
+      "latitude": 51.873659,
+      "longitude": 20.867268
+    },
+    {
+      "name": "Centrum Handlowe Gama",
+      "latitude": 51.138167,
+      "longitude": 23.494777
+    },
+    {
+      "name": "Centrum handlowe Gradix",
+      "latitude": 51.03732,
+      "longitude": 15.418274
+    },
+    {
+      "name": "Centrum Handlowe GSSCH Działoszyn",
+      "latitude": 51.116591,
+      "longitude": 18.872039
+    },
+    {
+      "name": "Centrum Handlowe Guz",
+      "latitude": 54.035955,
+      "longitude": 21.766318
+    },
+    {
+      "name": "Centrum Handlowe Jagiellończycy",
+      "latitude": 50.783509,
+      "longitude": 19.14262
+    },
+    {
+      "name": "Centrum Handlowe Jan",
+      "latitude": 49.876108,
+      "longitude": 19.502349
+    },
+    {
+      "name": "Centrum Handlowe Janki",
+      "latitude": 52.135002,
+      "longitude": 20.890983
+    },
+    {
+      "name": "Centrum Handlowe Jantar",
+      "latitude": 54.375139,
+      "longitude": 18.614408
+    },
+    {
+      "name": "Centrum Handlowe Jantar",
+      "latitude": 54.608362,
+      "longitude": 18.246817
+    },
+    {
+      "name": "Centrum Handlowe Józefosław",
+      "latitude": 52.093245,
+      "longitude": 21.037932
+    },
+    {
+      "name": "Centrum Handlowe Karolinka",
+      "latitude": 50.681479,
+      "longitude": 17.883083
+    },
+    {
+      "name": "Centrum Handlowe Karolinka",
+      "latitude": 50.682057,
+      "longitude": 17.877012
+    },
+    {
+      "name": "Centrum Handlowe Kaszebe",
+      "latitude": 54.333084,
+      "longitude": 18.204216
+    },
+    {
+      "name": "Centrum Handlowe Kaszuby",
+      "latitude": 54.604785,
+      "longitude": 18.25243
+    },
+    {
+      "name": "Centrum Handlowe Kociewie",
+      "latitude": 53.965123,
+      "longitude": 18.526472
+    },
+    {
+      "name": "Centrum Handlowe Kometa",
+      "latitude": 53.034936,
+      "longitude": 18.61469
+    },
+    {
+      "name": "Centrum Handlowe Korona",
+      "latitude": 51.142129,
+      "longitude": 17.088838
+    },
+    {
+      "name": "Centrum Handlowe Kowale",
+      "latitude": 54.311058,
+      "longitude": 18.567535
+    },
+    {
+      "name": "Centrum Handlowe Krokus",
+      "latitude": 50.087082,
+      "longitude": 19.98166
+    },
+    {
+      "name": "Centrum Handlowe Kupiec",
+      "latitude": 53.965704,
+      "longitude": 18.523484
+    },
+    {
+      "name": "Centrum Handlowe Land",
+      "latitude": 52.172285,
+      "longitude": 21.0253
+    },
+    {
+      "name": "Centrum Handlowe LIWA",
+      "latitude": 53.733913,
+      "longitude": 18.932505
+    },
+    {
+      "name": "Centrum handlowe Lotnia",
+      "latitude": 54.393069,
+      "longitude": 18.610145
+    },
+    {
+      "name": "Centrum Handlowe M1",
+      "latitude": 50.318356,
+      "longitude": 18.751892
+    },
+    {
+      "name": "Centrum Handlowe M1",
+      "latitude": 50.319152,
+      "longitude": 19.105428
+    },
+    {
+      "name": "Centrum Handlowe MAJUS",
+      "latitude": 49.8833,
+      "longitude": 19.486309
+    },
+    {
+      "name": "Centrum Handlowe Max",
+      "latitude": 50.141946,
+      "longitude": 19.413318
+    },
+    {
+      "name": "Centrum Handlowe Maxim",
+      "latitude": 52.391076,
+      "longitude": 20.921619
+    },
+    {
+      "name": "Centrum Handlowe Medyka 405a",
+      "latitude": 49.801227,
+      "longitude": 22.940236
+    },
+    {
+      "name": "Centrum Handlowe Muszkieterów",
+      "latitude": 50.484359,
+      "longitude": 19.413714
+    },
+    {
+      "name": "Centrum handlowe N-Park",
+      "latitude": 51.404145,
+      "longitude": 19.723865
+    },
+    {
+      "name": "Centrum Handlowe Nanice",
+      "latitude": 54.603373,
+      "longitude": 18.246477
+    },
+    {
+      "name": "Centrum Handlowe Nasze",
+      "latitude": 54.605313,
+      "longitude": 18.231715
+    },
+    {
+      "name": "Centrum Handlowe Nowe Bielawy",
+      "latitude": 53.032829,
+      "longitude": 18.69475
+    },
+    {
+      "name": "Centrum Handlowe Ogrody",
+      "latitude": 54.184928,
+      "longitude": 19.40688
+    },
+    {
+      "name": "Centrum Handlowe Okulickiego",
+      "latitude": 52.249484,
+      "longitude": 20.846401
+    },
+    {
+      "name": "Centrum Handlowe Oliwa",
+      "latitude": 54.394916,
+      "longitude": 18.582095
+    },
+    {
+      "name": "Centrum Handlowe Orion",
+      "latitude": 53.272474,
+      "longitude": 16.469931
+    },
+    {
+      "name": "Centrum Handlowe Osowa",
+      "latitude": 54.42582,
+      "longitude": 18.49049
+    },
+    {
+      "name": "Centrum Handlowe Paleo Opatkowice",
+      "latitude": 50.200976,
+      "longitude": 20.303689
+    },
+    {
+      "name": "Centrum Handlowe Paleo Stawowa",
+      "latitude": 50.016304,
+      "longitude": 20.175662
+    },
+    {
+      "name": "Centrum Handlowe PANORAMA",
+      "latitude": 51.530333,
+      "longitude": 20.006574
+    },
+    {
+      "name": "Centrum Handlowe Parada",
+      "latitude": 51.249992,
+      "longitude": 22.510663
+    },
+    {
+      "name": "Centrum handlowe Passat",
+      "latitude": 54.181313,
+      "longitude": 15.573188
+    },
+    {
+      "name": "Centrum Handlowe PIŁA",
+      "latitude": 53.14661,
+      "longitude": 16.746119
+    },
+    {
+      "name": "Centrum Handlowe Plaza",
+      "latitude": 52.596244,
+      "longitude": 21.450056
+    },
+    {
+      "name": "Centrum Handlowe Plaza Sosnowiec",
+      "latitude": 50.27489,
+      "longitude": 19.12764
+    },
+    {
+      "name": "Centrum Handlowe Pogoria",
+      "latitude": 50.327085,
+      "longitude": 19.182794
+    },
+    {
+      "name": "Centrum Handlowe Przystań",
+      "latitude": 52.446076,
+      "longitude": 16.786667
+    },
+    {
+      "name": "Centrum Handlowe Ptak",
+      "latitude": 51.649548,
+      "longitude": 19.489097
+    },
+    {
+      "name": "Centrum Handlowe Pyrmo",
+      "latitude": 53.003292,
+      "longitude": 15.226419
+    },
+    {
+      "name": "Centrum Handlowe Quick Park",
+      "latitude": 50.93627,
+      "longitude": 17.269892
+    },
+    {
+      "name": "Centrum Handlowe Quick Park Mysłowice",
+      "latitude": 50.250391,
+      "longitude": 19.118183
+    },
+    {
+      "name": "Centrum Handlowe Rea",
+      "latitude": 49.986968,
+      "longitude": 18.26586
+    },
+    {
+      "name": "Centrum Handlowe ROBI",
+      "latitude": 53.2633,
+      "longitude": 19.386524
+    },
+    {
+      "name": "Centrum Handlowe Ryska",
+      "latitude": 53.140965,
+      "longitude": 23.175393
+    },
+    {
+      "name": "Centrum Handlowe Sigma",
+      "latitude": 49.60202,
+      "longitude": 20.493916
+    },
+    {
+      "name": "Centrum Handlowe Sigma",
+      "latitude": 49.641085,
+      "longitude": 20.50302
+    },
+    {
+      "name": "Centrum Handlowe Silla",
+      "latitude": 49.720096,
+      "longitude": 20.39052
+    },
+    {
+      "name": "Centrum Handlowe Skorosze",
+      "latitude": 52.188051,
+      "longitude": 20.90056
+    },
+    {
+      "name": "Centrum Handlowe Składowa 2a",
+      "latitude": 49.472828,
+      "longitude": 20.011587
+    },
+    {
+      "name": "Centrum Handlowe Smoczka",
+      "latitude": 50.296928,
+      "longitude": 21.463201
+    },
+    {
+      "name": "Centrum Handlowe Szembeka",
+      "latitude": 52.240671,
+      "longitude": 21.102292
+    },
+    {
+      "name": "Centrum Handlowe Tandeta - Hala I",
+      "latitude": 50.043523,
+      "longitude": 19.9709
+    },
+    {
+      "name": "Centrum Handlowe Tandeta - Hala II",
+      "latitude": 50.042734,
+      "longitude": 19.971575
+    },
+    {
+      "name": "Centrum Handlowe Tarnowskie Góry",
+      "latitude": 50.454668,
+      "longitude": 18.83821
+    },
+    {
+      "name": "Centrum Handlowe TiK",
+      "latitude": 51.555792,
+      "longitude": 23.554341
+    },
+    {
+      "name": "Centrum handlowe Tkalnia",
+      "latitude": 51.660748,
+      "longitude": 19.357045
+    },
+    {
+      "name": "Centrum handlowe Tkalnia",
+      "latitude": 51.661517,
+      "longitude": 19.357412
+    },
+    {
+      "name": "Centrum Handlowe Toporek",
+      "latitude": 54.380394,
+      "longitude": 18.288509
+    },
+    {
+      "name": "Centrum Handlowe Treny",
+      "latitude": 52.313998,
+      "longitude": 20.88124
+    },
+    {
+      "name": "Centrum Handlowe Tulipan",
+      "latitude": 51.764893,
+      "longitude": 19.495213
+    },
+    {
+      "name": "Centrum Handlowe Ursynów",
+      "latitude": 52.141279,
+      "longitude": 21.025607
+    },
+    {
+      "name": "Centrum Handlowe VIEN",
+      "latitude": 52.805473,
+      "longitude": 21.894869
+    },
+    {
+      "name": "Centrum Handlowe Zawisza",
+      "latitude": 54.034911,
+      "longitude": 19.030686
+    },
+    {
+      "name": "Centrum Handlowe Załęże",
+      "latitude": 50.262821,
+      "longitude": 18.986465
+    },
+    {
+      "name": "Centrum Handlowe Ługi",
+      "latitude": 52.086738,
+      "longitude": 21.258527
+    },
+    {
+      "name": "Centrum Handlowe Żory",
+      "latitude": 50.034074,
+      "longitude": 18.683356
+    },
+    {
+      "name": "Centrum Handlowe „Piaski”",
+      "latitude": 51.748018,
+      "longitude": 19.412902
+    },
+    {
+      "name": "Centrum Handlowe „Retkinia” (Hala 2)",
+      "latitude": 51.740498,
+      "longitude": 19.404589
+    },
+    {
+      "name": "Centrum Handlowo Usługowe Twierdza",
+      "latitude": 53.014975,
+      "longitude": 18.61199
+    },
+    {
+      "name": "Centrum Handlowo-Rozrywkowe Manufaktura",
+      "latitude": 51.779181,
+      "longitude": 19.443859
+    },
+    {
+      "name": "Centrum handlowo-usługowe \"BUMA\"",
+      "latitude": 51.585384,
+      "longitude": 18.719494
+    },
+    {
+      "name": "Centrum Handlowo‐Usługowe „Hala”",
+      "latitude": 50.444959,
+      "longitude": 18.861722
+    },
+    {
+      "name": "Centrum Handlu Chińskiego",
+      "latitude": 52.086737,
+      "longitude": 21.258806
+    },
+    {
+      "name": "Centrum Handlu Hurtowego",
+      "latitude": 52.059547,
+      "longitude": 20.862833
+    },
+    {
+      "name": "Centrum Horyzont",
+      "latitude": 54.410618,
+      "longitude": 18.600905
+    },
+    {
+      "name": "Centrum Kartuska",
+      "latitude": 54.346738,
+      "longitude": 18.602543
+    },
+    {
+      "name": "Centrum Kleszczowa",
+      "latitude": 52.198271,
+      "longitude": 20.917567
+    },
+    {
+      "name": "Centrum Kwiatowe Kwiatydonice",
+      "latitude": 49.950456,
+      "longitude": 20.43376
+    },
+    {
+      "name": "Centrum Meblowe Top Shopping",
+      "latitude": 53.386019,
+      "longitude": 14.64511
+    },
+    {
+      "name": "Centrum Mody",
+      "latitude": 52.10248,
+      "longitude": 20.830009
+    },
+    {
+      "name": "Centrum Muszkieterów",
+      "latitude": 51.509354,
+      "longitude": 16.081078
+    },
+    {
+      "name": "Centrum Nowe Czyżyny",
+      "latitude": 50.077049,
+      "longitude": 20.016666
+    },
+    {
+      "name": "Centrum Ogrodowe Hurt-Detal Łukasz Piasta",
+      "latitude": 51.308561,
+      "longitude": 17.988527
+    },
+    {
+      "name": "Centrum Rondo",
+      "latitude": 50.87448,
+      "longitude": 20.626082
+    },
+    {
+      "name": "Centrum Rozrywki Silver Screen",
+      "latitude": 51.759017,
+      "longitude": 19.460596
+    },
+    {
+      "name": "Centrum SDH",
+      "latitude": 50.534065,
+      "longitude": 22.71884
+    },
+    {
+      "name": "Centrum Serenada",
+      "latitude": 50.087876,
+      "longitude": 19.985675
+    },
+    {
+      "name": "Centrum Wyposażenia Wnętrz",
+      "latitude": 51.95384,
+      "longitude": 15.486262
+    },
+    {
+      "name": "Centrum Zakupów",
+      "latitude": 51.843749,
+      "longitude": 19.41624
+    },
+    {
+      "name": "Centrum Zakupów",
+      "latitude": 51.844532,
+      "longitude": 19.41559
+    },
+    {
+      "name": "Centrum Zakupów",
+      "latitude": 52.770406,
+      "longitude": 23.181337
+    },
+    {
+      "name": "Centrum Łopuszańska 22",
+      "latitude": 52.19302,
+      "longitude": 20.952376
+    },
+    {
+      "name": "Centrum Łęczyca",
+      "latitude": 52.311878,
+      "longitude": 16.878479
+    },
+    {
+      "name": "Centrun Handlowe",
+      "latitude": 53.809534,
+      "longitude": 21.948123
+    },
+    {
+      "name": "Centum Handlowe MaJa",
+      "latitude": 49.71213,
+      "longitude": 21.053164
+    },
+    {
+      "name": "Cezar",
+      "latitude": 50.010159,
+      "longitude": 20.902553
+    },
+    {
+      "name": "CH Albatros",
+      "latitude": 54.176581,
+      "longitude": 15.594271
+    },
+    {
+      "name": "CH Ameryka",
+      "latitude": 50.041233,
+      "longitude": 22.000451
+    },
+    {
+      "name": "CH Aria",
+      "latitude": 53.709997,
+      "longitude": 16.689464
+    },
+    {
+      "name": "CH Atrium Plejada",
+      "latitude": 50.346441,
+      "longitude": 18.849742
+    },
+    {
+      "name": "CH Atut",
+      "latitude": 51.350014,
+      "longitude": 19.376257
+    },
+    {
+      "name": "CH Auchan Kołbaskowo",
+      "latitude": 53.38432,
+      "longitude": 14.505818
+    },
+    {
+      "name": "CH Barnim",
+      "latitude": 53.563389,
+      "longitude": 14.828336
+    },
+    {
+      "name": "CH Blue Park",
+      "latitude": 49.783872,
+      "longitude": 22.809943
+    },
+    {
+      "name": "CH Bryjak",
+      "latitude": 49.459601,
+      "longitude": 20.023217
+    },
+    {
+      "name": "CH Cegielnia Zawada",
+      "latitude": 49.590335,
+      "longitude": 20.726423
+    },
+    {
+      "name": "CH Cegielnia Zawada",
+      "latitude": 49.590939,
+      "longitude": 20.726229
+    },
+    {
+      "name": "CH E. Leclerc",
+      "latitude": 50.71671,
+      "longitude": 23.273203
+    },
+    {
+      "name": "CH ECHO",
+      "latitude": 51.352791,
+      "longitude": 19.373206
+    },
+    {
+      "name": "CH Euro Koło",
+      "latitude": 52.198766,
+      "longitude": 18.637006
+    },
+    {
+      "name": "CH Fala",
+      "latitude": 53.437219,
+      "longitude": 14.555072
+    },
+    {
+      "name": "CH Ferio",
+      "latitude": 52.183765,
+      "longitude": 18.231675
+    },
+    {
+      "name": "CH Forum",
+      "latitude": 50.300372,
+      "longitude": 18.682155
+    },
+    {
+      "name": "CH Francuska",
+      "latitude": 51.931075,
+      "longitude": 15.476683
+    },
+    {
+      "name": "CH Galeria Lwowska",
+      "latitude": 50.705132,
+      "longitude": 23.283025
+    },
+    {
+      "name": "CH Galeria Revia Park",
+      "latitude": 50.739951,
+      "longitude": 23.251274
+    },
+    {
+      "name": "CH Galeria Twierdza",
+      "latitude": 50.726387,
+      "longitude": 23.263776
+    },
+    {
+      "name": "CH GOJA",
+      "latitude": 52.533577,
+      "longitude": 17.548657
+    },
+    {
+      "name": "CH Hit",
+      "latitude": 52.434038,
+      "longitude": 20.698284
+    },
+    {
+      "name": "CH HopStop Hrubieszowska",
+      "latitude": 50.713768,
+      "longitude": 23.277835
+    },
+    {
+      "name": "CH Impuls",
+      "latitude": 54.034404,
+      "longitude": 22.510386
+    },
+    {
+      "name": "CH Inka",
+      "latitude": 53.778295,
+      "longitude": 20.477808
+    },
+    {
+      "name": "CH Jantar",
+      "latitude": 54.454646,
+      "longitude": 16.989959
+    },
+    {
+      "name": "CH Kopernik",
+      "latitude": 53.731367,
+      "longitude": 18.930355
+    },
+    {
+      "name": "CH Manhatan",
+      "latitude": 54.465106,
+      "longitude": 17.019539
+    },
+    {
+      "name": "CH Manhattan",
+      "latitude": 51.840566,
+      "longitude": 16.589991
+    },
+    {
+      "name": "CH Market",
+      "latitude": 52.201197,
+      "longitude": 18.63833
+    },
+    {
+      "name": "CH Max",
+      "latitude": 50.01195,
+      "longitude": 20.9768
+    },
+    {
+      "name": "CH Nasze Leszno",
+      "latitude": 51.855186,
+      "longitude": 16.578037
+    },
+    {
+      "name": "CH Nowa Górna",
+      "latitude": 51.710724,
+      "longitude": 19.491702
+    },
+    {
+      "name": "CH Nowa Wola",
+      "latitude": 52.081888,
+      "longitude": 20.967785
+    },
+    {
+      "name": "CH Nowy Rynek",
+      "latitude": 50.905918,
+      "longitude": 15.732626
+    },
+    {
+      "name": "CH Panorama",
+      "latitude": 52.757522,
+      "longitude": 15.251597
+    },
+    {
+      "name": "CH Piekary",
+      "latitude": 51.200998,
+      "longitude": 16.214979
+    },
+    {
+      "name": "CH Platan",
+      "latitude": 50.311446,
+      "longitude": 18.788013
+    },
+    {
+      "name": "CH Pomorskie",
+      "latitude": 51.940242,
+      "longitude": 15.55882
+    },
+    {
+      "name": "CH Respan",
+      "latitude": 50.021075,
+      "longitude": 22.01978
+    },
+    {
+      "name": "CH Rondo",
+      "latitude": 53.124199,
+      "longitude": 17.984928
+    },
+    {
+      "name": "CH Rondo",
+      "latitude": 53.339112,
+      "longitude": 15.037063
+    },
+    {
+      "name": "CH Saller",
+      "latitude": 54.534049,
+      "longitude": 17.75424
+    },
+    {
+      "name": "CH Stara Mleczarnia",
+      "latitude": 51.070599,
+      "longitude": 19.438975
+    },
+    {
+      "name": "CH Ster",
+      "latitude": 53.429213,
+      "longitude": 14.483411
+    },
+    {
+      "name": "CH Stokrotka",
+      "latitude": 50.531204,
+      "longitude": 22.714623
+    },
+    {
+      "name": "CH Słoneczne",
+      "latitude": 53.382694,
+      "longitude": 14.660718
+    },
+    {
+      "name": "CH Topaz",
+      "latitude": 51.942393,
+      "longitude": 15.50573
+    },
+    {
+      "name": "CH Tuszewska",
+      "latitude": 52.100148,
+      "longitude": 19.921456
+    },
+    {
+      "name": "CH Uznam",
+      "latitude": 53.905405,
+      "longitude": 14.241686
+    },
+    {
+      "name": "CH Wokulski",
+      "latitude": 54.464639,
+      "longitude": 17.018183
+    },
+    {
+      "name": "CH Yeti",
+      "latitude": 51.417792,
+      "longitude": 21.961017
+    },
+    {
+      "name": "CH Zodiak",
+      "latitude": 53.338634,
+      "longitude": 15.034022
+    },
+    {
+      "name": "CH Świt",
+      "latitude": 50.010198,
+      "longitude": 20.977314
+    },
+    {
+      "name": "Chińczyk",
+      "latitude": 50.177636,
+      "longitude": 22.609235
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 50.73197,
+      "longitude": 23.250399
+    },
+    {
+      "name": "Chińskie centrum handlowe",
+      "latitude": 51.192343,
+      "longitude": 22.067713
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 51.229279,
+      "longitude": 22.514528
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 51.584688,
+      "longitude": 21.552142
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 52.146346,
+      "longitude": 21.190274
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 52.425012,
+      "longitude": 22.870956
+    },
+    {
+      "name": "Chińskie Centrum Handlowe",
+      "latitude": 53.273653,
+      "longitude": 16.470166
+    },
+    {
+      "name": "CHR Galeria Galena",
+      "latitude": 50.203512,
+      "longitude": 19.268315
+    },
+    {
+      "name": "CHU Planeta",
+      "latitude": 50.22988,
+      "longitude": 18.663559
+    },
+    {
+      "name": "Ciroko Centrum",
+      "latitude": 53.422303,
+      "longitude": 14.538584
+    },
+    {
+      "name": "City Center",
+      "latitude": 51.152538,
+      "longitude": 14.988471
+    },
+    {
+      "name": "City Market",
+      "latitude": 50.013014,
+      "longitude": 21.005243
+    },
+    {
+      "name": "City Market",
+      "latitude": 50.723807,
+      "longitude": 23.248487
+    },
+    {
+      "name": "City Park",
+      "latitude": 50.570406,
+      "longitude": 22.055802
+    },
+    {
+      "name": "Color Park",
+      "latitude": 51.235693,
+      "longitude": 22.577233
+    },
+    {
+      "name": "Comes",
+      "latitude": 54.612813,
+      "longitude": 18.177811
+    },
+    {
+      "name": "Comfy Park Bielik",
+      "latitude": 49.845743,
+      "longitude": 19.036657
+    },
+    {
+      "name": "COMP-ART",
+      "latitude": 53.108156,
+      "longitude": 17.989523
+    },
+    {
+      "name": "Cuprum Arena",
+      "latitude": 51.393813,
+      "longitude": 16.206124
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.08138,
+      "longitude": 18.20066
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.139213,
+      "longitude": 18.620404
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.266195,
+      "longitude": 18.893693
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.273506,
+      "longitude": 18.931584
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.321703,
+      "longitude": 17.59449
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.77727,
+      "longitude": 16.299301
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 50.863903,
+      "longitude": 16.318473
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 51.124424,
+      "longitude": 15.28842
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 51.159435,
+      "longitude": 15.004987
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 51.198709,
+      "longitude": 16.220359
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 51.50278,
+      "longitude": 16.072188
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 51.64179,
+      "longitude": 17.813502
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 52.090344,
+      "longitude": 21.018112
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 52.294581,
+      "longitude": 17.874419
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 52.312237,
+      "longitude": 21.063783
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 52.312743,
+      "longitude": 21.062741
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 52.46521,
+      "longitude": 16.98156
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 53.265484,
+      "longitude": 16.46117
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 53.386024,
+      "longitude": 14.481094
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 53.386917,
+      "longitude": 14.481765
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 53.450726,
+      "longitude": 14.542459
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 53.453937,
+      "longitude": 14.475242
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 54.010232,
+      "longitude": 16.00226
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 54.098103,
+      "longitude": 18.762447
+    },
+    {
+      "name": "Czerwona Torebka",
+      "latitude": 54.425566,
+      "longitude": 18.473145
+    },
+    {
+      "name": "Defabryka",
+      "latitude": 52.256541,
+      "longitude": 20.96968
+    },
+    {
+      "name": "Dekada",
+      "latitude": 51.597359,
+      "longitude": 18.726041
+    },
+    {
+      "name": "Dekada",
+      "latitude": 52.877282,
+      "longitude": 20.606478
+    },
+    {
+      "name": "Dekada",
+      "latitude": 53.259632,
+      "longitude": 19.396893
+    },
+    {
+      "name": "Dekada Myślenice",
+      "latitude": 49.835024,
+      "longitude": 19.948694
+    },
+    {
+      "name": "Delikatesy Centrum",
+      "latitude": 50.011785,
+      "longitude": 21.85893
+    },
+    {
+      "name": "Delikatesy Jan",
+      "latitude": 49.869933,
+      "longitude": 19.224672
+    },
+    {
+      "name": "Designer Outlet Gdańsk",
+      "latitude": 54.31944,
+      "longitude": 18.552536
+    },
+    {
+      "name": "Designer Outlet Kraków",
+      "latitude": 50.059953,
+      "longitude": 20.00616
+    },
+    {
+      "name": "Designer Outlet Sosnowiec",
+      "latitude": 50.22861,
+      "longitude": 19.174878
+    },
+    {
+      "name": "Designer Outlet Warszawa",
+      "latitude": 52.087774,
+      "longitude": 21.022404
+    },
+    {
+      "name": "DH Arsenał",
+      "latitude": 52.732082,
+      "longitude": 15.237789
+    },
+    {
+      "name": "DH Klimczok",
+      "latitude": 49.824107,
+      "longitude": 19.049256
+    },
+    {
+      "name": "DH Merkury",
+      "latitude": 51.409304,
+      "longitude": 19.665847
+    },
+    {
+      "name": "DH Milenium",
+      "latitude": 51.408563,
+      "longitude": 19.688808
+    },
+    {
+      "name": "DH Mozart",
+      "latitude": 50.094051,
+      "longitude": 19.94654
+    },
+    {
+      "name": "DH Panorama",
+      "latitude": 53.128149,
+      "longitude": 23.153909
+    },
+    {
+      "name": "DH Puchatek",
+      "latitude": 50.87132,
+      "longitude": 20.626148
+    },
+    {
+      "name": "DH Sezam",
+      "latitude": 51.408494,
+      "longitude": 19.688173
+    },
+    {
+      "name": "DH Szpak",
+      "latitude": 49.787738,
+      "longitude": 22.765802
+    },
+    {
+      "name": "DH Tęcza",
+      "latitude": 50.871918,
+      "longitude": 20.62661
+    },
+    {
+      "name": "DH Tęcza",
+      "latitude": 51.22012,
+      "longitude": 18.56983
+    },
+    {
+      "name": "DH Wenus",
+      "latitude": 53.134299,
+      "longitude": 23.140813
+    },
+    {
+      "name": "DH Zenit",
+      "latitude": 50.017367,
+      "longitude": 21.000039
+    },
+    {
+      "name": "Diament",
+      "latitude": 52.405389,
+      "longitude": 22.253166
+    },
+    {
+      "name": "Diamentowa Park",
+      "latitude": 51.217574,
+      "longitude": 22.547287
+    },
+    {
+      "name": "Diamentowa Park",
+      "latitude": 51.218052,
+      "longitude": 22.548478
+    },
+    {
+      "name": "Diamentowa Park",
+      "latitude": 51.21852,
+      "longitude": 22.549183
+    },
+    {
+      "name": "DL Galeria Handlowa Czeladź",
+      "latitude": 50.320411,
+      "longitude": 19.078414
+    },
+    {
+      "name": "DL Shopping Center Zawiercie",
+      "latitude": 50.485771,
+      "longitude": 19.434084
+    },
+    {
+      "name": "Dom Handlowy",
+      "latitude": 49.476761,
+      "longitude": 22.445222
+    },
+    {
+      "name": "Dom Handlowy",
+      "latitude": 49.886527,
+      "longitude": 22.100074
+    },
+    {
+      "name": "Dom Handlowy",
+      "latitude": 50.532579,
+      "longitude": 23.727043
+    },
+    {
+      "name": "Dom Handlowy",
+      "latitude": 51.494766,
+      "longitude": 22.854494
+    },
+    {
+      "name": "Dom Handlowy",
+      "latitude": 51.942198,
+      "longitude": 15.507838
+    },
+    {
+      "name": "Dom handlowy",
+      "latitude": 54.114378,
+      "longitude": 17.336054
+    },
+    {
+      "name": "Dom Handlowy \"AGAT\"",
+      "latitude": 50.103364,
+      "longitude": 19.313581
+    },
+    {
+      "name": "Dom handlowy \"Hermes\"",
+      "latitude": 52.170395,
+      "longitude": 22.277853
+    },
+    {
+      "name": "Dom Handlowy \"Pod Dębem\"",
+      "latitude": 49.905423,
+      "longitude": 18.661985
+    },
+    {
+      "name": "Dom Handlowy Azet",
+      "latitude": 50.116147,
+      "longitude": 18.990937
+    },
+    {
+      "name": "Dom Handlowy BUDA",
+      "latitude": 51.531464,
+      "longitude": 20.009358
+    },
+    {
+      "name": "Dom handlowy DZIK",
+      "latitude": 51.303037,
+      "longitude": 22.886646
+    },
+    {
+      "name": "Dom Handlowy JEDYNAK",
+      "latitude": 50.252435,
+      "longitude": 22.421925
+    },
+    {
+      "name": "Dom Handlowy Kaszub",
+      "latitude": 54.60545,
+      "longitude": 18.251259
+    },
+    {
+      "name": "Dom Handlowy Kobart",
+      "latitude": 54.260216,
+      "longitude": 18.650049
+    },
+    {
+      "name": "Dom Handlowy Kębłowo",
+      "latitude": 54.594135,
+      "longitude": 18.097824
+    },
+    {
+      "name": "Dom Handlowy Monte",
+      "latitude": 54.443427,
+      "longitude": 18.56281
+    },
+    {
+      "name": "Dom Handlowy NIEDŹWIEDŹ",
+      "latitude": 51.531748,
+      "longitude": 20.008831
+    },
+    {
+      "name": "Dom Handlowy Piast",
+      "latitude": 51.529367,
+      "longitude": 17.275915
+    },
+    {
+      "name": "Dom Handlowy Pod Wiązem",
+      "latitude": 49.74231,
+      "longitude": 19.59599
+    },
+    {
+      "name": "Dom Handlowy Rolnik",
+      "latitude": 50.877974,
+      "longitude": 18.421067
+    },
+    {
+      "name": "Dom Handlowy RONDO",
+      "latitude": 51.529519,
+      "longitude": 20.019361
+    },
+    {
+      "name": "Dom Handlowy Sezam",
+      "latitude": 50.013087,
+      "longitude": 20.924961
+    },
+    {
+      "name": "Dom Handlowy Sutoris",
+      "latitude": 49.97072,
+      "longitude": 20.431323
+    },
+    {
+      "name": "Dom Handlowy TOMASZ",
+      "latitude": 51.530291,
+      "longitude": 20.01017
+    },
+    {
+      "name": "Dom Handlowy Wanda",
+      "latitude": 50.0858,
+      "longitude": 20.018864
+    },
+    {
+      "name": "Dom Handlowy Wodnik",
+      "latitude": 52.512668,
+      "longitude": 21.06991
+    },
+    {
+      "name": "Dom Handlowy Ślązak",
+      "latitude": 50.260842,
+      "longitude": 19.020156
+    },
+    {
+      "name": "Dom Towarowy Centrum",
+      "latitude": 50.134684,
+      "longitude": 19.632193
+    },
+    {
+      "name": "Dom towarowy „Julita”",
+      "latitude": 51.36657,
+      "longitude": 17.466997
+    },
+    {
+      "name": "Dom Usług",
+      "latitude": 49.975976,
+      "longitude": 18.944327
+    },
+    {
+      "name": "Domar",
+      "latitude": 51.110515,
+      "longitude": 17.014741
+    },
+    {
+      "name": "Domino",
+      "latitude": 52.165017,
+      "longitude": 22.271943
+    },
+    {
+      "name": "Domix",
+      "latitude": 51.24065,
+      "longitude": 22.588188
+    },
+    {
+      "name": "Domus",
+      "latitude": 53.395836,
+      "longitude": 14.66725
+    },
+    {
+      "name": "Dorado",
+      "latitude": 52.075921,
+      "longitude": 16.667211
+    },
+    {
+      "name": "Drogeria Aster",
+      "latitude": 53.408688,
+      "longitude": 18.452512
+    },
+    {
+      "name": "Dukat",
+      "latitude": 53.777861,
+      "longitude": 20.481197
+    },
+    {
+      "name": "Dwór kupiecki",
+      "latitude": 49.484327,
+      "longitude": 20.048618
+    },
+    {
+      "name": "E. Leclerc",
+      "latitude": 51.378548,
+      "longitude": 21.1261
+    },
+    {
+      "name": "E. Leclerc",
+      "latitude": 54.153759,
+      "longitude": 19.420014
+    },
+    {
+      "name": "E.Leclerc",
+      "latitude": 52.199102,
+      "longitude": 20.937195
+    },
+    {
+      "name": "EACC",
+      "latitude": 52.056228,
+      "longitude": 20.857018
+    },
+    {
+      "name": "Ekomarina Gizycko",
+      "latitude": 54.031853,
+      "longitude": 21.772792
+    },
+    {
+      "name": "Elegant",
+      "latitude": 49.7242,
+      "longitude": 19.141659
+    },
+    {
+      "name": "Elektrownia Powiśle",
+      "latitude": 52.240668,
+      "longitude": 21.027782
+    },
+    {
+      "name": "Elipsa Park & Galeria",
+      "latitude": 49.83902,
+      "longitude": 19.963715
+    },
+    {
+      "name": "Emira Skład materiałów budowlanych",
+      "latitude": 52.799168,
+      "longitude": 21.916777
+    },
+    {
+      "name": "Emma",
+      "latitude": 52.181746,
+      "longitude": 21.559722
+    },
+    {
+      "name": "Enzym Kowale",
+      "latitude": 54.308147,
+      "longitude": 18.566382
+    },
+    {
+      "name": "ETC Swarzędz",
+      "latitude": 52.404495,
+      "longitude": 17.0952
+    },
+    {
+      "name": "Eurocash",
+      "latitude": 50.220572,
+      "longitude": 19.247115
+    },
+    {
+      "name": "Europa Centralna",
+      "latitude": 50.26673,
+      "longitude": 18.716564
+    },
+    {
+      "name": "Europa II Plaza",
+      "latitude": 49.614242,
+      "longitude": 20.703978
+    },
+    {
+      "name": "EuroPark",
+      "latitude": 50.041843,
+      "longitude": 18.404509
+    },
+    {
+      "name": "European",
+      "latitude": 52.056147,
+      "longitude": 20.853758
+    },
+    {
+      "name": "Europejskie Centrum Handlowe",
+      "latitude": 50.017635,
+      "longitude": 19.893272
+    },
+    {
+      "name": "Factoria Park",
+      "latitude": 51.105446,
+      "longitude": 16.945486
+    },
+    {
+      "name": "Factory Annopol",
+      "latitude": 52.299477,
+      "longitude": 21.025548
+    },
+    {
+      "name": "Factory Gliwice",
+      "latitude": 50.25787,
+      "longitude": 18.657034
+    },
+    {
+      "name": "Factory Kraków",
+      "latitude": 50.109384,
+      "longitude": 19.846415
+    },
+    {
+      "name": "Factory Poznań",
+      "latitude": 52.352786,
+      "longitude": 16.888146
+    },
+    {
+      "name": "Factory Ursus",
+      "latitude": 52.201673,
+      "longitude": 20.894577
+    },
+    {
+      "name": "Family Point",
+      "latitude": 51.090574,
+      "longitude": 17.062472
+    },
+    {
+      "name": "Family Point",
+      "latitude": 51.64518,
+      "longitude": 16.097628
+    },
+    {
+      "name": "Fart",
+      "latitude": 54.172778,
+      "longitude": 18.534073
+    },
+    {
+      "name": "Felicity",
+      "latitude": 51.232138,
+      "longitude": 22.613901
+    },
+    {
+      "name": "Feniks",
+      "latitude": 51.387452,
+      "longitude": 21.15843
+    },
+    {
+      "name": "FERIO",
+      "latitude": 52.206654,
+      "longitude": 21.16783
+    },
+    {
+      "name": "Ferio Gaj",
+      "latitude": 51.076016,
+      "longitude": 17.042067
+    },
+    {
+      "name": "Ferio Wawer",
+      "latitude": 52.206237,
+      "longitude": 21.168327
+    },
+    {
+      "name": "FHU Diana Centrum Techniki Grzewczej",
+      "latitude": 50.037429,
+      "longitude": 21.003422
+    },
+    {
+      "name": "Filar",
+      "latitude": 49.877921,
+      "longitude": 19.505314
+    },
+    {
+      "name": "Focus Mall",
+      "latitude": 51.411168,
+      "longitude": 19.667669
+    },
+    {
+      "name": "Focus Mall Bydgoszcz",
+      "latitude": 53.124475,
+      "longitude": 18.01767
+    },
+    {
+      "name": "Focus Park",
+      "latitude": 50.094506,
+      "longitude": 18.543372
+    },
+    {
+      "name": "Focus Park",
+      "latitude": 51.935941,
+      "longitude": 15.511198
+    },
+    {
+      "name": "Fokus",
+      "latitude": 52.326348,
+      "longitude": 21.212501
+    },
+    {
+      "name": "Fort Wola",
+      "latitude": 52.223781,
+      "longitude": 20.926871
+    },
+    {
+      "name": "Forum Gdańsk",
+      "latitude": 54.349453,
+      "longitude": 18.643224
+    },
+    {
+      "name": "Forum Koszalin",
+      "latitude": 54.177404,
+      "longitude": 16.202281
+    },
+    {
+      "name": "Full Market",
+      "latitude": 50.020988,
+      "longitude": 22.018374
+    },
+    {
+      "name": "G City Biała",
+      "latitude": 53.122529,
+      "longitude": 23.177783
+    },
+    {
+      "name": "G City Targówek",
+      "latitude": 52.303667,
+      "longitude": 21.057391
+    },
+    {
+      "name": "Gala",
+      "latitude": 51.238536,
+      "longitude": 22.573044
+    },
+    {
+      "name": "Galaxy",
+      "latitude": 53.433562,
+      "longitude": 14.556861
+    },
+    {
+      "name": "Galeo",
+      "latitude": 52.594487,
+      "longitude": 21.451691
+    },
+    {
+      "name": "Galeria \"Armada\"",
+      "latitude": 52.177475,
+      "longitude": 21.566249
+    },
+    {
+      "name": "Galeria \"Best\"",
+      "latitude": 52.406668,
+      "longitude": 22.251823
+    },
+    {
+      "name": "Galeria A10 Park Żary",
+      "latitude": 51.639341,
+      "longitude": 15.127422
+    },
+    {
+      "name": "Galeria A2",
+      "latitude": 52.352992,
+      "longitude": 16.840188
+    },
+    {
+      "name": "Galeria Abita",
+      "latitude": 53.041833,
+      "longitude": 16.460725
+    },
+    {
+      "name": "Galeria Agora",
+      "latitude": 50.347609,
+      "longitude": 18.919248
+    },
+    {
+      "name": "Galeria Alius",
+      "latitude": 53.078658,
+      "longitude": 21.576741
+    },
+    {
+      "name": "Galeria Amber",
+      "latitude": 51.744533,
+      "longitude": 18.070456
+    },
+    {
+      "name": "Galeria Ammanti",
+      "latitude": 50.035157,
+      "longitude": 19.224299
+    },
+    {
+      "name": "Galeria Andrychowska",
+      "latitude": 49.854429,
+      "longitude": 19.335282
+    },
+    {
+      "name": "Galeria Antoniuk",
+      "latitude": 53.145221,
+      "longitude": 23.132041
+    },
+    {
+      "name": "Galeria ARENA",
+      "latitude": 52.633959,
+      "longitude": 20.364645
+    },
+    {
+      "name": "Galeria Arkada - wyposażenie wnętrz",
+      "latitude": 52.446043,
+      "longitude": 16.907039
+    },
+    {
+      "name": "Galeria Arkadia",
+      "latitude": 49.55969,
+      "longitude": 22.202903
+    },
+    {
+      "name": "Galeria Arkadia",
+      "latitude": 49.616637,
+      "longitude": 20.697832
+    },
+    {
+      "name": "Galeria Askana",
+      "latitude": 52.731098,
+      "longitude": 15.226151
+    },
+    {
+      "name": "Galeria Auchan",
+      "latitude": 50.089592,
+      "longitude": 18.259496
+    },
+    {
+      "name": "Galeria Auchan",
+      "latitude": 51.186363,
+      "longitude": 16.169825
+    },
+    {
+      "name": "Galeria Auchan",
+      "latitude": 51.96386,
+      "longitude": 15.489746
+    },
+    {
+      "name": "Galeria Bawełnianka",
+      "latitude": 51.369407,
+      "longitude": 19.37241
+    },
+    {
+      "name": "Galeria Bałtycka",
+      "latitude": 54.382621,
+      "longitude": 18.600772
+    },
+    {
+      "name": "Galeria Bem",
+      "latitude": 52.973317,
+      "longitude": 22.252538
+    },
+    {
+      "name": "Galeria Bemowo",
+      "latitude": 52.264107,
+      "longitude": 20.93079
+    },
+    {
+      "name": "Galeria Białka",
+      "latitude": 49.387247,
+      "longitude": 20.10503
+    },
+    {
+      "name": "Galeria Bielawska",
+      "latitude": 50.685883,
+      "longitude": 16.617288
+    },
+    {
+      "name": "Galeria Biłgorajska",
+      "latitude": 50.54127,
+      "longitude": 22.723584
+    },
+    {
+      "name": "Galeria Blachownia",
+      "latitude": 50.785548,
+      "longitude": 18.963274
+    },
+    {
+      "name": "Galeria Bocheńska",
+      "latitude": 49.969605,
+      "longitude": 20.429132
+    },
+    {
+      "name": "Galeria Bolewice",
+      "latitude": 52.397066,
+      "longitude": 16.119753
+    },
+    {
+      "name": "Galeria Bolszewo",
+      "latitude": 54.616163,
+      "longitude": 18.175848
+    },
+    {
+      "name": "Galeria Bona",
+      "latitude": 50.03737,
+      "longitude": 20.219475
+    },
+    {
+      "name": "Galeria Borek",
+      "latitude": 51.425766,
+      "longitude": 17.929824
+    },
+    {
+      "name": "Galeria Brama Pomorza",
+      "latitude": 53.693549,
+      "longitude": 17.617961
+    },
+    {
+      "name": "Galeria Bronowice",
+      "latitude": 50.091759,
+      "longitude": 19.898821
+    },
+    {
+      "name": "Galeria Brwinów",
+      "latitude": 52.135259,
+      "longitude": 20.705066
+    },
+    {
+      "name": "Galeria Brzeska",
+      "latitude": 49.972782,
+      "longitude": 20.603785
+    },
+    {
+      "name": "Galeria Budziwój",
+      "latitude": 49.968242,
+      "longitude": 21.984019
+    },
+    {
+      "name": "Galeria BULWARY",
+      "latitude": 51.533989,
+      "longitude": 19.996732
+    },
+    {
+      "name": "Galeria Bursztynowa",
+      "latitude": 53.075783,
+      "longitude": 21.577732
+    },
+    {
+      "name": "Galeria Centrum",
+      "latitude": 54.168866,
+      "longitude": 17.486128
+    },
+    {
+      "name": "Galeria Centrum ,,PEDET\"",
+      "latitude": 51.24727,
+      "longitude": 22.561352
+    },
+    {
+      "name": "Galeria Chełm",
+      "latitude": 51.144612,
+      "longitude": 23.444251
+    },
+    {
+      "name": "Galeria Chełm",
+      "latitude": 54.336651,
+      "longitude": 18.620687
+    },
+    {
+      "name": "Galeria Ciesielska",
+      "latitude": 53.121107,
+      "longitude": 23.201567
+    },
+    {
+      "name": "Galeria Copernicus",
+      "latitude": 53.024929,
+      "longitude": 18.63846
+    },
+    {
+      "name": "Galeria Corso",
+      "latitude": 53.909733,
+      "longitude": 14.246374
+    },
+    {
+      "name": "Galeria Cukrowa",
+      "latitude": 51.36439,
+      "longitude": 22.295319
+    },
+    {
+      "name": "Galeria Cyganek",
+      "latitude": 49.995088,
+      "longitude": 18.484823
+    },
+    {
+      "name": "Galeria Czarnowska",
+      "latitude": 50.875108,
+      "longitude": 20.623327
+    },
+    {
+      "name": "Galeria Czarny Lew",
+      "latitude": 49.748467,
+      "longitude": 19.971447
+    },
+    {
+      "name": "Galeria Czynna",
+      "latitude": 52.348253,
+      "longitude": 14.561827
+    },
+    {
+      "name": "Galeria Dekada",
+      "latitude": 49.478311,
+      "longitude": 20.023365
+    },
+    {
+      "name": "Galeria Dekada",
+      "latitude": 50.478077,
+      "longitude": 17.336807
+    },
+    {
+      "name": "Galeria Dekada",
+      "latitude": 52.054215,
+      "longitude": 20.440683
+    },
+    {
+      "name": "Galeria Dekada",
+      "latitude": 54.035846,
+      "longitude": 19.034964
+    },
+    {
+      "name": "Galeria Delfino",
+      "latitude": 54.540042,
+      "longitude": 17.747786
+    },
+    {
+      "name": "Galeria DGB",
+      "latitude": 51.207362,
+      "longitude": 16.190367
+    },
+    {
+      "name": "Galeria Diamentowa",
+      "latitude": 51.203498,
+      "longitude": 22.556882
+    },
+    {
+      "name": "Galeria Dominikańska",
+      "latitude": 51.108506,
+      "longitude": 17.040224
+    },
+    {
+      "name": "Galeria Drewutnia",
+      "latitude": 51.415979,
+      "longitude": 18.604121
+    },
+    {
+      "name": "Galeria Dworcowa",
+      "latitude": 51.667596,
+      "longitude": 16.082205
+    },
+    {
+      "name": "Galeria Dworcowa",
+      "latitude": 53.172974,
+      "longitude": 22.066917
+    },
+    {
+      "name": "Galeria Dworzec",
+      "latitude": 49.914055,
+      "longitude": 19.004694
+    },
+    {
+      "name": "Galeria Dworzec",
+      "latitude": 51.299422,
+      "longitude": 22.888721
+    },
+    {
+      "name": "Galeria Dąbrówka",
+      "latitude": 49.562668,
+      "longitude": 22.187516
+    },
+    {
+      "name": "Galeria Dąbrówka",
+      "latitude": 52.172746,
+      "longitude": 21.586025
+    },
+    {
+      "name": "Galeria Dębicka",
+      "latitude": 50.046107,
+      "longitude": 21.412371
+    },
+    {
+      "name": "Galeria Dębiec",
+      "latitude": 52.362982,
+      "longitude": 16.902204
+    },
+    {
+      "name": "Galeria E",
+      "latitude": 53.916622,
+      "longitude": 15.205872
+    },
+    {
+      "name": "Galeria Echo",
+      "latitude": 50.880102,
+      "longitude": 20.648236
+    },
+    {
+      "name": "Galeria Echo",
+      "latitude": 50.88104,
+      "longitude": 20.646441
+    },
+    {
+      "name": "Galeria Echo Centrum",
+      "latitude": 49.674969,
+      "longitude": 20.077366
+    },
+    {
+      "name": "Galeria EMKA",
+      "latitude": 54.207058,
+      "longitude": 16.185831
+    },
+    {
+      "name": "Galeria EP",
+      "latitude": 49.652031,
+      "longitude": 21.155297
+    },
+    {
+      "name": "Galeria Europa",
+      "latitude": 49.744856,
+      "longitude": 21.473823
+    },
+    {
+      "name": "Galeria Europa II",
+      "latitude": 50.041349,
+      "longitude": 22.003948
+    },
+    {
+      "name": "Galeria Fabel",
+      "latitude": 51.641414,
+      "longitude": 22.912136
+    },
+    {
+      "name": "Galeria Familijna",
+      "latitude": 52.227498,
+      "longitude": 16.829567
+    },
+    {
+      "name": "Galeria Ferio",
+      "latitude": 51.207436,
+      "longitude": 16.153781
+    },
+    {
+      "name": "Galeria Fordon",
+      "latitude": 53.157984,
+      "longitude": 18.154946
+    },
+    {
+      "name": "Galeria Full Market",
+      "latitude": 49.694589,
+      "longitude": 21.749569
+    },
+    {
+      "name": "Galeria Gama",
+      "latitude": 51.594918,
+      "longitude": 21.533147
+    },
+    {
+      "name": "Galeria Gdowska",
+      "latitude": 49.910314,
+      "longitude": 20.208536
+    },
+    {
+      "name": "Galeria Giant Meble",
+      "latitude": 52.377941,
+      "longitude": 16.978995
+    },
+    {
+      "name": "Galeria Glogovia",
+      "latitude": 51.649558,
+      "longitude": 16.056027
+    },
+    {
+      "name": "Galeria Gniezno",
+      "latitude": 52.560894,
+      "longitude": 17.61227
+    },
+    {
+      "name": "Galeria Gocław",
+      "latitude": 52.232593,
+      "longitude": 21.093788
+    },
+    {
+      "name": "Galeria Gorlicka",
+      "latitude": 49.656823,
+      "longitude": 21.15977
+    },
+    {
+      "name": "Galeria Gołąbkowice",
+      "latitude": 49.621894,
+      "longitude": 20.720449
+    },
+    {
+      "name": "Galeria Graffica",
+      "latitude": 50.035413,
+      "longitude": 21.996495
+    },
+    {
+      "name": "Galeria Grafitt",
+      "latitude": 51.942535,
+      "longitude": 15.507719
+    },
+    {
+      "name": "Galeria Grochów",
+      "latitude": 52.246559,
+      "longitude": 21.085488
+    },
+    {
+      "name": "Galeria Grodova",
+      "latitude": 52.104338,
+      "longitude": 20.623865
+    },
+    {
+      "name": "Galeria Grudziądzka",
+      "latitude": 53.469934,
+      "longitude": 18.75686
+    },
+    {
+      "name": "Galeria Gryf",
+      "latitude": 53.385866,
+      "longitude": 14.66212
+    },
+    {
+      "name": "Galeria Grójec",
+      "latitude": 51.865705,
+      "longitude": 20.866193
+    },
+    {
+      "name": "Galeria Głogów",
+      "latitude": 51.645297,
+      "longitude": 16.09524
+    },
+    {
+      "name": "Galeria Hajnówka",
+      "latitude": 52.740383,
+      "longitude": 23.588392
+    },
+    {
+      "name": "Galeria Handlowa \"Dominik\"",
+      "latitude": 49.881067,
+      "longitude": 19.495902
+    },
+    {
+      "name": "Galeria handlowa \"Nowa\"",
+      "latitude": 50.332538,
+      "longitude": 22.335823
+    },
+    {
+      "name": "Galeria Handlowa Dekada",
+      "latitude": 51.957406,
+      "longitude": 20.148627
+    },
+    {
+      "name": "Galeria Handlowa Dąbrówka",
+      "latitude": 52.381346,
+      "longitude": 16.745157
+    },
+    {
+      "name": "Galeria Handlowa EPICENTRUM",
+      "latitude": 52.982329,
+      "longitude": 22.892375
+    },
+    {
+      "name": "Galeria handlowa Inbag",
+      "latitude": 52.613465,
+      "longitude": 16.582548
+    },
+    {
+      "name": "Galeria Handlowa Julia i Szymon",
+      "latitude": 50.961253,
+      "longitude": 22.178443
+    },
+    {
+      "name": "Galeria Handlowa Kolbudy",
+      "latitude": 54.269713,
+      "longitude": 18.468218
+    },
+    {
+      "name": "Galeria Handlowa Madison",
+      "latitude": 54.356545,
+      "longitude": 18.649174
+    },
+    {
+      "name": "Galeria Handlowa Modico",
+      "latitude": 52.226772,
+      "longitude": 17.274844
+    },
+    {
+      "name": "Galeria Handlowa Nowy Świat",
+      "latitude": 50.948472,
+      "longitude": 21.380671
+    },
+    {
+      "name": "Galeria Handlowa Partner",
+      "latitude": 52.189372,
+      "longitude": 21.528805
+    },
+    {
+      "name": "Galeria handlowa Ratusz",
+      "latitude": 52.610251,
+      "longitude": 16.578579
+    },
+    {
+      "name": "Galeria Handlowa Saska Kępa",
+      "latitude": 52.231316,
+      "longitude": 21.056823
+    },
+    {
+      "name": "Galeria Handlowa Venus",
+      "latitude": 51.599101,
+      "longitude": 18.940598
+    },
+    {
+      "name": "Galeria handlowa w Grajewie",
+      "latitude": 53.65043,
+      "longitude": 22.458848
+    },
+    {
+      "name": "Galeria Horex",
+      "latitude": 52.053469,
+      "longitude": 15.107573
+    },
+    {
+      "name": "Galeria HOSSO",
+      "latitude": 51.637752,
+      "longitude": 15.132687
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 51.951452,
+      "longitude": 14.723412
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 52.23486,
+      "longitude": 15.533223
+    },
+    {
+      "name": "Galeria HOSSO",
+      "latitude": 52.990069,
+      "longitude": 15.210914
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 53.526161,
+      "longitude": 15.819279
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 53.539583,
+      "longitude": 14.547379
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 53.70924,
+      "longitude": 16.691992
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 54.176171,
+      "longitude": 15.577133
+    },
+    {
+      "name": "Galeria Hosso",
+      "latitude": 54.176585,
+      "longitude": 15.573991
+    },
+    {
+      "name": "Galeria IBI",
+      "latitude": 53.163013,
+      "longitude": 16.756098
+    },
+    {
+      "name": "Galeria Indomo",
+      "latitude": 51.389414,
+      "longitude": 16.215874
+    },
+    {
+      "name": "Galeria Inspiro",
+      "latitude": 51.376771,
+      "longitude": 20.275074
+    },
+    {
+      "name": "Galeria Jarocińska",
+      "latitude": 51.970839,
+      "longitude": 17.499967
+    },
+    {
+      "name": "Galeria Jarosławska",
+      "latitude": 50.016267,
+      "longitude": 22.677337
+    },
+    {
+      "name": "Galeria Jastrzębie",
+      "latitude": 49.951019,
+      "longitude": 18.597128
+    },
+    {
+      "name": "Galeria Jasło",
+      "latitude": 49.746204,
+      "longitude": 21.482426
+    },
+    {
+      "name": "Galeria Jeziorak",
+      "latitude": 53.595551,
+      "longitude": 19.56461
+    },
+    {
+      "name": "Galeria Jurajska",
+      "latitude": 50.807646,
+      "longitude": 19.131042
+    },
+    {
+      "name": "Galeria Jurand",
+      "latitude": 53.563558,
+      "longitude": 20.993579
+    },
+    {
+      "name": "Galeria Jurowiecka",
+      "latitude": 53.136408,
+      "longitude": 23.162711
+    },
+    {
+      "name": "Galeria K&M",
+      "latitude": 53.69393,
+      "longitude": 17.561004
+    },
+    {
+      "name": "Galeria Kalisz",
+      "latitude": 51.766521,
+      "longitude": 18.060756
+    },
+    {
+      "name": "Galeria Kalisz 2",
+      "latitude": 51.766068,
+      "longitude": 18.063132
+    },
+    {
+      "name": "Galeria Kamienna",
+      "latitude": 51.042444,
+      "longitude": 21.086445
+    },
+    {
+      "name": "Galeria Karuzela",
+      "latitude": 50.000413,
+      "longitude": 18.464738
+    },
+    {
+      "name": "Galeria Kasyno",
+      "latitude": 52.217674,
+      "longitude": 20.234052
+    },
+    {
+      "name": "Galeria Katowicka",
+      "latitude": 50.259086,
+      "longitude": 19.017348
+    },
+    {
+      "name": "Galeria Kazimierz",
+      "latitude": 50.053404,
+      "longitude": 19.955486
+    },
+    {
+      "name": "Galeria Kilińskiego",
+      "latitude": 52.231852,
+      "longitude": 17.269521
+    },
+    {
+      "name": "Galeria Kociewska",
+      "latitude": 54.096578,
+      "longitude": 18.78742
+    },
+    {
+      "name": "Galeria Kocka",
+      "latitude": 51.641615,
+      "longitude": 22.447304
+    },
+    {
+      "name": "Galeria Kocmyrzów",
+      "latitude": 50.134342,
+      "longitude": 20.112138
+    },
+    {
+      "name": "Galeria Kolorowa",
+      "latitude": 49.684489,
+      "longitude": 19.209225
+    },
+    {
+      "name": "Galeria Konstantynów",
+      "latitude": 51.749669,
+      "longitude": 19.323035
+    },
+    {
+      "name": "Galeria Kopernik",
+      "latitude": 50.46418,
+      "longitude": 20.718363
+    },
+    {
+      "name": "Galeria Korona",
+      "latitude": 50.875878,
+      "longitude": 20.635517
+    },
+    {
+      "name": "Galeria Kościerska",
+      "latitude": 54.122733,
+      "longitude": 17.975726
+    },
+    {
+      "name": "Galeria Krakowska",
+      "latitude": 50.067919,
+      "longitude": 19.946234
+    },
+    {
+      "name": "Galeria Krasnystaw",
+      "latitude": 50.995684,
+      "longitude": 23.143578
+    },
+    {
+      "name": "Galeria Krosno",
+      "latitude": 49.692513,
+      "longitude": 21.772631
+    },
+    {
+      "name": "Galeria Krotoszyńska",
+      "latitude": 51.698278,
+      "longitude": 17.435153
+    },
+    {
+      "name": "Galeria Krupówki 40",
+      "latitude": 49.292778,
+      "longitude": 19.955761
+    },
+    {
+      "name": "Galeria Królewska",
+      "latitude": 50.685625,
+      "longitude": 21.732586
+    },
+    {
+      "name": "Galeria Kupiecka",
+      "latitude": 52.108307,
+      "longitude": 21.260022
+    },
+    {
+      "name": "Galeria Kupiecka \"Oczko\"",
+      "latitude": 50.574115,
+      "longitude": 19.326659
+    },
+    {
+      "name": "Galeria Kępno",
+      "latitude": 51.289537,
+      "longitude": 17.995035
+    },
+    {
+      "name": "Galeria Lazur",
+      "latitude": 50.019513,
+      "longitude": 22.020199
+    },
+    {
+      "name": "Galeria Leszno",
+      "latitude": 51.826766,
+      "longitude": 16.599369
+    },
+    {
+      "name": "Galeria Leszno",
+      "latitude": 52.259489,
+      "longitude": 20.59309
+    },
+    {
+      "name": "Galeria Lesznowola",
+      "latitude": 52.090378,
+      "longitude": 20.949293
+    },
+    {
+      "name": "Galeria Leśna",
+      "latitude": 52.738735,
+      "longitude": 23.587881
+    },
+    {
+      "name": "Galeria Lider",
+      "latitude": 49.691145,
+      "longitude": 19.201212
+    },
+    {
+      "name": "Galeria Lipowa",
+      "latitude": 53.797308,
+      "longitude": 17.965964
+    },
+    {
+      "name": "Galeria Lniano",
+      "latitude": 53.528798,
+      "longitude": 18.223223
+    },
+    {
+      "name": "Galeria Londyn",
+      "latitude": 50.961386,
+      "longitude": 22.179219
+    },
+    {
+      "name": "Galeria Lotników",
+      "latitude": 51.783865,
+      "longitude": 21.188821
+    },
+    {
+      "name": "Galeria Lubelska",
+      "latitude": 51.236829,
+      "longitude": 22.604319
+    },
+    {
+      "name": "Galeria Luzino",
+      "latitude": 54.566949,
+      "longitude": 18.104601
+    },
+    {
+      "name": "Galeria Lębork",
+      "latitude": 54.535103,
+      "longitude": 17.750543
+    },
+    {
+      "name": "Galeria M",
+      "latitude": 53.149988,
+      "longitude": 23.156739
+    },
+    {
+      "name": "Galeria Madro",
+      "latitude": 53.135969,
+      "longitude": 23.134434
+    },
+    {
+      "name": "Galeria Marjon",
+      "latitude": 53.839834,
+      "longitude": 22.969165
+    },
+    {
+      "name": "Galeria Matejki",
+      "latitude": 51.781461,
+      "longitude": 19.484218
+    },
+    {
+      "name": "Galeria Max",
+      "latitude": 51.947862,
+      "longitude": 14.729872
+    },
+    {
+      "name": "Galeria Mazovia",
+      "latitude": 52.537501,
+      "longitude": 19.751294
+    },
+    {
+      "name": "Galeria Mazowiecka",
+      "latitude": 52.79969,
+      "longitude": 21.895107
+    },
+    {
+      "name": "Galeria Mazurska",
+      "latitude": 53.69875,
+      "longitude": 19.957945
+    },
+    {
+      "name": "Galeria Metropolia",
+      "latitude": 54.383026,
+      "longitude": 18.605482
+    },
+    {
+      "name": "Galeria Mieszka",
+      "latitude": 53.412571,
+      "longitude": 14.524664
+    },
+    {
+      "name": "Galeria MINI",
+      "latitude": 52.290173,
+      "longitude": 16.979483
+    },
+    {
+      "name": "Galeria Miodowa",
+      "latitude": 50.988557,
+      "longitude": 18.213011
+    },
+    {
+      "name": "Galeria Mistrza Jana",
+      "latitude": 52.395276,
+      "longitude": 22.018711
+    },
+    {
+      "name": "Galeria Miszewo",
+      "latitude": 54.388386,
+      "longitude": 18.359151
+    },
+    {
+      "name": "Galeria Międzyrzec",
+      "latitude": 51.982348,
+      "longitude": 22.785107
+    },
+    {
+      "name": "Galeria MM",
+      "latitude": 52.40645,
+      "longitude": 16.927758
+    },
+    {
+      "name": "Galeria Modlińska",
+      "latitude": 52.303184,
+      "longitude": 20.991577
+    },
+    {
+      "name": "Galeria MOLO",
+      "latitude": 54.185494,
+      "longitude": 15.561543
+    },
+    {
+      "name": "Galeria Morena",
+      "latitude": 54.352121,
+      "longitude": 18.593515
+    },
+    {
+      "name": "Galeria Mosty",
+      "latitude": 52.553442,
+      "longitude": 19.694092
+    },
+    {
+      "name": "Galeria Moya",
+      "latitude": 49.952248,
+      "longitude": 18.606767
+    },
+    {
+      "name": "Galeria Mozaika",
+      "latitude": 50.013606,
+      "longitude": 19.996283
+    },
+    {
+      "name": "Galeria Mrówka",
+      "latitude": 52.868569,
+      "longitude": 20.606866
+    },
+    {
+      "name": "Galeria Mszana Dolna",
+      "latitude": 49.67521,
+      "longitude": 20.076202
+    },
+    {
+      "name": "Galeria Muszkieterów",
+      "latitude": 53.26298,
+      "longitude": 14.490949
+    },
+    {
+      "name": "Galeria Myślenicka",
+      "latitude": 49.836146,
+      "longitude": 19.948199
+    },
+    {
+      "name": "Galeria Młynówka",
+      "latitude": 49.978429,
+      "longitude": 18.946911
+    },
+    {
+      "name": "Galeria Młyńska",
+      "latitude": 50.091278,
+      "longitude": 18.222642
+    },
+    {
+      "name": "Galeria nad Jeziorem",
+      "latitude": 52.238563,
+      "longitude": 18.260824
+    },
+    {
+      "name": "Galeria nad Nilem",
+      "latitude": 50.242169,
+      "longitude": 21.778785
+    },
+    {
+      "name": "Galeria Nad Potokiem",
+      "latitude": 51.409988,
+      "longitude": 21.175645
+    },
+    {
+      "name": "Galeria Nad Potokiem",
+      "latitude": 51.410768,
+      "longitude": 21.176366
+    },
+    {
+      "name": "Galeria Natura",
+      "latitude": 50.52963,
+      "longitude": 22.71936
+    },
+    {
+      "name": "Galeria Navigator",
+      "latitude": 50.287622,
+      "longitude": 21.459169
+    },
+    {
+      "name": "Galeria Neptun",
+      "latitude": 53.964283,
+      "longitude": 18.529375
+    },
+    {
+      "name": "Galeria Niepołomice",
+      "latitude": 50.047175,
+      "longitude": 20.214807
+    },
+    {
+      "name": "Galeria Niwa",
+      "latitude": 50.044418,
+      "longitude": 19.20704
+    },
+    {
+      "name": "Galeria Nova",
+      "latitude": 50.018967,
+      "longitude": 22.014525
+    },
+    {
+      "name": "Galeria Nova",
+      "latitude": 51.414473,
+      "longitude": 21.969956
+    },
+    {
+      "name": "Galeria Nova",
+      "latitude": 53.709649,
+      "longitude": 16.688936
+    },
+    {
+      "name": "Galeria Nowa Praga",
+      "latitude": 52.272542,
+      "longitude": 21.017524
+    },
+    {
+      "name": "Galeria Nowa Wieś",
+      "latitude": 52.401712,
+      "longitude": 17.05712
+    },
+    {
+      "name": "Galeria Nowy Świat",
+      "latitude": 50.049019,
+      "longitude": 21.976461
+    },
+    {
+      "name": "Galeria Nyska",
+      "latitude": 50.473721,
+      "longitude": 17.332757
+    },
+    {
+      "name": "Galeria Olimpia",
+      "latitude": 51.353897,
+      "longitude": 19.375511
+    },
+    {
+      "name": "Galeria Opawska",
+      "latitude": 50.086988,
+      "longitude": 18.216913
+    },
+    {
+      "name": "Galeria Opolanin",
+      "latitude": 50.668351,
+      "longitude": 17.930954
+    },
+    {
+      "name": "Galeria Orion",
+      "latitude": 52.586696,
+      "longitude": 14.653546
+    },
+    {
+      "name": "Galeria Orkana",
+      "latitude": 51.234215,
+      "longitude": 22.495638
+    },
+    {
+      "name": "Galeria Osielsko",
+      "latitude": 53.187342,
+      "longitude": 18.070397
+    },
+    {
+      "name": "Galeria Ostrowiec",
+      "latitude": 50.940343,
+      "longitude": 21.374886
+    },
+    {
+      "name": "Galeria Ostrowiec",
+      "latitude": 50.940883,
+      "longitude": 21.377417
+    },
+    {
+      "name": "Galeria Paniaga",
+      "latitude": 50.036167,
+      "longitude": 22.00131
+    },
+    {
+      "name": "Galeria Panorama",
+      "latitude": 49.748633,
+      "longitude": 21.471478
+    },
+    {
+      "name": "Galeria Park Koło",
+      "latitude": 52.197321,
+      "longitude": 18.638511
+    },
+    {
+      "name": "Galeria Pawelec",
+      "latitude": 52.316834,
+      "longitude": 16.13517
+    },
+    {
+      "name": "Galeria Pałucka",
+      "latitude": 52.846592,
+      "longitude": 17.740963
+    },
+    {
+      "name": "Galeria Perła",
+      "latitude": 50.984857,
+      "longitude": 23.171768
+    },
+    {
+      "name": "Galeria Pestka",
+      "latitude": 52.437484,
+      "longitude": 16.918444
+    },
+    {
+      "name": "Galeria Piastova",
+      "latitude": 52.526747,
+      "longitude": 17.598644
+    },
+    {
+      "name": "Galeria Piastowska",
+      "latitude": 50.666742,
+      "longitude": 17.925308
+    },
+    {
+      "name": "Galeria Piastów",
+      "latitude": 51.210019,
+      "longitude": 16.164165
+    },
+    {
+      "name": "Galeria PIK",
+      "latitude": 50.167017,
+      "longitude": 18.903985
+    },
+    {
+      "name": "Galeria Pilczycka",
+      "latitude": 51.137931,
+      "longitude": 16.965315
+    },
+    {
+      "name": "Galeria Pionki",
+      "latitude": 51.470746,
+      "longitude": 21.439717
+    },
+    {
+      "name": "Galeria Planty",
+      "latitude": 50.872709,
+      "longitude": 20.626529
+    },
+    {
+      "name": "Galeria Platinum Towers",
+      "latitude": 52.233443,
+      "longitude": 20.987489
+    },
+    {
+      "name": "Galeria Pledan",
+      "latitude": 49.801533,
+      "longitude": 18.790149
+    },
+    {
+      "name": "Galeria pod Rondem Czterdziestolatka",
+      "latitude": 52.227628,
+      "longitude": 21.002012
+    },
+    {
+      "name": "Galeria Pod Topolami",
+      "latitude": 51.941542,
+      "longitude": 15.50651
+    },
+    {
+      "name": "Galeria Podkowa",
+      "latitude": 52.129656,
+      "longitude": 20.709428
+    },
+    {
+      "name": "Galeria Podolany",
+      "latitude": 52.448689,
+      "longitude": 16.893709
+    },
+    {
+      "name": "Galeria Pomorska",
+      "latitude": 53.124837,
+      "longitude": 18.067024
+    },
+    {
+      "name": "Galeria Portius",
+      "latitude": 49.692232,
+      "longitude": 21.774058
+    },
+    {
+      "name": "Galeria Posada",
+      "latitude": 49.548433,
+      "longitude": 22.217896
+    },
+    {
+      "name": "Galeria Połaniecka",
+      "latitude": 50.429735,
+      "longitude": 21.275024
+    },
+    {
+      "name": "Galeria Prima",
+      "latitude": 52.34887,
+      "longitude": 14.56027
+    },
+    {
+      "name": "Galeria Promenada",
+      "latitude": 53.919914,
+      "longitude": 14.252757
+    },
+    {
+      "name": "Galeria Proszowice",
+      "latitude": 50.190877,
+      "longitude": 20.298093
+    },
+    {
+      "name": "Galeria Pruszcz",
+      "latitude": 53.330779,
+      "longitude": 18.207757
+    },
+    {
+      "name": "Galeria przy ul. Łąkowej",
+      "latitude": 53.409943,
+      "longitude": 23.51105
+    },
+    {
+      "name": "Galeria Przymorze",
+      "latitude": 54.409513,
+      "longitude": 18.591969
+    },
+    {
+      "name": "Galeria PS",
+      "latitude": 52.532399,
+      "longitude": 17.554185
+    },
+    {
+      "name": "Galeria Ptak",
+      "latitude": 51.645954,
+      "longitude": 19.489471
+    },
+    {
+      "name": "Galeria Północ",
+      "latitude": 53.495682,
+      "longitude": 14.584538
+    },
+    {
+      "name": "Galeria Północna",
+      "latitude": 52.317616,
+      "longitude": 20.96652
+    },
+    {
+      "name": "Galeria Płońsk",
+      "latitude": 52.612959,
+      "longitude": 20.369007
+    },
+    {
+      "name": "Galeria Radzymin",
+      "latitude": 52.405737,
+      "longitude": 21.174982
+    },
+    {
+      "name": "Galeria Raj",
+      "latitude": 50.053622,
+      "longitude": 21.435792
+    },
+    {
+      "name": "Galeria Renova",
+      "latitude": 52.28944,
+      "longitude": 21.030815
+    },
+    {
+      "name": "Galeria Retkińska",
+      "latitude": 51.746595,
+      "longitude": 19.397148
+    },
+    {
+      "name": "Galeria Rokietnicki Ośrodek Sportu",
+      "latitude": 52.513048,
+      "longitude": 16.741278
+    },
+    {
+      "name": "Galeria Rondo",
+      "latitude": 49.978559,
+      "longitude": 20.426808
+    },
+    {
+      "name": "Galeria Rondo",
+      "latitude": 52.58653,
+      "longitude": 14.649853
+    },
+    {
+      "name": "Galeria Rondo Center",
+      "latitude": 49.66148,
+      "longitude": 21.159762
+    },
+    {
+      "name": "Galeria Rosa",
+      "latitude": 51.400358,
+      "longitude": 21.157014
+    },
+    {
+      "name": "Galeria Rumia",
+      "latitude": 54.563367,
+      "longitude": 18.391102
+    },
+    {
+      "name": "Galeria Rycerska",
+      "latitude": 52.877537,
+      "longitude": 15.531083
+    },
+    {
+      "name": "Galeria Rydułtowy",
+      "latitude": 50.072345,
+      "longitude": 18.409599
+    },
+    {
+      "name": "Galeria Rynek",
+      "latitude": 50.451519,
+      "longitude": 23.41653
+    },
+    {
+      "name": "Galeria Rzeszów",
+      "latitude": 50.042512,
+      "longitude": 21.997758
+    },
+    {
+      "name": "Galeria Różana",
+      "latitude": 52.244748,
+      "longitude": 19.375207
+    },
+    {
+      "name": "Galeria S",
+      "latitude": 51.216366,
+      "longitude": 22.69955
+    },
+    {
+      "name": "Galeria S-Mall Park",
+      "latitude": 49.971924,
+      "longitude": 19.137801
+    },
+    {
+      "name": "Galeria Sandecja",
+      "latitude": 49.586318,
+      "longitude": 20.672594
+    },
+    {
+      "name": "Galeria Sandomierz",
+      "latitude": 50.681936,
+      "longitude": 21.757867
+    },
+    {
+      "name": "Galeria Sanok",
+      "latitude": 49.557616,
+      "longitude": 22.202103
+    },
+    {
+      "name": "Galeria Sanowa",
+      "latitude": 49.790846,
+      "longitude": 22.783081
+    },
+    {
+      "name": "Galeria Sawoy",
+      "latitude": 51.404568,
+      "longitude": 21.129357
+    },
+    {
+      "name": "Galeria Sekunda",
+      "latitude": 50.647567,
+      "longitude": 20.284765
+    },
+    {
+      "name": "Galeria Sfera",
+      "latitude": 49.827164,
+      "longitude": 19.049275
+    },
+    {
+      "name": "Galeria Sfera II",
+      "latitude": 49.825401,
+      "longitude": 19.048115
+    },
+    {
+      "name": "Galeria Siedlce",
+      "latitude": 52.168622,
+      "longitude": 22.270331
+    },
+    {
+      "name": "Galeria Siemianowice",
+      "latitude": 50.302493,
+      "longitude": 19.017689
+    },
+    {
+      "name": "Galeria Siemianowicka",
+      "latitude": 50.303377,
+      "longitude": 19.014666
+    },
+    {
+      "name": "Galeria Sieradzka",
+      "latitude": 51.586699,
+      "longitude": 18.720458
+    },
+    {
+      "name": "Galeria Sierpecka",
+      "latitude": 52.852166,
+      "longitude": 19.666945
+    },
+    {
+      "name": "Galeria Skarbek",
+      "latitude": 50.259776,
+      "longitude": 19.020822
+    },
+    {
+      "name": "Galeria Skawina",
+      "latitude": 49.97342,
+      "longitude": 19.830412
+    },
+    {
+      "name": "Galeria Skałka",
+      "latitude": 51.048619,
+      "longitude": 21.084231
+    },
+    {
+      "name": "Galeria Sobieskiego",
+      "latitude": 49.882273,
+      "longitude": 19.21948
+    },
+    {
+      "name": "Galeria Solna",
+      "latitude": 52.784394,
+      "longitude": 18.240471
+    },
+    {
+      "name": "Galeria Srebrna",
+      "latitude": 50.088166,
+      "longitude": 18.217777
+    },
+    {
+      "name": "Galeria Stara Ujeżdżalnia",
+      "latitude": 50.015132,
+      "longitude": 22.680922
+    },
+    {
+      "name": "Galeria Staromiejska",
+      "latitude": 52.015828,
+      "longitude": 18.501714
+    },
+    {
+      "name": "Galeria Stary Młyn",
+      "latitude": 53.734595,
+      "longitude": 18.933449
+    },
+    {
+      "name": "Galeria Starówka",
+      "latitude": 51.843769,
+      "longitude": 16.579164
+    },
+    {
+      "name": "Galeria Starówka",
+      "latitude": 53.338746,
+      "longitude": 15.044768
+    },
+    {
+      "name": "Galeria Staszowska",
+      "latitude": 50.557061,
+      "longitude": 21.189115
+    },
+    {
+      "name": "Galeria STELA",
+      "latitude": 49.750048,
+      "longitude": 18.639531
+    },
+    {
+      "name": "Galeria Stokrotka",
+      "latitude": 53.024381,
+      "longitude": 20.884076
+    },
+    {
+      "name": "Galeria Styl",
+      "latitude": 51.648013,
+      "longitude": 17.812347
+    },
+    {
+      "name": "Galeria Sudecka",
+      "latitude": 50.921973,
+      "longitude": 15.762986
+    },
+    {
+      "name": "Galeria Sylwia",
+      "latitude": 51.095918,
+      "longitude": 17.054999
+    },
+    {
+      "name": "Galeria Szperk",
+      "latitude": 54.564823,
+      "longitude": 18.504227
+    },
+    {
+      "name": "Galeria Szubryt",
+      "latitude": 49.656138,
+      "longitude": 20.689061
+    },
+    {
+      "name": "Galeria Słoneczna",
+      "latitude": 49.85542,
+      "longitude": 19.335139
+    },
+    {
+      "name": "Galeria Słoneczna",
+      "latitude": 51.406373,
+      "longitude": 21.155392
+    },
+    {
+      "name": "Galeria Słowiańska",
+      "latitude": 51.156339,
+      "longitude": 15.030914
+    },
+    {
+      "name": "Galeria Słupecka",
+      "latitude": 52.289136,
+      "longitude": 17.873738
+    },
+    {
+      "name": "Galeria Słupsk",
+      "latitude": 54.46447,
+      "longitude": 17.024388
+    },
+    {
+      "name": "Galeria Tarnovia",
+      "latitude": 50.000939,
+      "longitude": 20.957674
+    },
+    {
+      "name": "Galeria Tek",
+      "latitude": 52.799107,
+      "longitude": 21.895221
+    },
+    {
+      "name": "Galeria TH",
+      "latitude": 52.387442,
+      "longitude": 17.093698
+    },
+    {
+      "name": "Galeria Tomaszów",
+      "latitude": 51.535116,
+      "longitude": 20.006499
+    },
+    {
+      "name": "Galeria TOP meble",
+      "latitude": 52.343284,
+      "longitude": 16.825892
+    },
+    {
+      "name": "Galeria Trend",
+      "latitude": 50.044538,
+      "longitude": 21.955249
+    },
+    {
+      "name": "Galeria Trzy Korony",
+      "latitude": 49.624215,
+      "longitude": 20.706576
+    },
+    {
+      "name": "Galeria Turkus",
+      "latitude": 51.565457,
+      "longitude": 15.53993
+    },
+    {
+      "name": "Galeria Turzyn",
+      "latitude": 53.42611,
+      "longitude": 14.528552
+    },
+    {
+      "name": "Galeria Tęcza",
+      "latitude": 51.76569,
+      "longitude": 18.08737
+    },
+    {
+      "name": "Galeria Ursus",
+      "latitude": 52.194627,
+      "longitude": 20.871441
+    },
+    {
+      "name": "Galeria Ursynów",
+      "latitude": 52.139581,
+      "longitude": 21.058733
+    },
+    {
+      "name": "Galeria Veneda",
+      "latitude": 53.169682,
+      "longitude": 22.076817
+    },
+    {
+      "name": "Galeria Victoria",
+      "latitude": 50.766302,
+      "longitude": 16.266207
+    },
+    {
+      "name": "Galeria Vistula",
+      "latitude": 50.555563,
+      "longitude": 21.160947
+    },
+    {
+      "name": "Galeria VIVO!",
+      "latitude": 49.677133,
+      "longitude": 21.775957
+    },
+    {
+      "name": "Galeria Waga",
+      "latitude": 49.826844,
+      "longitude": 19.04726
+    },
+    {
+      "name": "Galeria Warmińska",
+      "latitude": 53.754034,
+      "longitude": 20.484766
+    },
+    {
+      "name": "Galeria Wenus",
+      "latitude": 49.673886,
+      "longitude": 20.079245
+    },
+    {
+      "name": "Galeria Widok",
+      "latitude": 51.895408,
+      "longitude": 21.616857
+    },
+    {
+      "name": "Galeria Widzewska",
+      "latitude": 51.756822,
+      "longitude": 19.536637
+    },
+    {
+      "name": "Galeria Wierzyca",
+      "latitude": 53.969392,
+      "longitude": 18.532175
+    },
+    {
+      "name": "Galeria Wileńska",
+      "latitude": 52.255142,
+      "longitude": 21.037483
+    },
+    {
+      "name": "Galeria Wist",
+      "latitude": 50.053063,
+      "longitude": 21.607846
+    },
+    {
+      "name": "Galeria Wisła",
+      "latitude": 52.534793,
+      "longitude": 19.757697
+    },
+    {
+      "name": "Galeria Więcbork",
+      "latitude": 53.359253,
+      "longitude": 17.490128
+    },
+    {
+      "name": "Galeria Wiślanka",
+      "latitude": 50.045427,
+      "longitude": 18.703246
+    },
+    {
+      "name": "Galeria wnętrz AMC",
+      "latitude": 53.024663,
+      "longitude": 18.607469
+    },
+    {
+      "name": "Galeria Wołomin",
+      "latitude": 52.356481,
+      "longitude": 21.257867
+    },
+    {
+      "name": "Galeria Wybickiego",
+      "latitude": 54.118615,
+      "longitude": 17.977659
+    },
+    {
+      "name": "Galeria Wyszków",
+      "latitude": 52.594956,
+      "longitude": 21.451394
+    },
+    {
+      "name": "Galeria Węgierska",
+      "latitude": 49.978254,
+      "longitude": 22.411567
+    },
+    {
+      "name": "Galeria Zabrze",
+      "latitude": 50.307219,
+      "longitude": 18.783066
+    },
+    {
+      "name": "Galeria Zacisze",
+      "latitude": 52.069947,
+      "longitude": 23.603359
+    },
+    {
+      "name": "Galeria Zakątek",
+      "latitude": 51.845047,
+      "longitude": 16.574834
+    },
+    {
+      "name": "Galeria Zamkowa",
+      "latitude": 51.168563,
+      "longitude": 21.233719
+    },
+    {
+      "name": "Galeria Zamkowa",
+      "latitude": 51.895389,
+      "longitude": 17.784679
+    },
+    {
+      "name": "Galeria Zaspa",
+      "latitude": 54.389803,
+      "longitude": 18.610166
+    },
+    {
+      "name": "Galeria Zawodzie",
+      "latitude": 49.69698,
+      "longitude": 21.761773
+    },
+    {
+      "name": "Galeria Zdrój",
+      "latitude": 49.550098,
+      "longitude": 21.851159
+    },
+    {
+      "name": "Galeria Zdrój",
+      "latitude": 49.940207,
+      "longitude": 18.593821
+    },
+    {
+      "name": "Galeria Zegrzyńska",
+      "latitude": 52.402508,
+      "longitude": 20.946312
+    },
+    {
+      "name": "Galeria Zielona",
+      "latitude": 51.415322,
+      "longitude": 21.969788
+    },
+    {
+      "name": "Galeria Zielona",
+      "latitude": 51.949751,
+      "longitude": 15.495337
+    },
+    {
+      "name": "Galeria Zielona Sowa",
+      "latitude": 52.919821,
+      "longitude": 22.522219
+    },
+    {
+      "name": "Galeria Zielone Ogrody",
+      "latitude": 52.415488,
+      "longitude": 21.177873
+    },
+    {
+      "name": "Galeria Zielone Wzgórze",
+      "latitude": 53.124021,
+      "longitude": 23.098871
+    },
+    {
+      "name": "Galeria Ziemowit",
+      "latitude": 50.66486,
+      "longitude": 17.925344
+    },
+    {
+      "name": "Galeria Zone",
+      "latitude": 51.236688,
+      "longitude": 22.494548
+    },
+    {
+      "name": "Galeria Łodygowa",
+      "latitude": 52.286043,
+      "longitude": 21.084226
+    },
+    {
+      "name": "Galeria Łomianki",
+      "latitude": 52.324131,
+      "longitude": 20.901949
+    },
+    {
+      "name": "Galeria Łomża",
+      "latitude": 53.161237,
+      "longitude": 22.07723
+    },
+    {
+      "name": "Galeria Łowicka",
+      "latitude": 52.104755,
+      "longitude": 19.934511
+    },
+    {
+      "name": "Galeria Łysica",
+      "latitude": 50.933988,
+      "longitude": 21.387782
+    },
+    {
+      "name": "Galeria Łódzka",
+      "latitude": 51.758948,
+      "longitude": 19.464671
+    },
+    {
+      "name": "Galeria Śląska",
+      "latitude": 50.112645,
+      "longitude": 18.545508
+    },
+    {
+      "name": "Galeria Śląska",
+      "latitude": 50.303598,
+      "longitude": 19.029993
+    },
+    {
+      "name": "Galeria Śródmieście",
+      "latitude": 51.63822,
+      "longitude": 15.137224
+    },
+    {
+      "name": "Galeria Świdnicka",
+      "latitude": 50.840078,
+      "longitude": 16.497704
+    },
+    {
+      "name": "Galeria Świstak",
+      "latitude": 49.879718,
+      "longitude": 18.613252
+    },
+    {
+      "name": "Galeria Źródlana",
+      "latitude": 51.957353,
+      "longitude": 15.504267
+    },
+    {
+      "name": "Galeria Żabno",
+      "latitude": 50.121602,
+      "longitude": 20.892174
+    },
+    {
+      "name": "Galeria Żoliborz",
+      "latitude": 52.267123,
+      "longitude": 20.963669
+    },
+    {
+      "name": "Galeria Żulawska",
+      "latitude": 54.209396,
+      "longitude": 19.111294
+    },
+    {
+      "name": "Galeria Żylica",
+      "latitude": 49.715701,
+      "longitude": 19.025597
+    },
+    {
+      "name": "Gazda",
+      "latitude": 49.609588,
+      "longitude": 19.964511
+    },
+    {
+      "name": "Gemini Park",
+      "latitude": 49.802786,
+      "longitude": 19.050315
+    },
+    {
+      "name": "Gemini Park",
+      "latitude": 50.030394,
+      "longitude": 21.00167
+    },
+    {
+      "name": "Gemini Park Tychy",
+      "latitude": 50.096216,
+      "longitude": 19.009637
+    },
+    {
+      "name": "GH Podkowa",
+      "latitude": 54.465903,
+      "longitude": 17.026154
+    },
+    {
+      "name": "Gigamarket",
+      "latitude": 52.432835,
+      "longitude": 16.950938
+    },
+    {
+      "name": "Gildia",
+      "latitude": 54.390405,
+      "longitude": 18.612171
+    },
+    {
+      "name": "Gliwickie Centrum Handlowe",
+      "latitude": 50.297354,
+      "longitude": 18.674486
+    },
+    {
+      "name": "GOJA Centrum Handlowe",
+      "latitude": 52.533738,
+      "longitude": 17.549005
+    },
+    {
+      "name": "Gondola Legionowo",
+      "latitude": 52.396356,
+      "longitude": 20.933551
+    },
+    {
+      "name": "Grand",
+      "latitude": 49.748925,
+      "longitude": 18.629971
+    },
+    {
+      "name": "Grand",
+      "latitude": 54.152204,
+      "longitude": 19.420927
+    },
+    {
+      "name": "Grapa Centrum Handlowe",
+      "latitude": 49.496902,
+      "longitude": 19.616913
+    },
+    {
+      "name": "Green Park",
+      "latitude": 49.982875,
+      "longitude": 19.153056
+    },
+    {
+      "name": "Green Park",
+      "latitude": 51.940204,
+      "longitude": 15.478337
+    },
+    {
+      "name": "Green Point",
+      "latitude": 52.386458,
+      "longitude": 16.912831
+    },
+    {
+      "name": "Grocity",
+      "latitude": 52.097476,
+      "longitude": 20.637705
+    },
+    {
+      "name": "Grona Park",
+      "latitude": 51.942391,
+      "longitude": 15.492212
+    },
+    {
+      "name": "GUST Spółka Jawna",
+      "latitude": 51.929385,
+      "longitude": 22.382636
+    },
+    {
+      "name": "H&T Chińskie Centrum Handlowe",
+      "latitude": 51.146161,
+      "longitude": 18.99993
+    },
+    {
+      "name": "Hala G",
+      "latitude": 51.647133,
+      "longitude": 19.49181
+    },
+    {
+      "name": "Hala G",
+      "latitude": 51.647549,
+      "longitude": 19.491444
+    },
+    {
+      "name": "Hala Kupiecka",
+      "latitude": 54.194932,
+      "longitude": 16.165301
+    },
+    {
+      "name": "Hala S",
+      "latitude": 51.649482,
+      "longitude": 19.492721
+    },
+    {
+      "name": "Hala Sango",
+      "latitude": 51.545506,
+      "longitude": 23.552095
+    },
+    {
+      "name": "Hala Strzegomska",
+      "latitude": 51.111401,
+      "longitude": 16.959388
+    },
+    {
+      "name": "Hala targowa",
+      "latitude": 49.561293,
+      "longitude": 22.204617
+    },
+    {
+      "name": "Hala Targowa",
+      "latitude": 50.09303,
+      "longitude": 18.22146
+    },
+    {
+      "name": "Hala Targowa",
+      "latitude": 50.841613,
+      "longitude": 16.484409
+    },
+    {
+      "name": "Hala Targowa",
+      "latitude": 51.222484,
+      "longitude": 22.699603
+    },
+    {
+      "name": "Hala Targowa \"Tęcza\"",
+      "latitude": 51.130541,
+      "longitude": 16.965136
+    },
+    {
+      "name": "Hala Wola",
+      "latitude": 52.228349,
+      "longitude": 20.914287
+    },
+    {
+      "name": "Handlowiec",
+      "latitude": 53.081207,
+      "longitude": 21.574181
+    },
+    {
+      "name": "Harmonia Park",
+      "latitude": 54.566873,
+      "longitude": 18.483467
+    },
+    {
+      "name": "Helios I",
+      "latitude": 53.381807,
+      "longitude": 14.655619
+    },
+    {
+      "name": "Helios II",
+      "latitude": 53.382936,
+      "longitude": 14.656109
+    },
+    {
+      "name": "Helios III",
+      "latitude": 53.382155,
+      "longitude": 14.654833
+    },
+    {
+      "name": "Hermes",
+      "latitude": 51.114135,
+      "longitude": 20.861396
+    },
+    {
+      "name": "Hermes",
+      "latitude": 53.107402,
+      "longitude": 18.049183
+    },
+    {
+      "name": "Hetman",
+      "latitude": 50.027385,
+      "longitude": 21.995215
+    },
+    {
+      "name": "Heureka",
+      "latitude": 49.882261,
+      "longitude": 19.495153
+    },
+    {
+      "name": "Higasa Park - Łęczna",
+      "latitude": 51.301394,
+      "longitude": 22.886154
+    },
+    {
+      "name": "Higasa Park Banino",
+      "latitude": 54.394052,
+      "longitude": 18.393661
+    },
+    {
+      "name": "Home Concept",
+      "latitude": 52.2094,
+      "longitude": 20.951332
+    },
+    {
+      "name": "Homepark Franowo",
+      "latitude": 52.380866,
+      "longitude": 16.988953
+    },
+    {
+      "name": "Homepark Janki",
+      "latitude": 52.13502,
+      "longitude": 20.896577
+    },
+    {
+      "name": "Homepark Targówek",
+      "latitude": 52.305758,
+      "longitude": 21.077721
+    },
+    {
+      "name": "HopStop Rembertów",
+      "latitude": 52.256237,
+      "longitude": 21.158735
+    },
+    {
+      "name": "hosso",
+      "latitude": 53.772502,
+      "longitude": 15.773109
+    },
+    {
+      "name": "Hosso",
+      "latitude": 53.91559,
+      "longitude": 15.199974
+    },
+    {
+      "name": "Hosso",
+      "latitude": 54.004034,
+      "longitude": 15.990692
+    },
+    {
+      "name": "Hosso",
+      "latitude": 54.190105,
+      "longitude": 16.178733
+    },
+    {
+      "name": "Hurtownia DANTAR",
+      "latitude": 50.404961,
+      "longitude": 16.397751
+    },
+    {
+      "name": "Huta CH",
+      "latitude": 49.607592,
+      "longitude": 19.118974
+    },
+    {
+      "name": "Ila",
+      "latitude": 51.89327,
+      "longitude": 17.780774
+    },
+    {
+      "name": "Inbag",
+      "latitude": 51.116811,
+      "longitude": 15.291247
+    },
+    {
+      "name": "Inter Marche",
+      "latitude": 54.078436,
+      "longitude": 21.392265
+    },
+    {
+      "name": "Jagoda Centrum Handlowe (hala 1)",
+      "latitude": 52.559197,
+      "longitude": 17.609618
+    },
+    {
+      "name": "Jagoda Centrum Handlowe (hala 2)",
+      "latitude": 52.559034,
+      "longitude": 17.610438
+    },
+    {
+      "name": "Jakub",
+      "latitude": 53.777797,
+      "longitude": 20.478488
+    },
+    {
+      "name": "Jantar",
+      "latitude": 54.18677,
+      "longitude": 19.398956
+    },
+    {
+      "name": "Jasam - markety budowlane",
+      "latitude": 54.128164,
+      "longitude": 20.573032
+    },
+    {
+      "name": "Jedynka",
+      "latitude": 50.025912,
+      "longitude": 22.007592
+    },
+    {
+      "name": "Junior",
+      "latitude": 52.233393,
+      "longitude": 21.01033
+    },
+    {
+      "name": "Jędruś market",
+      "latitude": 49.673665,
+      "longitude": 20.080739
+    },
+    {
+      "name": "K&K",
+      "latitude": 50.098961,
+      "longitude": 21.591526
+    },
+    {
+      "name": "K&M Park Radość",
+      "latitude": 52.181766,
+      "longitude": 21.190081
+    },
+    {
+      "name": "Kamienica 59",
+      "latitude": 51.1332,
+      "longitude": 23.470242
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 50.007726,
+      "longitude": 22.675014
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 50.675971,
+      "longitude": 18.647861
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 52.020888,
+      "longitude": 18.503166
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 52.324035,
+      "longitude": 17.561788
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 53.858483,
+      "longitude": 21.304626
+    },
+    {
+      "name": "Kaskada",
+      "latitude": 49.951577,
+      "longitude": 18.598755
+    },
+    {
+      "name": "Kaskada",
+      "latitude": 52.594816,
+      "longitude": 21.450734
+    },
+    {
+      "name": "Kaskada",
+      "latitude": 53.428174,
+      "longitude": 14.550538
+    },
+    {
+      "name": "Kasyno",
+      "latitude": 54.19836,
+      "longitude": 16.209617
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 52.23098,
+      "longitude": 20.895459
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 52.342594,
+      "longitude": 14.547166
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 52.74173,
+      "longitude": 23.587704
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 53.763361,
+      "longitude": 20.495424
+    },
+    {
+      "name": "Kemer Park",
+      "latitude": 54.275384,
+      "longitude": 18.583507
+    },
+    {
+      "name": "Kemer Park",
+      "latitude": 54.2758,
+      "longitude": 18.584095
+    },
+    {
+      "name": "KEN Center",
+      "latitude": 52.153497,
+      "longitude": 21.040707
+    },
+    {
+      "name": "Kier",
+      "latitude": 53.140182,
+      "longitude": 18.028406
+    },
+    {
+      "name": "King Cross Marcelin",
+      "latitude": 52.410452,
+      "longitude": 16.861181
+    },
+    {
+      "name": "King Cross Praga",
+      "latitude": 52.235549,
+      "longitude": 21.119725
+    },
+    {
+      "name": "King Square",
+      "latitude": 50.043169,
+      "longitude": 19.970263
+    },
+    {
+      "name": "Klif",
+      "latitude": 52.246558,
+      "longitude": 20.979327
+    },
+    {
+      "name": "Komla Centrum",
+      "latitude": 53.147561,
+      "longitude": 22.989947
+    },
+    {
+      "name": "KP Park",
+      "latitude": 50.18302,
+      "longitude": 18.881294
+    },
+    {
+      "name": "KP Park Sikorskiego",
+      "latitude": 50.461754,
+      "longitude": 23.417204
+    },
+    {
+      "name": "Kroczyckie Krupówki",
+      "latitude": 50.562027,
+      "longitude": 19.570751
+    },
+    {
+      "name": "Kupec Gorzowski",
+      "latitude": 52.756123,
+      "longitude": 15.253823
+    },
+    {
+      "name": "Kupiec",
+      "latitude": 53.426883,
+      "longitude": 14.542069
+    },
+    {
+      "name": "Kupiec Pasaż Handlowy",
+      "latitude": 52.082438,
+      "longitude": 17.011452
+    },
+    {
+      "name": "Kupiec Poznański",
+      "latitude": 52.405253,
+      "longitude": 16.932113
+    },
+    {
+      "name": "Kupiec Średzki",
+      "latitude": 52.229614,
+      "longitude": 17.278301
+    },
+    {
+      "name": "Labirynt",
+      "latitude": 50.68372,
+      "longitude": 16.610071
+    },
+    {
+      "name": "Lenné Passagen",
+      "latitude": 52.342745,
+      "longitude": 14.550167
+    },
+    {
+      "name": "Libero Katowice",
+      "latitude": 50.223984,
+      "longitude": 18.987482
+    },
+    {
+      "name": "Liburnia",
+      "latitude": 49.752557,
+      "longitude": 18.638359
+    },
+    {
+      "name": "Lido",
+      "latitude": 51.964047,
+      "longitude": 17.502731
+    },
+    {
+      "name": "Lubelska 60",
+      "latitude": 51.452926,
+      "longitude": 22.610013
+    },
+    {
+      "name": "Lubińskie Błonia",
+      "latitude": 51.394032,
+      "longitude": 16.20833
+    },
+    {
+      "name": "Lublin Plaza",
+      "latitude": 51.24504,
+      "longitude": 22.550664
+    },
+    {
+      "name": "Lux",
+      "latitude": 51.896994,
+      "longitude": 21.615668
+    },
+    {
+      "name": "M Park",
+      "latitude": 50.036575,
+      "longitude": 21.006379
+    },
+    {
+      "name": "M Park",
+      "latitude": 50.297232,
+      "longitude": 21.442646
+    },
+    {
+      "name": "M Park",
+      "latitude": 51.404119,
+      "longitude": 19.660889
+    },
+    {
+      "name": "M Park",
+      "latitude": 51.762885,
+      "longitude": 20.256694
+    },
+    {
+      "name": "M Park",
+      "latitude": 52.5283,
+      "longitude": 21.682755
+    },
+    {
+      "name": "M Park",
+      "latitude": 53.040862,
+      "longitude": 16.464669
+    },
+    {
+      "name": "M Park",
+      "latitude": 53.132177,
+      "longitude": 23.134566
+    },
+    {
+      "name": "M Park",
+      "latitude": 54.54843,
+      "longitude": 18.532525
+    },
+    {
+      "name": "M Park Iława",
+      "latitude": 53.580903,
+      "longitude": 19.567829
+    },
+    {
+      "name": "M1 Bytom",
+      "latitude": 50.379844,
+      "longitude": 18.89114
+    },
+    {
+      "name": "M1 Częstochowa",
+      "latitude": 50.837418,
+      "longitude": 19.116749
+    },
+    {
+      "name": "M1 Kraków",
+      "latitude": 50.064086,
+      "longitude": 19.999452
+    },
+    {
+      "name": "M1 Marki",
+      "latitude": 52.305748,
+      "longitude": 21.08672
+    },
+    {
+      "name": "M1 Poznań",
+      "latitude": 52.382752,
+      "longitude": 16.994369
+    },
+    {
+      "name": "M1 Radom",
+      "latitude": 51.381919,
+      "longitude": 21.171192
+    },
+    {
+      "name": "M1 Łódź",
+      "latitude": 51.793667,
+      "longitude": 19.509673
+    },
+    {
+      "name": "Magnolia Park",
+      "latitude": 51.119076,
+      "longitude": 16.989519
+    },
+    {
+      "name": "Makro Cash & Carry",
+      "latitude": 53.104037,
+      "longitude": 18.013201
+    },
+    {
+      "name": "Manhattan",
+      "latitude": 54.377315,
+      "longitude": 18.607356
+    },
+    {
+      "name": "Marina",
+      "latitude": 54.581452,
+      "longitude": 16.866341
+    },
+    {
+      "name": "Marino",
+      "latitude": 51.15198,
+      "longitude": 17.027394
+    },
+    {
+      "name": "MARS",
+      "latitude": 51.625325,
+      "longitude": 21.935146
+    },
+    {
+      "name": "Mała Galeria",
+      "latitude": 49.950938,
+      "longitude": 18.598798
+    },
+    {
+      "name": "Mała Galeria",
+      "latitude": 51.266111,
+      "longitude": 16.707317
+    },
+    {
+      "name": "Małgorzata",
+      "latitude": 49.645744,
+      "longitude": 18.869238
+    },
+    {
+      "name": "Merkury",
+      "latitude": 51.462181,
+      "longitude": 22.609298
+    },
+    {
+      "name": "Meteor",
+      "latitude": 51.93837,
+      "longitude": 15.50322
+    },
+    {
+      "name": "Meteor",
+      "latitude": 51.938903,
+      "longitude": 15.50324
+    },
+    {
+      "name": "Metro Park",
+      "latitude": 50.530796,
+      "longitude": 22.708663
+    },
+    {
+      "name": "Metro Park",
+      "latitude": 52.049144,
+      "longitude": 23.112057
+    },
+    {
+      "name": "Metro Park",
+      "latitude": 52.049365,
+      "longitude": 23.113422
+    },
+    {
+      "name": "Miasto Wnętrz",
+      "latitude": 52.432507,
+      "longitude": 16.948658
+    },
+    {
+      "name": "Mila",
+      "latitude": 50.13261,
+      "longitude": 19.636979
+    },
+    {
+      "name": "Millenium Hall",
+      "latitude": 50.027672,
+      "longitude": 22.013813
+    },
+    {
+      "name": "Milo Park",
+      "latitude": 50.910715,
+      "longitude": 14.953579
+    },
+    {
+      "name": "Milo Park",
+      "latitude": 52.126323,
+      "longitude": 21.233942
+    },
+    {
+      "name": "Mini Park",
+      "latitude": 51.752442,
+      "longitude": 18.049837
+    },
+    {
+      "name": "Mini Park",
+      "latitude": 52.540531,
+      "longitude": 19.707699
+    },
+    {
+      "name": "Mini Park",
+      "latitude": 53.559665,
+      "longitude": 14.837587
+    },
+    {
+      "name": "Mini-galeria handlowa",
+      "latitude": 51.585543,
+      "longitude": 21.552058
+    },
+    {
+      "name": "Mińska 58",
+      "latitude": 51.10415,
+      "longitude": 16.946003
+    },
+    {
+      "name": "MMG Center Ciechanów",
+      "latitude": 52.881041,
+      "longitude": 20.65805
+    },
+    {
+      "name": "MMG Centers",
+      "latitude": 50.373789,
+      "longitude": 18.933529
+    },
+    {
+      "name": "MMG Centers*",
+      "latitude": 53.384691,
+      "longitude": 14.667427
+    },
+    {
+      "name": "Mosinova",
+      "latitude": 52.243959,
+      "longitude": 16.85001
+    },
+    {
+      "name": "MR UP",
+      "latitude": 51.38177,
+      "longitude": 21.181732
+    },
+    {
+      "name": "Mrówka",
+      "latitude": 52.439246,
+      "longitude": 15.121223
+    },
+    {
+      "name": "Multi Park",
+      "latitude": 50.853687,
+      "longitude": 16.473591
+    },
+    {
+      "name": "MultiBox",
+      "latitude": 51.649768,
+      "longitude": 17.808261
+    },
+    {
+      "name": "MultiBox",
+      "latitude": 52.164918,
+      "longitude": 21.108296
+    },
+    {
+      "name": "Multibox Trzcianka",
+      "latitude": 53.041601,
+      "longitude": 16.4676
+    },
+    {
+      "name": "Multishop Jarocin",
+      "latitude": 51.95598,
+      "longitude": 17.51133
+    },
+    {
+      "name": "MULTIVO Centrum",
+      "latitude": 51.381373,
+      "longitude": 21.175085
+    },
+    {
+      "name": "MyBox",
+      "latitude": 50.950782,
+      "longitude": 17.277232
+    },
+    {
+      "name": "Młyn",
+      "latitude": 53.065978,
+      "longitude": 19.415449
+    },
+    {
+      "name": "N Park Tarnobrzeg",
+      "latitude": 50.570851,
+      "longitude": 21.703626
+    },
+    {
+      "name": "N-Park Pszczyna",
+      "latitude": 49.965284,
+      "longitude": 18.956685
+    },
+    {
+      "name": "N-Park Stara Iwiczna",
+      "latitude": 52.082573,
+      "longitude": 21.01157
+    },
+    {
+      "name": "Na Skarpie",
+      "latitude": 52.103495,
+      "longitude": 20.624742
+    },
+    {
+      "name": "Na Targowicy",
+      "latitude": 52.602613,
+      "longitude": 21.45193
+    },
+    {
+      "name": "Nad Rzeczką",
+      "latitude": 51.406676,
+      "longitude": 21.162211
+    },
+    {
+      "name": "Nadszaniec",
+      "latitude": 50.716444,
+      "longitude": 23.256342
+    },
+    {
+      "name": "Neiße-Center",
+      "latitude": 51.955982,
+      "longitude": 14.703789
+    },
+    {
+      "name": "Newbridge",
+      "latitude": 51.077584,
+      "longitude": 17.725132
+    },
+    {
+      "name": "Nova",
+      "latitude": 50.638709,
+      "longitude": 20.30554
+    },
+    {
+      "name": "NoVa Park",
+      "latitude": 52.727059,
+      "longitude": 15.242971
+    },
+    {
+      "name": "Nowa Mleczarnia",
+      "latitude": 52.415278,
+      "longitude": 21.18862
+    },
+    {
+      "name": "Nowa Stacja",
+      "latitude": 52.165297,
+      "longitude": 20.792666
+    },
+    {
+      "name": "Nowa Sukcesja",
+      "latitude": 51.749373,
+      "longitude": 19.44869
+    },
+    {
+      "name": "Nowa Twoje Centrum",
+      "latitude": 49.692452,
+      "longitude": 19.199842
+    },
+    {
+      "name": "Nowe Stare Kino",
+      "latitude": 50.874975,
+      "longitude": 18.42054
+    },
+    {
+      "name": "Nowy Turzyn",
+      "latitude": 53.427466,
+      "longitude": 14.53056
+    },
+    {
+      "name": "Np. Biedronka",
+      "latitude": 52.452767,
+      "longitude": 16.91397
+    },
+    {
+      "name": "Obornicka337 Galeria Wnętrz",
+      "latitude": 52.460378,
+      "longitude": 16.891853
+    },
+    {
+      "name": "Oderturm",
+      "latitude": 52.34224,
+      "longitude": 14.552497
+    },
+    {
+      "name": "ODRA",
+      "latitude": 50.594146,
+      "longitude": 16.811507
+    },
+    {
+      "name": "Odrzańskie Ogrody",
+      "latitude": 50.34131,
+      "longitude": 18.190206
+    },
+    {
+      "name": "Oferta",
+      "latitude": 53.0433,
+      "longitude": 18.626739
+    },
+    {
+      "name": "OK Centrum",
+      "latitude": 50.774435,
+      "longitude": 16.272649
+    },
+    {
+      "name": "Okey",
+      "latitude": 52.8509,
+      "longitude": 19.666999
+    },
+    {
+      "name": "Okęcie Park",
+      "latitude": 52.169998,
+      "longitude": 20.933796
+    },
+    {
+      "name": "Olimp",
+      "latitude": 51.265406,
+      "longitude": 22.570886
+    },
+    {
+      "name": "Olimp",
+      "latitude": 52.17507,
+      "longitude": 22.271079
+    },
+    {
+      "name": "Olimp I",
+      "latitude": 51.265922,
+      "longitude": 22.571367
+    },
+    {
+      "name": "Olimp II",
+      "latitude": 51.266921,
+      "longitude": 22.570865
+    },
+    {
+      "name": "Olimp III",
+      "latitude": 51.26654,
+      "longitude": 22.570932
+    },
+    {
+      "name": "Olimp IV",
+      "latitude": 51.264876,
+      "longitude": 22.570564
+    },
+    {
+      "name": "Olimp V",
+      "latitude": 51.267423,
+      "longitude": 22.571012
+    },
+    {
+      "name": "Omega Park",
+      "latitude": 52.235513,
+      "longitude": 15.540629
+    },
+    {
+      "name": "OMNI Centrum",
+      "latitude": 50.301362,
+      "longitude": 19.000254
+    },
+    {
+      "name": "OMNI Centrum",
+      "latitude": 51.40708,
+      "longitude": 21.142978
+    },
+    {
+      "name": "Omni Centrum",
+      "latitude": 52.554335,
+      "longitude": 19.692542
+    },
+    {
+      "name": "OMNI Molo",
+      "latitude": 53.410683,
+      "longitude": 14.522239
+    },
+    {
+      "name": "Opal",
+      "latitude": 52.405674,
+      "longitude": 22.253441
+    },
+    {
+      "name": "Oranżada",
+      "latitude": 51.756738,
+      "longitude": 19.537566
+    },
+    {
+      "name": "Orfeusz",
+      "latitude": 51.263734,
+      "longitude": 22.552362
+    },
+    {
+      "name": "Orion",
+      "latitude": 54.363128,
+      "longitude": 18.261427
+    },
+    {
+      "name": "Orzech",
+      "latitude": 50.245768,
+      "longitude": 21.77857
+    },
+    {
+      "name": "Orzeł",
+      "latitude": 53.494923,
+      "longitude": 18.751684
+    },
+    {
+      "name": "Oskar",
+      "latitude": 50.010157,
+      "longitude": 20.98265
+    },
+    {
+      "name": "Outlet Center",
+      "latitude": 53.148868,
+      "longitude": 23.075649
+    },
+    {
+      "name": "Outlet Park",
+      "latitude": 53.380611,
+      "longitude": 14.671404
+    },
+    {
+      "name": "Ozimska Park",
+      "latitude": 50.666937,
+      "longitude": 17.953893
+    },
+    {
+      "name": "P.H. Targowa 7",
+      "latitude": 52.725681,
+      "longitude": 15.244146
+    },
+    {
+      "name": "Pajo Centrum",
+      "latitude": 52.35,
+      "longitude": 16.880394
+    },
+    {
+      "name": "Panorama",
+      "latitude": 51.115914,
+      "longitude": 20.861939
+    },
+    {
+      "name": "Panorama",
+      "latitude": 52.197493,
+      "longitude": 21.049583
+    },
+    {
+      "name": "Panorama",
+      "latitude": 52.381069,
+      "longitude": 16.895908
+    },
+    {
+      "name": "Panorama",
+      "latitude": 52.882094,
+      "longitude": 20.634122
+    },
+    {
+      "name": "Panorama Centrum Handlu i Usług",
+      "latitude": 52.682809,
+      "longitude": 19.099582
+    },
+    {
+      "name": "Park 111",
+      "latitude": 52.730197,
+      "longitude": 15.234057
+    },
+    {
+      "name": "Park Arkadia",
+      "latitude": 53.559703,
+      "longitude": 21.009164
+    },
+    {
+      "name": "Park Handlowy",
+      "latitude": 50.091213,
+      "longitude": 22.2324
+    },
+    {
+      "name": "Park Handlowy",
+      "latitude": 50.367054,
+      "longitude": 18.849655
+    },
+    {
+      "name": "Park Handlowy",
+      "latitude": 51.268451,
+      "longitude": 16.707182
+    },
+    {
+      "name": "Park handlowy",
+      "latitude": 51.937325,
+      "longitude": 15.560172
+    },
+    {
+      "name": "Park Handlowy",
+      "latitude": 52.07638,
+      "longitude": 15.613314
+    },
+    {
+      "name": "Park Handlowy \"Aleks\"",
+      "latitude": 52.879177,
+      "longitude": 18.691632
+    },
+    {
+      "name": "Park handlowy \"Londyńska\"",
+      "latitude": 52.736204,
+      "longitude": 15.197329
+    },
+    {
+      "name": "Park Handlowy \"Ponidzie\"",
+      "latitude": 50.474529,
+      "longitude": 20.71672
+    },
+    {
+      "name": "Park Handlowy \"Sokół\"",
+      "latitude": 53.398844,
+      "longitude": 23.518332
+    },
+    {
+      "name": "Park handlowy \"Stara Mleczarnia\"",
+      "latitude": 51.255876,
+      "longitude": 15.567745
+    },
+    {
+      "name": "Park Handlowy Auchan Bielany",
+      "latitude": 51.053199,
+      "longitude": 16.97253
+    },
+    {
+      "name": "Park handlowy Aura Park",
+      "latitude": 50.573597,
+      "longitude": 21.678386
+    },
+    {
+      "name": "Park Handlowy Batory",
+      "latitude": 53.124496,
+      "longitude": 18.06392
+    },
+    {
+      "name": "Park Handlowy Błonie",
+      "latitude": 49.876088,
+      "longitude": 19.507833
+    },
+    {
+      "name": "Park Handlowy City Park Lazurowa",
+      "latitude": 52.229202,
+      "longitude": 20.895711
+    },
+    {
+      "name": "PARK HANDLOWY D2 GLIWICE",
+      "latitude": 50.289457,
+      "longitude": 18.718561
+    },
+    {
+      "name": "Park Handlowy Eden",
+      "latitude": 51.157517,
+      "longitude": 15.033157
+    },
+    {
+      "name": "Park Handlowy Glogovia",
+      "latitude": 51.648718,
+      "longitude": 16.059176
+    },
+    {
+      "name": "Park Handlowy Jeziorańska",
+      "latitude": 53.187568,
+      "longitude": 18.069485
+    },
+    {
+      "name": "Park handlowy Karuzela",
+      "latitude": 53.385278,
+      "longitude": 14.659108
+    },
+    {
+      "name": "Park Handlowy Kasztelania",
+      "latitude": 50.137534,
+      "longitude": 19.423205
+    },
+    {
+      "name": "Park Handlowy Kiełpino",
+      "latitude": 54.289734,
+      "longitude": 18.220618
+    },
+    {
+      "name": "Park Handlowy Kęty",
+      "latitude": 49.876995,
+      "longitude": 19.219427
+    },
+    {
+      "name": "Park Handlowy Marywilska 44",
+      "latitude": 52.320085,
+      "longitude": 21.006972
+    },
+    {
+      "name": "Park Handlowy Multi Box",
+      "latitude": 51.655251,
+      "longitude": 17.845773
+    },
+    {
+      "name": "Park Handlowy Multi Box",
+      "latitude": 51.655886,
+      "longitude": 17.843959
+    },
+    {
+      "name": "Park Handlowy Multi Box",
+      "latitude": 51.656768,
+      "longitude": 17.84355
+    },
+    {
+      "name": "Park Handlowy Multibox",
+      "latitude": 51.664949,
+      "longitude": 16.075995
+    },
+    {
+      "name": "Park Handlowy Multibox",
+      "latitude": 52.628398,
+      "longitude": 20.383233
+    },
+    {
+      "name": "Park Handlowy Multibox",
+      "latitude": 53.405696,
+      "longitude": 18.43948
+    },
+    {
+      "name": "Park Handlowy MultiBox",
+      "latitude": 54.104384,
+      "longitude": 18.775566
+    },
+    {
+      "name": "Park Handlowy Na Lotnisku",
+      "latitude": 50.086526,
+      "longitude": 20.018804
+    },
+    {
+      "name": "Park Handlowy Nowa Sól",
+      "latitude": 51.807997,
+      "longitude": 15.696379
+    },
+    {
+      "name": "Park Handlowy Ostrzeszów Plaza",
+      "latitude": 51.434179,
+      "longitude": 17.921261
+    },
+    {
+      "name": "Park handlowy Piast",
+      "latitude": 52.19055,
+      "longitude": 20.856107
+    },
+    {
+      "name": "Park Handlowy Planus Market",
+      "latitude": 54.197946,
+      "longitude": 16.173972
+    },
+    {
+      "name": "Park Handlowy Polna",
+      "latitude": 51.298104,
+      "longitude": 22.895278
+    },
+    {
+      "name": "Park Handlowy przy Lubelskiej",
+      "latitude": 51.552143,
+      "longitude": 23.550531
+    },
+    {
+      "name": "Park Handlowy Rynek",
+      "latitude": 50.485077,
+      "longitude": 19.416748
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 50.164944,
+      "longitude": 23.126487
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 51.392484,
+      "longitude": 21.141041
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 51.809712,
+      "longitude": 15.703103
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 51.859588,
+      "longitude": 16.573297
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 52.757275,
+      "longitude": 15.254296
+    },
+    {
+      "name": "Park Handlowy S1",
+      "latitude": 52.849353,
+      "longitude": 17.743789
+    },
+    {
+      "name": "Park Handlowy Scallier",
+      "latitude": 51.612865,
+      "longitude": 16.869386
+    },
+    {
+      "name": "Park Handlowy Silva",
+      "latitude": 52.480261,
+      "longitude": 16.867618
+    },
+    {
+      "name": "Park Handlowy Starosielce",
+      "latitude": 53.129732,
+      "longitude": 23.074363
+    },
+    {
+      "name": "Park Handlowy Topaz",
+      "latitude": 52.403191,
+      "longitude": 22.870081
+    },
+    {
+      "name": "Park handlowy Topaz",
+      "latitude": 52.406411,
+      "longitude": 22.222583
+    },
+    {
+      "name": "Park Handlowy Wysockiego - Budynek A",
+      "latitude": 53.162576,
+      "longitude": 23.185443
+    },
+    {
+      "name": "Park Handlowy Wysockiego - Budynek B",
+      "latitude": 53.162251,
+      "longitude": 23.183586
+    },
+    {
+      "name": "Park Handlowy Węgrów",
+      "latitude": 52.390237,
+      "longitude": 22.011398
+    },
+    {
+      "name": "Park Handlowy Zakopianka",
+      "latitude": 50.013812,
+      "longitude": 19.932297
+    },
+    {
+      "name": "Park Handlowy Zblewo",
+      "latitude": 53.931856,
+      "longitude": 18.336447
+    },
+    {
+      "name": "Park Handlowy Zielony Rynek",
+      "latitude": 52.837473,
+      "longitude": 19.172142
+    },
+    {
+      "name": "Park Handlowy Łajski",
+      "latitude": 52.434184,
+      "longitude": 20.941818
+    },
+    {
+      "name": "Park Leszno",
+      "latitude": 51.825426,
+      "longitude": 16.601294
+    },
+    {
+      "name": "Park Lotnicza",
+      "latitude": 51.234182,
+      "longitude": 22.586567
+    },
+    {
+      "name": "Park Pasaż",
+      "latitude": 50.874734,
+      "longitude": 18.425985
+    },
+    {
+      "name": "Park Polkowice",
+      "latitude": 51.503305,
+      "longitude": 16.063697
+    },
+    {
+      "name": "Park Shop",
+      "latitude": 50.033341,
+      "longitude": 19.222051
+    },
+    {
+      "name": "Park4You",
+      "latitude": 50.686271,
+      "longitude": 16.618123
+    },
+    {
+      "name": "Pasaż",
+      "latitude": 50.293023,
+      "longitude": 21.433922
+    },
+    {
+      "name": "Pasaż",
+      "latitude": 50.812136,
+      "longitude": 19.123046
+    },
+    {
+      "name": "Pasaż",
+      "latitude": 52.437884,
+      "longitude": 16.941256
+    },
+    {
+      "name": "Pasaż 13",
+      "latitude": 50.060202,
+      "longitude": 19.938005
+    },
+    {
+      "name": "Pasaż 24",
+      "latitude": 49.950421,
+      "longitude": 18.606359
+    },
+    {
+      "name": "Pasaż 49",
+      "latitude": 50.811578,
+      "longitude": 19.111604
+    },
+    {
+      "name": "Pasaż 49",
+      "latitude": 51.901202,
+      "longitude": 21.610889
+    },
+    {
+      "name": "Pasaż A-Z",
+      "latitude": 53.425005,
+      "longitude": 14.544595
+    },
+    {
+      "name": "Pasaż AS",
+      "latitude": 51.901767,
+      "longitude": 21.610326
+    },
+    {
+      "name": "Pasaż Beta",
+      "latitude": 52.396536,
+      "longitude": 16.945114
+    },
+    {
+      "name": "Pasaż Błonie",
+      "latitude": 53.116286,
+      "longitude": 17.956599
+    },
+    {
+      "name": "Pasaż Cegielnia",
+      "latitude": 53.047422,
+      "longitude": 18.700363
+    },
+    {
+      "name": "Pasaż Czerwona Torebka",
+      "latitude": 50.641277,
+      "longitude": 17.62975
+    },
+    {
+      "name": "Pasaż Gniezno",
+      "latitude": 52.560778,
+      "longitude": 17.610342
+    },
+    {
+      "name": "Pasaż Golubsko-Dobrzyński",
+      "latitude": 53.105419,
+      "longitude": 19.06249
+    },
+    {
+      "name": "Pasaż Grodziski",
+      "latitude": 52.217979,
+      "longitude": 16.370769
+    },
+    {
+      "name": "Pasaż Grodziski",
+      "latitude": 52.218135,
+      "longitude": 16.369237
+    },
+    {
+      "name": "Pasaż Grodzki",
+      "latitude": 50.903807,
+      "longitude": 15.732895
+    },
+    {
+      "name": "Pasaż Grunwaldzki",
+      "latitude": 51.112594,
+      "longitude": 17.059411
+    },
+    {
+      "name": "Pasaż Grunwaldzki",
+      "latitude": 51.587442,
+      "longitude": 18.719804
+    },
+    {
+      "name": "Pasaż Górski",
+      "latitude": 50.910982,
+      "longitude": 15.73784
+    },
+    {
+      "name": "Pasaż Handlowo-Usługowy \"JERZY\"",
+      "latitude": 50.108849,
+      "longitude": 18.993222
+    },
+    {
+      "name": "Pasaż handlowy",
+      "latitude": 50.321456,
+      "longitude": 19.071801
+    },
+    {
+      "name": "Pasaż handlowy",
+      "latitude": 51.422132,
+      "longitude": 21.965423
+    },
+    {
+      "name": "pasaż handlowy",
+      "latitude": 52.210519,
+      "longitude": 20.80088
+    },
+    {
+      "name": "Pasaż Handlowy",
+      "latitude": 52.317497,
+      "longitude": 16.136725
+    },
+    {
+      "name": "Pasaż Handlowy",
+      "latitude": 52.403336,
+      "longitude": 16.930404
+    },
+    {
+      "name": "Pasaż Handlowy",
+      "latitude": 53.034809,
+      "longitude": 16.47024
+    },
+    {
+      "name": "Pasaż Handlowy",
+      "latitude": 53.488501,
+      "longitude": 18.750076
+    },
+    {
+      "name": "Pasaż Handlowy \"Targowa 33A\"",
+      "latitude": 52.250087,
+      "longitude": 21.039968
+    },
+    {
+      "name": "Pasaż Handlowy Calvados",
+      "latitude": 49.868039,
+      "longitude": 21.787651
+    },
+    {
+      "name": "Pasaż Handlowy Centrum",
+      "latitude": 53.908639,
+      "longitude": 14.251397
+    },
+    {
+      "name": "Pasaż Handlowy Czerwona Torebka",
+      "latitude": 51.795661,
+      "longitude": 19.359205
+    },
+    {
+      "name": "Pasaż handlowy Czerwona Torebka",
+      "latitude": 53.907188,
+      "longitude": 19.938498
+    },
+    {
+      "name": "Pasaż Handlowy Tuż Tuż",
+      "latitude": 53.032896,
+      "longitude": 18.602638
+    },
+    {
+      "name": "Pasaż Handlowy V2",
+      "latitude": 51.644465,
+      "longitude": 17.829357
+    },
+    {
+      "name": "Pasaż handlowy\"Chata\"",
+      "latitude": 52.466642,
+      "longitude": 16.663256
+    },
+    {
+      "name": "Pasaż Ikar",
+      "latitude": 54.184454,
+      "longitude": 15.573404
+    },
+    {
+      "name": "Pasaż Kapelanka",
+      "latitude": 50.032649,
+      "longitude": 19.92454
+    },
+    {
+      "name": "Pasaż Kasztelański",
+      "latitude": 52.878414,
+      "longitude": 15.527318
+    },
+    {
+      "name": "Pasaż Krynicki",
+      "latitude": 49.414176,
+      "longitude": 20.956593
+    },
+    {
+      "name": "Pasaż Królewiecki",
+      "latitude": 51.147204,
+      "longitude": 16.941028
+    },
+    {
+      "name": "Pasaż Millenium",
+      "latitude": 50.781452,
+      "longitude": 17.061124
+    },
+    {
+      "name": "Pasaż Opieńskiego",
+      "latitude": 52.461227,
+      "longitude": 16.921061
+    },
+    {
+      "name": "pasaż PIĄTKA",
+      "latitude": 53.90908,
+      "longitude": 14.248384
+    },
+    {
+      "name": "Pasaż pod kopułą",
+      "latitude": 52.076031,
+      "longitude": 21.020088
+    },
+    {
+      "name": "Pasaż Pomorska 34",
+      "latitude": 52.741492,
+      "longitude": 15.25308
+    },
+    {
+      "name": "Pasaż Porajów",
+      "latitude": 50.87622,
+      "longitude": 14.826647
+    },
+    {
+      "name": "Pasaż Przeźmierowo",
+      "latitude": 52.426328,
+      "longitude": 16.786169
+    },
+    {
+      "name": "Pasaż Przyrzecze",
+      "latitude": 51.893532,
+      "longitude": 21.616957
+    },
+    {
+      "name": "Pasaż Rewal PKS",
+      "latitude": 54.081102,
+      "longitude": 15.017491
+    },
+    {
+      "name": "Pasaż Rondo",
+      "latitude": 52.381411,
+      "longitude": 16.94618
+    },
+    {
+      "name": "Pasaż Rondo-Zdroje",
+      "latitude": 53.383257,
+      "longitude": 14.632705
+    },
+    {
+      "name": "Pasaż Ruczaj",
+      "latitude": 50.020972,
+      "longitude": 19.902621
+    },
+    {
+      "name": "Pasaż Rzeszów",
+      "latitude": 50.03641,
+      "longitude": 22.002998
+    },
+    {
+      "name": "Pasaż Strzelecki",
+      "latitude": 51.639553,
+      "longitude": 17.836353
+    },
+    {
+      "name": "Pasaż Słowackiego",
+      "latitude": 50.848046,
+      "longitude": 17.472775
+    },
+    {
+      "name": "Pasaż Zatorze",
+      "latitude": 51.844153,
+      "longitude": 16.56157
+    },
+    {
+      "name": "Pasaż Zieleniec",
+      "latitude": 53.012603,
+      "longitude": 18.563234
+    },
+    {
+      "name": "Pasaż Zielińskiego",
+      "latitude": 51.100433,
+      "longitude": 17.025378
+    },
+    {
+      "name": "Pasaż Zielony",
+      "latitude": 50.874523,
+      "longitude": 20.620204
+    },
+    {
+      "name": "Pasaż Łódzka 118",
+      "latitude": 52.992168,
+      "longitude": 18.631277
+    },
+    {
+      "name": "Pasaż Łódzki",
+      "latitude": 51.75007,
+      "longitude": 19.440344
+    },
+    {
+      "name": "Pasaż Łącko 963",
+      "latitude": 49.552059,
+      "longitude": 20.452717
+    },
+    {
+      "name": "Pasaż Świętokrzyski",
+      "latitude": 50.882913,
+      "longitude": 20.583079
+    },
+    {
+      "name": "Passage 21",
+      "latitude": 51.949949,
+      "longitude": 14.724768
+    },
+    {
+      "name": "Patjo",
+      "latitude": 51.117376,
+      "longitude": 20.880551
+    },
+    {
+      "name": "Pawilon \"Maciej\"",
+      "latitude": 53.022972,
+      "longitude": 18.67666
+    },
+    {
+      "name": "Pawilon 101",
+      "latitude": 52.458698,
+      "longitude": 16.912596
+    },
+    {
+      "name": "Pawilon 103",
+      "latitude": 52.463229,
+      "longitude": 16.906435
+    },
+    {
+      "name": "Pawilon 110",
+      "latitude": 52.452602,
+      "longitude": 16.91431
+    },
+    {
+      "name": "Pawilon Centralny Bumar",
+      "latitude": 53.024503,
+      "longitude": 18.608858
+    },
+    {
+      "name": "Pawilon Handlowy",
+      "latitude": 49.996879,
+      "longitude": 19.510633
+    },
+    {
+      "name": "Pawilon Handlowy",
+      "latitude": 50.985903,
+      "longitude": 23.171467
+    },
+    {
+      "name": "Pawilon handlowy",
+      "latitude": 51.046366,
+      "longitude": 21.075952
+    },
+    {
+      "name": "Pawilon Handlowy",
+      "latitude": 53.172209,
+      "longitude": 22.06719
+    },
+    {
+      "name": "Pawilon handlowy \"Bartek\"",
+      "latitude": 51.588592,
+      "longitude": 18.721184
+    },
+    {
+      "name": "Pawilon Handlowy \"Karolina\"",
+      "latitude": 53.018915,
+      "longitude": 18.680327
+    },
+    {
+      "name": "Pawilon Handlowy Boguchwała",
+      "latitude": 49.982298,
+      "longitude": 21.938948
+    },
+    {
+      "name": "Pawilon Handlowy ODRA",
+      "latitude": 50.730406,
+      "longitude": 16.652432
+    },
+    {
+      "name": "Pawilon Kwadrat",
+      "latitude": 51.84661,
+      "longitude": 16.597567
+    },
+    {
+      "name": "Pawilon Merkury",
+      "latitude": 51.623647,
+      "longitude": 21.931356
+    },
+    {
+      "name": "Pawilon Osiedle Łokietka 102",
+      "latitude": 52.449444,
+      "longitude": 16.941547
+    },
+    {
+      "name": "Pawilon Ślązak",
+      "latitude": 50.305463,
+      "longitude": 18.674432
+    },
+    {
+      "name": "Pawilony handlowe",
+      "latitude": 53.148992,
+      "longitude": 18.124141
+    },
+    {
+      "name": "Pawilony Handlowe w Celestynowie",
+      "latitude": 52.057746,
+      "longitude": 21.393214
+    },
+    {
+      "name": "PH Karuzela",
+      "latitude": 53.812791,
+      "longitude": 22.375408
+    },
+    {
+      "name": "PH Wiatraki",
+      "latitude": 54.452615,
+      "longitude": 16.967615
+    },
+    {
+      "name": "Plac Czerwona Torebka",
+      "latitude": 52.350623,
+      "longitude": 14.569978
+    },
+    {
+      "name": "Plac Unii",
+      "latitude": 52.212708,
+      "longitude": 21.019964
+    },
+    {
+      "name": "Plac Vogla",
+      "latitude": 52.165265,
+      "longitude": 21.10992
+    },
+    {
+      "name": "Plaza Rzeszów",
+      "latitude": 50.019661,
+      "longitude": 22.019033
+    },
+    {
+      "name": "Plaza Zgorzelec",
+      "latitude": 51.153048,
+      "longitude": 15.026896
+    },
+    {
+      "name": "Plejada",
+      "latitude": 50.290481,
+      "longitude": 19.152256
+    },
+    {
+      "name": "Plejada",
+      "latitude": 50.812173,
+      "longitude": 19.123267
+    },
+    {
+      "name": "Podgórna 43",
+      "latitude": 51.938788,
+      "longitude": 15.522806
+    },
+    {
+      "name": "Pogodne Centrum Oleśnica",
+      "latitude": 51.214944,
+      "longitude": 17.406738
+    },
+    {
+      "name": "Polonia",
+      "latitude": 52.092066,
+      "longitude": 17.005786
+    },
+    {
+      "name": "Polskie Centrum Handlowe",
+      "latitude": 52.053089,
+      "longitude": 20.858735
+    },
+    {
+      "name": "Port Łódź",
+      "latitude": 51.703568,
+      "longitude": 19.414031
+    },
+    {
+      "name": "Posnania",
+      "latitude": 52.396495,
+      "longitude": 16.955763
+    },
+    {
+      "name": "Poznań Plaza",
+      "latitude": 52.441112,
+      "longitude": 16.918929
+    },
+    {
+      "name": "PPH Janusz Pajda",
+      "latitude": 52.176654,
+      "longitude": 21.565673
+    },
+    {
+      "name": "Prima",
+      "latitude": 50.571848,
+      "longitude": 22.056468
+    },
+    {
+      "name": "Prima Park",
+      "latitude": 52.344816,
+      "longitude": 21.124096
+    },
+    {
+      "name": "Prima Park - Parczew",
+      "latitude": 51.635486,
+      "longitude": 22.896661
+    },
+    {
+      "name": "Prima Park Handlowy",
+      "latitude": 54.26452,
+      "longitude": 18.664162
+    },
+    {
+      "name": "Prima Park Kutno",
+      "latitude": 52.229636,
+      "longitude": 19.369507
+    },
+    {
+      "name": "Primus Center",
+      "latitude": 50.315744,
+      "longitude": 19.117947
+    },
+    {
+      "name": "Prochownia Łomianki",
+      "latitude": 52.334449,
+      "longitude": 20.900055
+    },
+    {
+      "name": "Promenada",
+      "latitude": 54.540711,
+      "longitude": 17.752613
+    },
+    {
+      "name": "Promenady Wrocławskie Center",
+      "latitude": 51.130578,
+      "longitude": 17.040483
+    },
+    {
+      "name": "Proxima Park",
+      "latitude": 53.698432,
+      "longitude": 17.578308
+    },
+    {
+      "name": "Przystanek Karkonosze",
+      "latitude": 50.808718,
+      "longitude": 15.76539
+    },
+    {
+      "name": "PSS Galeria Handlowa",
+      "latitude": 52.127222,
+      "longitude": 20.690482
+    },
+    {
+      "name": "Ptak Expo",
+      "latitude": 51.648839,
+      "longitude": 19.494999
+    },
+    {
+      "name": "Ptak Outlet",
+      "latitude": 51.646651,
+      "longitude": 19.487924
+    },
+    {
+      "name": "Puchatek",
+      "latitude": 50.812585,
+      "longitude": 19.128664
+    },
+    {
+      "name": "Punkt 44",
+      "latitude": 50.262515,
+      "longitude": 19.00596
+    },
+    {
+      "name": "Quick",
+      "latitude": 52.09805,
+      "longitude": 16.660061
+    },
+    {
+      "name": "Quick Park",
+      "latitude": 50.975391,
+      "longitude": 16.363552
+    },
+    {
+      "name": "Radomskie Hale Mięsne (RHM)",
+      "latitude": 51.409396,
+      "longitude": 21.144589
+    },
+    {
+      "name": "Rawa Park Handlowy",
+      "latitude": 50.271148,
+      "longitude": 19.058152
+    },
+    {
+      "name": "RDT",
+      "latitude": 53.561559,
+      "longitude": 20.99972
+    },
+    {
+      "name": "ReFORMA",
+      "latitude": 50.276307,
+      "longitude": 18.695055
+    },
+    {
+      "name": "Reno",
+      "latitude": 50.478776,
+      "longitude": 18.802985
+    },
+    {
+      "name": "Renoma",
+      "latitude": 51.103643,
+      "longitude": 17.03111
+    },
+    {
+      "name": "Retail Park",
+      "latitude": 49.802814,
+      "longitude": 19.029726
+    },
+    {
+      "name": "Retail Park",
+      "latitude": 50.766213,
+      "longitude": 16.262273
+    },
+    {
+      "name": "Retail Park",
+      "latitude": 50.766519,
+      "longitude": 16.263743
+    },
+    {
+      "name": "Retail Park",
+      "latitude": 54.618502,
+      "longitude": 18.189333
+    },
+    {
+      "name": "Retail Park Gościcino",
+      "latitude": 54.601578,
+      "longitude": 18.137481
+    },
+    {
+      "name": "Retail Park Kopernik",
+      "latitude": 53.730977,
+      "longitude": 18.929273
+    },
+    {
+      "name": "Retail Park Włocławek",
+      "latitude": 52.642833,
+      "longitude": 19.070919
+    },
+    {
+      "name": "Riviera",
+      "latitude": 54.50471,
+      "longitude": 18.532151
+    },
+    {
+      "name": "Rolnicze Centrum Handlowe Wilk",
+      "latitude": 51.546581,
+      "longitude": 18.886092
+    },
+    {
+      "name": "Rolnik",
+      "latitude": 53.820546,
+      "longitude": 22.347683
+    },
+    {
+      "name": "Rondo",
+      "latitude": 52.5957,
+      "longitude": 21.451107
+    },
+    {
+      "name": "Rondo Park",
+      "latitude": 50.522316,
+      "longitude": 20.519906
+    },
+    {
+      "name": "Rondo Wiatraczna",
+      "latitude": 52.244018,
+      "longitude": 21.086405
+    },
+    {
+      "name": "Roździeń",
+      "latitude": 50.27921,
+      "longitude": 19.080209
+    },
+    {
+      "name": "Ruda Śląska Plaza",
+      "latitude": 50.275521,
+      "longitude": 18.865967
+    },
+    {
+      "name": "Rybnik Plaza",
+      "latitude": 50.096429,
+      "longitude": 18.537974
+    },
+    {
+      "name": "Rynek",
+      "latitude": 50.639978,
+      "longitude": 20.303902
+    },
+    {
+      "name": "Rzemieślnik",
+      "latitude": 53.133103,
+      "longitude": 23.142463
+    },
+    {
+      "name": "Róża Wiatrów",
+      "latitude": 52.666719,
+      "longitude": 19.040295
+    },
+    {
+      "name": "S-Mall Park",
+      "latitude": 49.698078,
+      "longitude": 20.427859
+    },
+    {
+      "name": "S-Mall Park",
+      "latitude": 49.975472,
+      "longitude": 19.819
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 50.288798,
+      "longitude": 21.42407
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 50.725399,
+      "longitude": 16.652137
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 50.854381,
+      "longitude": 17.48036
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 50.855047,
+      "longitude": 17.479722
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 54.012293,
+      "longitude": 15.960275
+    },
+    {
+      "name": "S1 Center",
+      "latitude": 54.122175,
+      "longitude": 22.928581
+    },
+    {
+      "name": "S1 centrum handlowe",
+      "latitude": 51.77228,
+      "longitude": 22.615766
+    },
+    {
+      "name": "S1 Lubsko",
+      "latitude": 51.77863,
+      "longitude": 14.984338
+    },
+    {
+      "name": "S8",
+      "latitude": 49.6926,
+      "longitude": 21.747643
+    },
+    {
+      "name": "Sadyba Best Mall",
+      "latitude": 52.18754,
+      "longitude": 21.061253
+    },
+    {
+      "name": "Salon Serwisowy/ Serwis Producenta Bosch, Siemens, Gaggeanu",
+      "latitude": 50.031504,
+      "longitude": 21.987157
+    },
+    {
+      "name": "San Park Piaseczno",
+      "latitude": 52.101233,
+      "longitude": 21.020837
+    },
+    {
+      "name": "Sarni Stok",
+      "latitude": 49.839603,
+      "longitude": 19.034707
+    },
+    {
+      "name": "SAS",
+      "latitude": 52.023955,
+      "longitude": 23.123762
+    },
+    {
+      "name": "Saspol",
+      "latitude": 51.765618,
+      "longitude": 19.456872
+    },
+    {
+      "name": "Sawa",
+      "latitude": 52.232013,
+      "longitude": 21.011143
+    },
+    {
+      "name": "SDH \"Hala\"",
+      "latitude": 52.655039,
+      "longitude": 19.072368
+    },
+    {
+      "name": "SDH Bartek",
+      "latitude": 51.117676,
+      "longitude": 20.879599
+    },
+    {
+      "name": "SEKA",
+      "latitude": 50.812253,
+      "longitude": 19.122746
+    },
+    {
+      "name": "Sezam",
+      "latitude": 50.080921,
+      "longitude": 18.216285
+    },
+    {
+      "name": "Sezam",
+      "latitude": 51.400638,
+      "longitude": 21.154943
+    },
+    {
+      "name": "Shopping",
+      "latitude": 50.299088,
+      "longitude": 16.647858
+    },
+    {
+      "name": "Sienny Rynek",
+      "latitude": 53.128506,
+      "longitude": 23.15283
+    },
+    {
+      "name": "Silesia City Center",
+      "latitude": 50.27055,
+      "longitude": 19.004945
+    },
+    {
+      "name": "Skende Shopping",
+      "latitude": 51.283474,
+      "longitude": 22.570649
+    },
+    {
+      "name": "Sklep spożywczo-przemysłowy",
+      "latitude": 49.699142,
+      "longitude": 22.121358
+    },
+    {
+      "name": "Sklep Słowacki - Potraviny",
+      "latitude": 49.400861,
+      "longitude": 20.955385
+    },
+    {
+      "name": "Skwer Handlowy",
+      "latitude": 52.773308,
+      "longitude": 18.250785
+    },
+    {
+      "name": "Skwer Handlowy \"tuż tuż\"",
+      "latitude": 51.417002,
+      "longitude": 19.674308
+    },
+    {
+      "name": "SmartPark Węgrów",
+      "latitude": 52.388642,
+      "longitude": 22.013085
+    },
+    {
+      "name": "Solaris Center",
+      "latitude": 50.670379,
+      "longitude": 17.92618
+    },
+    {
+      "name": "SOLO PARK",
+      "latitude": 51.608151,
+      "longitude": 18.938123
+    },
+    {
+      "name": "Solvay Park",
+      "latitude": 50.014254,
+      "longitude": 19.927129
+    },
+    {
+      "name": "Sonata Park",
+      "latitude": 52.2277,
+      "longitude": 20.266646
+    },
+    {
+      "name": "Sosenka",
+      "latitude": 51.303272,
+      "longitude": 22.887025
+    },
+    {
+      "name": "Spe Sp. z o.o.",
+      "latitude": 52.777771,
+      "longitude": 23.178961
+    },
+    {
+      "name": "Społem PSS",
+      "latitude": 50.294904,
+      "longitude": 21.438186
+    },
+    {
+      "name": "SR-H \"Rola\"",
+      "latitude": 49.973576,
+      "longitude": 19.830958
+    },
+    {
+      "name": "Srebrna Promenada",
+      "latitude": 51.40105,
+      "longitude": 16.200254
+    },
+    {
+      "name": "Stacja Mława",
+      "latitude": 53.109858,
+      "longitude": 20.365285
+    },
+    {
+      "name": "Stara Betoniarnia",
+      "latitude": 52.437139,
+      "longitude": 19.465175
+    },
+    {
+      "name": "Stara Cegielnia",
+      "latitude": 53.454746,
+      "longitude": 14.552036
+    },
+    {
+      "name": "Stara Cegielnia",
+      "latitude": 54.4778,
+      "longitude": 17.04294
+    },
+    {
+      "name": "Stara Garbarnia",
+      "latitude": 52.063799,
+      "longitude": 20.445396
+    },
+    {
+      "name": "Stara Gmina",
+      "latitude": 49.903321,
+      "longitude": 19.004699
+    },
+    {
+      "name": "Stara Kablownia",
+      "latitude": 49.91219,
+      "longitude": 18.997632
+    },
+    {
+      "name": "Stara Papiernia",
+      "latitude": 52.091107,
+      "longitude": 21.122399
+    },
+    {
+      "name": "Stara Rozlewnia",
+      "latitude": 51.59772,
+      "longitude": 18.733083
+    },
+    {
+      "name": "Stara Szwalnia",
+      "latitude": 50.047726,
+      "longitude": 21.986952
+    },
+    {
+      "name": "Stary Areszt",
+      "latitude": 51.409336,
+      "longitude": 19.69519
+    },
+    {
+      "name": "Stary Browar (Atrium)",
+      "latitude": 52.401547,
+      "longitude": 16.927867
+    },
+    {
+      "name": "Stary Browar (Pasaż)",
+      "latitude": 52.402356,
+      "longitude": 16.925468
+    },
+    {
+      "name": "Stary Targ",
+      "latitude": 53.424901,
+      "longitude": 19.592636
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 51.184785,
+      "longitude": 16.171527
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 51.636738,
+      "longitude": 15.134873
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 51.939857,
+      "longitude": 15.556717
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 52.135876,
+      "longitude": 22.291567
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 52.136678,
+      "longitude": 22.29291
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 53.12182,
+      "longitude": 20.363222
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 54.079864,
+      "longitude": 21.387979
+    },
+    {
+      "name": "Stopiak",
+      "latitude": 49.474475,
+      "longitude": 20.008415
+    },
+    {
+      "name": "Straßburg-Passage",
+      "latitude": 51.150473,
+      "longitude": 14.984545
+    },
+    {
+      "name": "Street Mall „Vis a Vis”",
+      "latitude": 51.817716,
+      "longitude": 19.434487
+    },
+    {
+      "name": "Supermarket Lewiatan",
+      "latitude": 52.796535,
+      "longitude": 22.313466
+    },
+    {
+      "name": "Supersam",
+      "latitude": 50.262148,
+      "longitude": 19.019002
+    },
+    {
+      "name": "Swoszowice Centrum",
+      "latitude": 49.993695,
+      "longitude": 19.945978
+    },
+    {
+      "name": "Swoszowice Centrum",
+      "latitude": 49.993902,
+      "longitude": 19.945206
+    },
+    {
+      "name": "Sylwex",
+      "latitude": 50.712301,
+      "longitude": 23.276142
+    },
+    {
+      "name": "SZiZ",
+      "latitude": 50.31867,
+      "longitude": 22.34587
+    },
+    {
+      "name": "Szklarnia Park Handlowy",
+      "latitude": 50.669005,
+      "longitude": 18.691381
+    },
+    {
+      "name": "Słoneczny Pasaż",
+      "latitude": 50.78514,
+      "longitude": 20.618644
+    },
+    {
+      "name": "Tarasy Grabiszyńskie",
+      "latitude": 51.094128,
+      "longitude": 16.981839
+    },
+    {
+      "name": "Targowa",
+      "latitude": 51.106156,
+      "longitude": 15.594573
+    },
+    {
+      "name": "Targowisko Kalinka",
+      "latitude": 53.433417,
+      "longitude": 14.515842
+    },
+    {
+      "name": "Targowisko Manhattan",
+      "latitude": 53.44305,
+      "longitude": 14.55061
+    },
+    {
+      "name": "targowisko miejskie",
+      "latitude": 52.081477,
+      "longitude": 17.012322
+    },
+    {
+      "name": "Targowisko Miejskie",
+      "latitude": 52.321138,
+      "longitude": 16.127964
+    },
+    {
+      "name": "Tarnowianka",
+      "latitude": 52.465474,
+      "longitude": 16.662628
+    },
+    {
+      "name": "Tatrzańska",
+      "latitude": 52.429942,
+      "longitude": 16.84876
+    },
+    {
+      "name": "Tauzen Park",
+      "latitude": 50.285508,
+      "longitude": 18.969784
+    },
+    {
+      "name": "Telegraf CITY",
+      "latitude": 50.865764,
+      "longitude": 20.641146
+    },
+    {
+      "name": "Temed",
+      "latitude": 50.297933,
+      "longitude": 18.797406
+    },
+    {
+      "name": "Tercet",
+      "latitude": 52.055311,
+      "longitude": 15.097608
+    },
+    {
+      "name": "Terespol Retail Park",
+      "latitude": 52.070293,
+      "longitude": 23.602407
+    },
+    {
+      "name": "TGG",
+      "latitude": 51.11788,
+      "longitude": 17.000694
+    },
+    {
+      "name": "Toruń Plaza",
+      "latitude": 53.015288,
+      "longitude": 18.561638
+    },
+    {
+      "name": "Turawa Park",
+      "latitude": 50.687152,
+      "longitude": 17.978573
+    },
+    {
+      "name": "Turbina",
+      "latitude": 51.297639,
+      "longitude": 18.146347
+    },
+    {
+      "name": "Turkovia",
+      "latitude": 52.020016,
+      "longitude": 18.48811
+    },
+    {
+      "name": "Turkovia",
+      "latitude": 52.020315,
+      "longitude": 18.488951
+    },
+    {
+      "name": "Tuvima Park",
+      "latitude": 51.857306,
+      "longitude": 19.38939
+    },
+    {
+      "name": "Uni Rynek",
+      "latitude": 51.811108,
+      "longitude": 19.318374
+    },
+    {
+      "name": "Unia Park Handlowy",
+      "latitude": 53.485149,
+      "longitude": 18.751475
+    },
+    {
+      "name": "Unicity",
+      "latitude": 51.739394,
+      "longitude": 19.46481
+    },
+    {
+      "name": "UNIKAT",
+      "latitude": 50.200891,
+      "longitude": 18.311047
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 50.037545,
+      "longitude": 19.212172
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 50.370292,
+      "longitude": 18.946552
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 50.466121,
+      "longitude": 17.343892
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 51.118816,
+      "longitude": 23.478178
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 51.395553,
+      "longitude": 16.217273
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 51.592571,
+      "longitude": 19.148564
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 51.916415,
+      "longitude": 22.371239
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 51.971921,
+      "longitude": 20.143925
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.093028,
+      "longitude": 21.240728
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.117184,
+      "longitude": 20.671957
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.173862,
+      "longitude": 21.563479
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.531747,
+      "longitude": 19.682249
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.986977,
+      "longitude": 16.920031
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 52.987305,
+      "longitude": 16.920728
+    },
+    {
+      "name": "Vendo Park",
+      "latitude": 53.076393,
+      "longitude": 18.219917
+    },
+    {
+      "name": "Vendo Park Gorzów",
+      "latitude": 52.73742,
+      "longitude": 15.196017
+    },
+    {
+      "name": "Vendo Park Zielonka",
+      "latitude": 52.300693,
+      "longitude": 21.155328
+    },
+    {
+      "name": "VENDOPARK",
+      "latitude": 54.791714,
+      "longitude": 18.418565
+    },
+    {
+      "name": "Victoria",
+      "latitude": 50.092056,
+      "longitude": 18.216797
+    },
+    {
+      "name": "Victoria Park",
+      "latitude": 50.03349,
+      "longitude": 21.014124
+    },
+    {
+      "name": "Victory",
+      "latitude": 54.265795,
+      "longitude": 18.630919
+    },
+    {
+      "name": "Vien Centrum Handlowe",
+      "latitude": 54.099671,
+      "longitude": 22.931862
+    },
+    {
+      "name": "Viktor",
+      "latitude": 51.112232,
+      "longitude": 16.961992
+    },
+    {
+      "name": "Viktor",
+      "latitude": 53.772706,
+      "longitude": 20.499601
+    },
+    {
+      "name": "Vipsat",
+      "latitude": 51.241421,
+      "longitude": 22.569758
+    },
+    {
+      "name": "Vis a Vis Street Mall",
+      "latitude": 51.406453,
+      "longitude": 21.157414
+    },
+    {
+      "name": "Vitkac",
+      "latitude": 52.230657,
+      "longitude": 21.018811
+    },
+    {
+      "name": "Viva",
+      "latitude": 50.287588,
+      "longitude": 21.468827
+    },
+    {
+      "name": "VIVO!",
+      "latitude": 51.24975,
+      "longitude": 22.576325
+    },
+    {
+      "name": "VIVO!",
+      "latitude": 53.145113,
+      "longitude": 16.746866
+    },
+    {
+      "name": "VIVO! Stalowa Wola",
+      "latitude": 50.585756,
+      "longitude": 22.063833
+    },
+    {
+      "name": "Voltmax Center",
+      "latitude": 51.25145,
+      "longitude": 22.508307
+    },
+    {
+      "name": "Wamex",
+      "latitude": 51.298653,
+      "longitude": 22.88755
+    },
+    {
+      "name": "Wars",
+      "latitude": 52.231241,
+      "longitude": 21.011491
+    },
+    {
+      "name": "Warszawska Giełda Elektroniczna",
+      "latitude": 52.217393,
+      "longitude": 21.005084
+    },
+    {
+      "name": "Warszewo Park",
+      "latitude": 53.471376,
+      "longitude": 14.543154
+    },
+    {
+      "name": "Westfield Arkadia",
+      "latitude": 52.256802,
+      "longitude": 20.984272
+    },
+    {
+      "name": "Westfield Mokotów",
+      "latitude": 52.179713,
+      "longitude": 21.004163
+    },
+    {
+      "name": "Wierzbowa Park",
+      "latitude": 53.143808,
+      "longitude": 23.131113
+    },
+    {
+      "name": "Wiślanin",
+      "latitude": 52.644383,
+      "longitude": 19.069262
+    },
+    {
+      "name": "Wola Park",
+      "latitude": 52.241726,
+      "longitude": 20.932561
+    },
+    {
+      "name": "Wroclavia",
+      "latitude": 51.096561,
+      "longitude": 17.034725
+    },
+    {
+      "name": "Wrocław Fashion Outlet",
+      "latitude": 51.107248,
+      "longitude": 16.946468
+    },
+    {
+      "name": "Wzorcownia",
+      "latitude": 52.65456,
+      "longitude": 19.062023
+    },
+    {
+      "name": "Wzorcownia",
+      "latitude": 52.654608,
+      "longitude": 19.063313
+    },
+    {
+      "name": "X-Shop",
+      "latitude": 51.890101,
+      "longitude": 21.619247
+    },
+    {
+      "name": "Zajezdnia Park",
+      "latitude": 54.472726,
+      "longitude": 17.029943
+    },
+    {
+      "name": "Zgodda Park",
+      "latitude": 50.275665,
+      "longitude": 18.908649
+    },
+    {
+      "name": "Zielone Tarasy",
+      "latitude": 54.165892,
+      "longitude": 19.401411
+    },
+    {
+      "name": "Zielony Rynek",
+      "latitude": 51.953327,
+      "longitude": 15.521863
+    },
+    {
+      "name": "Zygfryd",
+      "latitude": 50.299151,
+      "longitude": 16.649084
+    },
+    {
+      "name": "Złota Podkowa",
+      "latitude": 50.669247,
+      "longitude": 18.682126
+    },
+    {
+      "name": "Złote Centrum",
+      "latitude": 51.753603,
+      "longitude": 18.077619
+    },
+    {
+      "name": "Złote Tarasy",
+      "latitude": 52.229974,
+      "longitude": 21.002203
+    },
+    {
+      "name": "Ósemka",
+      "latitude": 51.625932,
+      "longitude": 21.92818
+    },
+    {
+      "name": "Łomianki Park",
+      "latitude": 52.346308,
+      "longitude": 20.867986
+    },
+    {
+      "name": "Śliwa",
+      "latitude": 53.741352,
+      "longitude": 20.500881
+    },
+    {
+      "name": "Świat Dziecka",
+      "latitude": 54.164339,
+      "longitude": 19.404853
+    },
+    {
+      "name": "Анюта",
+      "latitude": 54.387362,
+      "longitude": 20.643288
+    },
+    {
+      "name": "„Kwadraciak”",
+      "latitude": 49.686958,
+      "longitude": 21.774295
+    }
+  ],
+  "meta": {
+    "title": "Polska — galerie handlowe - Bezpłatne pobieranie",
+    "description": "Galerie i centra handlowe w Polsce (OpenStreetMap) Zawiera 1466 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — galerie handlowe | ListBase",
+    "seo_description": "Pobierz Polska — galerie handlowe — 1466 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 1466 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

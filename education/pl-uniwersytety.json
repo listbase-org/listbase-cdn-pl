@@ -1,0 +1,1436 @@
+{
+  "id": "pl-uniwersytety",
+  "name": "Polska — Uniwersytety i uczelnie wyższe",
+  "title": "Polska — Uniwersytety i uczelnie wyższe",
+  "description": "Lista uniwersytetów i instytucji szkolnictwa wyższego w Polsce. Każdy rekord zawiera nazwę instytucji (alfabet łaciński/angielski), główną zarejestrowaną domenę, pełną listę domen, główną stronę internetową, kod kraju (ISO-3166-1 alpha-2) oraz region (województwo) — jeśli jest dostępny w źródle. Wyodrębnione przez filtrowanie globalnego zbioru danych Hipo/university-domains-list (country == \"Poland\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academy of Economics in Cracow",
+      "slug": "academy-economics-cracow",
+      "domain": "ae.krakow.pl",
+      "domains": "ae.krakow.pl",
+      "web_page": "http://www.ae.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Economics in Katowice",
+      "slug": "academy-economics-katowice",
+      "domain": "ae.katowice.pl",
+      "domains": "ae.katowice.pl",
+      "web_page": "http://www.ae.katowice.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Economics in Poznan",
+      "slug": "academy-economics-poznan",
+      "domain": "ae.poznan.pl",
+      "domains": "ae.poznan.pl",
+      "web_page": "http://www.ae.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Economics in Wroclaw",
+      "slug": "academy-economics-wroclaw",
+      "domain": "ae.wroc.pl",
+      "domains": "ae.wroc.pl",
+      "web_page": "http://www.ae.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Humanities and Economics in Lodz",
+      "slug": "academy-humanities-economics-lodz",
+      "domain": "ahe.edu.pl",
+      "domains": "ahe.edu.pl",
+      "web_page": "http://www.ahe.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of International Economic and Political Relations, Gdynia",
+      "slug": "academy-international-economic-political-relations-gdynia",
+      "domain": "wsms.edu.pl",
+      "domains": "wsms.edu.pl",
+      "web_page": "http://www.wsms.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Adam Mickiewicz University of Poznan",
+      "slug": "adam-mickiewicz-poznan",
+      "domain": "amu.edu.pl",
+      "domains": "amu.edu.pl",
+      "web_page": "http://www.amu.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "AGH University of Science and Technology",
+      "slug": "agh-science-technology",
+      "domain": "agh.edu.pl",
+      "domains": "agh.edu.pl",
+      "web_page": "http://www.agh.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Cracow",
+      "slug": "agricultural-cracow",
+      "domain": "ar.krakow.pl",
+      "domains": "ar.krakow.pl",
+      "web_page": "http://www.ar.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Lublin",
+      "slug": "agricultural-lublin",
+      "domain": "ar.lublin.pl",
+      "domains": "ar.lublin.pl",
+      "web_page": "http://www.ar.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Poznan",
+      "slug": "agricultural-poznan",
+      "domain": "au.poznan.pl",
+      "domains": "au.poznan.pl",
+      "web_page": "http://www.au.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Szczecin",
+      "slug": "agricultural-szczecin",
+      "domain": "ar.szczecin.pl",
+      "domains": "ar.szczecin.pl",
+      "web_page": "http://www.ar.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Warsaw",
+      "slug": "agricultural-warsaw",
+      "domain": "sggw.waw.pl",
+      "domains": "sggw.waw.pl",
+      "web_page": "http://www.sggw.waw.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Wroclaw",
+      "slug": "agricultural-wroclaw",
+      "domain": "ar.wroc.pl",
+      "domains": "ar.wroc.pl",
+      "web_page": "http://www.ar.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural-Technical Academy in Olsztyn",
+      "slug": "agricultural-technical-academy-olsztyn",
+      "domain": "art.olsztyn.pl",
+      "domains": "art.olsztyn.pl",
+      "web_page": "http://www.art.olsztyn.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Akademia Podlaska",
+      "slug": "akademia-podlaska",
+      "domain": "ap.siedlce.pl",
+      "domains": "ap.siedlce.pl",
+      "web_page": "http://www.ap.siedlce.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Aleksander Gieysztor School of Humanities in Pultusk",
+      "slug": "aleksander-gieysztor-school-humanities-pultusk",
+      "domain": "wsh.edu.pl",
+      "domains": "wsh.edu.pl",
+      "web_page": "http://www.wsh.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Aleksander Zelwerowicz State Theatre Academy",
+      "slug": "aleksander-zelwerowicz-state-theatre-academy",
+      "domain": "at.edu.pl",
+      "domains": "at.edu.pl",
+      "web_page": "http://www.at.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Andrzej Frycz Modrzewski Cracow College",
+      "slug": "andrzej-frycz-modrzewski-cracow-college",
+      "domain": "ksw.edu.pl",
+      "domains": "ksw.edu.pl",
+      "web_page": "http://www.ksw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Cardinal Stefan Wyszynski University in Warsaw",
+      "slug": "cardinal-stefan-wyszynski-warsaw",
+      "domain": "uksw.edu.pl",
+      "domains": "uksw.edu.pl",
+      "web_page": "http://www.uksw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University of Lublin",
+      "slug": "catholic-lublin",
+      "domain": "kul.lublin.pl",
+      "domains": "kul.lublin.pl",
+      "web_page": "http://www.kul.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Christian Theological Academy in Warszaw",
+      "slug": "christian-theological-academy-warszaw",
+      "domain": "qdnet.pl",
+      "domains": "qdnet.pl",
+      "web_page": "http://www.qdnet.pl/ChAT/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "College of Computer Science in Lodz",
+      "slug": "college-computer-science-lodz",
+      "domain": "wsinf.edu.pl",
+      "domains": "wsinf.edu.pl",
+      "web_page": "http://www.wsinf.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Collegium Civitas",
+      "slug": "collegium-civitas",
+      "domain": "collegium.edu.pl",
+      "domains": "collegium.edu.pl",
+      "web_page": "http://www.collegium.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "European Academy of Arts in Warsaw",
+      "slug": "european-academy-arts-warsaw",
+      "domain": "eas.edu.pl",
+      "domains": "eas.edu.pl",
+      "web_page": "http://www.eas.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy \"Jan Matejko\" in Cracow",
+      "slug": "fine-arts-academy-jan-matejko-cracow",
+      "domain": "asp.krakow.pl",
+      "domains": "asp.krakow.pl",
+      "web_page": "http://www.asp.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy in Gdansk",
+      "slug": "fine-arts-academy-gdansk",
+      "domain": "asp.gda.pl",
+      "domains": "asp.gda.pl",
+      "web_page": "http://www.asp.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy in Katowice",
+      "slug": "fine-arts-academy-katowice",
+      "domain": "aspkat.edu.pl",
+      "domains": "aspkat.edu.pl",
+      "web_page": "http://www.aspkat.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy in Poznan",
+      "slug": "fine-arts-academy-poznan",
+      "domain": "asp.poznan.pl",
+      "domains": "asp.poznan.pl",
+      "web_page": "http://www.asp.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy in Warsaw",
+      "slug": "fine-arts-academy-warsaw",
+      "domain": "asp.waw.pl",
+      "domains": "asp.waw.pl",
+      "web_page": "http://www.asp.waw.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy in Wroclaw",
+      "slug": "fine-arts-academy-wroclaw",
+      "domain": "asp.wroc.pl",
+      "domains": "asp.wroc.pl",
+      "web_page": "http://www.asp.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Fine Arts Academy Wladyslaw Strzeminski in Lodz",
+      "slug": "fine-arts-academy-wladyslaw-strzeminski-lodz",
+      "domain": "asp.lodz.pl",
+      "domains": "asp.lodz.pl",
+      "web_page": "http://www.asp.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "French Institute of Management",
+      "slug": "french-institute-management",
+      "domain": "ifg.com.pl",
+      "domains": "ifg.com.pl",
+      "web_page": "http://www.ifg.com.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Gdansk Management College",
+      "slug": "gdansk-management-college",
+      "domain": "wsz.pl",
+      "domains": "wsz.pl",
+      "web_page": "http://www.wsz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Gdynia Maritime Academy",
+      "slug": "gdynia-maritime-academy",
+      "domain": "wsm.gdynia.pl",
+      "domains": "wsm.gdynia.pl",
+      "web_page": "http://www.wsm.gdynia.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Helena Chodkowska University of Technology and Economics",
+      "slug": "helena-chodkowska-technology-economics",
+      "domain": "uth.edu.pl",
+      "domains": "uth.edu.pl, uth.pl",
+      "web_page": "https://www.uth.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Higher School o Business in Tarnow",
+      "slug": "higher-school-o-business-tarnow",
+      "domain": "wsb.toi.tarnow.pl",
+      "domains": "wsb.toi.tarnow.pl",
+      "web_page": "http://wsb.toi.tarnow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Higher School o Business/National Louis University(WSB/NLU) in Nowy Sacz",
+      "slug": "higher-school-o-business-national-louis-wsb-nlu-nowy-sacz",
+      "domain": "wsb-nlu.edu.pl",
+      "domains": "wsb-nlu.edu.pl",
+      "web_page": "http://www.wsb-nlu.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Jagiellonian University Cracow",
+      "slug": "jagiellonian-cracow",
+      "domain": "uj.edu.pl",
+      "domains": "uj.edu.pl",
+      "web_page": "http://www.uj.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala",
+      "slug": "jozef-tyszkiewicz-college-business-computer-science-bielsko-biala",
+      "domain": "tyszkiewicz.edu.pl",
+      "domains": "tyszkiewicz.edu.pl",
+      "web_page": "http://www.tyszkiewicz.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Katowice School of Economics",
+      "slug": "katowice-school-economics",
+      "domain": "gwsh.pl",
+      "domains": "gwsh.pl",
+      "web_page": "http://www.gwsh.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Lazarski School of Commerce and Law",
+      "slug": "lazarski-school-commerce-law",
+      "domain": "lazarski.pl",
+      "domains": "lazarski.pl",
+      "web_page": "http://www.lazarski.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Leon Kozminski Academy of Entrepreneurship and Management in Warsaw",
+      "slug": "leon-kozminski-academy-entrepreneurship-management-warsaw",
+      "domain": "wspiz.edu.pl",
+      "domains": "wspiz.edu.pl",
+      "web_page": "http://www.wspiz.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Ludwik Solski State Academy of Theatre in Cracow",
+      "slug": "ludwik-solski-state-academy-theatre-cracow",
+      "domain": "pwst.krakow.pl",
+      "domains": "pwst.krakow.pl",
+      "web_page": "http://www.pwst.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Maj Institute of Pharmacology Polish Academy of Sciences",
+      "slug": "maj-institute-pharmacology-polish-academy-sciences",
+      "domain": "if-pan.krakow.pl",
+      "domains": "if-pan.krakow.pl",
+      "web_page": "https://if-pan.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Maria Curie-Sklodowska University Lublin",
+      "slug": "maria-curie-sklodowska-lublin",
+      "domain": "umcs.lublin.pl",
+      "domains": "umcs.lublin.pl",
+      "web_page": "http://www.umcs.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Maria Grzegorzewska College for Special Education",
+      "slug": "maria-grzegorzewska-college-special-education",
+      "domain": "wsps.waw.pl",
+      "domains": "wsps.waw.pl",
+      "web_page": "http://www.wsps.waw.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Maritime University in Szczecin",
+      "slug": "maritime-szczecin",
+      "domain": "wsm.szczecin.pl",
+      "domains": "wsm.szczecin.pl",
+      "web_page": "http://www.wsm.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Bialystok",
+      "slug": "medical-academy-bialystok",
+      "domain": "amb.edu.pl",
+      "domains": "amb.edu.pl",
+      "web_page": "http://www.amb.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Gdansk",
+      "slug": "medical-academy-gdansk",
+      "domain": "amg.gda.pl",
+      "domains": "amg.gda.pl",
+      "web_page": "http://www.amg.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Lodz",
+      "slug": "medical-academy-lodz",
+      "domain": "am.lodz.pl",
+      "domains": "am.lodz.pl",
+      "web_page": "http://www.am.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Lublin",
+      "slug": "medical-academy-lublin",
+      "domain": "am.lublin.pl",
+      "domains": "am.lublin.pl",
+      "web_page": "http://www.am.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Warszawa",
+      "slug": "medical-academy-warszawa",
+      "domain": "amwaw.edu.pl",
+      "domains": "amwaw.edu.pl",
+      "web_page": "http://www.amwaw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy in Wroclaw",
+      "slug": "medical-academy-wroclaw",
+      "domain": "am.wroc.pl",
+      "domains": "am.wroc.pl",
+      "web_page": "http://www.am.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy Karol Marcinkowski in Poznan",
+      "slug": "medical-academy-karol-marcinkowski-poznan",
+      "domain": "usoms.poznan.pl",
+      "domains": "usoms.poznan.pl",
+      "web_page": "http://www.usoms.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Medical Academy Ludwik Rydygier in Bydgoszcz",
+      "slug": "medical-academy-ludwik-rydygier-bydgoszcz",
+      "domain": "amb.bydgoszcz.pl",
+      "domains": "amb.bydgoszcz.pl",
+      "web_page": "http://www.amb.bydgoszcz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Felix Nowowiejski\" in Bydgoszcz",
+      "slug": "music-academy-felix-nowowiejski-bydgoszcz",
+      "domain": "amuz.bydgoszcz.pl",
+      "domains": "amuz.bydgoszcz.pl",
+      "web_page": "http://www.amuz.bydgoszcz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Fryderyk Chopin\" in Warszaw",
+      "slug": "music-academy-fryderyk-chopin-warszaw",
+      "domain": "chopin.edu.pl",
+      "domains": "chopin.edu.pl",
+      "web_page": "http://www.chopin.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Ignacy Jana Paderewski\" in Poznan",
+      "slug": "music-academy-ignacy-jana-paderewski-poznan",
+      "domain": "amuz.poznan.pl",
+      "domains": "amuz.poznan.pl",
+      "web_page": "http://www.amuz.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Karol Lipinski\" in Wroclaw",
+      "slug": "music-academy-karol-lipinski-wroclaw",
+      "domain": "amuz.wroc.pl",
+      "domains": "amuz.wroc.pl",
+      "web_page": "http://www.amuz.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Karol Szymanowski\" in Katowice",
+      "slug": "music-academy-karol-szymanowski-katowice",
+      "domain": "am.katowice.pl",
+      "domains": "am.katowice.pl",
+      "web_page": "http://www.am.katowice.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy \"Stanislaw Moniuszko\" in Gdansk",
+      "slug": "music-academy-stanislaw-moniuszko-gdansk",
+      "domain": "amuz.gda.pl",
+      "domains": "amuz.gda.pl",
+      "web_page": "http://www.amuz.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy in Cracow",
+      "slug": "music-academy-cracow",
+      "domain": "amuz.krakow.pl",
+      "domains": "amuz.krakow.pl",
+      "web_page": "http://www.amuz.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Music Academy in Lodz",
+      "slug": "music-academy-lodz",
+      "domain": "amuz.lodz.pl",
+      "domains": "amuz.lodz.pl",
+      "web_page": "http://www.amuz.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences",
+      "slug": "nicolaus-copernicus-astronomical-center-pharmacology-polish-academy-sciences",
+      "domain": "camk.edu.pl",
+      "domains": "camk.edu.pl",
+      "web_page": "https://camk.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Nicolaus Copernicus University of Torun",
+      "slug": "nicolaus-copernicus-torun",
+      "domain": "uni.torun.pl",
+      "domains": "uni.torun.pl",
+      "web_page": "http://www.uni.torun.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pawel Wlodkowic University College in Plock",
+      "slug": "pawel-wlodkowic-college-plock",
+      "domain": "wlodkowic.pl",
+      "domains": "wlodkowic.pl",
+      "web_page": "http://www.wlodkowic.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Bydgoszcz",
+      "slug": "pedagogical-bydgoszcz",
+      "domain": "wsp.bydgoszcz.pl",
+      "domains": "wsp.bydgoszcz.pl",
+      "web_page": "http://www.wsp.bydgoszcz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Czestochowa",
+      "slug": "pedagogical-czestochowa",
+      "domain": "wsp.czest.pl",
+      "domains": "wsp.czest.pl",
+      "web_page": "http://www.wsp.czest.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Kielce",
+      "slug": "pedagogical-kielce",
+      "domain": "pu.kielce.pl",
+      "domains": "pu.kielce.pl",
+      "web_page": "http://www.pu.kielce.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Krakow",
+      "slug": "pedagogical-krakow",
+      "domain": "wsp.krakow.pl",
+      "domains": "wsp.krakow.pl",
+      "web_page": "http://www.wsp.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Rzeszow",
+      "slug": "pedagogical-rzeszow",
+      "domain": "univ.rzeszow.pl",
+      "domains": "univ.rzeszow.pl",
+      "web_page": "http://www.univ.rzeszow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Slupsk",
+      "slug": "pedagogical-slupsk",
+      "domain": "wsp.slupsk.pl",
+      "domains": "wsp.slupsk.pl",
+      "web_page": "http://www.wsp.slupsk.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of the Polish Association for Adult Education in Warsaw",
+      "slug": "pedagogical-polish-association-adult-education-warsaw",
+      "domain": "wsptwpwaw.edu.pl",
+      "domains": "wsptwpwaw.edu.pl",
+      "web_page": "http://www.wsptwpwaw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pedagogical University of Zielona Gora",
+      "slug": "pedagogical-zielona-gora",
+      "domain": "wsp.zgora.pl",
+      "domains": "wsp.zgora.pl",
+      "web_page": "http://www.wsp.zgora.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Physical Education Academy \"Eugeniusz Piasecki\" in Poznan",
+      "slug": "physical-education-academy-eugeniusz-piasecki-poznan",
+      "domain": "awf.poznan.pl",
+      "domains": "awf.poznan.pl",
+      "web_page": "http://www.awf.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Physical Education Academy \"Jedrzej Sniadecki\" in Gdansk",
+      "slug": "physical-education-academy-jedrzej-sniadecki-gdansk",
+      "domain": "awf.gda.pl",
+      "domains": "awf.gda.pl",
+      "web_page": "http://www.awf.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Physical Education Academy \"Jozef Pilsudski\" in Warsaw",
+      "slug": "physical-education-academy-jozef-pilsudski-warsaw",
+      "domain": "awf.edu.pl",
+      "domains": "awf.edu.pl",
+      "web_page": "http://www.awf.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Physical Education Academy in Katowice",
+      "slug": "physical-education-academy-katowice",
+      "domain": "awf.katowice.pl",
+      "domains": "awf.katowice.pl",
+      "web_page": "http://www.awf.katowice.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Physical Education Academy in Wroclaw",
+      "slug": "physical-education-academy-wroclaw",
+      "domain": "awf.wroc.pl",
+      "domains": "awf.wroc.pl",
+      "web_page": "http://www.awf.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Polish Open University in Warsaw (WSZ/POU)",
+      "slug": "polish-open-warsaw-wsz-pou",
+      "domain": "wsz-pou.edu.pl",
+      "domains": "wsz-pou.edu.pl",
+      "web_page": "http://www.wsz-pou.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Polish-Japanese Institute of Information Technology in Warsaw",
+      "slug": "polish-japanese-institute-information-technology-warsaw",
+      "domain": "pjwstk.edu.pl",
+      "domains": "pjwstk.edu.pl",
+      "web_page": "http://www.pjwstk.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Polonia University in Czêstochowa",
+      "slug": "polonia-czestochowa",
+      "domain": "ap.edu.pl",
+      "domains": "ap.edu.pl",
+      "web_page": "http://www.ap.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Pomeranian Academy of Medicine in Szczecin",
+      "slug": "pomeranian-academy-medicine-szczecin",
+      "domain": "pam.szczecin.pl",
+      "domains": "pam.szczecin.pl",
+      "web_page": "http://www.pam.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Poznan School of Banking",
+      "slug": "poznan-school-banking",
+      "domain": "wsb.poznan.pl",
+      "domains": "wsb.poznan.pl",
+      "web_page": "http://www.wsb.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Poznan University of Life Sciences",
+      "slug": "poznan-life-sciences",
+      "domain": "puls.edu.pl",
+      "domains": "puls.edu.pl",
+      "web_page": "http://www.puls.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Ryszard Lazarski University of Commerce and Law in Warsaw",
+      "slug": "ryszard-lazarski-commerce-law-warsaw",
+      "domain": "wship.edu.pl",
+      "domains": "wship.edu.pl",
+      "web_page": "http://www.wship.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "School of Banking and Management in Cracow",
+      "slug": "school-banking-management-cracow",
+      "domain": "wszib.krakow.pl",
+      "domains": "wszib.krakow.pl",
+      "web_page": "http://www.wszib.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Silesian Academy of Medicine in Katowice",
+      "slug": "silesian-academy-medicine-katowice",
+      "domain": "slam.katowice.pl",
+      "domains": "slam.katowice.pl",
+      "web_page": "http://www.slam.katowice.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Silesian School of Economics and Languages",
+      "slug": "silesian-school-economics-languages",
+      "domain": "gallus.pl",
+      "domains": "gallus.pl",
+      "web_page": "http://www.gallus.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Silesian Technical University of Gliwice",
+      "slug": "silesian-technical-gliwice",
+      "domain": "polsl.gliwice.pl",
+      "domains": "polsl.gliwice.pl, polsl.pl",
+      "web_page": "http://www.polsl.gliwice.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Staszic Pila College",
+      "slug": "staszic-pila-college",
+      "domain": "pwsz.pila.pl",
+      "domains": "pwsz.pila.pl",
+      "web_page": "http://www.pwsz.pila.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "State Film, Television and Theatre Higher School Leon Schiller in Lodz",
+      "slug": "state-film-television-theatre-higher-school-leon-schiller-lodz",
+      "domain": "filmowka.lodz.pl",
+      "domains": "filmowka.lodz.pl",
+      "web_page": "http://www.filmowka.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Teacher Training College of Revalidation, Rehabilitation and Physical Education",
+      "slug": "teacher-training-college-revalidation-rehabilitation-physical-education",
+      "domain": "nkrriwf.pl",
+      "domains": "nkrriwf.pl",
+      "web_page": "http://www.nkrriwf.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Bialystok",
+      "slug": "technical-bialystok",
+      "domain": "pb.bialystok.pl",
+      "domains": "pb.bialystok.pl",
+      "web_page": "http://www.pb.bialystok.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Cracow",
+      "slug": "technical-cracow",
+      "domain": "pk.edu.pl",
+      "domains": "pk.edu.pl",
+      "web_page": "http://www.pk.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Czestochowa",
+      "slug": "technical-czestochowa",
+      "domain": "pcz.czest.pl",
+      "domains": "pcz.czest.pl",
+      "web_page": "http://www.pcz.czest.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Gdansk",
+      "slug": "technical-gdansk",
+      "domain": "pg.gda.pl",
+      "domains": "pg.gda.pl",
+      "web_page": "http://www.pg.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Kielce",
+      "slug": "technical-kielce",
+      "domain": "tu.kielce.pl",
+      "domains": "tu.kielce.pl",
+      "web_page": "http://www.tu.kielce.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Koszalin",
+      "slug": "technical-koszalin",
+      "domain": "tu.koszalin.pl",
+      "domains": "tu.koszalin.pl",
+      "web_page": "http://www.tu.koszalin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Lodz",
+      "slug": "technical-lodz",
+      "domain": "p.lodz.pl",
+      "domains": "p.lodz.pl",
+      "web_page": "http://www.p.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Lublin",
+      "slug": "technical-lublin",
+      "domain": "pol.lublin.pl",
+      "domains": "pol.lublin.pl",
+      "web_page": "http://www.pol.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Opole",
+      "slug": "technical-opole",
+      "domain": "po.opole.pl",
+      "domains": "po.opole.pl",
+      "web_page": "http://www.po.opole.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Poznan",
+      "slug": "technical-poznan",
+      "domain": "put.poznan.pl",
+      "domains": "put.poznan.pl",
+      "web_page": "http://www.put.poznan.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Radom",
+      "slug": "technical-radom",
+      "domain": "man.radom.pl",
+      "domains": "man.radom.pl",
+      "web_page": "http://www.man.radom.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Rzeszow",
+      "slug": "technical-rzeszow",
+      "domain": "prz.rzeszow.pl",
+      "domains": "prz.rzeszow.pl",
+      "web_page": "http://www.prz.rzeszow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Szczecin",
+      "slug": "technical-szczecin",
+      "domain": "tuniv.szczecin.pl",
+      "domains": "tuniv.szczecin.pl",
+      "web_page": "http://www.tuniv.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Wroclaw",
+      "slug": "technical-wroclaw",
+      "domain": "pwr.wroc.pl",
+      "domains": "pwr.wroc.pl, pwr.edu.pl",
+      "web_page": "http://www.pwr.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Zielona Gora",
+      "slug": "technical-zielona-gora",
+      "domain": "pz.zgora.pl",
+      "domains": "pz.zgora.pl",
+      "web_page": "http://www.pz.zgora.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bialystok",
+      "slug": "bialystok",
+      "domain": "ub.edu.pl",
+      "domains": "ub.edu.pl",
+      "web_page": "http://www.ub.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Economics and Humanities Warsaw",
+      "slug": "economics-humanities-warsaw",
+      "domain": "students.vizja.pl",
+      "domains": "students.vizja.pl",
+      "web_page": "https://vizja.pl",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Economics and Innovation Lublin",
+      "slug": "economics-innovation-lublin",
+      "domain": "wsei.lublin.pl",
+      "domains": "wsei.lublin.pl",
+      "web_page": "https://www.wsei.lublin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Finance and Management in Bialystok",
+      "slug": "finance-management-bialystok",
+      "domain": "wsfiz.edu.pl",
+      "domains": "wsfiz.edu.pl",
+      "web_page": "http://www.wsfiz.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Gdansk",
+      "slug": "gdansk",
+      "domain": "univ.gda.pl",
+      "domains": "univ.gda.pl",
+      "web_page": "http://www.univ.gda.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Information Technology and Management in Rzeszow",
+      "slug": "information-technology-management-rzeszow",
+      "domain": "wsiz.rzeszow.pl",
+      "domains": "wsiz.rzeszow.pl",
+      "web_page": "http://www.wsiz.rzeszow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Insurance and Banking in Warsaw",
+      "slug": "insurance-banking-warsaw",
+      "domain": "wsub.waw.pl",
+      "domains": "wsub.waw.pl",
+      "web_page": "http://www.wsub.waw.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Lodz",
+      "slug": "lodz",
+      "domain": "uni.lodz.pl",
+      "domains": "uni.lodz.pl",
+      "web_page": "http://www.uni.lodz.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Lower Silesia of the Association for the Advancement of Education in Wroclaw.",
+      "slug": "lower-silesia-association-advancement-education-wroclaw",
+      "domain": "dswe.wroc.pl",
+      "domains": "dswe.wroc.pl",
+      "web_page": "http://www.dswe.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Management and Marketing",
+      "slug": "management-marketing",
+      "domain": "wszim.edu.pl",
+      "domains": "wszim.edu.pl",
+      "web_page": "http://www.wszim.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Opole",
+      "slug": "opole",
+      "domain": "uni.opole.pl",
+      "domains": "uni.opole.pl",
+      "web_page": "http://www.uni.opole.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Silesia",
+      "slug": "silesia",
+      "domain": "us.edu.pl",
+      "domains": "us.edu.pl",
+      "web_page": "http://www.us.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Szczecin",
+      "slug": "szczecin",
+      "domain": "univ.szczecin.pl",
+      "domains": "univ.szczecin.pl",
+      "web_page": "http://www.univ.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Technology and Life Sciences",
+      "slug": "technology-life-sciences",
+      "domain": "utp.edu.pl",
+      "domains": "utp.edu.pl",
+      "web_page": "http://www.utp.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Wamia and Masuria in Olsztyn",
+      "slug": "wamia-masuria-olsztyn",
+      "domain": "uwm.edu.pl",
+      "domains": "uwm.edu.pl",
+      "web_page": "http://www.uwm.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Warsaw",
+      "slug": "warsaw",
+      "domain": "uw.edu.pl",
+      "domains": "uw.edu.pl",
+      "web_page": "http://www.uw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University of Wroclaw",
+      "slug": "wroclaw",
+      "domain": "uni.wroc.pl",
+      "domains": "uni.wroc.pl",
+      "web_page": "http://www.uni.wroc.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "University School of Physical Education",
+      "slug": "school-physical-education",
+      "domain": "awf.krakow.pl",
+      "domains": "awf.krakow.pl",
+      "web_page": "http://www.awf.krakow.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Uniwersytet SWPS",
+      "slug": "uniwersytet-swps",
+      "domain": "swps.pl",
+      "domains": "swps.pl",
+      "web_page": "https://swps.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Vistula University",
+      "slug": "vistula",
+      "domain": "vistula.edu.pl",
+      "domains": "vistula.edu.pl",
+      "web_page": "https://www.vistula.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Walcz College",
+      "slug": "walcz-college",
+      "domain": "pwsz.eu",
+      "domains": "pwsz.eu",
+      "web_page": "http://www.pwsz.eu/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Warsaw School of Economics",
+      "slug": "warsaw-school-economics",
+      "domain": "sgh.waw.pl",
+      "domains": "sgh.waw.pl",
+      "web_page": "http://www.sgh.waw.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Warsaw School of Information Technology",
+      "slug": "warsaw-school-information-technology",
+      "domain": "wsisiz.edu.pl",
+      "domains": "wsisiz.edu.pl",
+      "web_page": "http://www.wsisiz.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Warsaw School of Social Psychology",
+      "slug": "warsaw-school-social-psychology",
+      "domain": "swps.edu.pl",
+      "domains": "swps.edu.pl",
+      "web_page": "http://www.swps.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Warsaw University of Technology",
+      "slug": "warsaw-technology",
+      "domain": "pw.edu.pl",
+      "domains": "pw.edu.pl",
+      "web_page": "http://www.pw.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "West Pomeranian Business School in Szczecin",
+      "slug": "west-pomeranian-business-school-szczecin",
+      "domain": "zpsb.szczecin.pl",
+      "domains": "zpsb.szczecin.pl",
+      "web_page": "http://www.zpsb.szczecin.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Wroclaw Akademia Biznesu",
+      "slug": "wroclaw-akademia-biznesu",
+      "domain": "student.wab.edu.pl",
+      "domains": "student.wab.edu.pl, wab.edu.pl",
+      "web_page": "https://wab.edu.pl",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    },
+    {
+      "name": "Zachodniopomorska School of Science and Engineering",
+      "slug": "zachodniopomorska-school-science-engineering",
+      "domain": "zut.edu.pl",
+      "domains": "zut.edu.pl",
+      "web_page": "http://www.zut.edu.pl/",
+      "country": "Poland",
+      "country_code": "PL",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Polska — Uniwersytety i uczelnie wyższe - Bezpłatne pobieranie",
+    "description": "Lista uniwersytetów i instytucji szkolnictwa wyższego w Polsce. Każdy rekord zawiera nazwę instytucji (alfabet łaciński/angielski), główną zarejestrowaną domenę, pełną listę domen, główną stronę internetową, kod kraju (ISO-3166-1 alpha-2) oraz region (województwo) — jeśli jest dostępny w źródle. Wyodrębnione przez filtrowanie globalnego zbioru danych Hipo/university-domains-list (country == \"Poland\"). Zawiera 137 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — Uniwersytety i uczelnie wyższe | ListBase",
+    "seo_description": "Pobierz Polska — Uniwersytety i uczelnie wyższe — 137 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 137 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,1176 @@
+{
+  "id": "pl-wielkopolskie-cities",
+  "name": "Województwo wielkopolskie — miasta",
+  "title": "Województwo wielkopolskie — miasta",
+  "description": "Lista miast w województwie wielkopolskim (województwo wielkopolskie) — 111 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the wielkopolskie voivodeship — 111 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 111,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 855,
+      "name": "Bojanowo",
+      "slug": "bojanowo",
+      "name_locative": "Bojanowie",
+      "county_id": 287,
+      "county_name": "rawicki",
+      "latitude": 51.7075453,
+      "longitude": 16.7481308
+    },
+    {
+      "city_id": 787,
+      "name": "Borek Wielkopolski",
+      "slug": "borek-wielkopolski",
+      "name_locative": "Borku Wielkopolskim",
+      "county_id": 269,
+      "county_name": "gostyński",
+      "latitude": 51.916153,
+      "longitude": 17.2425955
+    },
+    {
+      "city_id": 775,
+      "name": "Budzyń",
+      "slug": "budzyn",
+      "name_locative": "Budzyniu",
+      "county_id": 266,
+      "county_name": "chodzieski",
+      "latitude": 52.2452769,
+      "longitude": 16.8387879
+    },
+    {
+      "city_id": 847,
+      "name": "Buk",
+      "slug": "buk",
+      "name_locative": "Buku",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.357408,
+      "longitude": 16.5166799
+    },
+    {
+      "city_id": 842,
+      "name": "Chocz",
+      "slug": "chocz",
+      "name_locative": "Choczu",
+      "county_id": 285,
+      "county_name": "pleszewski",
+      "latitude": 51.97514,
+      "longitude": 17.8707
+    },
+    {
+      "city_id": 774,
+      "name": "Chodzież",
+      "slug": "chodziez",
+      "name_locative": "Chodzieży",
+      "county_id": 266,
+      "county_name": "chodzieski",
+      "latitude": 52.99499775,
+      "longitude": 16.91992566
+    },
+    {
+      "city_id": 778,
+      "name": "Czarnków",
+      "slug": "czarnkow",
+      "name_locative": "Czarnkowie",
+      "county_id": 267,
+      "county_name": "czarnkowsko-trzcianecki",
+      "latitude": 52.90107245,
+      "longitude": 16.57258422
+    },
+    {
+      "city_id": 812,
+      "name": "Czempiń",
+      "slug": "czempin",
+      "name_locative": "Czempiniu",
+      "county_id": 276,
+      "county_name": "kościański",
+      "latitude": 52.1431479,
+      "longitude": 16.7613308
+    },
+    {
+      "city_id": 783,
+      "name": "Czerniejewo",
+      "slug": "czerniejewo",
+      "name_locative": "Czerniejewie",
+      "county_id": 268,
+      "county_name": "gnieźnieński",
+      "latitude": 52.4296119,
+      "longitude": 17.489398
+    },
+    {
+      "city_id": 871,
+      "name": "Dobra",
+      "slug": "dobra",
+      "name_locative": "Dobrej",
+      "county_id": 292,
+      "county_name": "turecki",
+      "latitude": 51.9160472,
+      "longitude": 18.6151806
+    },
+    {
+      "city_id": 843,
+      "name": "Dobrzyca",
+      "slug": "dobrzyca",
+      "name_locative": "Dobrzycy",
+      "county_id": 285,
+      "county_name": "pleszewski",
+      "latitude": 51.8668166,
+      "longitude": 17.6026387
+    },
+    {
+      "city_id": 867,
+      "name": "Dolsk",
+      "slug": "dolsk",
+      "name_locative": "Dolsku",
+      "county_id": 291,
+      "county_name": "śremski",
+      "latitude": 51.9866,
+      "longitude": 17.0653695
+    },
+    {
+      "city_id": 803,
+      "name": "Dąbie",
+      "slug": "dabie",
+      "name_locative": "Dąbiu",
+      "county_id": 274,
+      "county_name": "kolski",
+      "latitude": 52.0871691,
+      "longitude": 18.8220738
+    },
+    {
+      "city_id": 782,
+      "name": "Gniezno",
+      "slug": "gniezno",
+      "name_locative": "Gnieźnie",
+      "county_id": 268,
+      "county_name": "gnieźnieński",
+      "latitude": 52.52465015,
+      "longitude": 17.59815244
+    },
+    {
+      "city_id": 806,
+      "name": "Golina",
+      "slug": "golina",
+      "name_locative": "Golinie",
+      "county_id": 275,
+      "county_name": "koniński",
+      "latitude": 52.24276,
+      "longitude": 18.09534
+    },
+    {
+      "city_id": 788,
+      "name": "Gostyń",
+      "slug": "gostyn",
+      "name_locative": "Gostyniu",
+      "county_id": 269,
+      "county_name": "gostyński",
+      "latitude": 51.8778633,
+      "longitude": 17.0167637
+    },
+    {
+      "city_id": 874,
+      "name": "Gołańcz",
+      "slug": "golancz",
+      "name_locative": "Gołańczy",
+      "county_id": 293,
+      "county_name": "wągrowiecki",
+      "latitude": 52.9431644,
+      "longitude": 17.2999756
+    },
+    {
+      "city_id": 834,
+      "name": "Grabów nad Prosną",
+      "slug": "grabow-nad-prosna",
+      "name_locative": "Grabowie nad Prosną",
+      "county_id": 283,
+      "county_name": "ostrzeszowski",
+      "latitude": 51.5060515,
+      "longitude": 18.1188808
+    },
+    {
+      "city_id": 792,
+      "name": "Grodzisk Wielkopolski",
+      "slug": "grodzisk-wielkopolski",
+      "name_locative": "Grodzisku Wielkopolskim",
+      "county_id": 270,
+      "county_name": "grodziski",
+      "latitude": 52.2263198,
+      "longitude": 16.3628106
+    },
+    {
+      "city_id": 795,
+      "name": "Jaraczewo",
+      "slug": "jaraczewo",
+      "name_locative": "Jaraczewie",
+      "county_id": 271,
+      "county_name": "jarociński",
+      "latitude": 51.9689115,
+      "longitude": 17.2981142
+    },
+    {
+      "city_id": 796,
+      "name": "Jarocin",
+      "slug": "jarocin",
+      "name_locative": "Jarocinie",
+      "county_id": 271,
+      "county_name": "jarociński",
+      "latitude": 51.9738992,
+      "longitude": 17.5011225
+    },
+    {
+      "city_id": 882,
+      "name": "Jastrowie",
+      "slug": "jastrowie",
+      "name_locative": "Jastrowiu",
+      "county_id": 296,
+      "county_name": "złotowski",
+      "latitude": 53.4205494,
+      "longitude": 16.8150156
+    },
+    {
+      "city_id": 856,
+      "name": "Jutrosin",
+      "slug": "jutrosin",
+      "name_locative": "Jutrosinie",
+      "county_id": 287,
+      "county_name": "rawicki",
+      "latitude": 51.6536197,
+      "longitude": 17.1689896
+    },
+    {
+      "city_id": 807,
+      "name": "Kleczew",
+      "slug": "kleczew",
+      "name_locative": "Kleczewie",
+      "county_id": 275,
+      "county_name": "koniński",
+      "latitude": 52.3707265,
+      "longitude": 18.1779886
+    },
+    {
+      "city_id": 816,
+      "name": "Kobylin",
+      "slug": "kobylin",
+      "name_locative": "Kobylinie",
+      "county_id": 277,
+      "county_name": "krotoszyński",
+      "latitude": 51.7163621,
+      "longitude": 17.2247584
+    },
+    {
+      "city_id": 848,
+      "name": "Kostrzyn",
+      "slug": "kostrzyn",
+      "name_locative": "Kostrzynie",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.3932322,
+      "longitude": 17.2246954
+    },
+    {
+      "city_id": 802,
+      "name": "Koło",
+      "slug": "kolo",
+      "name_locative": "Kole",
+      "county_id": 274,
+      "county_name": "kolski",
+      "latitude": 52.2019866,
+      "longitude": 18.6359912
+    },
+    {
+      "city_id": 811,
+      "name": "Kościan",
+      "slug": "koscian",
+      "name_locative": "Kościanie",
+      "county_id": 276,
+      "county_name": "kościański",
+      "latitude": 52.08336945,
+      "longitude": 16.64608883
+    },
+    {
+      "city_id": 817,
+      "name": "Koźmin Wielkopolski",
+      "slug": "kozmin-wielkopolski",
+      "name_locative": "Koźminie Wielkopolskim",
+      "county_id": 277,
+      "county_name": "krotoszyński",
+      "latitude": 51.8256567,
+      "longitude": 17.4528473
+    },
+    {
+      "city_id": 798,
+      "name": "Koźminek",
+      "slug": "kozminek",
+      "name_locative": "Koźminku",
+      "county_id": 272,
+      "county_name": "kaliski",
+      "latitude": 51.798301,
+      "longitude": 18.3383583
+    },
+    {
+      "city_id": 883,
+      "name": "Krajenka",
+      "slug": "krajenka",
+      "name_locative": "Krajence",
+      "county_id": 296,
+      "county_name": "złotowski",
+      "latitude": 53.2970851,
+      "longitude": 16.9909514
+    },
+    {
+      "city_id": 789,
+      "name": "Krobia",
+      "slug": "krobia",
+      "name_locative": "Krobi",
+      "county_id": 269,
+      "county_name": "gostyński",
+      "latitude": 51.7741006,
+      "longitude": 16.9845547
+    },
+    {
+      "city_id": 818,
+      "name": "Krotoszyn",
+      "slug": "krotoszyn",
+      "name_locative": "Krotoszynie",
+      "county_id": 277,
+      "county_name": "krotoszyński",
+      "latitude": 51.695926,
+      "longitude": 17.4374158
+    },
+    {
+      "city_id": 813,
+      "name": "Krzywiń",
+      "slug": "krzywin",
+      "name_locative": "Krzywiniu",
+      "county_id": 276,
+      "county_name": "kościański",
+      "latitude": 51.962928,
+      "longitude": 16.819295
+    },
+    {
+      "city_id": 779,
+      "name": "Krzyż Wielkopolski",
+      "slug": "krzyz-wielkopolski",
+      "name_locative": "Krzyżu Wielkopolskim",
+      "county_id": 267,
+      "county_name": "czarnkowsko-trzcianecki",
+      "latitude": 52.8796439,
+      "longitude": 16.0141705
+    },
+    {
+      "city_id": 868,
+      "name": "Książ Wielkopolski",
+      "slug": "ksiaz-wielkopolski",
+      "name_locative": "Książu Wielkopolskim",
+      "county_id": 291,
+      "county_name": "śremski",
+      "latitude": 52.0623513,
+      "longitude": 17.2395591
+    },
+    {
+      "city_id": 849,
+      "name": "Kórnik",
+      "slug": "kornik",
+      "name_locative": "Kórniku",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.2492751,
+      "longitude": 17.0901242
+    },
+    {
+      "city_id": 801,
+      "name": "Kępno",
+      "slug": "kepno",
+      "name_locative": "Kępnie",
+      "county_id": 273,
+      "county_name": "kępiński",
+      "latitude": 51.2790265,
+      "longitude": 17.9866632
+    },
+    {
+      "city_id": 784,
+      "name": "Kłecko",
+      "slug": "klecko",
+      "name_locative": "Kłecku",
+      "county_id": 268,
+      "county_name": "gnieźnieński",
+      "latitude": 52.6324247,
+      "longitude": 17.4282911
+    },
+    {
+      "city_id": 804,
+      "name": "Kłodawa",
+      "slug": "klodawa",
+      "name_locative": "Kłodawie",
+      "county_id": 274,
+      "county_name": "kolski",
+      "latitude": 52.2574519,
+      "longitude": 18.911206
+    },
+    {
+      "city_id": 845,
+      "name": "Luboń",
+      "slug": "lubon",
+      "name_locative": "Luboniu",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.3366888,
+      "longitude": 16.87184661
+    },
+    {
+      "city_id": 824,
+      "name": "Lwówek",
+      "slug": "lwowek",
+      "name_locative": "Lwówku",
+      "county_id": 280,
+      "county_name": "nowotomyski",
+      "latitude": 52.4489307,
+      "longitude": 16.1803554
+    },
+    {
+      "city_id": 776,
+      "name": "Margonin",
+      "slug": "margonin",
+      "name_locative": "Margoninie",
+      "county_id": 266,
+      "county_name": "chodzieski",
+      "latitude": 52.9732912,
+      "longitude": 17.0948899
+    },
+    {
+      "city_id": 857,
+      "name": "Miejska Górka",
+      "slug": "miejska-gorka",
+      "name_locative": "Miejskiej Górce",
+      "county_id": 287,
+      "county_name": "rawicki",
+      "latitude": 51.6552093,
+      "longitude": 16.9561451
+    },
+    {
+      "city_id": 835,
+      "name": "Mikstat",
+      "slug": "mikstat",
+      "name_locative": "Mikstacie",
+      "county_id": 283,
+      "county_name": "ostrzeszowski",
+      "latitude": 51.5315251,
+      "longitude": 17.9710681
+    },
+    {
+      "city_id": 822,
+      "name": "Międzychód",
+      "slug": "miedzychod",
+      "name_locative": "Międzychodzie",
+      "county_id": 279,
+      "county_name": "międzychodzki",
+      "latitude": 52.6046468,
+      "longitude": 15.8935386
+    },
+    {
+      "city_id": 877,
+      "name": "Miłosław",
+      "slug": "miloslaw",
+      "name_locative": "Miłosławiu",
+      "county_id": 295,
+      "county_name": "wrzesiński",
+      "latitude": 52.2023105,
+      "longitude": 17.4892236
+    },
+    {
+      "city_id": 850,
+      "name": "Mosina",
+      "slug": "mosina",
+      "name_locative": "Mosinie",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.2455834,
+      "longitude": 16.8472591
+    },
+    {
+      "city_id": 851,
+      "name": "Murowana Goślina",
+      "slug": "murowana-goslina",
+      "name_locative": "Murowanej Goślinie",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.5758465,
+      "longitude": 17.0097914
+    },
+    {
+      "city_id": 878,
+      "name": "Nekla",
+      "slug": "nekla",
+      "name_locative": "Nekli",
+      "county_id": 295,
+      "county_name": "wrzesiński",
+      "latitude": 52.3656249,
+      "longitude": 17.4144598
+    },
+    {
+      "city_id": 831,
+      "name": "Nowe Skalmierzyce",
+      "slug": "nowe-skalmierzyce",
+      "name_locative": "Nowych Skalmierzycach",
+      "county_id": 282,
+      "county_name": "ostrowski",
+      "latitude": 51.7109127,
+      "longitude": 17.9943345
+    },
+    {
+      "city_id": 825,
+      "name": "Nowy Tomyśl",
+      "slug": "nowy-tomysl",
+      "name_locative": "Nowym Tomyślu",
+      "county_id": 280,
+      "county_name": "nowotomyski",
+      "latitude": 52.3177643,
+      "longitude": 16.1291553
+    },
+    {
+      "city_id": 828,
+      "name": "Oborniki",
+      "slug": "oborniki",
+      "name_locative": "Obornikach",
+      "county_id": 281,
+      "county_name": "obornicki",
+      "latitude": 52.6455252,
+      "longitude": 16.8099756
+    },
+    {
+      "city_id": 861,
+      "name": "Obrzycko",
+      "slug": "obrzycko",
+      "name_locative": "Obrzycku",
+      "county_id": 289,
+      "county_name": "szamotulski",
+      "latitude": 52.70200015,
+      "longitude": 16.53010481
+    },
+    {
+      "city_id": 832,
+      "name": "Odolanów",
+      "slug": "odolanow",
+      "name_locative": "Odolanowie",
+      "county_id": 282,
+      "county_name": "ostrowski",
+      "latitude": 51.5742177,
+      "longitude": 17.673514
+    },
+    {
+      "city_id": 884,
+      "name": "Okonek",
+      "slug": "okonek",
+      "name_locative": "Okonku",
+      "county_id": 296,
+      "county_name": "złotowski",
+      "latitude": 53.5347646,
+      "longitude": 16.8516192
+    },
+    {
+      "city_id": 826,
+      "name": "Opalenica",
+      "slug": "opalenica",
+      "name_locative": "Opalenicy",
+      "county_id": 280,
+      "county_name": "nowotomyski",
+      "latitude": 52.3088119,
+      "longitude": 16.4124256
+    },
+    {
+      "city_id": 799,
+      "name": "Opatówek",
+      "slug": "opatowek",
+      "name_locative": "Opatówku",
+      "county_id": 272,
+      "county_name": "kaliski",
+      "latitude": 51.7394437,
+      "longitude": 18.2137254
+    },
+    {
+      "city_id": 820,
+      "name": "Osieczna",
+      "slug": "osieczna",
+      "name_locative": "Osiecznej 1)Osiecznie 2)",
+      "county_id": 278,
+      "county_name": "leszczyński",
+      "latitude": 51.9033938,
+      "longitude": 16.6762108
+    },
+    {
+      "city_id": 862,
+      "name": "Ostroróg",
+      "slug": "ostrorog",
+      "name_locative": "Ostrorogu",
+      "county_id": 289,
+      "county_name": "szamotulski",
+      "latitude": 52.6261122,
+      "longitude": 16.45406
+    },
+    {
+      "city_id": 836,
+      "name": "Ostrzeszów",
+      "slug": "ostrzeszow",
+      "name_locative": "Ostrzeszowie",
+      "county_id": 283,
+      "county_name": "ostrzeszowski",
+      "latitude": 51.4257664,
+      "longitude": 17.9331788
+    },
+    {
+      "city_id": 830,
+      "name": "Ostrów Wielkopolski",
+      "slug": "ostrow-wielkopolski",
+      "name_locative": "Ostrowie Wielkopolskim",
+      "county_id": 282,
+      "county_name": "ostrowski",
+      "latitude": 51.6471864,
+      "longitude": 17.8037607
+    },
+    {
+      "city_id": 837,
+      "name": "Piła",
+      "slug": "pila",
+      "name_locative": "Pile",
+      "county_id": 284,
+      "county_name": "pilski",
+      "latitude": 53.1511324,
+      "longitude": 16.7380343
+    },
+    {
+      "city_id": 844,
+      "name": "Pleszew",
+      "slug": "pleszew",
+      "name_locative": "Pleszewie",
+      "county_id": 285,
+      "county_name": "pleszewski",
+      "latitude": 51.8960985,
+      "longitude": 17.7865673
+    },
+    {
+      "city_id": 863,
+      "name": "Pniewy",
+      "slug": "pniewy",
+      "name_locative": "Pniewach",
+      "county_id": 289,
+      "county_name": "szamotulski",
+      "latitude": 52.5089624,
+      "longitude": 16.2566411
+    },
+    {
+      "city_id": 852,
+      "name": "Pobiedziska",
+      "slug": "pobiedziska",
+      "name_locative": "Pobiedziskach",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.4773387,
+      "longitude": 17.2870352
+    },
+    {
+      "city_id": 790,
+      "name": "Pogorzela",
+      "slug": "pogorzela",
+      "name_locative": "Pogorzeli",
+      "county_id": 269,
+      "county_name": "gostyński",
+      "latitude": 51.8224142,
+      "longitude": 17.2310362
+    },
+    {
+      "city_id": 791,
+      "name": "Poniec",
+      "slug": "poniec",
+      "name_locative": "Poniecu",
+      "county_id": 269,
+      "county_name": "gostyński",
+      "latitude": 51.7650386,
+      "longitude": 16.8059899
+    },
+    {
+      "city_id": 805,
+      "name": "Przedecz",
+      "slug": "przedecz",
+      "name_locative": "Przedczu",
+      "county_id": 274,
+      "county_name": "kolski",
+      "latitude": 52.3341735,
+      "longitude": 18.8985119
+    },
+    {
+      "city_id": 846,
+      "name": "Puszczykowo",
+      "slug": "puszczykowo",
+      "name_locative": "Puszczykowie",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.27729765,
+      "longitude": 16.8559429
+    },
+    {
+      "city_id": 879,
+      "name": "Pyzdry",
+      "slug": "pyzdry",
+      "name_locative": "Pyzdrach",
+      "county_id": 295,
+      "county_name": "wrzesiński",
+      "latitude": 52.1694332,
+      "longitude": 17.687134
+    },
+    {
+      "city_id": 793,
+      "name": "Rakoniewice",
+      "slug": "rakoniewice",
+      "name_locative": "Rakoniewicach",
+      "county_id": 270,
+      "county_name": "grodziski",
+      "latitude": 52.1393485,
+      "longitude": 16.2738532
+    },
+    {
+      "city_id": 833,
+      "name": "Raszków",
+      "slug": "raszkow",
+      "name_locative": "Raszkowie",
+      "county_id": 282,
+      "county_name": "ostrowski",
+      "latitude": 51.7182066,
+      "longitude": 17.7277057
+    },
+    {
+      "city_id": 858,
+      "name": "Rawicz",
+      "slug": "rawicz",
+      "name_locative": "Rawiczu",
+      "county_id": 287,
+      "county_name": "rawicki",
+      "latitude": 51.6101629,
+      "longitude": 16.8583657
+    },
+    {
+      "city_id": 829,
+      "name": "Rogoźno",
+      "slug": "rogozno",
+      "name_locative": "Rogoźnie",
+      "county_id": 281,
+      "county_name": "obornicki",
+      "latitude": 52.7523023,
+      "longitude": 16.9936288
+    },
+    {
+      "city_id": 808,
+      "name": "Rychwał",
+      "slug": "rychwal",
+      "name_locative": "Rychwale",
+      "county_id": 275,
+      "county_name": "koniński",
+      "latitude": 52.0706234,
+      "longitude": 18.1668295
+    },
+    {
+      "city_id": 821,
+      "name": "Rydzyna",
+      "slug": "rydzyna",
+      "name_locative": "Rydzynie",
+      "county_id": 278,
+      "county_name": "leszczyński",
+      "latitude": 51.7863742,
+      "longitude": 16.6673223
+    },
+    {
+      "city_id": 823,
+      "name": "Sieraków",
+      "slug": "sierakow",
+      "name_locative": "Sierakowie",
+      "county_id": 279,
+      "county_name": "międzychodzki",
+      "latitude": 52.6517159,
+      "longitude": 16.0808316
+    },
+    {
+      "city_id": 875,
+      "name": "Skoki",
+      "slug": "skoki",
+      "name_locative": "Skokach",
+      "county_id": 293,
+      "county_name": "wągrowiecki",
+      "latitude": 52.6725926,
+      "longitude": 17.1531343
+    },
+    {
+      "city_id": 809,
+      "name": "Sompolno",
+      "slug": "sompolno",
+      "name_locative": "Sompolnie",
+      "county_id": 275,
+      "county_name": "koniński",
+      "latitude": 52.3884355,
+      "longitude": 18.5030075
+    },
+    {
+      "city_id": 800,
+      "name": "Stawiszyn",
+      "slug": "stawiszyn",
+      "name_locative": "Stawiszynie",
+      "county_id": 272,
+      "county_name": "kaliski",
+      "latitude": 51.9182364,
+      "longitude": 18.1115413
+    },
+    {
+      "city_id": 853,
+      "name": "Stęszew",
+      "slug": "steszew",
+      "name_locative": "Stęszewie",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.2793539,
+      "longitude": 16.6999331
+    },
+    {
+      "city_id": 815,
+      "name": "Sulmierzyce",
+      "slug": "sulmierzyce",
+      "name_locative": "Sulmierzycach",
+      "county_id": 277,
+      "county_name": "krotoszyński",
+      "latitude": 51.61613,
+      "longitude": 17.53450078
+    },
+    {
+      "city_id": 854,
+      "name": "Swarzędz",
+      "slug": "swarzedz",
+      "name_locative": "Swarzędzu",
+      "county_id": 286,
+      "county_name": "poznański",
+      "latitude": 52.4103728,
+      "longitude": 17.0771038
+    },
+    {
+      "city_id": 777,
+      "name": "Szamocin",
+      "slug": "szamocin",
+      "name_locative": "Szamocinie",
+      "county_id": 266,
+      "county_name": "chodzieski",
+      "latitude": 53.0294857,
+      "longitude": 17.1232969
+    },
+    {
+      "city_id": 864,
+      "name": "Szamotuły",
+      "slug": "szamotuly",
+      "name_locative": "Szamotułach",
+      "county_id": 289,
+      "county_name": "szamotulski",
+      "latitude": 52.6120328,
+      "longitude": 16.5831241
+    },
+    {
+      "city_id": 859,
+      "name": "Słupca",
+      "slug": "slupca",
+      "name_locative": "Słupcy",
+      "county_id": 288,
+      "county_name": "słupecki",
+      "latitude": 52.29070125,
+      "longitude": 17.87164474
+    },
+    {
+      "city_id": 780,
+      "name": "Trzcianka",
+      "slug": "trzcianka",
+      "name_locative": "Trzciance",
+      "county_id": 267,
+      "county_name": "czarnkowsko-trzcianecki",
+      "latitude": 53.0417582,
+      "longitude": 16.4610993
+    },
+    {
+      "city_id": 785,
+      "name": "Trzemeszno",
+      "slug": "trzemeszno",
+      "name_locative": "Trzemesznie",
+      "county_id": 268,
+      "county_name": "gnieźnieński",
+      "latitude": 52.5600669,
+      "longitude": 17.8208936
+    },
+    {
+      "city_id": 872,
+      "name": "Tuliszków",
+      "slug": "tuliszkow",
+      "name_locative": "Tuliszkowie",
+      "county_id": 292,
+      "county_name": "turecki",
+      "latitude": 52.0770973,
+      "longitude": 18.294932
+    },
+    {
+      "city_id": 870,
+      "name": "Turek",
+      "slug": "turek",
+      "name_locative": "Turku",
+      "county_id": 292,
+      "county_name": "turecki",
+      "latitude": 52.0162022,
+      "longitude": 18.51144095
+    },
+    {
+      "city_id": 839,
+      "name": "Ujście",
+      "slug": "ujscie",
+      "name_locative": "Ujściu",
+      "county_id": 284,
+      "county_name": "pilski",
+      "latitude": 53.0531546,
+      "longitude": 16.7324266
+    },
+    {
+      "city_id": 781,
+      "name": "Wieleń",
+      "slug": "wielen",
+      "name_locative": "Wieleniu",
+      "county_id": 267,
+      "county_name": "czarnkowsko-trzcianecki",
+      "latitude": 52.8943347,
+      "longitude": 16.1712847
+    },
+    {
+      "city_id": 794,
+      "name": "Wielichowo",
+      "slug": "wielichowo",
+      "name_locative": "Wielichowie",
+      "county_id": 270,
+      "county_name": "grodziski",
+      "latitude": 52.1182673,
+      "longitude": 16.3521384
+    },
+    {
+      "city_id": 786,
+      "name": "Witkowo",
+      "slug": "witkowo",
+      "name_locative": "Witkowie",
+      "county_id": 268,
+      "county_name": "gnieźnieński",
+      "latitude": 52.4395881,
+      "longitude": 17.7725138
+    },
+    {
+      "city_id": 876,
+      "name": "Wolsztyn",
+      "slug": "wolsztyn",
+      "name_locative": "Wolsztynie",
+      "county_id": 294,
+      "county_name": "wolsztyński",
+      "latitude": 52.11725,
+      "longitude": 16.1126622
+    },
+    {
+      "city_id": 865,
+      "name": "Wronki",
+      "slug": "wronki",
+      "name_locative": "Wronkach",
+      "county_id": 289,
+      "county_name": "szamotulski",
+      "latitude": 52.7101225,
+      "longitude": 16.3742272
+    },
+    {
+      "city_id": 880,
+      "name": "Września",
+      "slug": "wrzesnia",
+      "name_locative": "Wrześni",
+      "county_id": 295,
+      "county_name": "wrzesiński",
+      "latitude": 52.3250694,
+      "longitude": 17.5652282
+    },
+    {
+      "city_id": 840,
+      "name": "Wyrzysk",
+      "slug": "wyrzysk",
+      "name_locative": "Wyrzysku",
+      "county_id": 284,
+      "county_name": "pilski",
+      "latitude": 53.1569822,
+      "longitude": 17.2627004
+    },
+    {
+      "city_id": 841,
+      "name": "Wysoka",
+      "slug": "wysoka",
+      "name_locative": "Wysokiej",
+      "county_id": 284,
+      "county_name": "pilski",
+      "latitude": 53.1829333,
+      "longitude": 17.0797137
+    },
+    {
+      "city_id": 873,
+      "name": "Wągrowiec",
+      "slug": "wagrowiec",
+      "name_locative": "Wągrowcu",
+      "county_id": 293,
+      "county_name": "wągrowiecki",
+      "latitude": 52.81220655,
+      "longitude": 17.20191349
+    },
+    {
+      "city_id": 860,
+      "name": "Zagórów",
+      "slug": "zagorow",
+      "name_locative": "Zagórowie",
+      "county_id": 288,
+      "county_name": "słupecki",
+      "latitude": 52.16899,
+      "longitude": 17.90016
+    },
+    {
+      "city_id": 827,
+      "name": "Zbąszyń",
+      "slug": "zbaszyn",
+      "name_locative": "Zbąszyniu",
+      "county_id": 280,
+      "county_name": "nowotomyski",
+      "latitude": 52.2501028,
+      "longitude": 15.9209286
+    },
+    {
+      "city_id": 819,
+      "name": "Zduny",
+      "slug": "zduny",
+      "name_locative": "Zdunach",
+      "county_id": 277,
+      "county_name": "krotoszyński",
+      "latitude": 51.6463268,
+      "longitude": 17.377617
+    },
+    {
+      "city_id": 881,
+      "name": "Złotów",
+      "slug": "zlotow",
+      "name_locative": "Złotowie",
+      "county_id": 296,
+      "county_name": "złotowski",
+      "latitude": 53.3591987,
+      "longitude": 17.04381599
+    },
+    {
+      "city_id": 838,
+      "name": "Łobżenica",
+      "slug": "lobzenica",
+      "name_locative": "Łobżenicy",
+      "county_id": 284,
+      "county_name": "pilski",
+      "latitude": 53.2602878,
+      "longitude": 17.2548401
+    },
+    {
+      "city_id": 810,
+      "name": "Ślesin",
+      "slug": "slesin",
+      "name_locative": "Ślesinie",
+      "county_id": 275,
+      "county_name": "koniński",
+      "latitude": 52.37082,
+      "longitude": 18.30593
+    },
+    {
+      "city_id": 814,
+      "name": "Śmigiel",
+      "slug": "smigiel",
+      "name_locative": "Śmiglu",
+      "county_id": 276,
+      "county_name": "kościański",
+      "latitude": 52.012744,
+      "longitude": 16.5271118
+    },
+    {
+      "city_id": 869,
+      "name": "Śrem",
+      "slug": "srem",
+      "name_locative": "Śremie",
+      "county_id": 291,
+      "county_name": "śremski",
+      "latitude": 52.0893322,
+      "longitude": 17.0156809
+    },
+    {
+      "city_id": 866,
+      "name": "Środa Wielkopolska",
+      "slug": "sroda-wielkopolska",
+      "name_locative": "Środzie Wielkopolskiej",
+      "county_id": 290,
+      "county_name": "średzki",
+      "latitude": 52.2284266,
+      "longitude": 17.277827
+    },
+    {
+      "city_id": 797,
+      "name": "Żerków",
+      "slug": "zerkow",
+      "name_locative": "Żerkowie",
+      "county_id": 271,
+      "county_name": "jarociński",
+      "latitude": 52.0687117,
+      "longitude": 17.5633599
+    }
+  ],
+  "meta": {
+    "title": "Województwo wielkopolskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie wielkopolskim (województwo wielkopolskie) — 111 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the wielkopolskie voivodeship — 111 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 111 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo wielkopolskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo wielkopolskie — miasta — 111 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 111 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

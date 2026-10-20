@@ -1,0 +1,457 @@
+{
+  "id": "pl-jednostki-miary-volume",
+  "name": "Jednostki miary — kategoria 'volume' (44)",
+  "title": "Jednostki miary — kategoria 'volume' (44)",
+  "description": "Jednostki miary kategorii 'volume' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategoria": "volume",
+      "nazwa": "akrostopy",
+      "skrot": "akrostopy",
+      "forma_waska": "akrostopy",
+      "wzorzec": "{0} akrostopy"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategoria": "volume",
+      "nazwa": "baryłki",
+      "skrot": "baryłki",
+      "forma_waska": "bbl",
+      "wzorzec": "{0} baryłki"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategoria": "volume",
+      "nazwa": "buszle",
+      "skrot": "bu",
+      "forma_waska": "bu",
+      "wzorzec": "{0} buszla"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategoria": "volume",
+      "nazwa": "centylitry",
+      "skrot": "cl",
+      "forma_waska": "cl",
+      "wzorzec": "{0} centylitra"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategoria": "volume",
+      "nazwa": "centymetry sześcienne",
+      "skrot": "cm³",
+      "forma_waska": "cm³",
+      "wzorzec": "{0} centymetra sześciennego"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategoria": "volume",
+      "nazwa": "stopy sześcienne",
+      "skrot": "stopy sześc.",
+      "forma_waska": "ft³",
+      "wzorzec": "{0} stopy sześciennej"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategoria": "volume",
+      "nazwa": "cale sześcienne",
+      "skrot": "cale sześc.",
+      "forma_waska": "in³",
+      "wzorzec": "{0} cala sześciennego"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategoria": "volume",
+      "nazwa": "kilometry sześcienne",
+      "skrot": "km³",
+      "forma_waska": "km³",
+      "wzorzec": "{0} kilometra sześciennego"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategoria": "volume",
+      "nazwa": "metry sześcienne",
+      "skrot": "m³",
+      "forma_waska": "m³",
+      "wzorzec": "{0} metra sześciennego"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategoria": "volume",
+      "nazwa": "mile sześcienne",
+      "skrot": "mile sześc.",
+      "forma_waska": "mi³",
+      "wzorzec": "{0} mili sześciennej"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategoria": "volume",
+      "nazwa": "jardy sześcienne",
+      "skrot": "jardy sześc.",
+      "forma_waska": "yd³",
+      "wzorzec": "{0} jarda sześciennego"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategoria": "volume",
+      "nazwa": "ćwierćkwarty amerykańske",
+      "skrot": "ćwierćkwarty am.",
+      "forma_waska": "ćwierćkwarty am.",
+      "wzorzec": "{0} ćwierćkwarty amerykańskiej"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategoria": "volume",
+      "nazwa": "cup Imp.",
+      "skrot": "cup Imp.",
+      "forma_waska": "cup Imp.",
+      "wzorzec": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategoria": "volume",
+      "nazwa": "cup [JP]",
+      "skrot": "cup [JP]",
+      "forma_waska": "cup [JP]",
+      "wzorzec": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategoria": "volume",
+      "nazwa": "ćwierćkwarty metryczne",
+      "skrot": "ćwierćkwarty metr.",
+      "forma_waska": "ćwierćkwarty metr.",
+      "wzorzec": "{0} ćwierćkwarty metrycznej"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategoria": "volume",
+      "nazwa": "decylitry",
+      "skrot": "dl",
+      "forma_waska": "dl",
+      "wzorzec": "{0} decylitra"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategoria": "volume",
+      "nazwa": "łyżki deserowe",
+      "skrot": "ł. deser.",
+      "forma_waska": "ł. deser.",
+      "wzorzec": "{0} łyżki deserowej"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoria": "volume",
+      "nazwa": "imperialna łyżeczka deserowa",
+      "skrot": "ł. deser. ang.",
+      "forma_waska": "ł. deser. ang.",
+      "wzorzec": "{0} imperialnej łyżeczki deserowej"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategoria": "volume",
+      "nazwa": "drachmy płynu",
+      "skrot": "drachmy",
+      "forma_waska": "drachmy",
+      "wzorzec": "{0} drachmy płynu"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategoria": "volume",
+      "nazwa": "krople",
+      "skrot": "krople",
+      "forma_waska": "krople",
+      "wzorzec": "{0} kropli"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategoria": "volume",
+      "nazwa": "uncje płynu amerykańskie",
+      "skrot": "fl oz am.",
+      "forma_waska": "fl oz am.",
+      "wzorzec": "{0} uncji płynu amerykańskiej"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoria": "volume",
+      "nazwa": "uncje płynu angielskie",
+      "skrot": "fl oz ang.",
+      "forma_waska": "fl oz ang.",
+      "wzorzec": "{0} uncji płynu angielskiej"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategoria": "volume",
+      "nazwa": "fl oz m.",
+      "skrot": "fl oz m.",
+      "forma_waska": "fl oz m.",
+      "wzorzec": "{0} fl oz m."
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategoria": "volume",
+      "nazwa": "galony amerykańskie",
+      "skrot": "gal am.",
+      "forma_waska": "gal am.",
+      "wzorzec": "{0} galona amerykańskiego"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategoria": "volume",
+      "nazwa": "galony angielskie",
+      "skrot": "gal ang.",
+      "forma_waska": "gal ang.",
+      "wzorzec": "{0} galona angielskiego"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategoria": "volume",
+      "nazwa": "hektolitry",
+      "skrot": "hl",
+      "forma_waska": "hl",
+      "wzorzec": "{0} hektolitra"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategoria": "volume",
+      "nazwa": "jiggery",
+      "skrot": "jiggery",
+      "forma_waska": "jiggery",
+      "wzorzec": "{0} jiggera"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategoria": "volume",
+      "nazwa": "koku [JP]",
+      "skrot": "koku [JP]",
+      "forma_waska": "koku [JP]",
+      "wzorzec": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategoria": "volume",
+      "nazwa": "kosaji [JP]",
+      "skrot": "kosaji [JP]",
+      "forma_waska": "kosaji [JP]",
+      "wzorzec": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategoria": "volume",
+      "nazwa": "litry",
+      "skrot": "litry",
+      "forma_waska": "l",
+      "wzorzec": "{0} litra"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategoria": "volume",
+      "nazwa": "megalitry",
+      "skrot": "Ml",
+      "forma_waska": "Ml",
+      "wzorzec": "{0} megalitra"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategoria": "volume",
+      "nazwa": "mililitry",
+      "skrot": "ml",
+      "forma_waska": "ml",
+      "wzorzec": "{0} mililitra"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategoria": "volume",
+      "nazwa": "osaji [JP]",
+      "skrot": "osaji [JP]",
+      "forma_waska": "osaji [JP]",
+      "wzorzec": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategoria": "volume",
+      "nazwa": "szczypty",
+      "skrot": "szcz.",
+      "forma_waska": "szcz.",
+      "wzorzec": "{0} szczypty"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategoria": "volume",
+      "nazwa": "półkwarty amerykańskie",
+      "skrot": "półkwarty am.",
+      "forma_waska": "półkwarty am.",
+      "wzorzec": "{0} półkwarty amerykańskiej"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategoria": "volume",
+      "nazwa": "pint Imp.",
+      "skrot": "pint Imp.",
+      "forma_waska": "pint Imp.",
+      "wzorzec": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategoria": "volume",
+      "nazwa": "półkwarty metryczne",
+      "skrot": "półkwarty metr.",
+      "forma_waska": "półkwarty metr.",
+      "wzorzec": "{0} półkwarty metrycznej"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategoria": "volume",
+      "nazwa": "kwarty amerykańskie",
+      "skrot": "kwarty am.",
+      "forma_waska": "kwarty am.",
+      "wzorzec": "{0} kwarty amerykańskiej"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategoria": "volume",
+      "nazwa": "kwarty angielskie",
+      "skrot": "kwarty ang.",
+      "forma_waska": "kwarty ang.",
+      "wzorzec": "{0} kwarty angielskiej"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategoria": "volume",
+      "nazwa": "sai [JP]",
+      "skrot": "sai [JP]",
+      "forma_waska": "sai [JP]",
+      "wzorzec": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategoria": "volume",
+      "nazwa": "shaku [vol, JP]",
+      "skrot": "shaku [vol, JP]",
+      "forma_waska": "shaku [vol, JP]",
+      "wzorzec": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategoria": "volume",
+      "nazwa": "łyżki stołowe",
+      "skrot": "ł. stoł.",
+      "forma_waska": "ł. stoł.",
+      "wzorzec": "{0} łyżki stołowej"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategoria": "volume",
+      "nazwa": "łyżeczki",
+      "skrot": "łyżeczki",
+      "forma_waska": "łyżeczki",
+      "wzorzec": "{0} łyżeczki"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategoria": "volume",
+      "nazwa": "to [JP]",
+      "skrot": "to [JP]",
+      "forma_waska": "to [JP]",
+      "wzorzec": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'volume' (44) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'volume' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 44 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'volume' (44) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'volume' (44) — 44 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 44 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

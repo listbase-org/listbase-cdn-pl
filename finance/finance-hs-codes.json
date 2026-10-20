@@ -1,0 +1,749 @@
+{
+  "id": "finance-hs-codes",
+  "name": "Zbiór Danych Rozdziałów Kodów HS (System Zharmonizowany)",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Zwierzęta żywe",
+      "section": "I",
+      "section_name": "Zwierzęta żywe; Produkty pochodzenia zwierzęcego",
+      "examples": "Konie, bydło, owce, drób"
+    },
+    {
+      "chapter": "02",
+      "name": "Mięso i jadalne podroby",
+      "section": "I",
+      "section_name": "Zwierzęta żywe; Produkty pochodzenia zwierzęcego",
+      "examples": "Wołowina, wieprzowina, jagnięcina, mięso drobiowe"
+    },
+    {
+      "chapter": "03",
+      "name": "Ryby i skorupiaki",
+      "section": "I",
+      "section_name": "Zwierzęta żywe; Produkty pochodzenia zwierzęcego",
+      "examples": "Ryby, krewetki, homary, kalmary"
+    },
+    {
+      "chapter": "04",
+      "name": "Produkty mleczne; jaja; miód",
+      "section": "I",
+      "section_name": "Zwierzęta żywe; Produkty pochodzenia zwierzęcego",
+      "examples": "Mleko, ser, jaja, miód"
+    },
+    {
+      "chapter": "05",
+      "name": "Produkty pochodzenia zwierzęcego gdzie indziej niewymienione ani niewłączone",
+      "section": "I",
+      "section_name": "Zwierzęta żywe; Produkty pochodzenia zwierzęcego",
+      "examples": "Kości, rogi, kość słoniowa, pióra"
+    },
+    {
+      "chapter": "06",
+      "name": "Drzewa żywe i pozostałe rośliny żywe",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Rośliny, cebulki, kwiaty cięte"
+    },
+    {
+      "chapter": "07",
+      "name": "Warzywa jadalne",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Ziemniaki, pomidory, cebula"
+    },
+    {
+      "chapter": "08",
+      "name": "Owoce i orzechy jadalne",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Jabłka, pomarańcze, banany, migdały"
+    },
+    {
+      "chapter": "09",
+      "name": "Kawa, herbata, przyprawy",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Kawa, herbata, pieprz, wanilia"
+    },
+    {
+      "chapter": "10",
+      "name": "Zboża",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Pszenica, ryż, kukurydza, jęczmień"
+    },
+    {
+      "chapter": "11",
+      "name": "Produkty przemysłu młynarskiego",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Mąka, skrobia, słód"
+    },
+    {
+      "chapter": "12",
+      "name": "Nasiona i owoce oleiste",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Soja, orzeszki ziemne, nasiona słonecznika"
+    },
+    {
+      "chapter": "13",
+      "name": "Szellak, gumy, żywice",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Gumy naturalne, żywice, soki roślinne"
+    },
+    {
+      "chapter": "14",
+      "name": "Roślinne materiały do wyplatania",
+      "section": "II",
+      "section_name": "Produkty pochodzenia roślinnego",
+      "examples": "Bambus, rattan, trzcina"
+    },
+    {
+      "chapter": "15",
+      "name": "Tłuszcze i oleje zwierzęce lub roślinne",
+      "section": "III",
+      "section_name": "Tłuszcze zwierzęce lub roślinne",
+      "examples": "Oliwa z oliwek, olej palmowy, masło, margaryna"
+    },
+    {
+      "chapter": "16",
+      "name": "Przetwory z mięsa lub ryb",
+      "section": "IV",
+      "section_name": "Gotowe artykuły spożywcze",
+      "examples": "Kiełbasy, ryby w puszkach, ekstrakty mięsne"
+    },
+    {
+      "chapter": "17",
+      "name": "Cukry i wyroby cukiernicze",
+      "section": "IV",
+      "section_name": "Gotowe artykuły spożywcze",
+      "examples": "Cukier, cukierki, czekolada"
+    },
+    {
+      "chapter": "18",
+      "name": "Kakao i przetwory z kakao",
+      "section": "IV",
+      "section_name": "Gotowe artykuły spożywcze",
+      "examples": "Ziarna kakaowe, kakao w proszku, czekolada"
+    },
+    {
+      "chapter": "19",
+      "name": "Przetwory ze zbóż, mąki",
+      "section": "IV",
+      "section_name": "Gotowe artykuły spożywcze",
+      "examples": "Chleb, makaron, ciastka, torty"
+    },
+    {
+      "chapter": "20",
+      "name": "Przetwory z warzyw, owoców",
+      "section": "IV",
+      "section_name": "Gotowe artykuły spożywcze",
+      "examples": "Warzywa w puszkach, sok owocowy, dżemy"
+    },
+    {
+      "chapter": "21",
+      "name": "Różne przetwory spożywcze",
+      "section": "IV",
+      "section_name": "Przetwory spożywcze",
+      "examples": "Sosy, zupy, lody, drożdże"
+    },
+    {
+      "chapter": "22",
+      "name": "Napoje, alkohole i ocet",
+      "section": "IV",
+      "section_name": "Przetwory spożywcze",
+      "examples": "Woda, wino, piwo, whisky, ocet"
+    },
+    {
+      "chapter": "23",
+      "name": "Odpady przemysłu spożywczego",
+      "section": "IV",
+      "section_name": "Przetwory spożywcze",
+      "examples": "Pasza dla zwierząt, otręby, makuch"
+    },
+    {
+      "chapter": "24",
+      "name": "Tytoń i jego przetwory",
+      "section": "IV",
+      "section_name": "Przetwory spożywcze",
+      "examples": "Papierosy, cygara, tytoń"
+    },
+    {
+      "chapter": "25",
+      "name": "Sól; siarka; ziemie i kamienie",
+      "section": "V",
+      "section_name": "Produkty mineralne",
+      "examples": "Sól, piasek, żwir, marmur, gips"
+    },
+    {
+      "chapter": "26",
+      "name": "Rudy, żużel i popiół",
+      "section": "V",
+      "section_name": "Produkty mineralne",
+      "examples": "Ruda żelaza, ruda miedzi, popiół"
+    },
+    {
+      "chapter": "27",
+      "name": "Paliwa i oleje mineralne",
+      "section": "V",
+      "section_name": "Produkty mineralne",
+      "examples": "Węgiel, ropa naftowa, gaz ziemny"
+    },
+    {
+      "chapter": "28",
+      "name": "Chemikalia nieorganiczne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Kwasy, tlenki, sole, gazy szlachetne"
+    },
+    {
+      "chapter": "29",
+      "name": "Chemikalia organiczne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Węglowodory, alkohole, kwasy"
+    },
+    {
+      "chapter": "30",
+      "name": "Produkty farmaceutyczne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Leki, szczepionki, bandaże"
+    },
+    {
+      "chapter": "31",
+      "name": "Nawozy",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Nawozy azotowe, fosforowe, potasowe"
+    },
+    {
+      "chapter": "32",
+      "name": "Garbniki i barwniki",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Barwniki, farby, atramenty, kit"
+    },
+    {
+      "chapter": "33",
+      "name": "Olejki eteryczne i kosmetyki",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Perfumy, makijaż, szampon, mydło"
+    },
+    {
+      "chapter": "34",
+      "name": "Mydło, woski, świece",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Mydło, detergenty, świece, pasty"
+    },
+    {
+      "chapter": "35",
+      "name": "Substancje albuminoidowe; kleje",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Żelatyna, kleje, enzymy"
+    },
+    {
+      "chapter": "36",
+      "name": "Materiały wybuchowe; zapałki; wyroby pirotechniczne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Materiały wybuchowe, zapałki, fajerwerki"
+    },
+    {
+      "chapter": "37",
+      "name": "Artykuły fotograficzne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Filmy, płyty fotograficzne, chemikalia"
+    },
+    {
+      "chapter": "38",
+      "name": "Różne produkty chemiczne",
+      "section": "VI",
+      "section_name": "Produkty chemiczne",
+      "examples": "Insektycydy, herbicydy, płyny niezamarzające"
+    },
+    {
+      "chapter": "39",
+      "name": "Tworzywa sztuczne i artykuły z nich",
+      "section": "VII",
+      "section_name": "Tworzywa sztuczne i kauczuk",
+      "examples": "Arkusze z tworzyw sztucznych, rury, pojemniki"
+    },
+    {
+      "chapter": "40",
+      "name": "Kauczuk i artykuły z niego",
+      "section": "VII",
+      "section_name": "Tworzywa sztuczne i kauczuk",
+      "examples": "Opony, dętki gumowe, rękawiczki"
+    },
+    {
+      "chapter": "41",
+      "name": "Skóry surowe i wyroby skórzane, skóra",
+      "section": "VIII",
+      "section_name": "Skóra i Artykuły Podróżne",
+      "examples": "Skóra, skóry surowe, futra"
+    },
+    {
+      "chapter": "42",
+      "name": "Artykuły skórzane; artykuły podróżne",
+      "section": "VIII",
+      "section_name": "Skóra i Artykuły Podróżne",
+      "examples": "Torby, portfele, paski, walizki"
+    },
+    {
+      "chapter": "43",
+      "name": "Skóry futerkowe i sztuczne futro",
+      "section": "VIII",
+      "section_name": "Skóra i Artykuły Podróżne",
+      "examples": "Futra, obszycia futrzane"
+    },
+    {
+      "chapter": "44",
+      "name": "Drewno i artykuły z drewna",
+      "section": "IX",
+      "section_name": "Drewno i Wyroby Drewniane",
+      "examples": "Drewno konstrukcyjne, sklejka, części mebli"
+    },
+    {
+      "chapter": "45",
+      "name": "Korek i artykuły z korka",
+      "section": "IX",
+      "section_name": "Drewno i Wyroby Drewniane",
+      "examples": "Korki, arkusze korkowe"
+    },
+    {
+      "chapter": "46",
+      "name": "Wyroby ze słomy, wikliniarstwo",
+      "section": "IX",
+      "section_name": "Drewno i Wyroby Drewniane",
+      "examples": "Kosze, maty, plecionki"
+    },
+    {
+      "chapter": "47",
+      "name": "Masa celulozowa z drewna lub materiału włóknistego",
+      "section": "X",
+      "section_name": "Miazga i Papier",
+      "examples": "Miazga drzewna, miazga papiernicza"
+    },
+    {
+      "chapter": "48",
+      "name": "Papier i tektura",
+      "section": "X",
+      "section_name": "Miazga i Papier",
+      "examples": "Papier, karton, pudełka"
+    },
+    {
+      "chapter": "49",
+      "name": "Książki drukowane, gazety",
+      "section": "X",
+      "section_name": "Miazga i Papier",
+      "examples": "Książki, czasopisma, mapy, znaczki"
+    },
+    {
+      "chapter": "50",
+      "name": "Jedwab",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Przędza jedwabna, tkanina jedwabna"
+    },
+    {
+      "chapter": "51",
+      "name": "Wełna i sierść zwierzęca",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Przędza wełniana, tkanina wełniana"
+    },
+    {
+      "chapter": "52",
+      "name": "Bawełna",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Przędza bawełniana, tkanina bawełniana"
+    },
+    {
+      "chapter": "53",
+      "name": "Inne włókna roślinne",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Tkaniny lniane, konopne, jutowe"
+    },
+    {
+      "chapter": "54",
+      "name": "Włókna sztuczne ciągłe",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Włókna nylonowe, poliestrowe"
+    },
+    {
+      "chapter": "55",
+      "name": "Włókna sztuczne cięte",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Włókna syntetyczne cięte, przędza"
+    },
+    {
+      "chapter": "56",
+      "name": "Wata, filc, włókniny",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Wata, filc, lina, sznurek"
+    },
+    {
+      "chapter": "57",
+      "name": "Dywaniki i tekstylne pokrycia podłogowe",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Dywaniki, chodniki, maty"
+    },
+    {
+      "chapter": "58",
+      "name": "Specjalne tkaniny",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Gobeliny, koronki, hafty"
+    },
+    {
+      "chapter": "59",
+      "name": "Tkaniny impregnowane",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Tkaniny powlekane, kord do opon"
+    },
+    {
+      "chapter": "60",
+      "name": "Tkaniny dziane lub szydełkowane",
+      "section": "XI",
+      "section_name": "Tekstylia",
+      "examples": "Tkaniny dziane"
+    },
+    {
+      "chapter": "61",
+      "name": "Dziana odzież i akcesoria",
+      "section": "XI",
+      "section_name": "Wyroby włókiennicze",
+      "examples": "Swetry, T-shirty, skarpetki"
+    },
+    {
+      "chapter": "62",
+      "name": "Tkana odzież i akcesoria",
+      "section": "XI",
+      "section_name": "Wyroby włókiennicze",
+      "examples": "Garnitury, koszule, sukienki, płaszcze"
+    },
+    {
+      "chapter": "63",
+      "name": "Inne gotowe wyroby włókiennicze",
+      "section": "XI",
+      "section_name": "Wyroby włókiennicze",
+      "examples": "Koce, zasłony, torby, namioty"
+    },
+    {
+      "chapter": "64",
+      "name": "Obuwie",
+      "section": "XII",
+      "section_name": "Obuwie i nakrycia głowy",
+      "examples": "Buty, kozaki, sandały, kapcie"
+    },
+    {
+      "chapter": "65",
+      "name": "Nakrycia głowy",
+      "section": "XII",
+      "section_name": "Obuwie i nakrycia głowy",
+      "examples": "Kapelusze, czapki, hełmy"
+    },
+    {
+      "chapter": "66",
+      "name": "Parasole, laski",
+      "section": "XII",
+      "section_name": "Obuwie i nakrycia głowy",
+      "examples": "Parasole, laski, bicze"
+    },
+    {
+      "chapter": "67",
+      "name": "Przygotowane pióra; sztuczne kwiaty",
+      "section": "XII",
+      "section_name": "Obuwie i nakrycia głowy",
+      "examples": "Sztuczne kwiaty, peruki"
+    },
+    {
+      "chapter": "68",
+      "name": "Artykuły z kamienia, cementu",
+      "section": "XIII",
+      "section_name": "Kamień, Ceramika, Szkło",
+      "examples": "Płytki kamienne, wyroby cementowe"
+    },
+    {
+      "chapter": "69",
+      "name": "Wyroby ceramiczne",
+      "section": "XIII",
+      "section_name": "Kamień, Ceramika, Szkło",
+      "examples": "Cegły, płytki, ceramika, porcelana"
+    },
+    {
+      "chapter": "70",
+      "name": "Szkło i wyroby szklane",
+      "section": "XIII",
+      "section_name": "Kamień, Ceramika, Szkło",
+      "examples": "Butelki szklane, lustra, szkło stołowe"
+    },
+    {
+      "chapter": "71",
+      "name": "Perły, kamienie szlachetne, metale szlachetne",
+      "section": "XIV",
+      "section_name": "Metale szlachetne i kamienie szlachetne",
+      "examples": "Diamenty, złoto, srebro, biżuteria"
+    },
+    {
+      "chapter": "72",
+      "name": "Żelazo i stal",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Żelazo, stal, stopy żelaza"
+    },
+    {
+      "chapter": "73",
+      "name": "Artykuły z żelaza lub stali",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Rury stalowe, pojemniki, drut"
+    },
+    {
+      "chapter": "74",
+      "name": "Miedź i artykuły z miedzi",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Drut miedziany, rury, płyty"
+    },
+    {
+      "chapter": "75",
+      "name": "Nikiel i artykuły z niklu",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Sztabki niklu, płyty, drut"
+    },
+    {
+      "chapter": "76",
+      "name": "Aluminium i artykuły z aluminium",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Blachy aluminiowe, folia, puszki"
+    },
+    {
+      "chapter": "78",
+      "name": "Ołów i artykuły z ołowiu",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Płyty ołowiane, arkusze, rury"
+    },
+    {
+      "chapter": "79",
+      "name": "Cynk i artykuły z cynku",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Płyty cynkowe, sztabki, pył"
+    },
+    {
+      "chapter": "80",
+      "name": "Cyna i artykuły z cyny",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Sztabki cyny, płyty, folia"
+    },
+    {
+      "chapter": "81",
+      "name": "Inne metale nieszlachetne",
+      "section": "XV",
+      "section_name": "Metale nieszlachetne",
+      "examples": "Wolfram, tytan, molibden"
+    },
+    {
+      "chapter": "82",
+      "name": "Narzędzia z metali nieszlachetnych",
+      "section": "XV",
+      "section_name": "Metale Nieszlachetne",
+      "examples": "Noże, nożyczki, narzędzia ręczne"
+    },
+    {
+      "chapter": "83",
+      "name": "Różne artykuły z metali nieszlachetnych",
+      "section": "XV",
+      "section_name": "Metale Nieszlachetne",
+      "examples": "Zamki, okucia, sejfy, dzwony"
+    },
+    {
+      "chapter": "84",
+      "name": "Reaktory jądrowe, kotły, maszyny",
+      "section": "XVI",
+      "section_name": "Maszyny",
+      "examples": "Silniki, pompy, komputery, klimatyzatory"
+    },
+    {
+      "chapter": "85",
+      "name": "Maszyny i urządzenia elektryczne",
+      "section": "XVI",
+      "section_name": "Maszyny",
+      "examples": "Telefony, telewizory, silniki, baterie"
+    },
+    {
+      "chapter": "86",
+      "name": "Lokomotywy kolejowe, tabor kolejowy",
+      "section": "XVII",
+      "section_name": "Pojazdy",
+      "examples": "Pociągi, tramwaje, wagony kolejowe"
+    },
+    {
+      "chapter": "87",
+      "name": "Pojazdy inne niż kolejowe",
+      "section": "XVII",
+      "section_name": "Pojazdy",
+      "examples": "Samochody, ciężarówki, motocykle, rowery"
+    },
+    {
+      "chapter": "88",
+      "name": "Statki powietrzne, statki kosmiczne",
+      "section": "XVII",
+      "section_name": "Pojazdy",
+      "examples": "Samoloty, helikoptery, drony"
+    },
+    {
+      "chapter": "89",
+      "name": "Statki, łodzie",
+      "section": "XVII",
+      "section_name": "Pojazdy",
+      "examples": "Statki, jachty, łodzie"
+    },
+    {
+      "chapter": "90",
+      "name": "Instrumenty optyczne, medyczne, pomiarowe",
+      "section": "XVIII",
+      "section_name": "Instrumenty",
+      "examples": "Aparaty fotograficzne, urządzenia medyczne, czujniki"
+    },
+    {
+      "chapter": "91",
+      "name": "Zegary i zegarki",
+      "section": "XVIII",
+      "section_name": "Instrumenty",
+      "examples": "Zegarki, zegary, części zegarowe"
+    },
+    {
+      "chapter": "92",
+      "name": "Instrumenty muzyczne",
+      "section": "XVIII",
+      "section_name": "Instrumenty",
+      "examples": "Pianina, gitary, bębny"
+    },
+    {
+      "chapter": "93",
+      "name": "Broń i amunicja",
+      "section": "XIX",
+      "section_name": "Broń i Amunicja",
+      "examples": "Broń, amunicja, części"
+    },
+    {
+      "chapter": "94",
+      "name": "Meble; artykuły pościelowe; lampy",
+      "section": "XX",
+      "section_name": "Artykuły Różne",
+      "examples": "Krzesła, łóżka, lampy, budynki prefabrykowane"
+    },
+    {
+      "chapter": "95",
+      "name": "Zabawki, gry, sprzęt sportowy",
+      "section": "XX",
+      "section_name": "Artykuły Różne",
+      "examples": "Zabawki, gry wideo, sprzęt sportowy"
+    },
+    {
+      "chapter": "96",
+      "name": "Różne wyroby gotowe",
+      "section": "XX",
+      "section_name": "Artykuły Różne",
+      "examples": "Długopisy, guziki, zapalniczki, miotły"
+    },
+    {
+      "chapter": "97",
+      "name": "Dzieła sztuki, antyki",
+      "section": "XXI",
+      "section_name": "Dzieła Sztuki",
+      "examples": "Obrazy, rzeźby, antyki"
+    },
+    {
+      "chapter": "98",
+      "name": "Szczególne postanowienia klasyfikacyjne",
+      "section": "XXII",
+      "section_name": "Specjalne",
+      "examples": "Krajowe postanowienia specjalne"
+    },
+    {
+      "chapter": "99",
+      "name": "Szczególne postanowienia importowe",
+      "section": "XXII",
+      "section_name": "Specjalne",
+      "examples": "Import tymczasowy, reimport"
+    }
+  ],
+  "meta": {
+    "seo_title": "Lista Rozdziałów Kodów HS - Bezpłatne Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie wszystkie 98 Rozdziałów Kodów HS. Dostępne ze szczegółowymi opisami, sekcjami i przykładami w formatach Excel, CSV i PDF.",
+    "title": "Zbiór Danych Rozdziałów Kodów HS (System Zharmonizowany)",
+    "description": "Ten kompleksowy zbiór danych zawiera wszystkie 98 rozdziałów Kodów Systemu Zharmonizowanego (HS), kluczowych dla międzynarodowego handlu i klasyfikacji celnej. Każdy rekord zawiera numer rozdziału, opis, szczegóły sekcji i ilustracyjne przykłady.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do wszystkich 98 oficjalnych Rozdziałów Kodów HS, niezbędnych w handlu globalnym.",
+      "Przeglądaj szczegółowe opisy, klasyfikacje sekcji i praktyczne przykłady dla każdego rozdziału.",
+      "Pobierz całą listę Rozdziałów Systemu Zharmonizowanego natychmiast w wielu formatach.",
+      "Wykorzystaj ustrukturyzowane dane do deklaracji celnych, wyszukiwania taryf i analizy rynku."
+    ],
+    "keywords": [
+      "lista rozdziałów kodów hs excel",
+      "zbiór danych system zharmonizowany",
+      "klasyfikacja handlu międzynarodowego csv",
+      "kody celne pobierz bezpłatnie",
+      "dane taryf handlowych"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do bazy danych SQL lub skryptu Python, aby zautomatyzować klasyfikację produktów i analizę danych handlowych.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i tworzenia tabel przestawnych (Pivot Tables) do badań taryfowych, raportowania zgodności lub analizy rynku.",
+      "Wydrukuj wersję **PDF** do szybkiego, offline'owego odniesienia, do użytku w klasie lub jako podręczny przewodnik biurkowy dla agentów celnych.",
+      "Zintegruj ten zbiór danych z platformą ERP lub e-commerce, aby dokładnie kategoryzować produkty i usprawnić międzynarodową wysyłkę."
+    ]
+  },
+  "record_count": 98,
+  "title": "Zbiór Danych Rozdziałów Kodów HS (System Zharmonizowany)"
+}

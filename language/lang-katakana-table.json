@@ -1,0 +1,488 @@
+{
+  "id": "lang-katakana-table",
+  "name": "Kompletny Zestaw Danych Tabeli Znaków Katakany Japońskiej",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "katakana",
+      "label": "Katakana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "katakana": "ア",
+      "romaji": "a",
+      "category": "Vowel",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30A2"
+    },
+    {
+      "katakana": "イ",
+      "romaji": "i",
+      "category": "Vowel",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30A4"
+    },
+    {
+      "katakana": "ウ",
+      "romaji": "u",
+      "category": "Vowel",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+30A6"
+    },
+    {
+      "katakana": "エ",
+      "romaji": "e",
+      "category": "Vowel",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30A8"
+    },
+    {
+      "katakana": "オ",
+      "romaji": "o",
+      "category": "Vowel",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30AA"
+    },
+    {
+      "katakana": "カ",
+      "romaji": "ka",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30AB"
+    },
+    {
+      "katakana": "キ",
+      "romaji": "ki",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30AD"
+    },
+    {
+      "katakana": "ク",
+      "romaji": "ku",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30AF"
+    },
+    {
+      "katakana": "ケ",
+      "romaji": "ke",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30B1"
+    },
+    {
+      "katakana": "コ",
+      "romaji": "ko",
+      "category": "K-consonant",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30B3"
+    },
+    {
+      "katakana": "サ",
+      "romaji": "sa",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+30B5"
+    },
+    {
+      "katakana": "シ",
+      "romaji": "shi",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30B7"
+    },
+    {
+      "katakana": "ス",
+      "romaji": "su",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30B9"
+    },
+    {
+      "katakana": "セ",
+      "romaji": "se",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+30BB"
+    },
+    {
+      "katakana": "ソ",
+      "romaji": "so",
+      "category": "S-consonant",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30BD"
+    },
+    {
+      "katakana": "タ",
+      "romaji": "ta",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+30BF"
+    },
+    {
+      "katakana": "チ",
+      "romaji": "chi",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30C1"
+    },
+    {
+      "katakana": "ツ",
+      "romaji": "tsu",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+30C4"
+    },
+    {
+      "katakana": "テ",
+      "romaji": "te",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+30C6"
+    },
+    {
+      "katakana": "ト",
+      "romaji": "to",
+      "category": "T-consonant",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+30C8"
+    },
+    {
+      "katakana": "ナ",
+      "romaji": "na",
+      "category": "Spółgłoska N",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30CA"
+    },
+    {
+      "katakana": "ニ",
+      "romaji": "ni",
+      "category": "Spółgłoska N",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30CB"
+    },
+    {
+      "katakana": "ヌ",
+      "romaji": "nu",
+      "category": "Spółgłoska N",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30CC"
+    },
+    {
+      "katakana": "ネ",
+      "romaji": "ne",
+      "category": "Spółgłoska N",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 4,
+      "unicode": "U+30CD"
+    },
+    {
+      "katakana": "ノ",
+      "romaji": "no",
+      "category": "Spółgłoska N",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+30CE"
+    },
+    {
+      "katakana": "ハ",
+      "romaji": "ha",
+      "category": "Spółgłoska H",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30CF"
+    },
+    {
+      "katakana": "ヒ",
+      "romaji": "hi",
+      "category": "Spółgłoska H",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30D2"
+    },
+    {
+      "katakana": "フ",
+      "romaji": "fu",
+      "category": "Spółgłoska H",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+30D5"
+    },
+    {
+      "katakana": "ヘ",
+      "romaji": "he",
+      "category": "Spółgłoska H",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+30D8"
+    },
+    {
+      "katakana": "ホ",
+      "romaji": "ho",
+      "category": "Spółgłoska H",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+30DB"
+    },
+    {
+      "katakana": "マ",
+      "romaji": "ma",
+      "category": "Spółgłoska M",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30DE"
+    },
+    {
+      "katakana": "ミ",
+      "romaji": "mi",
+      "category": "Spółgłoska M",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+30DF"
+    },
+    {
+      "katakana": "ム",
+      "romaji": "mu",
+      "category": "Spółgłoska M",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30E0"
+    },
+    {
+      "katakana": "メ",
+      "romaji": "me",
+      "category": "Spółgłoska M",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+30E1"
+    },
+    {
+      "katakana": "モ",
+      "romaji": "mo",
+      "category": "Spółgłoska M",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30E2"
+    },
+    {
+      "katakana": "ヤ",
+      "romaji": "ya",
+      "category": "Spółgłoska Y",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30E4"
+    },
+    {
+      "katakana": "ユ",
+      "romaji": "yu",
+      "category": "Spółgłoska Y",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30E6"
+    },
+    {
+      "katakana": "ヨ",
+      "romaji": "yo",
+      "category": "Spółgłoska Y",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30E8"
+    },
+    {
+      "katakana": "ラ",
+      "romaji": "ra",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30E9"
+    },
+    {
+      "katakana": "リ",
+      "romaji": "ri",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+30EA"
+    },
+    {
+      "katakana": "ル",
+      "romaji": "ru",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+30EB"
+    },
+    {
+      "katakana": "レ",
+      "romaji": "re",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+30EC"
+    },
+    {
+      "katakana": "ロ",
+      "romaji": "ro",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30ED"
+    },
+    {
+      "katakana": "ワ",
+      "romaji": "wa",
+      "category": "Spółgłoska W",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+30EF"
+    },
+    {
+      "katakana": "ヲ",
+      "romaji": "wo",
+      "category": "Spółgłoska W",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+30F2"
+    },
+    {
+      "katakana": "ン",
+      "romaji": "n",
+      "category": "Spółgłoska nosowa",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 2,
+      "unicode": "U+30F3"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Katakany Japońskiej - Pobierz Gratis (Excel/CSV/PDF)",
+    "seo_description": "Pobierz kompletną tabelę japońskiej Katakany z Romaji, Unicode i liczbą kresek. Darmowy zestaw danych z 46 rekordami. Dostępny w formatach Excel, CSV i PDF.",
+    "title": "Kompletny Zestaw Danych Tabeli Znaków Katakany Japońskiej",
+    "description": "Ten zestaw danych zawiera kompleksową listę 46 japońskich znaków Katakany, w tym ich odpowiedniki Romaji, kategorię, liczbę kresek i wartości Unicode. Idealny dla uczniów, programistów i lingwistów.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 46 podstawowych japońskich znaków Katakany ze szczegółowymi atrybutami.",
+      "Poznaj Romaji, Unicode, liczbę kresek i kategoryzację dla każdego znaku.",
+      "Pobierz gotowe do użycia zasoby do nauki języka i tworzenia oprogramowania.",
+      "Wykorzystaj ustrukturyzowane dane do budowania aplikacji lub materiałów edukacyjnych."
+    ],
+    "keywords": [
+      "tabela katakany japońskiej",
+      "mapowanie katakana romaji",
+      "katakana unicode csv",
+      "japońskie znaki excel",
+      "liczba kresek katakana",
+      "dane do nauki katakany"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub użyj ze skryptami Python do aplikacji przetwarzających język i narzędzi wyszukiwania.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania znaków Katakany według kategorii, liczby kresek lub Romaji do nauki języka i opracowywania programów nauczania.",
+      "Wydrukuj wersję **PDF** jako wygodny przewodnik referencyjny offline, materiały do zajęć lub wykresy do samodzielnej nauki dla osób uczących się japońskiego.",
+      "Zintegruj ten ustrukturyzowany zestaw danych z platformami edukacyjnymi lub aplikacjami mobilnymi, aby skutecznie uczyć i ćwiczyć japońską Katakanę."
+    ]
+  },
+  "record_count": 46,
+  "title": "Kompletny Zestaw Danych Tabeli Znaków Katakany Japońskiej"
+}

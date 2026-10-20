@@ -1,0 +1,936 @@
+{
+  "id": "pl-zaklady-karne",
+  "name": "Polska — zakłady karne",
+  "title": "Polska — zakłady karne",
+  "description": "Zakłady karne i areszty w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Areszt",
+      "latitude": 53.114347,
+      "longitude": 18.06395
+    },
+    {
+      "name": "areszt",
+      "latitude": 54.179725,
+      "longitude": 15.574497
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 49.823791,
+      "longitude": 19.04088
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.073963,
+      "longitude": 19.939869
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.241903,
+      "longitude": 19.139676
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.296622,
+      "longitude": 18.661589
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.320603,
+      "longitude": 17.574797
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.333479,
+      "longitude": 18.148062
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.673386,
+      "longitude": 17.919943
+    },
+    {
+      "name": "Areszt śledczy",
+      "latitude": 50.727411,
+      "longitude": 16.658998
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.840807,
+      "longitude": 16.486306
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.897973,
+      "longitude": 15.734799
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 50.986404,
+      "longitude": 23.166608
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 51.105598,
+      "longitude": 17.024984
+    },
+    {
+      "name": "Areszt śledczy",
+      "latitude": 51.119557,
+      "longitude": 15.286257
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 51.649061,
+      "longitude": 17.820825
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 51.785632,
+      "longitude": 14.963638
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 51.935499,
+      "longitude": 15.493994
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 52.411441,
+      "longitude": 16.928145
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 52.619039,
+      "longitude": 20.381169
+    },
+    {
+      "name": "Areszt śledczy",
+      "latitude": 53.765342,
+      "longitude": 20.510776
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 54.160283,
+      "longitude": 19.405291
+    },
+    {
+      "name": "Areszt śledczy",
+      "latitude": 54.196204,
+      "longitude": 16.18627
+    },
+    {
+      "name": "Areszt Śledczy",
+      "latitude": 54.466282,
+      "longitude": 17.035627
+    },
+    {
+      "name": "Areszt Śledczy Częstochowa",
+      "latitude": 50.810365,
+      "longitude": 19.13309
+    },
+    {
+      "name": "Areszt Śledczy Gdańsk",
+      "latitude": 54.353087,
+      "longitude": 18.639994
+    },
+    {
+      "name": "Areszt Śledczy Katowice",
+      "latitude": 50.256194,
+      "longitude": 19.013812
+    },
+    {
+      "name": "Areszt Śledczy Międzyrzecz",
+      "latitude": 52.442966,
+      "longitude": 15.573494
+    },
+    {
+      "name": "Areszt Śledczy Sosnowiec",
+      "latitude": 50.265593,
+      "longitude": 19.133881
+    },
+    {
+      "name": "Areszt Śledczy Starogard Gdański",
+      "latitude": 53.964462,
+      "longitude": 18.532989
+    },
+    {
+      "name": "Areszt Śledczy w Białymstoku",
+      "latitude": 53.123555,
+      "longitude": 23.139506
+    },
+    {
+      "name": "Areszt Śledczy w Bydgoszczy",
+      "latitude": 53.1194,
+      "longitude": 18.000392
+    },
+    {
+      "name": "Areszt Śledczy w Bytomiu",
+      "latitude": 50.347897,
+      "longitude": 18.916414
+    },
+    {
+      "name": "Areszt Śledczy w Grójcu",
+      "latitude": 51.868807,
+      "longitude": 20.864669
+    },
+    {
+      "name": "Areszt Śledczy w Hajnówce",
+      "latitude": 52.723276,
+      "longitude": 23.580713
+    },
+    {
+      "name": "Areszt Śledczy w Kielcach",
+      "latitude": 50.911847,
+      "longitude": 20.636166
+    },
+    {
+      "name": "Areszt Śledczy w Lublinie",
+      "latitude": 51.204148,
+      "longitude": 22.569535
+    },
+    {
+      "name": "Areszt Śledczy w Olsztynie",
+      "latitude": 53.777892,
+      "longitude": 20.483963
+    },
+    {
+      "name": "Areszt Śledczy w Piotrkowie Trybunalskim",
+      "latitude": 51.389586,
+      "longitude": 19.661098
+    },
+    {
+      "name": "Areszt Śledczy w Poznaniu, Oddział Zewnętrzny w Rosnowie",
+      "latitude": 52.327327,
+      "longitude": 16.782994
+    },
+    {
+      "name": "Areszt Śledczy w Radomiu",
+      "latitude": 51.403437,
+      "longitude": 21.088801
+    },
+    {
+      "name": "Areszt Śledczy w Suwałkach",
+      "latitude": 54.074982,
+      "longitude": 22.934008
+    },
+    {
+      "name": "Areszt Śledczy w Szamotułach",
+      "latitude": 52.614417,
+      "longitude": 16.574
+    },
+    {
+      "name": "Areszt Śledczy w Szczecinie",
+      "latitude": 53.422907,
+      "longitude": 14.547257
+    },
+    {
+      "name": "Areszt Śledczy w Tarnowskich Górach",
+      "latitude": 50.447399,
+      "longitude": 18.852068
+    },
+    {
+      "name": "Areszt Śledczy w Łodzi",
+      "latitude": 51.788831,
+      "longitude": 19.498786
+    },
+    {
+      "name": "Areszt Śledczy w Śremie",
+      "latitude": 52.09575,
+      "longitude": 17.019762
+    },
+    {
+      "name": "Areszt Śledczy Warszawa - Służewiec",
+      "latitude": 52.160059,
+      "longitude": 20.991097
+    },
+    {
+      "name": "Areszt Śledczy Warszawa-Białołęka",
+      "latitude": 52.333959,
+      "longitude": 21.010419
+    },
+    {
+      "name": "Areszt Śledczy Warszawa-Grochów \"Kamczatka\"",
+      "latitude": 52.257421,
+      "longitude": 21.113412
+    },
+    {
+      "name": "Areszt Śledczy Wejherowo",
+      "latitude": 54.603525,
+      "longitude": 18.232955
+    },
+    {
+      "name": "Centralny Ośrodek Szkolenia Służby Więziennej w Kulach Oddział Zamiejscowy w Sulejowie",
+      "latitude": 51.367772,
+      "longitude": 19.857114
+    },
+    {
+      "name": "Justizvollzugsanstalt Görlitz",
+      "latitude": 51.152727,
+      "longitude": 14.984448
+    },
+    {
+      "name": "Młodzieżowy Ośrodek Wychowawczy",
+      "latitude": 50.48433,
+      "longitude": 17.347645
+    },
+    {
+      "name": "Oddział Zewnętrzny Aresztu Śledczego we Wrocławiu",
+      "latitude": 51.092165,
+      "longitude": 16.974518
+    },
+    {
+      "name": "Oddział Zewnętrzny Ustka",
+      "latitude": 54.577617,
+      "longitude": 16.859891
+    },
+    {
+      "name": "Oddział Zewnętrzny w Bydgoszczy-Fordonie",
+      "latitude": 53.14879,
+      "longitude": 18.174267
+    },
+    {
+      "name": "Oddział Zewnętrzny w Chmielowie Zakładu Karnego w Dębicy",
+      "latitude": 50.515667,
+      "longitude": 21.657099
+    },
+    {
+      "name": "Oddział Zewnętrzny w Goleszach",
+      "latitude": 51.453937,
+      "longitude": 19.892434
+    },
+    {
+      "name": "Oddział Zewnętrzny w Krakowie - Nowej Hucie Aresztu Śledczego w Krakowie",
+      "latitude": 50.09154,
+      "longitude": 20.134408
+    },
+    {
+      "name": "Oddział Zewnętrzny w Olsztynie",
+      "latitude": 53.765398,
+      "longitude": 20.510705
+    },
+    {
+      "name": "Oddział Zewnętrzny w Pobiedziskach",
+      "latitude": 52.477444,
+      "longitude": 17.283455
+    },
+    {
+      "name": "Oddział Zewnętrzny w Stawiszynie",
+      "latitude": 51.600497,
+      "longitude": 20.927228
+    },
+    {
+      "name": "Oddział Zewnętrzny w Strzelcach Opolskich",
+      "latitude": 50.511594,
+      "longitude": 18.292628
+    },
+    {
+      "name": "Oddział Zewnętrzny w Szczytnie",
+      "latitude": 53.567574,
+      "longitude": 20.99121
+    },
+    {
+      "name": "Oddział Zewnętrzny w Słońsku Zakładu Karnego Gorzów Wielkopolski",
+      "latitude": 52.566081,
+      "longitude": 14.810585
+    },
+    {
+      "name": "Oddział Zewnętrzny w Tarnowie-Mościcach",
+      "latitude": 50.023925,
+      "longitude": 20.905135
+    },
+    {
+      "name": "Oddział Zewnętrzny w Turawie",
+      "latitude": 50.710902,
+      "longitude": 18.117504
+    },
+    {
+      "name": "Oddział Zewnętrzny w Wałowicach",
+      "latitude": 51.962848,
+      "longitude": 14.792975
+    },
+    {
+      "name": "Oddział Zewnętrzny w Wąsoszu Górnym",
+      "latitude": 51.044865,
+      "longitude": 19.001129
+    },
+    {
+      "name": "Oddział Zewnętrzny Warszawa Bemowo",
+      "latitude": 52.249017,
+      "longitude": 20.888506
+    },
+    {
+      "name": "Oddział Zewnętrzny Zakładu Karnego Nr 1 w Łodzi",
+      "latitude": 51.736855,
+      "longitude": 19.481331
+    },
+    {
+      "name": "Oddział Zewnętrzny Zakładu Karnego w Potulicach",
+      "latitude": 53.129105,
+      "longitude": 17.690142
+    },
+    {
+      "name": "Odział Zewnętrzny Aresztu Śledczego",
+      "latitude": 52.377295,
+      "longitude": 16.834649
+    },
+    {
+      "name": "Okręgowy Ośrodek Wychowawczy w Mrozach",
+      "latitude": 52.176315,
+      "longitude": 21.807437
+    },
+    {
+      "name": "Schronisko dla Nieletnich w Dominowie",
+      "latitude": 51.171374,
+      "longitude": 22.590617
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 49.266776,
+      "longitude": 22.29591
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 49.418422,
+      "longitude": 22.346478
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 49.882446,
+      "longitude": 19.490561
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.201717,
+      "longitude": 17.825752
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.514961,
+      "longitude": 18.305606
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.66606,
+      "longitude": 18.682254
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.69039,
+      "longitude": 17.884396
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.7147,
+      "longitude": 23.287865
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 50.72909,
+      "longitude": 23.248167
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 51.140189,
+      "longitude": 23.498033
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 52.037123,
+      "longitude": 23.120201
+    },
+    {
+      "name": "Zakład karny",
+      "latitude": 52.092499,
+      "longitude": 19.951046
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 52.544288,
+      "longitude": 19.696857
+    },
+    {
+      "name": "Zakład karny",
+      "latitude": 53.337001,
+      "longitude": 15.000083
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 53.709578,
+      "longitude": 16.686609
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 53.826967,
+      "longitude": 20.69461
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 54.196371,
+      "longitude": 16.137696
+    },
+    {
+      "name": "Zakład Karny",
+      "latitude": 54.381791,
+      "longitude": 19.819057
+    },
+    {
+      "name": "Zakład karny (nieczynny)",
+      "latitude": 51.765225,
+      "longitude": 18.099887
+    },
+    {
+      "name": "Zakład Karny Brzeg",
+      "latitude": 50.859535,
+      "longitude": 17.467981
+    },
+    {
+      "name": "Zakład Karny Czarne",
+      "latitude": 53.684121,
+      "longitude": 16.921372
+    },
+    {
+      "name": "Zakład Karny Gdańsk-Przeróbka",
+      "latitude": 54.361073,
+      "longitude": 18.684499
+    },
+    {
+      "name": "Zakład Karny Herby",
+      "latitude": 50.750058,
+      "longitude": 18.892547
+    },
+    {
+      "name": "Zakład Karny Inowrocław",
+      "latitude": 52.798417,
+      "longitude": 18.250609
+    },
+    {
+      "name": "Zakład Karny Jastrzębie-Zdrój",
+      "latitude": 49.983423,
+      "longitude": 18.632641
+    },
+    {
+      "name": "Zakład Karny Kamińsk",
+      "latitude": 54.320594,
+      "longitude": 20.454675
+    },
+    {
+      "name": "Zakład Karny Koronowo",
+      "latitude": 53.308961,
+      "longitude": 17.935898
+    },
+    {
+      "name": "Zakład Karny Medyka",
+      "latitude": 49.796595,
+      "longitude": 22.911656
+    },
+    {
+      "name": "Zakład Karny Nowogard. Oddział Zewnętrzny",
+      "latitude": 53.81036,
+      "longitude": 15.277142
+    },
+    {
+      "name": "Zakład Karny Nowy Wiśnicz",
+      "latitude": 49.912897,
+      "longitude": 20.470373
+    },
+    {
+      "name": "Zakład Karny nr 1",
+      "latitude": 51.127788,
+      "longitude": 17.029745
+    },
+    {
+      "name": "Zakład Karny Nr 1 w Grudziądzu",
+      "latitude": 53.494465,
+      "longitude": 18.753224
+    },
+    {
+      "name": "Zakład Karny Nr 1 w Łodzi",
+      "latitude": 51.799995,
+      "longitude": 19.510896
+    },
+    {
+      "name": "Zakład Karny Nr1",
+      "latitude": 51.206616,
+      "longitude": 17.378091
+    },
+    {
+      "name": "Zakład Karny Oddział Zewnętrzny",
+      "latitude": 53.954647,
+      "longitude": 16.129875
+    },
+    {
+      "name": "Zakład Karny Oddział Zewnętrzny w Giżycku",
+      "latitude": 54.034911,
+      "longitude": 21.778317
+    },
+    {
+      "name": "Zakład Karny Oddział Zewnętrzny w Grodkowie",
+      "latitude": 50.692899,
+      "longitude": 17.386228
+    },
+    {
+      "name": "Zakład Karny Oddział Zewnętrzny w Pionkach",
+      "latitude": 51.44568,
+      "longitude": 21.396387
+    },
+    {
+      "name": "Zakład Karny Oddział Zewnętrzny w Zabłociu",
+      "latitude": 51.848757,
+      "longitude": 23.558029
+    },
+    {
+      "name": "Zakład Karny Potulice",
+      "latitude": 53.124789,
+      "longitude": 17.686765
+    },
+    {
+      "name": "Zakład Karny Sanok",
+      "latitude": 49.532485,
+      "longitude": 22.202786
+    },
+    {
+      "name": "Zakład Karny Sanok",
+      "latitude": 49.532542,
+      "longitude": 22.203581
+    },
+    {
+      "name": "Zakład Karny Sieradz",
+      "latitude": 51.600201,
+      "longitude": 18.735598
+    },
+    {
+      "name": "Zakład Karny Sieraków Śląski",
+      "latitude": 50.781745,
+      "longitude": 18.529603
+    },
+    {
+      "name": "Zakład Karny Sztum",
+      "latitude": 53.923009,
+      "longitude": 19.035042
+    },
+    {
+      "name": "Zakład Karny Uherce Mineralne",
+      "latitude": 49.462127,
+      "longitude": 22.408748
+    },
+    {
+      "name": "Zakład Karny w Barczewie. Oddział Zewnętrzny w Kikitach",
+      "latitude": 53.97692,
+      "longitude": 20.850026
+    },
+    {
+      "name": "Zakład Karny w Cieszynie",
+      "latitude": 49.74748,
+      "longitude": 18.637995
+    },
+    {
+      "name": "Zakład Karny w Czerwonym Borze",
+      "latitude": 53.045252,
+      "longitude": 22.114157
+    },
+    {
+      "name": "Zakład Karny w Dublinach",
+      "latitude": 54.143655,
+      "longitude": 21.273401
+    },
+    {
+      "name": "Zakład Karny w Dębicy",
+      "latitude": 50.063408,
+      "longitude": 21.436953
+    },
+    {
+      "name": "Zakład Karny w Garbalinie",
+      "latitude": 52.108143,
+      "longitude": 19.179342
+    },
+    {
+      "name": "Zakład Karny w Goleniowie",
+      "latitude": 53.575201,
+      "longitude": 14.836139
+    },
+    {
+      "name": "Zakład Karny w Gorzowie Wielkopolskim",
+      "latitude": 52.746244,
+      "longitude": 15.284975
+    },
+    {
+      "name": "Zakład Karny w Grądach-Woniecko",
+      "latitude": 53.144774,
+      "longitude": 22.407497
+    },
+    {
+      "name": "Zakład Karny w Gębarzewie",
+      "latitude": 52.485189,
+      "longitude": 17.566532
+    },
+    {
+      "name": "Zakład Karny w Głogowie",
+      "latitude": 51.663538,
+      "longitude": 16.064112
+    },
+    {
+      "name": "Zakład Karny w Hrubieszowie",
+      "latitude": 50.799198,
+      "longitude": 23.916148
+    },
+    {
+      "name": "Zakład karny w Inowrocławiu Oddział zewnętrzny w Toruniu",
+      "latitude": 53.011224,
+      "longitude": 18.601262
+    },
+    {
+      "name": "Zakład Karny w Iławie",
+      "latitude": 53.588304,
+      "longitude": 19.560667
+    },
+    {
+      "name": "Zakład Karny w Jaśle",
+      "latitude": 49.748764,
+      "longitude": 21.540753
+    },
+    {
+      "name": "Zakład Karny w Kluczborku",
+      "latitude": 50.973776,
+      "longitude": 18.219443
+    },
+    {
+      "name": "Zakład Karny w Koziegłowach",
+      "latitude": 52.440318,
+      "longitude": 16.995049
+    },
+    {
+      "name": "Zakład Karny w Krzywańcu",
+      "latitude": 51.839215,
+      "longitude": 15.178684
+    },
+    {
+      "name": "Zakład Karny w Kwidzynie",
+      "latitude": 53.71261,
+      "longitude": 18.932926
+    },
+    {
+      "name": "Zakład Karny w Malborku",
+      "latitude": 54.036528,
+      "longitude": 19.029623
+    },
+    {
+      "name": "Zakład Karny w Nowym Sączu",
+      "latitude": 49.623973,
+      "longitude": 20.689198
+    },
+    {
+      "name": "Zakład Karny w Nysie",
+      "latitude": 50.478117,
+      "longitude": 17.325897
+    },
+    {
+      "name": "Zakład Karny w Opolu Lubelskim",
+      "latitude": 51.140308,
+      "longitude": 21.983154
+    },
+    {
+      "name": "Zakład Karny w Pińczowie",
+      "latitude": 50.525116,
+      "longitude": 20.518989
+    },
+    {
+      "name": "Zakład Karny w Potulicach. Oddział zewnętrzny",
+      "latitude": 53.165641,
+      "longitude": 17.775535
+    },
+    {
+      "name": "Zakład Karny w Przemyślu",
+      "latitude": 49.785196,
+      "longitude": 22.778884
+    },
+    {
+      "name": "Zakład Karny w Przytułach Starych",
+      "latitude": 53.103947,
+      "longitude": 21.711893
+    },
+    {
+      "name": "Zakład Karny w Rawiczu",
+      "latitude": 51.608347,
+      "longitude": 16.863017
+    },
+    {
+      "name": "Zakład Karny w Rzeszowie",
+      "latitude": 50.061479,
+      "longitude": 22.040698
+    },
+    {
+      "name": "Zakład Karny w Siedlcach",
+      "latitude": 52.167005,
+      "longitude": 22.270285
+    },
+    {
+      "name": "Zakład Karny w Starym Bornym",
+      "latitude": 54.004495,
+      "longitude": 16.673376
+    },
+    {
+      "name": "Zakład Karny w Strzelinie",
+      "latitude": 50.774535,
+      "longitude": 17.053233
+    },
+    {
+      "name": "Zakład Karny w Tarnowie",
+      "latitude": 50.008063,
+      "longitude": 20.992862
+    },
+    {
+      "name": "Zakład karny w Trzebini",
+      "latitude": 50.148623,
+      "longitude": 19.46488
+    },
+    {
+      "name": "Zakład Karny w Wołowie",
+      "latitude": 51.340428,
+      "longitude": 16.631371
+    },
+    {
+      "name": "Zakład Karny w Zabrzu",
+      "latitude": 50.302345,
+      "longitude": 18.830578
+    },
+    {
+      "name": "Zakład Karny w Żytkowicach",
+      "latitude": 51.484055,
+      "longitude": 21.559652
+    },
+    {
+      "name": "Zakład Karny we Wronkach",
+      "latitude": 52.709253,
+      "longitude": 16.383856
+    },
+    {
+      "name": "Zakład Karny we Włodawie",
+      "latitude": 51.552362,
+      "longitude": 23.540955
+    },
+    {
+      "name": "Zakład Karny Wojkowice",
+      "latitude": 50.367638,
+      "longitude": 19.030143
+    },
+    {
+      "name": "Zakład Karny Wojkowice - Oddział Zewnętrzny w Ciągowicach",
+      "latitude": 50.461846,
+      "longitude": 19.368418
+    },
+    {
+      "name": "Zakład Karny Włocławek",
+      "latitude": 52.617287,
+      "longitude": 19.038368
+    },
+    {
+      "name": "Zakład Karny Zaręba",
+      "latitude": 51.090068,
+      "longitude": 15.209701
+    },
+    {
+      "name": "Zakład Karny Złotów",
+      "latitude": 53.361969,
+      "longitude": 17.03272
+    },
+    {
+      "name": "Zakład karny Łupków",
+      "latitude": 49.24817,
+      "longitude": 22.088381
+    },
+    {
+      "name": "Zakład Karny Łupków - Oddział Zewnętrzny Moszczaniec",
+      "latitude": 49.412145,
+      "longitude": 21.917735
+    },
+    {
+      "name": "Zakład Karny. Oddział Zewnętrzny w Popowie",
+      "latitude": 52.533256,
+      "longitude": 21.168133
+    },
+    {
+      "name": "Zakład Poprawczy",
+      "latitude": 51.653098,
+      "longitude": 16.084007
+    },
+    {
+      "name": "Zakład poprawczy",
+      "latitude": 52.226081,
+      "longitude": 16.3616
+    },
+    {
+      "name": "Zakład Poprawczy",
+      "latitude": 52.555341,
+      "longitude": 17.818117
+    },
+    {
+      "name": "Zakład Poprawczy",
+      "latitude": 52.992984,
+      "longitude": 17.488732
+    },
+    {
+      "name": "Zakład Poprawczy",
+      "latitude": 53.1435,
+      "longitude": 23.215251
+    },
+    {
+      "name": "Zakład Poprawczy i Schronisko dla Nieletnich",
+      "latitude": 50.498823,
+      "longitude": 19.405056
+    },
+    {
+      "name": "Zakład Poprawczy i Schronisko dla Nieletnich w Konstantynowie Łódzkim",
+      "latitude": 51.760905,
+      "longitude": 19.267639
+    },
+    {
+      "name": "Zakład Poprawczy w Jerzmanicach-Zdroju",
+      "latitude": 51.112276,
+      "longitude": 15.887888
+    },
+    {
+      "name": "Zakład poprawczy w Sadowicach",
+      "latitude": 51.05741,
+      "longitude": 16.799057
+    },
+    {
+      "name": "Zakład Poprawczy W Tarnowie",
+      "latitude": 50.031326,
+      "longitude": 20.965329
+    }
+  ],
+  "meta": {
+    "title": "Polska — zakłady karne - Bezpłatne pobieranie",
+    "description": "Zakłady karne i areszty w Polsce (OpenStreetMap) Zawiera 179 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — zakłady karne | ListBase",
+    "seo_description": "Pobierz Polska — zakłady karne — 179 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 179 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

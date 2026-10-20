@@ -1,0 +1,526 @@
+{
+  "id": "pl-lodzkie-miasta",
+  "name": "Miasta w województwie łódzkie",
+  "title": "Miasta w województwie łódzkie",
+  "description": "Cities and towns (miasta) in Łódzkie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "166",
+      "name": "Aleksandrów Łódzki",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zgierski",
+      "commune": "Aleksandrów Łódzki-gmina miejsko-wiejska",
+      "latitude": 51.8203,
+      "longitude": 19.305
+    },
+    {
+      "id": "966",
+      "name": "Bełchatów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "bełchatowski",
+      "commune": "Bełchatów-gmina miejska",
+      "latitude": 51.3625,
+      "longitude": 19.365
+    },
+    {
+      "id": "1146",
+      "name": "Biała Rawska",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "rawski",
+      "commune": "Biała Rawska-gmina miejsko-wiejska",
+      "latitude": 51.8083,
+      "longitude": 20.4742
+    },
+    {
+      "id": "1733",
+      "name": "Błaszki",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "sieradzki",
+      "commune": "Błaszki-gmina miejsko-wiejska",
+      "latitude": 51.6517,
+      "longitude": 18.4378
+    },
+    {
+      "id": "3143",
+      "name": "Brzeziny",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "brzeziński",
+      "commune": "Brzeziny-gmina miejska",
+      "latitude": 51.7997,
+      "longitude": 19.7536
+    },
+    {
+      "id": "7305",
+      "name": "Drzewica",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "opoczyński",
+      "commune": "Drzewica-gmina miejsko-wiejska",
+      "latitude": 51.4506,
+      "longitude": 20.4772
+    },
+    {
+      "id": "7537",
+      "name": "Działoszyn",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "pajęczański",
+      "commune": "Działoszyn-gmina miejsko-wiejska",
+      "latitude": 51.1169,
+      "longitude": 18.8653
+    },
+    {
+      "id": "8809",
+      "name": "Głowno",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zgierski",
+      "commune": "Głowno-gmina miejska",
+      "latitude": 51.9678,
+      "longitude": 19.7139
+    },
+    {
+      "id": "13222",
+      "name": "Kamieńsk",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "radomszczański",
+      "commune": "Kamieńsk-gmina miejsko-wiejska",
+      "latitude": 51.2044,
+      "longitude": 19.4969
+    },
+    {
+      "id": "14876",
+      "name": "Koluszki",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łódzki wschodni",
+      "commune": "Koluszki-gmina miejsko-wiejska",
+      "latitude": 51.745,
+      "longitude": 19.8172
+    },
+    {
+      "id": "15202",
+      "name": "Konstantynów Łódzki",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "pabianicki",
+      "commune": "Konstantynów Łódzki-gmina miejska",
+      "latitude": 51.7481,
+      "longitude": 19.3256
+    },
+    {
+      "id": "16438",
+      "name": "Krośniewice",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "kutnowski",
+      "commune": "Krośniewice-gmina miejsko-wiejska",
+      "latitude": 52.2561,
+      "longitude": 19.1708
+    },
+    {
+      "id": "17369",
+      "name": "Kutno",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "kutnowski",
+      "commune": "Kutno-gmina miejska",
+      "latitude": 52.2342,
+      "longitude": 19.3578
+    },
+    {
+      "id": "18924",
+      "name": "Lututów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "wieruszowski",
+      "commune": "Lututów-gmina wiejska",
+      "latitude": 51.3714,
+      "longitude": 18.4342
+    },
+    {
+      "id": "19087",
+      "name": "Łask",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łaski",
+      "commune": "Łask-gmina miejsko-wiejska",
+      "latitude": 51.5914,
+      "longitude": 19.1336
+    },
+    {
+      "id": "19347",
+      "name": "Łęczyca",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łęczycki",
+      "commune": "Łęczyca-gmina miejska",
+      "latitude": 52.0592,
+      "longitude": 19.1983
+    },
+    {
+      "id": "19646",
+      "name": "Łowicz",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łowicki",
+      "commune": "Łowicz-gmina miejska",
+      "latitude": 52.1081,
+      "longitude": 19.9461
+    },
+    {
+      "id": "19677",
+      "name": "Łódź",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "Łódź",
+      "commune": "Łódź-gmina miejska",
+      "latitude": 51.7644,
+      "longitude": 19.4631
+    },
+    {
+      "id": "24936",
+      "name": "Opoczno",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "opoczyński",
+      "commune": "Opoczno-gmina miejsko-wiejska",
+      "latitude": 51.3761,
+      "longitude": 20.2831
+    },
+    {
+      "id": "25661",
+      "name": "Ozorków",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zgierski",
+      "commune": "Ozorków-gmina miejska",
+      "latitude": 51.9622,
+      "longitude": 19.295
+    },
+    {
+      "id": "25681",
+      "name": "Pabianice",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "pabianicki",
+      "commune": "Pabianice-gmina miejska",
+      "latitude": 51.665,
+      "longitude": 19.3592
+    },
+    {
+      "id": "25724",
+      "name": "Pajęczno",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "pajęczański",
+      "commune": "Pajęczno-gmina miejsko-wiejska",
+      "latitude": 51.1469,
+      "longitude": 18.995
+    },
+    {
+      "id": "26369",
+      "name": "Piątek",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łęczycki",
+      "commune": "Piątek-gmina wiejska",
+      "latitude": 52.0689,
+      "longitude": 19.4797
+    },
+    {
+      "id": "26737",
+      "name": "Piotrków Trybunalski",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "Piotrków Trybunalski",
+      "commune": "Piotrków Trybunalski-gmina miejska",
+      "latitude": 51.4111,
+      "longitude": 19.6861
+    },
+    {
+      "id": "27204",
+      "name": "Poddębice",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "poddębicki",
+      "commune": "Poddębice-gmina miejsko-wiejska",
+      "latitude": 51.8931,
+      "longitude": 18.955
+    },
+    {
+      "id": "28474",
+      "name": "Przedbórz",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "radomszczański",
+      "commune": "Przedbórz-gmina miejsko-wiejska",
+      "latitude": 51.0875,
+      "longitude": 19.8739
+    },
+    {
+      "id": "29248",
+      "name": "Radomsko",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "radomszczański",
+      "commune": "Radomsko-gmina miejska",
+      "latitude": 51.0675,
+      "longitude": 19.4444
+    },
+    {
+      "id": "29577",
+      "name": "Rawa Mazowiecka",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "rawski",
+      "commune": "Rawa Mazowiecka-gmina miejska",
+      "latitude": 51.765,
+      "longitude": 20.2522
+    },
+    {
+      "id": "31176",
+      "name": "Rzgów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łódzki wschodni",
+      "commune": "Rzgów-gmina miejsko-wiejska",
+      "latitude": 51.6631,
+      "longitude": 19.49
+    },
+    {
+      "id": "31933",
+      "name": "Sieradz",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "sieradzki",
+      "commune": "Sieradz-gmina miejska",
+      "latitude": 51.5961,
+      "longitude": 18.7322
+    },
+    {
+      "id": "32246",
+      "name": "Skierniewice",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "Skierniewice",
+      "commune": "Skierniewice-gmina miejska",
+      "latitude": 51.9586,
+      "longitude": 20.1411
+    },
+    {
+      "id": "34721",
+      "name": "Stryków",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zgierski",
+      "commune": "Stryków-gmina miejsko-wiejska",
+      "latitude": 51.9017,
+      "longitude": 19.6047
+    },
+    {
+      "id": "35088",
+      "name": "Sulejów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "piotrkowski",
+      "commune": "Sulejów-gmina miejsko-wiejska",
+      "latitude": 51.3542,
+      "longitude": 19.885
+    },
+    {
+      "id": "35359",
+      "name": "Szadek",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zduńskowolski",
+      "commune": "Szadek-gmina miejsko-wiejska",
+      "latitude": 51.6919,
+      "longitude": 18.9756
+    },
+    {
+      "id": "36921",
+      "name": "Tomaszów Mazowiecki",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "tomaszowski",
+      "commune": "Tomaszów Mazowiecki-gmina miejska",
+      "latitude": 51.5303,
+      "longitude": 20.0097
+    },
+    {
+      "id": "37571",
+      "name": "Tuszyn",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "łódzki wschodni",
+      "commune": "Tuszyn-gmina miejsko-wiejska",
+      "latitude": 51.6039,
+      "longitude": 19.5439
+    },
+    {
+      "id": "37863",
+      "name": "Uniejów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "poddębicki",
+      "commune": "Uniejów-gmina miejsko-wiejska",
+      "latitude": 51.975,
+      "longitude": 18.7942
+    },
+    {
+      "id": "38216",
+      "name": "Warta",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "sieradzki",
+      "commune": "Warta-gmina miejsko-wiejska",
+      "latitude": 51.7069,
+      "longitude": 18.6244
+    },
+    {
+      "id": "38750",
+      "name": "Wieluń",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "wieluński",
+      "commune": "Wieluń-gmina miejsko-wiejska",
+      "latitude": 51.2208,
+      "longitude": 18.5706
+    },
+    {
+      "id": "38794",
+      "name": "Wieruszów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "wieruszowski",
+      "commune": "Wieruszów-gmina miejsko-wiejska",
+      "latitude": 51.295,
+      "longitude": 18.155
+    },
+    {
+      "id": "40189",
+      "name": "Wolbórz",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "piotrkowski",
+      "commune": "Wolbórz-gmina miejsko-wiejska",
+      "latitude": 51.505,
+      "longitude": 19.83
+    },
+    {
+      "id": "42510",
+      "name": "Zduńska Wola",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zduńskowolski",
+      "commune": "Zduńska Wola-gmina miejska",
+      "latitude": 51.6019,
+      "longitude": 18.9342
+    },
+    {
+      "id": "42567",
+      "name": "Zelów",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "bełchatowski",
+      "commune": "Zelów-gmina miejsko-wiejska",
+      "latitude": 51.4644,
+      "longitude": 19.22
+    },
+    {
+      "id": "42603",
+      "name": "Zgierz",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "zgierski",
+      "commune": "Zgierz-gmina miejska",
+      "latitude": 51.8561,
+      "longitude": 19.4061
+    },
+    {
+      "id": "42814",
+      "name": "Złoczew",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "sieradzki",
+      "commune": "Złoczew-gmina miejsko-wiejska",
+      "latitude": 51.4181,
+      "longitude": 18.6058
+    },
+    {
+      "id": "43567",
+      "name": "Żychlin",
+      "type": "city",
+      "province": "łódzkie",
+      "district": "kutnowski",
+      "commune": "Żychlin-gmina miejsko-wiejska",
+      "latitude": 52.2439,
+      "longitude": 19.6264
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie łódzkie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Łódzkie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 46 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie łódzkie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie łódzkie — 46 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 46 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

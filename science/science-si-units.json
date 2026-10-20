@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "Zbiór danych Międzynarodowego Układu Jednostek Miar (Jednostki SI)",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "metr",
+      "symbol": "m",
+      "quantity": "długość",
+      "type": "Base Unit",
+      "definition": "Odległość przebyta przez światło w 1/299 792 458 sekundy",
+      "dimension": "L"
+    },
+    {
+      "name": "kilogram",
+      "symbol": "kg",
+      "quantity": "masa",
+      "type": "Base Unit",
+      "definition": "Zdefiniowany przez stałą Plancka h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "sekunda",
+      "symbol": "s",
+      "quantity": "czas",
+      "type": "Base Unit",
+      "definition": "9 192 631 770 okresów promieniowania cezu-133",
+      "dimension": "T"
+    },
+    {
+      "name": "amper",
+      "symbol": "A",
+      "quantity": "prąd elektryczny",
+      "type": "Base Unit",
+      "definition": "Zdefiniowany przez ładunek elementarny e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "kelwin",
+      "symbol": "K",
+      "quantity": "temperatura termodynamiczna",
+      "type": "Base Unit",
+      "definition": "Zdefiniowany przez stałą Boltzmanna k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mol",
+      "symbol": "mol",
+      "quantity": "ilość substancji",
+      "type": "Base Unit",
+      "definition": "Dokładnie 6.02214076×10²³ jednostek elementarnych",
+      "dimension": "N"
+    },
+    {
+      "name": "kandela",
+      "symbol": "cd",
+      "quantity": "światłość",
+      "type": "Base Unit",
+      "definition": "Skuteczność świetlna Kcd = 683 lm/W przy 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "herc",
+      "symbol": "Hz",
+      "quantity": "częstotliwość",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "niuton",
+      "symbol": "N",
+      "quantity": "siła",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "paskal",
+      "symbol": "Pa",
+      "quantity": "ciśnienie, naprężenie",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "dżul",
+      "symbol": "J",
+      "quantity": "energia, praca, ciepło",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "wat",
+      "symbol": "W",
+      "quantity": "moc, strumień promieniowania",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "kulomb",
+      "symbol": "C",
+      "quantity": "ładunek elektryczny",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "wolt",
+      "symbol": "V",
+      "quantity": "potencjał elektryczny",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "pojemność elektryczna",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "om",
+      "symbol": "Ω",
+      "quantity": "rezystancja elektryczna",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "simens",
+      "symbol": "S",
+      "quantity": "konduktancja elektryczna",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "strumień magnetyczny",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "gęstość strumienia magnetycznego",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henr",
+      "symbol": "H",
+      "quantity": "indukcyjność",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "stopień Celsjusza",
+      "symbol": "°C",
+      "quantity": "temperatura",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "strumień świetlny",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "luks",
+      "symbol": "lx",
+      "quantity": "natężenie oświetlenia",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "bekerel",
+      "symbol": "Bq",
+      "quantity": "aktywność promieniotwórcza",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (rozpadów na sekundę)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "grej",
+      "symbol": "Gy",
+      "quantity": "dawka pochłonięta",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "siwert",
+      "symbol": "Sv",
+      "quantity": "dawka równoważna",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "aktywność katalityczna",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radian",
+      "symbol": "rad",
+      "quantity": "kąt płaski",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (bezwymiarowy)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradian",
+      "symbol": "sr",
+      "quantity": "kąt bryłowy",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (bezwymiarowy)",
+      "dimension": "1"
+    },
+    {
+      "name": "quetta",
+      "symbol": "Q",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "jotta",
+      "symbol": "Y",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "eksa",
+      "symbol": "E",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hekto",
+      "symbol": "h",
+      "quantity": "przedrostek SI",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "Przedrostek SI",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Jednostki SI & Definicje - Pobierz za darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz 53 Jednostki SI z definicjami, symbolami i wymiarami za darmo. Dostępne w formatach Excel, CSV i PDF dla nauki, edukacji i rozwoju.",
+    "title": "Zbiór danych Międzynarodowego Układu Jednostek Miar (Jednostki SI)",
+    "description": "Ten kompleksowy zbiór danych zawiera 53 podstawowe i pochodne jednostki SI, w tym ich nazwy, symbole, wielkości, typy, definicje i wymiary. Jest to niezbędne źródło dla nauki, inżynierii i edukacji.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 53 kompleksowych Jednostek SI, w tym jednostek podstawowych i pochodnych.",
+      "Poznaj precyzyjne definicje, symbole, wielkości i wymiary dla każdej jednostki.",
+      "Pobierz dane jednostek w elastycznych formatach Excel, CSV lub drukowalnym PDF.",
+      "Wykorzystaj dokładne informacje o jednostkach SI do badań naukowych i materiałów edukacyjnych."
+    ],
+    "keywords": [
+      "jednostki si lista excel",
+      "międzynarodowy układ jednostek miar csv",
+      "definicje jednostek podstawowych pochodnych",
+      "pobierz dane systemu metrycznego",
+      "wymiary wielkości fizycznych",
+      "zasoby edukacji naukowej"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptów Python, aby zasilać aplikacje naukowe lub narzędzia do konwersji jednostek.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania jednostek według typu lub generowania niestandardowych raportów dla projektów inżynieryjnych i badań.",
+      "Wydrukuj wersję **PDF** do referencji w klasie, plakatów edukacyjnych lub szybkiej konsultacji offline podczas eksperymentów laboratoryjnych.",
+      "Odwołaj się do tego zbioru danych, aby zapewnić dokładność i spójność w każdym projekcie wymagającym precyzyjnych jednostek miary i ich fundamentalnych definicji."
+    ]
+  },
+  "record_count": 53,
+  "title": "Zbiór danych Międzynarodowego Układu Jednostek Miar (Jednostki SI)"
+}

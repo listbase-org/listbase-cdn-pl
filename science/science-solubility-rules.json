@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Kompleksowy Zestaw Danych Tabela Zasad Rozpuszczalności",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Azotany",
+      "formula": "NO₃⁻",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "Brak - wszystkie azotany są rozpuszczalne",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Octany",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "Octan srebra jest słabo rozpuszczalny",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Chlorany",
+      "formula": "ClO₃⁻",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "Brak - wszystkie chlorany są rozpuszczalne",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Nadtleniany",
+      "formula": "ClO₄⁻",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ są słabo rozpuszczalne",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Jony Metali Alkalicznych",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "Brak - wszystkie sole Grupy 1 są rozpuszczalne",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Amonowy",
+      "formula": "NH₄⁺",
+      "solubility": "Rozpuszczalny",
+      "exceptions": "Brak - wszystkie sole amonowe są rozpuszczalne",
+      "category": "Zawsze Rozpuszczalny",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halogenki (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Głównie Rozpuszczalny",
+      "exceptions": "Halogenki Ag⁺, Pb²⁺, Hg₂²⁺ są nierozpuszczalne",
+      "category": "Rozpuszczalny z Wyjątkami",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Fluorki",
+      "formula": "F⁻",
+      "solubility": "Głównie Rozpuszczalny",
+      "exceptions": "Fluorki Grupy 2 (MgF₂, CaF₂, BaF₂) i PbF₂ są nierozpuszczalne",
+      "category": "Rozpuszczalny z Wyjątkami",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Siarczany",
+      "formula": "SO₄²⁻",
+      "solubility": "Głównie Rozpuszczalny",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ są nierozpuszczalne lub słabo rozpuszczalne",
+      "category": "Rozpuszczalny z Wyjątkami",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Węglany",
+      "formula": "CO₃²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Węglany metali alkalicznych i amonu są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Fosforany",
+      "formula": "PO₄³⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Fosforany metali alkalicznych i amonu są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Chromiany",
+      "formula": "CrO₄²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Chromiany metali alkalicznych i amonu są rozpuszczalne; MgCrO₄, CaCrO₄ są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Siarczki",
+      "formula": "S²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Siarczki metali alkalicznych, metali ziem alkalicznych i amonu są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Wodorotlenki",
+      "formula": "OH⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Wodorotlenki metali alkalicznych są rozpuszczalne; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ są słabo rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Tlenki",
+      "formula": "O²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Tlenki metali alkalicznych reagują z wodą tworząc rozpuszczalne wodorotlenki; CaO, SrO, BaO są słabo rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Siarczyny",
+      "formula": "SO₃²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Siarczyny metali alkalicznych i amonu są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Szczawiany",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Głównie Nierozpuszczalny",
+      "exceptions": "Szczawiany metali alkalicznych i amonu są rozpuszczalne",
+      "category": "Nierozpuszczalny z Wyjątkami",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Chlorek Srebra",
+      "formula": "AgCl",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Rozpuszcza się w roztworze NH₃ tworząc [Ag(NH₃)₂]⁺",
+      "category": "Typowy Osad",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Bromek Srebra",
+      "formula": "AgBr",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Mniej rozpuszczalny niż AgCl",
+      "category": "Typowy Osad",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Jodek Srebra",
+      "formula": "AgI",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Najmniej rozpuszczalny halogenek srebra",
+      "category": "Typowy Osad",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Chlorek ołowiu(II)",
+      "formula": "PbCl₂",
+      "solubility": "Trudno rozpuszczalny",
+      "exceptions": "Lepiej rozpuszczalny w gorącej wodzie",
+      "category": "Częsty osad",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Jodek ołowiu(II)",
+      "formula": "PbI₂",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Lepiej rozpuszczalny w gorącej wodzie (demonstracja złotego deszczu)",
+      "category": "Częsty osad",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Siarczan ołowiu(II)",
+      "formula": "PbSO₄",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Rozpuszcza się w stężonym H₂SO₄",
+      "category": "Częsty osad",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Siarczan baru",
+      "formula": "BaSO₄",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Bardzo nierozpuszczalny - stosowany w diagnostyce obrazowej",
+      "category": "Częsty osad",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Węglan wapnia",
+      "formula": "CaCO₃",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Rozpuszcza się w kwasie; lepiej rozpuszczalny w wodzie bogatej w CO₂",
+      "category": "Częsty osad",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Siarczan wapnia",
+      "formula": "CaSO₄",
+      "solubility": "Trudno rozpuszczalny",
+      "exceptions": "Gips, gips paryski",
+      "category": "Częsty osad",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Wodorotlenek żelaza(III)",
+      "formula": "Fe(OH)₃",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Rozpuszcza się w kwasie",
+      "category": "Częsty osad",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Wodorotlenek miedzi(II)",
+      "formula": "Cu(OH)₂",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Rozpuszcza się w NH₃ tworząc [Cu(NH₃)₄]²⁺ (ciemnoniebieski)",
+      "category": "Częsty osad",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Wodorotlenek magnezu",
+      "formula": "Mg(OH)₂",
+      "solubility": "Trudno rozpuszczalny",
+      "exceptions": "Mleko magnezjowe - środek zobojętniający kwasy",
+      "category": "Częsty osad",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Wodorotlenek glinu",
+      "formula": "Al(OH)₃",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Amfoteryczny - rozpuszcza się zarówno w kwasach, jak i zasadach",
+      "category": "Częsty osad",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Wodorotlenek cynku",
+      "formula": "Zn(OH)₂",
+      "solubility": "Nierozpuszczalny",
+      "exceptions": "Amfoteryczny - rozpuszcza się w nadmiarze NaOH",
+      "category": "Częsty osad",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Zasad Rozpuszczalności - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie ten kompleksowy zestaw danych Tabela Zasad Rozpuszczalności (31 rekordów). Dostępny w formatach Excel, CSV i PDF dla studentów i profesjonalistów chemii.",
+    "title": "Kompleksowy Zestaw Danych Tabela Zasad Rozpuszczalności",
+    "description": "Ten zestaw danych zawiera szczegółową tabelę zasad rozpuszczalności dla typowych związków jonowych, w tym ich wzory, stan rozpuszczalności, wyjątki i przykładowe ilustracje. To niezbędne źródło do nauki i badań chemicznych.",
+    "key_takeaways": [
+      "Dostęp do 31 kluczowych zasad rozpuszczalności dla różnych jonów i związków.",
+      "Przeglądaj szczegółowe wyjątki i uwagi dla każdego wytycznego dotyczącego rozpuszczalności.",
+      "Pobierz gotowe odniesienie do kursów chemii i prac laboratoryjnych.",
+      "Uzyskaj praktyczne przykłady związków rozpuszczalnych i nierozpuszczalnych."
+    ],
+    "keywords": [
+      "tabela zasad rozpuszczalności excel",
+      "wykres rozpuszczalności chemicznej csv",
+      "rozpuszczalność związków jonowych pdf",
+      "zestaw danych referencyjnych chemii",
+      "pobierz dane o rozpuszczalności",
+      "wytyczne rozpuszczalności"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptu Pythona w celu programowej analizy i integracji z aplikacjami edukacyjnymi.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i tworzenia niestandardowych raportów do zadań chemicznych lub analizy danych laboratoryjnych.",
+      "Wydrukuj wersję **PDF**, aby uzyskać poręczny, offline'owy wykres referencyjny w klasach lub podczas eksperymentów laboratoryjnych.",
+      "Wykorzystaj ten zestaw danych do szybkiego zweryfikowania rozpuszczalności różnych związków w celu przewidywania reakcji chemicznych i projektowania eksperymentów."
+    ]
+  },
+  "record_count": 31,
+  "title": "Kompleksowy Zestaw Danych Tabela Zasad Rozpuszczalności"
+}

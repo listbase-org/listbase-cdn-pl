@@ -1,0 +1,1686 @@
+{
+  "id": "pl-parki-rozrywki",
+  "name": "Polska — parki rozrywki",
+  "title": "Polska — parki rozrywki",
+  "description": "Parki rozrywki w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 329,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Zimne Doły\" - teren rekreacyjny",
+      "latitude": 52.041154,
+      "longitude": 21.042003
+    },
+    {
+      "name": "ABlandia",
+      "latitude": 49.440702,
+      "longitude": 20.41475
+    },
+    {
+      "name": "Adventure Park",
+      "latitude": 54.466395,
+      "longitude": 18.551618
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.792469,
+      "longitude": 18.953477
+    },
+    {
+      "name": "Amok Park",
+      "latitude": 54.103961,
+      "longitude": 17.96608
+    },
+    {
+      "name": "Ampa",
+      "latitude": 49.986117,
+      "longitude": 20.043511
+    },
+    {
+      "name": "AniMiś - Letnia Strefa Dziecka",
+      "latitude": 51.953213,
+      "longitude": 16.332293
+    },
+    {
+      "name": "Arboretum Karnieszewice",
+      "latitude": 54.270202,
+      "longitude": 16.328268
+    },
+    {
+      "name": "Archeopark",
+      "latitude": 51.047645,
+      "longitude": 21.069328
+    },
+    {
+      "name": "Archipelag Roztocze - Park Żywiołów",
+      "latitude": 50.564351,
+      "longitude": 23.388172
+    },
+    {
+      "name": "Bajkoland",
+      "latitude": 49.62395,
+      "longitude": 20.706619
+    },
+    {
+      "name": "Bajkowa kraina",
+      "latitude": 49.542524,
+      "longitude": 21.975927
+    },
+    {
+      "name": "Bali Indah",
+      "latitude": 54.529114,
+      "longitude": 16.957246
+    },
+    {
+      "name": "Bałtowski Kompleks Turystyczny",
+      "latitude": 51.01782,
+      "longitude": 21.548419
+    },
+    {
+      "name": "Bałtycki Park Dinozaurów",
+      "latitude": 53.995765,
+      "longitude": 14.818262
+    },
+    {
+      "name": "Bałtycki Park Miniatur",
+      "latitude": 53.915622,
+      "longitude": 14.434425
+    },
+    {
+      "name": "Bliza Park Miniatur",
+      "latitude": 54.830132,
+      "longitude": 18.331707
+    },
+    {
+      "name": "Bogilu Kraina Zabawy",
+      "latitude": 52.188098,
+      "longitude": 16.246027
+    },
+    {
+      "name": "Canpol Wonderland",
+      "latitude": 53.651657,
+      "longitude": 17.315574
+    },
+    {
+      "name": "Capitalna Zabawa",
+      "latitude": 50.441736,
+      "longitude": 16.244711
+    },
+    {
+      "name": "Centrum Edukacji i Promocji Regionu",
+      "latitude": 54.205383,
+      "longitude": 18.107503
+    },
+    {
+      "name": "Centrum Przyrodniczo-Edukacyjne Brama w Gorce",
+      "latitude": 49.507229,
+      "longitude": 20.091126
+    },
+    {
+      "name": "Centrum Rozrywki Autodrom",
+      "latitude": 49.297729,
+      "longitude": 19.945326
+    },
+    {
+      "name": "Centrum Rozrywki Kubatura",
+      "latitude": 50.681776,
+      "longitude": 17.9418
+    },
+    {
+      "name": "Centrum Świat Dziecka",
+      "latitude": 52.229491,
+      "longitude": 20.243056
+    },
+    {
+      "name": "Costerina Park - Rodzinne Cenrtum Rozrywki",
+      "latitude": 54.122053,
+      "longitude": 17.984802
+    },
+    {
+      "name": "Country Park Pod Gajem",
+      "latitude": 52.437664,
+      "longitude": 16.560901
+    },
+    {
+      "name": "Crazy Park",
+      "latitude": 54.742168,
+      "longitude": 17.558225
+    },
+    {
+      "name": "Cyrk (sezonowo)",
+      "latitude": 51.866515,
+      "longitude": 19.400004
+    },
+    {
+      "name": "Czarogrody",
+      "latitude": 54.679295,
+      "longitude": 18.370523
+    },
+    {
+      "name": "Cztery Żywioły Wioska Indiańska",
+      "latitude": 53.203905,
+      "longitude": 17.951875
+    },
+    {
+      "name": "Darłowo Park & Resort",
+      "latitude": 54.44589,
+      "longitude": 16.396301
+    },
+    {
+      "name": "Deli Park",
+      "latitude": 52.296779,
+      "longitude": 16.757972
+    },
+    {
+      "name": "Dino Park",
+      "latitude": 49.283559,
+      "longitude": 19.964124
+    },
+    {
+      "name": "Dino Park",
+      "latitude": 50.302482,
+      "longitude": 19.241231
+    },
+    {
+      "name": "Dino Park Malbork",
+      "latitude": 54.042084,
+      "longitude": 19.042503
+    },
+    {
+      "name": "Dinolandia",
+      "latitude": 49.867956,
+      "longitude": 19.407066
+    },
+    {
+      "name": "Dinopark",
+      "latitude": 50.838112,
+      "longitude": 15.542247
+    },
+    {
+      "name": "Dinopark Kołacinek",
+      "latitude": 51.867418,
+      "longitude": 19.827773
+    },
+    {
+      "name": "Discovery Park Łeba",
+      "latitude": 54.766335,
+      "longitude": 17.55834
+    },
+    {
+      "name": "Dmuchany Świat Letti Lili",
+      "latitude": 54.022275,
+      "longitude": 14.742915
+    },
+    {
+      "name": "Dmuchańce (sezonowo)",
+      "latitude": 54.346725,
+      "longitude": 19.111032
+    },
+    {
+      "name": "Dolina Dinozaurów",
+      "latitude": 51.672276,
+      "longitude": 21.665436
+    },
+    {
+      "name": "Dom do góry nogami",
+      "latitude": 54.182901,
+      "longitude": 15.566769
+    },
+    {
+      "name": "Dom do góry nogami",
+      "latitude": 54.259684,
+      "longitude": 16.052285
+    },
+    {
+      "name": "Dream Park Ochaby",
+      "latitude": 49.855729,
+      "longitude": 18.761789
+    },
+    {
+      "name": "Dynioland",
+      "latitude": 52.46776,
+      "longitude": 20.97329
+    },
+    {
+      "name": "Dzielnica Filmowa",
+      "latitude": 52.03028,
+      "longitude": 21.046046
+    },
+    {
+      "name": "Elfland",
+      "latitude": 52.371438,
+      "longitude": 17.387831
+    },
+    {
+      "name": "Energylandia",
+      "latitude": 50.000838,
+      "longitude": 19.401107
+    },
+    {
+      "name": "ERYKOLAND",
+      "latitude": 51.836866,
+      "longitude": 19.222298
+    },
+    {
+      "name": "Etno Roztocze",
+      "latitude": 50.650903,
+      "longitude": 22.942929
+    },
+    {
+      "name": "Europejskie Centrum Bajki im. Koziołka Matołka",
+      "latitude": 50.398823,
+      "longitude": 21.043188
+    },
+    {
+      "name": "Europejskie Centrum Bajki w Pacanowie",
+      "latitude": 50.397516,
+      "longitude": 21.042894
+    },
+    {
+      "name": "Faktoria Rzymska i Koń Trojański",
+      "latitude": 54.398626,
+      "longitude": 17.70042
+    },
+    {
+      "name": "Family Park Mielno",
+      "latitude": 54.259221,
+      "longitude": 16.060565
+    },
+    {
+      "name": "Farma Alexa",
+      "latitude": 54.693772,
+      "longitude": 17.589428
+    },
+    {
+      "name": "Farma Iluzji",
+      "latitude": 51.656079,
+      "longitude": 21.692097
+    },
+    {
+      "name": "FastPark Park Rozrywki",
+      "latitude": 53.162664,
+      "longitude": 23.066814
+    },
+    {
+      "name": "Figloraj Fun Zone",
+      "latitude": 51.225172,
+      "longitude": 18.566185
+    },
+    {
+      "name": "Fikoland Sp. z o. o.",
+      "latitude": 53.118067,
+      "longitude": 23.124655
+    },
+    {
+      "name": "Frajdalandia",
+      "latitude": 52.329758,
+      "longitude": 20.116971
+    },
+    {
+      "name": "Freak Park",
+      "latitude": 50.311425,
+      "longitude": 19.151956
+    },
+    {
+      "name": "FunPark Niepołomice",
+      "latitude": 50.036301,
+      "longitude": 20.218079
+    },
+    {
+      "name": "FunPark Polanica-Zdrój",
+      "latitude": 50.411923,
+      "longitude": 16.519531
+    },
+    {
+      "name": "Funzeum",
+      "latitude": 50.267303,
+      "longitude": 18.715214
+    },
+    {
+      "name": "Galindia",
+      "latitude": 53.734666,
+      "longitude": 21.562057
+    },
+    {
+      "name": "Geopark - Owadów-Brzezinki",
+      "latitude": 51.379675,
+      "longitude": 20.131977
+    },
+    {
+      "name": "GEOsfera",
+      "latitude": 50.22734,
+      "longitude": 19.274454
+    },
+    {
+      "name": "GIGANTEI - Karkonoski Park Ducha Gór",
+      "latitude": 50.862458,
+      "longitude": 15.611857
+    },
+    {
+      "name": "Gigapark",
+      "latitude": 54.245439,
+      "longitude": 15.953672
+    },
+    {
+      "name": "Grodzisko Kosmaty Borek",
+      "latitude": 53.3116,
+      "longitude": 23.188813
+    },
+    {
+      "name": "Gród Posadów",
+      "latitude": 50.507191,
+      "longitude": 23.815121
+    },
+    {
+      "name": "Gród Średniowieczny - Stowarzyszenie Drengowie znad Górnej Odry",
+      "latitude": 50.095872,
+      "longitude": 18.26277
+    },
+    {
+      "name": "Górnośląski Park Etnograficzny w Chorzowie",
+      "latitude": 50.293872,
+      "longitude": 18.972522
+    },
+    {
+      "name": "Górski Park Równica",
+      "latitude": 49.716917,
+      "longitude": 18.848473
+    },
+    {
+      "name": "H2Ochla",
+      "latitude": 51.905853,
+      "longitude": 15.486521
+    },
+    {
+      "name": "Happy Park",
+      "latitude": 52.231836,
+      "longitude": 20.245658
+    },
+    {
+      "name": "Holiday Park Szczecin",
+      "latitude": 53.426615,
+      "longitude": 14.570424
+    },
+    {
+      "name": "HopaLupa",
+      "latitude": 51.749958,
+      "longitude": 19.449018
+    },
+    {
+      "name": "Hossoland",
+      "latitude": 53.951084,
+      "longitude": 15.388761
+    },
+    {
+      "name": "House of Air",
+      "latitude": 50.267425,
+      "longitude": 18.715742
+    },
+    {
+      "name": "Hype Park",
+      "latitude": 50.077972,
+      "longitude": 19.942433
+    },
+    {
+      "name": "Innowacyjny Ośrodek Turystyki Edukacyjnej i Biznesowej Energosfera",
+      "latitude": 52.022987,
+      "longitude": 19.484948
+    },
+    {
+      "name": "Jomsborg Gród Wikingów",
+      "latitude": 52.280408,
+      "longitude": 20.993773
+    },
+    {
+      "name": "Julinek Park",
+      "latitude": 52.275112,
+      "longitude": 20.592063
+    },
+    {
+      "name": "Jurajski Park Dinozaurów",
+      "latitude": 53.185209,
+      "longitude": 23.151861
+    },
+    {
+      "name": "Jurapark Krasiejów",
+      "latitude": 50.663842,
+      "longitude": 18.270912
+    },
+    {
+      "name": "JuraPark Solec Kujawski",
+      "latitude": 53.080468,
+      "longitude": 18.232601
+    },
+    {
+      "name": "Karpacka Troja",
+      "latitude": 49.732696,
+      "longitude": 21.43149
+    },
+    {
+      "name": "Karuzela",
+      "latitude": 52.400148,
+      "longitude": 16.979657
+    },
+    {
+      "name": "Kaszubski Gracik",
+      "latitude": 54.393786,
+      "longitude": 18.043167
+    },
+    {
+      "name": "Kaszubski Park Gigantów",
+      "latitude": 54.393567,
+      "longitude": 18.04483
+    },
+    {
+      "name": "Kaszubski Park Miniatur",
+      "latitude": 54.398938,
+      "longitude": 18.043697
+    },
+    {
+      "name": "Kids Arena",
+      "latitude": 53.442539,
+      "longitude": 14.553523
+    },
+    {
+      "name": "Kinder Planeta",
+      "latitude": 49.586568,
+      "longitude": 20.672751
+    },
+    {
+      "name": "Klockowisko",
+      "latitude": 54.160141,
+      "longitude": 15.564746
+    },
+    {
+      "name": "Kolejkowo",
+      "latitude": 50.266943,
+      "longitude": 18.715068
+    },
+    {
+      "name": "Kolejowy Odjazd",
+      "latitude": 54.432929,
+      "longitude": 18.56638
+    },
+    {
+      "name": "Kompleks Turystyczny Brzezóvka w Brzezówce",
+      "latitude": 50.219003,
+      "longitude": 21.750855
+    },
+    {
+      "name": "Kompleks zjeżdżalni suchych",
+      "latitude": 49.600624,
+      "longitude": 20.871132
+    },
+    {
+      "name": "Kopalnia Guido",
+      "latitude": 50.28956,
+      "longitude": 18.791865
+    },
+    {
+      "name": "Kopalnia Złota w Złotym Stoku",
+      "latitude": 50.439792,
+      "longitude": 16.874659
+    },
+    {
+      "name": "Kosmiczne Ranczo",
+      "latitude": 51.901958,
+      "longitude": 21.175235
+    },
+    {
+      "name": "Kraina Smurfów",
+      "latitude": 52.376187,
+      "longitude": 22.375423
+    },
+    {
+      "name": "Kraina Zabawy",
+      "latitude": 50.966804,
+      "longitude": 20.666821
+    },
+    {
+      "name": "Krasnal",
+      "latitude": 54.754243,
+      "longitude": 17.553589
+    },
+    {
+      "name": "KureQuad Spychowo",
+      "latitude": 53.609644,
+      "longitude": 21.346662
+    },
+    {
+      "name": "Labiland – Rodzinny Park Rozrywki",
+      "latitude": 49.51759,
+      "longitude": 20.580479
+    },
+    {
+      "name": "Labirynt pod Warszawą",
+      "latitude": 52.124841,
+      "longitude": 20.69281
+    },
+    {
+      "name": "Labirynt w polu kukurydzy",
+      "latitude": 54.753787,
+      "longitude": 18.388423
+    },
+    {
+      "name": "Laser Space",
+      "latitude": 50.932495,
+      "longitude": 21.395089
+    },
+    {
+      "name": "Lastag Laserowy paintball",
+      "latitude": 53.160054,
+      "longitude": 23.075531
+    },
+    {
+      "name": "Legendia Śląskie Wesołe Miasteczko",
+      "latitude": 50.274899,
+      "longitude": 18.992015
+    },
+    {
+      "name": "Lemur-Park",
+      "latitude": 54.585533,
+      "longitude": 18.37982
+    },
+    {
+      "name": "Leonardia - park gier drewnianych",
+      "latitude": 54.423219,
+      "longitude": 16.505398
+    },
+    {
+      "name": "Leśny Park Przygody \"Skalisko\"",
+      "latitude": 50.437051,
+      "longitude": 16.873628
+    },
+    {
+      "name": "Lilu Play - Centrum Zabaw dla Dzieci",
+      "latitude": 50.084876,
+      "longitude": 18.213124
+    },
+    {
+      "name": "Linowy Park Przygody",
+      "latitude": 49.701727,
+      "longitude": 21.76384
+    },
+    {
+      "name": "Loopy's World - Rodzinne Centrum Rozrywki w Gdańsku",
+      "latitude": 54.390802,
+      "longitude": 18.587757
+    },
+    {
+      "name": "Lunapark",
+      "latitude": 52.232911,
+      "longitude": 21.047737
+    },
+    {
+      "name": "Lunapark",
+      "latitude": 53.153198,
+      "longitude": 18.024966
+    },
+    {
+      "name": "Lunapark Bajka",
+      "latitude": 54.033577,
+      "longitude": 21.765307
+    },
+    {
+      "name": "Lunapark Kapi",
+      "latitude": 54.825849,
+      "longitude": 18.244785
+    },
+    {
+      "name": "Lunapark Krynica",
+      "latitude": 54.378477,
+      "longitude": 19.443922
+    },
+    {
+      "name": "Lunapark Mirolandia",
+      "latitude": 54.378251,
+      "longitude": 16.31713
+    },
+    {
+      "name": "Lunapark Sowiński",
+      "latitude": 54.793103,
+      "longitude": 18.41116
+    },
+    {
+      "name": "Magiczna Osada",
+      "latitude": 49.793285,
+      "longitude": 19.388708
+    },
+    {
+      "name": "Magiczna Polana",
+      "latitude": 50.045187,
+      "longitude": 22.038367
+    },
+    {
+      "name": "Magiczne Ogrody",
+      "latitude": 51.365762,
+      "longitude": 21.909865
+    },
+    {
+      "name": "Majaland",
+      "latitude": 52.182457,
+      "longitude": 21.283737
+    },
+    {
+      "name": "Majaland",
+      "latitude": 54.410975,
+      "longitude": 18.47923
+    },
+    {
+      "name": "Majaland Kownaty",
+      "latitude": 52.349763,
+      "longitude": 15.082608
+    },
+    {
+      "name": "Malutkie Resort - Centrum Rekreacyjno-Eventowe",
+      "latitude": 51.112846,
+      "longitude": 19.42367
+    },
+    {
+      "name": "Mandoria",
+      "latitude": 51.649739,
+      "longitude": 19.483053
+    },
+    {
+      "name": "MegaLandia",
+      "latitude": 54.573557,
+      "longitude": 16.894928
+    },
+    {
+      "name": "Miasteczko Galicyjskie w Nowym Sączu",
+      "latitude": 49.621207,
+      "longitude": 20.739319
+    },
+    {
+      "name": "Miasteczko Strażackie CH Karolinka",
+      "latitude": 50.680605,
+      "longitude": 17.88227
+    },
+    {
+      "name": "Miasteczko Westernowe Mrongoville",
+      "latitude": 53.884053,
+      "longitude": 21.317042
+    },
+    {
+      "name": "Mikilandia",
+      "latitude": 50.406212,
+      "longitude": 16.287925
+    },
+    {
+      "name": "Mini park linowy",
+      "latitude": 49.793856,
+      "longitude": 19.388713
+    },
+    {
+      "name": "Miniatury",
+      "latitude": 49.418634,
+      "longitude": 20.318662
+    },
+    {
+      "name": "Minieuroland",
+      "latitude": 50.454209,
+      "longitude": 16.631456
+    },
+    {
+      "name": "Morskie Centrum Nauki Nautica Park",
+      "latitude": 54.02587,
+      "longitude": 14.751756
+    },
+    {
+      "name": "Muzeum 6D",
+      "latitude": 54.184737,
+      "longitude": 15.564996
+    },
+    {
+      "name": "Muzeum Budownictwa Ludowego - Park Etnograficzny w Olsztynku",
+      "latitude": 53.592243,
+      "longitude": 20.285423
+    },
+    {
+      "name": "Muzeum Etnograficzne w Zielonej Górze-Ochli",
+      "latitude": 51.89092,
+      "longitude": 15.473105
+    },
+    {
+      "name": "Muzeum Kultury Ludowej",
+      "latitude": 53.12328,
+      "longitude": 17.300908
+    },
+    {
+      "name": "Muzeum Lotnictwa Polskiego",
+      "latitude": 50.077965,
+      "longitude": 19.990691
+    },
+    {
+      "name": "Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego",
+      "latitude": 52.314729,
+      "longitude": 16.796278
+    },
+    {
+      "name": "Muzeum Orawski Park Etnograficzny w Zubrzycy Górnej",
+      "latitude": 49.570385,
+      "longitude": 19.633248
+    },
+    {
+      "name": "Muzeum Wsi Lubelskiej",
+      "latitude": 51.259724,
+      "longitude": 22.505607
+    },
+    {
+      "name": "Muzeum Wsi Mazowieckiej w Sierpcu",
+      "latitude": 52.865306,
+      "longitude": 19.63573
+    },
+    {
+      "name": "Muzeum Wsi Opolskiej",
+      "latitude": 50.682799,
+      "longitude": 17.862653
+    },
+    {
+      "name": "Muzeum Wsi w Maruszowie",
+      "latitude": 50.877222,
+      "longitude": 21.795083
+    },
+    {
+      "name": "Młynek",
+      "latitude": 52.189773,
+      "longitude": 22.26527
+    },
+    {
+      "name": "Nadrzewna Osada - Historyczny Park Linowy",
+      "latitude": 52.557913,
+      "longitude": 17.01208
+    },
+    {
+      "name": "Naramki - Free People Space",
+      "latitude": 52.451634,
+      "longitude": 16.945746
+    },
+    {
+      "name": "Neiße - Tours",
+      "latitude": 51.257097,
+      "longitude": 15.030346
+    },
+    {
+      "name": "Ninja Park",
+      "latitude": 49.440811,
+      "longitude": 20.415994
+    },
+    {
+      "name": "Noe Park",
+      "latitude": 51.119925,
+      "longitude": 20.825392
+    },
+    {
+      "name": "Ocean Park",
+      "latitude": 54.788978,
+      "longitude": 18.394354
+    },
+    {
+      "name": "Oceanarium",
+      "latitude": 54.179373,
+      "longitude": 15.568894
+    },
+    {
+      "name": "Ogród Biblijny",
+      "latitude": 51.422028,
+      "longitude": 21.959496
+    },
+    {
+      "name": "Ogród biblijny na Łosiówce",
+      "latitude": 50.048505,
+      "longitude": 19.911155
+    },
+    {
+      "name": "Ogród doświadczeń",
+      "latitude": 50.7825,
+      "longitude": 20.465042
+    },
+    {
+      "name": "Ogródek Dydaktyczny",
+      "latitude": 49.728903,
+      "longitude": 21.247684
+    },
+    {
+      "name": "Orzeł i Krzyż",
+      "latitude": 52.560773,
+      "longitude": 17.013879
+    },
+    {
+      "name": "Osada neolityczna w Kopcu",
+      "latitude": 50.70637,
+      "longitude": 21.325359
+    },
+    {
+      "name": "Osada Słowiańska",
+      "latitude": 51.014925,
+      "longitude": 21.547425
+    },
+    {
+      "name": "Paleopark Szprotawa",
+      "latitude": 51.565223,
+      "longitude": 15.532694
+    },
+    {
+      "name": "Park - skansen techniki użytkowej",
+      "latitude": 53.287592,
+      "longitude": 17.931501
+    },
+    {
+      "name": "Park 17 - park trampolin",
+      "latitude": 53.133984,
+      "longitude": 18.018264
+    },
+    {
+      "name": "Park BartBo",
+      "latitude": 53.599253,
+      "longitude": 20.576576
+    },
+    {
+      "name": "Park Dinozaurów",
+      "latitude": 52.671077,
+      "longitude": 14.99873
+    },
+    {
+      "name": "Park dinozaurów",
+      "latitude": 54.415914,
+      "longitude": 18.527827
+    },
+    {
+      "name": "Park dinozaurów Jura Park",
+      "latitude": 51.01607,
+      "longitude": 21.550884
+    },
+    {
+      "name": "Park Dzieje",
+      "latitude": 52.559821,
+      "longitude": 17.009922
+    },
+    {
+      "name": "Park etnograficzny ,,Wioska indiańska''",
+      "latitude": 50.163308,
+      "longitude": 19.338115
+    },
+    {
+      "name": "Park Etnograficzny Krakowiaków Zachodnich",
+      "latitude": 50.075499,
+      "longitude": 19.439908
+    },
+    {
+      "name": "Park Ewolucji",
+      "latitude": 54.662396,
+      "longitude": 18.356705
+    },
+    {
+      "name": "Park Ewolucji",
+      "latitude": 54.66266,
+      "longitude": 18.355046
+    },
+    {
+      "name": "Park Family Fun",
+      "latitude": 50.031807,
+      "longitude": 19.233397
+    },
+    {
+      "name": "Park Fizyki",
+      "latitude": 51.797664,
+      "longitude": 15.722808
+    },
+    {
+      "name": "Park Historii i Rozrywki „Twierdza Ustka”",
+      "latitude": 54.586584,
+      "longitude": 16.849434
+    },
+    {
+      "name": "Park Historyczny „Rycerze Bogurodzicy”",
+      "latitude": 51.453947,
+      "longitude": 21.031183
+    },
+    {
+      "name": "Park Korzonek",
+      "latitude": 50.711151,
+      "longitude": 18.979758
+    },
+    {
+      "name": "Park Korzonek",
+      "latitude": 50.711573,
+      "longitude": 18.979012
+    },
+    {
+      "name": "Park Krasnala",
+      "latitude": 51.799745,
+      "longitude": 15.723571
+    },
+    {
+      "name": "Park Kreatywny",
+      "latitude": 50.695092,
+      "longitude": 22.398161
+    },
+    {
+      "name": "Park Liniowy",
+      "latitude": 49.920401,
+      "longitude": 19.444555
+    },
+    {
+      "name": "park linowy",
+      "latitude": 50.693484,
+      "longitude": 22.398888
+    },
+    {
+      "name": "Park Linowy",
+      "latitude": 50.747852,
+      "longitude": 20.631363
+    },
+    {
+      "name": "Park Linowy",
+      "latitude": 51.110497,
+      "longitude": 15.772543
+    },
+    {
+      "name": "Park Linowy",
+      "latitude": 51.671036,
+      "longitude": 17.822713
+    },
+    {
+      "name": "Park Linowy",
+      "latitude": 52.031574,
+      "longitude": 21.048562
+    },
+    {
+      "name": "Park Linowy",
+      "latitude": 52.289714,
+      "longitude": 23.044585
+    },
+    {
+      "name": "Park linowy",
+      "latitude": 52.361798,
+      "longitude": 22.841239
+    },
+    {
+      "name": "Park linowy",
+      "latitude": 53.173468,
+      "longitude": 16.828049
+    },
+    {
+      "name": "Park linowy",
+      "latitude": 53.175524,
+      "longitude": 16.830686
+    },
+    {
+      "name": "Park linowy",
+      "latitude": 53.826526,
+      "longitude": 22.33889
+    },
+    {
+      "name": "Park Linowy \"Port Brzeźno\"",
+      "latitude": 54.411412,
+      "longitude": 18.619615
+    },
+    {
+      "name": "Park Linowy Base Camp Szczyrk",
+      "latitude": 49.712928,
+      "longitude": 19.021519
+    },
+    {
+      "name": "Park Linowy Bluszcz",
+      "latitude": 53.917104,
+      "longitude": 14.244687
+    },
+    {
+      "name": "Park Linowy Czaplinek - Linolandia",
+      "latitude": 53.567963,
+      "longitude": 16.228202
+    },
+    {
+      "name": "Park linowy dla dzieci",
+      "latitude": 53.058716,
+      "longitude": 16.463984
+    },
+    {
+      "name": "Park Linowy Doktorce",
+      "latitude": 52.909795,
+      "longitude": 23.073151
+    },
+    {
+      "name": "Park Linowy Góra Harców",
+      "latitude": 54.506539,
+      "longitude": 18.55436
+    },
+    {
+      "name": "Park Linowy Lemur",
+      "latitude": 49.748707,
+      "longitude": 20.734111
+    },
+    {
+      "name": "Park Linowy NH",
+      "latitude": 50.080832,
+      "longitude": 20.049227
+    },
+    {
+      "name": "Park Linowy Tukan",
+      "latitude": 54.263055,
+      "longitude": 16.065331
+    },
+    {
+      "name": "Park Linowy w Międzyzdrojach",
+      "latitude": 53.926921,
+      "longitude": 14.456683
+    },
+    {
+      "name": "Park Linowy w Zgierzu",
+      "latitude": 51.859902,
+      "longitude": 19.408191
+    },
+    {
+      "name": "Park linowy Łagów Lubuski",
+      "latitude": 52.331023,
+      "longitude": 15.285036
+    },
+    {
+      "name": "Park Miliona Róż i Zabytków Kresowych",
+      "latitude": 51.31713,
+      "longitude": 21.926904
+    },
+    {
+      "name": "Park Miniatur",
+      "latitude": 50.453467,
+      "longitude": 19.550348
+    },
+    {
+      "name": "Park Miniatur",
+      "latitude": 54.081344,
+      "longitude": 21.513163
+    },
+    {
+      "name": "Park Miniatur i Kolejek",
+      "latitude": 54.01772,
+      "longitude": 14.744228
+    },
+    {
+      "name": "Park Miniatur Latarni Morskich",
+      "latitude": 54.094978,
+      "longitude": 15.067619
+    },
+    {
+      "name": "Park Miniatur Olszowa",
+      "latitude": 50.452889,
+      "longitude": 18.275474
+    },
+    {
+      "name": "Park miniatur warowni jurajskich",
+      "latitude": 50.732009,
+      "longitude": 19.405726
+    },
+    {
+      "name": "Park Miniatur Zabytków Podlasia",
+      "latitude": 52.74257,
+      "longitude": 23.544194
+    },
+    {
+      "name": "Park miniatur zamków krzyżackich",
+      "latitude": 53.349386,
+      "longitude": 18.429657
+    },
+    {
+      "name": "Park Miniatur Świętokrzysko",
+      "latitude": 50.96663,
+      "longitude": 20.666549
+    },
+    {
+      "name": "Park Nauki i Ewolucji Człowieka",
+      "latitude": 50.659692,
+      "longitude": 18.267685
+    },
+    {
+      "name": "Park owadów",
+      "latitude": 50.029819,
+      "longitude": 21.493689
+    },
+    {
+      "name": "Park Owadów",
+      "latitude": 53.631014,
+      "longitude": 16.892026
+    },
+    {
+      "name": "Park Przygody",
+      "latitude": 52.153917,
+      "longitude": 22.251942
+    },
+    {
+      "name": "Park Przygód i Atrakcji",
+      "latitude": 50.433662,
+      "longitude": 18.756213
+    },
+    {
+      "name": "Park Rekreacji Zoom Natury",
+      "latitude": 50.694534,
+      "longitude": 22.398299
+    },
+    {
+      "name": "Park Robin Hooda",
+      "latitude": 54.185327,
+      "longitude": 16.192168
+    },
+    {
+      "name": "Park Rodzinny \"Uzbornia\"",
+      "latitude": 49.962856,
+      "longitude": 20.428519
+    },
+    {
+      "name": "Park Rozrywki",
+      "latitude": 51.016277,
+      "longitude": 21.548608
+    },
+    {
+      "name": "Park Rozrywki Bryllandia",
+      "latitude": 51.930122,
+      "longitude": 17.579848
+    },
+    {
+      "name": "Park Rozrywki Dziki Zachód Zieleniewo",
+      "latitude": 54.138826,
+      "longitude": 15.555828
+    },
+    {
+      "name": "Park Rozrywki i Miniatur - Sabat Krajno",
+      "latitude": 50.8964,
+      "longitude": 20.857103
+    },
+    {
+      "name": "Park Rozrywki w Hucie",
+      "latitude": 50.863718,
+      "longitude": 21.02254
+    },
+    {
+      "name": "Park Ryb Słodkowodnych",
+      "latitude": 53.058207,
+      "longitude": 16.463263
+    },
+    {
+      "name": "Park Safari",
+      "latitude": 51.008986,
+      "longitude": 21.550021
+    },
+    {
+      "name": "Park Techniki Wojskowej",
+      "latitude": 50.296019,
+      "longitude": 18.797694
+    },
+    {
+      "name": "Park Wieloryba",
+      "latitude": 54.079499,
+      "longitude": 15.021668
+    },
+    {
+      "name": "Park Wola - Rodzinny Park Rozrywki Kraków",
+      "latitude": 50.064265,
+      "longitude": 19.869623
+    },
+    {
+      "name": "Park Zaginione Miasto Rosenau",
+      "latitude": 50.286019,
+      "longitude": 17.471173
+    },
+    {
+      "name": "ParkMani",
+      "latitude": 49.7072,
+      "longitude": 21.726593
+    },
+    {
+      "name": "Pałacowa Bawialnia",
+      "latitude": 50.797373,
+      "longitude": 15.834126
+    },
+    {
+      "name": "PlayPark Rodzinny Park Rozrywki",
+      "latitude": 54.189854,
+      "longitude": 16.157632
+    },
+    {
+      "name": "Plaża Komorniki",
+      "latitude": 52.334714,
+      "longitude": 16.821537
+    },
+    {
+      "name": "Plenerowe Centrum Rozrywki",
+      "latitude": 53.068762,
+      "longitude": 18.679505
+    },
+    {
+      "name": "Podlaski Ogród Ziołowy \"Ziołowy Zakątek\" w Korycinach",
+      "latitude": 52.641803,
+      "longitude": 22.76103
+    },
+    {
+      "name": "Polska w miniaturze",
+      "latitude": 51.012739,
+      "longitude": 21.545043
+    },
+    {
+      "name": "Pomerania Fun Park",
+      "latitude": 54.119757,
+      "longitude": 15.759109
+    },
+    {
+      "name": "Powerland",
+      "latitude": 53.451538,
+      "longitude": 14.540523
+    },
+    {
+      "name": "Powerland Biłgoraj",
+      "latitude": 50.547398,
+      "longitude": 22.714478
+    },
+    {
+      "name": "Quady",
+      "latitude": 54.071384,
+      "longitude": 14.980646
+    },
+    {
+      "name": "Rabkoland",
+      "latitude": 49.607954,
+      "longitude": 19.948949
+    },
+    {
+      "name": "Racing Kart - Kraków Indoor Karting Arena",
+      "latitude": 50.131251,
+      "longitude": 20.105552
+    },
+    {
+      "name": "Rajskie Ślizgawki",
+      "latitude": 49.415372,
+      "longitude": 20.96695
+    },
+    {
+      "name": "Rancho Western",
+      "latitude": 49.983873,
+      "longitude": 18.396911
+    },
+    {
+      "name": "Ranczo Reni na Jagodniku",
+      "latitude": 50.545233,
+      "longitude": 21.717432
+    },
+    {
+      "name": "Ranczo w kukurydzy - Malary",
+      "latitude": 54.047717,
+      "longitude": 18.360268
+    },
+    {
+      "name": "Rio Grande Western City",
+      "latitude": 52.22825,
+      "longitude": 16.814465
+    },
+    {
+      "name": "Rodzinny Park Rozrywki \"Nowa Holandia\"",
+      "latitude": 54.13485,
+      "longitude": 19.412456
+    },
+    {
+      "name": "Rodzinny Park Rozrywki Esplanada",
+      "latitude": 50.827588,
+      "longitude": 15.523016
+    },
+    {
+      "name": "Rodzinny Park Rozrywki Esplanada",
+      "latitude": 50.828363,
+      "longitude": 15.52166
+    },
+    {
+      "name": "Sabatówka - wioska czarownic",
+      "latitude": 51.014795,
+      "longitude": 21.54828
+    },
+    {
+      "name": "Sady Klemensa",
+      "latitude": 51.763213,
+      "longitude": 20.321904
+    },
+    {
+      "name": "Sala Zabaw Cinema Fun",
+      "latitude": 50.840723,
+      "longitude": 16.495682
+    },
+    {
+      "name": "Sala Zabaw „Smocza Jama”",
+      "latitude": 51.741153,
+      "longitude": 19.480373
+    },
+    {
+      "name": "Sea Park",
+      "latitude": 54.738071,
+      "longitude": 17.649579
+    },
+    {
+      "name": "Sezonowe wesołe miasteczko",
+      "latitude": 49.72054,
+      "longitude": 18.919868
+    },
+    {
+      "name": "Sezonowy Luna Park",
+      "latitude": 51.501301,
+      "longitude": 23.53992
+    },
+    {
+      "name": "sezonowy park linowy",
+      "latitude": 51.162422,
+      "longitude": 21.24232
+    },
+    {
+      "name": "Silverado City",
+      "latitude": 52.827633,
+      "longitude": 17.688858
+    },
+    {
+      "name": "SkakunPark",
+      "latitude": 54.16831,
+      "longitude": 15.568324
+    },
+    {
+      "name": "Skansen Naftowy",
+      "latitude": 49.611473,
+      "longitude": 21.205628
+    },
+    {
+      "name": "Skansen Rolniczy w Borówku",
+      "latitude": 51.378673,
+      "longitude": 16.856522
+    },
+    {
+      "name": "Skansen Rzeźby Monumentalnej",
+      "latitude": 49.581726,
+      "longitude": 20.539027
+    },
+    {
+      "name": "Skansen Taboru Kolejowego w Chabówce",
+      "latitude": 49.595293,
+      "longitude": 19.926997
+    },
+    {
+      "name": "Skansen w Maurzycach",
+      "latitude": 52.137638,
+      "longitude": 19.867357
+    },
+    {
+      "name": "Sky Walk Poronin",
+      "latitude": 49.30703,
+      "longitude": 20.088465
+    },
+    {
+      "name": "Snowlandia Śnieżny Labirynt",
+      "latitude": 49.28101,
+      "longitude": 19.9624
+    },
+    {
+      "name": "Snowpark",
+      "latitude": 51.011857,
+      "longitude": 21.547244
+    },
+    {
+      "name": "Spiska Kraina",
+      "latitude": 49.417099,
+      "longitude": 20.316589
+    },
+    {
+      "name": "Summer Playground",
+      "latitude": 52.506787,
+      "longitude": 21.33438
+    },
+    {
+      "name": "Suntago Park of Poland",
+      "latitude": 51.988124,
+      "longitude": 20.460555
+    },
+    {
+      "name": "Sztolnia Królowa Luiza",
+      "latitude": 50.296439,
+      "longitude": 18.806781
+    },
+    {
+      "name": "Sztolnia Królowa Luiza - Park 12C",
+      "latitude": 50.296541,
+      "longitude": 18.799334
+    },
+    {
+      "name": "SzwajcariaBaltowska.pl",
+      "latitude": 51.013015,
+      "longitude": 21.550553
+    },
+    {
+      "name": "Szyszka Park",
+      "latitude": 49.716426,
+      "longitude": 19.030511
+    },
+    {
+      "name": "Sądecki Park Etnograficzny",
+      "latitude": 49.616732,
+      "longitude": 20.735919
+    },
+    {
+      "name": "Tajemnicza Solina",
+      "latitude": 49.393726,
+      "longitude": 22.468231
+    },
+    {
+      "name": "The Locked Room",
+      "latitude": 49.586446,
+      "longitude": 20.672667
+    },
+    {
+      "name": "ToTu-ToTu",
+      "latitude": 50.229841,
+      "longitude": 18.663716
+    },
+    {
+      "name": "Tramp Klub Sosnowiec",
+      "latitude": 50.297561,
+      "longitude": 19.133535
+    },
+    {
+      "name": "Trollandia - park linowy",
+      "latitude": 50.827275,
+      "longitude": 15.521779
+    },
+    {
+      "name": "Turkolandia",
+      "latitude": 52.663639,
+      "longitude": 20.726115
+    },
+    {
+      "name": "Twinpigs - miasteczko westernowe",
+      "latitude": 50.05046,
+      "longitude": 18.715133
+    },
+    {
+      "name": "Ulina Park",
+      "latitude": 50.317594,
+      "longitude": 19.892139
+    },
+    {
+      "name": "Urwis Centrum Zabaw Rodzinnych",
+      "latitude": 52.221861,
+      "longitude": 17.282863
+    },
+    {
+      "name": "Wesołe miasteczko",
+      "latitude": 51.117111,
+      "longitude": 20.356576
+    },
+    {
+      "name": "Wesołe Miasteczko Robland",
+      "latitude": 54.211558,
+      "longitude": 15.746195
+    },
+    {
+      "name": "Western City",
+      "latitude": 50.783155,
+      "longitude": 15.78158
+    },
+    {
+      "name": "Western Park",
+      "latitude": 54.207224,
+      "longitude": 15.746646
+    },
+    {
+      "name": "Westernland",
+      "latitude": 51.990629,
+      "longitude": 17.916422
+    },
+    {
+      "name": "Wioska \"Świat Indian\"",
+      "latitude": 50.583615,
+      "longitude": 16.662495
+    },
+    {
+      "name": "Wioska dwóch mistrzów",
+      "latitude": 54.244858,
+      "longitude": 23.195014
+    },
+    {
+      "name": "Wioska Fantasy",
+      "latitude": 49.8079,
+      "longitude": 22.709376
+    },
+    {
+      "name": "Wioska Garncarska",
+      "latitude": 53.304953,
+      "longitude": 20.418812
+    },
+    {
+      "name": "Wioska Indiańska",
+      "latitude": 51.073749,
+      "longitude": 17.182941
+    },
+    {
+      "name": "Wioska indiańska",
+      "latitude": 51.963905,
+      "longitude": 18.790852
+    },
+    {
+      "name": "Wioska indiańska Tatanka",
+      "latitude": 52.008557,
+      "longitude": 19.227438
+    },
+    {
+      "name": "Wrotkowisko",
+      "latitude": 54.159987,
+      "longitude": 15.56471
+    },
+    {
+      "name": "Wystawa paleontologiczna",
+      "latitude": 51.048336,
+      "longitude": 21.066366
+    },
+    {
+      "name": "Z fizyką za pan brat",
+      "latitude": 51.323204,
+      "longitude": 21.946063
+    },
+    {
+      "name": "Zabytkowa Kopalnia Ignacy",
+      "latitude": 50.062711,
+      "longitude": 18.466965
+    },
+    {
+      "name": "Zaginiony Świat",
+      "latitude": 53.15319,
+      "longitude": 18.027187
+    },
+    {
+      "name": "Zatoka Bajka",
+      "latitude": 50.697388,
+      "longitude": 18.285559
+    },
+    {
+      "name": "Zatorland",
+      "latitude": 49.989022,
+      "longitude": 19.44223
+    },
+    {
+      "name": "Zaurolandia",
+      "latitude": 52.742552,
+      "longitude": 17.648422
+    },
+    {
+      "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+      "latitude": 50.31268,
+      "longitude": 19.131557
+    },
+    {
+      "name": "Zielona Szkoła w Goreniu Dużym",
+      "latitude": 52.536089,
+      "longitude": 19.281203
+    },
+    {
+      "name": "Łeba Labirynt",
+      "latitude": 54.754321,
+      "longitude": 17.545284
+    },
+    {
+      "name": "Łeba Park. Park Dinozaurów",
+      "latitude": 54.743297,
+      "longitude": 17.570622
+    },
+    {
+      "name": "Ścieżka Edukacyjna 'Dinozaury'",
+      "latitude": 50.53481,
+      "longitude": 23.196729
+    },
+    {
+      "name": "Ścieżka tradycji pszczelarskiej",
+      "latitude": 53.104555,
+      "longitude": 15.148297
+    },
+    {
+      "name": "Średniowieczna Osada Górnicza",
+      "latitude": 50.444144,
+      "longitude": 16.878685
+    },
+    {
+      "name": "Świat Marzeń - Baśniowa Warownia",
+      "latitude": 49.871312,
+      "longitude": 19.408448
+    },
+    {
+      "name": "Świat Marzeń - Park Miniatur",
+      "latitude": 49.869083,
+      "longitude": 19.409733
+    },
+    {
+      "name": "Żywiecki Park Etnograficzny",
+      "latitude": 49.722843,
+      "longitude": 19.381115
+    }
+  ],
+  "meta": {
+    "title": "Polska — parki rozrywki - Bezpłatne pobieranie",
+    "description": "Parki rozrywki w Polsce (OpenStreetMap) Zawiera 329 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — parki rozrywki | ListBase",
+    "seo_description": "Pobierz Polska — parki rozrywki — 329 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 329 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

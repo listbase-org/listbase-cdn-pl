@@ -1,0 +1,216 @@
+{
+  "id": "pl-imiona",
+  "name": "Pl Imiona",
+  "title": "Pl Imiona",
+  "description": "Top-10 żeńskich i top-10 męskich imion nadawanych noworodkom w Polsce (2022)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-PL-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Zofia",
+      "romanized": "Zofia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Zuzanna",
+      "romanized": "Zuzanna",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Hanna",
+      "romanized": "Hanna",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Maja",
+      "romanized": "Maja",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Laura",
+      "romanized": "Laura",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Julia",
+      "romanized": "Julia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Oliwia",
+      "romanized": "Oliwia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Alicja",
+      "romanized": "Alicja",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Lena",
+      "romanized": "Lena",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Pola",
+      "romanized": "Pola",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Antoni",
+      "romanized": "Antoni",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Jan",
+      "romanized": "Jan",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Aleksander",
+      "romanized": "Aleksander",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Franciszek",
+      "romanized": "Franciszek",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Nikodem",
+      "romanized": "Nikodem",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Jakub",
+      "romanized": "Jakub",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Leon",
+      "romanized": "Leon",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Stanisław",
+      "romanized": "Stanisław",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Mikołaj",
+      "romanized": "Mikołaj",
+      "year": 2022
+    },
+    {
+      "name_group": "N-PL-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Szymon",
+      "romanized": "Szymon",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "Pl Imiona - Bezpłatne pobieranie",
+    "description": "Top-10 żeńskich i top-10 męskich imion nadawanych noworodkom w Polsce (2022) Zawiera 20 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Pl Imiona | ListBase",
+    "seo_description": "Pobierz Pl Imiona — 20 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 20 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

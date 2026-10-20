@@ -1,0 +1,5111 @@
+{
+  "id": "pl-urzedy-miejskie",
+  "name": "Polska — urzędy miejskie",
+  "title": "Polska — urzędy miejskie",
+  "description": "Urzędy miejskie i gminne (ratusze) w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1014,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agencja Restrukturyzacji i Modernizacji Rolnictwa. Wielkopolski Oddział Regionalny.  Biuro Ostrów Wielkopolski.",
+      "latitude": 51.622652,
+      "longitude": 17.800537
+    },
+    {
+      "name": "Amt Lebus",
+      "latitude": 52.427087,
+      "longitude": 14.538756
+    },
+    {
+      "name": "Archiwum Zakładowe Łódzkiego Urzędu Wojewódzkiego",
+      "latitude": 51.763965,
+      "longitude": 19.44676
+    },
+    {
+      "name": "Biuro Gospodarki Mieniem",
+      "latitude": 50.028928,
+      "longitude": 21.981622
+    },
+    {
+      "name": "Biuro obsługi interesanta",
+      "latitude": 52.882588,
+      "longitude": 20.618093
+    },
+    {
+      "name": "Biuro Obsługi Mieszkańców",
+      "latitude": 50.259167,
+      "longitude": 19.021197
+    },
+    {
+      "name": "Biuro Ogrodnika Miasta",
+      "latitude": 54.472837,
+      "longitude": 18.557916
+    },
+    {
+      "name": "Biuro Rozwoju Gdańska",
+      "latitude": 54.358025,
+      "longitude": 18.647315
+    },
+    {
+      "name": "Bürgeramt Zittau",
+      "latitude": 50.894949,
+      "longitude": 14.810547
+    },
+    {
+      "name": "Centrum Obsługi Gdańskiej Karty Mieszkańca",
+      "latitude": 54.381817,
+      "longitude": 18.598347
+    },
+    {
+      "name": "Centrum Usług Społecznych",
+      "latitude": 53.110107,
+      "longitude": 19.052073
+    },
+    {
+      "name": "Centrum Usług Wspólnych",
+      "latitude": 52.732001,
+      "longitude": 15.238265
+    },
+    {
+      "name": "Centrum Usług Wspólnych Gminy Markowa",
+      "latitude": 50.02151,
+      "longitude": 22.31384
+    },
+    {
+      "name": "Dyrekcja PK Puszczy Rominckiej",
+      "latitude": 54.354471,
+      "longitude": 22.696914
+    },
+    {
+      "name": "Fabryka Aktywności Miejskiej",
+      "latitude": 51.766116,
+      "longitude": 19.459523
+    },
+    {
+      "name": "Gdańskie Centrum Świadczeń",
+      "latitude": 54.349722,
+      "longitude": 18.631205
+    },
+    {
+      "name": "Gemeindebüro",
+      "latitude": 53.870167,
+      "longitude": 14.207039
+    },
+    {
+      "name": "Gmina Miedzna",
+      "latitude": 52.465965,
+      "longitude": 22.090523
+    },
+    {
+      "name": "Gminny Ośrodek Pomocy Społecznej",
+      "latitude": 50.061366,
+      "longitude": 21.249897
+    },
+    {
+      "name": "Grudziądzkie Centrum Usług Wspólnych",
+      "latitude": 53.496236,
+      "longitude": 18.757479
+    },
+    {
+      "name": "Górnośląsko-Zagłębiowska Metropolia",
+      "latitude": 50.249033,
+      "longitude": 19.006567
+    },
+    {
+      "name": "Izba Przemysłowo-Handlowa  Południowej Wielkopolski",
+      "latitude": 51.648881,
+      "longitude": 17.811178
+    },
+    {
+      "name": "Kasa Rolniczego Ubezpieczenia Społecznego",
+      "latitude": 52.977484,
+      "longitude": 22.243475
+    },
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa Oddział Terenowy w Łodzi",
+      "latitude": 51.779116,
+      "longitude": 19.459202
+    },
+    {
+      "name": "Kuria Diecezjalna",
+      "latitude": 50.017505,
+      "longitude": 20.987153
+    },
+    {
+      "name": "Magistrat",
+      "latitude": 50.983354,
+      "longitude": 23.173228
+    },
+    {
+      "name": "Mały Ratusz",
+      "latitude": 54.465672,
+      "longitude": 17.027244
+    },
+    {
+      "name": "Miejski Ośrodek Pomocy Społecznej",
+      "latitude": 50.060072,
+      "longitude": 22.48622
+    },
+    {
+      "name": "Miejski Rzecznik Praw Konsumentów",
+      "latitude": 52.734295,
+      "longitude": 15.239062
+    },
+    {
+      "name": "Miejski Zarząd Ulic i Mostów",
+      "latitude": 50.288314,
+      "longitude": 18.936966
+    },
+    {
+      "name": "MOPS i Straż Miejska",
+      "latitude": 51.121059,
+      "longitude": 15.291907
+    },
+    {
+      "name": "Městský úřad Vidnava",
+      "latitude": 50.371973,
+      "longitude": 17.185157
+    },
+    {
+      "name": "Městský úřad Zlaté Hory",
+      "latitude": 50.264069,
+      "longitude": 17.395678
+    },
+    {
+      "name": "Městský úřad Český Těšín",
+      "latitude": 49.746267,
+      "longitude": 18.625661
+    },
+    {
+      "name": "Nowy Ratusz",
+      "latitude": 51.40334,
+      "longitude": 21.143087
+    },
+    {
+      "name": "Nowy Ratusz",
+      "latitude": 54.352475,
+      "longitude": 18.645293
+    },
+    {
+      "name": "Obecní úřad",
+      "latitude": 50.388992,
+      "longitude": 17.078722
+    },
+    {
+      "name": "obecní úřad",
+      "latitude": 50.440762,
+      "longitude": 16.920787
+    },
+    {
+      "name": "obecní úřad",
+      "latitude": 50.526374,
+      "longitude": 16.364679
+    },
+    {
+      "name": "obecní úřad",
+      "latitude": 50.677972,
+      "longitude": 15.974777
+    },
+    {
+      "name": "Obecní úřad",
+      "latitude": 50.74685,
+      "longitude": 15.822901
+    },
+    {
+      "name": "Obecní úřad",
+      "latitude": 50.966638,
+      "longitude": 15.022754
+    },
+    {
+      "name": "Obecní úřad",
+      "latitude": 51.00934,
+      "longitude": 15.037477
+    },
+    {
+      "name": "Obecní úřad",
+      "latitude": 51.018597,
+      "longitude": 15.065288
+    },
+    {
+      "name": "Obecní úřad Adršpach",
+      "latitude": 50.624555,
+      "longitude": 16.08036
+    },
+    {
+      "name": "Obecní úřad Borová",
+      "latitude": 50.386478,
+      "longitude": 16.252649
+    },
+    {
+      "name": "Obecní úřad Bělá",
+      "latitude": 49.974269,
+      "longitude": 18.148532
+    },
+    {
+      "name": "Obecní úřad Chotěbuz",
+      "latitude": 49.765536,
+      "longitude": 18.594608
+    },
+    {
+      "name": "Obecní úřad Chuchelná",
+      "latitude": 49.988987,
+      "longitude": 18.12018
+    },
+    {
+      "name": "Obecní úřad Chvaleč",
+      "latitude": 50.59605,
+      "longitude": 16.03891
+    },
+    {
+      "name": "Obecní úřad Hať",
+      "latitude": 49.946065,
+      "longitude": 18.255795
+    },
+    {
+      "name": "Obecní úřad Heřmanice",
+      "latitude": 50.895728,
+      "longitude": 15.004319
+    },
+    {
+      "name": "Obecní úřad Hrčava",
+      "latitude": 49.521263,
+      "longitude": 18.833149
+    },
+    {
+      "name": "Obecní úřad Lichkov",
+      "latitude": 50.097,
+      "longitude": 16.662928
+    },
+    {
+      "name": "Obecní úřad Olešnice v Orlických horách",
+      "latitude": 50.373704,
+      "longitude": 16.310707
+    },
+    {
+      "name": "Obecní úřad Petrovice u Karviné",
+      "latitude": 49.896948,
+      "longitude": 18.540208
+    },
+    {
+      "name": "Obecní úřad Píšť",
+      "latitude": 49.978596,
+      "longitude": 18.193317
+    },
+    {
+      "name": "Obecní úřad Rusín",
+      "latitude": 50.209879,
+      "longitude": 17.734551
+    },
+    {
+      "name": "Obecní úřad Strahovice",
+      "latitude": 50.004746,
+      "longitude": 18.089334
+    },
+    {
+      "name": "Obecní Úřad Sudice",
+      "latitude": 50.033009,
+      "longitude": 18.06718
+    },
+    {
+      "name": "Obecní úřad Třebom",
+      "latitude": 50.049134,
+      "longitude": 18.028136
+    },
+    {
+      "name": "Obecní úřad Velké Kunětice",
+      "latitude": 50.319853,
+      "longitude": 17.26452
+    },
+    {
+      "name": "Obecní úřad Vysoká",
+      "latitude": 50.259964,
+      "longitude": 17.589536
+    },
+    {
+      "name": "Obecní úřad Úvalno",
+      "latitude": 50.046936,
+      "longitude": 17.741101
+    },
+    {
+      "name": "Obecní úřad Česká Čermná",
+      "latitude": 50.401841,
+      "longitude": 16.229048
+    },
+    {
+      "name": "Obecní úřad Žďárky",
+      "latitude": 50.468531,
+      "longitude": 16.226086
+    },
+    {
+      "name": "Obecní ůřad Vávrovice",
+      "latitude": 49.974524,
+      "longitude": 17.865131
+    },
+    {
+      "name": "Obecný úrad",
+      "latitude": 49.399014,
+      "longitude": 21.428394
+    },
+    {
+      "name": "Obecný úrad",
+      "latitude": 49.414325,
+      "longitude": 20.716206
+    },
+    {
+      "name": "Obecný úrad Legnava",
+      "latitude": 49.339392,
+      "longitude": 20.850762
+    },
+    {
+      "name": "Obecný úrad Lesnica",
+      "latitude": 49.400203,
+      "longitude": 20.473097
+    },
+    {
+      "name": "Obecný úrad Majere",
+      "latitude": 49.398441,
+      "longitude": 20.375569
+    },
+    {
+      "name": "Obecný úrad Osturňa",
+      "latitude": 49.334509,
+      "longitude": 20.233694
+    },
+    {
+      "name": "Obecný úrad Veľká Franková",
+      "latitude": 49.335339,
+      "longitude": 20.299133
+    },
+    {
+      "name": "Obecný úrad Červený Kláštor",
+      "latitude": 49.391416,
+      "longitude": 20.405027
+    },
+    {
+      "name": "Okregowy Inspektorat Pracy",
+      "latitude": 50.010471,
+      "longitude": 20.998605
+    },
+    {
+      "name": "Okręgowy Inspektorat Pracy w Ostrowie Wielkopolskim",
+      "latitude": 51.650091,
+      "longitude": 17.835288
+    },
+    {
+      "name": "Ostrowskie Centrum Wspierania Przedsiębiorczości",
+      "latitude": 51.639187,
+      "longitude": 17.82618
+    },
+    {
+      "name": "Ośrodek Pomocy Społecznej w Siewierzu",
+      "latitude": 50.474877,
+      "longitude": 19.234388
+    },
+    {
+      "name": "Powiatowy Inspektor Weterynarii",
+      "latitude": 51.649187,
+      "longitude": 17.835482
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.268166,
+      "longitude": 20.482823
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.604035,
+      "longitude": 18.933181
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Grajewie",
+      "latitude": 53.650609,
+      "longitude": 22.450356
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Opatowie",
+      "latitude": 50.797529,
+      "longitude": 21.425313
+    },
+    {
+      "name": "Rada Dzielnicy Kopernika",
+      "latitude": 50.320526,
+      "longitude": 18.655836
+    },
+    {
+      "name": "Rada Miasta Kalisza",
+      "latitude": 51.760249,
+      "longitude": 18.090236
+    },
+    {
+      "name": "Rada Miasta Rzeszowa",
+      "latitude": 50.03361,
+      "longitude": 22.000829
+    },
+    {
+      "name": "Rada Miejska",
+      "latitude": 52.231364,
+      "longitude": 17.095977
+    },
+    {
+      "name": "Rada Miejska w Zagórzu",
+      "latitude": 49.509609,
+      "longitude": 22.26395
+    },
+    {
+      "name": "Rada Miejska Łęczna",
+      "latitude": 51.305663,
+      "longitude": 22.881183
+    },
+    {
+      "name": "Rada Osiedla Świerczewo",
+      "latitude": 52.367784,
+      "longitude": 16.89441
+    },
+    {
+      "name": "Rada Sołecka",
+      "latitude": 49.896118,
+      "longitude": 18.930405
+    },
+    {
+      "name": "Rada Sołecka w Szufnarowej",
+      "latitude": 49.902667,
+      "longitude": 21.631624
+    },
+    {
+      "name": "Rathaus",
+      "latitude": 51.156408,
+      "longitude": 14.990286
+    },
+    {
+      "name": "Rathaus",
+      "latitude": 53.209857,
+      "longitude": 14.394085
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.01877,
+      "longitude": 22.683533
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.070128,
+      "longitude": 21.70026
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.220741,
+      "longitude": 18.668195
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.668537,
+      "longitude": 17.922408
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.67943,
+      "longitude": 21.749397
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.69841,
+      "longitude": 17.385247
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 50.942803,
+      "longitude": 17.295311
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.076677,
+      "longitude": 17.71746
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.110848,
+      "longitude": 15.58567
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.119847,
+      "longitude": 15.290013
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.307056,
+      "longitude": 17.056939
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.3971,
+      "longitude": 16.205599
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.425642,
+      "longitude": 17.933291
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.574239,
+      "longitude": 17.672842
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.602725,
+      "longitude": 18.933133
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.614773,
+      "longitude": 15.320652
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.631759,
+      "longitude": 16.908647
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.646404,
+      "longitude": 17.378478
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.84332,
+      "longitude": 16.574428
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.938318,
+      "longitude": 15.505265
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 51.972375,
+      "longitude": 17.501534
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.01637,
+      "longitude": 18.500791
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.086281,
+      "longitude": 16.645236
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.13288,
+      "longitude": 16.200883
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.210619,
+      "longitude": 18.254582
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.23014,
+      "longitude": 17.276782
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.249943,
+      "longitude": 15.532954
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.317954,
+      "longitude": 16.129273
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.408564,
+      "longitude": 16.934038
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 52.428,
+      "longitude": 19.460941
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 53.256083,
+      "longitude": 19.402918
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 53.337319,
+      "longitude": 15.046307
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 53.566579,
+      "longitude": 20.99049
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 53.827867,
+      "longitude": 20.690347
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 53.911796,
+      "longitude": 19.928069
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 54.176045,
+      "longitude": 15.576481
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 54.319881,
+      "longitude": 19.52723
+    },
+    {
+      "name": "Ratusz",
+      "latitude": 54.720487,
+      "longitude": 18.411798
+    },
+    {
+      "name": "Ratusz - Muzeum Ziemii Rawickiej",
+      "latitude": 51.609012,
+      "longitude": 16.857852
+    },
+    {
+      "name": "Ratusz Klasycystyczny",
+      "latitude": 51.298461,
+      "longitude": 20.295151
+    },
+    {
+      "name": "Ratusz Miejski",
+      "latitude": 50.861766,
+      "longitude": 17.469682
+    },
+    {
+      "name": "Ratusz miejski w Ornecie",
+      "latitude": 54.115703,
+      "longitude": 20.13064
+    },
+    {
+      "name": "Ratusz Miejski w Staszowie",
+      "latitude": 50.564131,
+      "longitude": 21.167273
+    },
+    {
+      "name": "Ratusz w Górowie Iławeckim",
+      "latitude": 54.284646,
+      "longitude": 20.493567
+    },
+    {
+      "name": "Ratusz w Jaworze",
+      "latitude": 51.050386,
+      "longitude": 16.193597
+    },
+    {
+      "name": "Ratusz w Opalenicy",
+      "latitude": 52.308054,
+      "longitude": 16.411385
+    },
+    {
+      "name": "Ratusz w Starogardzie Gdańskim",
+      "latitude": 53.96739,
+      "longitude": 18.532183
+    },
+    {
+      "name": "Ratusz w Wejherowie",
+      "latitude": 54.6013,
+      "longitude": 18.239475
+    },
+    {
+      "name": "Ratusz w Złotoryi",
+      "latitude": 51.123981,
+      "longitude": 15.916028
+    },
+    {
+      "name": "Referat Gospodarki Przestrzennej",
+      "latitude": 53.138982,
+      "longitude": 17.604756
+    },
+    {
+      "name": "RZGW w Poznaniu. Zarząd Zlewni w Kaliszu. Nadzór Wodny w Ostrowie Wielkopolskim",
+      "latitude": 51.650554,
+      "longitude": 17.811667
+    },
+    {
+      "name": "Samorządowe Kolegium Odwoławcze w Katowicach",
+      "latitude": 50.254657,
+      "longitude": 19.025483
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 49.929874,
+      "longitude": 20.179006
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 49.96166,
+      "longitude": 20.173119
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.502817,
+      "longitude": 17.922862
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.892049,
+      "longitude": 17.582074
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.895033,
+      "longitude": 17.519783
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.900574,
+      "longitude": 17.568667
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.940815,
+      "longitude": 17.632686
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 50.946337,
+      "longitude": 17.469266
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 51.509257,
+      "longitude": 21.614615
+    },
+    {
+      "name": "SOŁTYS",
+      "latitude": 51.874284,
+      "longitude": 15.959802
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 52.184918,
+      "longitude": 15.276181
+    },
+    {
+      "name": "Sołtys",
+      "latitude": 52.494619,
+      "longitude": 17.291085
+    },
+    {
+      "name": "Sołtys Gminy Słubice",
+      "latitude": 52.374224,
+      "longitude": 19.941115
+    },
+    {
+      "name": "Spółdzielnia Mieszkaniowa \"Gołębiów II\"",
+      "latitude": 51.417017,
+      "longitude": 21.170444
+    },
+    {
+      "name": "Stadtverwaltung Bad Muskau",
+      "latitude": 51.550394,
+      "longitude": 14.715255
+    },
+    {
+      "name": "Stadtverwaltung Forst",
+      "latitude": 51.745187,
+      "longitude": 14.647008
+    },
+    {
+      "name": "Stadtverwaltung Guben",
+      "latitude": 51.950501,
+      "longitude": 14.71456
+    },
+    {
+      "name": "Stadtverwaltung Ostritz",
+      "latitude": 51.014613,
+      "longitude": 14.933541
+    },
+    {
+      "name": "Starostwo",
+      "latitude": 50.512709,
+      "longitude": 18.30421
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 49.751665,
+      "longitude": 18.639841
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 50.291559,
+      "longitude": 18.660417
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 50.466202,
+      "longitude": 20.720428
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 50.84965,
+      "longitude": 19.974974
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.111809,
+      "longitude": 15.583496
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.408236,
+      "longitude": 19.68903
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.410736,
+      "longitude": 19.687535
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.411188,
+      "longitude": 19.687143
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.465588,
+      "longitude": 22.609839
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 51.66519,
+      "longitude": 16.542393
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 52.058254,
+      "longitude": 19.201929
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 52.083059,
+      "longitude": 16.641413
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 52.864373,
+      "longitude": 21.10167
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 52.88147,
+      "longitude": 20.615424
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 53.06298,
+      "longitude": 19.41156
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 53.566691,
+      "longitude": 20.990275
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 53.668362,
+      "longitude": 17.359154
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 54.123465,
+      "longitude": 17.982139
+    },
+    {
+      "name": "Starostwo Powiatowe",
+      "latitude": 54.213659,
+      "longitude": 19.112857
+    },
+    {
+      "name": "Starostwo Powiatowe - Pawilon B (Wydział Geodezji)",
+      "latitude": 49.305449,
+      "longitude": 19.962789
+    },
+    {
+      "name": "Starostwo Powiatowe - Wydział Komunikacji",
+      "latitude": 50.518773,
+      "longitude": 22.142843
+    },
+    {
+      "name": "Starostwo Powiatowe Mońki",
+      "latitude": 53.406979,
+      "longitude": 22.798911
+    },
+    {
+      "name": "Starostwo Powiatowe w Bydgoszczy",
+      "latitude": 53.13019,
+      "longitude": 18.008921
+    },
+    {
+      "name": "Starostwo Powiatowe w Chrzanowie",
+      "latitude": 50.141585,
+      "longitude": 19.395773
+    },
+    {
+      "name": "Starostwo Powiatowe w Chrzanowie - Powiatowy Ośrodek Dokumentacji Geodezyjnej i Kartograficznej",
+      "latitude": 50.144399,
+      "longitude": 19.413335
+    },
+    {
+      "name": "Starostwo Powiatowe w Gnieźnie",
+      "latitude": 52.535826,
+      "longitude": 17.603354
+    },
+    {
+      "name": "Starostwo Powiatowe w Gorzowie Wlkp.",
+      "latitude": 52.737749,
+      "longitude": 15.204973
+    },
+    {
+      "name": "Starostwo Powiatowe w Grajewie",
+      "latitude": 53.650204,
+      "longitude": 22.449211
+    },
+    {
+      "name": "Starostwo Powiatowe w Iławie",
+      "latitude": 53.587087,
+      "longitude": 19.568074
+    },
+    {
+      "name": "Starostwo Powiatowe w Jeleniej Górze",
+      "latitude": 50.901957,
+      "longitude": 15.748744
+    },
+    {
+      "name": "Starostwo Powiatowe w Kwidzynie",
+      "latitude": 53.729511,
+      "longitude": 18.930691
+    },
+    {
+      "name": "Starostwo Powiatowe w Legionowie",
+      "latitude": 52.421882,
+      "longitude": 20.939099
+    },
+    {
+      "name": "Starostwo Powiatowe w Lęborku",
+      "latitude": 54.539112,
+      "longitude": 17.740855
+    },
+    {
+      "name": "Starostwo Powiatowe w Międzychodzie",
+      "latitude": 52.60664,
+      "longitude": 15.901747
+    },
+    {
+      "name": "Starostwo Powiatowe w Mińsku Mazowieckim - filia",
+      "latitude": 52.246293,
+      "longitude": 21.279596
+    },
+    {
+      "name": "Starostwo Powiatowe w Mrągowie",
+      "latitude": 53.87661,
+      "longitude": 21.304552
+    },
+    {
+      "name": "Starostwo Powiatowe w Nowym Dworze Mazowieckim",
+      "latitude": 52.426278,
+      "longitude": 20.719888
+    },
+    {
+      "name": "Starostwo Powiatowe w Olecku",
+      "latitude": 54.034543,
+      "longitude": 22.49912
+    },
+    {
+      "name": "Starostwo Powiatowe w Opocznie",
+      "latitude": 51.37945,
+      "longitude": 20.286721
+    },
+    {
+      "name": "Starostwo Powiatowe w Opocznie",
+      "latitude": 51.379922,
+      "longitude": 20.286694
+    },
+    {
+      "name": "Starostwo Powiatowe w Ostrowi",
+      "latitude": 52.800737,
+      "longitude": 21.89163
+    },
+    {
+      "name": "Starostwo Powiatowe w Pile",
+      "latitude": 53.155948,
+      "longitude": 16.737999
+    },
+    {
+      "name": "Starostwo Powiatowe w Poddębicach",
+      "latitude": 51.895622,
+      "longitude": 18.958613
+    },
+    {
+      "name": "Starostwo Powiatowe w Polkowicach",
+      "latitude": 51.502122,
+      "longitude": 16.064895
+    },
+    {
+      "name": "Starostwo Powiatowe w Sejnach",
+      "latitude": 54.104733,
+      "longitude": 23.351616
+    },
+    {
+      "name": "Starostwo Powiatowe w Szamotułach",
+      "latitude": 52.606674,
+      "longitude": 16.581992
+    },
+    {
+      "name": "Starostwo Powiatowe w Sztumie",
+      "latitude": 53.91887,
+      "longitude": 19.032135
+    },
+    {
+      "name": "Starostwo Powiatowe w Tczewie",
+      "latitude": 54.087641,
+      "longitude": 18.785087
+    },
+    {
+      "name": "Starostwo Powiatowe w Wodzisławiu Śląskim",
+      "latitude": 50.008485,
+      "longitude": 18.446272
+    },
+    {
+      "name": "Starostwo Powiatowe w Wołominie",
+      "latitude": 52.344253,
+      "longitude": 21.238525
+    },
+    {
+      "name": "Starostwo Powiatowe w Zakopanem",
+      "latitude": 49.305183,
+      "longitude": 19.961769
+    },
+    {
+      "name": "Starostwo Powiatowe w Złotoryi",
+      "latitude": 51.12298,
+      "longitude": 15.915677
+    },
+    {
+      "name": "Starostwo Powiatowe w Łosicach",
+      "latitude": 52.210166,
+      "longitude": 22.713685
+    },
+    {
+      "name": "Starostwo Powiatowe w Świdniku",
+      "latitude": 51.219532,
+      "longitude": 22.699425
+    },
+    {
+      "name": "Starostwo Powiatowe Wydział Ochrony Środowiska",
+      "latitude": 50.13677,
+      "longitude": 19.397323
+    },
+    {
+      "name": "Starostwo Powiatowe. Wydział Komunikacji i Dróg",
+      "latitude": 52.084553,
+      "longitude": 16.655745
+    },
+    {
+      "name": "Starostwo Powiatu Grodziskiego",
+      "latitude": 52.096593,
+      "longitude": 20.617001
+    },
+    {
+      "name": "Starostwo Powiatu Myślenickiego",
+      "latitude": 49.836072,
+      "longitude": 19.942179
+    },
+    {
+      "name": "Starostwo Powiatu Piaseczyńskiego",
+      "latitude": 52.075747,
+      "longitude": 21.030881
+    },
+    {
+      "name": "Starostwo Powiatu Warszawskiego Zachodniego",
+      "latitude": 52.210865,
+      "longitude": 20.819603
+    },
+    {
+      "name": "Starostwo Powiatu Włocławskiego",
+      "latitude": 52.656886,
+      "longitude": 19.075285
+    },
+    {
+      "name": "Stary Ratusz",
+      "latitude": 51.014773,
+      "longitude": 15.341223
+    },
+    {
+      "name": "Straż Miejska",
+      "latitude": 51.660725,
+      "longitude": 19.350629
+    },
+    {
+      "name": "Tarnowskie Centrum Przedsiębiorczości",
+      "latitude": 50.013257,
+      "longitude": 20.985981
+    },
+    {
+      "name": "Technisches Rathaus \"Jägerkaserne\"",
+      "latitude": 51.157182,
+      "longitude": 14.985891
+    },
+    {
+      "name": "UG Janowiec Kościelny",
+      "latitude": 53.292181,
+      "longitude": 20.524453
+    },
+    {
+      "name": "UM w Cieszynie",
+      "latitude": 49.747886,
+      "longitude": 18.632877
+    },
+    {
+      "name": "Urzad Gminy Porąbka",
+      "latitude": 49.820596,
+      "longitude": 19.218343
+    },
+    {
+      "name": "Urzad Gminy w Łopusznie",
+      "latitude": 50.951673,
+      "longitude": 20.252958
+    },
+    {
+      "name": "Urzad miasta i gminy Morawica",
+      "latitude": 50.74897,
+      "longitude": 20.619405
+    },
+    {
+      "name": "Urzad Miasta Rumia",
+      "latitude": 54.565315,
+      "longitude": 18.392122
+    },
+    {
+      "name": "Urzád Gminy",
+      "latitude": 53.269337,
+      "longitude": 20.012508
+    },
+    {
+      "name": "Urząd Dzielnicy Nowe Miasto",
+      "latitude": 51.139435,
+      "longitude": 23.4966
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 49.56092,
+      "longitude": 20.744753
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 49.803323,
+      "longitude": 20.41879
+    },
+    {
+      "name": "Urząd gminy",
+      "latitude": 49.845042,
+      "longitude": 19.144013
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 50.01059,
+      "longitude": 19.371439
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 50.175166,
+      "longitude": 20.986556
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 50.76456,
+      "longitude": 19.833551
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 50.824095,
+      "longitude": 20.534318
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 50.940812,
+      "longitude": 17.298754
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 51.984264,
+      "longitude": 19.909188
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.184221,
+      "longitude": 22.936321
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.403576,
+      "longitude": 20.312731
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.465829,
+      "longitude": 18.884507
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.578271,
+      "longitude": 22.290111
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.775655,
+      "longitude": 22.507941
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.841933,
+      "longitude": 22.986228
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.875521,
+      "longitude": 20.605965
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.889929,
+      "longitude": 21.399015
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 52.906071,
+      "longitude": 23.534866
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.011283,
+      "longitude": 20.123635
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.068418,
+      "longitude": 19.400463
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.139367,
+      "longitude": 17.604029
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.242991,
+      "longitude": 21.786779
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.302598,
+      "longitude": 20.280588
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.500936,
+      "longitude": 19.351088
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.724147,
+      "longitude": 18.485542
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.756435,
+      "longitude": 17.112283
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.767932,
+      "longitude": 22.811872
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 53.980973,
+      "longitude": 22.030966
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 54.008038,
+      "longitude": 17.768922
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 54.204651,
+      "longitude": 18.767108
+    },
+    {
+      "name": "Urząd Gminy",
+      "latitude": 54.562161,
+      "longitude": 17.733012
+    },
+    {
+      "name": "Urząd Gminy Aleksandrów Kujawski",
+      "latitude": 52.874483,
+      "longitude": 18.696728
+    },
+    {
+      "name": "Urząd Gminy Augustów",
+      "latitude": 53.838476,
+      "longitude": 22.967378
+    },
+    {
+      "name": "Urząd Gminy Babice",
+      "latitude": 50.070421,
+      "longitude": 19.447097
+    },
+    {
+      "name": "Urząd Gminy Baboszewo",
+      "latitude": 52.67991,
+      "longitude": 20.255288
+    },
+    {
+      "name": "Urząd Gminy Banie Mazurskie",
+      "latitude": 54.24576,
+      "longitude": 22.038993
+    },
+    {
+      "name": "Urząd Gminy Baranowo",
+      "latitude": 53.175066,
+      "longitude": 21.296424
+    },
+    {
+      "name": "Urząd Gminy Baranów",
+      "latitude": 52.128262,
+      "longitude": 20.471144
+    },
+    {
+      "name": "Urząd Gminy Barciany",
+      "latitude": 54.220445,
+      "longitude": 21.349011
+    },
+    {
+      "name": "Urząd Gminy Bejsce",
+      "latitude": 50.242084,
+      "longitude": 20.600655
+    },
+    {
+      "name": "Urząd Gminy Białowieża",
+      "latitude": 52.70268,
+      "longitude": 23.85224
+    },
+    {
+      "name": "Urząd Gminy Bielany",
+      "latitude": 52.341517,
+      "longitude": 22.246692
+    },
+    {
+      "name": "Urząd Gminy Biskupice",
+      "latitude": 49.976458,
+      "longitude": 20.098623
+    },
+    {
+      "name": "Urząd Gminy Bliżyn",
+      "latitude": 51.107297,
+      "longitude": 20.760442
+    },
+    {
+      "name": "Urząd Gminy Bobrowniki",
+      "latitude": 50.395467,
+      "longitude": 19.01816
+    },
+    {
+      "name": "Urząd Gminy Boguty-Pianki",
+      "latitude": 52.716391,
+      "longitude": 22.408495
+    },
+    {
+      "name": "URZĄD GMINY BOJSZOWY",
+      "latitude": 50.059192,
+      "longitude": 19.096704
+    },
+    {
+      "name": "Urząd Gminy Bolesław",
+      "latitude": 50.274649,
+      "longitude": 20.896041
+    },
+    {
+      "name": "Urząd Gminy Bolesław",
+      "latitude": 50.294563,
+      "longitude": 19.473213
+    },
+    {
+      "name": "Urząd Gminy Borki",
+      "latitude": 51.722135,
+      "longitude": 22.517829
+    },
+    {
+      "name": "Urząd Gminy Boronów",
+      "latitude": 50.671864,
+      "longitude": 18.899267
+    },
+    {
+      "name": "Urząd Gminy Borowie",
+      "latitude": 51.945477,
+      "longitude": 21.767354
+    },
+    {
+      "name": "Urząd Gminy Boćki",
+      "latitude": 52.650603,
+      "longitude": 23.043633
+    },
+    {
+      "name": "Urząd Gminy Bratian z/s w Mszanowie",
+      "latitude": 53.441557,
+      "longitude": 19.606289
+    },
+    {
+      "name": "Urząd Gminy Brańsk",
+      "latitude": 52.741225,
+      "longitude": 22.8384
+    },
+    {
+      "name": "Urząd Gminy Brochów",
+      "latitude": 52.324445,
+      "longitude": 20.266087
+    },
+    {
+      "name": "Urząd Gminy Brody",
+      "latitude": 51.017387,
+      "longitude": 21.199968
+    },
+    {
+      "name": "Urząd Gminy Brok",
+      "latitude": 52.698288,
+      "longitude": 21.862627
+    },
+    {
+      "name": "Urząd Gminy Brzeszcze",
+      "latitude": 49.982145,
+      "longitude": 19.147783
+    },
+    {
+      "name": "Urząd Gminy bud. B",
+      "latitude": 52.177926,
+      "longitude": 22.070108
+    },
+    {
+      "name": "Urząd Gminy Budry",
+      "latitude": 54.253293,
+      "longitude": 21.879276
+    },
+    {
+      "name": "Urząd Gminy Budzów",
+      "latitude": 49.777446,
+      "longitude": 19.674517
+    },
+    {
+      "name": "Urząd Gminy Błędów",
+      "latitude": 51.779079,
+      "longitude": 20.69634
+    },
+    {
+      "name": "Urząd Gminy Cedry Wielkie",
+      "latitude": 54.244068,
+      "longitude": 18.845055
+    },
+    {
+      "name": "Urząd Gminy Celestynów",
+      "latitude": 52.058751,
+      "longitude": 21.384374
+    },
+    {
+      "name": "Urząd Gminy Cewice",
+      "latitude": 54.435942,
+      "longitude": 17.735439
+    },
+    {
+      "name": "Urząd Gminy Chełm Śląski",
+      "latitude": 50.111301,
+      "longitude": 19.198086
+    },
+    {
+      "name": "Urząd Gminy Chełmno",
+      "latitude": 53.350881,
+      "longitude": 18.430239
+    },
+    {
+      "name": "Urząd Gminy Chmielno",
+      "latitude": 54.326312,
+      "longitude": 18.101099
+    },
+    {
+      "name": "Urząd Gminy Choczewo",
+      "latitude": 54.742491,
+      "longitude": 17.89096
+    },
+    {
+      "name": "Urząd Gminy Chotcza",
+      "latitude": 51.242127,
+      "longitude": 21.773116
+    },
+    {
+      "name": "Urząd Gminy Ciasna",
+      "latitude": 50.753647,
+      "longitude": 18.609867
+    },
+    {
+      "name": "Urząd Gminy Czemierniki",
+      "latitude": 51.675033,
+      "longitude": 22.638941
+    },
+    {
+      "name": "Urząd Gminy Czeremcha",
+      "latitude": 52.51712,
+      "longitude": 23.35006
+    },
+    {
+      "name": "Urząd Gminy Czerwonka",
+      "latitude": 52.892994,
+      "longitude": 21.219475
+    },
+    {
+      "name": "Urząd Gminy Czorsztyn",
+      "latitude": 49.460251,
+      "longitude": 20.265569
+    },
+    {
+      "name": "Urząd Gminy Czosnów",
+      "latitude": 52.391481,
+      "longitude": 20.732167
+    },
+    {
+      "name": "Urząd Gminy Czyże",
+      "latitude": 52.779539,
+      "longitude": 23.423018
+    },
+    {
+      "name": "Urząd Gminy Domaradz",
+      "latitude": 49.790002,
+      "longitude": 21.945459
+    },
+    {
+      "name": "Urząd gminy Drelów",
+      "latitude": 51.911218,
+      "longitude": 22.868074
+    },
+    {
+      "name": "Urząd Gminy Dubeninki",
+      "latitude": 54.288216,
+      "longitude": 22.55789
+    },
+    {
+      "name": "Urząd Gminy Dubicze Cerkiewne",
+      "latitude": 52.65384,
+      "longitude": 23.434411
+    },
+    {
+      "name": "Urząd Gminy Dynów",
+      "latitude": 49.81472,
+      "longitude": 22.231524
+    },
+    {
+      "name": "Urząd Gminy Dziadkowice",
+      "latitude": 52.56462,
+      "longitude": 22.91316
+    },
+    {
+      "name": "Urząd Gminy Działdowo",
+      "latitude": 53.230973,
+      "longitude": 20.172876
+    },
+    {
+      "name": "Urząd Gminy Dąbrowa Zielona",
+      "latitude": 50.84408,
+      "longitude": 19.55587
+    },
+    {
+      "name": "Urząd Gminy Dąbrówno",
+      "latitude": 53.432324,
+      "longitude": 20.036095
+    },
+    {
+      "name": "Urząd Gminy Dębnica Kaszubska",
+      "latitude": 54.376415,
+      "longitude": 17.160955
+    },
+    {
+      "name": "Urząd Gminy Dębowa Kłoda",
+      "latitude": 51.594056,
+      "longitude": 23.008442
+    },
+    {
+      "name": "Urząd Gminy Dębowiec",
+      "latitude": 49.814095,
+      "longitude": 18.718986
+    },
+    {
+      "name": "Urząd Gminy Elbląg",
+      "latitude": 54.172539,
+      "longitude": 19.395569
+    },
+    {
+      "name": "Urząd Gminy Filipów",
+      "latitude": 54.178835,
+      "longitude": 22.620111
+    },
+    {
+      "name": "Urząd Gminy Fredropol",
+      "latitude": 49.695611,
+      "longitude": 22.74489
+    },
+    {
+      "name": "Urząd Gminy Giby",
+      "latitude": 54.04021,
+      "longitude": 23.354386
+    },
+    {
+      "name": "Urząd Gminy Gierałtowice",
+      "latitude": 50.22374,
+      "longitude": 18.724363
+    },
+    {
+      "name": "Urząd Gminy Gizałki",
+      "latitude": 52.041974,
+      "longitude": 17.769501
+    },
+    {
+      "name": "Urząd Gminy Goczałkowice-Zdrój",
+      "latitude": 49.94222,
+      "longitude": 18.973539
+    },
+    {
+      "name": "Urząd Gminy Godkowo",
+      "latitude": 54.079494,
+      "longitude": 19.906647
+    },
+    {
+      "name": "Urząd Gminy Godów",
+      "latitude": 49.91691,
+      "longitude": 18.484276
+    },
+    {
+      "name": "Urząd Gminy Godów",
+      "latitude": 49.917834,
+      "longitude": 18.483657
+    },
+    {
+      "name": "Urząd Gminy Gorzyce",
+      "latitude": 49.957223,
+      "longitude": 18.400212
+    },
+    {
+      "name": "Urząd Gminy Gorzyce (Referat Spraw Obywatelskich)",
+      "latitude": 49.957699,
+      "longitude": 18.384924
+    },
+    {
+      "name": "Urząd Gminy Gostycyn",
+      "latitude": 53.486144,
+      "longitude": 17.809335
+    },
+    {
+      "name": "Urząd Gminy Goszczyn",
+      "latitude": 51.733775,
+      "longitude": 20.851587
+    },
+    {
+      "name": "Urząd Gminy Goszczyn",
+      "latitude": 51.733829,
+      "longitude": 20.850312
+    },
+    {
+      "name": "Urząd Gminy Gołcza",
+      "latitude": 50.337337,
+      "longitude": 19.924095
+    },
+    {
+      "name": "Urząd Gminy Grabówka",
+      "latitude": 53.12456,
+      "longitude": 23.241176
+    },
+    {
+      "name": "Urząd Gminy Grodziczno",
+      "latitude": 53.41323,
+      "longitude": 19.757313
+    },
+    {
+      "name": "Urząd Gminy Grodzisk",
+      "latitude": 52.583318,
+      "longitude": 22.735691
+    },
+    {
+      "name": "Urząd Gminy Gronowo Elbląskie",
+      "latitude": 54.088066,
+      "longitude": 19.307865
+    },
+    {
+      "name": "Urząd Gminy Grudusk",
+      "latitude": 53.054478,
+      "longitude": 20.626417
+    },
+    {
+      "name": "Urząd Gminy Grunwald",
+      "latitude": 53.538399,
+      "longitude": 20.088209
+    },
+    {
+      "name": "Urząd Gminy Grybów",
+      "latitude": 49.626115,
+      "longitude": 20.940553
+    },
+    {
+      "name": "Urząd Gminy Gródek nad Dunajcem",
+      "latitude": 49.74834,
+      "longitude": 20.73336
+    },
+    {
+      "name": "Urząd Gminy Gzy",
+      "latitude": 52.739649,
+      "longitude": 20.944227
+    },
+    {
+      "name": "Urząd Gminy Górno",
+      "latitude": 50.855399,
+      "longitude": 20.825541
+    },
+    {
+      "name": "Urząd Gminy Górzno",
+      "latitude": 51.846511,
+      "longitude": 21.71084
+    },
+    {
+      "name": "Urząd Gminy Górzno",
+      "latitude": 53.198555,
+      "longitude": 19.644436
+    },
+    {
+      "name": "Urząd Gminy Hażlach",
+      "latitude": 49.807443,
+      "longitude": 18.656309
+    },
+    {
+      "name": "Urząd Gminy Herby",
+      "latitude": 50.750105,
+      "longitude": 18.883067
+    },
+    {
+      "name": "Urząd Gminy i Miasta Lubomierz",
+      "latitude": 51.012824,
+      "longitude": 15.510914
+    },
+    {
+      "name": "Urząd Gminy i Miasta Miechów",
+      "latitude": 50.356041,
+      "longitude": 20.022356
+    },
+    {
+      "name": "Urząd Gminy i Miasta Odolanów",
+      "latitude": 51.574224,
+      "longitude": 17.672835
+    },
+    {
+      "name": "Urząd Gminy i Miasta Torzym",
+      "latitude": 52.314206,
+      "longitude": 15.072009
+    },
+    {
+      "name": "Urząd Gminy i Miasta w Proszowicach",
+      "latitude": 50.191603,
+      "longitude": 20.294496
+    },
+    {
+      "name": "Urząd Gminy Inowrocław",
+      "latitude": 52.798052,
+      "longitude": 18.256404
+    },
+    {
+      "name": "Urząd Gminy Iława",
+      "latitude": 53.587229,
+      "longitude": 19.567704
+    },
+    {
+      "name": "Urząd Gminy Iłów",
+      "latitude": 52.339787,
+      "longitude": 20.024485
+    },
+    {
+      "name": "Urząd Gminy Jabłonka",
+      "latitude": 49.478047,
+      "longitude": 19.69538
+    },
+    {
+      "name": "Urząd Gminy Jabłoń",
+      "latitude": 51.724833,
+      "longitude": 23.087097
+    },
+    {
+      "name": "Urząd Gminy Jaktorów",
+      "latitude": 52.086926,
+      "longitude": 20.554764
+    },
+    {
+      "name": "Urząd Gminy Jakubów",
+      "latitude": 52.219187,
+      "longitude": 21.680558
+    },
+    {
+      "name": "Urząd Gminy Janowiec",
+      "latitude": 51.323703,
+      "longitude": 21.890099
+    },
+    {
+      "name": "Urząd Gminy Janów",
+      "latitude": 50.722635,
+      "longitude": 19.434631
+    },
+    {
+      "name": "Urząd Gminy Janów Podlaski",
+      "latitude": 52.193653,
+      "longitude": 23.210601
+    },
+    {
+      "name": "Urząd Gminy Jaworze",
+      "latitude": 49.798106,
+      "longitude": 18.946775
+    },
+    {
+      "name": "Urząd Gminy Jaśliska",
+      "latitude": 49.443626,
+      "longitude": 21.794711
+    },
+    {
+      "name": "Urząd Gminy Jaświły",
+      "latitude": 53.473862,
+      "longitude": 22.95567
+    },
+    {
+      "name": "Urząd Gminy Jednorożec",
+      "latitude": 53.138993,
+      "longitude": 21.045776
+    },
+    {
+      "name": "Urząd Gminy Jejkowice",
+      "latitude": 50.105825,
+      "longitude": 18.474744
+    },
+    {
+      "name": "Urząd Gminy Jeleniewo",
+      "latitude": 54.205596,
+      "longitude": 22.911824
+    },
+    {
+      "name": "Urząd Gminy Juchnowiec Kościelny",
+      "latitude": 53.023607,
+      "longitude": 23.134822
+    },
+    {
+      "name": "Urząd Gminy Kalinowo",
+      "latitude": 53.875283,
+      "longitude": 22.673482
+    },
+    {
+      "name": "Urząd Gminy Kaliska",
+      "latitude": 53.906649,
+      "longitude": 18.218079
+    },
+    {
+      "name": "Urząd Gminy Kamienica Polska",
+      "latitude": 50.672413,
+      "longitude": 19.128123
+    },
+    {
+      "name": "Urząd Gminy Kamionka Wielka",
+      "latitude": 49.578926,
+      "longitude": 20.789621
+    },
+    {
+      "name": "Urząd Gminy Karniewo",
+      "latitude": 52.836291,
+      "longitude": 20.99064
+    },
+    {
+      "name": "Urząd Gminy Kije",
+      "latitude": 50.607502,
+      "longitude": 20.574317
+    },
+    {
+      "name": "Urząd Gminy Kleszczów",
+      "latitude": 51.221461,
+      "longitude": 19.307909
+    },
+    {
+      "name": "Urząd Gminy Klucze",
+      "latitude": 50.338026,
+      "longitude": 19.563993
+    },
+    {
+      "name": "Urząd Gminy Kluczewsko",
+      "latitude": 50.927103,
+      "longitude": 19.91762
+    },
+    {
+      "name": "Urząd Gminy Kobierzyce",
+      "latitude": 50.975769,
+      "longitude": 16.933293
+    },
+    {
+      "name": "Urząd Gminy Kobiór",
+      "latitude": 50.060975,
+      "longitude": 18.933644
+    },
+    {
+      "name": "Urząd Gminy Kobylnica",
+      "latitude": 54.444135,
+      "longitude": 17.000399
+    },
+    {
+      "name": "Urząd Gminy Kochanowice",
+      "latitude": 50.707904,
+      "longitude": 18.750051
+    },
+    {
+      "name": "Urząd Gminy Koczała",
+      "latitude": 53.901919,
+      "longitude": 17.066344
+    },
+    {
+      "name": "Urząd Gminy Koczygłowy",
+      "latitude": 54.242022,
+      "longitude": 17.222207
+    },
+    {
+      "name": "Urząd Gminy Kodeń",
+      "latitude": 51.916784,
+      "longitude": 23.607944
+    },
+    {
+      "name": "Urząd Gminy Kolbudy",
+      "latitude": 54.270858,
+      "longitude": 18.46787
+    },
+    {
+      "name": "Urząd Gminy Kolno",
+      "latitude": 53.408966,
+      "longitude": 21.931929
+    },
+    {
+      "name": "Urząd Gminy Kolno",
+      "latitude": 53.998556,
+      "longitude": 20.992208
+    },
+    {
+      "name": "Urząd Gminy Komarówka Podlaska",
+      "latitude": 51.802599,
+      "longitude": 22.94487
+    },
+    {
+      "name": "Urząd Gminy Komańcza",
+      "latitude": 49.336068,
+      "longitude": 22.068268
+    },
+    {
+      "name": "Urząd Gminy Konstantynów",
+      "latitude": 52.20697,
+      "longitude": 23.089814
+    },
+    {
+      "name": "Urząd Gminy Kornowac",
+      "latitude": 50.071443,
+      "longitude": 18.325981
+    },
+    {
+      "name": "Urząd Gminy Korycin",
+      "latitude": 53.444797,
+      "longitude": 23.08999
+    },
+    {
+      "name": "Urząd Gminy Koszęcin",
+      "latitude": 50.635846,
+      "longitude": 18.841225
+    },
+    {
+      "name": "Urząd Gminy Kotuń",
+      "latitude": 52.177733,
+      "longitude": 22.070906
+    },
+    {
+      "name": "Urząd Gminy Kowale Oleckie",
+      "latitude": 54.163326,
+      "longitude": 22.416802
+    },
+    {
+      "name": "Urząd Gminy Kozłów",
+      "latitude": 50.482618,
+      "longitude": 20.028276
+    },
+    {
+      "name": "Urząd Gminy Kołaki Kościelne",
+      "latitude": 53.023111,
+      "longitude": 22.377356
+    },
+    {
+      "name": "Urząd Gminy Kościelisko",
+      "latitude": 49.289763,
+      "longitude": 19.903503
+    },
+    {
+      "name": "Urząd Gminy Kościerzyna",
+      "latitude": 54.125874,
+      "longitude": 17.970235
+    },
+    {
+      "name": "Urząd Gminy Krasne",
+      "latitude": 52.920631,
+      "longitude": 20.969159
+    },
+    {
+      "name": "Urząd Gminy Krasnosielc",
+      "latitude": 53.03425,
+      "longitude": 21.156432
+    },
+    {
+      "name": "Urząd Gminy Kroczyce",
+      "latitude": 50.56808,
+      "longitude": 19.564198
+    },
+    {
+      "name": "Urząd Gminy Krokowa",
+      "latitude": 54.778577,
+      "longitude": 18.157885
+    },
+    {
+      "name": "Urząd Gminy Krupski Młyn",
+      "latitude": 50.579,
+      "longitude": 18.623854
+    },
+    {
+      "name": "Urząd Gminy Krzynowłoga Mała",
+      "latitude": 53.154318,
+      "longitude": 20.788448
+    },
+    {
+      "name": "Urząd Gminy Krzyżanowice",
+      "latitude": 49.981345,
+      "longitude": 18.266536
+    },
+    {
+      "name": "Urząd Gminy Kulesze Kościelne",
+      "latitude": 53.01599,
+      "longitude": 22.505421
+    },
+    {
+      "name": "Urząd Gminy Kurzętnik",
+      "latitude": 53.401103,
+      "longitude": 19.583021
+    },
+    {
+      "name": "Urząd Gminy Kuźnica",
+      "latitude": 53.513784,
+      "longitude": 23.646905
+    },
+    {
+      "name": "Urząd Gminy Kąkolewnica",
+      "latitude": 51.899598,
+      "longitude": 22.700702
+    },
+    {
+      "name": "Urząd Gminy Kęty",
+      "latitude": 49.884001,
+      "longitude": 19.221868
+    },
+    {
+      "name": "Urząd Gminy Kłaj",
+      "latitude": 49.99339,
+      "longitude": 20.299482
+    },
+    {
+      "name": "Urząd Gminy Kłomnice",
+      "latitude": 50.917605,
+      "longitude": 19.353723
+    },
+    {
+      "name": "Urząd Gminy Lanckorona",
+      "latitude": 49.845322,
+      "longitude": 19.718744
+    },
+    {
+      "name": "Urząd Gminy Lelis",
+      "latitude": 53.178415,
+      "longitude": 21.556051
+    },
+    {
+      "name": "Urząd Gminy Lelkowo",
+      "latitude": 54.325313,
+      "longitude": 20.225242
+    },
+    {
+      "name": "Urząd Gminy Lelów",
+      "latitude": 50.682876,
+      "longitude": 19.628602
+    },
+    {
+      "name": "Urząd Gminy Leśna Podlaska",
+      "latitude": 52.133883,
+      "longitude": 23.02804
+    },
+    {
+      "name": "Urząd Gminy Lipie",
+      "latitude": 51.007955,
+      "longitude": 18.801557
+    },
+    {
+      "name": "Urząd Gminy Lipnik",
+      "latitude": 50.730507,
+      "longitude": 21.491399
+    },
+    {
+      "name": "Urząd Gminy Lipusz",
+      "latitude": 54.099794,
+      "longitude": 17.782686
+    },
+    {
+      "name": "Urząd Gminy Liw",
+      "latitude": 52.398189,
+      "longitude": 22.01968
+    },
+    {
+      "name": "Urząd Gminy Lniano",
+      "latitude": 53.527598,
+      "longitude": 18.212968
+    },
+    {
+      "name": "Urząd Gminy Lubichowo",
+      "latitude": 53.851708,
+      "longitude": 18.397487
+    },
+    {
+      "name": "Urząd Gminy Lubomia",
+      "latitude": 50.040991,
+      "longitude": 18.305508
+    },
+    {
+      "name": "Urząd Gminy Malbork",
+      "latitude": 54.044165,
+      "longitude": 19.020041
+    },
+    {
+      "name": "Urząd Gminy Marklowice",
+      "latitude": 50.018346,
+      "longitude": 18.51252
+    },
+    {
+      "name": "Urząd Gminy Markusy",
+      "latitude": 54.047721,
+      "longitude": 19.386803
+    },
+    {
+      "name": "Urząd Gminy Masłów",
+      "latitude": 50.903157,
+      "longitude": 20.727513
+    },
+    {
+      "name": "Urząd Gminy Małdyty",
+      "latitude": 53.920004,
+      "longitude": 19.746025
+    },
+    {
+      "name": "Urząd Gminy Mały Płock",
+      "latitude": 53.30891,
+      "longitude": 22.02541
+    },
+    {
+      "name": "Urząd Gminy Miastków Kościelny",
+      "latitude": 51.883106,
+      "longitude": 21.82427
+    },
+    {
+      "name": "Urząd Gminy Miedźna",
+      "latitude": 49.969579,
+      "longitude": 19.052754
+    },
+    {
+      "name": "Urząd gminy Miedźno",
+      "latitude": 50.969777,
+      "longitude": 18.977538
+    },
+    {
+      "name": "Urząd Gminy Mielnik",
+      "latitude": 52.326389,
+      "longitude": 23.049228
+    },
+    {
+      "name": "Urząd Gminy Mietków",
+      "latitude": 50.979528,
+      "longitude": 16.650977
+    },
+    {
+      "name": "Urząd Gminy Mikołajki Pomorskie",
+      "latitude": 53.851118,
+      "longitude": 19.166964
+    },
+    {
+      "name": "Urząd Gminy Milanów",
+      "latitude": 51.701855,
+      "longitude": 22.88849
+    },
+    {
+      "name": "Urząd Gminy Milejczyce",
+      "latitude": 52.52125,
+      "longitude": 23.13877
+    },
+    {
+      "name": "Urząd Gminy Międzyrzec Podlaski",
+      "latitude": 51.985406,
+      "longitude": 22.784997
+    },
+    {
+      "name": "Urząd Gminy Miłki",
+      "latitude": 53.941017,
+      "longitude": 21.873806
+    },
+    {
+      "name": "Urząd Gminy Miłoradz",
+      "latitude": 54.013094,
+      "longitude": 18.918446
+    },
+    {
+      "name": "Urząd Gminy Mokobody",
+      "latitude": 52.265863,
+      "longitude": 22.112134
+    },
+    {
+      "name": "Urząd Gminy Mrągowo",
+      "latitude": 53.876159,
+      "longitude": 21.304579
+    },
+    {
+      "name": "Urząd Gminy Mstów",
+      "latitude": 50.831779,
+      "longitude": 19.290263
+    },
+    {
+      "name": "Urząd Gminy Mszana",
+      "latitude": 49.968498,
+      "longitude": 18.528039
+    },
+    {
+      "name": "Urząd Gminy Mykanów",
+      "latitude": 50.921033,
+      "longitude": 19.197735
+    },
+    {
+      "name": "Urząd Gminy Młodzieszyn",
+      "latitude": 52.302849,
+      "longitude": 20.20131
+    },
+    {
+      "name": "Urząd Gminy Narewka",
+      "latitude": 52.833191,
+      "longitude": 23.751704
+    },
+    {
+      "name": "Urząd Gminy Naruszewo",
+      "latitude": 52.529039,
+      "longitude": 20.363531
+    },
+    {
+      "name": "Urząd Gminy Niegowa",
+      "latitude": 50.642164,
+      "longitude": 19.480292
+    },
+    {
+      "name": "Urząd Gminy Nieporęt",
+      "latitude": 52.42111,
+      "longitude": 21.035277
+    },
+    {
+      "name": "Urząd Gminy Nowa Karczma",
+      "latitude": 54.132752,
+      "longitude": 18.200455
+    },
+    {
+      "name": "Urząd Gminy Nowa Sucha",
+      "latitude": 52.160315,
+      "longitude": 20.168972
+    },
+    {
+      "name": "Urząd Gminy Nowe Miasto",
+      "latitude": 52.657038,
+      "longitude": 20.63125
+    },
+    {
+      "name": "Urząd Gminy Nowe Piekuty",
+      "latitude": 52.855544,
+      "longitude": 22.707479
+    },
+    {
+      "name": "Urząd Gminy Nowinka",
+      "latitude": 53.935222,
+      "longitude": 22.978207
+    },
+    {
+      "name": "Urząd Gminy Nowy Dwór",
+      "latitude": 53.63105,
+      "longitude": 23.54304
+    },
+    {
+      "name": "Urząd Gminy Nowy Targ",
+      "latitude": 49.485288,
+      "longitude": 20.033108
+    },
+    {
+      "name": "Urząd Gminy Nurzec Stacja",
+      "latitude": 52.465954,
+      "longitude": 23.081572
+    },
+    {
+      "name": "Urząd Gminy Nędza",
+      "latitude": 50.160203,
+      "longitude": 18.309846
+    },
+    {
+      "name": "Urząd Gminy Ochotnica Dolna",
+      "latitude": 49.525671,
+      "longitude": 20.320151
+    },
+    {
+      "name": "Urząd Gminy Olesno",
+      "latitude": 50.200902,
+      "longitude": 20.928393
+    },
+    {
+      "name": "Urząd Gminy Oleśnica",
+      "latitude": 50.450273,
+      "longitude": 21.06284
+    },
+    {
+      "name": "Urząd Gminy Olszanka",
+      "latitude": 52.146549,
+      "longitude": 22.668494
+    },
+    {
+      "name": "Urząd Gminy Opatów",
+      "latitude": 50.953839,
+      "longitude": 18.818013
+    },
+    {
+      "name": "Urząd Gminy Opinogóra Górna",
+      "latitude": 52.90682,
+      "longitude": 20.720364
+    },
+    {
+      "name": "Urząd Gminy Orla",
+      "latitude": 52.705433,
+      "longitude": 23.331923
+    },
+    {
+      "name": "Urząd Gminy Ostaszewo",
+      "latitude": 54.214487,
+      "longitude": 18.949183
+    },
+    {
+      "name": "Urząd Gminy Oświęcim",
+      "latitude": 50.040519,
+      "longitude": 19.220437
+    },
+    {
+      "name": "Urząd Gminy Ożarowice",
+      "latitude": 50.468048,
+      "longitude": 19.047772
+    },
+    {
+      "name": "Urząd Gminy Panki",
+      "latitude": 50.882708,
+      "longitude": 18.746958
+    },
+    {
+      "name": "Urząd Gminy Papowo Biskupie",
+      "latitude": 53.249488,
+      "longitude": 18.561972
+    },
+    {
+      "name": "Urząd Gminy Paprotnia",
+      "latitude": 52.300805,
+      "longitude": 22.466622
+    },
+    {
+      "name": "Urząd Gminy Pawonków",
+      "latitude": 50.693075,
+      "longitude": 18.58076
+    },
+    {
+      "name": "Urząd Gminy Pawłów",
+      "latitude": 50.961015,
+      "longitude": 21.11949
+    },
+    {
+      "name": "Urząd Gminy Pałecznica",
+      "latitude": 50.289931,
+      "longitude": 20.301306
+    },
+    {
+      "name": "Urząd gminy Piecki",
+      "latitude": 53.75942,
+      "longitude": 21.339508
+    },
+    {
+      "name": "Urząd Gminy Platerów",
+      "latitude": 52.302399,
+      "longitude": 22.819614
+    },
+    {
+      "name": "Urząd Gminy Pniewy",
+      "latitude": 51.908872,
+      "longitude": 20.738098
+    },
+    {
+      "name": "Urząd Gminy Poczesna",
+      "latitude": 50.715253,
+      "longitude": 19.1596
+    },
+    {
+      "name": "Urząd Gminy Podedwórze",
+      "latitude": 51.6882,
+      "longitude": 23.19842
+    },
+    {
+      "name": "Urząd Gminy Podegrodzie",
+      "latitude": 49.576013,
+      "longitude": 20.594383
+    },
+    {
+      "name": "Urząd Gminy Pokrzywnica",
+      "latitude": 52.619996,
+      "longitude": 21.020936
+    },
+    {
+      "name": "Urząd Gminy Pokój",
+      "latitude": 50.905947,
+      "longitude": 17.838142
+    },
+    {
+      "name": "URZĄD GMINY POLANKA WIELKA",
+      "latitude": 49.981892,
+      "longitude": 19.310846
+    },
+    {
+      "name": "Urząd Gminy Pomiechówek",
+      "latitude": 52.474431,
+      "longitude": 20.741541
+    },
+    {
+      "name": "Urząd gminy Popów",
+      "latitude": 51.026916,
+      "longitude": 18.930584
+    },
+    {
+      "name": "Urząd Gminy Poraj",
+      "latitude": 50.674122,
+      "longitude": 19.215304
+    },
+    {
+      "name": "Urząd Gminy Pozezdrze",
+      "latitude": 54.139389,
+      "longitude": 21.857587
+    },
+    {
+      "name": "Urząd Gminy Poświętne",
+      "latitude": 52.33095,
+      "longitude": 21.422143
+    },
+    {
+      "name": "Urząd Gminy Prostki",
+      "latitude": 53.697014,
+      "longitude": 22.43638
+    },
+    {
+      "name": "Urząd Gminy Pruszcz Gdański",
+      "latitude": 54.260171,
+      "longitude": 18.61948
+    },
+    {
+      "name": "Urząd Gminy Przasnysz",
+      "latitude": 53.021408,
+      "longitude": 20.880942
+    },
+    {
+      "name": "Urząd Gminy Przechlewo",
+      "latitude": 53.797975,
+      "longitude": 17.251031
+    },
+    {
+      "name": "Urząd Gminy Przemyśl",
+      "latitude": 49.78941,
+      "longitude": 22.774083
+    },
+    {
+      "name": "Urząd Gminy Przerośl",
+      "latitude": 54.251515,
+      "longitude": 22.655226
+    },
+    {
+      "name": "Urząd Gminy Przesmyki",
+      "latitude": 52.271901,
+      "longitude": 22.58315
+    },
+    {
+      "name": "Urząd Gminy Przeworsk",
+      "latitude": 50.05607,
+      "longitude": 22.496278
+    },
+    {
+      "name": "Urząd Gminy Przystajń",
+      "latitude": 50.884856,
+      "longitude": 18.694727
+    },
+    {
+      "name": "Urząd Gminy Psary",
+      "latitude": 50.380343,
+      "longitude": 19.135218
+    },
+    {
+      "name": "Urząd Gminy Pszczółki",
+      "latitude": 54.172496,
+      "longitude": 18.699956
+    },
+    {
+      "name": "Urząd Gminy Puck",
+      "latitude": 54.719523,
+      "longitude": 18.403104
+    },
+    {
+      "name": "Urząd Gminy Puszcza Mariańska",
+      "latitude": 51.978521,
+      "longitude": 20.349233
+    },
+    {
+      "name": "Urząd Gminy Puławy",
+      "latitude": 51.428098,
+      "longitude": 21.949037
+    },
+    {
+      "name": "Urząd Gminy Puńsk",
+      "latitude": 54.251879,
+      "longitude": 23.18062
+    },
+    {
+      "name": "Urząd Gminy Pysznica",
+      "latitude": 50.570329,
+      "longitude": 22.130305
+    },
+    {
+      "name": "Urząd Gminy Płaska",
+      "latitude": 53.90564,
+      "longitude": 23.26727
+    },
+    {
+      "name": "Urząd Gminy Płoniawy-Bramura",
+      "latitude": 52.980184,
+      "longitude": 21.058792
+    },
+    {
+      "name": "Urząd Gminy Radzanowo",
+      "latitude": 52.573467,
+      "longitude": 19.891024
+    },
+    {
+      "name": "Urząd Gminy Radziejowice",
+      "latitude": 52.003682,
+      "longitude": 20.558762
+    },
+    {
+      "name": "Urząd Gminy Radziłów",
+      "latitude": 53.410216,
+      "longitude": 22.409451
+    },
+    {
+      "name": "Urząd Gminy Raków",
+      "latitude": 50.674555,
+      "longitude": 21.046119
+    },
+    {
+      "name": "Urząd Gminy Repki",
+      "latitude": 52.384902,
+      "longitude": 22.3863
+    },
+    {
+      "name": "Urząd Gminy Rokitno",
+      "latitude": 52.125261,
+      "longitude": 23.295825
+    },
+    {
+      "name": "Urząd Gminy Rossosz",
+      "latitude": 51.857399,
+      "longitude": 23.134454
+    },
+    {
+      "name": "Urząd Gminy Rozogi",
+      "latitude": 53.484422,
+      "longitude": 21.365592
+    },
+    {
+      "name": "Urząd Gminy Rudka",
+      "latitude": 52.726652,
+      "longitude": 22.731984
+    },
+    {
+      "name": "Urząd Gminy Rudnik",
+      "latitude": 50.12785,
+      "longitude": 18.187361
+    },
+    {
+      "name": "Urząd Gminy Rudziniec",
+      "latitude": 50.367978,
+      "longitude": 18.405767
+    },
+    {
+      "name": "Urząd Gminy Rusinów",
+      "latitude": 51.435603,
+      "longitude": 20.586383
+    },
+    {
+      "name": "Urząd Gminy Rutka-Tartak",
+      "latitude": 54.326422,
+      "longitude": 22.965938
+    },
+    {
+      "name": "Urząd Gminy Rutki",
+      "latitude": 53.087237,
+      "longitude": 22.441636
+    },
+    {
+      "name": "Urząd Gminy Rybczewice",
+      "latitude": 51.037504,
+      "longitude": 22.856411
+    },
+    {
+      "name": "Urząd Gminy Rybno",
+      "latitude": 52.244416,
+      "longitude": 20.099845
+    },
+    {
+      "name": "Urząd Gminy Rybno",
+      "latitude": 53.386124,
+      "longitude": 19.93011
+    },
+    {
+      "name": "Urząd Gminy Rychliki",
+      "latitude": 53.985067,
+      "longitude": 19.526297
+    },
+    {
+      "name": "Urząd Gminy Rzeczyca",
+      "latitude": 51.597582,
+      "longitude": 20.290593
+    },
+    {
+      "name": "Urząd Gminy Rzepiennik Strzyżewski",
+      "latitude": 49.797191,
+      "longitude": 21.048794
+    },
+    {
+      "name": "Urząd Gminy Rzewnie",
+      "latitude": 52.836271,
+      "longitude": 21.339036
+    },
+    {
+      "name": "Urząd Gminy Rzezawa",
+      "latitude": 49.990712,
+      "longitude": 20.518652
+    },
+    {
+      "name": "Urząd Gminy Rząśnik",
+      "latitude": 52.713135,
+      "longitude": 21.367678
+    },
+    {
+      "name": "Urząd Gminy Rędziny",
+      "latitude": 50.8546,
+      "longitude": 19.204817
+    },
+    {
+      "name": "Urząd Gminy Sabnie",
+      "latitude": 52.497947,
+      "longitude": 22.308587
+    },
+    {
+      "name": "Urząd Gminy Sadki",
+      "latitude": 53.158168,
+      "longitude": 17.451234
+    },
+    {
+      "name": "Urząd Gminy Sarnaki",
+      "latitude": 52.313841,
+      "longitude": 22.890232
+    },
+    {
+      "name": "Urząd Gminy Sejny",
+      "latitude": 54.103097,
+      "longitude": 23.34976
+    },
+    {
+      "name": "Urząd Gminy Sidra",
+      "latitude": 53.552985,
+      "longitude": 23.448377
+    },
+    {
+      "name": "Urząd Gminy Siemień",
+      "latitude": 51.62878,
+      "longitude": 22.772996
+    },
+    {
+      "name": "Urząd gminy Siemkowice",
+      "latitude": 51.203403,
+      "longitude": 18.900564
+    },
+    {
+      "name": "Urząd Gminy Siepraw",
+      "latitude": 49.90502,
+      "longitude": 19.996118
+    },
+    {
+      "name": "Urząd Gminy Sierakowice",
+      "latitude": 54.349582,
+      "longitude": 17.891163
+    },
+    {
+      "name": "Urząd Gminy Skrzyszów",
+      "latitude": 49.996777,
+      "longitude": 21.056501
+    },
+    {
+      "name": "Urząd Gminy Smołdzino",
+      "latitude": 54.66064,
+      "longitude": 17.21363
+    },
+    {
+      "name": "Urząd Gminy Sobolew",
+      "latitude": 51.741609,
+      "longitude": 21.668472
+    },
+    {
+      "name": "Urząd Gminy Sochaczew",
+      "latitude": 52.227371,
+      "longitude": 20.265168
+    },
+    {
+      "name": "Urząd Gminy Sochocin",
+      "latitude": 52.69047,
+      "longitude": 20.469977
+    },
+    {
+      "name": "Urząd Gminy Sokoły",
+      "latitude": 52.992769,
+      "longitude": 22.700028
+    },
+    {
+      "name": "Urząd Gminy Somianka",
+      "latitude": 52.560864,
+      "longitude": 21.295381
+    },
+    {
+      "name": "Urząd Gminy Somonino",
+      "latitude": 54.27181,
+      "longitude": 18.195022
+    },
+    {
+      "name": "Urząd Gminy Sosnowica",
+      "latitude": 51.523657,
+      "longitude": 23.088934
+    },
+    {
+      "name": "Urząd Gminy Sosnówka",
+      "latitude": 51.749653,
+      "longitude": 23.338255
+    },
+    {
+      "name": "Urząd Gminy Spytkowice",
+      "latitude": 49.576625,
+      "longitude": 19.820732
+    },
+    {
+      "name": "Urząd Gminy Spytkowice",
+      "latitude": 49.998058,
+      "longitude": 19.512584
+    },
+    {
+      "name": "Urząd Gminy Srokowo",
+      "latitude": 54.213953,
+      "longitude": 21.52283
+    },
+    {
+      "name": "Urząd Gminy Stanisławów",
+      "latitude": 52.289227,
+      "longitude": 21.547269
+    },
+    {
+      "name": "Urząd Gminy Starcza",
+      "latitude": 50.665819,
+      "longitude": 19.070807
+    },
+    {
+      "name": "Urząd Gminy Stare Babice (nowy budynek)",
+      "latitude": 52.251882,
+      "longitude": 20.843914
+    },
+    {
+      "name": "Urząd Gminy Stare Babice (stary budynek)",
+      "latitude": 52.250794,
+      "longitude": 20.84366
+    },
+    {
+      "name": "Urząd Gminy Stare Pole",
+      "latitude": 54.05397,
+      "longitude": 19.201494
+    },
+    {
+      "name": "Urząd Gminy Starogard Gdański",
+      "latitude": 53.972104,
+      "longitude": 18.528983
+    },
+    {
+      "name": "Urząd Gminy Stary Dzierzgoń",
+      "latitude": 53.845554,
+      "longitude": 19.396362
+    },
+    {
+      "name": "Urząd Gminy Stary Lubotyń",
+      "latitude": 52.929707,
+      "longitude": 21.928261
+    },
+    {
+      "name": "Urząd Gminy Stary Targ",
+      "latitude": 53.923806,
+      "longitude": 19.172569
+    },
+    {
+      "name": "Urząd Gminy Stryszawa",
+      "latitude": 49.723374,
+      "longitude": 19.502244
+    },
+    {
+      "name": "Urząd Gminy Stężyca",
+      "latitude": 54.206184,
+      "longitude": 17.959116
+    },
+    {
+      "name": "Urząd Gminy Stężyca",
+      "latitude": 54.212878,
+      "longitude": 17.94801
+    },
+    {
+      "name": "Urząd Gminy Subkowy",
+      "latitude": 54.00099,
+      "longitude": 18.769074
+    },
+    {
+      "name": "Urząd Gminy Sulęczyno",
+      "latitude": 54.230575,
+      "longitude": 17.775969
+    },
+    {
+      "name": "Urząd Gminy Suszec",
+      "latitude": 50.028419,
+      "longitude": 18.791264
+    },
+    {
+      "name": "Urząd Gminy Szczawa",
+      "latitude": 49.606505,
+      "longitude": 20.295506
+    },
+    {
+      "name": "Urząd Gminy Szelków",
+      "latitude": 52.820545,
+      "longitude": 21.207953
+    },
+    {
+      "name": "Urząd Gminy Szerzyny",
+      "latitude": 49.809224,
+      "longitude": 21.245028
+    },
+    {
+      "name": "Urząd Gminy Sztabin",
+      "latitude": 53.687273,
+      "longitude": 23.094416
+    },
+    {
+      "name": "Urząd Gminy Sztutowo",
+      "latitude": 54.325899,
+      "longitude": 19.176911
+    },
+    {
+      "name": "Urząd Gminy Szypliszki",
+      "latitude": 54.251968,
+      "longitude": 23.074294
+    },
+    {
+      "name": "Urząd Gminy Słaboszów",
+      "latitude": 50.387617,
+      "longitude": 20.272977
+    },
+    {
+      "name": "Urząd Gminy Sławatycze",
+      "latitude": 51.761669,
+      "longitude": 23.555004
+    },
+    {
+      "name": "Urząd Gminy Słubice",
+      "latitude": 52.368045,
+      "longitude": 19.940073
+    },
+    {
+      "name": "Urząd Gminy Słupia Konecka",
+      "latitude": 51.01245,
+      "longitude": 20.140198
+    },
+    {
+      "name": "Urząd Gminy Tczew",
+      "latitude": 54.086987,
+      "longitude": 18.79253
+    },
+    {
+      "name": "Urząd Gminy Teresin",
+      "latitude": 52.200321,
+      "longitude": 20.413736
+    },
+    {
+      "name": "Urząd Gminy Terespol",
+      "latitude": 52.055494,
+      "longitude": 23.56222
+    },
+    {
+      "name": "Urząd Gminy Topólka",
+      "latitude": 52.503752,
+      "longitude": 18.714342
+    },
+    {
+      "name": "Urząd Gminy Trojanów",
+      "latitude": 51.694564,
+      "longitude": 21.82429
+    },
+    {
+      "name": "Urząd Gminy Trzciana",
+      "latitude": 49.846713,
+      "longitude": 20.36055
+    },
+    {
+      "name": "Urząd Gminy Trzcianne",
+      "latitude": 53.342935,
+      "longitude": 22.679175
+    },
+    {
+      "name": "Urząd Gminy Trzebiel",
+      "latitude": 51.634229,
+      "longitude": 14.824684
+    },
+    {
+      "name": "Urząd Gminy Trąbki Wielkie",
+      "latitude": 54.171544,
+      "longitude": 18.538058
+    },
+    {
+      "name": "Urząd Gminy Tuczna",
+      "latitude": 51.88156,
+      "longitude": 23.41514
+    },
+    {
+      "name": "Urząd Gminy Turośl",
+      "latitude": 53.385429,
+      "longitude": 21.729233
+    },
+    {
+      "name": "Urząd Gminy Ulan-Majorat",
+      "latitude": 51.813738,
+      "longitude": 22.479291
+    },
+    {
+      "name": "Urząd Gminy Ustka",
+      "latitude": 54.575672,
+      "longitude": 16.868757
+    },
+    {
+      "name": "Urząd Gminy w Belsku Dużym",
+      "latitude": 51.824576,
+      "longitude": 20.81035
+    },
+    {
+      "name": "Urząd Gminy w Bobowie",
+      "latitude": 53.88859,
+      "longitude": 18.558835
+    },
+    {
+      "name": "Urząd Gminy w Borzytuchomiu",
+      "latitude": 54.19912,
+      "longitude": 17.36741
+    },
+    {
+      "name": "Urząd Gminy w Brańszczyku",
+      "latitude": 52.628329,
+      "longitude": 21.585882
+    },
+    {
+      "name": "Urząd Gminy w Chełmcu",
+      "latitude": 49.629871,
+      "longitude": 20.666845
+    },
+    {
+      "name": "Urząd Gminy w Choceniu",
+      "latitude": 52.485469,
+      "longitude": 19.021739
+    },
+    {
+      "name": "Urząd Gminy w Chybiu",
+      "latitude": 49.895688,
+      "longitude": 18.812892
+    },
+    {
+      "name": "Urząd Gminy w Chynowie",
+      "latitude": 51.901405,
+      "longitude": 21.080188
+    },
+    {
+      "name": "Urząd Gminy w Gniewinie",
+      "latitude": 54.716699,
+      "longitude": 18.012968
+    },
+    {
+      "name": "Urząd Gminy w Huszlewie",
+      "latitude": 52.137663,
+      "longitude": 22.84015
+    },
+    {
+      "name": "Urząd Gminy w Irządzach",
+      "latitude": 50.624457,
+      "longitude": 19.680671
+    },
+    {
+      "name": "Urząd Gminy w Jasionówce",
+      "latitude": 53.395987,
+      "longitude": 23.036153
+    },
+    {
+      "name": "Urząd Gminy w Jonkowie",
+      "latitude": 53.829521,
+      "longitude": 20.311164
+    },
+    {
+      "name": "Urząd Gminy w Jońcu",
+      "latitude": 52.600405,
+      "longitude": 20.582124
+    },
+    {
+      "name": "Urząd Gminy w Konopiskach",
+      "latitude": 50.72681,
+      "longitude": 19.01135
+    },
+    {
+      "name": "Urząd Gminy w Krasnopolu",
+      "latitude": 54.116554,
+      "longitude": 23.204085
+    },
+    {
+      "name": "Urząd Gminy w Kruszynie",
+      "latitude": 50.967296,
+      "longitude": 19.280115
+    },
+    {
+      "name": "Urząd Gminy w Krypnie",
+      "latitude": 53.278506,
+      "longitude": 22.875495
+    },
+    {
+      "name": "Urząd Gminy w Kuczborku-Osadzie",
+      "latitude": 53.083157,
+      "longitude": 20.044243
+    },
+    {
+      "name": "Urząd Gminy w Lesznie",
+      "latitude": 52.256713,
+      "longitude": 20.586309
+    },
+    {
+      "name": "Urząd Gminy w Lichnowach",
+      "latitude": 54.115047,
+      "longitude": 18.913586
+    },
+    {
+      "name": "Urząd Gminy w Lipnicy",
+      "latitude": 53.996063,
+      "longitude": 17.406646
+    },
+    {
+      "name": "Urząd Gminy w Lipnicy Wielkiej",
+      "latitude": 49.496294,
+      "longitude": 19.617817
+    },
+    {
+      "name": "Urząd Gminy w Lubrzy",
+      "latitude": 50.33575,
+      "longitude": 17.62814
+    },
+    {
+      "name": "Urząd Gminy w Markuszowie",
+      "latitude": 51.374669,
+      "longitude": 22.261019
+    },
+    {
+      "name": "Urząd Gminy w Małkini Górnej",
+      "latitude": 52.692378,
+      "longitude": 22.056108
+    },
+    {
+      "name": "Urząd Gminy w Mierzęcicach",
+      "latitude": 50.444507,
+      "longitude": 19.128886
+    },
+    {
+      "name": "Urząd Gminy w Milejewie",
+      "latitude": 54.218095,
+      "longitude": 19.544727
+    },
+    {
+      "name": "Urząd Gminy w Morzeszczynie",
+      "latitude": 53.840544,
+      "longitude": 18.685713
+    },
+    {
+      "name": "Urząd Gminy w Obrytem",
+      "latitude": 52.715052,
+      "longitude": 21.240832
+    },
+    {
+      "name": "Urząd Gminy w Osiecznej",
+      "latitude": 53.770331,
+      "longitude": 18.20271
+    },
+    {
+      "name": "Urząd Gminy w Osieku",
+      "latitude": 49.950846,
+      "longitude": 19.263761
+    },
+    {
+      "name": "Urząd Gminy w Osiu",
+      "latitude": 53.596984,
+      "longitude": 18.347978
+    },
+    {
+      "name": "Urząd Gminy w Pacynie",
+      "latitude": 52.298197,
+      "longitude": 19.71244
+    },
+    {
+      "name": "Urząd Gminy w Parchowie",
+      "latitude": 54.206513,
+      "longitude": 17.665521
+    },
+    {
+      "name": "Urząd Gminy w Parysowie",
+      "latitude": 51.976592,
+      "longitude": 21.677121
+    },
+    {
+      "name": "Urząd Gminy w Pawonkowie",
+      "latitude": 50.696136,
+      "longitude": 18.57815
+    },
+    {
+      "name": "Urząd Gminy w Pietrowicach Wielkich",
+      "latitude": 50.083208,
+      "longitude": 18.091076
+    },
+    {
+      "name": "Urząd Gminy w Promnie",
+      "latitude": 51.677315,
+      "longitude": 20.954922
+    },
+    {
+      "name": "Urząd Gminy w Przyrowie",
+      "latitude": 50.803365,
+      "longitude": 19.5252
+    },
+    {
+      "name": "Urząd Gminy w Przytułach",
+      "latitude": 53.36542,
+      "longitude": 22.31205
+    },
+    {
+      "name": "Urząd Gminy w Rabie Wyżnej",
+      "latitude": 49.564828,
+      "longitude": 19.879036
+    },
+    {
+      "name": "Urząd Gminy w Radgoszczy",
+      "latitude": 50.205847,
+      "longitude": 21.111409
+    },
+    {
+      "name": "Urząd Gminy w Radzanowie",
+      "latitude": 52.943214,
+      "longitude": 20.092293
+    },
+    {
+      "name": "Urząd Gminy w Regiminie",
+      "latitude": 52.941817,
+      "longitude": 20.553904
+    },
+    {
+      "name": "Urząd Gminy w Rudzie Malenieckiej",
+      "latitude": 51.147492,
+      "longitude": 20.217655
+    },
+    {
+      "name": "Urząd Gminy w Rząśni",
+      "latitude": 51.217185,
+      "longitude": 19.041273
+    },
+    {
+      "name": "Urząd Gminy w Sadlinkach",
+      "latitude": 53.669473,
+      "longitude": 18.882298
+    },
+    {
+      "name": "Urząd Gminy w Samborcu",
+      "latitude": 50.644442,
+      "longitude": 21.646114
+    },
+    {
+      "name": "Urząd Gminy w Smykowie",
+      "latitude": 51.054923,
+      "longitude": 20.400036
+    },
+    {
+      "name": "Urząd Gminy w Sońsku",
+      "latitude": 52.781735,
+      "longitude": 20.697428
+    },
+    {
+      "name": "Urząd Gminy w Sośnie",
+      "latitude": 53.388526,
+      "longitude": 17.686247
+    },
+    {
+      "name": "Urząd Gminy w Stoczku",
+      "latitude": 52.54335,
+      "longitude": 21.903796
+    },
+    {
+      "name": "Urząd Gminy w Strzegowie",
+      "latitude": 52.893053,
+      "longitude": 20.286676
+    },
+    {
+      "name": "Urząd Gminy w Studzienicach",
+      "latitude": 54.09261,
+      "longitude": 17.573789
+    },
+    {
+      "name": "Urząd Gminy w Sypniewie",
+      "latitude": 53.005023,
+      "longitude": 21.306276
+    },
+    {
+      "name": "Urząd Gminy w Tomicach",
+      "latitude": 49.900059,
+      "longitude": 19.484802
+    },
+    {
+      "name": "Urząd Gminy w Waśniowie",
+      "latitude": 50.899207,
+      "longitude": 21.222229
+    },
+    {
+      "name": "Urząd Gminy w Wiźnie",
+      "latitude": 53.191874,
+      "longitude": 22.385018
+    },
+    {
+      "name": "Urząd Gminy w Wąpielsku",
+      "latitude": 53.137954,
+      "longitude": 19.277824
+    },
+    {
+      "name": "Urząd Gminy w Wąsewie",
+      "latitude": 52.872188,
+      "longitude": 21.674085
+    },
+    {
+      "name": "Urząd Gminy w Zambrowie",
+      "latitude": 52.974955,
+      "longitude": 22.248716
+    },
+    {
+      "name": "Urząd Gminy w Zblewie",
+      "latitude": 53.933593,
+      "longitude": 18.326135
+    },
+    {
+      "name": "Urząd Gminy w Zembrzycach",
+      "latitude": 49.7758,
+      "longitude": 19.603216
+    },
+    {
+      "name": "Urząd Gminy w Łubiance",
+      "latitude": 53.137746,
+      "longitude": 18.477485
+    },
+    {
+      "name": "Urząd Gminy Wejherowo",
+      "latitude": 54.605753,
+      "longitude": 18.219447
+    },
+    {
+      "name": "Urząd Gminy Wieczfnia Kościelna",
+      "latitude": 53.195146,
+      "longitude": 20.476902
+    },
+    {
+      "name": "Urząd Gminy Wieliszew",
+      "latitude": 52.446018,
+      "longitude": 20.976681
+    },
+    {
+      "name": "Urząd Gminy Wierzbno",
+      "latitude": 52.306607,
+      "longitude": 21.85749
+    },
+    {
+      "name": "Urząd Gminy Wilamowice",
+      "latitude": 49.916258,
+      "longitude": 19.152757
+    },
+    {
+      "name": "Urząd Gminy Wilczyce",
+      "latitude": 50.746281,
+      "longitude": 21.657842
+    },
+    {
+      "name": "Urząd Gminy Wilczęta",
+      "latitude": 54.168541,
+      "longitude": 19.884801
+    },
+    {
+      "name": "Urząd Gminy Wisznice",
+      "latitude": 51.788398,
+      "longitude": 23.209645
+    },
+    {
+      "name": "Urząd Gminy Wiązowna",
+      "latitude": 52.174067,
+      "longitude": 21.292999
+    },
+    {
+      "name": "Urząd Gminy Wiśniew",
+      "latitude": 52.073917,
+      "longitude": 22.29369
+    },
+    {
+      "name": "Urząd Gminy Wiżajny",
+      "latitude": 54.368365,
+      "longitude": 22.868436
+    },
+    {
+      "name": "Urząd Gminy Wodynie",
+      "latitude": 52.040034,
+      "longitude": 21.958002
+    },
+    {
+      "name": "Urząd Gminy Wohyń",
+      "latitude": 51.756652,
+      "longitude": 22.783541
+    },
+    {
+      "name": "Urząd Gminy Wojciechowice",
+      "latitude": 50.845238,
+      "longitude": 21.58655
+    },
+    {
+      "name": "Urząd Gminy Wręczyca Wielka",
+      "latitude": 50.84258,
+      "longitude": 18.917867
+    },
+    {
+      "name": "Urząd Gminy Wyryki",
+      "latitude": 51.561794,
+      "longitude": 23.393195
+    },
+    {
+      "name": "Urząd Gminy Wąsosz",
+      "latitude": 53.521658,
+      "longitude": 22.320003
+    },
+    {
+      "name": "Urząd Gminy Włocławek",
+      "latitude": 52.657189,
+      "longitude": 19.072366
+    },
+    {
+      "name": "Urząd Gminy Zalesie",
+      "latitude": 52.03594,
+      "longitude": 23.36673
+    },
+    {
+      "name": "Urząd Gminy Zaręby Kościelne",
+      "latitude": 52.756981,
+      "longitude": 22.126637
+    },
+    {
+      "name": "Urząd Gminy Załuski",
+      "latitude": 52.512364,
+      "longitude": 20.529767
+    },
+    {
+      "name": "Urząd Gminy Zbrosławice (budynek główny)",
+      "latitude": 50.416506,
+      "longitude": 18.756359
+    },
+    {
+      "name": "Urząd Gminy Zbuczyn",
+      "latitude": 52.087372,
+      "longitude": 22.440479
+    },
+    {
+      "name": "Urząd Gminy Zebrzydowice",
+      "latitude": 49.878849,
+      "longitude": 18.612508
+    },
+    {
+      "name": "Urząd Gminy Zławieś Wielka",
+      "latitude": 53.096085,
+      "longitude": 18.330317
+    },
+    {
+      "name": "Urząd Gminy Łabowa",
+      "latitude": 49.527126,
+      "longitude": 20.858029
+    },
+    {
+      "name": "Urząd Gminy Łomazy",
+      "latitude": 51.903584,
+      "longitude": 23.175812
+    },
+    {
+      "name": "Urząd Gminy Łoniów",
+      "latitude": 50.560633,
+      "longitude": 21.522547
+    },
+    {
+      "name": "Urząd Gminy Łubnice",
+      "latitude": 50.409205,
+      "longitude": 21.149883
+    },
+    {
+      "name": "Urząd gminy Łyse",
+      "latitude": 53.364216,
+      "longitude": 21.554129
+    },
+    {
+      "name": "Urząd Gminy Łączna",
+      "latitude": 50.992835,
+      "longitude": 20.797939
+    },
+    {
+      "name": "Urząd Gminy Łęczyce",
+      "latitude": 54.591992,
+      "longitude": 17.860622
+    },
+    {
+      "name": "Urząd Gminy Śniadowo",
+      "latitude": 53.039133,
+      "longitude": 21.986825
+    },
+    {
+      "name": "Urząd Gminy Świedziebnia",
+      "latitude": 53.151884,
+      "longitude": 19.556652
+    },
+    {
+      "name": "Urząd Gminy Świerklaniec",
+      "latitude": 50.439577,
+      "longitude": 18.936329
+    },
+    {
+      "name": "Urząd Gminy Świątki",
+      "latitude": 53.92859,
+      "longitude": 20.242676
+    },
+    {
+      "name": "Urząd Gminy Świętajno",
+      "latitude": 53.565453,
+      "longitude": 21.224067
+    },
+    {
+      "name": "Urząd Gminy Świętajno",
+      "latitude": 54.001115,
+      "longitude": 22.319714
+    },
+    {
+      "name": "Urząd Gminy Żabia Wola",
+      "latitude": 52.031515,
+      "longitude": 20.691748
+    },
+    {
+      "name": "Urząd Gminy Żarnowiec",
+      "latitude": 50.482719,
+      "longitude": 19.861472
+    },
+    {
+      "name": "Urząd Gminy Żurawica",
+      "latitude": 49.823519,
+      "longitude": 22.807447
+    },
+    {
+      "name": "Urząd Gminy Żyrzyn",
+      "latitude": 51.49938,
+      "longitude": 22.07213
+    },
+    {
+      "name": "Urząd Komunikacji Elektronicznej - Delegatura w Łodzi",
+      "latitude": 51.76396,
+      "longitude": 19.478697
+    },
+    {
+      "name": "Urząd Marszałkowski Województwa Lubelskiego w Lublinie",
+      "latitude": 51.246755,
+      "longitude": 22.549471
+    },
+    {
+      "name": "Urząd Marszałkowski Województwa Mazowieckiego. Delegatura w Radomiu",
+      "latitude": 51.394607,
+      "longitude": 21.148884
+    },
+    {
+      "name": "Urząd Marszałkowski Województwa Śląskiego",
+      "latitude": 50.254679,
+      "longitude": 19.025328
+    },
+    {
+      "name": "Urząd Mejski w Gdańsku",
+      "latitude": 54.34587,
+      "longitude": 18.65258
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 49.840839,
+      "longitude": 19.801709
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 51.262067,
+      "longitude": 15.570246
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 52.214165,
+      "longitude": 18.255159
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 52.406662,
+      "longitude": 22.242485
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 52.801658,
+      "longitude": 21.892628
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.019811,
+      "longitude": 20.88198
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.06296,
+      "longitude": 19.41148
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.111617,
+      "longitude": 20.38295
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.423503,
+      "longitude": 19.592377
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.582441,
+      "longitude": 20.282283
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 53.668149,
+      "longitude": 17.359734
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 54.035032,
+      "longitude": 19.024009
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 54.071736,
+      "longitude": 18.44538
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 54.239551,
+      "longitude": 20.128137
+    },
+    {
+      "name": "Urząd Miasta",
+      "latitude": 54.720988,
+      "longitude": 18.414558
+    },
+    {
+      "name": "Urząd Miasta (w adaptacji)",
+      "latitude": 50.872158,
+      "longitude": 20.627747
+    },
+    {
+      "name": "Urząd Miasta - Szymanowskiego",
+      "latitude": 50.863714,
+      "longitude": 20.64736
+    },
+    {
+      "name": "Urząd Miasta - Wydział Finansowy",
+      "latitude": 51.770097,
+      "longitude": 19.460388
+    },
+    {
+      "name": "Urząd Miasta Bełchatowa",
+      "latitude": 51.367095,
+      "longitude": 19.381379
+    },
+    {
+      "name": "Urząd Miasta Bielsk Podlaski",
+      "latitude": 52.76866,
+      "longitude": 23.192134
+    },
+    {
+      "name": "Urząd miasta Bochnia",
+      "latitude": 49.968392,
+      "longitude": 20.429899
+    },
+    {
+      "name": "Urząd Miasta Brańsk",
+      "latitude": 52.741107,
+      "longitude": 22.838579
+    },
+    {
+      "name": "Urząd Miasta Bydgoszczy",
+      "latitude": 53.148319,
+      "longitude": 18.150839
+    },
+    {
+      "name": "Urząd Miasta Chodecz",
+      "latitude": 52.404406,
+      "longitude": 19.03327
+    },
+    {
+      "name": "Urząd Miasta Ciechanów",
+      "latitude": 52.882816,
+      "longitude": 20.618082
+    },
+    {
+      "name": "Urząd Miasta Działdowa",
+      "latitude": 53.234319,
+      "longitude": 20.182082
+    },
+    {
+      "name": "Urząd Miasta Gminy Szydłów",
+      "latitude": 50.590737,
+      "longitude": 21.000827
+    },
+    {
+      "name": "Urząd Miasta Gorzowa",
+      "latitude": 52.731969,
+      "longitude": 15.251506
+    },
+    {
+      "name": "Urząd Miasta Gorzowa Wlkp.",
+      "latitude": 52.737394,
+      "longitude": 15.202182
+    },
+    {
+      "name": "Urząd Miasta Gorzowa Wlkp.",
+      "latitude": 52.741205,
+      "longitude": 15.249293
+    },
+    {
+      "name": "Urząd Miasta Grajewo",
+      "latitude": 53.650486,
+      "longitude": 22.449996
+    },
+    {
+      "name": "Urząd Miasta Hajnówka",
+      "latitude": 52.737463,
+      "longitude": 23.589443
+    },
+    {
+      "name": "Urząd Miasta Helu",
+      "latitude": 54.604938,
+      "longitude": 18.802549
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 49.984625,
+      "longitude": 20.059099
+    },
+    {
+      "name": "Urząd miasta i gminy",
+      "latitude": 50.066151,
+      "longitude": 19.543077
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 50.241937,
+      "longitude": 20.724446
+    },
+    {
+      "name": "Urząd miasta i gminy",
+      "latitude": 50.780755,
+      "longitude": 17.071047
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 51.782705,
+      "longitude": 22.612249
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 52.553369,
+      "longitude": 18.499752
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 52.839719,
+      "longitude": 15.832178
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.139461,
+      "longitude": 17.603932
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.359886,
+      "longitude": 20.425796
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.538393,
+      "longitude": 17.234966
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.845833,
+      "longitude": 19.607632
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.919747,
+      "longitude": 19.030641
+    },
+    {
+      "name": "Urząd Miasta i Gminy",
+      "latitude": 53.999362,
+      "longitude": 16.974358
+    },
+    {
+      "name": "Urząd Miasta i Gminy - Ruciane-Nida",
+      "latitude": 53.647347,
+      "longitude": 21.564119
+    },
+    {
+      "name": "Urząd Miasta i Gminy Baranów Sandomierski",
+      "latitude": 50.500075,
+      "longitude": 21.541313
+    },
+    {
+      "name": "Urząd Miasta i Gminy Bircza",
+      "latitude": 49.690465,
+      "longitude": 22.482072
+    },
+    {
+      "name": "Urząd Miasta i Gminy Bogoria",
+      "latitude": 50.653992,
+      "longitude": 21.257047
+    },
+    {
+      "name": "Urząd Miasta i Gminy Chorzele",
+      "latitude": 53.260462,
+      "longitude": 20.900256
+    },
+    {
+      "name": "Urząd Miasta i Gminy Czarny Dunajec",
+      "latitude": 49.441017,
+      "longitude": 19.85517
+    },
+    {
+      "name": "Urząd Miasta i Gminy Gniew",
+      "latitude": 53.834373,
+      "longitude": 18.824839
+    },
+    {
+      "name": "Urząd Miasta i Gminy Halinów",
+      "latitude": 52.224404,
+      "longitude": 21.349842
+    },
+    {
+      "name": "Urząd Miasta i Gminy Inowłódz",
+      "latitude": 51.525873,
+      "longitude": 20.221986
+    },
+    {
+      "name": "Urząd Miasta i Gminy Jadów",
+      "latitude": 52.47624,
+      "longitude": 21.63484
+    },
+    {
+      "name": "Urząd Miasta i Gminy Kosów Lacki",
+      "latitude": 52.591525,
+      "longitude": 22.142775
+    },
+    {
+      "name": "Urząd Miasta i Gminy Latowicz",
+      "latitude": 52.027114,
+      "longitude": 21.807823
+    },
+    {
+      "name": "Urząd Miasta i Gminy Maciejowice",
+      "latitude": 51.694967,
+      "longitude": 21.554761
+    },
+    {
+      "name": "Urząd Miasta i Gminy Mońki",
+      "latitude": 53.406766,
+      "longitude": 22.798729
+    },
+    {
+      "name": "Urząd Miasta i Gminy Mrozy",
+      "latitude": 52.165356,
+      "longitude": 21.799574
+    },
+    {
+      "name": "Urząd Miasta i Gminy Murowana Goślina",
+      "latitude": 52.573731,
+      "longitude": 17.007987
+    },
+    {
+      "name": "Urząd Miasta i Gminy Młynary",
+      "latitude": 54.186715,
+      "longitude": 19.731244
+    },
+    {
+      "name": "Urząd Miasta i Gminy Nowy Dwór Gdański",
+      "latitude": 54.21213,
+      "longitude": 19.116028
+    },
+    {
+      "name": "Urząd Miasta i Gminy Olkusz",
+      "latitude": 50.279414,
+      "longitude": 19.55878
+    },
+    {
+      "name": "Urząd Miasta i Gminy Olszyna",
+      "latitude": 51.066338,
+      "longitude": 15.37577
+    },
+    {
+      "name": "Urząd Miasta i Gminy Pilawa",
+      "latitude": 51.96028,
+      "longitude": 21.525551
+    },
+    {
+      "name": "Urząd Miasta i Gminy Piszczac",
+      "latitude": 51.980735,
+      "longitude": 23.373682
+    },
+    {
+      "name": "Urząd Miasta i Gminy Prabuty",
+      "latitude": 53.757427,
+      "longitude": 19.197854
+    },
+    {
+      "name": "Urząd Miasta i Gminy Radzymin budynek A",
+      "latitude": 52.417315,
+      "longitude": 21.183031
+    },
+    {
+      "name": "Urząd Miasta i Gminy Ryn",
+      "latitude": 53.937886,
+      "longitude": 21.546013
+    },
+    {
+      "name": "Urząd Miasta i Gminy Siennica",
+      "latitude": 52.094215,
+      "longitude": 21.617419
+    },
+    {
+      "name": "Urząd Miasta i Gminy Szubin",
+      "latitude": 53.006967,
+      "longitude": 17.731064
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Bogatyni",
+      "latitude": 50.905227,
+      "longitude": 14.957133
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Buku",
+      "latitude": 52.356648,
+      "longitude": 16.517531
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Chocianowie",
+      "latitude": 51.42044,
+      "longitude": 15.901702
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Glinojecku",
+      "latitude": 52.817952,
+      "longitude": 20.287523
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Gowarczowie",
+      "latitude": 51.27818,
+      "longitude": 20.439112
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Gąsawie",
+      "latitude": 52.771909,
+      "longitude": 17.757788
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Jaworniku Polskim",
+      "latitude": 49.889143,
+      "longitude": 22.28506
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Mikołajkach",
+      "latitude": 53.803638,
+      "longitude": 21.571433
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Mordach",
+      "latitude": 52.210316,
+      "longitude": 22.518825
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Otmuchowie",
+      "latitude": 50.465215,
+      "longitude": 17.172919
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Serocku",
+      "latitude": 52.513538,
+      "longitude": 21.073472
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Tolkmicku",
+      "latitude": 54.321249,
+      "longitude": 19.525729
+    },
+    {
+      "name": "Urząd Miasta i Gminy w Zatorze",
+      "latitude": 49.995996,
+      "longitude": 19.437262
+    },
+    {
+      "name": "Urząd Miasta i Gminy Wiskitki",
+      "latitude": 52.085163,
+      "longitude": 20.383983
+    },
+    {
+      "name": "Urząd Miasta i Gminy Wolbrom",
+      "latitude": 50.385008,
+      "longitude": 19.759272
+    },
+    {
+      "name": "Urząd Miasta i Gminy Łomianki",
+      "latitude": 52.340566,
+      "longitude": 20.886558
+    },
+    {
+      "name": "Urząd Miasta i Gminy Łosice",
+      "latitude": 52.212226,
+      "longitude": 22.714049
+    },
+    {
+      "name": "Urząd Miasta Jarosławia",
+      "latitude": 50.018896,
+      "longitude": 22.691526
+    },
+    {
+      "name": "Urząd Miasta Jedwabne",
+      "latitude": 53.284538,
+      "longitude": 22.302665
+    },
+    {
+      "name": "Urząd Miasta Józefowa",
+      "latitude": 52.135441,
+      "longitude": 21.234187
+    },
+    {
+      "name": "Urząd Miasta Józefowa",
+      "latitude": 52.135857,
+      "longitude": 21.234466
+    },
+    {
+      "name": "Urząd Miasta Kalisza",
+      "latitude": 51.760208,
+      "longitude": 18.092366
+    },
+    {
+      "name": "Urząd Miasta Kalwarii Zebrzydowskiej",
+      "latitude": 49.86827,
+      "longitude": 19.67753
+    },
+    {
+      "name": "Urząd Miasta Kielce - Strycharska",
+      "latitude": 50.887984,
+      "longitude": 20.616715
+    },
+    {
+      "name": "Urząd Miasta Kielce - Wydział Geodezji",
+      "latitude": 50.881306,
+      "longitude": 20.615179
+    },
+    {
+      "name": "Urząd miasta Knyszyn",
+      "latitude": 53.312787,
+      "longitude": 22.918851
+    },
+    {
+      "name": "Urząd Miasta Kobyłka",
+      "latitude": 52.337143,
+      "longitude": 21.214268
+    },
+    {
+      "name": "Urząd Miasta Kolno",
+      "latitude": 53.409102,
+      "longitude": 21.931732
+    },
+    {
+      "name": "Urząd Miasta Końskowola",
+      "latitude": 51.407747,
+      "longitude": 22.056337
+    },
+    {
+      "name": "Urząd Miasta Krakowa",
+      "latitude": 50.061987,
+      "longitude": 19.961103
+    },
+    {
+      "name": "Urząd Miasta Krakowa",
+      "latitude": 50.07691,
+      "longitude": 20.031893
+    },
+    {
+      "name": "Urząd Miasta Krynica Morska",
+      "latitude": 54.382892,
+      "longitude": 19.445802
+    },
+    {
+      "name": "Urząd Miasta Legionowo",
+      "latitude": 52.395124,
+      "longitude": 20.931164
+    },
+    {
+      "name": "Urząd Miasta Lipsk",
+      "latitude": 53.731761,
+      "longitude": 23.401634
+    },
+    {
+      "name": "Urząd Miasta Lubawa",
+      "latitude": 53.5008,
+      "longitude": 19.748907
+    },
+    {
+      "name": "Urząd Miasta Marki",
+      "latitude": 52.326692,
+      "longitude": 21.107329
+    },
+    {
+      "name": "Urząd Miasta Międzyrzec Podlaski",
+      "latitude": 51.987134,
+      "longitude": 22.780548
+    },
+    {
+      "name": "Urząd Miasta Mińsk Mazowiecki",
+      "latitude": 52.181184,
+      "longitude": 21.559277
+    },
+    {
+      "name": "Urząd Miasta Nowy Dwór Mazowiecki",
+      "latitude": 52.431082,
+      "longitude": 20.710632
+    },
+    {
+      "name": "Urząd Miasta Olecko",
+      "latitude": 54.036274,
+      "longitude": 22.503909
+    },
+    {
+      "name": "Urząd Miasta Ostrołęki",
+      "latitude": 53.08725,
+      "longitude": 21.571994
+    },
+    {
+      "name": "Urząd Miasta Otwocka",
+      "latitude": 52.103865,
+      "longitude": 21.267885
+    },
+    {
+      "name": "Urząd Miasta Oświęcim",
+      "latitude": 50.036155,
+      "longitude": 19.220691
+    },
+    {
+      "name": "Urząd Miasta Ożarowa Mazowieciego - Wydział Oświaty",
+      "latitude": 52.208547,
+      "longitude": 20.80967
+    },
+    {
+      "name": "Urząd Miasta Poznania",
+      "latitude": 52.398745,
+      "longitude": 16.90036
+    },
+    {
+      "name": "Urząd Miasta Poznania",
+      "latitude": 52.411702,
+      "longitude": 16.922098
+    },
+    {
+      "name": "Urząd Miasta Poznań Stare Miasto",
+      "latitude": 52.408549,
+      "longitude": 16.94822
+    },
+    {
+      "name": "Urząd Miasta Pruszcz Gdański",
+      "latitude": 54.259676,
+      "longitude": 18.634796
+    },
+    {
+      "name": "Urząd Miasta Puławy",
+      "latitude": 51.416833,
+      "longitude": 21.972993
+    },
+    {
+      "name": "Urząd Miasta Płońsk",
+      "latitude": 52.62152,
+      "longitude": 20.370365
+    },
+    {
+      "name": "Urząd Miasta Radymna",
+      "latitude": 49.948246,
+      "longitude": 22.8202
+    },
+    {
+      "name": "Urząd Miasta Ruda Śląska",
+      "latitude": 50.287078,
+      "longitude": 18.875732
+    },
+    {
+      "name": "Urząd Miasta Rydułtowy",
+      "latitude": 50.063372,
+      "longitude": 18.420357
+    },
+    {
+      "name": "Urząd Miasta Rzeszowa",
+      "latitude": 50.033673,
+      "longitude": 22.000794
+    },
+    {
+      "name": "Urząd Miasta Rzeszowa",
+      "latitude": 50.037085,
+      "longitude": 22.005272
+    },
+    {
+      "name": "Urząd Miasta Rzeszowa",
+      "latitude": 50.037275,
+      "longitude": 22.00625
+    },
+    {
+      "name": "Urząd Miasta Sejny",
+      "latitude": 54.106487,
+      "longitude": 23.349679
+    },
+    {
+      "name": "Urząd Miasta Sochaczew",
+      "latitude": 52.227435,
+      "longitude": 20.241082
+    },
+    {
+      "name": "Urząd Miasta Starogard Gdański",
+      "latitude": 53.972695,
+      "longitude": 18.531784
+    },
+    {
+      "name": "Urząd Miasta Sucha Beskidzka",
+      "latitude": 49.741658,
+      "longitude": 19.595561
+    },
+    {
+      "name": "Urząd Miasta Sulejówek",
+      "latitude": 52.246312,
+      "longitude": 21.279032
+    },
+    {
+      "name": "Urząd Miasta Sulejówek - filia",
+      "latitude": 52.246908,
+      "longitude": 21.284077
+    },
+    {
+      "name": "Urząd Miasta Tarnowa",
+      "latitude": 50.014761,
+      "longitude": 20.990426
+    },
+    {
+      "name": "Urząd Miasta Tarnowa",
+      "latitude": 50.015783,
+      "longitude": 20.986547
+    },
+    {
+      "name": "Urząd Miasta Tczew",
+      "latitude": 54.086139,
+      "longitude": 18.794095
+    },
+    {
+      "name": "Urząd Miasta Tczew",
+      "latitude": 54.086983,
+      "longitude": 18.793423
+    },
+    {
+      "name": "Urząd Miasta Torunia",
+      "latitude": 53.008628,
+      "longitude": 18.60907
+    },
+    {
+      "name": "Urząd Miasta Torunia",
+      "latitude": 53.008715,
+      "longitude": 18.593435
+    },
+    {
+      "name": "Urząd Miasta Torunia",
+      "latitude": 53.015043,
+      "longitude": 18.562066
+    },
+    {
+      "name": "Urząd Miasta Ustka",
+      "latitude": 54.583391,
+      "longitude": 16.860932
+    },
+    {
+      "name": "Urząd Miasta w Bukownie",
+      "latitude": 50.266976,
+      "longitude": 19.463122
+    },
+    {
+      "name": "Urząd Miasta w Kazimierzu Dolnym",
+      "latitude": 51.321777,
+      "longitude": 21.945733
+    },
+    {
+      "name": "Urząd Miasta w Kościerzynie",
+      "latitude": 54.123974,
+      "longitude": 17.982052
+    },
+    {
+      "name": "Urząd Miasta w Piekoszowie",
+      "latitude": 50.882909,
+      "longitude": 20.464125
+    },
+    {
+      "name": "Urząd Miasta w Redzie",
+      "latitude": 54.599861,
+      "longitude": 18.352052
+    },
+    {
+      "name": "Urząd Miasta w Toruniu Wydział gospodarki komunalnej wydział Obsługi Mieszkańców Referat Działalności Gospodarczej",
+      "latitude": 53.03474,
+      "longitude": 18.599699
+    },
+    {
+      "name": "Urząd Miasta w Tuszynie",
+      "latitude": 51.601823,
+      "longitude": 19.545183
+    },
+    {
+      "name": "Urząd Miasta w Zambrowie",
+      "latitude": 52.97545,
+      "longitude": 22.247628
+    },
+    {
+      "name": "Urząd Miasta w Łaskarzewie",
+      "latitude": 51.789439,
+      "longitude": 21.591656
+    },
+    {
+      "name": "Urząd Miasta Wysokie Mazowieckie",
+      "latitude": 52.915313,
+      "longitude": 22.513499
+    },
+    {
+      "name": "Urząd Miasta Władysławowo",
+      "latitude": 54.794049,
+      "longitude": 18.40989
+    },
+    {
+      "name": "Urząd Miasta Zakopane",
+      "latitude": 49.297914,
+      "longitude": 19.956187
+    },
+    {
+      "name": "Urząd Miasta Zgierza",
+      "latitude": 51.856363,
+      "longitude": 19.404649
+    },
+    {
+      "name": "Urząd Miasta Zielonka",
+      "latitude": 52.311701,
+      "longitude": 21.153712
+    },
+    {
+      "name": "Urząd Miasta Ząbki",
+      "latitude": 52.294709,
+      "longitude": 21.113456
+    },
+    {
+      "name": "Urząd Miasta Żory",
+      "latitude": 50.045126,
+      "longitude": 18.694722
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 51.646629,
+      "longitude": 17.820046
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 52.398459,
+      "longitude": 22.017701
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 52.626646,
+      "longitude": 18.168295
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 53.224919,
+      "longitude": 21.888768
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 53.410444,
+      "longitude": 18.453245
+    },
+    {
+      "name": "Urząd miejski",
+      "latitude": 53.847326,
+      "longitude": 18.090694
+    },
+    {
+      "name": "Urząd miejski",
+      "latitude": 53.986882,
+      "longitude": 20.392785
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 54.308792,
+      "longitude": 22.301367
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 54.381004,
+      "longitude": 19.839249
+    },
+    {
+      "name": "Urząd Miejski",
+      "latitude": 54.755593,
+      "longitude": 17.557924
+    },
+    {
+      "name": "Urząd Miejski (Wydział Gospodarki Lokalowej, Wydział Zdrowia i Opieki Społecznej)",
+      "latitude": 50.350461,
+      "longitude": 18.925524
+    },
+    {
+      "name": "Urząd Miejski Ciechocinek",
+      "latitude": 52.878721,
+      "longitude": 18.783609
+    },
+    {
+      "name": "Urząd Miejski i Starostwo Powiatowe",
+      "latitude": 51.639872,
+      "longitude": 22.897216
+    },
+    {
+      "name": "Urząd Miejski Piwniczna Zdrój",
+      "latitude": 49.440406,
+      "longitude": 20.71344
+    },
+    {
+      "name": "Urząd Miejski Tarnowskie Góry",
+      "latitude": 50.446347,
+      "longitude": 18.860519
+    },
+    {
+      "name": "Urząd Miejski w Andrychowie",
+      "latitude": 49.852275,
+      "longitude": 19.341309
+    },
+    {
+      "name": "Urząd Miejski w Białymstoku Departament Obsługi Mieszkańców",
+      "latitude": 53.131315,
+      "longitude": 23.170276
+    },
+    {
+      "name": "Urząd Miejski w Bierutowie",
+      "latitude": 51.12531,
+      "longitude": 17.539633
+    },
+    {
+      "name": "Urząd Miejski w Bisztynku",
+      "latitude": 54.085931,
+      "longitude": 20.904342
+    },
+    {
+      "name": "Urząd Miejski w Brześciu Kujawskim",
+      "latitude": 52.604386,
+      "longitude": 18.900016
+    },
+    {
+      "name": "Urząd Miejski w Bytowie",
+      "latitude": 54.167722,
+      "longitude": 17.49629
+    },
+    {
+      "name": "Urząd Miejski w Błoniu",
+      "latitude": 52.193567,
+      "longitude": 20.621325
+    },
+    {
+      "name": "Urząd Miejski w Chełmku",
+      "latitude": 50.100542,
+      "longitude": 19.258196
+    },
+    {
+      "name": "Urząd Miejski w Chrzanowie",
+      "latitude": 50.141165,
+      "longitude": 19.401533
+    },
+    {
+      "name": "Urząd Miejski w Czaplinku",
+      "latitude": 53.554788,
+      "longitude": 16.233094
+    },
+    {
+      "name": "Urząd Miejski w Czersku",
+      "latitude": 53.795625,
+      "longitude": 17.973868
+    },
+    {
+      "name": "Urząd Miejski w Czyżewie",
+      "latitude": 52.799681,
+      "longitude": 22.321357
+    },
+    {
+      "name": "Urząd Miejski w Drohiczynie",
+      "latitude": 52.397456,
+      "longitude": 22.658484
+    },
+    {
+      "name": "Urząd Miejski w Dzierzgoniu",
+      "latitude": 53.922674,
+      "longitude": 19.346077
+    },
+    {
+      "name": "Urząd Miejski w Dąbrowie Białostockiej",
+      "latitude": 53.654829,
+      "longitude": 23.345786
+    },
+    {
+      "name": "Urząd Miejski w Dąbrowie Górniczej. Wydział organizacji pozarządowych i aktywności obywatelskiej",
+      "latitude": 50.324498,
+      "longitude": 19.179643
+    },
+    {
+      "name": "Urząd Miejski w Gdańsku",
+      "latitude": 54.348557,
+      "longitude": 18.654075
+    },
+    {
+      "name": "Urząd Miejski w Gdańsku",
+      "latitude": 54.351524,
+      "longitude": 18.636682
+    },
+    {
+      "name": "Urząd Miejski w Gdańsku",
+      "latitude": 54.35209,
+      "longitude": 18.586144
+    },
+    {
+      "name": "Urząd Miejski w Gdańsku",
+      "latitude": 54.379401,
+      "longitude": 18.617247
+    },
+    {
+      "name": "Urząd Miejski w Giżycku",
+      "latitude": 54.040174,
+      "longitude": 21.771575
+    },
+    {
+      "name": "Urząd Miejski w Gliwicach – filia przy ul. Jasnej",
+      "latitude": 50.282968,
+      "longitude": 18.671068
+    },
+    {
+      "name": "Urząd Miejski w Goniądzu",
+      "latitude": 53.490372,
+      "longitude": 22.733842
+    },
+    {
+      "name": "Urząd Miejski w Grodzisku Mazowieckim",
+      "latitude": 52.105313,
+      "longitude": 20.626222
+    },
+    {
+      "name": "Urząd Miejski w Grudziądzu - Wydział Bezpieczeństwa i Zarządzania Kryzysowego",
+      "latitude": 53.490527,
+      "longitude": 18.757703
+    },
+    {
+      "name": "Urząd Miejski w Grudziądzu - Wydział Edukacji",
+      "latitude": 53.49614,
+      "longitude": 18.757541
+    },
+    {
+      "name": "Urząd Miejski w Grudziądzu - Wydział Transportu",
+      "latitude": 53.478158,
+      "longitude": 18.745929
+    },
+    {
+      "name": "Urząd Miejski w Głuszycy",
+      "latitude": 50.694435,
+      "longitude": 16.370123
+    },
+    {
+      "name": "Urząd Miejski w Jastarni",
+      "latitude": 54.697819,
+      "longitude": 18.674019
+    },
+    {
+      "name": "Urząd Miejski w Jeżowie",
+      "latitude": 51.813847,
+      "longitude": 19.974953
+    },
+    {
+      "name": "Urząd Miejski w Karczewie",
+      "latitude": 52.07822,
+      "longitude": 21.244287
+    },
+    {
+      "name": "Urząd Miejski w Kartuzach",
+      "latitude": 54.334249,
+      "longitude": 18.199877
+    },
+    {
+      "name": "Urząd Miejski w Kisielicach",
+      "latitude": 53.608983,
+      "longitude": 19.258989
+    },
+    {
+      "name": "Urząd Miejski w Kleszczelach",
+      "latitude": 52.57505,
+      "longitude": 23.32679
+    },
+    {
+      "name": "Urząd Miejski w Koronowie",
+      "latitude": 53.314121,
+      "longitude": 17.937924
+    },
+    {
+      "name": "Urząd Miejski w Korszach",
+      "latitude": 54.169303,
+      "longitude": 21.139194
+    },
+    {
+      "name": "Urząd Miejski w Krotoszynie",
+      "latitude": 51.691356,
+      "longitude": 17.431199
+    },
+    {
+      "name": "Urząd Miejski w Krynkach",
+      "latitude": 53.262188,
+      "longitude": 23.773148
+    },
+    {
+      "name": "Urząd Miejski w Kurowie",
+      "latitude": 51.38945,
+      "longitude": 22.191423
+    },
+    {
+      "name": "Urząd Miejski w Leśnej",
+      "latitude": 51.020765,
+      "longitude": 15.262697
+    },
+    {
+      "name": "Urząd Miejski w Libiążu",
+      "latitude": 50.103096,
+      "longitude": 19.312783
+    },
+    {
+      "name": "Urząd Miejski w Lubieniu Kujawskim",
+      "latitude": 52.406394,
+      "longitude": 19.159646
+    },
+    {
+      "name": "Urząd Miejski w Makowie Mazowieckim",
+      "latitude": 52.863276,
+      "longitude": 21.100026
+    },
+    {
+      "name": "Urząd Miejski w Michałowie",
+      "latitude": 53.036338,
+      "longitude": 23.604049
+    },
+    {
+      "name": "urząd miejski w Mieścisku",
+      "latitude": 52.743403,
+      "longitude": 17.329523
+    },
+    {
+      "name": "Urząd Miejski w Miłakowie",
+      "latitude": 54.012374,
+      "longitude": 20.074074
+    },
+    {
+      "name": "Urząd Miejski w Mrągowie",
+      "latitude": 53.876367,
+      "longitude": 21.304558
+    },
+    {
+      "name": "Urząd Miejski w Mszczonowie",
+      "latitude": 51.97411,
+      "longitude": 20.512794
+    },
+    {
+      "name": "Urząd Miejski w Myszyńcu",
+      "latitude": 53.385269,
+      "longitude": 21.340008
+    },
+    {
+      "name": "Urząd Miejski w Nasielsku",
+      "latitude": 52.587013,
+      "longitude": 20.81246
+    },
+    {
+      "name": "Urząd Miejski w Nałęczowie",
+      "latitude": 51.285865,
+      "longitude": 22.213846
+    },
+    {
+      "name": "Urząd Miejski w Nowym Stawie",
+      "latitude": 54.133865,
+      "longitude": 19.015714
+    },
+    {
+      "name": "Urząd Miejski w Opocznie - Wydział Sportu i Rekreacji",
+      "latitude": 51.37568,
+      "longitude": 20.296516
+    },
+    {
+      "name": "Urząd Miejski w Opocznie - Wydział Zdrowia, Spraw Społecznych i Ochrony Ludności",
+      "latitude": 51.37937,
+      "longitude": 20.284795
+    },
+    {
+      "name": "Urząd MIejski w Ożarowie Mazowieckim",
+      "latitude": 52.208101,
+      "longitude": 20.797873
+    },
+    {
+      "name": "Urząd Miejski w Pasłęku",
+      "latitude": 54.066944,
+      "longitude": 19.659104
+    },
+    {
+      "name": "Urząd Miejski w Pniewach",
+      "latitude": 52.507302,
+      "longitude": 16.249614
+    },
+    {
+      "name": "Urząd Miejski w Pułtusku",
+      "latitude": 52.705497,
+      "longitude": 21.09236
+    },
+    {
+      "name": "Urząd Miejski w Pułtusku",
+      "latitude": 52.705816,
+      "longitude": 21.091314
+    },
+    {
+      "name": "Urząd Miejski w Rabce-Zdroju",
+      "latitude": 49.607157,
+      "longitude": 19.967117
+    },
+    {
+      "name": "Urząd Miejski w Rajgrodzie",
+      "latitude": 53.729442,
+      "longitude": 22.690405
+    },
+    {
+      "name": "Urząd Miejski w Skórczu",
+      "latitude": 53.794011,
+      "longitude": 18.524787
+    },
+    {
+      "name": "Urząd Miejski w Starym Sączu",
+      "latitude": 49.565762,
+      "longitude": 20.631896
+    },
+    {
+      "name": "Urząd Miejski w Suchowoli",
+      "latitude": 53.579119,
+      "longitude": 23.106443
+    },
+    {
+      "name": "Urząd Miejski w Surażu",
+      "latitude": 52.951774,
+      "longitude": 22.955834
+    },
+    {
+      "name": "Urząd Miejski w Suszu",
+      "latitude": 53.712024,
+      "longitude": 19.336389
+    },
+    {
+      "name": "Urząd Miejski w Szczytnie",
+      "latitude": 53.566238,
+      "longitude": 20.990558
+    },
+    {
+      "name": "Urząd Miejski w Szepietowie",
+      "latitude": 52.869461,
+      "longitude": 22.543997
+    },
+    {
+      "name": "Urząd Miejski w Sępopolu",
+      "latitude": 54.268047,
+      "longitude": 21.013218
+    },
+    {
+      "name": "Urząd Miejski w Tarczynie",
+      "latitude": 51.980027,
+      "longitude": 20.833181
+    },
+    {
+      "name": "Urząd Miejski w Tłuszczu",
+      "latitude": 52.431066,
+      "longitude": 21.439832
+    },
+    {
+      "name": "Urząd Miejski w Urzędowie",
+      "latitude": 50.994174,
+      "longitude": 22.143756
+    },
+    {
+      "name": "Urząd Miejski w Wałbrzychu, Biuro Obsługi Klienta",
+      "latitude": 50.767217,
+      "longitude": 16.283121
+    },
+    {
+      "name": "Urząd Miejski w Wiecborku",
+      "latitude": 53.353288,
+      "longitude": 17.490716
+    },
+    {
+      "name": "Urząd Miejski w Wielbarku",
+      "latitude": 53.400023,
+      "longitude": 20.944313
+    },
+    {
+      "name": "Urząd Miejski w Wojniczu",
+      "latitude": 49.957761,
+      "longitude": 20.839244
+    },
+    {
+      "name": "Urząd Miejski w Wołominie",
+      "latitude": 52.34446,
+      "longitude": 21.239714
+    },
+    {
+      "name": "Urząd Miejski w Wyszkowie",
+      "latitude": 52.589767,
+      "longitude": 21.451274
+    },
+    {
+      "name": "Urząd Miejski w Węgorzewie",
+      "latitude": 54.208878,
+      "longitude": 21.743375
+    },
+    {
+      "name": "Urząd Miejski w Zabłudowie",
+      "latitude": 53.014278,
+      "longitude": 23.337223
+    },
+    {
+      "name": "Urząd Miejski w Zatorze",
+      "latitude": 49.99597,
+      "longitude": 19.436939
+    },
+    {
+      "name": "Urząd Miejski w Łapach",
+      "latitude": 52.993408,
+      "longitude": 22.887428
+    },
+    {
+      "name": "Urząd Miejski w Łochowie",
+      "latitude": 52.528407,
+      "longitude": 21.686036
+    },
+    {
+      "name": "Urząd Miejski w Żelechowie",
+      "latitude": 51.809402,
+      "longitude": 21.895428
+    },
+    {
+      "name": "Urząd Miejski w Żninie",
+      "latitude": 52.84793,
+      "longitude": 17.733707
+    },
+    {
+      "name": "Urząd Miejski Wydział Urbanistyki",
+      "latitude": 51.66135,
+      "longitude": 19.353075
+    },
+    {
+      "name": "Urząd Skarbowy",
+      "latitude": 52.877317,
+      "longitude": 20.617594
+    },
+    {
+      "name": "Urząd Skarbowy Łódź Śródmieście",
+      "latitude": 51.765267,
+      "longitude": 19.469049
+    },
+    {
+      "name": "Urząd Stanu Cywilnego",
+      "latitude": 49.696902,
+      "longitude": 21.7761
+    },
+    {
+      "name": "Urząd Stanu Cywilnego",
+      "latitude": 50.295355,
+      "longitude": 18.953486
+    },
+    {
+      "name": "Urząd Stanu Cywilnego",
+      "latitude": 50.519638,
+      "longitude": 22.143306
+    },
+    {
+      "name": "Urząd Stanu Cywilnego",
+      "latitude": 50.571694,
+      "longitude": 22.126491
+    },
+    {
+      "name": "Urząd stanu Cywilnego",
+      "latitude": 53.008736,
+      "longitude": 18.593345
+    },
+    {
+      "name": "Urząd Stanu Cywilnego (USC)",
+      "latitude": 53.409064,
+      "longitude": 18.451429
+    },
+    {
+      "name": "Vyšná Polianka",
+      "latitude": 49.429696,
+      "longitude": 21.35025
+    },
+    {
+      "name": "Wielkopolska Izba Lekarska Delegatura Ostrowsko-Krotoszyńska",
+      "latitude": 51.647025,
+      "longitude": 17.80808
+    },
+    {
+      "name": "Wielkopolska Izba Rolnicza w Poznaniu",
+      "latitude": 51.648027,
+      "longitude": 17.814644
+    },
+    {
+      "name": "Wielkopolski Ośrodek Doradztwa Rolniczego w Poznaniu Powiatowy Zespół Doradczy",
+      "latitude": 51.648168,
+      "longitude": 17.848985
+    },
+    {
+      "name": "Willa Balbinów",
+      "latitude": 52.134415,
+      "longitude": 21.231266
+    },
+    {
+      "name": "Wojewódzki Ośrodek Dokumentacji Geodezyjnej i Kartograficznej",
+      "latitude": 51.778745,
+      "longitude": 19.459494
+    },
+    {
+      "name": "Wrocławskie Centrum Akademickie",
+      "latitude": 51.109322,
+      "longitude": 17.030405
+    },
+    {
+      "name": "Wydział Geodezji i Kartografii Starostwa Powiatowego",
+      "latitude": 53.138881,
+      "longitude": 17.604793
+    },
+    {
+      "name": "Wydział Komunikacji",
+      "latitude": 51.25202,
+      "longitude": 22.548989
+    },
+    {
+      "name": "Wydział Komunikacji",
+      "latitude": 53.156452,
+      "longitude": 16.738207
+    },
+    {
+      "name": "Wydział Komunikacji i Transportu",
+      "latitude": 51.160727,
+      "longitude": 21.649103
+    },
+    {
+      "name": "Wydział Komunikacji Miejskiej",
+      "latitude": 49.83232,
+      "longitude": 19.953449
+    },
+    {
+      "name": "Wydział Komunikacji Urzędu Miejskiego w Sosnowcu",
+      "latitude": 50.270676,
+      "longitude": 19.125376
+    },
+    {
+      "name": "Wydział Obsługi Mieszkańców Referat ewidencji Pojazdów i Kierowców",
+      "latitude": 53.014737,
+      "longitude": 18.608175
+    },
+    {
+      "name": "Wydział rozwoju miasta",
+      "latitude": 50.259398,
+      "longitude": 19.023808
+    },
+    {
+      "name": "Wydział Spraw Mieszkaniowych UM Lublin",
+      "latitude": 51.246934,
+      "longitude": 22.558956
+    },
+    {
+      "name": "Wydział Zarządzania Kryzysowego",
+      "latitude": 52.734353,
+      "longitude": 15.239167
+    },
+    {
+      "name": "Zakład Gospodarki Mieszkaniowej Urzędu Miejskiego",
+      "latitude": 51.376144,
+      "longitude": 20.289653
+    },
+    {
+      "name": "Zarząd Dróg i Komunikacji w Tarnowie",
+      "latitude": 50.011969,
+      "longitude": 20.991497
+    },
+    {
+      "name": "Zarząd Dróg i Utrzymania Miasta",
+      "latitude": 51.403627,
+      "longitude": 19.648342
+    },
+    {
+      "name": "Zarząd Dróg Miejskich i Komunikacji Publicznej",
+      "latitude": 53.12923,
+      "longitude": 18.006508
+    },
+    {
+      "name": "Zarząd Mienia m.st. Warszawa",
+      "latitude": 52.221984,
+      "longitude": 20.933567
+    },
+    {
+      "name": "ZIM Słupsk",
+      "latitude": 54.45629,
+      "longitude": 17.006706
+    },
+    {
+      "name": "Úřad městské části Vávrovice",
+      "latitude": 49.976494,
+      "longitude": 17.862316
+    },
+    {
+      "name": "Úřad městyse Machov",
+      "latitude": 50.499705,
+      "longitude": 16.276338
+    },
+    {
+      "name": "Łódzkie Centrum Kontaktu z Mieszkańcami",
+      "latitude": 51.763987,
+      "longitude": 19.458572
+    },
+    {
+      "name": "Świetlica w Bęczarce",
+      "latitude": 49.873322,
+      "longitude": 19.856082
+    },
+    {
+      "name": "Староста",
+      "latitude": 49.67578,
+      "longitude": 22.807194
+    }
+  ],
+  "meta": {
+    "title": "Polska — urzędy miejskie - Bezpłatne pobieranie",
+    "description": "Urzędy miejskie i gminne (ratusze) w Polsce (OpenStreetMap) Zawiera 1014 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — urzędy miejskie | ListBase",
+    "seo_description": "Pobierz Polska — urzędy miejskie — 1014 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 1014 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

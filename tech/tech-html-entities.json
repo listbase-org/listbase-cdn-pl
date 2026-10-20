@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "Zbiór Danych Encji Znaków HTML i Symboli Specjalnych",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "Ampersand",
+      "category": "Podstawowe"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "Znak mniejsze niż",
+      "category": "Podstawowe"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "Znak większe niż",
+      "category": "Podstawowe"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "Cudzysłów",
+      "category": "Podstawowe"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "Apostrof",
+      "category": "Podstawowe"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "Spacja nierozdzielająca",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "Półfiret",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "Firet",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "Cienka spacja",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "Miękki łącznik",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "Łącznik bez szerokości",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "Rozdzielacz bez szerokości",
+      "category": "Spacje"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "Półpauza",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "Pauza",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "Lewy pojedynczy cudzysłów",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "Prawy pojedynczy cudzysłów",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "Lewy podwójny cudzysłów",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "Prawy podwójny cudzysłów",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "Lewy podwójny cudzysłów ostrokątny",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "Prawy podwójny cudzysłów ostrokątny",
+      "category": "Interpunkcja"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "Wielokropek poziomy",
+      "category": "Znaki interpunkcyjne"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "Punkt",
+      "category": "Znaki interpunkcyjne"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "Kropka środkowa",
+      "category": "Znaki interpunkcyjne"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "Znak praw autorskich",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "Znak zastrzeżony",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "Znak towarowy",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "Znak stopnia",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "Znak sekcji",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "Znak akapitu",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "Krzyżyk",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "Podwójny krzyżyk",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "Pryma",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "Podwójna pryma",
+      "category": "Znaki typograficzne"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "Znak plusa",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "Znak minusa",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "Znak mnożenia",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "Znak dzielenia",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "Znak plus-minus",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "Znak nierówności",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "Znak mniejsze lub równe",
+      "category": "Znaki matematyczne"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "Większe lub Równe",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "Prawie Równe",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "Nieskończoność",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "Pierwiastek Kwadratowy",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "Sumowanie N-arnowe",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "Iloczyn N-arnowy",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "Całka",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "Znak promila",
+      "category": "Matematyka"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "Ułamek Zwykły Jedna Czwarta",
+      "category": "Ułamki"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "Ułamek Zwykły Jedna Druga",
+      "category": "Ułamki"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "Ułamek Zwykły Trzy Czwarte",
+      "category": "Ułamki"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "Znak Centa",
+      "category": "Waluta"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "Znak Funta",
+      "category": "Waluta"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "Znak Jena",
+      "category": "Waluta"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "Znak Euro",
+      "category": "Waluta"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "Znak Waluty",
+      "category": "Waluta"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "Strzałka w Lewo",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "Strzałka w Górę",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "Strzałka w Prawo",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "Strzałka w Dół",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "Strzałka dwukierunkowa",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "Podwójna strzałka w lewo",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "Podwójna strzałka w prawo",
+      "category": "Strzałki"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "Łacińska wielka litera A z akcentem grave",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "Łacińska wielka litera A z akcentem akut",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "Łacińska wielka litera A z akcentem cyrkumfleks",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "Łacińska wielka litera A z tyldą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "Łacińska wielka litera A z tremą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "Łacińska wielka litera C z cedyllą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "Łacińska wielka litera E z akcentem grave",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "Łacińska wielka litera E z akcentem akut",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "Łacińska wielka litera N z tyldą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "Łacińska wielka litera O z tremą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "Łacińska wielka litera U z tremą",
+      "category": "Ze znakami diakrytycznymi"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "Łacińska mała litera Eszett",
+      "category": "Ze znakami diakrytycznymi"
+    }
+  ],
+  "meta": {
+    "seo_title": "Lista Encji Znaków HTML - Darmowe Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo 75 encji znaków HTML, w tym niezbędne symbole i kody. Dostępne w formatach Excel, CSV i PDF dla programistów i projektantów.",
+    "title": "Zbiór Danych Encji Znaków HTML i Symboli Specjalnych",
+    "description": "Ten zbiór danych zawiera kompleksową listę 75 popularnych encji znaków HTML, w tym ich odpowiednie znaki, punkty kodowe, kody dziesiętne, nazwy i kategorie. Jest to podstawowe źródło informacji dla programowania stron internetowych.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do pełnej listy 75 encji znaków HTML i ich szczegółów.",
+      "Przeglądaj niezbędne symbole, takie jak &amp;, &lt;, &gt;, &quot; i &apos;.",
+      "Pobierz kody znaków (punkt kodowy, dziesiętny) dla łatwego odniesienia i integracji.",
+      "Wykorzystaj te dane, aby zapewnić prawidłowe wyświetlanie znaków specjalnych w aplikacjach internetowych."
+    ],
+    "keywords": [
+      "encje znaków html lista",
+      "specjalne znaki html",
+      "kody encji html",
+      "pobierz znaki html csv",
+      "symbole html excel",
+      "html unicode encje"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej aplikacji internetowej lub bazy danych CMS, aby zapewnić dokładne wyświetlanie znaków specjalnych, lub użyj w skryptach Python do analizy treści.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania właściwości znaków dla dokumentacji lub do szybkiego wyszukiwania konkretnych encji dla projektów graficznych.",
+      "Wydrukuj wersję **PDF** jako szybki, offline'owy przewodnik referencyjny podczas sesji kodowania lub do celów edukacyjnych na zajęciach z projektowania stron internetowych.",
+      "Wykorzystaj ten zbiór danych do walidacji i oczyszczania danych wejściowych użytkownika, zapobiegając atakom typu Cross-Site Scripting (XSS) poprzez prawidłowe kodowanie specjalnych znaków HTML."
+    ]
+  },
+  "record_count": 75,
+  "title": "Zbiór Danych Encji Znaków HTML i Symboli Specjalnych"
+}

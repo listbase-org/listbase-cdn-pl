@@ -1,0 +1,187 @@
+{
+  "id": "pl-jednostki-miary-energy",
+  "name": "Jednostki miary — kategoria 'energy' (14)",
+  "title": "Jednostki miary — kategoria 'energy' (14)",
+  "description": "Jednostki miary kategorii 'energy' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategoria": "energy",
+      "nazwa": "bekerele",
+      "skrot": "Bq",
+      "forma_waska": "Bq",
+      "wzorzec": "{0} bekerela"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategoria": "energy",
+      "nazwa": "brytyjska jednostka ciepła",
+      "skrot": "BTU",
+      "forma_waska": "BTU",
+      "wzorzec": "{0} brytyjskiej jednostki ciepła"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategoria": "energy",
+      "nazwa": "BTU-IT",
+      "skrot": "BTU-IT",
+      "forma_waska": "BTU-IT",
+      "wzorzec": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategoria": "energy",
+      "nazwa": "kalorie",
+      "skrot": "cal",
+      "forma_waska": "cal",
+      "wzorzec": "{0} kalorii"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategoria": "energy",
+      "nazwa": "kalorie [IT]",
+      "skrot": "cal [IT]",
+      "forma_waska": "cal [IT]",
+      "wzorzec": "{0} kalorii [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategoria": "energy",
+      "nazwa": "elektronowolty",
+      "skrot": "elektronowolt",
+      "forma_waska": "eV",
+      "wzorzec": "{0} elektronowolta"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategoria": "energy",
+      "nazwa": "kalorie",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} kalorii"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategoria": "energy",
+      "nazwa": "greje",
+      "skrot": "Gy",
+      "forma_waska": "Gy",
+      "wzorzec": "{0} greja"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategoria": "energy",
+      "nazwa": "dżule",
+      "skrot": "J",
+      "forma_waska": "J",
+      "wzorzec": "{0} dżula"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategoria": "energy",
+      "nazwa": "kilokalorie",
+      "skrot": "kcal",
+      "forma_waska": "kcal",
+      "wzorzec": "{0} kilokalorii"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategoria": "energy",
+      "nazwa": "kilodżule",
+      "skrot": "kJ",
+      "forma_waska": "kJ",
+      "wzorzec": "{0} kilodżula"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategoria": "energy",
+      "nazwa": "kilowatogodziny",
+      "skrot": "kWh",
+      "forma_waska": "kWh",
+      "wzorzec": "{0} kilowatogodziny"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategoria": "energy",
+      "nazwa": "siwerty",
+      "skrot": "Sv",
+      "forma_waska": "Sv",
+      "wzorzec": "{0} siwerta"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategoria": "energy",
+      "nazwa": "thermy amerykańskie",
+      "skrot": "thermy amer.",
+      "forma_waska": "thermy amer.",
+      "wzorzec": "{0} therma amerykańskiego"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'energy' (14) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'energy' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 14 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'energy' (14) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'energy' (14) — 14 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 14 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

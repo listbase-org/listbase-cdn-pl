@@ -1,0 +1,146 @@
+{
+  "id": "pl-podkarpackie-counties",
+  "name": "Województwo podkarpackie — powiaty",
+  "title": "Województwo podkarpackie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie podkarpackim (województwo podkarpackie) — 21 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the podkarpackie voivodeship — 21 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 166,
+      "name": "bieszczadzki",
+      "slug": "bieszczadzki"
+    },
+    {
+      "county_id": 167,
+      "name": "brzozowski",
+      "slug": "brzozowski"
+    },
+    {
+      "county_id": 168,
+      "name": "dębicki",
+      "slug": "debicki"
+    },
+    {
+      "county_id": 169,
+      "name": "jarosławski",
+      "slug": "jaroslawski"
+    },
+    {
+      "county_id": 170,
+      "name": "jasielski",
+      "slug": "jasielski"
+    },
+    {
+      "county_id": 171,
+      "name": "kolbuszowski",
+      "slug": "kolbuszowski"
+    },
+    {
+      "county_id": 172,
+      "name": "krośnieński",
+      "slug": "krosnienski"
+    },
+    {
+      "county_id": 186,
+      "name": "leski",
+      "slug": "leski"
+    },
+    {
+      "county_id": 173,
+      "name": "leżajski",
+      "slug": "lezajski"
+    },
+    {
+      "county_id": 174,
+      "name": "lubaczowski",
+      "slug": "lubaczowski"
+    },
+    {
+      "county_id": 176,
+      "name": "mielecki",
+      "slug": "mielecki"
+    },
+    {
+      "county_id": 177,
+      "name": "niżański",
+      "slug": "nizanski"
+    },
+    {
+      "county_id": 178,
+      "name": "przemyski",
+      "slug": "przemyski"
+    },
+    {
+      "county_id": 179,
+      "name": "przeworski",
+      "slug": "przeworski"
+    },
+    {
+      "county_id": 180,
+      "name": "ropczycko-sędziszowski",
+      "slug": "ropczycko-sedziszowski"
+    },
+    {
+      "county_id": 181,
+      "name": "rzeszowski",
+      "slug": "rzeszowski"
+    },
+    {
+      "county_id": 182,
+      "name": "sanocki",
+      "slug": "sanocki"
+    },
+    {
+      "county_id": 183,
+      "name": "stalowowolski",
+      "slug": "stalowowolski"
+    },
+    {
+      "county_id": 184,
+      "name": "strzyżowski",
+      "slug": "strzyzowski"
+    },
+    {
+      "county_id": 185,
+      "name": "tarnobrzeski",
+      "slug": "tarnobrzeski"
+    },
+    {
+      "county_id": 175,
+      "name": "łańcucki",
+      "slug": "lancucki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo podkarpackie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie podkarpackim (województwo podkarpackie) — 21 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the podkarpackie voivodeship — 21 entries. Excludes city-counties (see pl-city-counties). Zawiera 21 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo podkarpackie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo podkarpackie — powiaty — 21 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 21 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

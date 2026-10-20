@@ -1,0 +1,645 @@
+{
+  "id": "units-conversions",
+  "name": "Kompleksowy Zbiór Danych Czynników Konwersji Jednostek",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "from_unit",
+      "label": "From Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "to_unit",
+      "label": "To Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "factor",
+      "label": "Conversion Factor",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "from_unit": "Cal",
+      "to_unit": "Centymetr",
+      "factor": 2.54,
+      "category": "Długość",
+      "formula": "1 inch = 2.54 cm"
+    },
+    {
+      "from_unit": "Stopa",
+      "to_unit": "Metr",
+      "factor": 0.3048,
+      "category": "Długość",
+      "formula": "1 ft = 0.3048 m"
+    },
+    {
+      "from_unit": "Jard",
+      "to_unit": "Metr",
+      "factor": 0.9144,
+      "category": "Długość",
+      "formula": "1 yd = 0.9144 m"
+    },
+    {
+      "from_unit": "Mila",
+      "to_unit": "Kilometr",
+      "factor": 1.60934,
+      "category": "Długość",
+      "formula": "1 mi = 1.60934 km"
+    },
+    {
+      "from_unit": "Mila morska",
+      "to_unit": "Kilometr",
+      "factor": 1.852,
+      "category": "Długość",
+      "formula": "1 nmi = 1.852 km"
+    },
+    {
+      "from_unit": "Metr",
+      "to_unit": "Stopa",
+      "factor": 3.28084,
+      "category": "Długość",
+      "formula": "1 m = 3.28084 ft"
+    },
+    {
+      "from_unit": "Kilometr",
+      "to_unit": "Mila",
+      "factor": 0.621371,
+      "category": "Długość",
+      "formula": "1 km = 0.621371 mi"
+    },
+    {
+      "from_unit": "Centymetr",
+      "to_unit": "Cal",
+      "factor": 0.393701,
+      "category": "Długość",
+      "formula": "1 cm = 0.393701 in"
+    },
+    {
+      "from_unit": "Milimetr",
+      "to_unit": "Cal",
+      "factor": 0.0393701,
+      "category": "Długość",
+      "formula": "1 mm = 0.0393701 in"
+    },
+    {
+      "from_unit": "Mikrometr",
+      "to_unit": "Cal",
+      "factor": 0.0000393701,
+      "category": "Długość",
+      "formula": "1 µm = 0.0000393701 in"
+    },
+    {
+      "from_unit": "Funt",
+      "to_unit": "Kilogram",
+      "factor": 0.453592,
+      "category": "Waga",
+      "formula": "1 lb = 0.453592 kg"
+    },
+    {
+      "from_unit": "Uncja",
+      "to_unit": "Gram",
+      "factor": 28.3495,
+      "category": "Waga",
+      "formula": "1 oz = 28.3495 g"
+    },
+    {
+      "from_unit": "Kilogram",
+      "to_unit": "Funt",
+      "factor": 2.20462,
+      "category": "Waga",
+      "formula": "1 kg = 2.20462 lb"
+    },
+    {
+      "from_unit": "Gram",
+      "to_unit": "Uncja",
+      "factor": 0.035274,
+      "category": "Waga",
+      "formula": "1 g = 0.035274 oz"
+    },
+    {
+      "from_unit": "Kamień",
+      "to_unit": "Kilogram",
+      "factor": 6.35029,
+      "category": "Waga",
+      "formula": "1 st = 6.35029 kg"
+    },
+    {
+      "from_unit": "Tona (USA)",
+      "to_unit": "Kilogram",
+      "factor": 907.185,
+      "category": "Waga",
+      "formula": "1 US ton = 907.185 kg"
+    },
+    {
+      "from_unit": "Tona (Wlk. Brytania)",
+      "to_unit": "Kilogram",
+      "factor": 1016.05,
+      "category": "Waga",
+      "formula": "1 UK ton = 1016.05 kg"
+    },
+    {
+      "from_unit": "Tona metryczna",
+      "to_unit": "Kilogram",
+      "factor": 1000,
+      "category": "Waga",
+      "formula": "1 t = 1000 kg"
+    },
+    {
+      "from_unit": "Karat",
+      "to_unit": "Gram",
+      "factor": 0.2,
+      "category": "Waga",
+      "formula": "1 ct = 0.2 g"
+    },
+    {
+      "from_unit": "Uncja trojańska",
+      "to_unit": "Gram",
+      "factor": 31.1035,
+      "category": "Waga",
+      "formula": "1 oz t = 31.1035 g"
+    },
+    {
+      "from_unit": "Galon (USA)",
+      "to_unit": "Litr",
+      "factor": 3.78541,
+      "category": "Objętość",
+      "formula": "1 US gal = 3.78541 L"
+    },
+    {
+      "from_unit": "Galon (brytyjski)",
+      "to_unit": "Litr",
+      "factor": 4.54609,
+      "category": "Objętość",
+      "formula": "1 UK gal = 4.54609 L"
+    },
+    {
+      "from_unit": "Kwarta (USA)",
+      "to_unit": "Litr",
+      "factor": 0.946353,
+      "category": "Objętość",
+      "formula": "1 US qt = 0.946353 L"
+    },
+    {
+      "from_unit": "Pinta (USA)",
+      "to_unit": "Litr",
+      "factor": 0.473176,
+      "category": "Objętość",
+      "formula": "1 US pt = 0.473176 L"
+    },
+    {
+      "from_unit": "Filiżanka (USA)",
+      "to_unit": "Mililitr",
+      "factor": 236.588,
+      "category": "Objętość",
+      "formula": "1 US cup = 236.588 mL"
+    },
+    {
+      "from_unit": "Uncja płynu (USA)",
+      "to_unit": "Mililitr",
+      "factor": 29.5735,
+      "category": "Objętość",
+      "formula": "1 US fl oz = 29.5735 mL"
+    },
+    {
+      "from_unit": "Łyżka stołowa",
+      "to_unit": "Mililitr",
+      "factor": 14.7868,
+      "category": "Objętość",
+      "formula": "1 tbsp = 14.7868 mL"
+    },
+    {
+      "from_unit": "Łyżeczka",
+      "to_unit": "Mililitr",
+      "factor": 4.92892,
+      "category": "Objętość",
+      "formula": "1 tsp = 4.92892 mL"
+    },
+    {
+      "from_unit": "Litr",
+      "to_unit": "Galon (USA)",
+      "factor": 0.264172,
+      "category": "Objętość",
+      "formula": "1 L = 0.264172 US gal"
+    },
+    {
+      "from_unit": "Metr sześcienny",
+      "to_unit": "Litr",
+      "factor": 1000,
+      "category": "Objętość",
+      "formula": "1 m³ = 1000 L"
+    },
+    {
+      "from_unit": "Stopa sześcienna",
+      "to_unit": "Litr",
+      "factor": 28.3168,
+      "category": "Objętość",
+      "formula": "1 ft³ = 28.3168 L"
+    },
+    {
+      "from_unit": "Cal sześcienny",
+      "to_unit": "Mililitr",
+      "factor": 16.3871,
+      "category": "Objętość",
+      "formula": "1 in³ = 16.3871 mL"
+    },
+    {
+      "from_unit": "Baryłka (ropy)",
+      "to_unit": "Litr",
+      "factor": 158.987,
+      "category": "Objętość",
+      "formula": "1 bbl = 158.987 L"
+    },
+    {
+      "from_unit": "Stopa kwadratowa",
+      "to_unit": "Metr kwadratowy",
+      "factor": 0.092903,
+      "category": "Powierzchnia",
+      "formula": "1 ft² = 0.092903 m²"
+    },
+    {
+      "from_unit": "Jard kwadratowy",
+      "to_unit": "Metr kwadratowy",
+      "factor": 0.836127,
+      "category": "Powierzchnia",
+      "formula": "1 yd² = 0.836127 m²"
+    },
+    {
+      "from_unit": "Mila kwadratowa",
+      "to_unit": "Kilometr kwadratowy",
+      "factor": 2.58999,
+      "category": "Powierzchnia",
+      "formula": "1 mi² = 2.58999 km²"
+    },
+    {
+      "from_unit": "Akr",
+      "to_unit": "Hektar",
+      "factor": 0.404686,
+      "category": "Powierzchnia",
+      "formula": "1 acre = 0.404686 ha"
+    },
+    {
+      "from_unit": "Akr",
+      "to_unit": "Metr kwadratowy",
+      "factor": 4046.86,
+      "category": "Powierzchnia",
+      "formula": "1 acre = 4046.86 m²"
+    },
+    {
+      "from_unit": "Hektar",
+      "to_unit": "Akr",
+      "factor": 2.47105,
+      "category": "Powierzchnia",
+      "formula": "1 ha = 2.47105 acres"
+    },
+    {
+      "from_unit": "Metr kwadratowy",
+      "to_unit": "Stopa kwadratowa",
+      "factor": 10.7639,
+      "category": "Powierzchnia",
+      "formula": "1 m² = 10.7639 ft²"
+    },
+    {
+      "from_unit": "Kilometr kwadratowy",
+      "to_unit": "Mila kwadratowa",
+      "factor": 0.386102,
+      "category": "Powierzchnia",
+      "formula": "1 km² = 0.386102 mi²"
+    },
+    {
+      "from_unit": "Rai (tajski)",
+      "to_unit": "Metr kwadratowy",
+      "factor": 1600,
+      "category": "Powierzchnia",
+      "formula": "1 rai = 1600 m²"
+    },
+    {
+      "from_unit": "Mila na godzinę",
+      "to_unit": "Kilometr na godzinę",
+      "factor": 1.60934,
+      "category": "Prędkość",
+      "formula": "1 mph = 1.60934 km/h"
+    },
+    {
+      "from_unit": "Kilometr na godzinę",
+      "to_unit": "Mila na godzinę",
+      "factor": 0.621371,
+      "category": "Prędkość",
+      "formula": "1 km/h = 0.621371 mph"
+    },
+    {
+      "from_unit": "Węzeł",
+      "to_unit": "Kilometr na godzinę",
+      "factor": 1.852,
+      "category": "Prędkość",
+      "formula": "1 kn = 1.852 km/h"
+    },
+    {
+      "from_unit": "Metr na sekundę",
+      "to_unit": "Kilometr na godzinę",
+      "factor": 3.6,
+      "category": "Prędkość",
+      "formula": "1 m/s = 3.6 km/h"
+    },
+    {
+      "from_unit": "Stopa na sekundę",
+      "to_unit": "Metr na sekundę",
+      "factor": 0.3048,
+      "category": "Prędkość",
+      "formula": "1 ft/s = 0.3048 m/s"
+    },
+    {
+      "from_unit": "Mach",
+      "to_unit": "Kilometr na godzinę",
+      "factor": 1234.8,
+      "category": "Prędkość",
+      "formula": "1 Mach ≈ 1234.8 km/h (at sea level)"
+    },
+    {
+      "from_unit": "Celsjusz na Fahrenheit",
+      "to_unit": "Wzór",
+      "factor": 1.8,
+      "category": "Temperatura",
+      "formula": "°F = (°C × 1.8) + 32"
+    },
+    {
+      "from_unit": "Fahrenheit na Celsjusz",
+      "to_unit": "Wzór",
+      "factor": 0.5556,
+      "category": "Temperatura",
+      "formula": "°C = (°F - 32) × 5/9"
+    },
+    {
+      "from_unit": "Celsjusz na Kelvin",
+      "to_unit": "Wzór",
+      "factor": 1,
+      "category": "Temperatura",
+      "formula": "K = °C + 273.15"
+    },
+    {
+      "from_unit": "Kelvin na Celsjusz",
+      "to_unit": "Wzór",
+      "factor": 1,
+      "category": "Temperatura",
+      "formula": "°C = K - 273.15"
+    },
+    {
+      "from_unit": "Kaloria",
+      "to_unit": "Dżul",
+      "factor": 4.184,
+      "category": "Energia",
+      "formula": "1 cal = 4.184 J"
+    },
+    {
+      "from_unit": "Kilokaloria",
+      "to_unit": "Kilodżul",
+      "factor": 4.184,
+      "category": "Energia",
+      "formula": "1 kcal = 4.184 kJ"
+    },
+    {
+      "from_unit": "BTU",
+      "to_unit": "Dżul",
+      "factor": 1055.06,
+      "category": "Energia",
+      "formula": "1 BTU = 1055.06 J"
+    },
+    {
+      "from_unit": "Watogodzina",
+      "to_unit": "Dżul",
+      "factor": 3600,
+      "category": "Energia",
+      "formula": "1 Wh = 3600 J"
+    },
+    {
+      "from_unit": "Kilowatogodzina",
+      "to_unit": "Megadżul",
+      "factor": 3.6,
+      "category": "Energia",
+      "formula": "1 kWh = 3.6 MJ"
+    },
+    {
+      "from_unit": "Elektronowolt",
+      "to_unit": "Dżul",
+      "factor": 1.60218e-19,
+      "category": "Energia",
+      "formula": "1 eV = 1.60218×10⁻¹⁹ J"
+    },
+    {
+      "from_unit": "PSI",
+      "to_unit": "Bar",
+      "factor": 0.0689476,
+      "category": "Ciśnienie",
+      "formula": "1 psi = 0.0689476 bar"
+    },
+    {
+      "from_unit": "Bar",
+      "to_unit": "PSI",
+      "factor": 14.5038,
+      "category": "Ciśnienie",
+      "formula": "1 bar = 14.5038 psi"
+    },
+    {
+      "from_unit": "Atmosfera",
+      "to_unit": "Bar",
+      "factor": 1.01325,
+      "category": "Ciśnienie",
+      "formula": "1 atm = 1.01325 bar"
+    },
+    {
+      "from_unit": "Paskal",
+      "to_unit": "Bar",
+      "factor": 0.00001,
+      "category": "Ciśnienie",
+      "formula": "1 Pa = 0.00001 bar"
+    },
+    {
+      "from_unit": "mmHg",
+      "to_unit": "Paskal",
+      "factor": 133.322,
+      "category": "Ciśnienie",
+      "formula": "1 mmHg = 133.322 Pa"
+    },
+    {
+      "from_unit": "Bajt",
+      "to_unit": "Bit",
+      "factor": 8,
+      "category": "Cyfrowe",
+      "formula": "1 B = 8 bits"
+    },
+    {
+      "from_unit": "Kilobajt",
+      "to_unit": "Bajt",
+      "factor": 1024,
+      "category": "Cyfrowe",
+      "formula": "1 KB = 1024 B"
+    },
+    {
+      "from_unit": "Megabajt",
+      "to_unit": "Kilobajt",
+      "factor": 1024,
+      "category": "Cyfrowe",
+      "formula": "1 MB = 1024 KB"
+    },
+    {
+      "from_unit": "Gigabajt",
+      "to_unit": "Megabajt",
+      "factor": 1024,
+      "category": "Cyfrowe",
+      "formula": "1 GB = 1024 MB"
+    },
+    {
+      "from_unit": "Terabajt",
+      "to_unit": "Gigabajt",
+      "factor": 1024,
+      "category": "Cyfrowe",
+      "formula": "1 TB = 1024 GB"
+    },
+    {
+      "from_unit": "Petabajt",
+      "to_unit": "Terabajt",
+      "factor": 1024,
+      "category": "Cyfrowe",
+      "formula": "1 PB = 1024 TB"
+    },
+    {
+      "from_unit": "Minuta",
+      "to_unit": "Sekunda",
+      "factor": 60,
+      "category": "Czas",
+      "formula": "1 min = 60 s"
+    },
+    {
+      "from_unit": "Godzina",
+      "to_unit": "Minuta",
+      "factor": 60,
+      "category": "Czas",
+      "formula": "1 h = 60 min"
+    },
+    {
+      "from_unit": "Dzień",
+      "to_unit": "Godzina",
+      "factor": 24,
+      "category": "Czas",
+      "formula": "1 day = 24 h"
+    },
+    {
+      "from_unit": "Tydzień",
+      "to_unit": "Dzień",
+      "factor": 7,
+      "category": "Czas",
+      "formula": "1 week = 7 days"
+    },
+    {
+      "from_unit": "Rok",
+      "to_unit": "Dzień",
+      "factor": 365.25,
+      "category": "Czas",
+      "formula": "1 year ≈ 365.25 days"
+    },
+    {
+      "from_unit": "Dekada",
+      "to_unit": "Rok",
+      "factor": 10,
+      "category": "Czas",
+      "formula": "1 decade = 10 years"
+    },
+    {
+      "from_unit": "Wiek",
+      "to_unit": "Rok",
+      "factor": 100,
+      "category": "Czas",
+      "formula": "1 century = 100 years"
+    },
+    {
+      "from_unit": "Stopień",
+      "to_unit": "Radian",
+      "factor": 0.0174533,
+      "category": "Kąt",
+      "formula": "1° = π/180 rad"
+    },
+    {
+      "from_unit": "Radian",
+      "to_unit": "Stopień",
+      "factor": 57.2958,
+      "category": "Kąt",
+      "formula": "1 rad = 180/π °"
+    },
+    {
+      "from_unit": "Gradian",
+      "to_unit": "Stopień",
+      "factor": 0.9,
+      "category": "Kąt",
+      "formula": "1 gon = 0.9°"
+    },
+    {
+      "from_unit": "Obrot",
+      "to_unit": "Stopień",
+      "factor": 360,
+      "category": "Kąt",
+      "formula": "1 rev = 360°"
+    },
+    {
+      "from_unit": "MPG (US)",
+      "to_unit": "L/100km",
+      "factor": 235.215,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 235.215 / MPG"
+    },
+    {
+      "from_unit": "MPG (UK)",
+      "to_unit": "L/100km",
+      "factor": 282.481,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 282.481 / MPG"
+    },
+    {
+      "from_unit": "km/L",
+      "to_unit": "L/100km",
+      "factor": 100,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 100 / km/L"
+    }
+  ],
+  "meta": {
+    "seo_title": "Czynniki Konwersji Jednostek - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Bezpłatne pobieranie 83 czynników konwersji jednostek dla długości, wagi, objętości i innych. Dostępne w formatach Excel, CSV i PDF do różnych zastosowań.",
+    "title": "Kompleksowy Zbiór Danych Czynników Konwersji Jednostek",
+    "description": "Ten zbiór danych zawiera 83 kluczowe czynniki konwersji jednostek z różnych kategorii, takich jak długość, waga i objętość. Każdy wpis zawiera 'Jednostkę źródłową', 'Jednostkę docelową', 'Współczynnik konwersji', 'Kategorię' i 'Formułę' dla łatwego odniesienia.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 83 kluczowych czynników konwersji jednostek dla różnorodnych kategorii.",
+      "Natychmiastowo eksploruj powiązania jednostek wspólnych i naukowych.",
+      "Pobierz gotowe do użycia dane do zadań inżynieryjnych, naukowych i codziennych.",
+      "Wykorzystaj precyzyjne formuły do dokładnych konwersji w swoich projektach."
+    ],
+    "keywords": [
+      "czynniki konwersji jednostek excel",
+      "współczynniki konwersji csv",
+      "dane konwersji metryczno-imperialnych",
+      "zbiór danych konwertera jednostek",
+      "formuły konwersji miar",
+      "pobierz czynniki konwersji"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do bazy danych SQL lub skryptów Pythona, aby zasilać niestandardowe narzędzia do konwersji jednostek lub aplikacje do przetwarzania danych.",
+      "Użyj pliku **Excel** do szybkiego filtrowania, sortowania i stosowania czynników konwersji w modelach finansowych lub obliczeniach naukowych.",
+      "Wydrukuj wersję **PDF** jako podręczny przewodnik offline w salach lekcyjnych, warsztatach lub do samodzielnej nauki.",
+      "Zintegruj ten zbiór danych z oprogramowaniem edukacyjnym lub platformami badawczymi, aby zapewnić dokładne i wiarygodne konwersje jednostek."
+    ]
+  },
+  "record_count": 83,
+  "title": "Kompleksowy Zbiór Danych Czynników Konwersji Jednostek"
+}

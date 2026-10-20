@@ -1,0 +1,3166 @@
+{
+  "id": "pl-teatry",
+  "name": "Polska — teatry",
+  "title": "Polska — teatry",
+  "description": "Teatry w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 625,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2008 sala kongresowa Opera",
+      "latitude": 51.795846,
+      "longitude": 15.715961
+    },
+    {
+      "name": "Ad Spectatores",
+      "latitude": 51.092281,
+      "longitude": 17.044675
+    },
+    {
+      "name": "Akademia Teatralna im. A. Zelwerowicza - Filia w Białymstoku",
+      "latitude": 53.133435,
+      "longitude": 23.16217
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.340618,
+      "longitude": 20.132899
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.44217,
+      "longitude": 20.237341
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.471074,
+      "longitude": 20.200021
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.544934,
+      "longitude": 21.849003
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.564203,
+      "longitude": 20.427961
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.604771,
+      "longitude": 19.110706
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.655623,
+      "longitude": 18.861855
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.679065,
+      "longitude": 19.201876
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.716869,
+      "longitude": 18.819516
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.721073,
+      "longitude": 18.918588
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.841311,
+      "longitude": 19.813177
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.894181,
+      "longitude": 18.813931
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.894484,
+      "longitude": 21.051461
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.963123,
+      "longitude": 20.42943
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.009325,
+      "longitude": 18.453391
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.013413,
+      "longitude": 20.985092
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.075821,
+      "longitude": 19.44078
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.090197,
+      "longitude": 19.32298
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.102453,
+      "longitude": 19.259222
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.17845,
+      "longitude": 18.768855
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.243222,
+      "longitude": 23.146512
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.275314,
+      "longitude": 18.836268
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.292387,
+      "longitude": 16.874267
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.326823,
+      "longitude": 19.133782
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.340212,
+      "longitude": 21.3321
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.341795,
+      "longitude": 16.887921
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.356341,
+      "longitude": 20.031064
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.429591,
+      "longitude": 18.13199
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.433843,
+      "longitude": 18.861842
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.501525,
+      "longitude": 21.540405
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.571001,
+      "longitude": 18.618918
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.575377,
+      "longitude": 19.359414
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.592707,
+      "longitude": 18.708595
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.644101,
+      "longitude": 21.64714
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.656509,
+      "longitude": 21.26509
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.67507,
+      "longitude": 18.9084
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.768014,
+      "longitude": 16.274751
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.834127,
+      "longitude": 19.134376
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.847361,
+      "longitude": 16.480007
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.861078,
+      "longitude": 16.327058
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.862039,
+      "longitude": 17.464068
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.863969,
+      "longitude": 15.681093
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.876674,
+      "longitude": 18.419411
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.909415,
+      "longitude": 20.809072
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.921715,
+      "longitude": 22.216887
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.938989,
+      "longitude": 21.38118
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.987097,
+      "longitude": 23.175059
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.017573,
+      "longitude": 21.54544
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.071374,
+      "longitude": 16.099883
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.086013,
+      "longitude": 19.872377
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.100437,
+      "longitude": 18.661395
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 51.146643,
+      "longitude": 15.002151
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.158394,
+      "longitude": 21.236992
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.189881,
+      "longitude": 22.543393
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.2278,
+      "longitude": 22.592508
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.22904,
+      "longitude": 22.778542
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.236399,
+      "longitude": 22.489069
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.270312,
+      "longitude": 15.929527
+    },
+    {
+      "name": "AMFITEATR",
+      "latitude": 51.284661,
+      "longitude": 17.985283
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.310401,
+      "longitude": 17.066171
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.328435,
+      "longitude": 19.120518
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.361599,
+      "longitude": 21.079573
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.417186,
+      "longitude": 18.611878
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.499687,
+      "longitude": 22.078882
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.503629,
+      "longitude": 16.07141
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.503699,
+      "longitude": 17.169649
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.593321,
+      "longitude": 18.748231
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.610661,
+      "longitude": 20.574522
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.65351,
+      "longitude": 19.320583
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.704294,
+      "longitude": 16.749499
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.711369,
+      "longitude": 20.03688
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.750096,
+      "longitude": 18.088825
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.764364,
+      "longitude": 20.322051
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.768496,
+      "longitude": 19.501052
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.883951,
+      "longitude": 17.793285
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.925423,
+      "longitude": 15.490386
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.925716,
+      "longitude": 22.380351
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.96326,
+      "longitude": 20.142732
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 51.973765,
+      "longitude": 20.510849
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.012432,
+      "longitude": 18.499716
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.031358,
+      "longitude": 23.112388
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.051582,
+      "longitude": 15.098465
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.114413,
+      "longitude": 21.091343
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.152205,
+      "longitude": 17.161625
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.18088,
+      "longitude": 21.569748
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.191283,
+      "longitude": 20.885927
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.212597,
+      "longitude": 18.247685
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.231666,
+      "longitude": 20.947607
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.239155,
+      "longitude": 18.093286
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.24362,
+      "longitude": 21.057201
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.265706,
+      "longitude": 18.425643
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 52.266022,
+      "longitude": 15.680484
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 52.276255,
+      "longitude": 15.806722
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.33495,
+      "longitude": 15.291707
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.385935,
+      "longitude": 20.195435
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.468785,
+      "longitude": 14.869184
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.541928,
+      "longitude": 19.686204
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.556584,
+      "longitude": 17.380829
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.630703,
+      "longitude": 16.42599
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.658979,
+      "longitude": 17.950831
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.675987,
+      "longitude": 14.897073
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.691829,
+      "longitude": 16.388449
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.731859,
+      "longitude": 15.252497
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.733961,
+      "longitude": 23.587581
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.75365,
+      "longitude": 18.103005
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.799351,
+      "longitude": 16.739911
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.844446,
+      "longitude": 17.725927
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 52.862045,
+      "longitude": 14.397685
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 52.864975,
+      "longitude": 19.334971
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.014001,
+      "longitude": 18.604659
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.041016,
+      "longitude": 18.58304
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.082797,
+      "longitude": 15.481681
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.112776,
+      "longitude": 20.378142
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.122978,
+      "longitude": 18.001385
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.123993,
+      "longitude": 17.998033
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.125118,
+      "longitude": 18.005061
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.152403,
+      "longitude": 17.256012
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.153563,
+      "longitude": 16.741074
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.172409,
+      "longitude": 21.29289
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.206751,
+      "longitude": 23.344741
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.28418,
+      "longitude": 18.93846
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.296839,
+      "longitude": 16.983703
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.302648,
+      "longitude": 16.986412
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.340269,
+      "longitude": 15.040432
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.346128,
+      "longitude": 18.43453
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.411099,
+      "longitude": 18.446334
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.424306,
+      "longitude": 19.04108
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.532027,
+      "longitude": 16.011606
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.560628,
+      "longitude": 14.831466
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.571538,
+      "longitude": 18.007165
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.617195,
+      "longitude": 20.318166
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.632877,
+      "longitude": 15.616735
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.649403,
+      "longitude": 14.620705
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.695845,
+      "longitude": 17.559127
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.704197,
+      "longitude": 20.961771
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.712581,
+      "longitude": 18.177541
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.748292,
+      "longitude": 20.232646
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.753947,
+      "longitude": 17.104211
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 53.76133,
+      "longitude": 16.091356
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.761881,
+      "longitude": 21.337012
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.820244,
+      "longitude": 22.345508
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.832662,
+      "longitude": 14.611211
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.85434,
+      "longitude": 17.504499
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.87226,
+      "longitude": 21.321026
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.931745,
+      "longitude": 14.447824
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.973074,
+      "longitude": 14.76816
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.98694,
+      "longitude": 20.386878
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 53.992507,
+      "longitude": 17.404748
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.008403,
+      "longitude": 17.765519
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 54.065072,
+      "longitude": 17.297514
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.079469,
+      "longitude": 21.374318
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.080727,
+      "longitude": 15.012336
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.10925,
+      "longitude": 21.7746
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.120401,
+      "longitude": 16.167097
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.126404,
+      "longitude": 20.583661
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.145974,
+      "longitude": 23.451681
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 54.193207,
+      "longitude": 16.177522
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.214486,
+      "longitude": 17.949211
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.21851,
+      "longitude": 15.767956
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.251988,
+      "longitude": 18.62862
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.338613,
+      "longitude": 18.612111
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 54.596702,
+      "longitude": 18.234026
+    },
+    {
+      "name": "Amfiteatr \"Muszelka\"",
+      "latitude": 50.298197,
+      "longitude": 19.242106
+    },
+    {
+      "name": "Amfiteatr \"Nad stawami\"",
+      "latitude": 51.216193,
+      "longitude": 17.385253
+    },
+    {
+      "name": "Amfiteatr \"Yaruga\"",
+      "latitude": 49.939552,
+      "longitude": 21.963171
+    },
+    {
+      "name": "Amfiteatr ,,Drzewiarz'' Jasienica",
+      "latitude": 49.800744,
+      "longitude": 18.92173
+    },
+    {
+      "name": "Amfiteatr ,,Na skarpie''",
+      "latitude": 52.225568,
+      "longitude": 18.272068
+    },
+    {
+      "name": "Amfiteatr - muszla koncertowa",
+      "latitude": 49.608675,
+      "longitude": 19.96507
+    },
+    {
+      "name": "Amfiteatr /ruiny/",
+      "latitude": 50.698208,
+      "longitude": 19.424891
+    },
+    {
+      "name": "Amfiteatr Bemowo",
+      "latitude": 52.233664,
+      "longitude": 20.905804
+    },
+    {
+      "name": "Amfiteatr Buk",
+      "latitude": 50.180141,
+      "longitude": 18.439965
+    },
+    {
+      "name": "Amfiteatr Colosseo",
+      "latitude": 50.000359,
+      "longitude": 19.408347
+    },
+    {
+      "name": "Amfiteatr Dolina Charlotty",
+      "latitude": 54.525562,
+      "longitude": 16.952193
+    },
+    {
+      "name": "Amfiteatr Egypt",
+      "latitude": 49.999877,
+      "longitude": 19.407517
+    },
+    {
+      "name": "Amfiteatr Estede",
+      "latitude": 52.537679,
+      "longitude": 17.609531
+    },
+    {
+      "name": "Amfiteatr gminny w Rzeczycy",
+      "latitude": 51.594412,
+      "longitude": 20.288544
+    },
+    {
+      "name": "Amfiteatr Gorzowski",
+      "latitude": 52.735721,
+      "longitude": 15.240909
+    },
+    {
+      "name": "Amfiteatr Grabek",
+      "latitude": 50.31219,
+      "longitude": 19.065448
+    },
+    {
+      "name": "Amfiteatr im. Anny Jantar",
+      "latitude": 52.320089,
+      "longitude": 17.57029
+    },
+    {
+      "name": "Amfiteatr im. Czesława Niemena",
+      "latitude": 53.777118,
+      "longitude": 20.47475
+    },
+    {
+      "name": "Amfiteatr im. Ignacego Jana Paderewskiego",
+      "latitude": 54.193271,
+      "longitude": 16.18787
+    },
+    {
+      "name": "Amfiteatr im. Krzysztofa Klenczona",
+      "latitude": 52.704339,
+      "longitude": 21.094504
+    },
+    {
+      "name": "Amfiteatr im. Louisa Armstronga",
+      "latitude": 53.59591,
+      "longitude": 19.563137
+    },
+    {
+      "name": "Amfiteatr Kadzielnia im. Andrzeja Litwina",
+      "latitude": 50.859816,
+      "longitude": 20.618565
+    },
+    {
+      "name": "Amfiteatr Kruszwica",
+      "latitude": 52.67244,
+      "longitude": 18.331746
+    },
+    {
+      "name": "Amfiteatr Lesko",
+      "latitude": 49.468427,
+      "longitude": 22.325844
+    },
+    {
+      "name": "Amfiteatr Lesny",
+      "latitude": 53.358672,
+      "longitude": 17.025896
+    },
+    {
+      "name": "Amfiteatr letni",
+      "latitude": 49.839254,
+      "longitude": 20.96088
+    },
+    {
+      "name": "Amfiteatr leśny",
+      "latitude": 49.617075,
+      "longitude": 20.737384
+    },
+    {
+      "name": "Amfiteatr MDK w Świnoujściu im. Marka Grechuty",
+      "latitude": 53.915934,
+      "longitude": 14.245773
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 50.308569,
+      "longitude": 19.0308
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 51.257272,
+      "longitude": 15.570355
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 51.408119,
+      "longitude": 19.690662
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 51.646164,
+      "longitude": 17.822412
+    },
+    {
+      "name": "Amfiteatr miejski",
+      "latitude": 52.586008,
+      "longitude": 14.646823
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 53.409185,
+      "longitude": 22.81076
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 53.828354,
+      "longitude": 20.694248
+    },
+    {
+      "name": "Amfiteatr Miejski",
+      "latitude": 53.976322,
+      "longitude": 20.742838
+    },
+    {
+      "name": "Amfiteatr miejski",
+      "latitude": 54.381828,
+      "longitude": 19.820285
+    },
+    {
+      "name": "Amfiteatr Miejski im. Grzegorza Ciechowskiego",
+      "latitude": 54.083867,
+      "longitude": 18.795741
+    },
+    {
+      "name": "Amfiteatr Miejski w Biskupcu",
+      "latitude": 53.867719,
+      "longitude": 20.953634
+    },
+    {
+      "name": "Amfiteatr Miejski w Rejowcu",
+      "latitude": 51.091119,
+      "longitude": 23.288749
+    },
+    {
+      "name": "Amfiteatr Morzyczyn",
+      "latitude": 53.351478,
+      "longitude": 14.91644
+    },
+    {
+      "name": "Amfiteatr na Górze Świętej Anny",
+      "latitude": 50.455118,
+      "longitude": 18.159916
+    },
+    {
+      "name": "Amfiteatr na Zniesieniu",
+      "latitude": 49.772364,
+      "longitude": 22.767773
+    },
+    {
+      "name": "Amfiteatr nad Cybiną",
+      "latitude": 52.412308,
+      "longitude": 16.951253
+    },
+    {
+      "name": "Amfiteatr nad Jeziorem Chodeckim",
+      "latitude": 52.396514,
+      "longitude": 19.029903
+    },
+    {
+      "name": "Amfiteatr nad jeziorem Ryńskim",
+      "latitude": 53.935271,
+      "longitude": 21.540944
+    },
+    {
+      "name": "Amfiteatr Olszynki",
+      "latitude": 52.714032,
+      "longitude": 16.382828
+    },
+    {
+      "name": "Amfiteatr Orana",
+      "latitude": 54.321019,
+      "longitude": 18.623419
+    },
+    {
+      "name": "Amfiteatr Podzamcze",
+      "latitude": 54.041236,
+      "longitude": 22.507636
+    },
+    {
+      "name": "Amfiteatr RCKK",
+      "latitude": 53.386229,
+      "longitude": 21.342659
+    },
+    {
+      "name": "Amfiteatr Rogoźnik",
+      "latitude": 50.398229,
+      "longitude": 19.033241
+    },
+    {
+      "name": "Amfiteatr Rudzki",
+      "latitude": 50.280572,
+      "longitude": 18.866635
+    },
+    {
+      "name": "Amfiteatr Szerokowidze",
+      "latitude": 54.344939,
+      "longitude": 17.889566
+    },
+    {
+      "name": "Amfiteatr Służew",
+      "latitude": 52.169819,
+      "longitude": 21.023153
+    },
+    {
+      "name": "Amfiteatr w Gaci",
+      "latitude": 50.030582,
+      "longitude": 22.364455
+    },
+    {
+      "name": "Amfiteatr w Książu Wielkopolskim",
+      "latitude": 52.062269,
+      "longitude": 17.245615
+    },
+    {
+      "name": "Amfiteatr w Lipniku",
+      "latitude": 49.814712,
+      "longitude": 19.116036
+    },
+    {
+      "name": "Amfiteatr w Muszynie",
+      "latitude": 49.350117,
+      "longitude": 20.886812
+    },
+    {
+      "name": "Amfiteatr w Parku Miejskim",
+      "latitude": 54.605455,
+      "longitude": 18.354616
+    },
+    {
+      "name": "Amfiteatr w Parku Poniatowskiego",
+      "latitude": 51.753188,
+      "longitude": 19.44579
+    },
+    {
+      "name": "Amfiteatr w Parku Praskim",
+      "latitude": 52.254462,
+      "longitude": 21.025418
+    },
+    {
+      "name": "Amfiteatr w Parku Strzeleckim",
+      "latitude": 49.619259,
+      "longitude": 20.686389
+    },
+    {
+      "name": "Amfiteatr w Piszu",
+      "latitude": 53.629617,
+      "longitude": 21.80895
+    },
+    {
+      "name": "Amfiteatr w Proszowicach",
+      "latitude": 50.194408,
+      "longitude": 20.288847
+    },
+    {
+      "name": "Amfiteatr w Sochaczewie",
+      "latitude": 52.228062,
+      "longitude": 20.236699
+    },
+    {
+      "name": "Amfiteatr w Szczekocinach",
+      "latitude": 50.624148,
+      "longitude": 19.828021
+    },
+    {
+      "name": "Amfiteatr w Trzcińsku-Zdroju",
+      "latitude": 52.968603,
+      "longitude": 14.608083
+    },
+    {
+      "name": "Amfiteatr w Żywcu",
+      "latitude": 49.679077,
+      "longitude": 19.201937
+    },
+    {
+      "name": "Amfiteatr Wilkasy",
+      "latitude": 54.010046,
+      "longitude": 21.736174
+    },
+    {
+      "name": "Amfiteatr Woziwoda",
+      "latitude": 53.66919,
+      "longitude": 17.906787
+    },
+    {
+      "name": "Amfiteatr Włodawa",
+      "latitude": 51.546476,
+      "longitude": 23.5592
+    },
+    {
+      "name": "Amfiteatr Zdrojowy",
+      "latitude": 52.656467,
+      "longitude": 18.986067
+    },
+    {
+      "name": "Amfiteatr Złota Góra",
+      "latitude": 54.273959,
+      "longitude": 18.097492
+    },
+    {
+      "name": "Amfiteatr Łabiszyn",
+      "latitude": 52.950907,
+      "longitude": 17.921258
+    },
+    {
+      "name": "Amfiteatr Żerków",
+      "latitude": 52.065607,
+      "longitude": 17.567965
+    },
+    {
+      "name": "Amfiteatr Żydowce",
+      "latitude": 53.352911,
+      "longitude": 14.580544
+    },
+    {
+      "name": "Anfiteatr",
+      "latitude": 52.400504,
+      "longitude": 22.023698
+    },
+    {
+      "name": "Apollo",
+      "latitude": 52.4046,
+      "longitude": 16.926471
+    },
+    {
+      "name": "Apollo Theater Görlitz",
+      "latitude": 51.149505,
+      "longitude": 14.983815
+    },
+    {
+      "name": "Arena",
+      "latitude": 50.274347,
+      "longitude": 18.989715
+    },
+    {
+      "name": "Asz.teatr",
+      "latitude": 52.449534,
+      "longitude": 16.916801
+    },
+    {
+      "name": "Ateneum",
+      "latitude": 52.237196,
+      "longitude": 21.032906
+    },
+    {
+      "name": "Baj",
+      "latitude": 52.252496,
+      "longitude": 21.034624
+    },
+    {
+      "name": "Baj Pomorski",
+      "latitude": 53.010154,
+      "longitude": 18.612335
+    },
+    {
+      "name": "Bałtycki Teatr Dramatyczny im. Juliusza Słowackiego w Koszalinie",
+      "latitude": 54.186279,
+      "longitude": 16.184921
+    },
+    {
+      "name": "Białostocki Teatr Lalek",
+      "latitude": 53.130868,
+      "longitude": 23.150479
+    },
+    {
+      "name": "Bielańska Scena Kameralna",
+      "latitude": 52.276231,
+      "longitude": 20.947834
+    },
+    {
+      "name": "Bytomskie Centrum Kultury",
+      "latitude": 50.352428,
+      "longitude": 18.928209
+    },
+    {
+      "name": "Centralna Spółdzielnia Komediowa",
+      "latitude": 52.229168,
+      "longitude": 21.01553
+    },
+    {
+      "name": "centrum kultury",
+      "latitude": 50.02402,
+      "longitude": 22.31712
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 50.13282,
+      "longitude": 20.89127
+    },
+    {
+      "name": "Centrum Kultury - Teatr",
+      "latitude": 53.485135,
+      "longitude": 18.7558
+    },
+    {
+      "name": "Centrum Kultury i Sztuki im. Andrzeja Meżeryckiego. Scena Teatralna Miasta Siedlce",
+      "latitude": 52.169249,
+      "longitude": 22.278456
+    },
+    {
+      "name": "Centrum Kultury Śląskiej",
+      "latitude": 50.283138,
+      "longitude": 18.906257
+    },
+    {
+      "name": "Centrum oazowe Ruch Światło-Życie",
+      "latitude": 49.4427,
+      "longitude": 20.419237
+    },
+    {
+      "name": "Centrum Sztuki Włączającej / Teatr 21",
+      "latitude": 52.260572,
+      "longitude": 21.026584
+    },
+    {
+      "name": "Centrum Teatru Muzyki i Tańca w Kutnie",
+      "latitude": 52.230113,
+      "longitude": 19.362051
+    },
+    {
+      "name": "Centrum Zjawisk Teatralnych",
+      "latitude": 52.432536,
+      "longitude": 16.883282
+    },
+    {
+      "name": "Chopin Concert Hall",
+      "latitude": 50.064006,
+      "longitude": 19.937451
+    },
+    {
+      "name": "Cortique",
+      "latitude": 52.413121,
+      "longitude": 16.907642
+    },
+    {
+      "name": "Cyrkland",
+      "latitude": 50.815292,
+      "longitude": 15.758565
+    },
+    {
+      "name": "Danka",
+      "latitude": 53.14971,
+      "longitude": 16.732317
+    },
+    {
+      "name": "Die Oderhähne",
+      "latitude": 52.344142,
+      "longitude": 14.553962
+    },
+    {
+      "name": "DK Sokolnia",
+      "latitude": 50.154451,
+      "longitude": 19.180095
+    },
+    {
+      "name": "Dom Machin (Scena Miniatura)",
+      "latitude": 50.063727,
+      "longitude": 19.943709
+    },
+    {
+      "name": "Druga Strefa",
+      "latitude": 52.186175,
+      "longitude": 21.005572
+    },
+    {
+      "name": "Dziedziniec Czworoboku - Amfiteatr",
+      "latitude": 51.543992,
+      "longitude": 23.554941
+    },
+    {
+      "name": "estrada",
+      "latitude": 51.599945,
+      "longitude": 18.737823
+    },
+    {
+      "name": "Estrada",
+      "latitude": 53.121894,
+      "longitude": 17.302781
+    },
+    {
+      "name": "Festplatzbühne",
+      "latitude": 51.295619,
+      "longitude": 15.017276
+    },
+    {
+      "name": "Filharmonia Częstochowska im. Bronisława Hubermana",
+      "latitude": 50.814012,
+      "longitude": 19.122629
+    },
+    {
+      "name": "Filharmonia Dolnośląska",
+      "latitude": 50.900952,
+      "longitude": 15.733915
+    },
+    {
+      "name": "Filharmonia im. Henryka Wieniawskiego",
+      "latitude": 51.246467,
+      "longitude": 22.548219
+    },
+    {
+      "name": "Filharmonia im. Mieczysława Karłowicza",
+      "latitude": 53.429393,
+      "longitude": 14.558059
+    },
+    {
+      "name": "Filharmonia Koszalińska",
+      "latitude": 54.191185,
+      "longitude": 16.187827
+    },
+    {
+      "name": "Filharmonia Krakowska imienia Karola Szymanowskiego",
+      "latitude": 50.05894,
+      "longitude": 19.932726
+    },
+    {
+      "name": "Filharmonia Narodowa",
+      "latitude": 52.234357,
+      "longitude": 21.011154
+    },
+    {
+      "name": "Filharmonia Opolska",
+      "latitude": 50.666045,
+      "longitude": 17.923461
+    },
+    {
+      "name": "Filharmonia Podkarpacka",
+      "latitude": 50.033572,
+      "longitude": 22.004288
+    },
+    {
+      "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+      "latitude": 53.128968,
+      "longitude": 18.010769
+    },
+    {
+      "name": "Filharmonia Poznańska",
+      "latitude": 52.407845,
+      "longitude": 16.915747
+    },
+    {
+      "name": "Filharmonia Zabrzańska",
+      "latitude": 50.311901,
+      "longitude": 18.785658
+    },
+    {
+      "name": "Filharmonia Zielonogórska im. Tadeusza Bairda",
+      "latitude": 51.939995,
+      "longitude": 15.50396
+    },
+    {
+      "name": "Filharmonia Łódzka",
+      "latitude": 51.771214,
+      "longitude": 19.460026
+    },
+    {
+      "name": "Filharmonia Świętokrzyska im. Oskara Kolberga",
+      "latitude": 50.866618,
+      "longitude": 20.635938
+    },
+    {
+      "name": "Fontanna Cosmopolis",
+      "latitude": 53.010621,
+      "longitude": 18.599733
+    },
+    {
+      "name": "Freilichtbühne Weinau",
+      "latitude": 50.89922,
+      "longitude": 14.835584
+    },
+    {
+      "name": "Galeria 33",
+      "latitude": 51.648462,
+      "longitude": 17.817314
+    },
+    {
+      "name": "Galeria Autorska Gaworzewski",
+      "latitude": 51.653283,
+      "longitude": 17.819099
+    },
+    {
+      "name": "Galeria OCK",
+      "latitude": 51.65224,
+      "longitude": 17.811211
+    },
+    {
+      "name": "Galeria Sztuki Współczesnej BWA",
+      "latitude": 51.652021,
+      "longitude": 17.817886
+    },
+    {
+      "name": "Garnizon Sztuki",
+      "latitude": 52.228442,
+      "longitude": 21.026356
+    },
+    {
+      "name": "Gdański Teatr Szekspirowski",
+      "latitude": 54.347936,
+      "longitude": 18.6479
+    },
+    {
+      "name": "Gerhart Hauptmann-Theater",
+      "latitude": 51.153778,
+      "longitude": 14.985269
+    },
+    {
+      "name": "Giżyckie Centrum Kultury",
+      "latitude": 54.037582,
+      "longitude": 21.758505
+    },
+    {
+      "name": "Guliwer",
+      "latitude": 52.203308,
+      "longitude": 21.019802
+    },
+    {
+      "name": "Instytut im. Jerzego Grotowskiego",
+      "latitude": 51.109978,
+      "longitude": 17.032574
+    },
+    {
+      "name": "Instytut im. Jerzego Grotowskiego – Piekarnia",
+      "latitude": 51.115933,
+      "longitude": 17.022649
+    },
+    {
+      "name": "Instytut im. Jerzego Grotowskiego – Studio Na Grobli",
+      "latitude": 51.103271,
+      "longitude": 17.064593
+    },
+    {
+      "name": "Jarzębinowy Amfiteatr",
+      "latitude": 53.304642,
+      "longitude": 20.419115
+    },
+    {
+      "name": "Kammermusiksaal",
+      "latitude": 52.349145,
+      "longitude": 14.552473
+    },
+    {
+      "name": "Kielecki Teatr Tańca",
+      "latitude": 50.868407,
+      "longitude": 20.637685
+    },
+    {
+      "name": "Klezmer Music Venue",
+      "latitude": 50.06396,
+      "longitude": 19.937434
+    },
+    {
+      "name": "Klinika Lalek",
+      "latitude": 50.952682,
+      "longitude": 15.307125
+    },
+    {
+      "name": "Klub Komediowy",
+      "latitude": 52.219723,
+      "longitude": 21.017033
+    },
+    {
+      "name": "KontenerART",
+      "latitude": 52.40598,
+      "longitude": 16.944814
+    },
+    {
+      "name": "Konzerthalle",
+      "latitude": 52.349227,
+      "longitude": 14.552677
+    },
+    {
+      "name": "Kopalnia Kultury im. Henryka Kuźniaka",
+      "latitude": 50.303098,
+      "longitude": 19.095862
+    },
+    {
+      "name": "Kozielska Muszla Koncertowa",
+      "latitude": 50.334591,
+      "longitude": 18.150659
+    },
+    {
+      "name": "Krajeński Ośrodek Kultury",
+      "latitude": 53.297077,
+      "longitude": 16.990303
+    },
+    {
+      "name": "Krakowska Opera Kameralna",
+      "latitude": 50.052277,
+      "longitude": 19.943963
+    },
+    {
+      "name": "Krakowski Teatr \"Variété\"",
+      "latitude": 50.056885,
+      "longitude": 19.963913
+    },
+    {
+      "name": "Krakus",
+      "latitude": 49.935046,
+      "longitude": 20.736122
+    },
+    {
+      "name": "Krönum",
+      "latitude": 51.294302,
+      "longitude": 15.021286
+    },
+    {
+      "name": "Kujawsko-Pomorski Teatr Muzyczny w Toruniu",
+      "latitude": 53.0086,
+      "longitude": 18.60628
+    },
+    {
+      "name": "Letnia Estrada Koncertowa",
+      "latitude": 54.794319,
+      "longitude": 18.411319
+    },
+    {
+      "name": "Letnia scena RCK",
+      "latitude": 54.182023,
+      "longitude": 15.564809
+    },
+    {
+      "name": "Lubuski Teatr w Zielonej Górze",
+      "latitude": 51.940299,
+      "longitude": 15.507292
+    },
+    {
+      "name": "Lwóweckie Łazienki",
+      "latitude": 51.111333,
+      "longitude": 15.577853
+    },
+    {
+      "name": "Makowski Amfiteatr",
+      "latitude": 51.947126,
+      "longitude": 20.041595
+    },
+    {
+      "name": "Mazowiecki Teatr Muzyczny im. Jana Kiepury",
+      "latitude": 52.25155,
+      "longitude": 21.035659
+    },
+    {
+      "name": "Mała Scena",
+      "latitude": 54.166701,
+      "longitude": 19.403759
+    },
+    {
+      "name": "Małopolskie Centrum Kultury \"Sokół\"",
+      "latitude": 49.622285,
+      "longitude": 20.694809
+    },
+    {
+      "name": "Mały amfiteatr",
+      "latitude": 52.115834,
+      "longitude": 21.089311
+    },
+    {
+      "name": "MCK",
+      "latitude": 50.26142,
+      "longitude": 22.41853
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 49.855718,
+      "longitude": 19.33973
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.158883,
+      "longitude": 23.121227
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.293244,
+      "longitude": 19.240486
+    },
+    {
+      "name": "Miejski Ośrodek Kultury \"Amfiteatr\"",
+      "latitude": 51.411844,
+      "longitude": 21.149215
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 51.074572,
+      "longitude": 21.013787
+    },
+    {
+      "name": "MOS – Teatr w Krakowie",
+      "latitude": 50.064217,
+      "longitude": 19.929332
+    },
+    {
+      "name": "Mostownia",
+      "latitude": 54.376235,
+      "longitude": 18.614084
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 50.305166,
+      "longitude": 17.380815
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 50.350661,
+      "longitude": 18.910029
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 50.392553,
+      "longitude": 16.38367
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 50.408545,
+      "longitude": 16.510889
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 50.429512,
+      "longitude": 18.808495
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 50.431105,
+      "longitude": 18.954747
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 50.600253,
+      "longitude": 17.045
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 50.773672,
+      "longitude": 15.750256
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 50.868183,
+      "longitude": 20.625077
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.052741,
+      "longitude": 21.067298
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.134466,
+      "longitude": 23.510131
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 51.264275,
+      "longitude": 17.34201
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 51.360465,
+      "longitude": 20.806021
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 51.360775,
+      "longitude": 20.630369
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.399223,
+      "longitude": 21.15778
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.431636,
+      "longitude": 21.711892
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.546687,
+      "longitude": 23.559423
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.598088,
+      "longitude": 21.540989
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.655078,
+      "longitude": 20.953236
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 51.804559,
+      "longitude": 15.725018
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 51.804592,
+      "longitude": 19.446067
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 51.886337,
+      "longitude": 15.873357
+    },
+    {
+      "name": "Muszla Koncertowa",
+      "latitude": 52.109538,
+      "longitude": 19.934057
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 52.766964,
+      "longitude": 23.191528
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 53.104105,
+      "longitude": 19.04361
+    },
+    {
+      "name": "Muszla koncertowa",
+      "latitude": 54.446202,
+      "longitude": 18.569171
+    },
+    {
+      "name": "muszla koncertowa",
+      "latitude": 54.664055,
+      "longitude": 17.049276
+    },
+    {
+      "name": "Muza",
+      "latitude": 51.399099,
+      "longitude": 16.20464
+    },
+    {
+      "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+      "latitude": 50.263891,
+      "longitude": 19.028669
+    },
+    {
+      "name": "Narodowe Forum Muzyki",
+      "latitude": 51.106946,
+      "longitude": 17.026377
+    },
+    {
+      "name": "Narodowy Stary Teatr imienia Heleny Modrzejewskiej",
+      "latitude": 50.063151,
+      "longitude": 19.935374
+    },
+    {
+      "name": "Nie Teatr",
+      "latitude": 53.132528,
+      "longitude": 23.161209
+    },
+    {
+      "name": "Nowy Teatr",
+      "latitude": 52.205418,
+      "longitude": 21.019572
+    },
+    {
+      "name": "Nowy Teatr",
+      "latitude": 54.462655,
+      "longitude": 17.031893
+    },
+    {
+      "name": "Nowy Teatr im. Witkacego w Słupsku",
+      "latitude": 54.462595,
+      "longitude": 17.032085
+    },
+    {
+      "name": "Old Timers Garage",
+      "latitude": 50.209519,
+      "longitude": 18.979888
+    },
+    {
+      "name": "Opera Bałtycka",
+      "latitude": 54.372564,
+      "longitude": 18.625332
+    },
+    {
+      "name": "Opera i Filharmonia Podlaska - Europejskie Centrum Sztuki",
+      "latitude": 53.129747,
+      "longitude": 23.14984
+    },
+    {
+      "name": "Opera Krakowska",
+      "latitude": 50.065764,
+      "longitude": 19.956137
+    },
+    {
+      "name": "Opera Lubelska",
+      "latitude": 51.246239,
+      "longitude": 22.548498
+    },
+    {
+      "name": "Opera na Zamku",
+      "latitude": 53.425829,
+      "longitude": 14.560437
+    },
+    {
+      "name": "Opera Narodowa",
+      "latitude": 52.243632,
+      "longitude": 21.010346
+    },
+    {
+      "name": "Opera Nova",
+      "latitude": 53.124423,
+      "longitude": 17.997816
+    },
+    {
+      "name": "Oratorium św. Kingi",
+      "latitude": 49.9689,
+      "longitude": 20.427846
+    },
+    {
+      "name": "OT Rondo",
+      "latitude": 54.4679,
+      "longitude": 17.025044
+    },
+    {
+      "name": "Ośrodek Praktyk Teatralnych \"Gardzienice\"",
+      "latitude": 51.248446,
+      "longitude": 22.568807
+    },
+    {
+      "name": "Ośrodek Praktyk Teatralnych „Gardzienice”",
+      "latitude": 51.101467,
+      "longitude": 22.853467
+    },
+    {
+      "name": "Palladium",
+      "latitude": 52.232718,
+      "longitude": 21.01176
+    },
+    {
+      "name": "Pieśń Kozła",
+      "latitude": 51.110308,
+      "longitude": 17.039713
+    },
+    {
+      "name": "Piwnica Pod Baranami",
+      "latitude": 50.061602,
+      "longitude": 19.935398
+    },
+    {
+      "name": "Piwnica przy Krypcie",
+      "latitude": 53.426536,
+      "longitude": 14.560279
+    },
+    {
+      "name": "Polkowickie Centrum Piknikowe",
+      "latitude": 51.512875,
+      "longitude": 16.075474
+    },
+    {
+      "name": "Polonia",
+      "latitude": 52.223631,
+      "longitude": 21.015925
+    },
+    {
+      "name": "Polska Filharmonia Kameralna Sopot",
+      "latitude": 54.445154,
+      "longitude": 18.546148
+    },
+    {
+      "name": "Polska Filharmonia Sinfonia Baltica im. Wojciecha Kilara",
+      "latitude": 54.463107,
+      "longitude": 17.031303
+    },
+    {
+      "name": "Polski Teatr Tańca",
+      "latitude": 52.40536,
+      "longitude": 16.922261
+    },
+    {
+      "name": "Potem o Tem",
+      "latitude": 52.24738,
+      "longitude": 20.998069
+    },
+    {
+      "name": "Pracownia Artystyczna Unikat",
+      "latitude": 51.656179,
+      "longitude": 17.819542
+    },
+    {
+      "name": "Resort Komedii",
+      "latitude": 52.243904,
+      "longitude": 21.007134
+    },
+    {
+      "name": "Sala Kameralna",
+      "latitude": 50.260929,
+      "longitude": 19.013439
+    },
+    {
+      "name": "Sala Koncertowa Filharmonii Kaliskiej",
+      "latitude": 51.753688,
+      "longitude": 18.09003
+    },
+    {
+      "name": "Sala koncertowa im. Karola Stryji",
+      "latitude": 50.260578,
+      "longitude": 19.013929
+    },
+    {
+      "name": "Sala Koncertowa Opery i Filharmonii Podlaskiej",
+      "latitude": 53.12306,
+      "longitude": 23.16543
+    },
+    {
+      "name": "Sala Koncertowa Zarządu Morskiego Portu Gdynia",
+      "latitude": 54.528077,
+      "longitude": 18.52407
+    },
+    {
+      "name": "Sala Kongresowa",
+      "latitude": 52.2315,
+      "longitude": 21.00497
+    },
+    {
+      "name": "Sala Teatralna",
+      "latitude": 51.112856,
+      "longitude": 15.587112
+    },
+    {
+      "name": "sala teatralna",
+      "latitude": 53.912921,
+      "longitude": 14.240944
+    },
+    {
+      "name": "Sala Teatralna im. ks. Jerzego Popiełuszki",
+      "latitude": 51.76073,
+      "longitude": 19.463834
+    },
+    {
+      "name": "Sala Widowiskowa w Lubiszynie",
+      "latitude": 52.780876,
+      "longitude": 14.946182
+    },
+    {
+      "name": "Salon Ogrodowy",
+      "latitude": 52.056766,
+      "longitude": 20.432721
+    },
+    {
+      "name": "Salonik czterech muz",
+      "latitude": 51.301944,
+      "longitude": 16.915816
+    },
+    {
+      "name": "Scena",
+      "latitude": 50.094735,
+      "longitude": 21.916928
+    },
+    {
+      "name": "Scena 07",
+      "latitude": 52.183833,
+      "longitude": 21.005253
+    },
+    {
+      "name": "Scena A. Bazakbala, Kawiarnia Witkacy",
+      "latitude": 49.30547,
+      "longitude": 19.961599
+    },
+    {
+      "name": "Scena ATM",
+      "latitude": 51.042225,
+      "longitude": 16.976506
+    },
+    {
+      "name": "Scena Berlin",
+      "latitude": 50.047663,
+      "longitude": 19.943216
+    },
+    {
+      "name": "Scena El-Jot",
+      "latitude": 50.052356,
+      "longitude": 19.943804
+    },
+    {
+      "name": "Scena Forum Synagoga",
+      "latitude": 51.650928,
+      "longitude": 17.813893
+    },
+    {
+      "name": "Scena Kameralna",
+      "latitude": 51.758218,
+      "longitude": 18.09288
+    },
+    {
+      "name": "Scena Kameralna - Stary Teatr",
+      "latitude": 50.057127,
+      "longitude": 19.943669
+    },
+    {
+      "name": "Scena Kamienica",
+      "latitude": 51.102735,
+      "longitude": 17.021596
+    },
+    {
+      "name": "Scena Lalkowa Lubuskiego Teatru",
+      "latitude": 51.94034,
+      "longitude": 15.507818
+    },
+    {
+      "name": "Scena letnia",
+      "latitude": 51.940446,
+      "longitude": 15.508147
+    },
+    {
+      "name": "Scena Letnia",
+      "latitude": 52.732943,
+      "longitude": 15.247698
+    },
+    {
+      "name": "Scena letnia",
+      "latitude": 54.090696,
+      "longitude": 21.924593
+    },
+    {
+      "name": "Scena Letnia CKiP",
+      "latitude": 50.963707,
+      "longitude": 22.155957
+    },
+    {
+      "name": "Scena Letnia w Lapidarium",
+      "latitude": 52.250205,
+      "longitude": 21.011213
+    },
+    {
+      "name": "Scena Letnia w Mechelinkach",
+      "latitude": 54.608764,
+      "longitude": 18.513935
+    },
+    {
+      "name": "Scena Metro",
+      "latitude": 52.293794,
+      "longitude": 21.028401
+    },
+    {
+      "name": "Scena Monopolis",
+      "latitude": 51.76349,
+      "longitude": 19.48547
+    },
+    {
+      "name": "Scena na Piętrze",
+      "latitude": 52.40985,
+      "longitude": 16.933297
+    },
+    {
+      "name": "Scena OCK",
+      "latitude": 51.652052,
+      "longitude": 17.811177
+    },
+    {
+      "name": "Scena plenerowa",
+      "latitude": 50.477641,
+      "longitude": 22.478939
+    },
+    {
+      "name": "Scena plenerowa",
+      "latitude": 50.487128,
+      "longitude": 22.264077
+    },
+    {
+      "name": "Scena plenerowa",
+      "latitude": 50.573867,
+      "longitude": 22.31077
+    },
+    {
+      "name": "Scena plenerowa",
+      "latitude": 52.990069,
+      "longitude": 16.922575
+    },
+    {
+      "name": "Scena plenerowa",
+      "latitude": 54.125402,
+      "longitude": 20.574616
+    },
+    {
+      "name": "Scena pod Ratuszem",
+      "latitude": 50.061475,
+      "longitude": 19.936322
+    },
+    {
+      "name": "Scena Przodownik",
+      "latitude": 52.20414,
+      "longitude": 21.019393
+    },
+    {
+      "name": "Scena Relax",
+      "latitude": 52.233145,
+      "longitude": 21.010973
+    },
+    {
+      "name": "Scena Robocza",
+      "latitude": 52.409872,
+      "longitude": 16.933968
+    },
+    {
+      "name": "Scena Teatralna NOT",
+      "latitude": 54.35535,
+      "longitude": 18.65068
+    },
+    {
+      "name": "Scena w Malarni (Teatr Śląski im. Stanisława Wyspiańskiego)",
+      "latitude": 50.260082,
+      "longitude": 19.02342
+    },
+    {
+      "name": "Scena Wspólna",
+      "latitude": 52.425094,
+      "longitude": 16.935091
+    },
+    {
+      "name": "Schillerbühne",
+      "latitude": 51.727545,
+      "longitude": 14.664956
+    },
+    {
+      "name": "SDK Odeon",
+      "latitude": 50.321601,
+      "longitude": 19.069924
+    },
+    {
+      "name": "Seniorentheater \"Spätlese\" e.V.",
+      "latitude": 52.340578,
+      "longitude": 14.551579
+    },
+    {
+      "name": "Siedzenia",
+      "latitude": 50.243236,
+      "longitude": 23.146885
+    },
+    {
+      "name": "Sieradzkie Centrum Kultury",
+      "latitude": 51.597161,
+      "longitude": 18.739988
+    },
+    {
+      "name": "Sokół",
+      "latitude": 49.885705,
+      "longitude": 19.494315
+    },
+    {
+      "name": "Spichlerz - Akademia Praktyk Teatralnych \"Gardzienice\"",
+      "latitude": 51.099677,
+      "longitude": 22.855189
+    },
+    {
+      "name": "Spirit of Łódź",
+      "latitude": 51.763679,
+      "longitude": 19.485268
+    },
+    {
+      "name": "Stand up Lokal",
+      "latitude": 52.221667,
+      "longitude": 21.009956
+    },
+    {
+      "name": "Studio Buffo",
+      "latitude": 52.228053,
+      "longitude": 21.026563
+    },
+    {
+      "name": "Sweet Valley",
+      "latitude": 49.999727,
+      "longitude": 19.403142
+    },
+    {
+      "name": "Syrena",
+      "latitude": 52.216448,
+      "longitude": 21.022079
+    },
+    {
+      "name": "Tarnowskie Centrum Kultury",
+      "latitude": 50.01214,
+      "longitude": 20.9878
+    },
+    {
+      "name": "Teatr 38",
+      "latitude": 50.060804,
+      "longitude": 19.938249
+    },
+    {
+      "name": "Teatr Akt",
+      "latitude": 52.255433,
+      "longitude": 21.111687
+    },
+    {
+      "name": "Teatr Animacji",
+      "latitude": 52.408147,
+      "longitude": 16.919154
+    },
+    {
+      "name": "Teatr Arka",
+      "latitude": 51.10619,
+      "longitude": 17.032642
+    },
+    {
+      "name": "Teatr Atelier im. Agnieszki Osieckiej",
+      "latitude": 54.448549,
+      "longitude": 18.568277
+    },
+    {
+      "name": "Teatr Ateneum - Scena 20",
+      "latitude": 52.238193,
+      "longitude": 21.031903
+    },
+    {
+      "name": "Teatr Bagatela",
+      "latitude": 50.063661,
+      "longitude": 19.932237
+    },
+    {
+      "name": "Teatr Bagatela scena na Sarego 7",
+      "latitude": 50.056646,
+      "longitude": 19.941689
+    },
+    {
+      "name": "Teatr Barakah",
+      "latitude": 50.050192,
+      "longitude": 19.940472
+    },
+    {
+      "name": "Teatr Baza",
+      "latitude": 52.208897,
+      "longitude": 21.043784
+    },
+    {
+      "name": "Teatr Belfegor",
+      "latitude": 50.118943,
+      "longitude": 18.987513
+    },
+    {
+      "name": "Teatr Bez Rzędów",
+      "latitude": 50.050269,
+      "longitude": 19.942301
+    },
+    {
+      "name": "Teatr Bez Sceny",
+      "latitude": 50.259845,
+      "longitude": 19.018953
+    },
+    {
+      "name": "Teatr Bezdomny",
+      "latitude": 50.944711,
+      "longitude": 16.489792
+    },
+    {
+      "name": "Teatr Boto",
+      "latitude": 54.44395,
+      "longitude": 18.567806
+    },
+    {
+      "name": "Teatr Brama",
+      "latitude": 53.557109,
+      "longitude": 14.838471
+    },
+    {
+      "name": "Teatr Capitol",
+      "latitude": 52.241137,
+      "longitude": 21.002987
+    },
+    {
+      "name": "Teatr Cinema",
+      "latitude": 50.834781,
+      "longitude": 15.584884
+    },
+    {
+      "name": "Teatr Collegium Nobilium",
+      "latitude": 52.248157,
+      "longitude": 21.007881
+    },
+    {
+      "name": "Teatr Czarnego Tła",
+      "latitude": 50.29799,
+      "longitude": 18.959644
+    },
+    {
+      "name": "Teatr D.O.M.",
+      "latitude": 51.751213,
+      "longitude": 19.459316
+    },
+    {
+      "name": "Teatr Dramatyczny",
+      "latitude": 52.231329,
+      "longitude": 21.007497
+    },
+    {
+      "name": "Teatr Dramatyczny im. Aleksandra Węgierki",
+      "latitude": 53.129899,
+      "longitude": 23.169662
+    },
+    {
+      "name": "Teatr Dramatyczny im. Jana Kochanowskiego",
+      "latitude": 50.669295,
+      "longitude": 17.93325
+    },
+    {
+      "name": "Teatr Dramatyczny im. Jerzego Szaniawskiego",
+      "latitude": 50.767425,
+      "longitude": 16.274633
+    },
+    {
+      "name": "Teatr Dramatyczny im. Jerzego Szaniawskiego",
+      "latitude": 52.548829,
+      "longitude": 19.692466
+    },
+    {
+      "name": "Teatr Dramatyczny im. Stefana Żeromskiego",
+      "latitude": 50.871103,
+      "longitude": 20.628886
+    },
+    {
+      "name": "Teatr Dzieci Zagłębia",
+      "latitude": 50.326004,
+      "longitude": 19.13827
+    },
+    {
+      "name": "Teatr Dzieci Zagłębia im. Jana Dormana w Będzinie - mała scena",
+      "latitude": 50.319314,
+      "longitude": 19.135013
+    },
+    {
+      "name": "Teatr Fredreum",
+      "latitude": 49.780022,
+      "longitude": 22.766215
+    },
+    {
+      "name": "Teatr Gdynia Główna",
+      "latitude": 54.521252,
+      "longitude": 18.530245
+    },
+    {
+      "name": "Teatr Groteska",
+      "latitude": 50.063188,
+      "longitude": 19.926585
+    },
+    {
+      "name": "Teatr im Aleksandra Fredry",
+      "latitude": 52.53346,
+      "longitude": 17.601009
+    },
+    {
+      "name": "Teatr im. Adama Mickiewicza",
+      "latitude": 50.814954,
+      "longitude": 19.113662
+    },
+    {
+      "name": "Teatr im. Aleksandra Fredry",
+      "latitude": 52.533465,
+      "longitude": 17.601088
+    },
+    {
+      "name": "Teatr im. Aleksandra Sewruka",
+      "latitude": 54.166884,
+      "longitude": 19.404734
+    },
+    {
+      "name": "Teatr im. C.K. Norwida",
+      "latitude": 50.899703,
+      "longitude": 15.738956
+    },
+    {
+      "name": "Teatr im. Juliusza Osterwy",
+      "latitude": 51.246488,
+      "longitude": 22.561383
+    },
+    {
+      "name": "Teatr im. Juliusza Osterwy",
+      "latitude": 52.732401,
+      "longitude": 15.247846
+    },
+    {
+      "name": "Teatr im. Solskiego",
+      "latitude": 50.01581,
+      "longitude": 20.98735
+    },
+    {
+      "name": "Teatr im. Stanisława Ignacego Witkiewicza - Scena Witkacego",
+      "latitude": 49.305637,
+      "longitude": 19.962177
+    },
+    {
+      "name": "Teatr im. Stanisława Jaracza",
+      "latitude": 52.104647,
+      "longitude": 21.267457
+    },
+    {
+      "name": "Teatr im. Stefana Jaracza",
+      "latitude": 51.772914,
+      "longitude": 19.461873
+    },
+    {
+      "name": "Teatr im. Stefana Jaracza",
+      "latitude": 53.780164,
+      "longitude": 20.479311
+    },
+    {
+      "name": "Teatr im. Wandy Siemaszkowej",
+      "latitude": 50.039048,
+      "longitude": 21.999655
+    },
+    {
+      "name": "Teatr IMKA",
+      "latitude": 52.250111,
+      "longitude": 20.890491
+    },
+    {
+      "name": "Teatr Impresaryjny im. Włodzimierza Gniazdowskiego we Włocławku",
+      "latitude": 52.658174,
+      "longitude": 19.064395
+    },
+    {
+      "name": "Teatr Kameralny",
+      "latitude": 53.424972,
+      "longitude": 14.550414
+    },
+    {
+      "name": "Teatr Kameralny im. Wandy Rucińskiej",
+      "latitude": 53.122254,
+      "longitude": 18.002335
+    },
+    {
+      "name": "Teatr Kamienica",
+      "latitude": 52.243228,
+      "longitude": 20.998579
+    },
+    {
+      "name": "Teatr Komedia Poznań",
+      "latitude": 52.399504,
+      "longitude": 16.87555
+    },
+    {
+      "name": "Teatr Komedii Impro w Łodzi",
+      "latitude": 51.761277,
+      "longitude": 19.4599
+    },
+    {
+      "name": "Teatr Korez",
+      "latitude": 50.252947,
+      "longitude": 19.023381
+    },
+    {
+      "name": "Teatr Kotłownia",
+      "latitude": 52.839069,
+      "longitude": 15.828254
+    },
+    {
+      "name": "Teatr KTO",
+      "latitude": 50.040496,
+      "longitude": 19.943931
+    },
+    {
+      "name": "Teatr Kwadrat",
+      "latitude": 52.235879,
+      "longitude": 21.00869
+    },
+    {
+      "name": "Teatr Lalek",
+      "latitude": 53.777565,
+      "longitude": 20.490907
+    },
+    {
+      "name": "Teatr Lalek \"Pleciuga\"",
+      "latitude": 53.437159,
+      "longitude": 14.548089
+    },
+    {
+      "name": "Teatr Lalek Arlekin",
+      "latitude": 51.773178,
+      "longitude": 19.450836
+    },
+    {
+      "name": "Teatr Lalek Banialuka",
+      "latitude": 49.824445,
+      "longitude": 19.044472
+    },
+    {
+      "name": "Teatr Lalek Pinokio",
+      "latitude": 51.761782,
+      "longitude": 19.461489
+    },
+    {
+      "name": "Teatr Lalek Pleciuga",
+      "latitude": 51.049849,
+      "longitude": 15.590419
+    },
+    {
+      "name": "Teatr Lalek Rabcio",
+      "latitude": 49.610765,
+      "longitude": 19.948259
+    },
+    {
+      "name": "Teatr Lalka",
+      "latitude": 52.232917,
+      "longitude": 21.006537
+    },
+    {
+      "name": "Teatr Lalki i Aktora",
+      "latitude": 50.669567,
+      "longitude": 17.927954
+    },
+    {
+      "name": "Teatr Lalki i Aktora",
+      "latitude": 50.768503,
+      "longitude": 16.282557
+    },
+    {
+      "name": "Teatr Lalki i Aktora",
+      "latitude": 53.174535,
+      "longitude": 22.078655
+    },
+    {
+      "name": "Teatr Lalki i Aktora \"Kubuś\" im. Stefana Karskiego",
+      "latitude": 50.868057,
+      "longitude": 20.627559
+    },
+    {
+      "name": "Teatr Lalki Tęcza",
+      "latitude": 54.466855,
+      "longitude": 17.02981
+    },
+    {
+      "name": "Teatr letni",
+      "latitude": 49.440707,
+      "longitude": 20.43002
+    },
+    {
+      "name": "Teatr Letni",
+      "latitude": 53.336741,
+      "longitude": 15.0405
+    },
+    {
+      "name": "Teatr Letni imienia Heleny Majdaniec",
+      "latitude": 53.445549,
+      "longitude": 14.530776
+    },
+    {
+      "name": "Teatr Leśny",
+      "latitude": 54.372395,
+      "longitude": 18.595221
+    },
+    {
+      "name": "Teatr leśny",
+      "latitude": 54.519474,
+      "longitude": 18.417765
+    },
+    {
+      "name": "Teatr Logos",
+      "latitude": 51.762003,
+      "longitude": 19.444392
+    },
+    {
+      "name": "Teatr Ludowy",
+      "latitude": 50.080414,
+      "longitude": 20.03381
+    },
+    {
+      "name": "Teatr Malabar Hotel",
+      "latitude": 52.215431,
+      "longitude": 21.029728
+    },
+    {
+      "name": "Teatr Maska",
+      "latitude": 50.037687,
+      "longitude": 22.006525
+    },
+    {
+      "name": "Teatr Małego Widza",
+      "latitude": 52.249694,
+      "longitude": 21.013963
+    },
+    {
+      "name": "Teatr Mały",
+      "latitude": 50.128222,
+      "longitude": 18.980528
+    },
+    {
+      "name": "Teatr Mały",
+      "latitude": 51.78055,
+      "longitude": 19.446204
+    },
+    {
+      "name": "Teatr Mały",
+      "latitude": 53.430157,
+      "longitude": 14.543977
+    },
+    {
+      "name": "Teatr Miejski",
+      "latitude": 51.050177,
+      "longitude": 16.193663
+    },
+    {
+      "name": "Teatr Miejski im. Andreasa Gryphiusa",
+      "latitude": 51.663517,
+      "longitude": 16.093954
+    },
+    {
+      "name": "Teatr Miejski w Gdyni im. Witolda Gombrowicza",
+      "latitude": 54.510625,
+      "longitude": 18.539524
+    },
+    {
+      "name": "Teatr Miejski w Gliwicach",
+      "latitude": 50.287466,
+      "longitude": 18.658103
+    },
+    {
+      "name": "Teatr Miejski w Lesznie",
+      "latitude": 51.85032,
+      "longitude": 16.575444
+    },
+    {
+      "name": "Teatr Miniatura",
+      "latitude": 54.375001,
+      "longitude": 18.618049
+    },
+    {
+      "name": "Teatr Muzyczny",
+      "latitude": 51.779915,
+      "longitude": 19.472976
+    },
+    {
+      "name": "Teatr Muzyczny",
+      "latitude": 52.402255,
+      "longitude": 16.923705
+    },
+    {
+      "name": "Teatr Muzyczny \"Roma\"",
+      "latitude": 52.227411,
+      "longitude": 21.007812
+    },
+    {
+      "name": "Teatr Muzyczny Capitol",
+      "latitude": 51.100813,
+      "longitude": 17.030342
+    },
+    {
+      "name": "Teatr Muzyczny im. Danuty Baduszkowej",
+      "latitude": 54.516658,
+      "longitude": 18.545681
+    },
+    {
+      "name": "Teatr Na Bruku",
+      "latitude": 51.057733,
+      "longitude": 17.023287
+    },
+    {
+      "name": "Teatr Na Plaży",
+      "latitude": 54.448533,
+      "longitude": 18.568238
+    },
+    {
+      "name": "Teatr na Wyspie",
+      "latitude": 52.213744,
+      "longitude": 21.036271
+    },
+    {
+      "name": "Teatr na Zamku",
+      "latitude": 51.523807,
+      "longitude": 20.220068
+    },
+    {
+      "name": "Teatr Narodowy",
+      "latitude": 52.243355,
+      "longitude": 21.009684
+    },
+    {
+      "name": "teatr niewielki",
+      "latitude": 52.232439,
+      "longitude": 21.106275
+    },
+    {
+      "name": "Teatr Nowy",
+      "latitude": 50.765488,
+      "longitude": 19.144141
+    },
+    {
+      "name": "Teatr Nowy",
+      "latitude": 52.411241,
+      "longitude": 16.912562
+    },
+    {
+      "name": "Teatr Nowy im. Kazimierza Dejmka",
+      "latitude": 51.772577,
+      "longitude": 19.451905
+    },
+    {
+      "name": "Teatr Nowy Proxima",
+      "latitude": 50.047672,
+      "longitude": 19.943395
+    },
+    {
+      "name": "Teatr Ochoty",
+      "latitude": 52.217181,
+      "longitude": 20.988953
+    },
+    {
+      "name": "Teatr Polski",
+      "latitude": 52.408611,
+      "longitude": 16.923702
+    },
+    {
+      "name": "Teatr Polski",
+      "latitude": 53.433595,
+      "longitude": 14.570554
+    },
+    {
+      "name": "Teatr Polski im. Hieronima Konieczki",
+      "latitude": 53.131245,
+      "longitude": 18.011033
+    },
+    {
+      "name": "Teatr Polski – Scena Kameralna",
+      "latitude": 51.106048,
+      "longitude": 17.032223
+    },
+    {
+      "name": "Teatr Polski – Scena na Świebodzkim",
+      "latitude": 51.108173,
+      "longitude": 17.018939
+    },
+    {
+      "name": "Teatr Powszechny",
+      "latitude": 52.247095,
+      "longitude": 21.048248
+    },
+    {
+      "name": "Teatr Powszechny im. Jana Kochanowskiego w Radomiu",
+      "latitude": 51.404307,
+      "longitude": 21.156096
+    },
+    {
+      "name": "Teatr Propozycji Dialog im. Henryki Rodkiewicz",
+      "latitude": 54.190611,
+      "longitude": 16.185569
+    },
+    {
+      "name": "Teatr Przedmieście",
+      "latitude": 50.032475,
+      "longitude": 21.995651
+    },
+    {
+      "name": "Teatr RAZY DWA",
+      "latitude": 50.298231,
+      "longitude": 16.64952
+    },
+    {
+      "name": "Teatr Rozbark",
+      "latitude": 50.34166,
+      "longitude": 18.929328
+    },
+    {
+      "name": "Teatr Rozrywki",
+      "latitude": 50.296373,
+      "longitude": 18.956486
+    },
+    {
+      "name": "Teatr s.tr.a.c.h.",
+      "latitude": 49.69649,
+      "longitude": 21.754578
+    },
+    {
+      "name": "Teatr Sabat",
+      "latitude": 52.233787,
+      "longitude": 21.020652
+    },
+    {
+      "name": "Teatr Scena STU",
+      "latitude": 50.056413,
+      "longitude": 19.926443
+    },
+    {
+      "name": "Teatr Stary",
+      "latitude": 51.247389,
+      "longitude": 22.5692
+    },
+    {
+      "name": "Teatr Stary",
+      "latitude": 51.264724,
+      "longitude": 15.564278
+    },
+    {
+      "name": "Teatr Studio",
+      "latitude": 52.232637,
+      "longitude": 21.006738
+    },
+    {
+      "name": "Teatr Studyjny PWSFTviT",
+      "latitude": 51.763006,
+      "longitude": 19.451462
+    },
+    {
+      "name": "Teatr Sztuk",
+      "latitude": 50.203647,
+      "longitude": 19.27349
+    },
+    {
+      "name": "Teatr Szwalnia",
+      "latitude": 51.761234,
+      "longitude": 19.43308
+    },
+    {
+      "name": "Teatr Terminus A Quo",
+      "latitude": 51.809489,
+      "longitude": 15.705827
+    },
+    {
+      "name": "Teatr V6",
+      "latitude": 51.76311,
+      "longitude": 19.448146
+    },
+    {
+      "name": "Teatr Variete Muza",
+      "latitude": 54.194762,
+      "longitude": 16.16829
+    },
+    {
+      "name": "Teatr w Michałowie im. K. I. Gałczyńskiego",
+      "latitude": 52.269018,
+      "longitude": 21.380591
+    },
+    {
+      "name": "Teatr w Remizie",
+      "latitude": 54.60573,
+      "longitude": 18.801421
+    },
+    {
+      "name": "Teatr W Stodole",
+      "latitude": 51.264557,
+      "longitude": 16.493076
+    },
+    {
+      "name": "Teatr WAM",
+      "latitude": 52.294452,
+      "longitude": 20.929955
+    },
+    {
+      "name": "Teatr Wielki",
+      "latitude": 52.410222,
+      "longitude": 16.917734
+    },
+    {
+      "name": "Teatr Wierszalin",
+      "latitude": 53.205647,
+      "longitude": 23.336461
+    },
+    {
+      "name": "Teatr Współczesny",
+      "latitude": 53.430002,
+      "longitude": 14.564856
+    },
+    {
+      "name": "Teatr Współczesny w Krakowie",
+      "latitude": 50.057227,
+      "longitude": 19.944227
+    },
+    {
+      "name": "Teatr Wybrzeże",
+      "latitude": 54.35132,
+      "longitude": 18.648761
+    },
+    {
+      "name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej",
+      "latitude": 54.44334,
+      "longitude": 18.565604
+    },
+    {
+      "name": "Teatr Własny",
+      "latitude": 50.288511,
+      "longitude": 18.959422
+    },
+    {
+      "name": "TEATR XL",
+      "latitude": 52.261268,
+      "longitude": 21.029042
+    },
+    {
+      "name": "Teatr Zdrojowy",
+      "latitude": 50.442347,
+      "longitude": 16.245457
+    },
+    {
+      "name": "Teatr Zdrojowy",
+      "latitude": 50.802369,
+      "longitude": 16.25508
+    },
+    {
+      "name": "Teatr Zdrojowy im. M. Ćwiklińskiej",
+      "latitude": 50.408038,
+      "longitude": 16.511359
+    },
+    {
+      "name": "Teatr Ziemi Chełmskiej",
+      "latitude": 51.132357,
+      "longitude": 23.489464
+    },
+    {
+      "name": "Teatr Ziemi Rybnickiej",
+      "latitude": 50.095481,
+      "longitude": 18.545904
+    },
+    {
+      "name": "Teatr Ósmego Dnia",
+      "latitude": 52.408205,
+      "longitude": 16.92539
+    },
+    {
+      "name": "Teatr Łaźnia Nowa",
+      "latitude": 50.07819,
+      "longitude": 20.047957
+    },
+    {
+      "name": "Teatr Śląski im. Stanisława Wyspiańskiego",
+      "latitude": 50.259645,
+      "longitude": 19.022944
+    },
+    {
+      "name": "Teatr Żelazny",
+      "latitude": 50.266257,
+      "longitude": 18.988248
+    },
+    {
+      "name": "Teatr Żydowski",
+      "latitude": 52.242695,
+      "longitude": 21.005365
+    },
+    {
+      "name": "Teatralny Instytut Młodych",
+      "latitude": 50.08018,
+      "longitude": 20.032207
+    },
+    {
+      "name": "Theater am Rand",
+      "latitude": 52.787256,
+      "longitude": 14.247556
+    },
+    {
+      "name": "Theater des Lachens",
+      "latitude": 52.352686,
+      "longitude": 14.55024
+    },
+    {
+      "name": "Toffee Theatre",
+      "latitude": 50.000179,
+      "longitude": 19.403319
+    },
+    {
+      "name": "Topolina",
+      "latitude": 52.324427,
+      "longitude": 23.047496
+    },
+    {
+      "name": "TR Warszawa",
+      "latitude": 52.215031,
+      "longitude": 21.021045
+    },
+    {
+      "name": "TR Warszawa/ATM Studio",
+      "latitude": 52.191559,
+      "longitude": 21.124244
+    },
+    {
+      "name": "Těšínské Divadlo",
+      "latitude": 49.745868,
+      "longitude": 18.612991
+    },
+    {
+      "name": "Warmińsko-Mazurska Filharmonia im. Feliksa Nowowiejskiego",
+      "latitude": 53.780105,
+      "longitude": 20.493111
+    },
+    {
+      "name": "Wiejski ośrodek kultury w Grodzisku",
+      "latitude": 50.860019,
+      "longitude": 18.44335
+    },
+    {
+      "name": "Wioska Artystyczna Janowo",
+      "latitude": 54.03601,
+      "longitude": 14.986396
+    },
+    {
+      "name": "Wrocławski Teatr Komedia",
+      "latitude": 51.104918,
+      "longitude": 17.033026
+    },
+    {
+      "name": "Wrocławski Teatr Lalek",
+      "latitude": 51.105053,
+      "longitude": 17.033054
+    },
+    {
+      "name": "Wrocławski Teatr Pantomimy im. Henryka Tomaszewskiego",
+      "latitude": 51.080464,
+      "longitude": 17.020352
+    },
+    {
+      "name": "Wrocławski Teatr Współczesny",
+      "latitude": 51.112228,
+      "longitude": 17.029241
+    },
+    {
+      "name": "Wrocławskie Centrum Twórczości Dziecka",
+      "latitude": 51.11278,
+      "longitude": 17.034822
+    },
+    {
+      "name": "Współczesny",
+      "latitude": 52.218994,
+      "longitude": 21.01715
+    },
+    {
+      "name": "Zdrojowy Teatr Animacji w Jeleniej Górze imienia Bogdana Nauki",
+      "latitude": 50.863161,
+      "longitude": 15.681306
+    },
+    {
+      "name": "Śląski Teatr Lalki i Aktora \"Ateneum\"",
+      "latitude": 50.258249,
+      "longitude": 19.021838
+    },
+    {
+      "name": "Świdnicki Ośrodek Kultury",
+      "latitude": 50.842474,
+      "longitude": 16.486982
+    },
+    {
+      "name": "Świątynia Petrycha",
+      "latitude": 50.287875,
+      "longitude": 18.986899
+    }
+  ],
+  "meta": {
+    "title": "Polska — teatry - Bezpłatne pobieranie",
+    "description": "Teatry w Polsce (OpenStreetMap) Zawiera 625 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — teatry | ListBase",
+    "seo_description": "Pobierz Polska — teatry — 625 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 625 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

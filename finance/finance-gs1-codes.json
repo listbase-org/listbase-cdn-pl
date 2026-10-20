@@ -1,0 +1,815 @@
+{
+  "id": "finance-gs1-codes",
+  "name": "Zbiór Danych Rejestru Prefiksów Kodów Kreskowych i Krajów GS1",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "prefix_range",
+      "label": "Prefix Range",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country/Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gs1_org",
+      "label": "GS1 Organization",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefix_range": "000-019",
+      "country": "Stany Zjednoczone i Kanada",
+      "gs1_org": "GS1 US",
+      "region": "Ameryka Północna"
+    },
+    {
+      "prefix_range": "020-029",
+      "country": "Dystrybucja ograniczona (zdefiniowana przez MO)",
+      "gs1_org": "-",
+      "region": "Specjalny"
+    },
+    {
+      "prefix_range": "030-039",
+      "country": "Stany Zjednoczone (leki)",
+      "gs1_org": "GS1 US",
+      "region": "Ameryka Północna"
+    },
+    {
+      "prefix_range": "040-049",
+      "country": "Dystrybucja ograniczona (zdefiniowana przez MO)",
+      "gs1_org": "-",
+      "region": "Specjalny"
+    },
+    {
+      "prefix_range": "050-059",
+      "country": "Kupony",
+      "gs1_org": "GS1 US",
+      "region": "Specjalny"
+    },
+    {
+      "prefix_range": "060-099",
+      "country": "Stany Zjednoczone i Kanada",
+      "gs1_org": "GS1 US/GS1 Canada",
+      "region": "Ameryka Północna"
+    },
+    {
+      "prefix_range": "100-139",
+      "country": "Stany Zjednoczone",
+      "gs1_org": "GS1 US",
+      "region": "Ameryka Północna"
+    },
+    {
+      "prefix_range": "300-379",
+      "country": "Francja i Monako",
+      "gs1_org": "GS1 France",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "380",
+      "country": "Bułgaria",
+      "gs1_org": "GS1 Bulgaria",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "383",
+      "country": "Słowenia",
+      "gs1_org": "GS1 Slovenia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "385",
+      "country": "Chorwacja",
+      "gs1_org": "GS1 Croatia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "387",
+      "country": "Bośnia i Hercegowina",
+      "gs1_org": "GS1 BIH",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "389",
+      "country": "Czarnogóra",
+      "gs1_org": "GS1 Montenegro",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "400-440",
+      "country": "Niemcy",
+      "gs1_org": "GS1 Germany",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "450-459",
+      "country": "Japonia",
+      "gs1_org": "GS1 Japan",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "460-469",
+      "country": "Rosja",
+      "gs1_org": "GS1 Russia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "470",
+      "country": "Kirgistan",
+      "gs1_org": "GS1 Kyrgyzstan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "471",
+      "country": "Tajwan",
+      "gs1_org": "GS1 Taiwan",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "474",
+      "country": "Estonia",
+      "gs1_org": "GS1 Estonia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "475",
+      "country": "Łotwa",
+      "gs1_org": "GS1 Latvia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "476",
+      "country": "Azerbejdżan",
+      "gs1_org": "GS1 Azerbaijan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "477",
+      "country": "Litwa",
+      "gs1_org": "GS1 Lithuania",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "478",
+      "country": "Uzbekistan",
+      "gs1_org": "GS1 Uzbekistan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "479",
+      "country": "Sri Lanka",
+      "gs1_org": "GS1 Sri Lanka",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "480",
+      "country": "Filipiny",
+      "gs1_org": "GS1 Philippines",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "481",
+      "country": "Białoruś",
+      "gs1_org": "GS1 Belarus",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "482",
+      "country": "Ukraina",
+      "gs1_org": "GS1 Ukraine",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "483",
+      "country": "Turkmenistan",
+      "gs1_org": "GS1 Turkmenistan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "484",
+      "country": "Mołdawia",
+      "gs1_org": "GS1 Moldova",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "485",
+      "country": "Armenia",
+      "gs1_org": "GS1 Armenia",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "486",
+      "country": "Gruzja",
+      "gs1_org": "GS1 Georgia",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "487",
+      "country": "Kazachstan",
+      "gs1_org": "GS1 Kazakhstan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "488",
+      "country": "Tadżykistan",
+      "gs1_org": "GS1 Tajikistan",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "489",
+      "country": "Hongkong",
+      "gs1_org": "GS1 Hong Kong",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "490-499",
+      "country": "Japonia",
+      "gs1_org": "GS1 Japan",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "500-509",
+      "country": "Wielka Brytania",
+      "gs1_org": "GS1 UK",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "520-521",
+      "country": "Grecja",
+      "gs1_org": "GS1 Greece",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "528",
+      "country": "Liban",
+      "gs1_org": "GS1 Lebanon",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "529",
+      "country": "Cypr",
+      "gs1_org": "GS1 Cyprus",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "530",
+      "country": "Albania",
+      "gs1_org": "GS1 Albania",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "531",
+      "country": "Macedonia Północna",
+      "gs1_org": "GS1 Macedonia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "535",
+      "country": "Malta",
+      "gs1_org": "GS1 Malta",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "539",
+      "country": "Irlandia",
+      "gs1_org": "GS1 Ireland",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "540-549",
+      "country": "Belgia i Luksemburg",
+      "gs1_org": "GS1 Belgium & Luxembourg",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "560",
+      "country": "Portugalia",
+      "gs1_org": "GS1 Portugal",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "569",
+      "country": "Islandia",
+      "gs1_org": "GS1 Iceland",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "570-579",
+      "country": "Dania, Wyspy Owcze, Grenlandia",
+      "gs1_org": "GS1 Denmark",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "590",
+      "country": "Polska",
+      "gs1_org": "GS1 Poland",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "594",
+      "country": "Rumunia",
+      "gs1_org": "GS1 Romania",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "599",
+      "country": "Węgry",
+      "gs1_org": "GS1 Hungary",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "600-601",
+      "country": "Republika Południowej Afryki",
+      "gs1_org": "GS1 South Africa",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "603",
+      "country": "Ghana",
+      "gs1_org": "GS1 Ghana",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "604",
+      "country": "Senegal",
+      "gs1_org": "GS1 Senegal",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "608",
+      "country": "Bahrajn",
+      "gs1_org": "GS1 Bahrain",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "609",
+      "country": "Mauritius",
+      "gs1_org": "GS1 Mauritius",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "611",
+      "country": "Maroko",
+      "gs1_org": "GS1 Morocco",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "613",
+      "country": "Algieria",
+      "gs1_org": "GS1 Algeria",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "615",
+      "country": "Nigeria",
+      "gs1_org": "GS1 Nigeria",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "616",
+      "country": "Kenia",
+      "gs1_org": "GS1 Kenya",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "617",
+      "country": "Kamerun",
+      "gs1_org": "GS1 Cameroon",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "618",
+      "country": "Wybrzeże Kości Słoniowej",
+      "gs1_org": "GS1 Ivory Coast",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "619",
+      "country": "Tunezja",
+      "gs1_org": "GS1 Tunisia",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "620",
+      "country": "Tanzania",
+      "gs1_org": "GS1 Tanzania",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "621",
+      "country": "Syria",
+      "gs1_org": "GS1 Syria",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "622",
+      "country": "Egipt",
+      "gs1_org": "GS1 Egypt",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "623",
+      "country": "Brunei",
+      "gs1_org": "GS1 Brunei",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "624",
+      "country": "Libia",
+      "gs1_org": "GS1 Libya",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "625",
+      "country": "Jordania",
+      "gs1_org": "GS1 Jordan",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "626",
+      "country": "Iran",
+      "gs1_org": "GS1 Iran",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "627",
+      "country": "Kuwejt",
+      "gs1_org": "GS1 Kuwait",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "628",
+      "country": "Arabia Saudyjska",
+      "gs1_org": "GS1 Saudi Arabia",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "629",
+      "country": "Zjednoczone Emiraty Arabskie",
+      "gs1_org": "GS1 UAE",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "630",
+      "country": "Katar",
+      "gs1_org": "GS1 Qatar",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "631",
+      "country": "Namibia",
+      "gs1_org": "GS1 Namibia",
+      "region": "Afryka"
+    },
+    {
+      "prefix_range": "640-649",
+      "country": "Finlandia",
+      "gs1_org": "GS1 Finland",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "690-699",
+      "country": "Chiny",
+      "gs1_org": "GS1 China",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "700-709",
+      "country": "Norwegia",
+      "gs1_org": "GS1 Norway",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "729",
+      "country": "Izrael",
+      "gs1_org": "GS1 Israel",
+      "region": "Bliski Wschód"
+    },
+    {
+      "prefix_range": "730-739",
+      "country": "Szwecja",
+      "gs1_org": "GS1 Sweden",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "740",
+      "country": "Gwatemala",
+      "gs1_org": "GS1 Guatemala",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "741",
+      "country": "Salwador",
+      "gs1_org": "GS1 El Salvador",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "742",
+      "country": "Honduras",
+      "gs1_org": "GS1 Honduras",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "743",
+      "country": "Nikaragua",
+      "gs1_org": "GS1 Nicaragua",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "744",
+      "country": "Kostaryka",
+      "gs1_org": "GS1 Costa Rica",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "745",
+      "country": "Panama",
+      "gs1_org": "GS1 Panama",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "746",
+      "country": "Dominikana",
+      "gs1_org": "GS1 Dominican Republic",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "750",
+      "country": "Meksyk",
+      "gs1_org": "GS1 Mexico",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "754-755",
+      "country": "Kanada",
+      "gs1_org": "GS1 Canada",
+      "region": "Ameryka Północna"
+    },
+    {
+      "prefix_range": "759",
+      "country": "Wenezuela",
+      "gs1_org": "GS1 Venezuela",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "760-769",
+      "country": "Szwajcaria i Liechtenstein",
+      "gs1_org": "GS1 Switzerland",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "770-771",
+      "country": "Kolumbia",
+      "gs1_org": "GS1 Colombia",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "773",
+      "country": "Urugwaj",
+      "gs1_org": "GS1 Uruguay",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "775",
+      "country": "Peru",
+      "gs1_org": "GS1 Peru",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "777",
+      "country": "Boliwia",
+      "gs1_org": "GS1 Bolivia",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "778-779",
+      "country": "Argentyna",
+      "gs1_org": "GS1 Argentina",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "780",
+      "country": "Chile",
+      "gs1_org": "GS1 Chile",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "784",
+      "country": "Paragwaj",
+      "gs1_org": "GS1 Paraguay",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "786",
+      "country": "Ekwador",
+      "gs1_org": "GS1 Ecuador",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "789-790",
+      "country": "Brazylia",
+      "gs1_org": "GS1 Brazil",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "800-839",
+      "country": "Włochy, San Marino, Watykan",
+      "gs1_org": "GS1 Italy",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "840-849",
+      "country": "Hiszpania i Andora",
+      "gs1_org": "GS1 Spain",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "850",
+      "country": "Kuba",
+      "gs1_org": "GS1 Cuba",
+      "region": "Ameryki"
+    },
+    {
+      "prefix_range": "858",
+      "country": "Słowacja",
+      "gs1_org": "GS1 Slovakia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "859",
+      "country": "Czechy",
+      "gs1_org": "GS1 Czech Republic",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "860",
+      "country": "Serbia",
+      "gs1_org": "GS1 Serbia",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "865",
+      "country": "Mongolia",
+      "gs1_org": "GS1 Mongolia",
+      "region": "Azja"
+    },
+    {
+      "prefix_range": "867",
+      "country": "Korea Północna",
+      "gs1_org": "GS1 DPRK",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "868-869",
+      "country": "Turcja",
+      "gs1_org": "GS1 Turkey",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "870-879",
+      "country": "Niderlandy",
+      "gs1_org": "GS1 Netherlands",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "880",
+      "country": "Korea Południowa",
+      "gs1_org": "GS1 South Korea",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "883",
+      "country": "Mjanma",
+      "gs1_org": "GS1 Myanmar",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "884",
+      "country": "Kambodża",
+      "gs1_org": "GS1 Cambodia",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "885",
+      "country": "Tajlandia",
+      "gs1_org": "GS1 Thailand",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "888",
+      "country": "Singapur",
+      "gs1_org": "GS1 Singapore",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "890",
+      "country": "Indie",
+      "gs1_org": "GS1 India",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "893",
+      "country": "Wietnam",
+      "gs1_org": "GS1 Vietnam",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "894",
+      "country": "Bangladesz",
+      "gs1_org": "GS1 Bangladesh",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "896",
+      "country": "Pakistan",
+      "gs1_org": "GS1 Pakistan",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "899",
+      "country": "Indonezja",
+      "gs1_org": "GS1 Indonesia",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "900-919",
+      "country": "Austria",
+      "gs1_org": "GS1 Austria",
+      "region": "Europa"
+    },
+    {
+      "prefix_range": "930-939",
+      "country": "Australia",
+      "gs1_org": "GS1 Australia",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "940-949",
+      "country": "Nowa Zelandia",
+      "gs1_org": "GS1 New Zealand",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "950",
+      "country": "Globalne Biuro GS1",
+      "gs1_org": "GS1 Global",
+      "region": "Globalny"
+    },
+    {
+      "prefix_range": "951",
+      "country": "Globalne Biuro GS1 (EPCglobal)",
+      "gs1_org": "GS1 Global",
+      "region": "Globalny"
+    },
+    {
+      "prefix_range": "955",
+      "country": "Malezja",
+      "gs1_org": "GS1 Malaysia",
+      "region": "Azja-Pacyfik"
+    },
+    {
+      "prefix_range": "958",
+      "country": "Makau",
+      "gs1_org": "GS1 Macau",
+      "region": "Azja-Pacyfik"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kody Krajów & Prefiksy GS1 - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo 126 prefiksów kodów kreskowych GS1, kodów krajów i regionów. Dostępne w Excel, CSV i PDF do analizy łańcucha dostaw.",
+    "title": "Zbiór Danych Rejestru Prefiksów Kodów Kreskowych i Krajów GS1",
+    "description": "Ten zbiór danych zawiera kompleksową listę 126 zakresów prefiksów kodów kreskowych GS1, szczegółowo określając powiązane kraje, regiony i odpowiedzialne organizacje GS1. Idealny do zrozumienia globalnych standardów identyfikacji produktów.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 126 prefiksów kodów kreskowych GS1 przypisanych do krajów i regionów.",
+      "Przeglądaj globalny przydział kodów kreskowych do identyfikacji produktów.",
+      "Pobierz kluczowe dane do zarządzania łańcuchem dostaw i zgodności.",
+      "Zidentyfikuj organizację GS1 odpowiedzialną za konkretne zakresy kodów kreskowych."
+    ],
+    "keywords": [
+      "Prefiksy GS1",
+      "kody kreskowe kraje",
+      "lista prefiksów GS1",
+      "dane GS1 organizacje",
+      "kody kreskowe excel",
+      "globalne kody produktów"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub zintegruj ze skryptami Python do automatycznego wyszukiwania i walidacji kodów kreskowych.",
+      "Użyj pliku **Excel** do filtrowania według kraju lub regionu, analizy rozkładu prefiksów lub przygotowywania raportów dotyczących globalnych standardów kodów kreskowych.",
+      "Wydrukuj wersję **PDF** jako szybki przewodnik po kodach krajów GS1 w magazynie logistycznym lub do materiałów szkoleniowych.",
+      "Wykorzystaj ten zbiór danych do ulepszenia walidacji danych produktów na platformie e-commerce lub usprawnienia zgodności z międzynarodowymi przepisami wysyłkowymi."
+    ]
+  },
+  "record_count": 126,
+  "title": "Zbiór Danych Rejestru Prefiksów Kodów Kreskowych i Krajów GS1"
+}

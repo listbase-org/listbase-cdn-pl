@@ -1,0 +1,480 @@
+{
+  "id": "geo-india-states",
+  "name": "Kompleksowy Zestaw Danych o Stanach i Terytoriach Związkowych Indii",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_hi",
+      "label": "Name (Hindi)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    },
+    {
+      "key": "languages",
+      "label": "Official Languages (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Andhra Pradesh",
+      "name_hi": "आंध्र प्रदेश",
+      "capital": "Amaravati",
+      "type": "Stan",
+      "region": "Południowe Indie",
+      "iso_code": "IN-AP",
+      "population": 49577103,
+      "area_km2": 162975,
+      "languages": "telugu"
+    },
+    {
+      "name_en": "Arunachal Pradesh",
+      "name_hi": "अरुणाचल प्रदेश",
+      "capital": "Itanagar",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-AR",
+      "population": 1383727,
+      "area_km2": 83743,
+      "languages": "angielski, hindi"
+    },
+    {
+      "name_en": "Assam",
+      "name_hi": "असम",
+      "capital": "Dispur",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-AS",
+      "population": 31205576,
+      "area_km2": 78438,
+      "languages": "asamski"
+    },
+    {
+      "name_en": "Bihar",
+      "name_hi": "बिहार",
+      "capital": "Patna",
+      "type": "Stan",
+      "region": "Wschodnie Indie",
+      "iso_code": "IN-BR",
+      "population": 104099452,
+      "area_km2": 94163,
+      "languages": "hindi"
+    },
+    {
+      "name_en": "Chhattisgarh",
+      "name_hi": "छत्तीसगढ़",
+      "capital": "Raipur",
+      "type": "Stan",
+      "region": "Centralne Indie",
+      "iso_code": "IN-CT",
+      "population": 25545198,
+      "area_km2": 135192,
+      "languages": "hindi, chhattisgarhi"
+    },
+    {
+      "name_en": "Goa",
+      "name_hi": "गोवा",
+      "capital": "Panaji",
+      "type": "Stan",
+      "region": "Zachodnie Indie",
+      "iso_code": "IN-GA",
+      "population": 1458545,
+      "area_km2": 3702,
+      "languages": "konkani"
+    },
+    {
+      "name_en": "Gujarat",
+      "name_hi": "गुजरात",
+      "capital": "Gandhinagar",
+      "type": "Stan",
+      "region": "Zachodnie Indie",
+      "iso_code": "IN-GJ",
+      "population": 60439692,
+      "area_km2": 196024,
+      "languages": "gudżarati"
+    },
+    {
+      "name_en": "Haryana",
+      "name_hi": "हरियाणा",
+      "capital": "Chandigarh",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-HR",
+      "population": 25351462,
+      "area_km2": 44212,
+      "languages": "hindi"
+    },
+    {
+      "name_en": "Himachal Pradesh",
+      "name_hi": "हिमाचल प्रदेश",
+      "capital": "Shimla",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-HP",
+      "population": 6864602,
+      "area_km2": 55673,
+      "languages": "hindi"
+    },
+    {
+      "name_en": "Jharkhand",
+      "name_hi": "झारखंड",
+      "capital": "Ranchi",
+      "type": "Stan",
+      "region": "Wschodnie Indie",
+      "iso_code": "IN-JH",
+      "population": 32988134,
+      "area_km2": 79716,
+      "languages": "hindi"
+    },
+    {
+      "name_en": "Karnataka",
+      "name_hi": "कर्नाटक",
+      "capital": "Bengaluru",
+      "type": "Stan",
+      "region": "Południowe Indie",
+      "iso_code": "IN-KA",
+      "population": 61095297,
+      "area_km2": 191791,
+      "languages": "kannada"
+    },
+    {
+      "name_en": "Kerala",
+      "name_hi": "केरल",
+      "capital": "Thiruvananthapuram",
+      "type": "Stan",
+      "region": "Południowe Indie",
+      "iso_code": "IN-KL",
+      "population": 33406061,
+      "area_km2": 38852,
+      "languages": "malajalam"
+    },
+    {
+      "name_en": "Madhya Pradesh",
+      "name_hi": "मध्य प्रदेश",
+      "capital": "Bhopal",
+      "type": "Stan",
+      "region": "Centralne Indie",
+      "iso_code": "IN-MP",
+      "population": 72626809,
+      "area_km2": 308252,
+      "languages": "hindi"
+    },
+    {
+      "name_en": "Maharashtra",
+      "name_hi": "महाराष्ट्र",
+      "capital": "Mumbai",
+      "type": "Stan",
+      "region": "Zachodnie Indie",
+      "iso_code": "IN-MH",
+      "population": 112374333,
+      "area_km2": 307713,
+      "languages": "marathi"
+    },
+    {
+      "name_en": "Manipur",
+      "name_hi": "मणिपुर",
+      "capital": "Imphal",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-MN",
+      "population": 2855794,
+      "area_km2": 22327,
+      "languages": "meitei"
+    },
+    {
+      "name_en": "Meghalaya",
+      "name_hi": "मेघालय",
+      "capital": "Shillong",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-ML",
+      "population": 2966889,
+      "area_km2": 22429,
+      "languages": "angielski, khasi"
+    },
+    {
+      "name_en": "Mizoram",
+      "name_hi": "मिज़ोरम",
+      "capital": "Aizawl",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-MZ",
+      "population": 1097206,
+      "area_km2": 21081,
+      "languages": "mizo, angielski"
+    },
+    {
+      "name_en": "Nagaland",
+      "name_hi": "नागालैंड",
+      "capital": "Kohima",
+      "type": "Stan",
+      "region": "Północno-Wschodnie Indie",
+      "iso_code": "IN-NL",
+      "population": 1978502,
+      "area_km2": 16579,
+      "languages": "angielski"
+    },
+    {
+      "name_en": "Odisha",
+      "name_hi": "ओडिशा",
+      "capital": "Bhubaneswar",
+      "type": "Stan",
+      "region": "Wschodnie Indie",
+      "iso_code": "IN-OR",
+      "population": 41974218,
+      "area_km2": 155707,
+      "languages": "orija"
+    },
+    {
+      "name_en": "Punjab",
+      "name_hi": "पंजाब",
+      "capital": "Chandigarh",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-PB",
+      "population": 27743338,
+      "area_km2": 50362,
+      "languages": "pendżabski"
+    },
+    {
+      "name_en": "Radżastan",
+      "name_hi": "राजस्थान",
+      "capital": "Dźajpur",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-RJ",
+      "population": 68548437,
+      "area_km2": 342239,
+      "languages": "Hindi"
+    },
+    {
+      "name_en": "Sikkim",
+      "name_hi": "सिक्किम",
+      "capital": "Gangtok",
+      "type": "Stan",
+      "region": "Północno-wschodnie Indie",
+      "iso_code": "IN-SK",
+      "population": 610577,
+      "area_km2": 7096,
+      "languages": "Angielski, Nepalski"
+    },
+    {
+      "name_en": "Tamilnadu",
+      "name_hi": "तमिलनाडु",
+      "capital": "Ćennaj",
+      "type": "Stan",
+      "region": "Południowe Indie",
+      "iso_code": "IN-TN",
+      "population": 72147030,
+      "area_km2": 130060,
+      "languages": "Tamilski"
+    },
+    {
+      "name_en": "Telangana",
+      "name_hi": "तेलंगाना",
+      "capital": "Hajdarabad",
+      "type": "Stan",
+      "region": "Południowe Indie",
+      "iso_code": "IN-TG",
+      "population": 35003674,
+      "area_km2": 112077,
+      "languages": "Telugu, Urdu"
+    },
+    {
+      "name_en": "Tripura",
+      "name_hi": "त्रिपुरा",
+      "capital": "Agartala",
+      "type": "Stan",
+      "region": "Północno-wschodnie Indie",
+      "iso_code": "IN-TR",
+      "population": 3673917,
+      "area_km2": 10486,
+      "languages": "Bengalski, Kokborok"
+    },
+    {
+      "name_en": "Uttar Pradesh",
+      "name_hi": "उत्तर प्रदेश",
+      "capital": "Lucknow",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-UP",
+      "population": 199812341,
+      "area_km2": 240928,
+      "languages": "Hindi"
+    },
+    {
+      "name_en": "Uttarakhand",
+      "name_hi": "उत्तराखंड",
+      "capital": "Dehradun",
+      "type": "Stan",
+      "region": "Północne Indie",
+      "iso_code": "IN-UT",
+      "population": 10086292,
+      "area_km2": 53483,
+      "languages": "Hindi"
+    },
+    {
+      "name_en": "Bengal Zachodni",
+      "name_hi": "पश्चिम बंगाल",
+      "capital": "Kalkuta",
+      "type": "Stan",
+      "region": "Wschodnie Indie",
+      "iso_code": "IN-WB",
+      "population": 91276115,
+      "area_km2": 88752,
+      "languages": "Bengalski"
+    },
+    {
+      "name_en": "Andamany i Nikobary",
+      "name_hi": "अंडमान और निकोबार द्वीपसमूह",
+      "capital": "Port Blair",
+      "type": "Terytorium Związkowe",
+      "region": "Wyspy",
+      "iso_code": "IN-AN",
+      "population": 380581,
+      "area_km2": 8249,
+      "languages": "Hindi, Angielski"
+    },
+    {
+      "name_en": "Czandigarh",
+      "name_hi": "चंडीगढ़",
+      "capital": "Czandigarh",
+      "type": "Terytorium Związkowe",
+      "region": "Północne Indie",
+      "iso_code": "IN-CH",
+      "population": 1055450,
+      "area_km2": 114,
+      "languages": "Hindi, Pendżabski"
+    },
+    {
+      "name_en": "Dadra i Nagar Haweli oraz Daman i Diu",
+      "name_hi": "दादरा और नगर हवेली और दमन और दीव",
+      "capital": "Daman",
+      "type": "Terytorium Związkowe",
+      "region": "Zachodnie Indie",
+      "iso_code": "IN-DH",
+      "population": 585764,
+      "area_km2": 603,
+      "languages": "Gudżarati, Hindi"
+    },
+    {
+      "name_en": "Delhi",
+      "name_hi": "दिल्ली",
+      "capital": "Nowe Delhi",
+      "type": "Terytorium Związkowe",
+      "region": "Północne Indie",
+      "iso_code": "IN-DL",
+      "population": 16787941,
+      "area_km2": 1484,
+      "languages": "Hindi, Angielski"
+    },
+    {
+      "name_en": "Dżammu i Kaszmir",
+      "name_hi": "जम्मू और कश्मीर",
+      "capital": "Srinagar (lato), Dżammu (zima)",
+      "type": "Terytorium Związkowe",
+      "region": "Północne Indie",
+      "iso_code": "IN-JK",
+      "population": 12267032,
+      "area_km2": 42241,
+      "languages": "Urdu, Hindi"
+    },
+    {
+      "name_en": "Ladakh",
+      "name_hi": "लद्दाख",
+      "capital": "Leh",
+      "type": "Terytorium Związkowe",
+      "region": "Północne Indie",
+      "iso_code": "IN-LA",
+      "population": 274000,
+      "area_km2": 59146,
+      "languages": "Ladakhi, Hindi"
+    },
+    {
+      "name_en": "Lakszadiwy",
+      "name_hi": "लक्षद्वीप",
+      "capital": "Kavaratti",
+      "type": "Terytorium Związkowe",
+      "region": "Wyspy",
+      "iso_code": "IN-LD",
+      "population": 64473,
+      "area_km2": 32,
+      "languages": "Malajalam"
+    },
+    {
+      "name_en": "Puducherry",
+      "name_hi": "पुडुचेरी",
+      "capital": "Puducherry",
+      "type": "Terytorium Związkowe",
+      "region": "Południowe Indie",
+      "iso_code": "IN-PY",
+      "population": 1247953,
+      "area_km2": 479,
+      "languages": "Tamilski, Francuski"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane Stanów i Terytoriów Indii - Darmowe Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Darmowe pobieranie danych 36 stanów i Terytoriów Związkowych Indii, w tym stolic, populacji, powierzchni i języków. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Kompleksowy Zestaw Danych o Stanach i Terytoriach Związkowych Indii",
+    "description": "Ten zestaw danych zawiera szczegółowe informacje o wszystkich 36 stanach i terytoriach związkowych Indii, w tym ich nazwy angielskie i hindi, stolice, typ, region, kody ISO, populację, powierzchnię i języki urzędowe.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do aktualnych informacji o wszystkich 36 stanach i terytoriach związkowych Indii.",
+      "Przeglądaj kluczowe dane demograficzne i geograficzne, takie jak populacja, powierzchnia i języki urzędowe.",
+      "Pobierz pełne informacje o stolicach, regionach i kodach ISO dla każdego podziału administracyjnego.",
+      "Wykorzystaj ustrukturyzowane dane do projektów edukacyjnych, badawczych lub rozwojowych."
+    ],
+    "keywords": [
+      "dane stany indii",
+      "lista terytoriów związkowych",
+      "stolice indii",
+      "dane demograficzne indii",
+      "kody iso indii",
+      "pobierz dane indii csv"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Python, aby wspomóc analizę danych geograficznych i rozwój aplikacji.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania danych według regionu lub wykonywania funkcji WYSZUKAJ.PIONOWO (VLOOKUP) dla szybkich raportów analitycznych dotyczących podziałów administracyjnych Indii.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, prezentacji edukacyjnych lub badań geograficznych offline dotyczących stanów i terytoriów związkowych Indii.",
+      "Analizuj dane dotyczące populacji i powierzchni w celu przeprowadzenia badań porównawczych nad rozwojem regionalnym i planowaniem urbanistycznym w całych Indiach."
+    ]
+  },
+  "record_count": 36,
+  "title": "Kompleksowy Zestaw Danych o Stanach i Terytoriach Związkowych Indii"
+}

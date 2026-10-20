@@ -1,0 +1,608 @@
+{
+  "id": "pl-city-counties",
+  "name": "Polska — miasta na prawach powiatu",
+  "title": "Polska — miasta na prawach powiatu",
+  "description": "Lista 69 polskich miast na prawach powiatu — miast posiadających jednocześnie status gminy i powiatu. Obejmuje wszystkie miasta wojewódzkie oraz wybrane miasta o znaczeniu regionalnym (Warszawa, Kraków, Wrocław, Łódź, Poznań, Gdańsk, …). W tym źródle 69 miast (z 66 oficjalnych miast na prawach powiatu wg stanu z 2024 r. — źródło zawiera 3 dodatkowe pozycje sprzed reform). Bez przypisania do województwa na poziomie źródła; współrzędne lat/lng zachowane. List of 69 Polish city-counties (cities with both gmina and powiat status), including all voivodeship capitals plus other regionally-significant cities. The source omits voivodeship mapping for these — coordinates are preserved.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 191,
+      "name": "Biała Podlaska",
+      "slug": "biala-podlaska",
+      "name_locative": "Białej Podlaskiej",
+      "latitude": 52.02970065,
+      "longitude": 23.14970244
+    },
+    {
+      "city_id": 563,
+      "name": "Białystok",
+      "slug": "bialystok",
+      "name_locative": "Białymstoku 1)Białystoku 2)",
+      "latitude": 53.12750505,
+      "longitude": 23.14705087
+    },
+    {
+      "city_id": 660,
+      "name": "Bielsko-Biała",
+      "slug": "bielsko-biala",
+      "name_locative": "Bielsku-Białej",
+      "latitude": 49.81207845,
+      "longitude": 19.0291988
+    },
+    {
+      "city_id": 141,
+      "name": "Bydgoszcz",
+      "slug": "bydgoszcz",
+      "name_locative": "Bydgoszczy",
+      "latitude": 53.12974625,
+      "longitude": 18.02936966
+    },
+    {
+      "city_id": 661,
+      "name": "Bytom",
+      "slug": "bytom",
+      "name_locative": "Bytomiu",
+      "latitude": 50.3657432,
+      "longitude": 18.87153252
+    },
+    {
+      "city_id": 192,
+      "name": "Chełm",
+      "slug": "chelm",
+      "name_locative": "Chełmie",
+      "latitude": 51.13558825,
+      "longitude": 23.49393695
+    },
+    {
+      "city_id": 662,
+      "name": "Chorzów",
+      "slug": "chorzow",
+      "name_locative": "Chorzowie",
+      "latitude": 50.2885563,
+      "longitude": 18.97044253
+    },
+    {
+      "city_id": 663,
+      "name": "Częstochowa",
+      "slug": "czestochowa",
+      "name_locative": "Częstochowie",
+      "latitude": 50.8120466,
+      "longitude": 19.113213
+    },
+    {
+      "city_id": 664,
+      "name": "Dąbrowa Górnicza",
+      "slug": "dabrowa-gornicza",
+      "name_locative": "Dąbrowie Górniczej",
+      "latitude": 50.3308692,
+      "longitude": 19.2078918
+    },
+    {
+      "city_id": 772,
+      "name": "Elbląg",
+      "slug": "elblag",
+      "name_locative": "Elblągu",
+      "latitude": 54.1988997,
+      "longitude": 19.44108569
+    },
+    {
+      "city_id": 604,
+      "name": "Gdańsk",
+      "slug": "gdansk",
+      "name_locative": "Gdańsku",
+      "latitude": 54.3482908,
+      "longitude": 18.6540231
+    },
+    {
+      "city_id": 605,
+      "name": "Gdynia",
+      "slug": "gdynia",
+      "name_locative": "Gdyni",
+      "latitude": 54.50383255,
+      "longitude": 18.46280616
+    },
+    {
+      "city_id": 665,
+      "name": "Gliwice",
+      "slug": "gliwice",
+      "name_locative": "Gliwicach",
+      "latitude": 50.30113145,
+      "longitude": 18.66234723
+    },
+    {
+      "city_id": 236,
+      "name": "Gorzów Wielkopolski",
+      "slug": "gorzow-wielkopolski",
+      "name_locative": "Gorzowie Wielkopolskim",
+      "latitude": 52.73057555,
+      "longitude": 15.21075532
+    },
+    {
+      "city_id": 142,
+      "name": "Grudziądz",
+      "slug": "grudziadz",
+      "name_locative": "Grudziądzu",
+      "latitude": 53.47251195,
+      "longitude": 18.76189368
+    },
+    {
+      "city_id": 666,
+      "name": "Jastrzębie-Zdrój",
+      "slug": "jastrzebie-zdroj",
+      "name_locative": "Jastrzębiu-Zdroju",
+      "latitude": 49.96067945,
+      "longitude": 18.59936759
+    },
+    {
+      "city_id": 667,
+      "name": "Jaworzno",
+      "slug": "jaworzno",
+      "name_locative": "Jaworznie",
+      "latitude": 50.203439,
+      "longitude": 19.2721559
+    },
+    {
+      "city_id": 89,
+      "name": "Jelenia Góra",
+      "slug": "jelenia-gora",
+      "name_locative": "Jeleniej Górze",
+      "latitude": 50.8501049,
+      "longitude": 15.65374924
+    },
+    {
+      "city_id": 885,
+      "name": "Kalisz",
+      "slug": "kalisz",
+      "name_locative": "Kaliszu",
+      "latitude": 51.74736505,
+      "longitude": 18.07959009
+    },
+    {
+      "city_id": 668,
+      "name": "Katowice",
+      "slug": "katowice",
+      "name_locative": "Katowicach",
+      "latitude": 50.2598987,
+      "longitude": 19.0215852
+    },
+    {
+      "city_id": 723,
+      "name": "Kielce",
+      "slug": "kielce",
+      "name_locative": "Kielcach",
+      "latitude": 50.85403585,
+      "longitude": 20.60991435
+    },
+    {
+      "city_id": 886,
+      "name": "Konin",
+      "slug": "konin",
+      "name_locative": "Koninie",
+      "latitude": 52.25590205,
+      "longitude": 18.26786621
+    },
+    {
+      "city_id": 952,
+      "name": "Koszalin",
+      "slug": "koszalin",
+      "name_locative": "Koszalinie",
+      "latitude": 54.20727105,
+      "longitude": 16.21753077
+    },
+    {
+      "city_id": 343,
+      "name": "Kraków",
+      "slug": "krakow",
+      "name_locative": "Krakowie",
+      "latitude": 50.0469432,
+      "longitude": 19.99715344
+    },
+    {
+      "city_id": 522,
+      "name": "Krosno",
+      "slug": "krosno",
+      "name_locative": "Krośnie",
+      "latitude": 49.68898435,
+      "longitude": 21.7534788
+    },
+    {
+      "city_id": 90,
+      "name": "Legnica",
+      "slug": "legnica",
+      "name_locative": "Legnicy",
+      "latitude": 51.2047689,
+      "longitude": 16.17467503
+    },
+    {
+      "city_id": 887,
+      "name": "Leszno",
+      "slug": "leszno",
+      "name_locative": "Lesznie",
+      "latitude": 51.8436068,
+      "longitude": 16.58042182
+    },
+    {
+      "city_id": 193,
+      "name": "Lublin",
+      "slug": "lublin",
+      "name_locative": "Lublinie",
+      "latitude": 51.2181945,
+      "longitude": 22.55467757
+    },
+    {
+      "city_id": 431,
+      "name": "Mszczonów",
+      "slug": "mszczonow",
+      "name_locative": "Mszczonowie",
+      "latitude": 51.9740309,
+      "longitude": 20.5126683
+    },
+    {
+      "city_id": 669,
+      "name": "Mysłowice",
+      "slug": "myslowice",
+      "name_locative": "Mysłowicach",
+      "latitude": 50.2096211,
+      "longitude": 19.132166
+    },
+    {
+      "city_id": 344,
+      "name": "Nowy Sącz",
+      "slug": "nowy-sacz",
+      "name_locative": "Nowym Sączu",
+      "latitude": 49.61030395,
+      "longitude": 20.71595521
+    },
+    {
+      "city_id": 773,
+      "name": "Olsztyn",
+      "slug": "olsztyn",
+      "name_locative": "Olsztynie",
+      "latitude": 53.7767239,
+      "longitude": 20.47778129
+    },
+    {
+      "city_id": 473,
+      "name": "Opole",
+      "slug": "opole",
+      "name_locative": "Opolu",
+      "latitude": 50.6787929,
+      "longitude": 17.92988444
+    },
+    {
+      "city_id": 433,
+      "name": "Ostrołęka",
+      "slug": "ostroleka",
+      "name_locative": "Ostrołęce",
+      "latitude": 53.07803115,
+      "longitude": 21.57486823
+    },
+    {
+      "city_id": 670,
+      "name": "Piekary Śląskie",
+      "slug": "piekary-slaskie",
+      "name_locative": "Piekarach Śląskich",
+      "latitude": 50.3757787,
+      "longitude": 18.93787319
+    },
+    {
+      "city_id": 282,
+      "name": "Piotrków Trybunalski",
+      "slug": "piotrkow-trybunalski",
+      "name_locative": "Piotrkowie Trybunalskim",
+      "latitude": 51.4128414,
+      "longitude": 19.68880133
+    },
+    {
+      "city_id": 888,
+      "name": "Poznań",
+      "slug": "poznan",
+      "name_locative": "Poznaniu",
+      "latitude": 52.4006632,
+      "longitude": 16.91973259
+    },
+    {
+      "city_id": 523,
+      "name": "Przemyśl",
+      "slug": "przemysl",
+      "name_locative": "Przemyślu",
+      "latitude": 49.7845132,
+      "longitude": 22.7698454
+    },
+    {
+      "city_id": 434,
+      "name": "Płock",
+      "slug": "plock",
+      "name_locative": "Płocku",
+      "latitude": 52.5353471,
+      "longitude": 19.71363014
+    },
+    {
+      "city_id": 435,
+      "name": "Radom",
+      "slug": "radom",
+      "name_locative": "Radomiu",
+      "latitude": 51.41716055,
+      "longitude": 21.16094478
+    },
+    {
+      "city_id": 671,
+      "name": "Ruda Śląska",
+      "slug": "ruda-slaska",
+      "name_locative": "Rudzie Śląskiej",
+      "latitude": 50.270303,
+      "longitude": 18.86437565
+    },
+    {
+      "city_id": 672,
+      "name": "Rybnik",
+      "slug": "rybnik",
+      "name_locative": "Rybniku",
+      "latitude": 50.0955793,
+      "longitude": 18.5419933
+    },
+    {
+      "city_id": 524,
+      "name": "Rzeszów",
+      "slug": "rzeszow",
+      "name_locative": "Rzeszowie",
+      "latitude": 50.0374531,
+      "longitude": 22.0047174
+    },
+    {
+      "city_id": 436,
+      "name": "Siedlce",
+      "slug": "siedlce",
+      "name_locative": "Siedlcach",
+      "latitude": 52.1615938,
+      "longitude": 22.2812533
+    },
+    {
+      "city_id": 673,
+      "name": "Siemianowice Śląskie",
+      "slug": "siemianowice-slaskie",
+      "name_locative": "Siemianowicach Śląskich",
+      "latitude": 50.31285075,
+      "longitude": 19.01778586
+    },
+    {
+      "city_id": 283,
+      "name": "Skierniewice",
+      "slug": "skierniewice",
+      "name_locative": "Skierniewicach",
+      "latitude": 51.95805445,
+      "longitude": 20.14487011
+    },
+    {
+      "city_id": 607,
+      "name": "Sopot",
+      "slug": "sopot",
+      "name_locative": "Sopocie",
+      "latitude": 54.44190905,
+      "longitude": 18.54309445
+    },
+    {
+      "city_id": 674,
+      "name": "Sosnowiec",
+      "slug": "sosnowiec",
+      "name_locative": "Sosnowcu",
+      "latitude": 50.2780834,
+      "longitude": 19.1342944
+    },
+    {
+      "city_id": 565,
+      "name": "Suwałki",
+      "slug": "suwalki",
+      "name_locative": "Suwałkach",
+      "latitude": 54.1027125,
+      "longitude": 22.93187822
+    },
+    {
+      "city_id": 953,
+      "name": "Szczecin",
+      "slug": "szczecin",
+      "name_locative": "Szczecinie",
+      "latitude": 53.4301818,
+      "longitude": 14.5509623
+    },
+    {
+      "city_id": 606,
+      "name": "Słupsk",
+      "slug": "slupsk",
+      "name_locative": "Słupsku",
+      "latitude": 54.46057085,
+      "longitude": 17.02773004
+    },
+    {
+      "city_id": 525,
+      "name": "Tarnobrzeg",
+      "slug": "tarnobrzeg",
+      "name_locative": "Tarnobrzegu",
+      "latitude": 50.58372,
+      "longitude": 21.71163813
+    },
+    {
+      "city_id": 345,
+      "name": "Tarnów",
+      "slug": "tarnow",
+      "name_locative": "Tarnowie",
+      "latitude": 50.0259883,
+      "longitude": 20.96405843
+    },
+    {
+      "city_id": 143,
+      "name": "Toruń",
+      "slug": "torun",
+      "name_locative": "Toruniu",
+      "latitude": 53.0145361,
+      "longitude": 18.59658314
+    },
+    {
+      "city_id": 676,
+      "name": "Tychy",
+      "slug": "tychy",
+      "name_locative": "Tychach",
+      "latitude": 50.12649805,
+      "longitude": 19.00678459
+    },
+    {
+      "city_id": 437,
+      "name": "Warszawa",
+      "slug": "warszawa",
+      "name_locative": "Warszawie",
+      "latitude": 52.2337172,
+      "longitude": 21.07143224
+    },
+    {
+      "city_id": 92,
+      "name": "Wałbrzych",
+      "slug": "walbrzych",
+      "name_locative": "Wałbrzychu",
+      "latitude": 50.785221,
+      "longitude": 16.28464034
+    },
+    {
+      "city_id": 432,
+      "name": "Wiskitki",
+      "slug": "wiskitki",
+      "name_locative": "Wiskitkach",
+      "latitude": 52.0863583,
+      "longitude": 20.3929307
+    },
+    {
+      "city_id": 91,
+      "name": "Wrocław",
+      "slug": "wroclaw",
+      "name_locative": "Wrocławiu",
+      "latitude": 51.1263106,
+      "longitude": 16.97819633
+    },
+    {
+      "city_id": 144,
+      "name": "Włocławek",
+      "slug": "wloclawek",
+      "name_locative": "Włocławku",
+      "latitude": 52.6655636,
+      "longitude": 19.09612975
+    },
+    {
+      "city_id": 677,
+      "name": "Zabrze",
+      "slug": "zabrze",
+      "name_locative": "Zabrzu",
+      "latitude": 50.31428055,
+      "longitude": 18.78157631
+    },
+    {
+      "city_id": 194,
+      "name": "Zamość",
+      "slug": "zamosc",
+      "name_locative": "Zamościu",
+      "latitude": 50.721273,
+      "longitude": 23.2595887
+    },
+    {
+      "city_id": 237,
+      "name": "Zielona Góra",
+      "slug": "zielona-gora",
+      "name_locative": "Zielonej Górze",
+      "latitude": 51.9383777,
+      "longitude": 15.5050408
+    },
+    {
+      "city_id": 564,
+      "name": "Łomża",
+      "slug": "lomza",
+      "name_locative": "Łomży",
+      "latitude": 53.18243065,
+      "longitude": 22.05218382
+    },
+    {
+      "city_id": 281,
+      "name": "Łódź",
+      "slug": "lodz",
+      "name_locative": "Łodzi",
+      "latitude": 51.7687323,
+      "longitude": 19.4569911
+    },
+    {
+      "city_id": 954,
+      "name": "Świnoujście",
+      "slug": "swinoujscie",
+      "name_locative": "Świnoujściu",
+      "latitude": 53.9097477,
+      "longitude": 14.2510703
+    },
+    {
+      "city_id": 675,
+      "name": "Świętochłowice",
+      "slug": "swietochlowice",
+      "name_locative": "Świętochłowicach",
+      "latitude": 50.2989445,
+      "longitude": 18.90746621
+    },
+    {
+      "city_id": 678,
+      "name": "Żory",
+      "slug": "zory",
+      "name_locative": "Żorach",
+      "latitude": 50.0388902,
+      "longitude": 18.68061238
+    },
+    {
+      "city_id": 430,
+      "name": "Żyrardów",
+      "slug": "zyrardow",
+      "name_locative": "Żyrardowie",
+      "latitude": 52.05553205,
+      "longitude": 20.44464353
+    }
+  ],
+  "meta": {
+    "title": "Polska — miasta na prawach powiatu - Bezpłatne pobieranie",
+    "description": "Lista 69 polskich miast na prawach powiatu — miast posiadających jednocześnie status gminy i powiatu. Obejmuje wszystkie miasta wojewódzkie oraz wybrane miasta o znaczeniu regionalnym (Warszawa, Kraków, Wrocław, Łódź, Poznań, Gdańsk, …). W tym źródle 69 miast (z 66 oficjalnych miast na prawach powiatu wg stanu z 2024 r. — źródło zawiera 3 dodatkowe pozycje sprzed reform). Bez przypisania do województwa na poziomie źródła; współrzędne lat/lng zachowane. List of 69 Polish city-counties (cities with both gmina and powiat status), including all voivodeship capitals plus other regionally-significant cities. The source omits voivodeship mapping for these — coordinates are preserved. Zawiera 69 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — miasta na prawach powiatu | ListBase",
+    "seo_description": "Pobierz Polska — miasta na prawach powiatu — 69 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 69 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,986 @@
+{
+  "id": "pl-dolnoslaskie-miasta",
+  "name": "Miasta w województwie dolnośląskie",
+  "title": "Miasta w województwie dolnośląskie",
+  "description": "Cities and towns (miasta) in Dolnośląskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "720",
+      "name": "Bardo",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "ząbkowicki",
+      "commune": "Bardo-gmina miejsko-wiejska",
+      "latitude": 50.5064,
+      "longitude": 16.7406
+    },
+    {
+      "id": "1387",
+      "name": "Bielawa",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "dzierżoniowski",
+      "commune": "Bielawa-gmina miejska",
+      "latitude": 50.6844,
+      "longitude": 16.6117
+    },
+    {
+      "id": "1540",
+      "name": "Bierutów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oleśnicki",
+      "commune": "Bierutów-gmina miejsko-wiejska",
+      "latitude": 51.1253,
+      "longitude": 17.5442
+    },
+    {
+      "id": "1972",
+      "name": "Bogatynia",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "zgorzelecki",
+      "commune": "Bogatynia-gmina miejsko-wiejska",
+      "latitude": 50.9047,
+      "longitude": 14.9572
+    },
+    {
+      "id": "2080",
+      "name": "Boguszów-Gorce",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wałbrzyski",
+      "commune": "Boguszów-Gorce-gmina miejska",
+      "latitude": 50.7558,
+      "longitude": 16.205
+    },
+    {
+      "id": "2160",
+      "name": "Bolesławiec",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "bolesławiecki",
+      "commune": "Bolesławiec-gmina miejska",
+      "latitude": 51.2631,
+      "longitude": 15.5647
+    },
+    {
+      "id": "2199",
+      "name": "Bolków",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "jaworski",
+      "commune": "Bolków-gmina miejsko-wiejska",
+      "latitude": 50.9222,
+      "longitude": 16.1006
+    },
+    {
+      "id": "3039",
+      "name": "Brzeg Dolny",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wołowski",
+      "commune": "Brzeg Dolny-gmina miejsko-wiejska",
+      "latitude": 51.2603,
+      "longitude": 16.7197
+    },
+    {
+      "id": "3914",
+      "name": "Bystrzyca Kłodzka",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Bystrzyca Kłodzka-gmina miejsko-wiejska",
+      "latitude": 50.2975,
+      "longitude": 16.6503
+    },
+    {
+      "id": "4337",
+      "name": "Chocianów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "polkowicki",
+      "commune": "Chocianów-gmina miejsko-wiejska",
+      "latitude": 51.4197,
+      "longitude": 15.9025
+    },
+    {
+      "id": "4455",
+      "name": "Chojnów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "legnicki",
+      "commune": "Chojnów-gmina miejska",
+      "latitude": 51.2733,
+      "longitude": 15.9364
+    },
+    {
+      "id": "7422",
+      "name": "Duszniki-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Duszniki-Zdrój-gmina miejska",
+      "latitude": 50.4042,
+      "longitude": 16.39
+    },
+    {
+      "id": "7678",
+      "name": "Dzierżoniów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "dzierżoniowski",
+      "commune": "Dzierżoniów-gmina miejska",
+      "latitude": 50.7281,
+      "longitude": 16.6514
+    },
+    {
+      "id": "8788",
+      "name": "Głogów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "głogowski",
+      "commune": "Głogów-gmina miejska",
+      "latitude": 51.6647,
+      "longitude": 16.0797
+    },
+    {
+      "id": "8870",
+      "name": "Głuszyca",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wałbrzyski",
+      "commune": "Głuszyca-gmina miejsko-wiejska",
+      "latitude": 50.6875,
+      "longitude": 16.3717
+    },
+    {
+      "id": "9518",
+      "name": "Góra",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "górowski",
+      "commune": "Góra-gmina miejsko-wiejska",
+      "latitude": 51.6681,
+      "longitude": 16.5392
+    },
+    {
+      "id": "10376",
+      "name": "Gryfów Śląski",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lwówecki",
+      "commune": "Gryfów Śląski-gmina miejsko-wiejska",
+      "latitude": 51.0281,
+      "longitude": 15.4147
+    },
+    {
+      "id": "12168",
+      "name": "Jawor",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "jaworski",
+      "commune": "Jawor-gmina miejska",
+      "latitude": 51.0503,
+      "longitude": 16.1936
+    },
+    {
+      "id": "12224",
+      "name": "Jaworzyna Śląska",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "świdnicki",
+      "commune": "Jaworzyna Śląska-gmina miejsko-wiejska",
+      "latitude": 50.9144,
+      "longitude": 16.4306
+    },
+    {
+      "id": "12274",
+      "name": "Jedlina-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wałbrzyski",
+      "commune": "Jedlina-Zdrój-gmina miejska",
+      "latitude": 50.725,
+      "longitude": 16.3469
+    },
+    {
+      "id": "12302",
+      "name": "Jelcz-Laskowice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oławski",
+      "commune": "Jelcz-Laskowice-gmina miejsko-wiejska",
+      "latitude": 51.04,
+      "longitude": 17.35
+    },
+    {
+      "id": "12307",
+      "name": "Jelenia Góra",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "Jelenia Góra",
+      "commune": "Jelenia Góra-gmina miejska",
+      "latitude": 50.9031,
+      "longitude": 15.7347
+    },
+    {
+      "id": "13149",
+      "name": "Kamieniec Ząbkowicki",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "ząbkowicki",
+      "commune": "Kamieniec Ząbkowicki-gmina wiejska",
+      "latitude": 50.525,
+      "longitude": 16.8781
+    },
+    {
+      "id": "13159",
+      "name": "Kamienna Góra",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kamiennogórski",
+      "commune": "Kamienna Góra-gmina miejska",
+      "latitude": 50.7833,
+      "longitude": 16.0328
+    },
+    {
+      "id": "13541",
+      "name": "Karpacz",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "karkonoski",
+      "commune": "Karpacz-gmina miejska",
+      "latitude": 50.7747,
+      "longitude": 15.7547
+    },
+    {
+      "id": "13876",
+      "name": "Kąty Wrocławskie",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wrocławski",
+      "commune": "Kąty Wrocławskie-gmina miejsko-wiejska",
+      "latitude": 51.0297,
+      "longitude": 16.7711
+    },
+    {
+      "id": "14515",
+      "name": "Kłodzko",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Kłodzko-gmina miejska",
+      "latitude": 50.4375,
+      "longitude": 16.6528
+    },
+    {
+      "id": "15860",
+      "name": "Kowary",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "karkonoski",
+      "commune": "Kowary-gmina miejska",
+      "latitude": 50.7925,
+      "longitude": 15.8364
+    },
+    {
+      "id": "17106",
+      "name": "Kudowa-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Kudowa-Zdrój-gmina miejska",
+      "latitude": 50.4408,
+      "longitude": 16.2406
+    },
+    {
+      "id": "17674",
+      "name": "Lądek-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Lądek-Zdrój-gmina miejsko-wiejska",
+      "latitude": 50.3425,
+      "longitude": 16.8872
+    },
+    {
+      "id": "17705",
+      "name": "Legnica",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "Legnica",
+      "commune": "Legnica-gmina miejska",
+      "latitude": 51.2067,
+      "longitude": 16.1628
+    },
+    {
+      "id": "17892",
+      "name": "Leśna",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubański",
+      "commune": "Leśna-gmina miejsko-wiejska",
+      "latitude": 51.0239,
+      "longitude": 15.2639
+    },
+    {
+      "id": "18524",
+      "name": "Lubań",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubański",
+      "commune": "Lubań-gmina miejska",
+      "latitude": 51.12,
+      "longitude": 15.2894
+    },
+    {
+      "id": "18537",
+      "name": "Lubawka",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kamiennogórski",
+      "commune": "Lubawka-gmina miejsko-wiejska",
+      "latitude": 50.7069,
+      "longitude": 16
+    },
+    {
+      "id": "18634",
+      "name": "Lubin",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubiński",
+      "commune": "Lubin-gmina miejska",
+      "latitude": 51.3986,
+      "longitude": 16.2033
+    },
+    {
+      "id": "18691",
+      "name": "Lubomierz",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lwówecki",
+      "commune": "Lubomierz-gmina miejsko-wiejska",
+      "latitude": 51.0128,
+      "longitude": 15.5106
+    },
+    {
+      "id": "18934",
+      "name": "Lwówek Śląski",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lwówecki",
+      "commune": "Lwówek Śląski-gmina miejsko-wiejska",
+      "latitude": 51.1108,
+      "longitude": 15.585
+    },
+    {
+      "id": "21256",
+      "name": "Mieroszów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wałbrzyski",
+      "commune": "Mieroszów-gmina miejsko-wiejska",
+      "latitude": 50.6664,
+      "longitude": 16.1867
+    },
+    {
+      "id": "21334",
+      "name": "Międzybórz",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oleśnicki",
+      "commune": "Międzybórz-gmina miejsko-wiejska",
+      "latitude": 51.3981,
+      "longitude": 17.665
+    },
+    {
+      "id": "21349",
+      "name": "Międzylesie",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Międzylesie-gmina miejsko-wiejska",
+      "latitude": 50.1478,
+      "longitude": 16.6672
+    },
+    {
+      "id": "21507",
+      "name": "Milicz",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "milicki",
+      "commune": "Milicz-gmina miejsko-wiejska",
+      "latitude": 51.5242,
+      "longitude": 17.2728
+    },
+    {
+      "id": "21681",
+      "name": "Mirsk",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lwówecki",
+      "commune": "Mirsk-gmina miejsko-wiejska",
+      "latitude": 50.97,
+      "longitude": 15.3831
+    },
+    {
+      "id": "22952",
+      "name": "Niemcza",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "dzierżoniowski",
+      "commune": "Niemcza-gmina miejsko-wiejska",
+      "latitude": 50.7167,
+      "longitude": 16.835
+    },
+    {
+      "id": "23348",
+      "name": "Nowa Ruda",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Nowa Ruda-gmina miejska",
+      "latitude": 50.5789,
+      "longitude": 16.5025
+    },
+    {
+      "id": "23955",
+      "name": "Nowogrodziec",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "bolesławiecki",
+      "commune": "Nowogrodziec-gmina miejsko-wiejska",
+      "latitude": 51.1972,
+      "longitude": 15.3981
+    },
+    {
+      "id": "24359",
+      "name": "Oborniki Śląskie",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "trzebnicki",
+      "commune": "Oborniki Śląskie-gmina miejsko-wiejska",
+      "latitude": 51.2994,
+      "longitude": 16.9139
+    },
+    {
+      "id": "24686",
+      "name": "Oleśnica",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oleśnicki",
+      "commune": "Oleśnica-gmina miejska",
+      "latitude": 51.2094,
+      "longitude": 17.3803
+    },
+    {
+      "id": "24836",
+      "name": "Olszyna",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubański",
+      "commune": "Olszyna-gmina miejsko-wiejska",
+      "latitude": 51.0669,
+      "longitude": 15.3783
+    },
+    {
+      "id": "24862",
+      "name": "Oława",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oławski",
+      "commune": "Oława-gmina miejska",
+      "latitude": 50.9406,
+      "longitude": 17.2986
+    },
+    {
+      "id": "26398",
+      "name": "Piechowice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "karkonoski",
+      "commune": "Piechowice-gmina miejska",
+      "latitude": 50.8497,
+      "longitude": 15.5992
+    },
+    {
+      "id": "26520",
+      "name": "Pieńsk",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "zgorzelecki",
+      "commune": "Pieńsk-gmina miejsko-wiejska",
+      "latitude": 51.2467,
+      "longitude": 15.0456
+    },
+    {
+      "id": "26577",
+      "name": "Pieszyce",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "dzierżoniowski",
+      "commune": "Pieszyce-gmina miejska",
+      "latitude": 50.7122,
+      "longitude": 16.5803
+    },
+    {
+      "id": "26690",
+      "name": "Piława Górna",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "dzierżoniowski",
+      "commune": "Piława Górna-gmina miejska",
+      "latitude": 50.6817,
+      "longitude": 16.7539
+    },
+    {
+      "id": "27620",
+      "name": "Polanica-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Polanica-Zdrój-gmina miejska",
+      "latitude": 50.4033,
+      "longitude": 16.5114
+    },
+    {
+      "id": "27692",
+      "name": "Polkowice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "polkowicki",
+      "commune": "Polkowice-gmina miejsko-wiejska",
+      "latitude": 51.5033,
+      "longitude": 16.0683
+    },
+    {
+      "id": "28289",
+      "name": "Prochowice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "legnicki",
+      "commune": "Prochowice-gmina miejsko-wiejska",
+      "latitude": 51.2731,
+      "longitude": 16.3622
+    },
+    {
+      "id": "28355",
+      "name": "Prusice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "trzebnicki",
+      "commune": "Prusice-gmina miejsko-wiejska",
+      "latitude": 51.3711,
+      "longitude": 16.9603
+    },
+    {
+      "id": "28527",
+      "name": "Przemków",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "polkowicki",
+      "commune": "Przemków-gmina miejsko-wiejska",
+      "latitude": 51.5281,
+      "longitude": 15.7883
+    },
+    {
+      "id": "29194",
+      "name": "Radków",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Radków-gmina miejsko-wiejska",
+      "latitude": 50.5039,
+      "longitude": 16.4008
+    },
+    {
+      "id": "31678",
+      "name": "Siechnice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wrocławski",
+      "commune": "Siechnice-gmina miejsko-wiejska",
+      "latitude": 51.0336,
+      "longitude": 17.1469
+    },
+    {
+      "id": "32979",
+      "name": "Sobótka",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wrocławski",
+      "commune": "Sobótka-gmina miejsko-wiejska",
+      "latitude": 50.8997,
+      "longitude": 16.7444
+    },
+    {
+      "id": "34617",
+      "name": "Stronie Śląskie",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Stronie Śląskie-gmina miejsko-wiejska",
+      "latitude": 50.2989,
+      "longitude": 16.8736
+    },
+    {
+      "id": "34757",
+      "name": "Strzegom",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "świdnicki",
+      "commune": "Strzegom-gmina miejsko-wiejska",
+      "latitude": 50.9603,
+      "longitude": 16.3467
+    },
+    {
+      "id": "34799",
+      "name": "Strzelin",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "strzeliński",
+      "commune": "Strzelin-gmina miejsko-wiejska",
+      "latitude": 50.7808,
+      "longitude": 17.0708
+    },
+    {
+      "id": "35313",
+      "name": "Syców",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oleśnicki",
+      "commune": "Syców-gmina miejsko-wiejska",
+      "latitude": 51.3094,
+      "longitude": 17.7206
+    },
+    {
+      "id": "35459",
+      "name": "Szczawno-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wałbrzyski",
+      "commune": "Szczawno-Zdrój-gmina miejska",
+      "latitude": 50.8003,
+      "longitude": 16.2508
+    },
+    {
+      "id": "35620",
+      "name": "Szczytna",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "kłodzki",
+      "commune": "Szczytna-gmina miejsko-wiejska",
+      "latitude": 50.4156,
+      "longitude": 16.4439
+    },
+    {
+      "id": "35740",
+      "name": "Szklarska Poręba",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "karkonoski",
+      "commune": "Szklarska Poręba-gmina miejska",
+      "latitude": 50.8297,
+      "longitude": 15.5189
+    },
+    {
+      "id": "36047",
+      "name": "Ścinawa",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubiński",
+      "commune": "Ścinawa-gmina miejsko-wiejska",
+      "latitude": 51.4128,
+      "longitude": 16.4261
+    },
+    {
+      "id": "36194",
+      "name": "Środa Śląska",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "średzki",
+      "commune": "Środa Śląska-gmina miejsko-wiejska",
+      "latitude": 51.1633,
+      "longitude": 16.5978
+    },
+    {
+      "id": "36240",
+      "name": "Świdnica",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "świdnicki",
+      "commune": "Świdnica-gmina miejska",
+      "latitude": 50.8428,
+      "longitude": 16.4872
+    },
+    {
+      "id": "36274",
+      "name": "Świebodzice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "świdnicki",
+      "commune": "Świebodzice-gmina miejska",
+      "latitude": 50.8597,
+      "longitude": 16.32
+    },
+    {
+      "id": "36298",
+      "name": "Świeradów-Zdrój",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lubański",
+      "commune": "Świeradów-Zdrój-gmina miejska",
+      "latitude": 50.9092,
+      "longitude": 15.3319
+    },
+    {
+      "id": "36350",
+      "name": "Świerzawa",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "złotoryjski",
+      "commune": "Świerzawa-gmina miejsko-wiejska",
+      "latitude": 51.0144,
+      "longitude": 15.8933
+    },
+    {
+      "id": "37295",
+      "name": "Trzebnica",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "trzebnicki",
+      "commune": "Trzebnica-gmina miejsko-wiejska",
+      "latitude": 51.3083,
+      "longitude": 17.0619
+    },
+    {
+      "id": "37581",
+      "name": "Twardogóra",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "oleśnicki",
+      "commune": "Twardogóra-gmina miejsko-wiejska",
+      "latitude": 51.3656,
+      "longitude": 17.4678
+    },
+    {
+      "id": "38082",
+      "name": "Wałbrzych",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "Wałbrzych",
+      "commune": "Wałbrzych-gmina miejska",
+      "latitude": 50.7672,
+      "longitude": 16.2828
+    },
+    {
+      "id": "38315",
+      "name": "Wąsosz",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "górowski",
+      "commune": "Wąsosz-gmina miejsko-wiejska",
+      "latitude": 51.5647,
+      "longitude": 16.6936
+    },
+    {
+      "id": "38442",
+      "name": "Węgliniec",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "zgorzelecki",
+      "commune": "Węgliniec-gmina miejsko-wiejska",
+      "latitude": 51.2861,
+      "longitude": 15.2233
+    },
+    {
+      "id": "38532",
+      "name": "Wiązów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "strzeliński",
+      "commune": "Wiązów-gmina miejsko-wiejska",
+      "latitude": 50.8139,
+      "longitude": 17.2011
+    },
+    {
+      "id": "39504",
+      "name": "Wleń",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "lwówecki",
+      "commune": "Wleń-gmina miejsko-wiejska",
+      "latitude": 51.0169,
+      "longitude": 15.6742
+    },
+    {
+      "id": "39703",
+      "name": "Wojcieszów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "złotoryjski",
+      "commune": "Wojcieszów-gmina miejska",
+      "latitude": 50.9508,
+      "longitude": 15.9222
+    },
+    {
+      "id": "40283",
+      "name": "Wołów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "wołowski",
+      "commune": "Wołów-gmina miejsko-wiejska",
+      "latitude": 51.3364,
+      "longitude": 16.6461
+    },
+    {
+      "id": "40681",
+      "name": "Wrocław",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "Wrocław",
+      "commune": "Wrocław-gmina miejska",
+      "latitude": 51.11,
+      "longitude": 17.0319
+    },
+    {
+      "id": "42301",
+      "name": "Zawidów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "zgorzelecki",
+      "commune": "Zawidów-gmina miejska",
+      "latitude": 51.0242,
+      "longitude": 15.0636
+    },
+    {
+      "id": "42355",
+      "name": "Ząbkowice Śląskie",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "ząbkowicki",
+      "commune": "Ząbkowice Śląskie-gmina miejsko-wiejska",
+      "latitude": 50.5889,
+      "longitude": 16.8128
+    },
+    {
+      "id": "42637",
+      "name": "Zgorzelec",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "zgorzelecki",
+      "commune": "Zgorzelec-gmina miejska",
+      "latitude": 51.1497,
+      "longitude": 15.0067
+    },
+    {
+      "id": "42762",
+      "name": "Ziębice",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "ząbkowicki",
+      "commune": "Ziębice-gmina miejsko-wiejska",
+      "latitude": 50.6003,
+      "longitude": 17.0411
+    },
+    {
+      "id": "42862",
+      "name": "Złotoryja",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "złotoryjski",
+      "commune": "Złotoryja-gmina miejska",
+      "latitude": 51.1247,
+      "longitude": 15.9158
+    },
+    {
+      "id": "42875",
+      "name": "Złoty Stok",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "ząbkowicki",
+      "commune": "Złoty Stok-gmina miejsko-wiejska",
+      "latitude": 50.4431,
+      "longitude": 16.8736
+    },
+    {
+      "id": "43185",
+      "name": "Żarów",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "świdnicki",
+      "commune": "Żarów-gmina miejsko-wiejska",
+      "latitude": 50.9425,
+      "longitude": 16.4933
+    },
+    {
+      "id": "43398",
+      "name": "Żmigród",
+      "type": "city",
+      "province": "dolnośląskie",
+      "district": "trzebnicki",
+      "commune": "Żmigród-gmina miejsko-wiejska",
+      "latitude": 51.4711,
+      "longitude": 16.9078
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie dolnośląskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Dolnośląskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 92 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie dolnośląskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie dolnośląskie — 92 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 92 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

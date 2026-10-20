@@ -1,0 +1,169 @@
+{
+  "id": "pl-jednostki-miary-pressure",
+  "name": "Jednostki miary — kategoria 'pressure' (12)",
+  "title": "Jednostki miary — kategoria 'pressure' (12)",
+  "description": "Jednostki miary kategorii 'pressure' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategoria": "pressure",
+      "nazwa": "atmosfery",
+      "skrot": "atm",
+      "forma_waska": "atm",
+      "wzorzec": "{0} atmosfery"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategoria": "pressure",
+      "nazwa": "bary",
+      "skrot": "bar",
+      "forma_waska": "bar",
+      "wzorzec": "{0} bara"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategoria": "pressure",
+      "nazwa": "gas E",
+      "skrot": "gas E",
+      "forma_waska": "gas E",
+      "wzorzec": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategoria": "pressure",
+      "nazwa": "hektopaskale",
+      "skrot": "hPa",
+      "forma_waska": "hPa",
+      "wzorzec": "{0} hektopaskala"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "cale słupa rtęci",
+      "skrot": "inHg",
+      "forma_waska": "inHg",
+      "wzorzec": "{0} cala słupa rtęci"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategoria": "pressure",
+      "nazwa": "kilopaskale",
+      "skrot": "kPa",
+      "forma_waska": "kPa",
+      "wzorzec": "{0} kilopaskala"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategoria": "pressure",
+      "nazwa": "megapaskale",
+      "skrot": "MPa",
+      "forma_waska": "MPa",
+      "wzorzec": "{0} megapaskala"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategoria": "pressure",
+      "nazwa": "milibary",
+      "skrot": "mbar",
+      "forma_waska": "mbar",
+      "wzorzec": "{0} milibara"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "milimetry słupa rtęci",
+      "skrot": "mmHg",
+      "forma_waska": "mmHg",
+      "wzorzec": "{0} milimetra słupa rtęci"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "słupa rtęci",
+      "skrot": "Hg",
+      "forma_waska": "Hg",
+      "wzorzec": "{0} słupa rtęci"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategoria": "pressure",
+      "nazwa": "paskale",
+      "skrot": "Pa",
+      "forma_waska": "Pa",
+      "wzorzec": "{0} paskala"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoria": "pressure",
+      "nazwa": "funty na cal kwadratowy",
+      "skrot": "psi",
+      "forma_waska": "psi",
+      "wzorzec": "{0} funta na cal kwadratowy"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'pressure' (12) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'pressure' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 12 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'pressure' (12) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'pressure' (12) — 12 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 12 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "pl-jednostki-miary-power",
+  "name": "Jednostki miary — kategoria 'power' (6)",
+  "title": "Jednostki miary — kategoria 'power' (6)",
+  "description": "Jednostki miary kategorii 'power' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategoria": "power",
+      "nazwa": "gigawaty",
+      "skrot": "GW",
+      "forma_waska": "GW",
+      "wzorzec": "{0} gigawata"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategoria": "power",
+      "nazwa": "konie mechaniczne",
+      "skrot": "KM",
+      "forma_waska": "KM",
+      "wzorzec": "{0} konia mechanicznego"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategoria": "power",
+      "nazwa": "kilowaty",
+      "skrot": "kW",
+      "forma_waska": "kW",
+      "wzorzec": "{0} kilowata"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategoria": "power",
+      "nazwa": "megawaty",
+      "skrot": "MW",
+      "forma_waska": "MW",
+      "wzorzec": "{0} megawata"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategoria": "power",
+      "nazwa": "miliwaty",
+      "skrot": "mW",
+      "forma_waska": "mW",
+      "wzorzec": "{0} miliwata"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategoria": "power",
+      "nazwa": "waty",
+      "skrot": "waty",
+      "forma_waska": "waty",
+      "wzorzec": "{0} wata"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'power' (6) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'power' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 6 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'power' (6) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'power' (6) — 6 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 6 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

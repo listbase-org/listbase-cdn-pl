@@ -1,0 +1,219 @@
+{
+  "id": "pl-dni-kwartaly-ery",
+  "name": "Dni, kwartały, pory dnia i ery — nazwy po polsku (CLDR)",
+  "title": "Dni, kwartały, pory dnia i ery — nazwy po polsku (CLDR)",
+  "description": "Polskie nazwy dni tygodnia, kwartałów, pór dnia i er kalendarza gregoriańskiego w lokalizacji pl w CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "typ": "dzien",
+      "code": "sun",
+      "nazwa": "niedziela",
+      "skrot": "niedz."
+    },
+    {
+      "id": 2,
+      "typ": "dzien",
+      "code": "mon",
+      "nazwa": "poniedziałek",
+      "skrot": "pon."
+    },
+    {
+      "id": 3,
+      "typ": "dzien",
+      "code": "tue",
+      "nazwa": "wtorek",
+      "skrot": "wt."
+    },
+    {
+      "id": 4,
+      "typ": "dzien",
+      "code": "wed",
+      "nazwa": "środa",
+      "skrot": "śr."
+    },
+    {
+      "id": 5,
+      "typ": "dzien",
+      "code": "thu",
+      "nazwa": "czwartek",
+      "skrot": "czw."
+    },
+    {
+      "id": 6,
+      "typ": "dzien",
+      "code": "fri",
+      "nazwa": "piątek",
+      "skrot": "pt."
+    },
+    {
+      "id": 7,
+      "typ": "dzien",
+      "code": "sat",
+      "nazwa": "sobota",
+      "skrot": "sob."
+    },
+    {
+      "id": 8,
+      "typ": "kwartal",
+      "code": "1",
+      "nazwa": "I kwartał",
+      "skrot": "I kw."
+    },
+    {
+      "id": 9,
+      "typ": "kwartal",
+      "code": "2",
+      "nazwa": "II kwartał",
+      "skrot": "II kw."
+    },
+    {
+      "id": 10,
+      "typ": "kwartal",
+      "code": "3",
+      "nazwa": "III kwartał",
+      "skrot": "III kw."
+    },
+    {
+      "id": 11,
+      "typ": "kwartal",
+      "code": "4",
+      "nazwa": "IV kwartał",
+      "skrot": "IV kw."
+    },
+    {
+      "id": 12,
+      "typ": "pora_dnia",
+      "code": "midnight",
+      "nazwa": "o północy",
+      "skrot": "o północy"
+    },
+    {
+      "id": 13,
+      "typ": "pora_dnia",
+      "code": "am",
+      "nazwa": "AM",
+      "skrot": "AM"
+    },
+    {
+      "id": 14,
+      "typ": "pora_dnia",
+      "code": "noon",
+      "nazwa": "w południe",
+      "skrot": "w południe"
+    },
+    {
+      "id": 15,
+      "typ": "pora_dnia",
+      "code": "pm",
+      "nazwa": "PM",
+      "skrot": "PM"
+    },
+    {
+      "id": 16,
+      "typ": "pora_dnia",
+      "code": "morning1",
+      "nazwa": "rano",
+      "skrot": "rano"
+    },
+    {
+      "id": 17,
+      "typ": "pora_dnia",
+      "code": "morning2",
+      "nazwa": "przed południem",
+      "skrot": "przed południem"
+    },
+    {
+      "id": 18,
+      "typ": "pora_dnia",
+      "code": "afternoon1",
+      "nazwa": "po południu",
+      "skrot": "po południu"
+    },
+    {
+      "id": 19,
+      "typ": "pora_dnia",
+      "code": "evening1",
+      "nazwa": "wieczorem",
+      "skrot": "wieczorem"
+    },
+    {
+      "id": 20,
+      "typ": "pora_dnia",
+      "code": "night1",
+      "nazwa": "w nocy",
+      "skrot": "w nocy"
+    },
+    {
+      "id": 21,
+      "typ": "era",
+      "code": "0",
+      "nazwa": "przed naszą erą",
+      "skrot": "p.n.e."
+    },
+    {
+      "id": 22,
+      "typ": "era",
+      "code": "0-alt-variant",
+      "nazwa": "p.n.e.",
+      "skrot": "BCE"
+    },
+    {
+      "id": 23,
+      "typ": "era",
+      "code": "1",
+      "nazwa": "naszej ery",
+      "skrot": "n.e."
+    },
+    {
+      "id": 24,
+      "typ": "era",
+      "code": "1-alt-variant",
+      "nazwa": "n.e.",
+      "skrot": "CE"
+    }
+  ],
+  "meta": {
+    "title": "Dni, kwartały, pory dnia i ery — nazwy po polsku (CLDR) - Bezpłatne pobieranie",
+    "description": "Polskie nazwy dni tygodnia, kwartałów, pór dnia i er kalendarza gregoriańskiego w lokalizacji pl w CLDR. Zawiera 24 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Dni, kwartały, pory dnia i ery — nazwy po polsku (CLDR) | ListBase",
+    "seo_description": "Pobierz Dni, kwartały, pory dnia i ery — nazwy po polsku (CLDR) — 24 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 24 rekordów / 5 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

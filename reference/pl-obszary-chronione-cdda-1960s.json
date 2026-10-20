@@ -1,0 +1,2016 @@
+{
+  "id": "pl-obszary-chronione-cdda-1960s",
+  "name": "Polska — obszary chronione ustanowione w latach 1960–1969 (CDDA)",
+  "title": "Polska — obszary chronione ustanowione w latach 1960–1969 (CDDA)",
+  "description": "195 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1960–1969 (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 195,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 11354,
+      "nazwa": "Augustowo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.22546,
+      "srodek_lon": 18.11913,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11308,
+      "nazwa": "Bagno Chłopiny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 52.83293,
+      "srodek_lon": 15.03331,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11289,
+      "nazwa": "Bagno Wizna I",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.1513,
+      "srodek_lon": 22.46193,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11290,
+      "nazwa": "Bagno Wizna II",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.13238,
+      "srodek_lon": 22.39588,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11242,
+      "nazwa": "Balczewo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 52.7668,
+      "srodek_lon": 18.42107,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11218,
+      "nazwa": "Bartosze",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 53.8149,
+      "srodek_lon": 22.30363,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115229,
+      "nazwa": "Bażany",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 50.91978,
+      "srodek_lon": 18.17702,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115232,
+      "nazwa": "Biała Góra",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.91217,
+      "srodek_lon": 18.89957,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11448,
+      "nazwa": "Biała Woda",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.39835,
+      "srodek_lon": 20.58426,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115235,
+      "nazwa": "Białowodzka Góra nad Dunajcem",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.68966,
+      "srodek_lon": 20.63127,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11219,
+      "nazwa": "Bobruczek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.20707,
+      "srodek_lon": 23.16174,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11281,
+      "nazwa": "Bocheńskie Błoto",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.82503,
+      "srodek_lon": 17.03882,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115248,
+      "nazwa": "Bonarka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 50.02936,
+      "srodek_lon": 19.95937,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11320,
+      "nazwa": "Brzeźnik",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 51.2473,
+      "srodek_lon": 15.43873,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115261,
+      "nazwa": "Brzozowy Grąd",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.86513,
+      "srodek_lon": 23.11005,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115267,
+      "nazwa": "Buczyna Szprotawska",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 51.51609,
+      "srodek_lon": 15.67405,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115265,
+      "nazwa": "Buczyna w Cyrance na Płaskowyżu Kolbuszowskim",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.25295,
+      "srodek_lon": 21.59868,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115264,
+      "nazwa": "Buczyna Łagowska",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 52.3776,
+      "srodek_lon": 15.31115,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115270,
+      "nazwa": "Buki Mierzei Wiślanej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.36338,
+      "srodek_lon": 19.37344,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115272,
+      "nazwa": "Buki Wysoczyzny Elbląskiej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.2781,
+      "srodek_lon": 19.50755,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115278,
+      "nazwa": "Bukowa Kalenica w Górach Sowich",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.6445,
+      "srodek_lon": 16.54799,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115282,
+      "nazwa": "Bukowiec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 49.83917,
+      "srodek_lon": 20.58569,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115286,
+      "nazwa": "Butorza",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.51923,
+      "srodek_lon": 19.019,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115288,
+      "nazwa": "Cegliniec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 52.66069,
+      "srodek_lon": 16.02847,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115290,
+      "nazwa": "Chmielinne",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 52.12079,
+      "srodek_lon": 23.04384,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115291,
+      "nazwa": "Choczewskie Cisy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.77074,
+      "srodek_lon": 17.74915,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115293,
+      "nazwa": "Ciechocinek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 52.88938,
+      "srodek_lon": 18.78474,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115315,
+      "nazwa": "Cisy w Mogilnie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.63836,
+      "srodek_lon": 20.82988,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115321,
+      "nazwa": "Czapli Wierch",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.72193,
+      "srodek_lon": 18.43369,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115332,
+      "nazwa": "Czarnia",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 53.33436,
+      "srodek_lon": 21.2086,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11358,
+      "nazwa": "Czarny Bryńsk",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.21043,
+      "srodek_lon": 19.72925,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115342,
+      "nazwa": "Darzlubskie Buki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 54.70308,
+      "srodek_lon": 18.27769,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115371,
+      "nazwa": "Diabli Skok",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 53.39459,
+      "srodek_lon": 16.58271,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11437,
+      "nazwa": "Dolina Mnikowska",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 50.06654,
+      "srodek_lon": 19.70762,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11435,
+      "nazwa": "Dolina Racławki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.16782,
+      "srodek_lon": 19.69037,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115507,
+      "nazwa": "Dziektarzewo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 52.76431,
+      "srodek_lon": 20.3173,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115350,
+      "nazwa": "Dąbrowa Smoszew",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.65451,
+      "srodek_lon": 17.50438,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115346,
+      "nazwa": "Dąbrowa koło Biadek Krotoszyńskich",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.65721,
+      "srodek_lon": 17.57998,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115359,
+      "nazwa": "Dębno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 51.62356,
+      "srodek_lon": 16.80128,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115362,
+      "nazwa": "Dębowiec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 50.91547,
+      "srodek_lon": 19.72903,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177328,
+      "nazwa": "Dęby w Krukach Pasłęckich",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 54.03241,
+      "srodek_lon": 19.78459,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115374,
+      "nazwa": "Długosz Królewski",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 50.00379,
+      "srodek_lon": 20.35317,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115376,
+      "nazwa": "Długosz Królewski w Węglewicach",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 51.39894,
+      "srodek_lon": 18.253,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115551,
+      "nazwa": "Gaj Krajeński",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.50057,
+      "srodek_lon": 17.39626,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115554,
+      "nazwa": "Gibiel",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 50.05676,
+      "srodek_lon": 20.3645,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11291,
+      "nazwa": "Gorbacz",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 53.00071,
+      "srodek_lon": 23.69695,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177356,
+      "nazwa": "Goździk Siny w Grzybnie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 52.19552,
+      "srodek_lon": 16.83069,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115724,
+      "nazwa": "Grocholin",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 52.98131,
+      "srodek_lon": 17.40656,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11423,
+      "nazwa": "Góra Chełmo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 51.06013,
+      "srodek_lon": 19.74429,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115714,
+      "nazwa": "Góra św. Wawrzyńca",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.32723,
+      "srodek_lon": 18.38256,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115820,
+      "nazwa": "Jamno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 51.7025,
+      "srodek_lon": 18.89991,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115821,
+      "nazwa": "Jamy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.57815,
+      "srodek_lon": 18.94068,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11267,
+      "nazwa": "Janiewickie Bagno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.26327,
+      "srodek_lon": 16.72489,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115827,
+      "nazwa": "Jaskinia Raj",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 50.8239,
+      "srodek_lon": 20.49913,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11243,
+      "nazwa": "Jazy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 52.56683,
+      "srodek_lon": 19.30613,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115828,
+      "nazwa": "Jaśkowice",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 50.5684,
+      "srodek_lon": 17.80162,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115834,
+      "nazwa": "Jaźwiny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.50319,
+      "srodek_lon": 18.39866,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11198,
+      "nazwa": "Jezioro Drużno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 54.08148,
+      "srodek_lon": 19.46323,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11300,
+      "nazwa": "Jezioro Francuskie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.55802,
+      "srodek_lon": 19.95763,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11401,
+      "nazwa": "Jezioro Hańcza",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 54.26423,
+      "srodek_lon": 22.81148,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11214,
+      "nazwa": "Jezioro Kolno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.76792,
+      "srodek_lon": 23.01726,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11209,
+      "nazwa": "Jezioro Kożuchy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 54.0333,
+      "srodek_lon": 21.89443,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11199,
+      "nazwa": "Jezioro Liwieniec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 53.75923,
+      "srodek_lon": 19.18604,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177394,
+      "nazwa": "Jezioro Orle",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 54.01815,
+      "srodek_lon": 17.06674,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115901,
+      "nazwa": "Jezioro Piekiełko",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.93215,
+      "srodek_lon": 16.70757,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115905,
+      "nazwa": "Jezioro Sporackie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 53.779,
+      "srodek_lon": 17.43037,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115921,
+      "nazwa": "Jodły Oleśnickie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.8216,
+      "srodek_lon": 19.07259,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115922,
+      "nazwa": "Jodły Ostrzeszowskie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.42912,
+      "srodek_lon": 17.99162,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177400,
+      "nazwa": "Kadzielnia",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.86124,
+      "srodek_lon": 20.61685,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115926,
+      "nazwa": "Kajasówka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.03044,
+      "srodek_lon": 19.66582,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177404,
+      "nazwa": "Kamień-Grzyb",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 49.88925,
+      "srodek_lon": 20.47439,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115940,
+      "nazwa": "Klasztorne Modrzewie koło Dąbrówki Kościelnej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 52.55175,
+      "srodek_lon": 17.15201,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115942,
+      "nazwa": "Kobiele Wielkie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 51.02924,
+      "srodek_lon": 19.65574,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115947,
+      "nazwa": "Komorzno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 51.12353,
+      "srodek_lon": 18.04371,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11327,
+      "nazwa": "Kozie Brody",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.43959,
+      "srodek_lon": 16.85574,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 396192,
+      "nazwa": "Koło w Puszczy Niepołomickiej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.08669,
+      "srodek_lon": 20.30175,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115967,
+      "nazwa": "Krokusy w Górzyńcu",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.85487,
+      "srodek_lon": 15.52875,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116026,
+      "nazwa": "Krzywe Koło w pętli Wdy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.71592,
+      "srodek_lon": 18.35803,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116027,
+      "nazwa": "Krzywiczyny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 51.10822,
+      "srodek_lon": 18.04367,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116018,
+      "nazwa": "Królowa Droga",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 51.58689,
+      "srodek_lon": 22.958,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177431,
+      "nazwa": "Kulin",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 52.66749,
+      "srodek_lon": 19.10107,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11189,
+      "nazwa": "Kurowskie Błota",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 53.35206,
+      "srodek_lon": 14.52843,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11341,
+      "nazwa": "Kuźnica",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.65355,
+      "srodek_lon": 18.55718,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116033,
+      "nazwa": "Kwiatówka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 50.47468,
+      "srodek_lon": 20.15661,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177435,
+      "nazwa": "Kwidzyńskie Ostnice",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 53.71564,
+      "srodek_lon": 18.95974,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115939,
+      "nazwa": "Kępie na Wyżynie Miechowskiej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.46496,
+      "srodek_lon": 19.97001,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11447,
+      "nazwa": "Kłodne nad Dunajcem",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 49.47571,
+      "srodek_lon": 20.438,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116045,
+      "nazwa": "Las Lipowy w Uroczysku Bukowiec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 50.503,
+      "srodek_lon": 23.63233,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116056,
+      "nazwa": "Las Mieszany w Nadleśnictwie Łopuchówko",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 52.54596,
+      "srodek_lon": 17.1411,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 396212,
+      "nazwa": "Las Mątawski",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.95472,
+      "srodek_lon": 18.88367,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116065,
+      "nazwa": "Lasek Miejski nad Olzą",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.72933,
+      "srodek_lon": 18.62909,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116066,
+      "nazwa": "Lasek Miejski nad Puńcówką",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.7391,
+      "srodek_lon": 18.63152,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116145,
+      "nazwa": "Lipiny w Puszczy Białowieskiej",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 52.75405,
+      "srodek_lon": 23.64533,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116144,
+      "nazwa": "Lipny Dół koło Książa Wielkiego",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.47805,
+      "srodek_lon": 20.13595,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11391,
+      "nazwa": "Lubygość",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.41089,
+      "srodek_lon": 17.98859,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11340,
+      "nazwa": "Lutowo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.48356,
+      "srodek_lon": 17.40385,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116183,
+      "nazwa": "Madohora",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 49.76496,
+      "srodek_lon": 19.39512,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122830,
+      "nazwa": "Meszcze",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 51.44412,
+      "srodek_lon": 19.7858,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177478,
+      "nazwa": "Michałowiec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.32888,
+      "srodek_lon": 19.68347,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11238,
+      "nazwa": "Miedzno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.62936,
+      "srodek_lon": 18.39888,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122835,
+      "nazwa": "Międzybórz",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 53.79233,
+      "srodek_lon": 17.00029,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122856,
+      "nazwa": "Mszar nad Jeziorem Mnich",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 52.65189,
+      "srodek_lon": 16.03078,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122861,
+      "nazwa": "Murowaniec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.1359,
+      "srodek_lon": 19.07111,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122862,
+      "nazwa": "Muszkowicki Las Bukowy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 50.63987,
+      "srodek_lon": 16.94891,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11352,
+      "nazwa": "Mętne",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.78924,
+      "srodek_lon": 17.77521,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11405,
+      "nazwa": "Nad Jeziorem Trześniowskim",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 52.34393,
+      "srodek_lon": 15.28763,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122863,
+      "nazwa": "Nad Kotelniczym Potokiem",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 49.44696,
+      "srodek_lon": 20.57143,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11418,
+      "nazwa": "Nadgoplański Park Tysiąclecia",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 52.59203,
+      "srodek_lon": 18.35179,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122867,
+      "nazwa": "Niebieska Dolina",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.35136,
+      "srodek_lon": 20.23367,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11422,
+      "nazwa": "Niebieskie Źródła",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 51.51177,
+      "srodek_lon": 20.02946,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122879,
+      "nazwa": "Okalewo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.05025,
+      "srodek_lon": 19.64434,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11357,
+      "nazwa": "Okonek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.3855,
+      "srodek_lon": 19.40736,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11452,
+      "nazwa": "Okopy Konfederackie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.3685,
+      "srodek_lon": 21.08507,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122891,
+      "nazwa": "Omelno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 51.81776,
+      "srodek_lon": 22.74965,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122895,
+      "nazwa": "Orle nad Jeziorem Dużym",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 54.04604,
+      "srodek_lon": 18.21653,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11331,
+      "nazwa": "Osiny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.6322,
+      "srodek_lon": 18.61605,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 122898,
+      "nazwa": "Ostoja bobrów Marycha",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 54.14674,
+      "srodek_lon": 23.24111,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124004,
+      "nazwa": "Ostra Góra",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.17525,
+      "srodek_lon": 19.50734,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124007,
+      "nazwa": "Ostrowy nad Brynicą",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.23013,
+      "srodek_lon": 19.67728,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124020,
+      "nazwa": "Ostrzyca Proboszczowicka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.05615,
+      "srodek_lon": 15.76287,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124021,
+      "nazwa": "Ostrzycki Las",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 54.24517,
+      "srodek_lon": 18.10216,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124005,
+      "nazwa": "Ostrężnik",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.67479,
+      "srodek_lon": 19.39996,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124023,
+      "nazwa": "Ozy Kiczarowskie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.35833,
+      "srodek_lon": 15.10335,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124026,
+      "nazwa": "Parów Węgry",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 53.97927,
+      "srodek_lon": 18.96853,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124029,
+      "nazwa": "Piekiełko Koło Tomaszowa Lubelskiego",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.44395,
+      "srodek_lon": 23.46332,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124036,
+      "nazwa": "Pióropusznikowy Jar",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.24912,
+      "srodek_lon": 19.6208,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124061,
+      "nazwa": "Przekop",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 52.38446,
+      "srodek_lon": 22.61569,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124062,
+      "nazwa": "Przylesie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 50.79902,
+      "srodek_lon": 17.35488,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177537,
+      "nazwa": "Przęślin",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.37805,
+      "srodek_lon": 20.71719,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124065,
+      "nazwa": "Pusta Wielka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.47703,
+      "srodek_lon": 20.45943,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124068,
+      "nazwa": "Puszcza Śnieżnej Białki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 50.23982,
+      "srodek_lon": 16.98752,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124073,
+      "nazwa": "Rejna",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 52.77568,
+      "srodek_lon": 18.45699,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11239,
+      "nazwa": "Reptowo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.16578,
+      "srodek_lon": 18.2499,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177546,
+      "nazwa": "Rezerwat Krajobrazowy Władysława Szafera",
+      "kategoria_z_nazwy": "rezerwat przyrody",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 52.70615,
+      "srodek_lon": 23.71753,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124089,
+      "nazwa": "Rezerwat Tysiąclecia na Cergowej Górze",
+      "kategoria_z_nazwy": "rezerwat przyrody",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.53348,
+      "srodek_lon": 21.70775,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124093,
+      "nazwa": "Rogalice",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 50.98051,
+      "srodek_lon": 17.61434,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124094,
+      "nazwa": "Rogów",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 50.79723,
+      "srodek_lon": 23.52544,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124095,
+      "nazwa": "Romanka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.56052,
+      "srodek_lon": 19.24103,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11375,
+      "nazwa": "Rotuz",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 49.89591,
+      "srodek_lon": 18.88128,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124101,
+      "nazwa": "Rudka Sanatoryjna",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 52.15814,
+      "srodek_lon": 21.81971,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 19009,
+      "nazwa": "Rzeka Drwęca",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 53.51196,
+      "srodek_lon": 19.66212,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124107,
+      "nazwa": "Serniawy",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 51.32932,
+      "srodek_lon": 23.36261,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11438,
+      "nazwa": "Skała Kmity",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.09963,
+      "srodek_lon": 19.81221,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177560,
+      "nazwa": "Skałka Rogoźnicka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.43443,
+      "srodek_lon": 19.95604,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11233,
+      "nazwa": "Skałki Stoleckie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 50.59753,
+      "srodek_lon": 16.87555,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177567,
+      "nazwa": "Skorocice",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.42153,
+      "srodek_lon": 20.67285,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177568,
+      "nazwa": "Skotniki Górne",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.42329,
+      "srodek_lon": 20.63405,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177569,
+      "nazwa": "Skowronno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.54906,
+      "srodek_lon": 20.48608,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 124119,
+      "nazwa": "Skrzypny Ostrów",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 50.52449,
+      "srodek_lon": 23.42471,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11431,
+      "nazwa": "Smoleń",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.43791,
+      "srodek_lon": 19.6755,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11284,
+      "nazwa": "Sołtysek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 53.60161,
+      "srodek_lon": 20.83932,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11260,
+      "nazwa": "Staniszewskie Błoto",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.36636,
+      "srodek_lon": 18.02673,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145182,
+      "nazwa": "Starożyn",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.86533,
+      "srodek_lon": 23.34747,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11346,
+      "nazwa": "Stary Załom",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 53.08503,
+      "srodek_lon": 16.04907,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11231,
+      "nazwa": "Stawy Milickie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.52636,
+      "srodek_lon": 17.23493,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11336,
+      "nazwa": "Stręszek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.38235,
+      "srodek_lon": 19.39855,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145196,
+      "nazwa": "Studnica",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.14634,
+      "srodek_lon": 17.91737,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11442,
+      "nazwa": "Sufraganiec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 50.91583,
+      "srodek_lon": 20.61884,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145200,
+      "nazwa": "Surowe",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 53.35787,
+      "srodek_lon": 21.13588,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11390,
+      "nazwa": "Szczyt Wieżyca na Pojezierzu Kaszubskim",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 54.22595,
+      "srodek_lon": 18.12269,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145205,
+      "nazwa": "Szeroka w Beskidzie Małym",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 49.77322,
+      "srodek_lon": 19.26458,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 849,
+      "nazwa": "Słowiński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1967,
+      "srodek_lat": 54.71418,
+      "srodek_lon": 17.30716,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11319,
+      "nazwa": "Tchórzyno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 53.01162,
+      "srodek_lon": 14.8461,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11424,
+      "nazwa": "Tomczyce",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 51.62728,
+      "srodek_lon": 20.6829,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145219,
+      "nazwa": "Tomkowo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.1499,
+      "srodek_lon": 19.20503,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11359,
+      "nazwa": "Torfowisko Lis",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.71572,
+      "srodek_lon": 18.12402,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145225,
+      "nazwa": "Torfowisko nad Jeziorem Morzysław Mały",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.57957,
+      "srodek_lon": 16.02623,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11316,
+      "nazwa": "Torfowisko Źródliskowe w Gostyniu Starym",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.90111,
+      "srodek_lon": 16.94783,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11342,
+      "nazwa": "Urbanowo",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 52.27834,
+      "srodek_lon": 16.43098,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11386,
+      "nazwa": "Wieleń",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 54.15741,
+      "srodek_lon": 16.71155,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145292,
+      "nazwa": "Wilanów",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1966,
+      "srodek_lat": 52.87901,
+      "srodek_lon": 15.42894,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11348,
+      "nazwa": "Wilcze Błoto",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 52.84007,
+      "srodek_lon": 16.38552,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145302,
+      "nazwa": "Winiary Zagojskie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 50.43071,
+      "srodek_lon": 20.6613,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145305,
+      "nazwa": "Wiosło Małe",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 53.71499,
+      "srodek_lon": 18.80495,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 855,
+      "nazwa": "Woliński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1960,
+      "srodek_lat": 53.92498,
+      "srodek_lon": 14.4841,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11450,
+      "nazwa": "Wysokie Skałki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.3825,
+      "srodek_lon": 20.55408,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11396,
+      "nazwa": "Wyspa Lipowa",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 53.83418,
+      "srodek_lon": 20.07894,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11407,
+      "nazwa": "Wzgórze Joanny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.468,
+      "srodek_lon": 17.26201,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11436,
+      "nazwa": "Wąwóz Bolechowicki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 50.1559,
+      "srodek_lon": 19.784,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11449,
+      "nazwa": "Wąwóz Homole",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 49.40029,
+      "srodek_lon": 20.54831,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145265,
+      "nazwa": "Wąwóz Myśliborski koło Jawora",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.0151,
+      "srodek_lon": 16.09832,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145350,
+      "nazwa": "Zagożdżon",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 51.53129,
+      "srodek_lon": 21.4355,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11440,
+      "nazwa": "Zamczysko nad Rabą",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 49.8176,
+      "srodek_lon": 19.94692,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11451,
+      "nazwa": "Zaskalskie-Bodnarówka",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1961,
+      "srodek_lat": 49.39488,
+      "srodek_lon": 20.56568,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145358,
+      "nazwa": "Zbocza Płutowskie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.29226,
+      "srodek_lon": 18.37877,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145363,
+      "nazwa": "Zielona Góra",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1969,
+      "srodek_lat": 53.12222,
+      "srodek_lon": 17.26242,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11299,
+      "nazwa": "Zielony Mechacz",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1962,
+      "srodek_lat": 53.90452,
+      "srodek_lon": 19.69579,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145368,
+      "nazwa": "Zwierzyniec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 53.02595,
+      "srodek_lon": 21.08326,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116165,
+      "nazwa": "Łasko",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1964,
+      "srodek_lat": 53.07547,
+      "srodek_lon": 15.76553,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11205,
+      "nazwa": "Ławny Lasek",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.64372,
+      "srodek_lon": 21.37706,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 116171,
+      "nazwa": "Łęg na Kępie w Puławach",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 51.40739,
+      "srodek_lon": 21.95918,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145210,
+      "nazwa": "Śnieżnica",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 49.71589,
+      "srodek_lon": 20.19084,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11415,
+      "nazwa": "Śnieżnik Kłodzki",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1965,
+      "srodek_lat": 50.2101,
+      "srodek_lon": 16.84774,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145214,
+      "nazwa": "Świdwie",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1963,
+      "srodek_lat": 53.56257,
+      "srodek_lon": 14.36024,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 145374,
+      "nazwa": "Żądłowice",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1968,
+      "srodek_lat": 51.56498,
+      "srodek_lon": 20.29268,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — obszary chronione ustanowione w latach 1960–1969 (CDDA) - Bezpłatne pobieranie",
+    "description": "195 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1960–1969 (podzbiór pl-obszary-chronione-cdda). Zawiera 195 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — obszary chronione ustanowione w latach 1960–1969 (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — obszary chronione ustanowione w latach 1960–1969 (CDDA) — 195 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 195 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

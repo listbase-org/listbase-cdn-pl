@@ -1,0 +1,476 @@
+{
+  "id": "pl-lubuskie-cities",
+  "name": "Województwo lubuskie — miasta",
+  "title": "Województwo lubuskie — miasta",
+  "description": "Lista miast w województwie lubuskim (województwo lubuskie) — 41 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the lubuskie voivodeship — 41 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 219,
+      "name": "Babimost",
+      "slug": "babimost",
+      "name_locative": "Babimoście",
+      "county_id": 74,
+      "county_name": "zielonogórski",
+      "latitude": 52.165312,
+      "longitude": 15.8285175
+    },
+    {
+      "city_id": 203,
+      "name": "Bytom Odrzański",
+      "slug": "bytom-odrzanski",
+      "name_locative": "Bytomiu Odrzańskim",
+      "county_id": 69,
+      "county_name": "nowosolski",
+      "latitude": 51.7308267,
+      "longitude": 15.826918
+    },
+    {
+      "city_id": 207,
+      "name": "Cybinka",
+      "slug": "cybinka",
+      "name_locative": "Cybince",
+      "county_id": 70,
+      "county_name": "słubicki",
+      "latitude": 52.1940293,
+      "longitude": 14.7968841
+    },
+    {
+      "city_id": 220,
+      "name": "Czerwieńsk",
+      "slug": "czerwiensk",
+      "name_locative": "Czerwieńsku",
+      "county_id": 74,
+      "county_name": "zielonogórski",
+      "latitude": 52.0130585,
+      "longitude": 15.4211463
+    },
+    {
+      "city_id": 211,
+      "name": "Dobiegniew",
+      "slug": "dobiegniew",
+      "name_locative": "Dobiegniewiu",
+      "county_id": 71,
+      "county_name": "strzelecko-drezdenecki",
+      "latitude": 52.9667749,
+      "longitude": 15.7548055
+    },
+    {
+      "city_id": 212,
+      "name": "Drezdenko",
+      "slug": "drezdenko",
+      "name_locative": "Drezdenku",
+      "county_id": 71,
+      "county_name": "strzelecko-drezdenecki",
+      "latitude": 52.8396642,
+      "longitude": 15.8323083
+    },
+    {
+      "city_id": 224,
+      "name": "Gozdnica",
+      "slug": "gozdnica",
+      "name_locative": "Gozdnicy",
+      "county_id": 75,
+      "county_name": "żagański",
+      "latitude": 51.45355275,
+      "longitude": 15.08160015
+    },
+    {
+      "city_id": 197,
+      "name": "Gubin",
+      "slug": "gubin",
+      "name_locative": "Gubinie",
+      "county_id": 67,
+      "county_name": "krośnieński",
+      "latitude": 51.95734105,
+      "longitude": 14.73704256
+    },
+    {
+      "city_id": 226,
+      "name": "Iłowa",
+      "slug": "ilowa",
+      "name_locative": "Iłowej 1)Iłowie 2)",
+      "county_id": 75,
+      "county_name": "żagański",
+      "latitude": 51.5006828,
+      "longitude": 15.1984599
+    },
+    {
+      "city_id": 231,
+      "name": "Jasień",
+      "slug": "jasien",
+      "name_locative": "Jasieniu",
+      "county_id": 76,
+      "county_name": "żarski",
+      "latitude": 51.7515442,
+      "longitude": 15.0123351
+    },
+    {
+      "city_id": 221,
+      "name": "Kargowa",
+      "slug": "kargowa",
+      "name_locative": "Kargowej",
+      "county_id": 74,
+      "county_name": "zielonogórski",
+      "latitude": 52.0719225,
+      "longitude": 15.8648044
+    },
+    {
+      "city_id": 195,
+      "name": "Kostrzyn nad Odrą",
+      "slug": "kostrzyn-nad-odra",
+      "name_locative": "Kostrzynie nad Odrą",
+      "county_id": 66,
+      "county_name": "gorzowski",
+      "latitude": 52.61626975,
+      "longitude": 14.6279477
+    },
+    {
+      "city_id": 204,
+      "name": "Kożuchów",
+      "slug": "kozuchow",
+      "name_locative": "Kożuchowie",
+      "county_id": 69,
+      "county_name": "nowosolski",
+      "latitude": 51.7454592,
+      "longitude": 15.5944597
+    },
+    {
+      "city_id": 198,
+      "name": "Krosno Odrzańskie",
+      "slug": "krosno-odrzanskie",
+      "name_locative": "Krośnie Odrzańskim",
+      "county_id": 67,
+      "county_name": "krośnieński",
+      "latitude": 52.0536361,
+      "longitude": 15.0980258
+    },
+    {
+      "city_id": 214,
+      "name": "Lubniewice",
+      "slug": "lubniewice",
+      "name_locative": "Lubniewicach",
+      "county_id": 72,
+      "county_name": "sulęciński",
+      "latitude": 52.5119594,
+      "longitude": 15.2441003
+    },
+    {
+      "city_id": 232,
+      "name": "Lubsko",
+      "slug": "lubsko",
+      "name_locative": "Lubsku",
+      "county_id": 76,
+      "county_name": "żarski",
+      "latitude": 51.7881902,
+      "longitude": 14.9721266
+    },
+    {
+      "city_id": 227,
+      "name": "Małomice",
+      "slug": "malomice",
+      "name_locative": "Małomicach",
+      "county_id": 75,
+      "county_name": "żagański",
+      "latitude": 51.5550002,
+      "longitude": 15.4472908
+    },
+    {
+      "city_id": 199,
+      "name": "Międzyrzecz",
+      "slug": "miedzyrzecz",
+      "name_locative": "Międzyrzeczu",
+      "county_id": 68,
+      "county_name": "międzyrzecki",
+      "latitude": 52.4448261,
+      "longitude": 15.578637
+    },
+    {
+      "city_id": 202,
+      "name": "Nowa Sól",
+      "slug": "nowa-sol",
+      "name_locative": "Nowej Soli",
+      "county_id": 69,
+      "county_name": "nowosolski",
+      "latitude": 51.8033431,
+      "longitude": 15.70623805
+    },
+    {
+      "city_id": 205,
+      "name": "Nowe Miasteczko",
+      "slug": "nowe-miasteczko",
+      "name_locative": "Nowym Miasteczku",
+      "county_id": 69,
+      "county_name": "nowosolski",
+      "latitude": 51.6908103,
+      "longitude": 15.7311977
+    },
+    {
+      "city_id": 222,
+      "name": "Nowogród Bobrzański",
+      "slug": "nowogrod-bobrzanski",
+      "name_locative": "Nowogrodzie Bobrzańskim",
+      "county_id": 74,
+      "county_name": "zielonogórski",
+      "latitude": 51.7986474,
+      "longitude": 15.2365032
+    },
+    {
+      "city_id": 206,
+      "name": "Otyń",
+      "slug": "otyn",
+      "name_locative": "Otyniu",
+      "county_id": 69,
+      "county_name": "nowosolski",
+      "latitude": 51.8473213,
+      "longitude": 15.7104
+    },
+    {
+      "city_id": 208,
+      "name": "Ośno Lubuskie",
+      "slug": "osno-lubuskie",
+      "name_locative": "Ośnie Lubuskim",
+      "county_id": 70,
+      "county_name": "słubicki",
+      "latitude": 52.455132,
+      "longitude": 14.8682003
+    },
+    {
+      "city_id": 209,
+      "name": "Rzepin",
+      "slug": "rzepin",
+      "name_locative": "Rzepinie",
+      "county_id": 70,
+      "county_name": "słubicki",
+      "latitude": 52.34432,
+      "longitude": 14.8382902
+    },
+    {
+      "city_id": 200,
+      "name": "Skwierzyna",
+      "slug": "skwierzyna",
+      "name_locative": "Skwierzynie",
+      "county_id": 68,
+      "county_name": "międzyrzecki",
+      "latitude": 52.5967483,
+      "longitude": 15.5010958
+    },
+    {
+      "city_id": 213,
+      "name": "Strzelce Krajeńskie",
+      "slug": "strzelce-krajenskie",
+      "name_locative": "Strzelcach Krajeńskich",
+      "county_id": 71,
+      "county_name": "strzelecko-drezdenecki",
+      "latitude": 52.8785255,
+      "longitude": 15.5325925
+    },
+    {
+      "city_id": 223,
+      "name": "Sulechów",
+      "slug": "sulechow",
+      "name_locative": "Sulechowie",
+      "county_id": 74,
+      "county_name": "zielonogórski",
+      "latitude": 52.0854782,
+      "longitude": 15.6259091
+    },
+    {
+      "city_id": 215,
+      "name": "Sulęcin",
+      "slug": "sulecin",
+      "name_locative": "Sulęcinie",
+      "county_id": 72,
+      "county_name": "sulęciński",
+      "latitude": 52.4413768,
+      "longitude": 15.1161501
+    },
+    {
+      "city_id": 234,
+      "name": "Szlichtyngowa",
+      "slug": "szlichtyngowa",
+      "name_locative": "Szlichtyngowej",
+      "county_id": 77,
+      "county_name": "wschowski",
+      "latitude": 51.7140748,
+      "longitude": 16.2445989
+    },
+    {
+      "city_id": 228,
+      "name": "Szprotawa",
+      "slug": "szprotawa",
+      "name_locative": "Szprotawie",
+      "county_id": 75,
+      "county_name": "żagański",
+      "latitude": 51.5650714,
+      "longitude": 15.5367584
+    },
+    {
+      "city_id": 233,
+      "name": "Sława",
+      "slug": "slawa",
+      "name_locative": "Sławie",
+      "county_id": 77,
+      "county_name": "wschowski",
+      "latitude": 51.8807001,
+      "longitude": 16.0702499
+    },
+    {
+      "city_id": 210,
+      "name": "Słubice",
+      "slug": "slubice",
+      "name_locative": "Słubicach",
+      "county_id": 70,
+      "county_name": "słubicki",
+      "latitude": 52.3557481,
+      "longitude": 14.5662367
+    },
+    {
+      "city_id": 216,
+      "name": "Torzym",
+      "slug": "torzym",
+      "name_locative": "Torzymiu",
+      "county_id": 72,
+      "county_name": "sulęciński",
+      "latitude": 52.3138586,
+      "longitude": 15.0828279
+    },
+    {
+      "city_id": 201,
+      "name": "Trzciel",
+      "slug": "trzciel",
+      "name_locative": "Trzcielu",
+      "county_id": 68,
+      "county_name": "międzyrzecki",
+      "latitude": 52.365166,
+      "longitude": 15.873213
+    },
+    {
+      "city_id": 196,
+      "name": "Witnica",
+      "slug": "witnica",
+      "name_locative": "Witnicy",
+      "county_id": 66,
+      "county_name": "gorzowski",
+      "latitude": 52.6729399,
+      "longitude": 14.8972121
+    },
+    {
+      "city_id": 235,
+      "name": "Wschowa",
+      "slug": "wschowa",
+      "name_locative": "Wschowie",
+      "county_id": 77,
+      "county_name": "wschowski",
+      "latitude": 51.8038354,
+      "longitude": 16.3172771
+    },
+    {
+      "city_id": 218,
+      "name": "Zbąszynek",
+      "slug": "zbaszynek",
+      "name_locative": "Zbąszynku",
+      "county_id": 73,
+      "county_name": "świebodziński",
+      "latitude": 52.2435002,
+      "longitude": 15.8139047
+    },
+    {
+      "city_id": 229,
+      "name": "Łęknica",
+      "slug": "leknica",
+      "name_locative": "Łęknicy",
+      "county_id": 76,
+      "county_name": "żarski",
+      "latitude": 51.5473961,
+      "longitude": 14.75404758
+    },
+    {
+      "city_id": 217,
+      "name": "Świebodzin",
+      "slug": "swiebodzin",
+      "name_locative": "Świebodzinie",
+      "county_id": 73,
+      "county_name": "świebodziński",
+      "latitude": 52.2498357,
+      "longitude": 15.5324973
+    },
+    {
+      "city_id": 225,
+      "name": "Żagań",
+      "slug": "zagan",
+      "name_locative": "Żaganiu",
+      "county_id": 75,
+      "county_name": "żagański",
+      "latitude": 51.61532315,
+      "longitude": 15.3007806
+    },
+    {
+      "city_id": 230,
+      "name": "Żary",
+      "slug": "zary",
+      "name_locative": "Żarach",
+      "county_id": 76,
+      "county_name": "żarski",
+      "latitude": 51.62443815,
+      "longitude": 15.14872467
+    }
+  ],
+  "meta": {
+    "title": "Województwo lubuskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie lubuskim (województwo lubuskie) — 41 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the lubuskie voivodeship — 41 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 41 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo lubuskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo lubuskie — miasta — 41 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 41 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

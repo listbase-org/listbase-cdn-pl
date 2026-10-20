@@ -1,0 +1,386 @@
+{
+  "id": "tech-screen-resolutions",
+  "name": "Screen Resolutions & Aspect Ratios Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Resolution Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width (px)",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height (px)",
+      "type": "number"
+    },
+    {
+      "key": "total_pixels",
+      "label": "Total Pixels",
+      "type": "string"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "VGA",
+      "width": 640,
+      "height": 480,
+      "total_pixels": "307 KP",
+      "aspect_ratio": "4:3",
+      "category": "Starsze",
+      "usage": "Starsze monitory, projektory"
+    },
+    {
+      "name": "SVGA",
+      "width": 800,
+      "height": 600,
+      "total_pixels": "480 KP",
+      "aspect_ratio": "4:3",
+      "category": "Starsze",
+      "usage": "Starsze monitory"
+    },
+    {
+      "name": "XGA",
+      "width": 1024,
+      "height": 768,
+      "total_pixels": "786 KP",
+      "aspect_ratio": "4:3",
+      "category": "Starsze",
+      "usage": "Starsze monitory, projektory"
+    },
+    {
+      "name": "SXGA",
+      "width": 1280,
+      "height": 1024,
+      "total_pixels": "1.3 MP",
+      "aspect_ratio": "5:4",
+      "category": "Starsze",
+      "usage": "Starsze monitory"
+    },
+    {
+      "name": "UXGA",
+      "width": 1600,
+      "height": 1200,
+      "total_pixels": "1.9 MP",
+      "aspect_ratio": "4:3",
+      "category": "Starsze",
+      "usage": "Monitory profesjonalne"
+    },
+    {
+      "name": "HD (720p)",
+      "width": 1280,
+      "height": 720,
+      "total_pixels": "922 KP",
+      "aspect_ratio": "16:9",
+      "category": "HD",
+      "usage": "Telewizory HD, streaming"
+    },
+    {
+      "name": "HD+",
+      "width": 1600,
+      "height": 900,
+      "total_pixels": "1.4 MP",
+      "aspect_ratio": "16:9",
+      "category": "HD",
+      "usage": "Laptopy"
+    },
+    {
+      "name": "Full HD (1080p)",
+      "width": 1920,
+      "height": 1080,
+      "total_pixels": "2.1 MP",
+      "aspect_ratio": "16:9",
+      "category": "HD",
+      "usage": "Monitory, telewizory, streaming"
+    },
+    {
+      "name": "QHD (1440p)",
+      "width": 2560,
+      "height": 1440,
+      "total_pixels": "3.7 MP",
+      "aspect_ratio": "16:9",
+      "category": "HD",
+      "usage": "Monitory gamingowe"
+    },
+    {
+      "name": "4K UHD",
+      "width": 3840,
+      "height": 2160,
+      "total_pixels": "8.3 MP",
+      "aspect_ratio": "16:9",
+      "category": "Ultra HD",
+      "usage": "Monitory wysokiej klasy, telewizory"
+    },
+    {
+      "name": "5K",
+      "width": 5120,
+      "height": 2880,
+      "total_pixels": "14.7 MP",
+      "aspect_ratio": "16:9",
+      "category": "Ultra HD",
+      "usage": "Monitory profesjonalne"
+    },
+    {
+      "name": "8K UHD",
+      "width": 7680,
+      "height": 4320,
+      "total_pixels": "33.2 MP",
+      "aspect_ratio": "16:9",
+      "category": "Ultra HD",
+      "usage": "Telewizory wysokiej klasy"
+    },
+    {
+      "name": "WXGA",
+      "width": 1280,
+      "height": 800,
+      "total_pixels": "1.0 MP",
+      "aspect_ratio": "16:10",
+      "category": "Szerokoekranowy",
+      "usage": "Laptopy, tablety"
+    },
+    {
+      "name": "WXGA+",
+      "width": 1440,
+      "height": 900,
+      "total_pixels": "1.3 MP",
+      "aspect_ratio": "16:10",
+      "category": "Szerokoekranowy",
+      "usage": "Laptopy"
+    },
+    {
+      "name": "WSXGA+",
+      "width": 1680,
+      "height": 1050,
+      "total_pixels": "1.8 MP",
+      "aspect_ratio": "16:10",
+      "category": "Szerokoekranowy",
+      "usage": "Monitory"
+    },
+    {
+      "name": "WUXGA",
+      "width": 1920,
+      "height": 1200,
+      "total_pixels": "2.3 MP",
+      "aspect_ratio": "16:10",
+      "category": "Szerokoekranowy",
+      "usage": "Monitory profesjonalne"
+    },
+    {
+      "name": "WQXGA",
+      "width": 2560,
+      "height": 1600,
+      "total_pixels": "4.1 MP",
+      "aspect_ratio": "16:10",
+      "category": "Szerokoekranowy",
+      "usage": "Laptopy wysokiej klasy"
+    },
+    {
+      "name": "UWHD",
+      "width": 2560,
+      "height": 1080,
+      "total_pixels": "2.8 MP",
+      "aspect_ratio": "21:9",
+      "category": "Ultraszeroki",
+      "usage": "Monitory ultraszerokie"
+    },
+    {
+      "name": "UWQHD",
+      "width": 3440,
+      "height": 1440,
+      "total_pixels": "5.0 MP",
+      "aspect_ratio": "21:9",
+      "category": "Ultraszeroki",
+      "usage": "Ultraszerokie monitory gamingowe"
+    },
+    {
+      "name": "UW5K",
+      "width": 5120,
+      "height": 2160,
+      "total_pixels": "11.1 MP",
+      "aspect_ratio": "21:9",
+      "category": "Ultraszeroki",
+      "usage": "Profesjonalne monitory ultraszerokie"
+    },
+    {
+      "name": "DFHD",
+      "width": 3840,
+      "height": 1080,
+      "total_pixels": "4.1 MP",
+      "aspect_ratio": "32:9",
+      "category": "Super Ultraszerokie",
+      "usage": "Zastępstwo dla dwóch ekranów"
+    },
+    {
+      "name": "DQHD",
+      "width": 5120,
+      "height": 1440,
+      "total_pixels": "7.4 MP",
+      "aspect_ratio": "32:9",
+      "category": "Super Ultraszerokie",
+      "usage": "Gry na super ultraszerokim ekranie"
+    },
+    {
+      "name": "iPhone SE",
+      "width": 750,
+      "height": 1334,
+      "total_pixels": "1.0 MP",
+      "aspect_ratio": "16:9",
+      "category": "Mobilne",
+      "usage": "iPhone SE"
+    },
+    {
+      "name": "iPhone 14",
+      "width": 1170,
+      "height": 2532,
+      "total_pixels": "3.0 MP",
+      "aspect_ratio": "19.5:9",
+      "category": "Mobilne",
+      "usage": "iPhone 14"
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "width": 1290,
+      "height": 2796,
+      "total_pixels": "3.6 MP",
+      "aspect_ratio": "19.5:9",
+      "category": "Mobilne",
+      "usage": "iPhone 14 Pro Max"
+    },
+    {
+      "name": "Android HD",
+      "width": 720,
+      "height": 1280,
+      "total_pixels": "922 KP",
+      "aspect_ratio": "16:9",
+      "category": "Mobilne",
+      "usage": "Budżetowe telefony z Androidem"
+    },
+    {
+      "name": "Android FHD+",
+      "width": 1080,
+      "height": 2340,
+      "total_pixels": "2.5 MP",
+      "aspect_ratio": "19.5:9",
+      "category": "Mobilne",
+      "usage": "Android ze średniej półki"
+    },
+    {
+      "name": "Android QHD+",
+      "width": 1440,
+      "height": 3200,
+      "total_pixels": "4.6 MP",
+      "aspect_ratio": "20:9",
+      "category": "Mobilne",
+      "usage": "Flagowy Android"
+    },
+    {
+      "name": "iPad 10.2\"",
+      "width": 2160,
+      "height": 1620,
+      "total_pixels": "3.5 MP",
+      "aspect_ratio": "4:3",
+      "category": "Tablet",
+      "usage": "Standardowy iPad"
+    },
+    {
+      "name": "iPad Air",
+      "width": 2360,
+      "height": 1640,
+      "total_pixels": "3.9 MP",
+      "aspect_ratio": "3:2",
+      "category": "Tablet",
+      "usage": "iPad Air"
+    },
+    {
+      "name": "iPad Pro 11\"",
+      "width": 2388,
+      "height": 1668,
+      "total_pixels": "4.0 MP",
+      "aspect_ratio": "3:2",
+      "category": "Tablet",
+      "usage": "iPad Pro 11\""
+    },
+    {
+      "name": "iPad Pro 12.9\"",
+      "width": 2732,
+      "height": 2048,
+      "total_pixels": "5.6 MP",
+      "aspect_ratio": "4:3",
+      "category": "Tablet",
+      "usage": "iPad Pro 12.9\""
+    },
+    {
+      "name": "DCI 2K",
+      "width": 2048,
+      "height": 1080,
+      "total_pixels": "2.2 MP",
+      "aspect_ratio": "17:9",
+      "category": "Kino",
+      "usage": "Kino cyfrowe"
+    },
+    {
+      "name": "DCI 4K",
+      "width": 4096,
+      "height": 2160,
+      "total_pixels": "8.8 MP",
+      "aspect_ratio": "17:9",
+      "category": "Kino",
+      "usage": "Kino cyfrowe"
+    },
+    {
+      "name": "Anamorphic 2.39:1",
+      "width": 2560,
+      "height": 1080,
+      "total_pixels": "2.8 MP",
+      "aspect_ratio": "2.39:1",
+      "category": "Kino",
+      "usage": "Kino szerokoekranowe"
+    }
+  ],
+  "meta": {
+    "seo_title": "Screen Resolutions & Aspect Ratios - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download Screen Resolutions & Aspect Ratios with 35 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Screen Resolutions & Aspect Ratios Dataset",
+    "description": "Screen Resolutions & Aspect Ratios dataset with 35 records.",
+    "key_takeaways": [
+      "Access 35 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use standardized codes for easy integration."
+    ],
+    "keywords": [
+      "screen resolutions & aspect ratios excel",
+      "screen resolutions & aspect ratios csv download",
+      "screen resolutions & aspect ratios data",
+      "screen resolutions & aspect ratios list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 35,
+  "title": "Screen Resolutions & Aspect Ratios Dataset"
+}

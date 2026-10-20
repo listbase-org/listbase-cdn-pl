@@ -1,0 +1,446 @@
+{
+  "id": "pl-pomorskie-cities",
+  "name": "Województwo pomorskie — miasta",
+  "title": "Województwo pomorskie — miasta",
+  "description": "Lista miast w województwie pomorskim (województwo pomorskie) — 38 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the pomorskie voivodeship — 38 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 569,
+      "name": "Brusy",
+      "slug": "brusy",
+      "name_locative": "Brusach",
+      "county_id": 202,
+      "county_name": "chojnicki",
+      "latitude": 53.8861557,
+      "longitude": 17.7190437
+    },
+    {
+      "city_id": 566,
+      "name": "Bytów",
+      "slug": "bytow",
+      "name_locative": "Bytowie",
+      "county_id": 201,
+      "county_name": "bytowski",
+      "latitude": 54.168855,
+      "longitude": 17.4922953
+    },
+    {
+      "city_id": 568,
+      "name": "Chojnice",
+      "slug": "chojnice",
+      "name_locative": "Chojnicach",
+      "county_id": 202,
+      "county_name": "chojnicki",
+      "latitude": 53.6999165,
+      "longitude": 17.57034414
+    },
+    {
+      "city_id": 592,
+      "name": "Czarna Woda",
+      "slug": "czarna-woda",
+      "name_locative": "Czarnej Wodzie",
+      "county_id": 213,
+      "county_name": "starogardzki",
+      "latitude": 53.8441983,
+      "longitude": 18.0984293
+    },
+    {
+      "city_id": 572,
+      "name": "Czarne",
+      "slug": "czarne",
+      "name_locative": "Czarnem",
+      "county_id": 203,
+      "county_name": "człuchowski",
+      "latitude": 53.68353,
+      "longitude": 16.94221
+    },
+    {
+      "city_id": 570,
+      "name": "Czersk",
+      "slug": "czersk",
+      "name_locative": "Czersku",
+      "county_id": 202,
+      "county_name": "chojnicki",
+      "latitude": 53.796196,
+      "longitude": 17.9756228
+    },
+    {
+      "city_id": 571,
+      "name": "Człuchów",
+      "slug": "czluchow",
+      "name_locative": "Człuchowie",
+      "county_id": 203,
+      "county_name": "człuchowski",
+      "latitude": 53.6634472,
+      "longitude": 17.35807477
+    },
+    {
+      "city_id": 573,
+      "name": "Debrzno",
+      "slug": "debrzno",
+      "name_locative": "Debrznie",
+      "county_id": 203,
+      "county_name": "człuchowski",
+      "latitude": 53.53861,
+      "longitude": 17.2338685
+    },
+    {
+      "city_id": 602,
+      "name": "Dzierzgoń",
+      "slug": "dzierzgon",
+      "name_locative": "Dzierzgoniu",
+      "county_id": 216,
+      "county_name": "sztumski",
+      "latitude": 53.9239051,
+      "longitude": 19.3479491
+    },
+    {
+      "city_id": 597,
+      "name": "Gniew",
+      "slug": "gniew",
+      "name_locative": "Gniewie",
+      "county_id": 214,
+      "county_name": "tczewski",
+      "latitude": 53.8342221,
+      "longitude": 18.8251596
+    },
+    {
+      "city_id": 586,
+      "name": "Hel",
+      "slug": "hel",
+      "name_locative": "Helu",
+      "county_id": 211,
+      "county_name": "pucki",
+      "latitude": 54.6369868,
+      "longitude": 18.78750405
+    },
+    {
+      "city_id": 587,
+      "name": "Jastarnia",
+      "slug": "jastarnia",
+      "name_locative": "Jastarni",
+      "county_id": 211,
+      "county_name": "pucki",
+      "latitude": 54.7084852,
+      "longitude": 18.65544758
+    },
+    {
+      "city_id": 575,
+      "name": "Kartuzy",
+      "slug": "kartuzy",
+      "name_locative": "Kartuzach",
+      "county_id": 205,
+      "county_name": "kartuski",
+      "latitude": 54.3342281,
+      "longitude": 18.1973639
+    },
+    {
+      "city_id": 577,
+      "name": "Kościerzyna",
+      "slug": "koscierzyna",
+      "name_locative": "Kościerzynie",
+      "county_id": 206,
+      "county_name": "kościerski",
+      "latitude": 54.1210215,
+      "longitude": 17.9781656
+    },
+    {
+      "city_id": 584,
+      "name": "Krynica Morska",
+      "slug": "krynica-morska",
+      "name_locative": "Krynicy Morskiej",
+      "county_id": 210,
+      "county_name": "nowodworski",
+      "latitude": 54.3800071,
+      "longitude": 19.4433631
+    },
+    {
+      "city_id": 578,
+      "name": "Kwidzyn",
+      "slug": "kwidzyn",
+      "name_locative": "Kwidzynie",
+      "county_id": 207,
+      "county_name": "kwidzyński",
+      "latitude": 53.7204653,
+      "longitude": 18.93746413
+    },
+    {
+      "city_id": 591,
+      "name": "Kępice",
+      "slug": "kepice",
+      "name_locative": "Kępicach",
+      "county_id": 212,
+      "county_name": "słupski",
+      "latitude": 54.2427792,
+      "longitude": 16.8896705
+    },
+    {
+      "city_id": 580,
+      "name": "Lębork",
+      "slug": "lebork",
+      "name_locative": "Lęborku",
+      "county_id": 208,
+      "county_name": "lęborski",
+      "latitude": 54.5326494,
+      "longitude": 17.74447475
+    },
+    {
+      "city_id": 582,
+      "name": "Malbork",
+      "slug": "malbork",
+      "name_locative": "Malborku",
+      "county_id": 209,
+      "county_name": "malborski",
+      "latitude": 54.0287383,
+      "longitude": 19.03939639
+    },
+    {
+      "city_id": 567,
+      "name": "Miastko",
+      "slug": "miastko",
+      "name_locative": "Miastku",
+      "county_id": 201,
+      "county_name": "bytowski",
+      "latitude": 54.0001478,
+      "longitude": 16.9774717
+    },
+    {
+      "city_id": 585,
+      "name": "Nowy Dwór Gdański",
+      "slug": "nowy-dwor-gdanski",
+      "name_locative": "Nowym Dworze Gdańskim",
+      "county_id": 210,
+      "county_name": "nowodworski",
+      "latitude": 54.2146299,
+      "longitude": 19.1150846
+    },
+    {
+      "city_id": 583,
+      "name": "Nowy Staw",
+      "slug": "nowy-staw",
+      "name_locative": "Nowym Stawie",
+      "county_id": 209,
+      "county_name": "malborski",
+      "latitude": 54.1342754,
+      "longitude": 19.0086861
+    },
+    {
+      "city_id": 598,
+      "name": "Pelplin",
+      "slug": "pelplin",
+      "name_locative": "Pelplinie",
+      "county_id": 214,
+      "county_name": "tczewski",
+      "latitude": 53.9282663,
+      "longitude": 18.6977797
+    },
+    {
+      "city_id": 579,
+      "name": "Prabuty",
+      "slug": "prabuty",
+      "name_locative": "Prabutach",
+      "county_id": 207,
+      "county_name": "kwidzyński",
+      "latitude": 53.755995,
+      "longitude": 19.2044449
+    },
+    {
+      "city_id": 574,
+      "name": "Pruszcz Gdański",
+      "slug": "pruszcz-gdanski",
+      "name_locative": "Pruszczu Gdańskim",
+      "county_id": 204,
+      "county_name": "gdański",
+      "latitude": 54.25785495,
+      "longitude": 18.65011494
+    },
+    {
+      "city_id": 588,
+      "name": "Puck",
+      "slug": "puck",
+      "name_locative": "Pucku",
+      "county_id": 211,
+      "county_name": "pucki",
+      "latitude": 54.7144128,
+      "longitude": 18.40678211
+    },
+    {
+      "city_id": 599,
+      "name": "Reda",
+      "slug": "reda",
+      "name_locative": "Redzie",
+      "county_id": 215,
+      "county_name": "wejherowski",
+      "latitude": 54.6210145,
+      "longitude": 18.3217089
+    },
+    {
+      "city_id": 600,
+      "name": "Rumia",
+      "slug": "rumia",
+      "name_locative": "Rumi",
+      "county_id": 215,
+      "county_name": "wejherowski",
+      "latitude": 54.570081,
+      "longitude": 18.38462387
+    },
+    {
+      "city_id": 595,
+      "name": "Skarszewy",
+      "slug": "skarszewy",
+      "name_locative": "Skarszewach",
+      "county_id": 213,
+      "county_name": "starogardzki",
+      "latitude": 54.0717523,
+      "longitude": 18.4459951
+    },
+    {
+      "city_id": 593,
+      "name": "Skórcz",
+      "slug": "skorcz",
+      "name_locative": "Skórczu",
+      "county_id": 213,
+      "county_name": "starogardzki",
+      "latitude": 53.7945454,
+      "longitude": 18.5174785
+    },
+    {
+      "city_id": 594,
+      "name": "Starogard Gdański",
+      "slug": "starogard-gdanski",
+      "name_locative": "Starogardzie Gdańskim",
+      "county_id": 213,
+      "county_name": "starogardzki",
+      "latitude": 53.96553375,
+      "longitude": 18.52689298
+    },
+    {
+      "city_id": 603,
+      "name": "Sztum",
+      "slug": "sztum",
+      "name_locative": "Sztumie",
+      "county_id": 216,
+      "county_name": "sztumski",
+      "latitude": 53.9198663,
+      "longitude": 19.0305384
+    },
+    {
+      "city_id": 596,
+      "name": "Tczew",
+      "slug": "tczew",
+      "name_locative": "Tczewie",
+      "county_id": 214,
+      "county_name": "tczewski",
+      "latitude": 54.09087615,
+      "longitude": 18.77794353
+    },
+    {
+      "city_id": 590,
+      "name": "Ustka",
+      "slug": "ustka",
+      "name_locative": "Ustce",
+      "county_id": 212,
+      "county_name": "słupski",
+      "latitude": 54.5737646,
+      "longitude": 16.85872869
+    },
+    {
+      "city_id": 601,
+      "name": "Wejherowo",
+      "slug": "wejherowo",
+      "name_locative": "Wejherowie",
+      "county_id": 215,
+      "county_name": "wejherowski",
+      "latitude": 54.6060682,
+      "longitude": 18.23178606
+    },
+    {
+      "city_id": 589,
+      "name": "Władysławowo",
+      "slug": "wladyslawowo",
+      "name_locative": "Władysławowie",
+      "county_id": 211,
+      "county_name": "pucki",
+      "latitude": 54.7796139,
+      "longitude": 18.4137851
+    },
+    {
+      "city_id": 581,
+      "name": "Łeba",
+      "slug": "leba",
+      "name_locative": "Łebie",
+      "county_id": 208,
+      "county_name": "lęborski",
+      "latitude": 54.7604388,
+      "longitude": 17.53137695
+    },
+    {
+      "city_id": 576,
+      "name": "Żukowo",
+      "slug": "zukowo",
+      "name_locative": "Żukowie",
+      "county_id": 205,
+      "county_name": "kartuski",
+      "latitude": 54.3458564,
+      "longitude": 18.3650087
+    }
+  ],
+  "meta": {
+    "title": "Województwo pomorskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie pomorskim (województwo pomorskie) — 38 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the pomorskie voivodeship — 38 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 38 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo pomorskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo pomorskie — miasta — 38 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 38 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "id": "geo-japan-prefectures",
+  "name": "Prefektury Japonii: Dane Geograficzne i Demograficzne",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_jp",
+      "label": "Name (Japanese)",
+      "type": "string"
+    },
+    {
+      "key": "name_romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital_jp",
+      "label": "Capital (Japanese)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Hokkaido",
+      "name_jp": "北海道",
+      "name_romaji": "Hokkaidō",
+      "capital": "Sapporo",
+      "capital_jp": "札幌市",
+      "region": "Hokkaido",
+      "iso_code": "JP-01",
+      "population": 5224614,
+      "area_km2": 83424
+    },
+    {
+      "name_en": "Aomori",
+      "name_jp": "青森県",
+      "name_romaji": "Aomori-ken",
+      "capital": "Aomori",
+      "capital_jp": "青森市",
+      "region": "Tohoku",
+      "iso_code": "JP-02",
+      "population": 1237984,
+      "area_km2": 9646
+    },
+    {
+      "name_en": "Iwate",
+      "name_jp": "岩手県",
+      "name_romaji": "Iwate-ken",
+      "capital": "Morioka",
+      "capital_jp": "盛岡市",
+      "region": "Tohoku",
+      "iso_code": "JP-03",
+      "population": 1210534,
+      "area_km2": 15275
+    },
+    {
+      "name_en": "Miyagi",
+      "name_jp": "宮城県",
+      "name_romaji": "Miyagi-ken",
+      "capital": "Sendai",
+      "capital_jp": "仙台市",
+      "region": "Tohoku",
+      "iso_code": "JP-04",
+      "population": 2301996,
+      "area_km2": 7282
+    },
+    {
+      "name_en": "Akita",
+      "name_jp": "秋田県",
+      "name_romaji": "Akita-ken",
+      "capital": "Akita",
+      "capital_jp": "秋田市",
+      "region": "Tohoku",
+      "iso_code": "JP-05",
+      "population": 959502,
+      "area_km2": 11638
+    },
+    {
+      "name_en": "Yamagata",
+      "name_jp": "山形県",
+      "name_romaji": "Yamagata-ken",
+      "capital": "Yamagata",
+      "capital_jp": "山形市",
+      "region": "Tohoku",
+      "iso_code": "JP-06",
+      "population": 1068027,
+      "area_km2": 9323
+    },
+    {
+      "name_en": "Fukushima",
+      "name_jp": "福島県",
+      "name_romaji": "Fukushima-ken",
+      "capital": "Fukushima",
+      "capital_jp": "福島市",
+      "region": "Tohoku",
+      "iso_code": "JP-07",
+      "population": 1833152,
+      "area_km2": 13784
+    },
+    {
+      "name_en": "Ibaraki",
+      "name_jp": "茨城県",
+      "name_romaji": "Ibaraki-ken",
+      "capital": "Mito",
+      "capital_jp": "水戸市",
+      "region": "Kanto",
+      "iso_code": "JP-08",
+      "population": 2867009,
+      "area_km2": 6097
+    },
+    {
+      "name_en": "Tochigi",
+      "name_jp": "栃木県",
+      "name_romaji": "Tochigi-ken",
+      "capital": "Utsunomiya",
+      "capital_jp": "宇都宮市",
+      "region": "Kanto",
+      "iso_code": "JP-09",
+      "population": 1933146,
+      "area_km2": 6408
+    },
+    {
+      "name_en": "Gunma",
+      "name_jp": "群馬県",
+      "name_romaji": "Gunma-ken",
+      "capital": "Maebashi",
+      "capital_jp": "前橋市",
+      "region": "Kanto",
+      "iso_code": "JP-10",
+      "population": 1939110,
+      "area_km2": 6362
+    },
+    {
+      "name_en": "Saitama",
+      "name_jp": "埼玉県",
+      "name_romaji": "Saitama-ken",
+      "capital": "Saitama",
+      "capital_jp": "さいたま市",
+      "region": "Kanto",
+      "iso_code": "JP-11",
+      "population": 7344765,
+      "area_km2": 3798
+    },
+    {
+      "name_en": "Chiba",
+      "name_jp": "千葉県",
+      "name_romaji": "Chiba-ken",
+      "capital": "Chiba",
+      "capital_jp": "千葉市",
+      "region": "Kanto",
+      "iso_code": "JP-12",
+      "population": 6284480,
+      "area_km2": 5158
+    },
+    {
+      "name_en": "Tokio",
+      "name_jp": "東京都",
+      "name_romaji": "Tōkyō-to",
+      "capital": "Shinjuku",
+      "capital_jp": "新宿区",
+      "region": "Kanto",
+      "iso_code": "JP-13",
+      "population": 14047594,
+      "area_km2": 2194
+    },
+    {
+      "name_en": "Kanagawa",
+      "name_jp": "神奈川県",
+      "name_romaji": "Kanagawa-ken",
+      "capital": "Jokohama",
+      "capital_jp": "横浜市",
+      "region": "Kanto",
+      "iso_code": "JP-14",
+      "population": 9237337,
+      "area_km2": 2416
+    },
+    {
+      "name_en": "Niigata",
+      "name_jp": "新潟県",
+      "name_romaji": "Niigata-ken",
+      "capital": "Niigata",
+      "capital_jp": "新潟市",
+      "region": "Chubu",
+      "iso_code": "JP-15",
+      "population": 2201272,
+      "area_km2": 12584
+    },
+    {
+      "name_en": "Toyama",
+      "name_jp": "富山県",
+      "name_romaji": "Toyama-ken",
+      "capital": "Toyama",
+      "capital_jp": "富山市",
+      "region": "Chubu",
+      "iso_code": "JP-16",
+      "population": 1034814,
+      "area_km2": 4248
+    },
+    {
+      "name_en": "Ishikawa",
+      "name_jp": "石川県",
+      "name_romaji": "Ishikawa-ken",
+      "capital": "Kanazawa",
+      "capital_jp": "金沢市",
+      "region": "Chubu",
+      "iso_code": "JP-17",
+      "population": 1132526,
+      "area_km2": 4186
+    },
+    {
+      "name_en": "Fukui",
+      "name_jp": "福井県",
+      "name_romaji": "Fukui-ken",
+      "capital": "Fukui",
+      "capital_jp": "福井市",
+      "region": "Chubu",
+      "iso_code": "JP-18",
+      "population": 766863,
+      "area_km2": 4190
+    },
+    {
+      "name_en": "Yamanashi",
+      "name_jp": "山梨県",
+      "name_romaji": "Yamanashi-ken",
+      "capital": "Kofu",
+      "capital_jp": "甲府市",
+      "region": "Chubu",
+      "iso_code": "JP-19",
+      "population": 809974,
+      "area_km2": 4465
+    },
+    {
+      "name_en": "Nagano",
+      "name_jp": "長野県",
+      "name_romaji": "Nagano-ken",
+      "capital": "Nagano",
+      "capital_jp": "長野市",
+      "region": "Chubu",
+      "iso_code": "JP-20",
+      "population": 2048011,
+      "area_km2": 13562
+    },
+    {
+      "name_en": "Gifu",
+      "name_jp": "岐阜県",
+      "name_romaji": "Gifu-ken",
+      "capital": "Gifu",
+      "capital_jp": "岐阜市",
+      "region": "Chubu",
+      "iso_code": "JP-21",
+      "population": 1978742,
+      "area_km2": 10621
+    },
+    {
+      "name_en": "Shizuoka",
+      "name_jp": "静岡県",
+      "name_romaji": "Shizuoka-ken",
+      "capital": "Shizuoka",
+      "capital_jp": "静岡市",
+      "region": "Chubu",
+      "iso_code": "JP-22",
+      "population": 3633202,
+      "area_km2": 7777
+    },
+    {
+      "name_en": "Aichi",
+      "name_jp": "愛知県",
+      "name_romaji": "Aichi-ken",
+      "capital": "Nagoja",
+      "capital_jp": "名古屋市",
+      "region": "Chubu",
+      "iso_code": "JP-23",
+      "population": 7542415,
+      "area_km2": 5173
+    },
+    {
+      "name_en": "Mie",
+      "name_jp": "三重県",
+      "name_romaji": "Mie-ken",
+      "capital": "Tsu",
+      "capital_jp": "津市",
+      "region": "Kinki",
+      "iso_code": "JP-24",
+      "population": 1770254,
+      "area_km2": 5774
+    },
+    {
+      "name_en": "Shiga",
+      "name_jp": "滋賀県",
+      "name_romaji": "Shiga-ken",
+      "capital": "Otsu",
+      "capital_jp": "大津市",
+      "region": "Kinki",
+      "iso_code": "JP-25",
+      "population": 1413610,
+      "area_km2": 4017
+    },
+    {
+      "name_en": "Kioto",
+      "name_jp": "京都府",
+      "name_romaji": "Kyōto-fu",
+      "capital": "Kioto",
+      "capital_jp": "京都市",
+      "region": "Kinki",
+      "iso_code": "JP-26",
+      "population": 2578087,
+      "area_km2": 4612
+    },
+    {
+      "name_en": "Osaka",
+      "name_jp": "大阪府",
+      "name_romaji": "Ōsaka-fu",
+      "capital": "Osaka",
+      "capital_jp": "大阪市",
+      "region": "Kinki",
+      "iso_code": "JP-27",
+      "population": 8837685,
+      "area_km2": 1905
+    },
+    {
+      "name_en": "Hyogo",
+      "name_jp": "兵庫県",
+      "name_romaji": "Hyōgo-ken",
+      "capital": "Kobe",
+      "capital_jp": "神戸市",
+      "region": "Kinki",
+      "iso_code": "JP-28",
+      "population": 5465002,
+      "area_km2": 8401
+    },
+    {
+      "name_en": "Nara",
+      "name_jp": "奈良県",
+      "name_romaji": "Nara-ken",
+      "capital": "Nara",
+      "capital_jp": "奈良市",
+      "region": "Kinki",
+      "iso_code": "JP-29",
+      "population": 1324473,
+      "area_km2": 3691
+    },
+    {
+      "name_en": "Wakayama",
+      "name_jp": "和歌山県",
+      "name_romaji": "Wakayama-ken",
+      "capital": "Wakayama",
+      "capital_jp": "和歌山市",
+      "region": "Kinki",
+      "iso_code": "JP-30",
+      "population": 922584,
+      "area_km2": 4725
+    },
+    {
+      "name_en": "Tottori",
+      "name_jp": "鳥取県",
+      "name_romaji": "Tottori-ken",
+      "capital": "Tottori",
+      "capital_jp": "鳥取市",
+      "region": "Chugoku",
+      "iso_code": "JP-31",
+      "population": 553407,
+      "area_km2": 3507
+    },
+    {
+      "name_en": "Shimane",
+      "name_jp": "島根県",
+      "name_romaji": "Shimane-ken",
+      "capital": "Matsue",
+      "capital_jp": "松江市",
+      "region": "Chugoku",
+      "iso_code": "JP-32",
+      "population": 671126,
+      "area_km2": 6708
+    },
+    {
+      "name_en": "Okayama",
+      "name_jp": "岡山県",
+      "name_romaji": "Okayama-ken",
+      "capital": "Okayama",
+      "capital_jp": "岡山市",
+      "region": "Chugoku",
+      "iso_code": "JP-33",
+      "population": 1888432,
+      "area_km2": 7115
+    },
+    {
+      "name_en": "Hiroszima",
+      "name_jp": "広島県",
+      "name_romaji": "Hiroshima-ken",
+      "capital": "Hiroszima",
+      "capital_jp": "広島市",
+      "region": "Chugoku",
+      "iso_code": "JP-34",
+      "population": 2799702,
+      "area_km2": 8479
+    },
+    {
+      "name_en": "Yamaguchi",
+      "name_jp": "山口県",
+      "name_romaji": "Yamaguchi-ken",
+      "capital": "Yamaguchi",
+      "capital_jp": "山口市",
+      "region": "Chugoku",
+      "iso_code": "JP-35",
+      "population": 1342059,
+      "area_km2": 6113
+    },
+    {
+      "name_en": "Tokushima",
+      "name_jp": "徳島県",
+      "name_romaji": "Tokushima-ken",
+      "capital": "Tokushima",
+      "capital_jp": "徳島市",
+      "region": "Shikoku",
+      "iso_code": "JP-36",
+      "population": 719559,
+      "area_km2": 4147
+    },
+    {
+      "name_en": "Kagawa",
+      "name_jp": "香川県",
+      "name_romaji": "Kagawa-ken",
+      "capital": "Takamatsu",
+      "capital_jp": "高松市",
+      "region": "Shikoku",
+      "iso_code": "JP-37",
+      "population": 950244,
+      "area_km2": 1877
+    },
+    {
+      "name_en": "Ehime",
+      "name_jp": "愛媛県",
+      "name_romaji": "Ehime-ken",
+      "capital": "Matsuyama",
+      "capital_jp": "松山市",
+      "region": "Shikoku",
+      "iso_code": "JP-38",
+      "population": 1334841,
+      "area_km2": 5676
+    },
+    {
+      "name_en": "Kochi",
+      "name_jp": "高知県",
+      "name_romaji": "Kōchi-ken",
+      "capital": "Kochi",
+      "capital_jp": "高知市",
+      "region": "Shikoku",
+      "iso_code": "JP-39",
+      "population": 691527,
+      "area_km2": 7104
+    },
+    {
+      "name_en": "Fukuoka",
+      "name_jp": "福岡県",
+      "name_romaji": "Fukuoka-ken",
+      "capital": "Fukuoka",
+      "capital_jp": "福岡市",
+      "region": "Kiusiu",
+      "iso_code": "JP-40",
+      "population": 5135214,
+      "area_km2": 4987
+    },
+    {
+      "name_en": "Saga",
+      "name_jp": "佐賀県",
+      "name_romaji": "Saga-ken",
+      "capital": "Saga",
+      "capital_jp": "佐賀市",
+      "region": "Kyushu",
+      "iso_code": "JP-41",
+      "population": 811442,
+      "area_km2": 2441
+    },
+    {
+      "name_en": "Nagasaki",
+      "name_jp": "長崎県",
+      "name_romaji": "Nagasaki-ken",
+      "capital": "Nagasaki",
+      "capital_jp": "長崎市",
+      "region": "Kyushu",
+      "iso_code": "JP-42",
+      "population": 1312317,
+      "area_km2": 4131
+    },
+    {
+      "name_en": "Kumamoto",
+      "name_jp": "熊本県",
+      "name_romaji": "Kumamoto-ken",
+      "capital": "Kumamoto",
+      "capital_jp": "熊本市",
+      "region": "Kyushu",
+      "iso_code": "JP-43",
+      "population": 1738301,
+      "area_km2": 7409
+    },
+    {
+      "name_en": "Oita",
+      "name_jp": "大分県",
+      "name_romaji": "Ōita-ken",
+      "capital": "Oita",
+      "capital_jp": "大分市",
+      "region": "Kyushu",
+      "iso_code": "JP-44",
+      "population": 1123852,
+      "area_km2": 6341
+    },
+    {
+      "name_en": "Miyazaki",
+      "name_jp": "宮崎県",
+      "name_romaji": "Miyazaki-ken",
+      "capital": "Miyazaki",
+      "capital_jp": "宮崎市",
+      "region": "Kyushu",
+      "iso_code": "JP-45",
+      "population": 1069576,
+      "area_km2": 7735
+    },
+    {
+      "name_en": "Kagoshima",
+      "name_jp": "鹿児島県",
+      "name_romaji": "Kagoshima-ken",
+      "capital": "Kagoshima",
+      "capital_jp": "鹿児島市",
+      "region": "Kyushu",
+      "iso_code": "JP-46",
+      "population": 1588256,
+      "area_km2": 9187
+    },
+    {
+      "name_en": "Okinawa",
+      "name_jp": "沖縄県",
+      "name_romaji": "Okinawa-ken",
+      "capital": "Naha",
+      "capital_jp": "那覇市",
+      "region": "Kyushu",
+      "iso_code": "JP-47",
+      "population": 1467480,
+      "area_km2": 2281
+    }
+  ],
+  "meta": {
+    "seo_title": "Prefektury Japonii - Pobierz za darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz kompleksowe dane o wszystkich 47 prefekturach Japonii, w tym stolice, regiony, populację i powierzchnię. Dostępne bezpłatnie w formatach Excel, CSV i PDF.",
+    "title": "Prefektury Japonii: Dane Geograficzne i Demograficzne",
+    "description": "Ten zbiór danych dostarcza wyczerpujących informacji o wszystkich 47 prefekturach Japonii, zawierając szczegóły takie jak nazwy angielskie i japońskie, stolice, regiony, kody ISO, populację i powierzchnię. Idealny do badań, rozwoju i celów edukacyjnych.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do aktualnych danych geograficznych i demograficznych dla wszystkich 47 japońskich prefektur.",
+      "Przeglądaj stolice prefektur (angielskie i japońskie), regiony, kody ISO, populację i powierzchnię lądową.",
+      "Pobierz kluczowe dane do projektów mapowania, analizy i edukacji.",
+      "Wykorzystaj ustrukturyzowane dane do precyzyjnych informacji geograficznych o Japonii."
+    ],
+    "keywords": [
+      "prefektury Japonii dane",
+      "lista prefektur Japonii",
+      "stolice prefektur Japonii",
+      "kody ISO Japonii dane",
+      "populacja powierzchnia prefektury excel",
+      "pobierz prefektury Japonii CSV"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do bazy danych SQL lub użyj ze skryptami Python do analizy danych geograficznych i rozwoju aplikacji.",
+      "Wykorzystaj plik **Excel** do tworzenia tabel przestawnych, filtrowania danych według regionu lub przeprowadzania porównań demograficznych między prefekturami dla raportów analitycznych.",
+      "Wydrukuj wersję **PDF** do szybkiego odniesienia, zadań klasowych lub jako poręczny przewodnik do nauki o podziałach administracyjnych Japonii offline.",
+      "Zintegruj te dane z oprogramowaniem do mapowania lub aplikacjami GIS, aby wizualizować rozmieszczenie populacji i charakterystykę regionalną w całej Japonii."
+    ]
+  },
+  "record_count": 47,
+  "title": "Prefektury Japonii: Dane Geograficzne i Demograficzne"
+}

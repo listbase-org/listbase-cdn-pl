@@ -1,0 +1,97 @@
+{
+  "id": "pl-jednostki-miary-force",
+  "name": "Jednostki miary — kategoria 'force' (4)",
+  "title": "Jednostki miary — kategoria 'force' (4)",
+  "description": "Jednostki miary kategorii 'force' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategoria": "force",
+      "nazwa": "kilogramy-siła",
+      "skrot": "kgf",
+      "forma_waska": "kgf",
+      "wzorzec": "{0} kilograma-siła"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoria": "force",
+      "nazwa": "kilowatogodziny na 100 km",
+      "skrot": "kWh/100km",
+      "forma_waska": "kWh/100km",
+      "wzorzec": "{0} kilowatogodziny na 100 km"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategoria": "force",
+      "nazwa": "niutony",
+      "skrot": "N",
+      "forma_waska": "N",
+      "wzorzec": "{0} niutona"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategoria": "force",
+      "nazwa": "funt-siła",
+      "skrot": "funt-siła",
+      "forma_waska": "lbf",
+      "wzorzec": "{0} funta-siły"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'force' (4) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'force' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 4 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'force' (4) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'force' (4) — 4 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 4 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

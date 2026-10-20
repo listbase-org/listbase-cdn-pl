@@ -1,0 +1,121 @@
+{
+  "id": "pl-pomorskie-counties",
+  "name": "Województwo pomorskie — powiaty",
+  "title": "Województwo pomorskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie pomorskim (województwo pomorskie) — 16 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the pomorskie voivodeship — 16 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 201,
+      "name": "bytowski",
+      "slug": "bytowski"
+    },
+    {
+      "county_id": 202,
+      "name": "chojnicki",
+      "slug": "chojnicki"
+    },
+    {
+      "county_id": 203,
+      "name": "człuchowski",
+      "slug": "czluchowski"
+    },
+    {
+      "county_id": 204,
+      "name": "gdański",
+      "slug": "gdanski"
+    },
+    {
+      "county_id": 205,
+      "name": "kartuski",
+      "slug": "kartuski"
+    },
+    {
+      "county_id": 206,
+      "name": "kościerski",
+      "slug": "koscierski"
+    },
+    {
+      "county_id": 207,
+      "name": "kwidzyński",
+      "slug": "kwidzynski"
+    },
+    {
+      "county_id": 208,
+      "name": "lęborski",
+      "slug": "leborski"
+    },
+    {
+      "county_id": 209,
+      "name": "malborski",
+      "slug": "malborski"
+    },
+    {
+      "county_id": 210,
+      "name": "nowodworski",
+      "slug": "nowodworski"
+    },
+    {
+      "county_id": 211,
+      "name": "pucki",
+      "slug": "pucki"
+    },
+    {
+      "county_id": 213,
+      "name": "starogardzki",
+      "slug": "starogardzki"
+    },
+    {
+      "county_id": 216,
+      "name": "sztumski",
+      "slug": "sztumski"
+    },
+    {
+      "county_id": 212,
+      "name": "słupski",
+      "slug": "slupski"
+    },
+    {
+      "county_id": 214,
+      "name": "tczewski",
+      "slug": "tczewski"
+    },
+    {
+      "county_id": 215,
+      "name": "wejherowski",
+      "slug": "wejherowski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo pomorskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie pomorskim (województwo pomorskie) — 16 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the pomorskie voivodeship — 16 entries. Excludes city-counties (see pl-city-counties). Zawiera 16 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo pomorskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo pomorskie — powiaty — 16 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 16 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

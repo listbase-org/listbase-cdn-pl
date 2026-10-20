@@ -1,0 +1,1429 @@
+{
+  "id": "geo-driving",
+  "name": "Zbiór Danych o Stronie Ruchu Drogowego i Oznaczeniach Samochodów",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "driving_side",
+      "label": "Driving Side (EN)",
+      "type": "string"
+    },
+    {
+      "key": "car_signs",
+      "label": "Car Signs",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "driving_side": "prawostronny",
+      "car_signs": "AFG"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "driving_side": "prawostronny",
+      "car_signs": "AL"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algieria",
+      "driving_side": "prawostronny",
+      "car_signs": "DZ"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andora",
+      "driving_side": "prawostronny",
+      "car_signs": "AND"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "driving_side": "prawostronny",
+      "car_signs": "ANG"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua i Barbuda",
+      "driving_side": "lewostronny",
+      "car_signs": "AG"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentyna",
+      "driving_side": "prawostronny",
+      "car_signs": "RA"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "driving_side": "prawostronny",
+      "car_signs": "AM"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "driving_side": "lewostronny",
+      "car_signs": "AUS"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "driving_side": "prawostronny",
+      "car_signs": "A"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbejdżan",
+      "driving_side": "prawostronny",
+      "car_signs": "AZ"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamy",
+      "driving_side": "lewostronny",
+      "car_signs": "BS"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrajn",
+      "driving_side": "prawostronny",
+      "car_signs": "BRN"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesz",
+      "driving_side": "lewostronny",
+      "car_signs": "BD"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "driving_side": "lewostronny",
+      "car_signs": "BDS"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Białoruś",
+      "driving_side": "prawostronny",
+      "car_signs": "BY"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "driving_side": "prawostronny",
+      "car_signs": "B"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "driving_side": "prawostronny",
+      "car_signs": "BH"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "driving_side": "prawostronny",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "driving_side": "lewostronny",
+      "car_signs": "BHT"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Boliwia",
+      "driving_side": "prawa",
+      "car_signs": "BOL"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bośnia i Hercegowina",
+      "driving_side": "prawa",
+      "car_signs": "BIH"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "driving_side": "lewa",
+      "car_signs": "BW"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazylia",
+      "driving_side": "prawa",
+      "car_signs": "BR"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "driving_side": "lewa",
+      "car_signs": "BRU"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bułgaria",
+      "driving_side": "prawa",
+      "car_signs": "BG"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "driving_side": "prawa",
+      "car_signs": "BF"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "driving_side": "prawa",
+      "car_signs": "RU"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kambodża",
+      "driving_side": "prawa",
+      "car_signs": "K"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "driving_side": "prawa",
+      "car_signs": "CAM"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "driving_side": "prawa",
+      "car_signs": "CDN"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Republika Zielonego Przylądka",
+      "driving_side": "prawa",
+      "car_signs": "CV"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republika Środkowoafrykańska",
+      "driving_side": "prawa",
+      "car_signs": "RCA"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Czad",
+      "driving_side": "prawa",
+      "car_signs": "TCH, TD"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "driving_side": "prawa",
+      "car_signs": "RCH"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Chiny",
+      "driving_side": "prawa",
+      "car_signs": "RC"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolumbia",
+      "driving_side": "prawa",
+      "car_signs": "CO"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komory",
+      "driving_side": "prawa",
+      "car_signs": "COM"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kostaryka",
+      "driving_side": "prawa",
+      "car_signs": "CR"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Chorwacja",
+      "driving_side": "prawa",
+      "car_signs": "HR"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "driving_side": "prawa",
+      "car_signs": "C"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Cypr",
+      "driving_side": "lewa",
+      "car_signs": "CY"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Czechy",
+      "driving_side": "prawa",
+      "car_signs": "CZ"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dania",
+      "driving_side": "prawa",
+      "car_signs": "DK"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Dżibuti",
+      "driving_side": "prawa",
+      "car_signs": "DJI"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "driving_side": "lewa",
+      "car_signs": "WD"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominikana",
+      "driving_side": "prawa",
+      "car_signs": "DOM"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Demokratyczna Republika Konga",
+      "driving_side": "prawa",
+      "car_signs": "CGO"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekwador",
+      "driving_side": "prawa",
+      "car_signs": "EC"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Egipt",
+      "driving_side": "prawa",
+      "car_signs": "ET"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "Salwador",
+      "driving_side": "prawa",
+      "car_signs": "ES"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Gwinea Równikowa",
+      "driving_side": "prawa",
+      "car_signs": "GQ"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Erytrea",
+      "driving_side": "prawa",
+      "car_signs": "ER"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "driving_side": "prawa",
+      "car_signs": "EST"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "driving_side": "lewa",
+      "car_signs": "SD"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "driving_side": "prawa",
+      "car_signs": "ETH"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fidżi",
+      "driving_side": "lewa",
+      "car_signs": "FJI"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "driving_side": "prawa",
+      "car_signs": "FIN"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Francja",
+      "driving_side": "prawa",
+      "car_signs": "F"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "driving_side": "prawa",
+      "car_signs": "G"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "driving_side": "Prawa",
+      "car_signs": "WAG"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gruzja",
+      "driving_side": "Prawa",
+      "car_signs": "GE"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Niemcy",
+      "driving_side": "Prawa",
+      "car_signs": "DY"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "driving_side": "Prawa",
+      "car_signs": "GH"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Grecja",
+      "driving_side": "Prawa",
+      "car_signs": "GR"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "driving_side": "Lewa",
+      "car_signs": "WG"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Gwatemala",
+      "driving_side": "Prawa",
+      "car_signs": "GCA"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gwinea",
+      "driving_side": "Prawa",
+      "car_signs": "RG"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gwinea Bissau",
+      "driving_side": "Prawa",
+      "car_signs": "RGB"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Gujana",
+      "driving_side": "Lewa",
+      "car_signs": "GUY"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "driving_side": "Prawa",
+      "car_signs": "RH"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "driving_side": "Prawa",
+      "car_signs": "HN"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Węgry",
+      "driving_side": "Prawa",
+      "car_signs": "H"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "driving_side": "Prawa",
+      "car_signs": "IS"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Indie",
+      "driving_side": "Lewa",
+      "car_signs": "IND"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonezja",
+      "driving_side": "Lewa",
+      "car_signs": "RI"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "driving_side": "Prawa",
+      "car_signs": "IR"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "driving_side": "Prawa",
+      "car_signs": "IRQ"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "driving_side": "Lewa",
+      "car_signs": "IRL"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Izrael",
+      "driving_side": "Prawa",
+      "car_signs": "IL"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Włochy",
+      "driving_side": "prawostronny",
+      "car_signs": "I"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Wybrzeże Kości Słoniowej",
+      "driving_side": "prawostronny",
+      "car_signs": "CI"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamajka",
+      "driving_side": "lewostronny",
+      "car_signs": "JA"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonia",
+      "driving_side": "lewostronny",
+      "car_signs": "J"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordania",
+      "driving_side": "prawostronny",
+      "car_signs": "HKJ"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstan",
+      "driving_side": "prawostronny",
+      "car_signs": "KZ"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenia",
+      "driving_side": "lewostronny",
+      "car_signs": "EAK"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "driving_side": "lewostronny",
+      "car_signs": "KIR"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosowo",
+      "driving_side": "prawostronny",
+      "car_signs": "CS"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwejt",
+      "driving_side": "prawostronny",
+      "car_signs": "KWT"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgistan",
+      "driving_side": "prawostronny",
+      "car_signs": "KS"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "driving_side": "prawostronny",
+      "car_signs": "LAO"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Łotwa",
+      "driving_side": "prawostronny",
+      "car_signs": "LV"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Liban",
+      "driving_side": "prawostronny",
+      "car_signs": "RL"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "driving_side": "lewostronny",
+      "car_signs": "LS"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "driving_side": "prawostronny",
+      "car_signs": "LB"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libia",
+      "driving_side": "prawostronny",
+      "car_signs": "LAR"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "driving_side": "prawostronny",
+      "car_signs": "FL"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litwa",
+      "driving_side": "prawostronny",
+      "car_signs": "LT"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "driving_side": "prawostronny",
+      "car_signs": "L"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "RM"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "MW"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezja",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "MAL"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Malediwy",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "MV"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "RMM"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "M"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Wyspy Marshalla",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MH"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauretania",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "RIM"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "MS"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksyk",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MEX"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezja",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "FSM"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Mołdawia",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MD"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MC"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MGL"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Czarnogóra",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "SCG"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "MA"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "MOC"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Mjanma",
+      "driving_side": "ruch prawostronny",
+      "car_signs": "BUR"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "NAM"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "driving_side": "ruch lewostronny",
+      "car_signs": "NAU"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "driving_side": "lewa",
+      "car_signs": "NEP"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Niderlandy",
+      "driving_side": "prawa",
+      "car_signs": "NL"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nowa Zelandia",
+      "driving_side": "lewa",
+      "car_signs": "NZ"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "driving_side": "prawa",
+      "car_signs": "NIC"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "driving_side": "prawa",
+      "car_signs": "RN"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "driving_side": "prawa",
+      "car_signs": "WAN"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Północna",
+      "driving_side": "prawa",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Macedonia Północna",
+      "driving_side": "prawa",
+      "car_signs": "MK"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "driving_side": "prawa",
+      "car_signs": "N"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "driving_side": "prawa",
+      "car_signs": "OM"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "driving_side": "lewa",
+      "car_signs": "PK"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "driving_side": "prawa",
+      "car_signs": "PAL"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "driving_side": "prawa",
+      "car_signs": "PA"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua-Nowa Gwinea",
+      "driving_side": "lewa",
+      "car_signs": "PNG"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paragwaj",
+      "driving_side": "prawa",
+      "car_signs": "PY"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "driving_side": "prawa",
+      "car_signs": "PE"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipiny",
+      "driving_side": "prawa",
+      "car_signs": "RP"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polska",
+      "driving_side": "prawa",
+      "car_signs": "PL"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalia",
+      "driving_side": "prawa",
+      "car_signs": "P"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "driving_side": "prawa",
+      "car_signs": "Q"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republika Konga",
+      "driving_side": "prawa",
+      "car_signs": "RCB"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumunia",
+      "driving_side": "prawa",
+      "car_signs": "RO"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rosja",
+      "driving_side": "prawa",
+      "car_signs": "RUS"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "driving_side": "prawa",
+      "car_signs": "RWA"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts i Nevis",
+      "driving_side": "lewa",
+      "car_signs": "KN"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "driving_side": "lewa",
+      "car_signs": "WL"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent i Grenadyny",
+      "driving_side": "lewa",
+      "car_signs": "WV"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "driving_side": "lewa",
+      "car_signs": "WS"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "driving_side": "prawa",
+      "car_signs": "RSM"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Wyspy Świętego Tomasza i Książęca",
+      "driving_side": "prawa",
+      "car_signs": "STP"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arabia Saudyjska",
+      "driving_side": "prawa",
+      "car_signs": "SA"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "driving_side": "prawa",
+      "car_signs": "SN"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "driving_side": "prawa",
+      "car_signs": "SRB"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seszele",
+      "driving_side": "lewa",
+      "car_signs": "SY"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "driving_side": "prawa",
+      "car_signs": "WAL"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "driving_side": "lewa",
+      "car_signs": "SGP"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Słowacja",
+      "driving_side": "prawa",
+      "car_signs": "SK"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Słowenia",
+      "driving_side": "prawa",
+      "car_signs": "SLO"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Wyspy Salomona",
+      "driving_side": "lewa",
+      "car_signs": "SOL"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "driving_side": "prawa",
+      "car_signs": "SO"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Południowa Afryka",
+      "driving_side": "lewa",
+      "car_signs": "ZA"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Południowa",
+      "driving_side": "prawa",
+      "car_signs": "ROK"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Południowy",
+      "driving_side": "prawa",
+      "car_signs": ""
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Hiszpania",
+      "driving_side": "prawa",
+      "car_signs": "E"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "driving_side": "lewa",
+      "car_signs": "CL"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "driving_side": "prawa",
+      "car_signs": "SUD"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "driving_side": "lewa",
+      "car_signs": "SME"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Szwecja",
+      "driving_side": "prawa",
+      "car_signs": "S"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Szwajcaria",
+      "driving_side": "prawa",
+      "car_signs": "CH"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Syria",
+      "driving_side": "prawa",
+      "car_signs": "SYR"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tadżykistan",
+      "driving_side": "prawa",
+      "car_signs": "TJ"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "driving_side": "lewa",
+      "car_signs": "EAT"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tajlandia",
+      "driving_side": "lewa",
+      "car_signs": "T"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Wschodni",
+      "driving_side": "lewa",
+      "car_signs": "TL"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "driving_side": "prawa",
+      "car_signs": "TG"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "driving_side": "lewa",
+      "car_signs": "TO"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trynidad i Tobago",
+      "driving_side": "lewa",
+      "car_signs": "TT"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunezja",
+      "driving_side": "prawa",
+      "car_signs": "TN"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turcja",
+      "driving_side": "prawa",
+      "car_signs": "TR"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "driving_side": "prawa",
+      "car_signs": "TM"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "driving_side": "lewa strona",
+      "car_signs": "TUV"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "driving_side": "lewa strona",
+      "car_signs": "EAU"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "driving_side": "prawa strona",
+      "car_signs": "UA"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Zjednoczone Emiraty Arabskie",
+      "driving_side": "prawa strona",
+      "car_signs": "UAE"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Wielka Brytania",
+      "driving_side": "lewa strona",
+      "car_signs": "GB"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Stany Zjednoczone",
+      "driving_side": "prawa strona",
+      "car_signs": "USA"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Urugwaj",
+      "driving_side": "prawa strona",
+      "car_signs": "ROU"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "driving_side": "prawa strona",
+      "car_signs": "UZ"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "driving_side": "prawa strona",
+      "car_signs": "VU"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Watykan",
+      "driving_side": "prawa strona",
+      "car_signs": "V"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Wenezuela",
+      "driving_side": "prawa strona",
+      "car_signs": "YV"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Wietnam",
+      "driving_side": "prawa strona",
+      "car_signs": "VN"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Jemen",
+      "driving_side": "prawa strona",
+      "car_signs": "YAR"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "driving_side": "lewa strona",
+      "car_signs": "RNR"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "driving_side": "lewa strona",
+      "car_signs": "ZW"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane o Stronie Ruchu Drogowego - Darmowe Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Darmowe pobieranie danych o stronie ruchu drogowego dla 195 krajów. Uzyskaj kody ISO, strony ruchu i oznaczenia samochodów. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Zbiór Danych o Stronie Ruchu Drogowego i Oznaczeniach Samochodów",
+    "description": "Odkryj, po której stronie drogi jeżdżą samochody w poszczególnych krajach, wraz z ich kodami ISO Alpha-2, Alpha-3 i międzynarodowymi oznaczeniami samochodów. Ten zbiór danych obejmuje 195 niezależnych państw.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do informacji o stronie ruchu drogowego dla 195 krajów.",
+      "Przeglądaj kody ISO Alpha-2, Alpha-3 oraz oficjalne oznaczenia samochodów.",
+      "Pobierz kompleksowe dane dotyczące użytkowania dróg w wielu formatach.",
+      "Wykorzystaj dokładne dane o jeździe specyficzne dla kraju w projektach międzynarodowych."
+    ],
+    "keywords": [
+      "strona ruchu drogowego kraje",
+      "lista kierunkow jazdy lewo prawo",
+      "iso 3166 strona jazdy",
+      "oznaczenia samochodow wg kraju excel",
+      "pobierz kierunki jazdy csv",
+      "globalne przepisy ruchu pdf"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub użyj ze skryptami Python do analizy globalnych wzorców jazdy lub integracji z aplikacjami nawigacyjnymi.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania danych według regionu lub wykonywania funkcji WYSZUKAJ.PIONOWO dla szybkich wglądów w przepisy ruchu drogowego i oznaczenia samochodów.",
+      "Wydrukuj wersję **PDF** do celów edukacyjnych, planowania podróży lub jako łatwo udostępnialny dokument szczegółowo opisujący międzynarodowe specyfikacje jazdy.",
+      "Zintegruj te dane z systemami planowania logistycznego, aby zapewnić zgodność z lokalnymi przepisami ruchu drogowego dla międzynarodowych flot pojazdów."
+    ]
+  },
+  "record_count": 195,
+  "title": "Zbiór Danych o Stronie Ruchu Drogowego i Oznaczeniach Samochodów"
+}

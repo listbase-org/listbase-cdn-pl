@@ -1,0 +1,846 @@
+{
+  "id": "pl-ogrodki-piwne",
+  "name": "Polska — ogródki piwne",
+  "title": "Polska — ogródki piwne",
+  "description": "Ogródki piwne w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adam",
+      "latitude": 50.131171,
+      "longitude": 18.330257
+    },
+    {
+      "name": "Akwarium",
+      "latitude": 50.086365,
+      "longitude": 18.209947
+    },
+    {
+      "name": "Banderoza",
+      "latitude": 50.446779,
+      "longitude": 16.878474
+    },
+    {
+      "name": "Bar Chomiczówka",
+      "latitude": 54.040671,
+      "longitude": 19.023293
+    },
+    {
+      "name": "Bar Decha U Lecha",
+      "latitude": 49.966296,
+      "longitude": 18.886355
+    },
+    {
+      "name": "Bar Dziupla",
+      "latitude": 50.29231,
+      "longitude": 19.119724
+    },
+    {
+      "name": "Bar Fajrant",
+      "latitude": 53.917953,
+      "longitude": 14.23459
+    },
+    {
+      "name": "Bar Jantar",
+      "latitude": 50.035853,
+      "longitude": 18.678447
+    },
+    {
+      "name": "Bar KUFELEK",
+      "latitude": 53.03187,
+      "longitude": 16.744284
+    },
+    {
+      "name": "Bar Otomin",
+      "latitude": 54.319738,
+      "longitude": 18.500871
+    },
+    {
+      "name": "Bar pod 99",
+      "latitude": 51.820807,
+      "longitude": 19.281525
+    },
+    {
+      "name": "Bar Pod Dębami",
+      "latitude": 52.331306,
+      "longitude": 20.952752
+    },
+    {
+      "name": "Bar Pod Kazurką",
+      "latitude": 52.135756,
+      "longitude": 21.042775
+    },
+    {
+      "name": "Bar Promenada",
+      "latitude": 50.833882,
+      "longitude": 19.123985
+    },
+    {
+      "name": "Bar u Andrzeja",
+      "latitude": 50.109179,
+      "longitude": 18.268155
+    },
+    {
+      "name": "Bar u Marka",
+      "latitude": 53.162951,
+      "longitude": 18.038568
+    },
+    {
+      "name": "Barak",
+      "latitude": 52.103518,
+      "longitude": 21.262985
+    },
+    {
+      "name": "Barbarka",
+      "latitude": 51.115866,
+      "longitude": 17.035173
+    },
+    {
+      "name": "Bartna Chata",
+      "latitude": 49.943934,
+      "longitude": 20.652061
+    },
+    {
+      "name": "Bas",
+      "latitude": 50.297694,
+      "longitude": 18.784642
+    },
+    {
+      "name": "Basen Beach Bar",
+      "latitude": 51.132202,
+      "longitude": 17.039245
+    },
+    {
+      "name": "Beer To Go",
+      "latitude": 52.396282,
+      "longitude": 16.898557
+    },
+    {
+      "name": "Bella Ciao!",
+      "latitude": 49.392316,
+      "longitude": 22.458372
+    },
+    {
+      "name": "Biergarten im Volkshaus",
+      "latitude": 51.959703,
+      "longitude": 14.708502
+    },
+    {
+      "name": "Biergarten Kunstmühle",
+      "latitude": 51.20208,
+      "longitude": 15.00086
+    },
+    {
+      "name": "BIKE PARK",
+      "latitude": 49.937073,
+      "longitude": 18.934484
+    },
+    {
+      "name": "Bonanza",
+      "latitude": 50.109692,
+      "longitude": 18.981616
+    },
+    {
+      "name": "BROWAR DOMOWY ZIEMIANKA",
+      "latitude": 53.123933,
+      "longitude": 17.989732
+    },
+    {
+      "name": "Bułka i Kulka",
+      "latitude": 51.40142,
+      "longitude": 21.152486
+    },
+    {
+      "name": "Cafe Stefanek",
+      "latitude": 51.07676,
+      "longitude": 17.716445
+    },
+    {
+      "name": "CARARI",
+      "latitude": 51.098469,
+      "longitude": 14.976463
+    },
+    {
+      "name": "chata na Groniu",
+      "latitude": 49.74184,
+      "longitude": 19.040954
+    },
+    {
+      "name": "Chill na Torze",
+      "latitude": 51.054385,
+      "longitude": 16.997059
+    },
+    {
+      "name": "Cicha Stanica",
+      "latitude": 52.161988,
+      "longitude": 22.236901
+    },
+    {
+      "name": "Costa del Chechło",
+      "latitude": 50.46414,
+      "longitude": 18.928219
+    },
+    {
+      "name": "Czuczu",
+      "latitude": 52.279038,
+      "longitude": 20.912706
+    },
+    {
+      "name": "dACH! Dominikańska",
+      "latitude": 51.108773,
+      "longitude": 17.040514
+    },
+    {
+      "name": "Deer Camp",
+      "latitude": 50.465061,
+      "longitude": 18.925993
+    },
+    {
+      "name": "Del Mar",
+      "latitude": 54.516462,
+      "longitude": 18.548802
+    },
+    {
+      "name": "Diebels live",
+      "latitude": 52.342475,
+      "longitude": 14.549697
+    },
+    {
+      "name": "Drink Bar",
+      "latitude": 50.027252,
+      "longitude": 19.921688
+    },
+    {
+      "name": "Drink Bar U Adama",
+      "latitude": 50.058413,
+      "longitude": 18.928093
+    },
+    {
+      "name": "E-PIZZA",
+      "latitude": 53.420885,
+      "longitude": 14.499635
+    },
+    {
+      "name": "Eljan",
+      "latitude": 52.83842,
+      "longitude": 15.826482
+    },
+    {
+      "name": "Fabry Kafka",
+      "latitude": 50.108973,
+      "longitude": 19.254155
+    },
+    {
+      "name": "Food Park",
+      "latitude": 52.233172,
+      "longitude": 20.906569
+    },
+    {
+      "name": "FoRest",
+      "latitude": 51.088812,
+      "longitude": 17.030642
+    },
+    {
+      "name": "Forma Płynna",
+      "latitude": 51.10713,
+      "longitude": 17.056203
+    },
+    {
+      "name": "Galeon",
+      "latitude": 51.942323,
+      "longitude": 20.150307
+    },
+    {
+      "name": "Garden 4 You",
+      "latitude": 53.162699,
+      "longitude": 18.038383
+    },
+    {
+      "name": "Grill Bar Posterunek",
+      "latitude": 50.066758,
+      "longitude": 19.976422
+    },
+    {
+      "name": "Grill pod Strzechą",
+      "latitude": 53.16313,
+      "longitude": 18.039546
+    },
+    {
+      "name": "Grodzka",
+      "latitude": 51.249284,
+      "longitude": 22.569761
+    },
+    {
+      "name": "Górski Potok",
+      "latitude": 50.33642,
+      "longitude": 16.571742
+    },
+    {
+      "name": "HotSpot",
+      "latitude": 51.134429,
+      "longitude": 16.990292
+    },
+    {
+      "name": "Huta",
+      "latitude": 51.097265,
+      "longitude": 16.987505
+    },
+    {
+      "name": "Inselbiergarten Ziegenwerder",
+      "latitude": 52.338329,
+      "longitude": 14.559035
+    },
+    {
+      "name": "Isabell Pracownia Piernikowa",
+      "latitude": 50.909264,
+      "longitude": 15.332523
+    },
+    {
+      "name": "Kamienica Pub",
+      "latitude": 51.399399,
+      "longitude": 21.155125
+    },
+    {
+      "name": "Karczma Biesiadna",
+      "latitude": 50.009861,
+      "longitude": 18.158297
+    },
+    {
+      "name": "Karczma „U Heksy”",
+      "latitude": 54.037255,
+      "longitude": 19.03162
+    },
+    {
+      "name": "Kawiarnia pod Kasztanem",
+      "latitude": 54.050416,
+      "longitude": 21.147258
+    },
+    {
+      "name": "Koliba \"Na konci světa\"",
+      "latitude": 49.916452,
+      "longitude": 18.564011
+    },
+    {
+      "name": "Kufelek",
+      "latitude": 51.977256,
+      "longitude": 20.149303
+    },
+    {
+      "name": "Kultowy Browar Staropolski",
+      "latitude": 51.597532,
+      "longitude": 18.935606
+    },
+    {
+      "name": "Kulturka",
+      "latitude": 50.468068,
+      "longitude": 20.719345
+    },
+    {
+      "name": "La Spezzia - ogródek",
+      "latitude": 51.381112,
+      "longitude": 21.157999
+    },
+    {
+      "name": "Lapidarium",
+      "latitude": 50.308482,
+      "longitude": 18.77256
+    },
+    {
+      "name": "Leśny Zakątek",
+      "latitude": 50.021201,
+      "longitude": 18.927813
+    },
+    {
+      "name": "LIFE",
+      "latitude": 50.463501,
+      "longitude": 18.911397
+    },
+    {
+      "name": "Linda",
+      "latitude": 50.142595,
+      "longitude": 19.405257
+    },
+    {
+      "name": "M Kwadrat",
+      "latitude": 52.098084,
+      "longitude": 21.265688
+    },
+    {
+      "name": "Malibu - dyskoteka",
+      "latitude": 54.212014,
+      "longitude": 15.745347
+    },
+    {
+      "name": "Marina Kleczków",
+      "latitude": 51.130859,
+      "longitude": 17.032335
+    },
+    {
+      "name": "Maślicki Beach Bar",
+      "latitude": 51.151715,
+      "longitude": 16.92616
+    },
+    {
+      "name": "Meta",
+      "latitude": 52.128217,
+      "longitude": 21.096434
+    },
+    {
+      "name": "Muskauer Hof",
+      "latitude": 51.544557,
+      "longitude": 14.722208
+    },
+    {
+      "name": "Odra Pany",
+      "latitude": 51.103141,
+      "longitude": 17.071065
+    },
+    {
+      "name": "Ogród Międzyrzecka",
+      "latitude": 51.094563,
+      "longitude": 17.080914
+    },
+    {
+      "name": "Ogródek",
+      "latitude": 51.066129,
+      "longitude": 16.986379
+    },
+    {
+      "name": "Ogródek Gwarno",
+      "latitude": 49.298421,
+      "longitude": 19.945978
+    },
+    {
+      "name": "Ogródek Hyćka",
+      "latitude": 52.410765,
+      "longitude": 16.956036
+    },
+    {
+      "name": "Ogródek Letni",
+      "latitude": 50.612285,
+      "longitude": 18.699991
+    },
+    {
+      "name": "Ogródek McDonald's",
+      "latitude": 50.111228,
+      "longitude": 18.978181
+    },
+    {
+      "name": "Ogródek Pan&Cake",
+      "latitude": 50.014522,
+      "longitude": 19.89033
+    },
+    {
+      "name": "Ogródek piwny",
+      "latitude": 49.747129,
+      "longitude": 21.475044
+    },
+    {
+      "name": "Ogródek piwny",
+      "latitude": 49.82967,
+      "longitude": 19.042382
+    },
+    {
+      "name": "Ogródek piwny",
+      "latitude": 49.855333,
+      "longitude": 20.809312
+    },
+    {
+      "name": "Ogródek Piwny",
+      "latitude": 51.419448,
+      "longitude": 21.163855
+    },
+    {
+      "name": "Ogródek Piwny \"Terapia\"",
+      "latitude": 51.60542,
+      "longitude": 16.850814
+    },
+    {
+      "name": "Ogródek piwny Garden",
+      "latitude": 51.210834,
+      "longitude": 17.400932
+    },
+    {
+      "name": "Ogródek piwny Gostyń",
+      "latitude": 50.102602,
+      "longitude": 18.901831
+    },
+    {
+      "name": "Ogródek Piwny Żywiec",
+      "latitude": 51.940819,
+      "longitude": 15.507547
+    },
+    {
+      "name": "Ogródek Pubu Grota",
+      "latitude": 50.877755,
+      "longitude": 18.410499
+    },
+    {
+      "name": "Ogródek restauracyjny",
+      "latitude": 51.387516,
+      "longitude": 21.095983
+    },
+    {
+      "name": "Ogródek u Witka",
+      "latitude": 49.681558,
+      "longitude": 19.201438
+    },
+    {
+      "name": "Opato Vice",
+      "latitude": 51.099473,
+      "longitude": 17.118603
+    },
+    {
+      "name": "PG4",
+      "latitude": 54.354121,
+      "longitude": 18.644642
+    },
+    {
+      "name": "Pijalnia piwa",
+      "latitude": 50.552508,
+      "longitude": 22.298871
+    },
+    {
+      "name": "Pitlane Summer Bar",
+      "latitude": 51.095747,
+      "longitude": 17.033771
+    },
+    {
+      "name": "Pivovaria",
+      "latitude": 51.400771,
+      "longitude": 21.155489
+    },
+    {
+      "name": "Piwiarnia",
+      "latitude": 51.401884,
+      "longitude": 21.149686
+    },
+    {
+      "name": "Piwiarnia Miejska",
+      "latitude": 52.168475,
+      "longitude": 22.271214
+    },
+    {
+      "name": "Pizza Flizzer",
+      "latitude": 51.746874,
+      "longitude": 14.645736
+    },
+    {
+      "name": "Pizzeria 2-ka",
+      "latitude": 50.205705,
+      "longitude": 19.275543
+    },
+    {
+      "name": "Plener",
+      "latitude": 51.046711,
+      "longitude": 17.061474
+    },
+    {
+      "name": "Pod jabłonią",
+      "latitude": 50.065851,
+      "longitude": 19.992683
+    },
+    {
+      "name": "Pod Jesionami",
+      "latitude": 50.13323,
+      "longitude": 18.976318
+    },
+    {
+      "name": "Pod Niebem - Multitap",
+      "latitude": 49.749454,
+      "longitude": 18.634514
+    },
+    {
+      "name": "Pod Papugami",
+      "latitude": 51.342748,
+      "longitude": 16.844303
+    },
+    {
+      "name": "Pod Wawrzynem",
+      "latitude": 50.339445,
+      "longitude": 18.778928
+    },
+    {
+      "name": "Pod Wiatą",
+      "latitude": 53.858494,
+      "longitude": 23.107768
+    },
+    {
+      "name": "Podzamcze",
+      "latitude": 49.989304,
+      "longitude": 21.001029
+    },
+    {
+      "name": "Polana Bar",
+      "latitude": 51.032973,
+      "longitude": 16.988475
+    },
+    {
+      "name": "Polna",
+      "latitude": 51.058416,
+      "longitude": 17.074046
+    },
+    {
+      "name": "Pomelo Beach Bar",
+      "latitude": 51.297935,
+      "longitude": 17.995806
+    },
+    {
+      "name": "Port Węglowy",
+      "latitude": 51.107206,
+      "longitude": 17.052889
+    },
+    {
+      "name": "Prezesowa Chata",
+      "latitude": 50.826119,
+      "longitude": 15.5225
+    },
+    {
+      "name": "Prosto z Mostu",
+      "latitude": 51.128559,
+      "longitude": 17.059162
+    },
+    {
+      "name": "Przybij Piątaka",
+      "latitude": 51.10827,
+      "longitude": 17.01479
+    },
+    {
+      "name": "Przystanek Olsztyn",
+      "latitude": 50.749701,
+      "longitude": 19.268923
+    },
+    {
+      "name": "Przystanek Siodełko",
+      "latitude": 52.070518,
+      "longitude": 21.162
+    },
+    {
+      "name": "Przystań",
+      "latitude": 53.966955,
+      "longitude": 14.769646
+    },
+    {
+      "name": "Przystań Maślice Food & Drink",
+      "latitude": 51.158994,
+      "longitude": 16.950172
+    },
+    {
+      "name": "Przystań Żywiec",
+      "latitude": 54.66771,
+      "longitude": 17.055691
+    },
+    {
+      "name": "Pub",
+      "latitude": 50.147873,
+      "longitude": 18.344947
+    },
+    {
+      "name": "Radlerhof Aurith",
+      "latitude": 52.240919,
+      "longitude": 14.701633
+    },
+    {
+      "name": "Re",
+      "latitude": 50.061132,
+      "longitude": 19.941464
+    },
+    {
+      "name": "Restauracja Basztowa",
+      "latitude": 49.62491,
+      "longitude": 20.700634
+    },
+    {
+      "name": "Restauracja Forma",
+      "latitude": 53.130186,
+      "longitude": 23.14903
+    },
+    {
+      "name": "retro",
+      "latitude": 50.083509,
+      "longitude": 18.201082
+    },
+    {
+      "name": "Ryba",
+      "latitude": 54.156736,
+      "longitude": 15.391414
+    },
+    {
+      "name": "SANówa",
+      "latitude": 49.782509,
+      "longitude": 22.762325
+    },
+    {
+      "name": "SCANDI Beach",
+      "latitude": 49.982977,
+      "longitude": 19.422736
+    },
+    {
+      "name": "SKAT",
+      "latitude": 50.082986,
+      "longitude": 18.197788
+    },
+    {
+      "name": "Sklep Firmowy Browaru Lwówek",
+      "latitude": 51.109053,
+      "longitude": 15.583864
+    },
+    {
+      "name": "Spiż",
+      "latitude": 51.109822,
+      "longitude": 17.031347
+    },
+    {
+      "name": "Stacja Rynek",
+      "latitude": 49.895041,
+      "longitude": 21.053338
+    },
+    {
+      "name": "Stara Odra",
+      "latitude": 51.134121,
+      "longitude": 17.039589
+    },
+    {
+      "name": "Stara przystań",
+      "latitude": 53.907221,
+      "longitude": 14.249291
+    },
+    {
+      "name": "Stodoła",
+      "latitude": 54.043613,
+      "longitude": 14.873233
+    },
+    {
+      "name": "The Sheriff",
+      "latitude": 51.595177,
+      "longitude": 21.539488
+    },
+    {
+      "name": "Tinto",
+      "latitude": 51.247459,
+      "longitude": 22.566426
+    },
+    {
+      "name": "Trzy Korony",
+      "latitude": 53.439243,
+      "longitude": 14.534795
+    },
+    {
+      "name": "Twenty Club Garden",
+      "latitude": 53.121672,
+      "longitude": 18.000242
+    },
+    {
+      "name": "Tyskie Show Bar",
+      "latitude": 52.1088,
+      "longitude": 21.2612
+    },
+    {
+      "name": "U Adama",
+      "latitude": 50.082065,
+      "longitude": 18.208711
+    },
+    {
+      "name": "u Kazika",
+      "latitude": 50.081058,
+      "longitude": 18.20819
+    },
+    {
+      "name": "U Lecha",
+      "latitude": 54.156464,
+      "longitude": 15.391644
+    },
+    {
+      "name": "U Wojciecha",
+      "latitude": 50.090947,
+      "longitude": 18.222966
+    },
+    {
+      "name": "WidziMiSię",
+      "latitude": 53.802547,
+      "longitude": 22.347425
+    },
+    {
+      "name": "WidziMiSię",
+      "latitude": 53.817126,
+      "longitude": 22.353338
+    },
+    {
+      "name": "Yacht Klub Polski Bielsko",
+      "latitude": 53.949706,
+      "longitude": 21.722247
+    },
+    {
+      "name": "Zagroda u Czesi",
+      "latitude": 50.611657,
+      "longitude": 18.899598
+    },
+    {
+      "name": "Zapora",
+      "latitude": 50.021768,
+      "longitude": 21.999631
+    },
+    {
+      "name": "ZaZoo",
+      "latitude": 51.105027,
+      "longitude": 17.068195
+    },
+    {
+      "name": "Zeltgarten",
+      "latitude": 51.129105,
+      "longitude": 14.985277
+    },
+    {
+      "name": "Zwierzyniec",
+      "latitude": 50.321886,
+      "longitude": 18.887188
+    },
+    {
+      "name": "Łowisko u Romana",
+      "latitude": 50.267495,
+      "longitude": 18.43513
+    },
+    {
+      "name": "Żubr",
+      "latitude": 51.028802,
+      "longitude": 15.413997
+    },
+    {
+      "name": "Żywiec",
+      "latitude": 51.656925,
+      "longitude": 19.372143
+    }
+  ],
+  "meta": {
+    "title": "Polska — ogródki piwne - Bezpłatne pobieranie",
+    "description": "Ogródki piwne w Polsce (OpenStreetMap) Zawiera 161 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — ogródki piwne | ListBase",
+    "seo_description": "Pobierz Polska — ogródki piwne — 161 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 161 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "id": "pl-warminsko-mazurskie-miasta",
+  "name": "Miasta w województwie warmińsko-mazurskie",
+  "title": "Miasta w województwie warmińsko-mazurskie",
+  "description": "Cities and towns (miasta) in Warmińsko-mazurskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "714",
+      "name": "Barczewo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olsztyński",
+      "commune": "Barczewo-gmina miejsko-wiejska",
+      "latitude": 53.8283,
+      "longitude": 20.6903
+    },
+    {
+      "id": "810",
+      "name": "Bartoszyce",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "bartoszycki",
+      "commune": "Bartoszyce-gmina miejska",
+      "latitude": 54.2511,
+      "longitude": 20.8094
+    },
+    {
+      "id": "1144",
+      "name": "Biała Piska",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "piski",
+      "commune": "Biała Piska-gmina miejsko-wiejska",
+      "latitude": 53.6108,
+      "longitude": 22.0619
+    },
+    {
+      "id": "1672",
+      "name": "Biskupiec",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olsztyński",
+      "commune": "Biskupiec-gmina miejsko-wiejska",
+      "latitude": 53.8644,
+      "longitude": 20.9553
+    },
+    {
+      "id": "1681",
+      "name": "Bisztynek",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "bartoszycki",
+      "commune": "Bisztynek-gmina miejsko-wiejska",
+      "latitude": 54.0861,
+      "longitude": 20.9014
+    },
+    {
+      "id": "2708",
+      "name": "Braniewo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "braniewski",
+      "commune": "Braniewo-gmina miejska",
+      "latitude": 54.3822,
+      "longitude": 19.8217
+    },
+    {
+      "id": "6820",
+      "name": "Dobre Miasto",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olsztyński",
+      "commune": "Dobre Miasto-gmina miejsko-wiejska",
+      "latitude": 53.9861,
+      "longitude": 20.3897
+    },
+    {
+      "id": "7529",
+      "name": "Działdowo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "działdowski",
+      "commune": "Działdowo-gmina miejska",
+      "latitude": 53.2386,
+      "longitude": 20.1825
+    },
+    {
+      "id": "7805",
+      "name": "Elbląg",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "Elbląg",
+      "commune": "Elbląg-gmina miejska",
+      "latitude": 54.1614,
+      "longitude": 19.4097
+    },
+    {
+      "id": "7834",
+      "name": "Ełk",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "ełcki",
+      "commune": "Ełk-gmina miejska",
+      "latitude": 53.8228,
+      "longitude": 22.3528
+    },
+    {
+      "id": "8086",
+      "name": "Frombork",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "braniewski",
+      "commune": "Frombork-gmina miejsko-wiejska",
+      "latitude": 54.3569,
+      "longitude": 19.6819
+    },
+    {
+      "id": "8590",
+      "name": "Giżycko",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "giżycki",
+      "commune": "Giżycko-gmina miejska",
+      "latitude": 54.04,
+      "longitude": 21.7717
+    },
+    {
+      "id": "9158",
+      "name": "Gołdap",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "gołdapski",
+      "commune": "Gołdap-gmina miejsko-wiejska",
+      "latitude": 54.3072,
+      "longitude": 22.3022
+    },
+    {
+      "id": "9676",
+      "name": "Górowo Iławeckie",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "bartoszycki",
+      "commune": "Górowo Iławeckie-gmina miejska",
+      "latitude": 54.2878,
+      "longitude": 20.4908
+    },
+    {
+      "id": "11126",
+      "name": "Iława",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "iławski",
+      "commune": "Iława-gmina miejska",
+      "latitude": 53.59,
+      "longitude": 19.5667
+    },
+    {
+      "id": "12429",
+      "name": "Jeziorany",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olsztyński",
+      "commune": "Jeziorany-gmina miejsko-wiejska",
+      "latitude": 53.9764,
+      "longitude": 20.7461
+    },
+    {
+      "id": "13984",
+      "name": "Kętrzyn",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "kętrzyński",
+      "commune": "Kętrzyn-gmina miejska",
+      "latitude": 54.0772,
+      "longitude": 21.3747
+    },
+    {
+      "id": "14188",
+      "name": "Kisielice",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "iławski",
+      "commune": "Kisielice-gmina miejsko-wiejska",
+      "latitude": 53.6092,
+      "longitude": 19.2589
+    },
+    {
+      "id": "15387",
+      "name": "Korsze",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "kętrzyński",
+      "commune": "Korsze-gmina miejsko-wiejska",
+      "latitude": 54.1722,
+      "longitude": 21.1406
+    },
+    {
+      "id": "18048",
+      "name": "Lidzbark",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "działdowski",
+      "commune": "Lidzbark-gmina miejsko-wiejska",
+      "latitude": 53.2614,
+      "longitude": 19.8222
+    },
+    {
+      "id": "18049",
+      "name": "Lidzbark Warmiński",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "lidzbarski",
+      "commune": "Lidzbark Warmiński-gmina miejska",
+      "latitude": 54.1258,
+      "longitude": 20.5831
+    },
+    {
+      "id": "18536",
+      "name": "Lubawa",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "iławski",
+      "commune": "Lubawa-gmina miejska",
+      "latitude": 53.5033,
+      "longitude": 19.7481
+    },
+    {
+      "id": "21411",
+      "name": "Mikołajki",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "mrągowski",
+      "commune": "Mikołajki-gmina miejsko-wiejska",
+      "latitude": 53.8036,
+      "longitude": 21.5717
+    },
+    {
+      "id": "21531",
+      "name": "Miłakowo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "ostródzki",
+      "commune": "Miłakowo-gmina miejsko-wiejska",
+      "latitude": 54.0092,
+      "longitude": 20.0697
+    },
+    {
+      "id": "21573",
+      "name": "Miłomłyn",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "ostródzki",
+      "commune": "Miłomłyn-gmina miejsko-wiejska",
+      "latitude": 53.7644,
+      "longitude": 19.8367
+    },
+    {
+      "id": "21765",
+      "name": "Młynary",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "elbląski",
+      "commune": "Młynary-gmina miejsko-wiejska",
+      "latitude": 54.1878,
+      "longitude": 19.7228
+    },
+    {
+      "id": "22103",
+      "name": "Morąg",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "ostródzki",
+      "commune": "Morąg-gmina miejsko-wiejska",
+      "latitude": 53.9161,
+      "longitude": 19.9292
+    },
+    {
+      "id": "22281",
+      "name": "Mrągowo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "mrągowski",
+      "commune": "Mrągowo-gmina miejska",
+      "latitude": 53.8767,
+      "longitude": 21.3042
+    },
+    {
+      "id": "22768",
+      "name": "Nidzica",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "nidzicki",
+      "commune": "Nidzica-gmina miejsko-wiejska",
+      "latitude": 53.3597,
+      "longitude": 20.4258
+    },
+    {
+      "id": "23747",
+      "name": "Nowe Miasto Lubawskie",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "nowomiejski",
+      "commune": "Nowe Miasto Lubawskie-gmina miejska",
+      "latitude": 53.4239,
+      "longitude": 19.5922
+    },
+    {
+      "id": "24654",
+      "name": "Olecko",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olecki",
+      "commune": "Olecko-gmina miejsko-wiejska",
+      "latitude": 54.0378,
+      "longitude": 22.5028
+    },
+    {
+      "id": "24829",
+      "name": "Olsztyn",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "Olsztyn",
+      "commune": "Olsztyn-gmina miejska",
+      "latitude": 53.7789,
+      "longitude": 20.48
+    },
+    {
+      "id": "24831",
+      "name": "Olsztynek",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "olsztyński",
+      "commune": "Olsztynek-gmina miejsko-wiejska",
+      "latitude": 53.5833,
+      "longitude": 20.2853
+    },
+    {
+      "id": "25030",
+      "name": "Orneta",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "lidzbarski",
+      "commune": "Orneta-gmina miejsko-wiejska",
+      "latitude": 54.1164,
+      "longitude": 20.1311
+    },
+    {
+      "id": "25097",
+      "name": "Orzysz",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "piski",
+      "commune": "Orzysz-gmina miejsko-wiejska",
+      "latitude": 53.8086,
+      "longitude": 21.9464
+    },
+    {
+      "id": "25452",
+      "name": "Ostróda",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "ostródzki",
+      "commune": "Ostróda-gmina miejska",
+      "latitude": 53.6994,
+      "longitude": 19.9639
+    },
+    {
+      "id": "25959",
+      "name": "Pasłęk",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "elbląski",
+      "commune": "Pasłęk-gmina miejsko-wiejska",
+      "latitude": 54.0653,
+      "longitude": 19.6586
+    },
+    {
+      "id": "25975",
+      "name": "Pasym",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "szczycieński",
+      "commune": "Pasym-gmina miejsko-wiejska",
+      "latitude": 53.6503,
+      "longitude": 20.7919
+    },
+    {
+      "id": "26482",
+      "name": "Pieniężno",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "braniewski",
+      "commune": "Pieniężno-gmina miejsko-wiejska",
+      "latitude": 54.2389,
+      "longitude": 20.1247
+    },
+    {
+      "id": "26856",
+      "name": "Pisz",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "piski",
+      "commune": "Pisz-gmina miejsko-wiejska",
+      "latitude": 53.63,
+      "longitude": 21.8061
+    },
+    {
+      "id": "29737",
+      "name": "Reszel",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "kętrzyński",
+      "commune": "Reszel-gmina miejsko-wiejska",
+      "latitude": 54.0506,
+      "longitude": 21.1453
+    },
+    {
+      "id": "30409",
+      "name": "Ruciane-Nida",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "piski",
+      "commune": "Ruciane-Nida-gmina miejsko-wiejska",
+      "latitude": 53.6417,
+      "longitude": 21.5372
+    },
+    {
+      "id": "30957",
+      "name": "Ryn",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "giżycki",
+      "commune": "Ryn-gmina miejsko-wiejska",
+      "latitude": 53.9389,
+      "longitude": 21.5467
+    },
+    {
+      "id": "31631",
+      "name": "Sępopol",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "bartoszycki",
+      "commune": "Sępopol-gmina miejsko-wiejska",
+      "latitude": 54.2681,
+      "longitude": 21.015
+    },
+    {
+      "id": "35240",
+      "name": "Susz",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "iławski",
+      "commune": "Susz-gmina miejsko-wiejska",
+      "latitude": 53.7183,
+      "longitude": 19.3389
+    },
+    {
+      "id": "35641",
+      "name": "Szczytno",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "szczycieński",
+      "commune": "Szczytno-gmina miejska",
+      "latitude": 53.5633,
+      "longitude": 20.9953
+    },
+    {
+      "id": "36881",
+      "name": "Tolkmicko",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "elbląski",
+      "commune": "Tolkmicko-gmina miejsko-wiejska",
+      "latitude": 54.3203,
+      "longitude": 19.5272
+    },
+    {
+      "id": "38453",
+      "name": "Węgorzewo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "węgorzewski",
+      "commune": "Węgorzewo-gmina miejsko-wiejska",
+      "latitude": 54.2142,
+      "longitude": 21.7408
+    },
+    {
+      "id": "38615",
+      "name": "Wielbark",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "szczycieński",
+      "commune": "Wielbark-gmina wiejska",
+      "latitude": 53.3983,
+      "longitude": 20.9469
+    },
+    {
+      "id": "41868",
+      "name": "Zalewo",
+      "type": "city",
+      "province": "warmińsko-mazurskie",
+      "district": "iławski",
+      "commune": "Zalewo-gmina miejsko-wiejska",
+      "latitude": 53.845,
+      "longitude": 19.6058
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie warmińsko-mazurskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Warmińsko-mazurskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 50 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie warmińsko-mazurskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie warmińsko-mazurskie — 50 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 50 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

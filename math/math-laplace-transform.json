@@ -1,0 +1,337 @@
+{
+  "id": "math-laplace-transform",
+  "name": "Kompleksowy Zbiór Danych Tabeli Transformacji Laplace'a",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "f_t",
+      "label": "f(t) (Time Domain)",
+      "type": "string"
+    },
+    {
+      "key": "F_s",
+      "label": "F(s) (s-Domain)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Podstawowe",
+      "f_t": "1",
+      "F_s": "1/s",
+      "condition": "s > 0",
+      "description": "Skok jednostkowy (stała)"
+    },
+    {
+      "category": "Podstawowe",
+      "f_t": "t",
+      "F_s": "1/s²",
+      "condition": "s > 0",
+      "description": "Funkcja rampowa"
+    },
+    {
+      "category": "Podstawowe",
+      "f_t": "tⁿ",
+      "F_s": "n!/s^(n+1)",
+      "condition": "s > 0, n ≥ 0",
+      "description": "Funkcja potęgowa"
+    },
+    {
+      "category": "Podstawowe",
+      "f_t": "t²",
+      "F_s": "2/s³",
+      "condition": "s > 0",
+      "description": "Kwadratowe"
+    },
+    {
+      "category": "Podstawowe",
+      "f_t": "t³",
+      "F_s": "6/s⁴",
+      "condition": "s > 0",
+      "description": "Sześcienne"
+    },
+    {
+      "category": "Podstawowe",
+      "f_t": "√t",
+      "F_s": "√π/(2s^(3/2))",
+      "condition": "s > 0",
+      "description": "Pierwiastek kwadratowy"
+    },
+    {
+      "category": "Wykładnicze",
+      "f_t": "e^(at)",
+      "F_s": "1/(s-a)",
+      "condition": "s > a",
+      "description": "Wykładnicze"
+    },
+    {
+      "category": "Wykładnicze",
+      "f_t": "t·e^(at)",
+      "F_s": "1/(s-a)²",
+      "condition": "s > a",
+      "description": "Rampa wykładnicza"
+    },
+    {
+      "category": "Wykładnicze",
+      "f_t": "tⁿ·e^(at)",
+      "F_s": "n!/(s-a)^(n+1)",
+      "condition": "s > a",
+      "description": "Potęga wykładnicza"
+    },
+    {
+      "category": "Wykładnicze",
+      "f_t": "1 - e^(-at)",
+      "F_s": "a/(s(s+a))",
+      "condition": "s > 0",
+      "description": "Zanik wykładniczy od 1"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "sin(ωt)",
+      "F_s": "ω/(s²+ω²)",
+      "condition": "s > 0",
+      "description": "Funkcja sinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "cos(ωt)",
+      "F_s": "s/(s²+ω²)",
+      "condition": "s > 0",
+      "description": "Funkcja cosinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "tan(ωt)",
+      "F_s": "Complex",
+      "condition": "-",
+      "description": "Tangens (bez prostej formy)"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "t·sin(ωt)",
+      "F_s": "2ωs/(s²+ω²)²",
+      "condition": "s > 0",
+      "description": "Sinus rampowy"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "t·cos(ωt)",
+      "F_s": "(s²-ω²)/(s²+ω²)²",
+      "condition": "s > 0",
+      "description": "Cosinus rampowy"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "sin²(ωt)",
+      "F_s": "2ω²/(s(s²+4ω²))",
+      "condition": "s > 0",
+      "description": "Sinus kwadrat"
+    },
+    {
+      "category": "Trygonometryczne",
+      "f_t": "cos²(ωt)",
+      "F_s": "(s²+2ω²)/(s(s²+4ω²))",
+      "condition": "s > 0",
+      "description": "Cosinus kwadrat"
+    },
+    {
+      "category": "Tłumione",
+      "f_t": "e^(-at)·sin(ωt)",
+      "F_s": "ω/((s+a)²+ω²)",
+      "condition": "s > -a",
+      "description": "Sinus tłumiony"
+    },
+    {
+      "category": "Tłumione",
+      "f_t": "e^(-at)·cos(ωt)",
+      "F_s": "(s+a)/((s+a)²+ω²)",
+      "condition": "s > -a",
+      "description": "Cosinus tłumiony"
+    },
+    {
+      "category": "Hiperboliczne",
+      "f_t": "sinh(at)",
+      "F_s": "a/(s²-a²)",
+      "condition": "s > |a|",
+      "description": "Sinus hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "f_t": "cosh(at)",
+      "F_s": "s/(s²-a²)",
+      "condition": "s > |a|",
+      "description": "Kosinus hiperboliczny"
+    },
+    {
+      "category": "Specjalne",
+      "f_t": "δ(t)",
+      "F_s": "1",
+      "condition": "all s",
+      "description": "Delta Diraca (impuls)"
+    },
+    {
+      "category": "Specjalne",
+      "f_t": "δ(t-a)",
+      "F_s": "e^(-as)",
+      "condition": "all s",
+      "description": "Opóźniony impuls"
+    },
+    {
+      "category": "Specjalne",
+      "f_t": "u(t)",
+      "F_s": "1/s",
+      "condition": "s > 0",
+      "description": "Funkcja skokowa jednostkowa"
+    },
+    {
+      "category": "Specjalne",
+      "f_t": "u(t-a)",
+      "F_s": "e^(-as)/s",
+      "condition": "s > 0",
+      "description": "Opóźniony skok"
+    },
+    {
+      "category": "Bessela",
+      "f_t": "J₀(at)",
+      "F_s": "1/√(s²+a²)",
+      "condition": "s > 0",
+      "description": "Funkcja Bessela J₀"
+    },
+    {
+      "category": "Bessela",
+      "f_t": "J₁(at)",
+      "F_s": "(√(s²+a²)-s)/(a√(s²+a²))",
+      "condition": "s > 0",
+      "description": "Funkcja Bessela J₁"
+    },
+    {
+      "category": "Logarytmiczne",
+      "f_t": "ln(t)",
+      "F_s": "-(ln(s)+γ)/s",
+      "condition": "s > 0",
+      "description": "Logarytm naturalny (γ = Eulera)"
+    },
+    {
+      "category": "Logarytmiczne",
+      "f_t": "(1-e^(-t))/t",
+      "F_s": "ln((s+1)/s)",
+      "condition": "s > 0",
+      "description": "Postać logarytmiczna"
+    },
+    {
+      "category": "Funkcja błędu",
+      "f_t": "erf(√t)",
+      "F_s": "1/(s√(s+1))",
+      "condition": "s > 0",
+      "description": "Funkcja błędu"
+    },
+    {
+      "category": "Funkcja błędu",
+      "f_t": "erfc(√t)",
+      "F_s": "1/s - 1/(s√(s+1))",
+      "condition": "s > 0",
+      "description": "Błąd uzupełniający"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "f'(t)",
+      "F_s": "s·F(s) - f(0)",
+      "condition": "-",
+      "description": "Pierwsza pochodna"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "f''(t)",
+      "F_s": "s²·F(s) - s·f(0) - f'(0)",
+      "condition": "-",
+      "description": "Druga pochodna"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "∫f(τ)dτ",
+      "F_s": "F(s)/s",
+      "condition": "-",
+      "description": "Całkowanie"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "f(t-a)·u(t-a)",
+      "F_s": "e^(-as)·F(s)",
+      "condition": "a > 0",
+      "description": "Przesunięcie w czasie"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "e^(at)·f(t)",
+      "F_s": "F(s-a)",
+      "condition": "-",
+      "description": "Przesunięcie w częstotliwości"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "t·f(t)",
+      "F_s": "-dF(s)/ds",
+      "condition": "-",
+      "description": "Mnożenie przez t"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "f(at)",
+      "F_s": "(1/a)·F(s/a)",
+      "condition": "a > 0",
+      "description": "Skalowanie czasu"
+    },
+    {
+      "category": "Właściwość",
+      "f_t": "f(t)*g(t)",
+      "F_s": "F(s)·G(s)",
+      "condition": "-",
+      "description": "Splot"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Transformacji Laplace'a - Darmowe Pobranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo 39 wpisów Transformacji Laplace'a. Niezbędne dla inżynierów i studentów. Dostępne w formatach Excel, CSV i PDF dla łatwego użycia.",
+    "title": "Kompleksowy Zbiór Danych Tabeli Transformacji Laplace'a",
+    "description": "Ten zbiór danych zawiera kompleksową tabelę 39 par Transformacji Laplace'a, mapując funkcje z dziedziny czasu (f(t)) na dziedzinę s (F(s)). Obejmuje kategorie, warunki i opisy.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 39 kluczowych par Transformacji Laplace'a dla szybkiego odniesienia.",
+      "Przeglądaj typowe funkcje i ich odpowiedniki w dziedzinie s.",
+      "Pobierz kompletną tabelę w wielu wygodnych formatach.",
+      "Wykorzystaj te dane w studiach inżynierskich, fizycznych i matematycznych."
+    ],
+    "keywords": [
+      "tabela transformacji laplace'a",
+      "wzory laplace'a excel",
+      "dziedzina czasu dziedzina s csv",
+      "f(t) F(s) dataset",
+      "matematyka inżynierska pdf",
+      "transformacja laplace'a za darmo"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swoich skryptów Pythona lub oprogramowania symulacyjnego, aby zautomatyzować obliczenia związane z Transformacją Laplace'a.",
+      "Użyj pliku **Excel** do filtrowania i sortowania konkretnych par transformacji, tworzenia niestandardowych arkuszy referencyjnych lub integracji z raportami inżynierskimi.",
+      "Wydrukuj wersję **PDF** do szybkiego odniesienia offline podczas egzaminów, wykładów lub praktycznych sesji rozwiązywania problemów.",
+      "Zintegruj ten zbiór danych z platformami edukacyjnymi lub narzędziami e-learningowymi, aby zapewnić uczniom ustrukturyzowane źródło nauki."
+    ]
+  },
+  "record_count": 39,
+  "title": "Kompleksowy Zbiór Danych Tabeli Transformacji Laplace'a"
+}

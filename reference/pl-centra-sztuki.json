@@ -1,0 +1,6226 @@
+{
+  "id": "pl-centra-sztuki",
+  "name": "Polska — centra sztuki",
+  "title": "Polska — centra sztuki",
+  "description": "Centra sztuki w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1237,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Nasz Klub\" klub osiedlowy Robotniczej Spółdzielni Mieszkaniowej Praga",
+      "latitude": 52.27378,
+      "longitude": 21.062286
+    },
+    {
+      "name": "100cznia Inside",
+      "latitude": 54.364292,
+      "longitude": 18.644538
+    },
+    {
+      "name": "13 Muz",
+      "latitude": 53.428217,
+      "longitude": 14.553975
+    },
+    {
+      "name": "Agi-Magi Centrum Kultury i Zabawy",
+      "latitude": 52.206262,
+      "longitude": 20.496424
+    },
+    {
+      "name": "Akademia Pasji",
+      "latitude": 52.324359,
+      "longitude": 21.053264
+    },
+    {
+      "name": "Akademia Rękodziela",
+      "latitude": 54.180593,
+      "longitude": 19.405436
+    },
+    {
+      "name": "Akademickie Centrum Kultury \"Alternator\"",
+      "latitude": 54.396358,
+      "longitude": 18.569681
+    },
+    {
+      "name": "Akcelerator Kultury Hala Rogatka",
+      "latitude": 51.757632,
+      "longitude": 18.084334
+    },
+    {
+      "name": "Alte Färberei",
+      "latitude": 51.950628,
+      "longitude": 14.712967
+    },
+    {
+      "name": "Ambasada Muzyki Tradycyjnej",
+      "latitude": 52.221271,
+      "longitude": 21.027564
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.915432,
+      "longitude": 18.483414
+    },
+    {
+      "name": "Amfiteatr Kumowa Dolina",
+      "latitude": 51.148622,
+      "longitude": 23.422822
+    },
+    {
+      "name": "Amfiteatr Pod Skocznią",
+      "latitude": 49.57076,
+      "longitude": 18.891998
+    },
+    {
+      "name": "Amfiteatr Tysiąclecia",
+      "latitude": 50.667393,
+      "longitude": 17.917623
+    },
+    {
+      "name": "ANIOŁKOWO",
+      "latitude": 50.585069,
+      "longitude": 17.242802
+    },
+    {
+      "name": "Anna Songin Mucha",
+      "latitude": 54.365146,
+      "longitude": 18.648464
+    },
+    {
+      "name": "Art Room",
+      "latitude": 52.133002,
+      "longitude": 21.07388
+    },
+    {
+      "name": "Art_Inkubator",
+      "latitude": 51.748602,
+      "longitude": 19.464051
+    },
+    {
+      "name": "Arteneum",
+      "latitude": 52.269894,
+      "longitude": 21.060773
+    },
+    {
+      "name": "Artystyczny Dom Animacji Kino ADA",
+      "latitude": 52.207465,
+      "longitude": 20.907828
+    },
+    {
+      "name": "Atelier Książkowa. Pracownia Ceramiki Artystycznej",
+      "latitude": 52.328825,
+      "longitude": 20.949147
+    },
+    {
+      "name": "ATElier Kultury",
+      "latitude": 50.203658,
+      "longitude": 19.273386
+    },
+    {
+      "name": "Atelier wolimierz",
+      "latitude": 50.952583,
+      "longitude": 15.305751
+    },
+    {
+      "name": "Aula artis",
+      "latitude": 52.415559,
+      "longitude": 16.931899
+    },
+    {
+      "name": "Austriackie Forum Kultury",
+      "latitude": 52.236363,
+      "longitude": 21.005044
+    },
+    {
+      "name": "Autone Jan Kołodziej",
+      "latitude": 54.365031,
+      "longitude": 18.64854
+    },
+    {
+      "name": "Babiogórskie Centrum Kultury im. dr Urszuli Janickiej-Krzywdy",
+      "latitude": 49.658419,
+      "longitude": 19.555007
+    },
+    {
+      "name": "Barlinecki Ośrodek Kultury",
+      "latitude": 52.992917,
+      "longitude": 15.213096
+    },
+    {
+      "name": "Bartoszycki Dom Kultury",
+      "latitude": 54.248483,
+      "longitude": 20.816208
+    },
+    {
+      "name": "Bałucki Ośrodek Kultury NA ŻUBARDZKIEJ",
+      "latitude": 51.787351,
+      "longitude": 19.417924
+    },
+    {
+      "name": "Bemowskie Centrum Kultury \"ArtBem\"",
+      "latitude": 52.240939,
+      "longitude": 20.918686
+    },
+    {
+      "name": "Best",
+      "latitude": 49.808385,
+      "longitude": 19.062668
+    },
+    {
+      "name": "Bialskie Centrum Kultury",
+      "latitude": 52.03279,
+      "longitude": 23.114104
+    },
+    {
+      "name": "Białoborskie Centrum Kultury i Rekreacji",
+      "latitude": 53.89588,
+      "longitude": 16.834752
+    },
+    {
+      "name": "Białobrzeskie Centrum Kultury",
+      "latitude": 51.648706,
+      "longitude": 20.949689
+    },
+    {
+      "name": "Białostocki Ośrodek Kultury",
+      "latitude": 53.129613,
+      "longitude": 23.15839
+    },
+    {
+      "name": "Białołęcki Ośrodek Kultury",
+      "latitude": 52.313597,
+      "longitude": 20.953273
+    },
+    {
+      "name": "Białołęcki Ośrodek Kultury Głębocka 66",
+      "latitude": 52.311319,
+      "longitude": 21.067602
+    },
+    {
+      "name": "Biblioteka Kultury",
+      "latitude": 51.502052,
+      "longitude": 15.199825
+    },
+    {
+      "name": "Bielański Ośrodek Kultury",
+      "latitude": 52.284718,
+      "longitude": 20.935601
+    },
+    {
+      "name": "Bielańskie Centrum Edukacji Kulturalnej",
+      "latitude": 52.290502,
+      "longitude": 20.942036
+    },
+    {
+      "name": "Bielskie Centrum Kultury im. Marii Koterbskiej",
+      "latitude": 49.827144,
+      "longitude": 19.038981
+    },
+    {
+      "name": "Biennale Warszawa",
+      "latitude": 52.221316,
+      "longitude": 21.017435
+    },
+    {
+      "name": "Biennale Warszawa",
+      "latitude": 52.221526,
+      "longitude": 21.018524
+    },
+    {
+      "name": "Biuro Wystaw Artystycznych",
+      "latitude": 50.038693,
+      "longitude": 22.007567
+    },
+    {
+      "name": "Biuro Wystaw Artystycznych",
+      "latitude": 50.944107,
+      "longitude": 21.390679
+    },
+    {
+      "name": "Bolesławiecki Ośrodek Kultury - Międzynarodowe Centrum Ceramiki",
+      "latitude": 51.261793,
+      "longitude": 15.569781
+    },
+    {
+      "name": "Braniewskie Centrum Kultury",
+      "latitude": 54.381752,
+      "longitude": 19.824653
+    },
+    {
+      "name": "Browar B",
+      "latitude": 52.657965,
+      "longitude": 19.076891
+    },
+    {
+      "name": "Brzeskie Centrum Kultury i Historii \"Wahadło\"",
+      "latitude": 52.612159,
+      "longitude": 18.902476
+    },
+    {
+      "name": "Bukowiańskie Centrum Kultury „Dom Ludowy”",
+      "latitude": 49.339484,
+      "longitude": 20.102063
+    },
+    {
+      "name": "Bychawskie Centrum Kultury",
+      "latitude": 51.013053,
+      "longitude": 22.538853
+    },
+    {
+      "name": "Bytowskie Centrum Kultury",
+      "latitude": 54.168265,
+      "longitude": 17.487017
+    },
+    {
+      "name": "Centrum",
+      "latitude": 53.468705,
+      "longitude": 14.582883
+    },
+    {
+      "name": "Centrum Aktywności Kulturalnej \"Doma Ludowy\"",
+      "latitude": 49.957764,
+      "longitude": 19.66911
+    },
+    {
+      "name": "Centrum Aktywności Twórczej w Ustce",
+      "latitude": 54.587122,
+      "longitude": 16.855271
+    },
+    {
+      "name": "Centrum Animacji Kultury im. Jana Daniela Janockiego w Międzychodzie",
+      "latitude": 52.604429,
+      "longitude": 15.898665
+    },
+    {
+      "name": "Centrum Artystyczne Amigos",
+      "latitude": 54.076455,
+      "longitude": 18.440202
+    },
+    {
+      "name": "Centrum Artystyczne Hokus Pokus",
+      "latitude": 51.75459,
+      "longitude": 19.46443
+    },
+    {
+      "name": "Centrum Chrześcijańskie w Zakościelu",
+      "latitude": 51.52717,
+      "longitude": 20.25128
+    },
+    {
+      "name": "Centrum Edukacji i Wychowania Młodzieży KANA",
+      "latitude": 50.277719,
+      "longitude": 19.138469
+    },
+    {
+      "name": "Centrum Edukacji Turystyki i Kultury w Stroniu Śląskim",
+      "latitude": 50.302895,
+      "longitude": 16.875763
+    },
+    {
+      "name": "Centrum Edukacyjno-kulturalne w Kielnarowej",
+      "latitude": 49.965016,
+      "longitude": 22.066491
+    },
+    {
+      "name": "Centrum Integracji Kulturalnej \"Orzeł\"",
+      "latitude": 51.261533,
+      "longitude": 15.564581
+    },
+    {
+      "name": "Centrum Konferencyjno-Bankietowe Księżycowy Czar",
+      "latitude": 51.652279,
+      "longitude": 20.165914
+    },
+    {
+      "name": "Centrum Kulturalne",
+      "latitude": 49.78108,
+      "longitude": 22.781097
+    },
+    {
+      "name": "Centrum Kulturalno-Biblioteczne",
+      "latitude": 53.833565,
+      "longitude": 20.694951
+    },
+    {
+      "name": "Centrum Kulturalno-Konferencyjne w Dołhobyczowie",
+      "latitude": 50.585032,
+      "longitude": 24.030579
+    },
+    {
+      "name": "Centrum Kulturalno-Kongresowe Jordanki Toruń",
+      "latitude": 53.013931,
+      "longitude": 18.601544
+    },
+    {
+      "name": "Centrum Kulturalno-Kongresowe Witold",
+      "latitude": 50.763926,
+      "longitude": 16.16558
+    },
+    {
+      "name": "Centrum Kulturalno-Sportowe w Dębowej",
+      "latitude": 49.85158,
+      "longitude": 21.336237
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 49.768921,
+      "longitude": 19.218387
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 49.785802,
+      "longitude": 19.193241
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 49.802986,
+      "longitude": 20.418935
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 50.641719,
+      "longitude": 20.2957
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 51.174284,
+      "longitude": 18.245526
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 51.495494,
+      "longitude": 22.854631
+    },
+    {
+      "name": "Centrum kultury",
+      "latitude": 51.706193,
+      "longitude": 16.748847
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 51.909662,
+      "longitude": 16.682639
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 52.056866,
+      "longitude": 20.438674
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 52.115124,
+      "longitude": 16.348671
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 52.40628,
+      "longitude": 19.163031
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 54.343711,
+      "longitude": 17.888979
+    },
+    {
+      "name": "Centrum Kultury",
+      "latitude": 54.577716,
+      "longitude": 16.857722
+    },
+    {
+      "name": "Centrum Kultury \"Agora\"",
+      "latitude": 51.134856,
+      "longitude": 17.021519
+    },
+    {
+      "name": "Centrum Kultury \"Kłobuk\"",
+      "latitude": 53.803698,
+      "longitude": 21.574346
+    },
+    {
+      "name": "Centrum Kultury \"Nasz Dom\"",
+      "latitude": 49.819067,
+      "longitude": 18.855123
+    },
+    {
+      "name": "Centrum Kultury \"Saska Kępa\"",
+      "latitude": 52.225566,
+      "longitude": 21.060113
+    },
+    {
+      "name": "Centrum Kultury 105",
+      "latitude": 54.190529,
+      "longitude": 16.187727
+    },
+    {
+      "name": "Centrum Kultury Euroregionu Stara Rzeźnia",
+      "latitude": 53.427067,
+      "longitude": 14.573396
+    },
+    {
+      "name": "Centrum Kultury Filmowej im. Andrzeja Wajdy",
+      "latitude": 52.226537,
+      "longitude": 21.023699
+    },
+    {
+      "name": "Centrum Kultury Gminy i Miasta Sianów",
+      "latitude": 54.226855,
+      "longitude": 16.290966
+    },
+    {
+      "name": "Centrum kultury gminy Kutno",
+      "latitude": 52.203193,
+      "longitude": 19.320696
+    },
+    {
+      "name": "Centrum Kultury Gminy Pleśna",
+      "latitude": 49.922821,
+      "longitude": 20.944851
+    },
+    {
+      "name": "Centrum Kultury i Aktywności Lokalnej",
+      "latitude": 51.27858,
+      "longitude": 20.439182
+    },
+    {
+      "name": "Centrum Kultury i Biblioteka",
+      "latitude": 54.713573,
+      "longitude": 18.017339
+    },
+    {
+      "name": "Centrum Kultury i Biblioteka Gminy Augustów w Żarnowie",
+      "latitude": 53.834549,
+      "longitude": 22.889322
+    },
+    {
+      "name": "Centrum Kultury i Biblioteka Gminy Augustów w Żarnowie Filia w Białobrzegach",
+      "latitude": 53.80102,
+      "longitude": 22.968448
+    },
+    {
+      "name": "Centrum Kultury i Biblioteka im. Powstańców Wielkopolskich W Opalenicy",
+      "latitude": 52.307353,
+      "longitude": 16.413
+    },
+    {
+      "name": "Centrum Kultury i Biblioteki",
+      "latitude": 53.884458,
+      "longitude": 17.726194
+    },
+    {
+      "name": "Centrum Kultury i Czytelnictwa",
+      "latitude": 49.562626,
+      "longitude": 21.788804
+    },
+    {
+      "name": "Centrum Kultury i Czytelnictwa",
+      "latitude": 49.879622,
+      "longitude": 21.408125
+    },
+    {
+      "name": "Centrum Kultury i Edukacji Muzycznej",
+      "latitude": 49.563243,
+      "longitude": 20.430613
+    },
+    {
+      "name": "Centrum Kultury i Inicjatyw Obywatelskich",
+      "latitude": 52.121119,
+      "longitude": 20.719993
+    },
+    {
+      "name": "Centrum Kultury i Promocji w Kraśniku Oddzxiał Kościuszki 26",
+      "latitude": 50.920983,
+      "longitude": 22.217356
+    },
+    {
+      "name": "Centrum Kultury i Rekreacji",
+      "latitude": 51.741827,
+      "longitude": 22.698009
+    },
+    {
+      "name": "Centrum Kultury i Rekreacji",
+      "latitude": 51.806643,
+      "longitude": 16.318797
+    },
+    {
+      "name": "Centrum Kultury i Rekreacji w Rudce",
+      "latitude": 51.268291,
+      "longitude": 23.654764
+    },
+    {
+      "name": "Centrum Kultury i Rekreacji w Supraślu",
+      "latitude": 53.204711,
+      "longitude": 23.344534
+    },
+    {
+      "name": "Centrum Kultury i Sportu w Jodłowej Górnej",
+      "latitude": 49.872978,
+      "longitude": 21.261198
+    },
+    {
+      "name": "Centrum Kultury i Sportu w Osieku",
+      "latitude": 53.168546,
+      "longitude": 19.386181
+    },
+    {
+      "name": "Centrum Kultury i Sztuki",
+      "latitude": 50.428678,
+      "longitude": 21.277093
+    },
+    {
+      "name": "Centrum Kultury i Sztuki",
+      "latitude": 51.761516,
+      "longitude": 18.093335
+    },
+    {
+      "name": "Centrum Kultury i Sztuki",
+      "latitude": 53.455185,
+      "longitude": 17.535963
+    },
+    {
+      "name": "Centrum Kultury i Sztuki \"Dwór Kossaków\"",
+      "latitude": 49.781682,
+      "longitude": 18.828038
+    },
+    {
+      "name": "Centrum Kultury i Sztuki w Łące",
+      "latitude": 50.088106,
+      "longitude": 22.112269
+    },
+    {
+      "name": "Centrum Kultury i Wypoczynku w Proszowicach",
+      "latitude": 50.193587,
+      "longitude": 20.288316
+    },
+    {
+      "name": "Centrum Kultury im. Józefa Mehoffera",
+      "latitude": 50.052821,
+      "longitude": 21.612699
+    },
+    {
+      "name": "Centrum Kultury im. Marii Płonowskiej w Bolesławiu Filia - Dworek w Krzykawce",
+      "latitude": 50.312434,
+      "longitude": 19.417706
+    },
+    {
+      "name": "Centrum Kultury im. prof. Jana Szyrockiego ZUT",
+      "latitude": 53.44153,
+      "longitude": 14.536195
+    },
+    {
+      "name": "Centrum Kultury Izabelin",
+      "latitude": 52.293324,
+      "longitude": 20.81621
+    },
+    {
+      "name": "Centrum Kultury Nowy Pafawag",
+      "latitude": 51.115755,
+      "longitude": 16.958026
+    },
+    {
+      "name": "Centrum Kultury Pniewy",
+      "latitude": 52.506269,
+      "longitude": 16.252874
+    },
+    {
+      "name": "Centrum Kultury Prawosławnej",
+      "latitude": 53.131994,
+      "longitude": 23.154019
+    },
+    {
+      "name": "Centrum Kultury Raszyn",
+      "latitude": 52.154286,
+      "longitude": 20.919851
+    },
+    {
+      "name": "Centrum kultury sportu i rekreacji \"Sokół\"",
+      "latitude": 50.17667,
+      "longitude": 22.60838
+    },
+    {
+      "name": "Centrum Kultury Studenckiej „Mrowisko”",
+      "latitude": 50.28535,
+      "longitude": 18.677933
+    },
+    {
+      "name": "Centrum Kultury Studzienice w Ugoszczu",
+      "latitude": 54.123218,
+      "longitude": 17.528518
+    },
+    {
+      "name": "Centrum Kultury w Annopolu",
+      "latitude": 50.885538,
+      "longitude": 21.850929
+    },
+    {
+      "name": "Centrum Kultury w Błoniu",
+      "latitude": 52.193048,
+      "longitude": 20.616398
+    },
+    {
+      "name": "Centrum Kultury w Chojnie",
+      "latitude": 52.963449,
+      "longitude": 14.428295
+    },
+    {
+      "name": "Centrum Kultury w Piasecznie",
+      "latitude": 52.074283,
+      "longitude": 21.027627
+    },
+    {
+      "name": "Centrum Kultury w Rajczy",
+      "latitude": 49.503372,
+      "longitude": 19.099272
+    },
+    {
+      "name": "Centrum Kultury w Siechnicach",
+      "latitude": 51.037778,
+      "longitude": 17.146257
+    },
+    {
+      "name": "Centrum Kultury w Tuczępach",
+      "latitude": 50.516759,
+      "longitude": 20.99236
+    },
+    {
+      "name": "Centrum Kultury w Wilczycach",
+      "latitude": 50.74633,
+      "longitude": 21.65649
+    },
+    {
+      "name": "Centrum Kultury w Zarzeczu",
+      "latitude": 50.525211,
+      "longitude": 22.201855
+    },
+    {
+      "name": "Centrum Kultury w Zawadzie Książęcej",
+      "latitude": 50.151754,
+      "longitude": 18.249071
+    },
+    {
+      "name": "Centrum Kultury w Łomiankach",
+      "latitude": 52.342078,
+      "longitude": 20.887531
+    },
+    {
+      "name": "Centrum Kultury w Łubnicach",
+      "latitude": 50.410958,
+      "longitude": 21.150125
+    },
+    {
+      "name": "Centrum Kultury Wilanów",
+      "latitude": 52.165031,
+      "longitude": 21.110011
+    },
+    {
+      "name": "Centrum Kultury Wilanów",
+      "latitude": 52.167449,
+      "longitude": 21.086604
+    },
+    {
+      "name": "Centrum Kultury Wilanów, Filia w Powsinie",
+      "latitude": 52.120417,
+      "longitude": 21.101441
+    },
+    {
+      "name": "Centrum Kultury Zamek",
+      "latitude": 52.407776,
+      "longitude": 16.919186
+    },
+    {
+      "name": "Centrum Kultury Śląskiej w Nakle Śląskim",
+      "latitude": 50.438811,
+      "longitude": 18.900608
+    },
+    {
+      "name": "Centrum Kultury Żydowskiej",
+      "latitude": 50.051373,
+      "longitude": 19.944384
+    },
+    {
+      "name": "Centrum Nauki Atom",
+      "latitude": 51.38902,
+      "longitude": 21.139708
+    },
+    {
+      "name": "Centrum Naukowe Leonardo da Vinci - Pawilon wystawienniczy",
+      "latitude": 50.782761,
+      "longitude": 20.465942
+    },
+    {
+      "name": "Centrum Promocji Dziedzictwa Kulturowego w Chmielniku",
+      "latitude": 49.980178,
+      "longitude": 22.126139
+    },
+    {
+      "name": "Centrum Promocji Kultury",
+      "latitude": 52.247036,
+      "longitude": 21.075504
+    },
+    {
+      "name": "Centrum Promocji Kultury",
+      "latitude": 52.845524,
+      "longitude": 15.83393
+    },
+    {
+      "name": "Centrum Reanimacji Kultury",
+      "latitude": 51.121926,
+      "longitude": 17.033583
+    },
+    {
+      "name": "Centrum Rozwoju Zawodowego „Krzywy Komin”",
+      "latitude": 51.11865,
+      "longitude": 17.028896
+    },
+    {
+      "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+      "latitude": 51.762204,
+      "longitude": 18.09271
+    },
+    {
+      "name": "Centrum sportowo - kulturowe",
+      "latitude": 50.921579,
+      "longitude": 20.593675
+    },
+    {
+      "name": "Centrum Społeczno - Kulturalne w Lisowicach",
+      "latitude": 50.681841,
+      "longitude": 18.629142
+    },
+    {
+      "name": "Centrum Społeczno - Kulturalne w Pietrowicach Wielkich",
+      "latitude": 50.083765,
+      "longitude": 18.091225
+    },
+    {
+      "name": "Centrum Sztuk Performatywnych",
+      "latitude": 51.116043,
+      "longitude": 17.022778
+    },
+    {
+      "name": "Centrum Sztuki Forma",
+      "latitude": 52.48701,
+      "longitude": 16.941966
+    },
+    {
+      "name": "Centrum Sztuki Niezależnej SAMI",
+      "latitude": 50.243937,
+      "longitude": 18.825592
+    },
+    {
+      "name": "Centrum Sztuki WRO",
+      "latitude": 51.106077,
+      "longitude": 17.032849
+    },
+    {
+      "name": "Centrum Sztuki Współczesnej \"Łaźnia\"",
+      "latitude": 54.341679,
+      "longitude": 18.658134
+    },
+    {
+      "name": "Centrum Sztuki Współczesnej Znaki Czasu",
+      "latitude": 53.012097,
+      "longitude": 18.600503
+    },
+    {
+      "name": "Centrum Tańca i Zabawy TWISTER",
+      "latitude": 51.790499,
+      "longitude": 19.450691
+    },
+    {
+      "name": "Centrum Turystyki i Kultury w Ścinawie",
+      "latitude": 51.414872,
+      "longitude": 16.422395
+    },
+    {
+      "name": "Centrum Turystyki i Kultury „Hładyszka”",
+      "latitude": 52.576917,
+      "longitude": 23.327309
+    },
+    {
+      "name": "Centrum Twórczości Ludowej w Osinach",
+      "latitude": 51.18797,
+      "longitude": 21.106261
+    },
+    {
+      "name": "Centrum Łowicka",
+      "latitude": 52.200048,
+      "longitude": 21.005438
+    },
+    {
+      "name": "Chata Numinosum",
+      "latitude": 52.221176,
+      "longitude": 21.028669
+    },
+    {
+      "name": "CHDK",
+      "latitude": 53.169774,
+      "longitude": 15.415639
+    },
+    {
+      "name": "Chełmiński Dom Kultury",
+      "latitude": 53.348162,
+      "longitude": 18.440339
+    },
+    {
+      "name": "Chełmski Dom Kultury",
+      "latitude": 51.132112,
+      "longitude": 23.489132
+    },
+    {
+      "name": "Chobieński Ośrodek Kultury",
+      "latitude": 51.544324,
+      "longitude": 16.447958
+    },
+    {
+      "name": "Chodzieski Dom Kultury",
+      "latitude": 52.985549,
+      "longitude": 16.909362
+    },
+    {
+      "name": "Chorzowskie Centrum Kultury",
+      "latitude": 50.296963,
+      "longitude": 18.949942
+    },
+    {
+      "name": "CK Wiatrak",
+      "latitude": 50.294634,
+      "longitude": 18.807734
+    },
+    {
+      "name": "COEK Studio",
+      "latitude": 52.884201,
+      "longitude": 20.604974
+    },
+    {
+      "name": "Creosfera",
+      "latitude": 52.124889,
+      "longitude": 20.665544
+    },
+    {
+      "name": "Cricoteka",
+      "latitude": 50.047353,
+      "longitude": 19.951426
+    },
+    {
+      "name": "Czaplinecki Ośrodek Kultury",
+      "latitude": 53.556236,
+      "longitude": 16.233314
+    },
+    {
+      "name": "Czerwonoprądnicki Dom Kultury",
+      "latitude": 50.087953,
+      "longitude": 19.967948
+    },
+    {
+      "name": "Czytelnia",
+      "latitude": 52.992696,
+      "longitude": 22.879209
+    },
+    {
+      "name": "DFK",
+      "latitude": 50.141038,
+      "longitude": 18.084968
+    },
+    {
+      "name": "DFK Tworków",
+      "latitude": 50.007412,
+      "longitude": 18.235347
+    },
+    {
+      "name": "Dolnobrzeski Ośrodek Kultury",
+      "latitude": 51.260048,
+      "longitude": 16.722772
+    },
+    {
+      "name": "Dom Artysty",
+      "latitude": 50.301473,
+      "longitude": 17.379954
+    },
+    {
+      "name": "Dom Chemika",
+      "latitude": 51.417826,
+      "longitude": 21.9726
+    },
+    {
+      "name": "Dom Edyty Stein",
+      "latitude": 50.879255,
+      "longitude": 18.422248
+    },
+    {
+      "name": "Dom joannitów",
+      "latitude": 52.442685,
+      "longitude": 15.109956
+    },
+    {
+      "name": "Dom Kaszubski",
+      "latitude": 54.591341,
+      "longitude": 18.458623
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 49.820092,
+      "longitude": 19.217526
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 49.844833,
+      "longitude": 19.143851
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 49.850233,
+      "longitude": 19.245903
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 49.890636,
+      "longitude": 20.860935
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 49.951356,
+      "longitude": 21.924422
+    },
+    {
+      "name": "Dom kultury",
+      "latitude": 50.00919,
+      "longitude": 18.157551
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.04749,
+      "longitude": 21.400013
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.092886,
+      "longitude": 21.997432
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.102686,
+      "longitude": 22.294934
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.120602,
+      "longitude": 22.338781
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.121983,
+      "longitude": 22.416505
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.174708,
+      "longitude": 22.506573
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.190894,
+      "longitude": 17.730964
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.215686,
+      "longitude": 16.677497
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.23337,
+      "longitude": 22.456809
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.241114,
+      "longitude": 20.723537
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.304733,
+      "longitude": 16.903694
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.349222,
+      "longitude": 16.83118
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.385999,
+      "longitude": 18.949581
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.411898,
+      "longitude": 18.947679
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.572258,
+      "longitude": 22.12592
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.593196,
+      "longitude": 21.585721
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.728484,
+      "longitude": 18.445451
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 50.849556,
+      "longitude": 19.97725
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.136974,
+      "longitude": 20.570819
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.192057,
+      "longitude": 19.355865
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.399766,
+      "longitude": 16.30312
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.472606,
+      "longitude": 16.607941
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.47356,
+      "longitude": 16.216472
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.508056,
+      "longitude": 16.262892
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.59253,
+      "longitude": 22.614775
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.605812,
+      "longitude": 16.860448
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.655305,
+      "longitude": 16.952334
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.673693,
+      "longitude": 22.638222
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.856478,
+      "longitude": 16.506754
+    },
+    {
+      "name": "Dom kultury",
+      "latitude": 51.926032,
+      "longitude": 16.218744
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 51.943777,
+      "longitude": 16.468197
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 52.003017,
+      "longitude": 16.170101
+    },
+    {
+      "name": "Dom kultury",
+      "latitude": 52.006509,
+      "longitude": 16.383297
+    },
+    {
+      "name": "Dom kultury",
+      "latitude": 52.031982,
+      "longitude": 20.690198
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 52.068091,
+      "longitude": 21.028349
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 52.412208,
+      "longitude": 20.8844
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 52.746877,
+      "longitude": 23.579035
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 53.011132,
+      "longitude": 18.579765
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 53.778479,
+      "longitude": 15.828304
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 54.015619,
+      "longitude": 14.743418
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 54.324065,
+      "longitude": 20.731553
+    },
+    {
+      "name": "Dom Kultury",
+      "latitude": 54.526831,
+      "longitude": 16.866753
+    },
+    {
+      "name": "Dom Kultury \"Portiernia\"",
+      "latitude": 52.197823,
+      "longitude": 20.887568
+    },
+    {
+      "name": "Dom Kultury \"Zachęta\"",
+      "latitude": 53.130359,
+      "longitude": 23.188115
+    },
+    {
+      "name": "Dom Kultury \"Zameczek\"",
+      "latitude": 50.863979,
+      "longitude": 20.631813
+    },
+    {
+      "name": "Dom Kultury Agora",
+      "latitude": 53.767671,
+      "longitude": 20.501285
+    },
+    {
+      "name": "Dom Kultury Bojanów",
+      "latitude": 50.030378,
+      "longitude": 18.162063
+    },
+    {
+      "name": "Dom Kultury Chwałowice",
+      "latitude": 50.068581,
+      "longitude": 18.548269
+    },
+    {
+      "name": "Dom Kultury Czermna",
+      "latitude": 49.818867,
+      "longitude": 21.292062
+    },
+    {
+      "name": "Dom Kultury Gminnego Centrum Kultury i Rekreacji",
+      "latitude": 50.238295,
+      "longitude": 18.286897
+    },
+    {
+      "name": "Dom Kultury im. Wiktorii Kubisz - Kubiszówka",
+      "latitude": 49.824397,
+      "longitude": 19.041036
+    },
+    {
+      "name": "Dom Kultury im. Witolda Gombrowicza",
+      "latitude": 50.891431,
+      "longitude": 21.509498
+    },
+    {
+      "name": "Dom Kultury im. Z. Krudzielskiego",
+      "latitude": 50.243187,
+      "longitude": 19.293886
+    },
+    {
+      "name": "Dom Kultury Jarzębina",
+      "latitude": 50.293031,
+      "longitude": 19.017079
+    },
+    {
+      "name": "Dom Kultury Markuszowa",
+      "latitude": 49.86288,
+      "longitude": 21.708619
+    },
+    {
+      "name": "Dom Kultury Mors, Miejski Ośrodek Kultury",
+      "latitude": 50.059725,
+      "longitude": 21.398583
+    },
+    {
+      "name": "Dom Kultury Młyniec",
+      "latitude": 54.392453,
+      "longitude": 18.597089
+    },
+    {
+      "name": "Dom Kultury Racławówka",
+      "latitude": 50.003701,
+      "longitude": 21.913943
+    },
+    {
+      "name": "Dom Kultury Sabat",
+      "latitude": 50.890654,
+      "longitude": 20.665882
+    },
+    {
+      "name": "Dom Kultury SM Janowo",
+      "latitude": 54.565659,
+      "longitude": 18.416961
+    },
+    {
+      "name": "Dom Kultury Stokrotka",
+      "latitude": 52.383353,
+      "longitude": 16.821174
+    },
+    {
+      "name": "Dom Kultury Stokłosy",
+      "latitude": 52.156651,
+      "longitude": 21.041167
+    },
+    {
+      "name": "Dom Kultury w Branicy Suchowolskiej",
+      "latitude": 51.733944,
+      "longitude": 22.70792
+    },
+    {
+      "name": "Dom Kultury w Jeleniu",
+      "latitude": 50.158736,
+      "longitude": 19.250809
+    },
+    {
+      "name": "Dom Kultury w Kotlinie",
+      "latitude": 51.916771,
+      "longitude": 17.654142
+    },
+    {
+      "name": "Dom Kultury w Leszczynach",
+      "latitude": 50.142278,
+      "longitude": 18.632798
+    },
+    {
+      "name": "Dom Kultury w Lubiążu",
+      "latitude": 51.267036,
+      "longitude": 16.467855
+    },
+    {
+      "name": "Dom Kultury w Orzyszu",
+      "latitude": 53.808183,
+      "longitude": 21.94621
+    },
+    {
+      "name": "Dom Kultury w Osieku",
+      "latitude": 51.461005,
+      "longitude": 17.006138
+    },
+    {
+      "name": "Dom Kultury w Pieńsku",
+      "latitude": 51.247457,
+      "longitude": 15.044551
+    },
+    {
+      "name": "Dom Kultury w Pogrzebieniu",
+      "latitude": 50.067513,
+      "longitude": 18.300385
+    },
+    {
+      "name": "Dom Kultury w Przysusze",
+      "latitude": 51.358233,
+      "longitude": 20.631679
+    },
+    {
+      "name": "Dom Kultury w Przyszowie",
+      "latitude": 50.482107,
+      "longitude": 21.995273
+    },
+    {
+      "name": "Dom Kultury w Rudzie Śląskiej",
+      "latitude": 50.268237,
+      "longitude": 18.83255
+    },
+    {
+      "name": "Dom Kultury w Siedliskach",
+      "latitude": 53.996453,
+      "longitude": 21.920075
+    },
+    {
+      "name": "Dom Kultury w Siemiechowie",
+      "latitude": 49.85349,
+      "longitude": 20.905231
+    },
+    {
+      "name": "Dom Kultury w Skrzynkach",
+      "latitude": 51.602251,
+      "longitude": 19.964955
+    },
+    {
+      "name": "Dom Kultury w Strażowie",
+      "latitude": 50.067725,
+      "longitude": 22.131199
+    },
+    {
+      "name": "Dom Kultury w Stęszewie",
+      "latitude": 52.282255,
+      "longitude": 16.704476
+    },
+    {
+      "name": "Dom Kultury w Tuchowie",
+      "latitude": 49.894059,
+      "longitude": 21.051216
+    },
+    {
+      "name": "Dom Kultury w Tyliczu",
+      "latitude": 49.396867,
+      "longitude": 21.02372
+    },
+    {
+      "name": "Dom Kultury Wapienica",
+      "latitude": 49.808078,
+      "longitude": 18.9831
+    },
+    {
+      "name": "Dom Kultury We Wrzawach",
+      "latitude": 50.70629,
+      "longitude": 21.852106
+    },
+    {
+      "name": "Dom Kultury Wieniawa",
+      "latitude": 51.362153,
+      "longitude": 20.793746
+    },
+    {
+      "name": "Dom Kultury Włochy",
+      "latitude": 52.194768,
+      "longitude": 20.968254
+    },
+    {
+      "name": "Dom Kultury Włochy",
+      "latitude": 52.20175,
+      "longitude": 20.915098
+    },
+    {
+      "name": "Dom Kultury Zacisze",
+      "latitude": 52.283412,
+      "longitude": 21.071482
+    },
+    {
+      "name": "Dom Kultury Ząbkowice",
+      "latitude": 50.375093,
+      "longitude": 19.268085
+    },
+    {
+      "name": "Dom Kultury Śródmieście",
+      "latitude": 52.233025,
+      "longitude": 21.02497
+    },
+    {
+      "name": "Dom Kultury Śródmieście",
+      "latitude": 52.233693,
+      "longitude": 21.022088
+    },
+    {
+      "name": "Dom Kultury Śródmieście",
+      "latitude": 53.132243,
+      "longitude": 23.165454
+    },
+    {
+      "name": "Dom Kultury Śródmieście Pracownia Plastyczna",
+      "latitude": 53.134774,
+      "longitude": 23.157844
+    },
+    {
+      "name": "Dom Kultury Świt",
+      "latitude": 52.284855,
+      "longitude": 21.021483
+    },
+    {
+      "name": "Dom Kultury „Ariadna”",
+      "latitude": 51.768562,
+      "longitude": 19.506074
+    },
+    {
+      "name": "Dom Kultury „Hutnik\"",
+      "latitude": 50.337704,
+      "longitude": 19.601412
+    },
+    {
+      "name": "Dom Kultury „Krzemień”",
+      "latitude": 53.366173,
+      "longitude": 14.5996
+    },
+    {
+      "name": "Dom Kultury „Sokół”",
+      "latitude": 49.869656,
+      "longitude": 21.794072
+    },
+    {
+      "name": "Dom Kutury\"Kolorowa\"",
+      "latitude": 52.191022,
+      "longitude": 20.888875
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 49.581086,
+      "longitude": 21.824258
+    },
+    {
+      "name": "Dom ludowy",
+      "latitude": 49.650061,
+      "longitude": 21.473028
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 49.735812,
+      "longitude": 21.296526
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 49.771479,
+      "longitude": 21.570962
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 49.905532,
+      "longitude": 22.740838
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 49.940148,
+      "longitude": 22.01928
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 50.050001,
+      "longitude": 19.208372
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 50.883368,
+      "longitude": 20.716369
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 51.932497,
+      "longitude": 22.656671
+    },
+    {
+      "name": "Dom Ludowy",
+      "latitude": 52.347581,
+      "longitude": 16.45479
+    },
+    {
+      "name": "Dom Ludowy Cerekiew",
+      "latitude": 51.406367,
+      "longitude": 21.057776
+    },
+    {
+      "name": "Dom Ludowy Dąbrówka Nagórna",
+      "latitude": 51.456361,
+      "longitude": 21.077877
+    },
+    {
+      "name": "Dom Ludowy Milejowice",
+      "latitude": 51.421637,
+      "longitude": 21.077753
+    },
+    {
+      "name": "Dom Ludowy Szynwałd",
+      "latitude": 49.972421,
+      "longitude": 21.117735
+    },
+    {
+      "name": "Dom Ludowy w Długiem",
+      "latitude": 49.578254,
+      "longitude": 22.044141
+    },
+    {
+      "name": "Dom Ludowy w Gulinku",
+      "latitude": 51.464641,
+      "longitude": 20.988096
+    },
+    {
+      "name": "Dom Ludowy w Skalniku",
+      "latitude": 49.575948,
+      "longitude": 21.496566
+    },
+    {
+      "name": "Dom Ludowy w Skurowej",
+      "latitude": 49.873417,
+      "longitude": 21.379456
+    },
+    {
+      "name": "Dom Ludowy w Wielgiem",
+      "latitude": 51.23949,
+      "longitude": 21.496914
+    },
+    {
+      "name": "Dom Ludowy w Zakrzewskiej Woli",
+      "latitude": 51.449739,
+      "longitude": 20.966547
+    },
+    {
+      "name": "Dom Ludowy Zatopolice",
+      "latitude": 51.411526,
+      "longitude": 21.018455
+    },
+    {
+      "name": "Dom Muz",
+      "latitude": 52.994106,
+      "longitude": 18.594635
+    },
+    {
+      "name": "Dom Muzyki i Tańca",
+      "latitude": 50.303403,
+      "longitude": 18.776135
+    },
+    {
+      "name": "Dom Muzyki, Pałac w Kraczewicach",
+      "latitude": 51.200155,
+      "longitude": 22.089821
+    },
+    {
+      "name": "Dom Pracy Twórczej \"Sorboma\"",
+      "latitude": 53.864188,
+      "longitude": 20.955266
+    },
+    {
+      "name": "Dom Sztuki",
+      "latitude": 52.161447,
+      "longitude": 21.026809
+    },
+    {
+      "name": "Dom Sztuki",
+      "latitude": 54.360714,
+      "longitude": 18.710917
+    },
+    {
+      "name": "Dom Zdrojowy",
+      "latitude": 49.624715,
+      "longitude": 21.287132
+    },
+    {
+      "name": "Dom Środowisk Twórczych",
+      "latitude": 50.868215,
+      "longitude": 20.625721
+    },
+    {
+      "name": "Dom Środowisk Twórczych Miejskiego Domu Kultury",
+      "latitude": 53.179976,
+      "longitude": 22.073039
+    },
+    {
+      "name": "Domek Filmowy",
+      "latitude": 52.221734,
+      "longitude": 21.029212
+    },
+    {
+      "name": "Domin Gdn",
+      "latitude": 54.376532,
+      "longitude": 18.607943
+    },
+    {
+      "name": "Domkultury",
+      "latitude": 50.703814,
+      "longitude": 16.533627
+    },
+    {
+      "name": "Dorożkarnia",
+      "latitude": 52.212164,
+      "longitude": 21.072349
+    },
+    {
+      "name": "Drachma",
+      "latitude": 49.812994,
+      "longitude": 19.027976
+    },
+    {
+      "name": "Duchnowski Dom Kultury",
+      "latitude": 52.192482,
+      "longitude": 21.360673
+    },
+    {
+      "name": "Dworzec Kulturalny Wieluń-Dąbrowa WDK",
+      "latitude": 51.23924,
+      "longitude": 18.550885
+    },
+    {
+      "name": "Dzielnicowy Ośrodek Kultury",
+      "latitude": 50.280903,
+      "longitude": 18.807727
+    },
+    {
+      "name": "Dzielnicowy Ośrodek Kultury Ursynów",
+      "latitude": 52.130885,
+      "longitude": 21.019437
+    },
+    {
+      "name": "Dzielnicowy Ośrodek Kultury Wola im. S. Żeromskiego",
+      "latitude": 52.246545,
+      "longitude": 20.947868
+    },
+    {
+      "name": "Dębińskie Centrum Kultury",
+      "latitude": 49.963575,
+      "longitude": 20.67691
+    },
+    {
+      "name": "EDU-ARTO",
+      "latitude": 52.455225,
+      "longitude": 16.945738
+    },
+    {
+      "name": "Ekspozycja 34",
+      "latitude": 52.104745,
+      "longitude": 19.934963
+    },
+    {
+      "name": "Energetyczne Centrum Kultury",
+      "latitude": 50.301162,
+      "longitude": 19.13698
+    },
+    {
+      "name": "Europejskie Centrum Muzyki Krzysztofa Pendereckiego",
+      "latitude": 49.855168,
+      "longitude": 20.82964
+    },
+    {
+      "name": "Eve&Culture",
+      "latitude": 52.420203,
+      "longitude": 16.874339
+    },
+    {
+      "name": "Fabryka Sztuki w Łodzi",
+      "latitude": 51.748545,
+      "longitude": 19.463431
+    },
+    {
+      "name": "Fama",
+      "latitude": 51.145675,
+      "longitude": 17.110123
+    },
+    {
+      "name": "Filharmonia Gorzowska",
+      "latitude": 52.736424,
+      "longitude": 15.247124
+    },
+    {
+      "name": "Filharmonia Kameralna im. Witolda Lutosławskiego w Łomży",
+      "latitude": 53.173655,
+      "longitude": 22.078971
+    },
+    {
+      "name": "Filharmonia Śląska im. Henryka Mikołaja Góreckiego",
+      "latitude": 50.260765,
+      "longitude": 19.013758
+    },
+    {
+      "name": "Filia Dom Muz Rudak",
+      "latitude": 53.000704,
+      "longitude": 18.641071
+    },
+    {
+      "name": "Filia Miejskiego Domu Kultury pod „Bocianem”",
+      "latitude": 50.22683,
+      "longitude": 21.792646
+    },
+    {
+      "name": "Filia Miejsko-Gminnego Ośrodka Kultury",
+      "latitude": 50.617638,
+      "longitude": 18.968726
+    },
+    {
+      "name": "Firlej",
+      "latitude": 51.102294,
+      "longitude": 17.014429
+    },
+    {
+      "name": "Fundacja Energia Jest w Nas - Świetlica nad Pocztą",
+      "latitude": 50.953612,
+      "longitude": 19.172431
+    },
+    {
+      "name": "Fundacja Gębiczyn",
+      "latitude": 52.874098,
+      "longitude": 16.748503
+    },
+    {
+      "name": "Fyrtel Główna",
+      "latitude": 52.420975,
+      "longitude": 16.970797
+    },
+    {
+      "name": "Galeria",
+      "latitude": 49.710384,
+      "longitude": 19.015467
+    },
+    {
+      "name": "Galeria",
+      "latitude": 50.049053,
+      "longitude": 21.426418
+    },
+    {
+      "name": "Galeria \"Magnez\"",
+      "latitude": 50.059992,
+      "longitude": 22.486624
+    },
+    {
+      "name": "Galeria Browarna",
+      "latitude": 52.107917,
+      "longitude": 19.940143
+    },
+    {
+      "name": "Galeria garncarstwa",
+      "latitude": 53.619357,
+      "longitude": 16.121504
+    },
+    {
+      "name": "Galeria i Ośrodek Plastycznej Twórczości Dziecka",
+      "latitude": 53.011949,
+      "longitude": 18.61043
+    },
+    {
+      "name": "Galeria i pracownia KRAINA RZEMIOSŁA",
+      "latitude": 50.896386,
+      "longitude": 15.722291
+    },
+    {
+      "name": "Galeria IMPULS",
+      "latitude": 52.119775,
+      "longitude": 20.727014
+    },
+    {
+      "name": "Galeria LETO",
+      "latitude": 52.246745,
+      "longitude": 20.993666
+    },
+    {
+      "name": "Galeria Magiel",
+      "latitude": 51.088848,
+      "longitude": 17.041965
+    },
+    {
+      "name": "Galeria Miejska",
+      "latitude": 50.028218,
+      "longitude": 21.992719
+    },
+    {
+      "name": "Galeria na Piętrze",
+      "latitude": 54.190666,
+      "longitude": 16.17289
+    },
+    {
+      "name": "Galeria Stara Gazownia",
+      "latitude": 53.98908,
+      "longitude": 20.400344
+    },
+    {
+      "name": "Galeria Sztuki",
+      "latitude": 50.873743,
+      "longitude": 20.61832
+    },
+    {
+      "name": "Galeria Sztuki Forum Synagoga",
+      "latitude": 51.651,
+      "longitude": 17.813988
+    },
+    {
+      "name": "Galeria Sztuki imienia Jana Tarasina",
+      "latitude": 51.762828,
+      "longitude": 18.092649
+    },
+    {
+      "name": "Galeria Sztuki Rzeczna",
+      "latitude": 50.094344,
+      "longitude": 18.540173
+    },
+    {
+      "name": "galeria TOR",
+      "latitude": 52.25041,
+      "longitude": 21.073853
+    },
+    {
+      "name": "Galeria V9",
+      "latitude": 52.207592,
+      "longitude": 21.022643
+    },
+    {
+      "name": "GCK w Polichnie",
+      "latitude": 50.822026,
+      "longitude": 22.328019
+    },
+    {
+      "name": "Gdańska Szkoła Artystyczna",
+      "latitude": 54.377462,
+      "longitude": 18.606823
+    },
+    {
+      "name": "Giszowieckie Centrum Kultury",
+      "latitude": 50.22464,
+      "longitude": 19.062839
+    },
+    {
+      "name": "Gliniana Zagroda Pracownia Ceramiczna",
+      "latitude": 54.619127,
+      "longitude": 17.137618
+    },
+    {
+      "name": "Gminna Instytucja Kultury i Biblioteka w Łęczycach z siedzibą w Strzebielinie",
+      "latitude": 54.571085,
+      "longitude": 18.029612
+    },
+    {
+      "name": "Gminna Ośrodek Kultury w Żołyni Filia w Brzózie Stadnickiej",
+      "latitude": 50.198697,
+      "longitude": 22.281599
+    },
+    {
+      "name": "Gminne Centrum Kulturalne w Medyce",
+      "latitude": 49.808247,
+      "longitude": 22.93171
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 50.373311,
+      "longitude": 22.15657
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 50.918369,
+      "longitude": 23.554677
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 50.948142,
+      "longitude": 20.250258
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 51.04268,
+      "longitude": 21.828925
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 52.003204,
+      "longitude": 20.548118
+    },
+    {
+      "name": "Gminne Centrum Kultury",
+      "latitude": 54.195769,
+      "longitude": 18.324956
+    },
+    {
+      "name": "Gminne Centrum Kultury \"Dom z Podcieniami\"",
+      "latitude": 51.134818,
+      "longitude": 21.768336
+    },
+    {
+      "name": "Gminne Centrum Kultury i Bibliotek w Dobrej filia w Stolcu",
+      "latitude": 53.557352,
+      "longitude": 14.314676
+    },
+    {
+      "name": "Gminne Centrum Kultury i Bibliotek w Gromniku",
+      "latitude": 49.83818,
+      "longitude": 20.959771
+    },
+    {
+      "name": "Gminne Centrum Kultury i Biblioteka w Parchowie",
+      "latitude": 54.206703,
+      "longitude": 17.668883
+    },
+    {
+      "name": "Gminne Centrum Kultury i Biblioteki im. Klary Prillowej",
+      "latitude": 52.989422,
+      "longitude": 17.487652
+    },
+    {
+      "name": "Gminne Centrum Kultury i Czytelnictwa w Jodłowej",
+      "latitude": 49.87721,
+      "longitude": 21.305373
+    },
+    {
+      "name": "Gminne Centrum Kultury i Promocji w Czarnej",
+      "latitude": 50.06142,
+      "longitude": 21.248178
+    },
+    {
+      "name": "Gminne Centrum Kultury i Rekreacji im. Jana z Domachowa Bzdęgi",
+      "latitude": 51.772872,
+      "longitude": 16.97793
+    },
+    {
+      "name": "Gminne Centrum Kultury i Sztuki",
+      "latitude": 51.312749,
+      "longitude": 17.062751
+    },
+    {
+      "name": "Gminne Centrum Kultury Sportu i Turystyki",
+      "latitude": 51.912743,
+      "longitude": 23.606291
+    },
+    {
+      "name": "Gminne Centrum Kultury w Cieszkowie",
+      "latitude": 51.627326,
+      "longitude": 17.353115
+    },
+    {
+      "name": "Gminne Centrum Kultury w Czerminie",
+      "latitude": 50.3404,
+      "longitude": 21.332322
+    },
+    {
+      "name": "Gminne Centrum Kultury w Lelkowie",
+      "latitude": 54.324812,
+      "longitude": 20.224842
+    },
+    {
+      "name": "Gminne Centrum Kultury w Nędzy",
+      "latitude": 50.159923,
+      "longitude": 18.303895
+    },
+    {
+      "name": "Gminne Centrum Kultury w Poniecu",
+      "latitude": 51.765738,
+      "longitude": 16.804542
+    },
+    {
+      "name": "Gminne Centrum Kultury w Świlczy o. Bratkowice",
+      "latitude": 50.115557,
+      "longitude": 21.863053
+    },
+    {
+      "name": "Gminne Centrum Kultury, Edukacji i Informacji w Zakrzewie",
+      "latitude": 51.44134,
+      "longitude": 20.999198
+    },
+    {
+      "name": "Gminne Centrum Kultury, Sportu i Rekreacji",
+      "latitude": 53.104618,
+      "longitude": 20.174563
+    },
+    {
+      "name": "Gminne Centrum Kultury, Sportu i Rekreacji w Szemudzie",
+      "latitude": 54.487615,
+      "longitude": 18.221153
+    },
+    {
+      "name": "Gminny Dom Kultury",
+      "latitude": 54.593848,
+      "longitude": 18.500033
+    },
+    {
+      "name": "Gminny Dom Kultury w Starym Helenowie",
+      "latitude": 51.760312,
+      "longitude": 21.608658
+    },
+    {
+      "name": "Gminny Orodek Kultury w Żołyni",
+      "latitude": 50.159768,
+      "longitude": 22.307517
+    },
+    {
+      "name": "Gminny Osrodek Kultury",
+      "latitude": 50.244453,
+      "longitude": 22.93169
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.576213,
+      "longitude": 20.594149
+    },
+    {
+      "name": "Gminny ośrodek kultury",
+      "latitude": 49.634598,
+      "longitude": 21.786385
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.642197,
+      "longitude": 19.403398
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.67321,
+      "longitude": 21.827839
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.711775,
+      "longitude": 21.05196
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.777151,
+      "longitude": 22.652476
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.920578,
+      "longitude": 22.173241
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 49.958164,
+      "longitude": 18.403128
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.108598,
+      "longitude": 19.200943
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.374321,
+      "longitude": 21.746493
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.410566,
+      "longitude": 18.461332
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.652938,
+      "longitude": 21.262355
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.656996,
+      "longitude": 21.44888
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.933054,
+      "longitude": 18.533839
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 50.96735,
+      "longitude": 18.980578
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.022302,
+      "longitude": 23.673623
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.222552,
+      "longitude": 19.307248
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.225912,
+      "longitude": 16.489633
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.232651,
+      "longitude": 17.70363
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.247786,
+      "longitude": 21.06907
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.274119,
+      "longitude": 23.432804
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.287044,
+      "longitude": 18.561335
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.360334,
+      "longitude": 22.623883
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.467751,
+      "longitude": 22.46005
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.524345,
+      "longitude": 16.54321
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.593809,
+      "longitude": 18.256361
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.618284,
+      "longitude": 17.850711
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.720687,
+      "longitude": 23.502708
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.784944,
+      "longitude": 23.205431
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.904264,
+      "longitude": 23.181276
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.961402,
+      "longitude": 15.968325
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 51.984476,
+      "longitude": 20.841108
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.070047,
+      "longitude": 19.481177
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.167968,
+      "longitude": 15.830742
+    },
+    {
+      "name": "Gminny ośrodek kultury",
+      "latitude": 52.193886,
+      "longitude": 23.210069
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.194713,
+      "longitude": 14.794429
+    },
+    {
+      "name": "Gminny ośrodek kultury",
+      "latitude": 52.431018,
+      "longitude": 20.943782
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.471629,
+      "longitude": 20.733794
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.578111,
+      "longitude": 15.681021
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.631272,
+      "longitude": 18.722356
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.856566,
+      "longitude": 18.812196
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.891289,
+      "longitude": 20.283533
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 52.993048,
+      "longitude": 22.702556
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.032461,
+      "longitude": 21.72986
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.172526,
+      "longitude": 21.292598
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.19781,
+      "longitude": 19.644455
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.481959,
+      "longitude": 21.362334
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.52993,
+      "longitude": 20.727428
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.532073,
+      "longitude": 18.928222
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.657143,
+      "longitude": 20.402258
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.70733,
+      "longitude": 20.698863
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.843174,
+      "longitude": 21.133572
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.844903,
+      "longitude": 18.96138
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.854475,
+      "longitude": 18.892327
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 53.980928,
+      "longitude": 22.031002
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 54.094482,
+      "longitude": 22.647486
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 54.213878,
+      "longitude": 21.52233
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 54.325782,
+      "longitude": 18.101184
+    },
+    {
+      "name": "Gminny Ośrodek Kultury",
+      "latitude": 54.663541,
+      "longitude": 17.213251
+    },
+    {
+      "name": "Gminny Ośrodek Kultury \"Jutrzenka\"",
+      "latitude": 52.837794,
+      "longitude": 15.585054
+    },
+    {
+      "name": "Gminny Ośrodek Kultury \"Wozownia\"",
+      "latitude": 52.08999,
+      "longitude": 18.594629
+    },
+    {
+      "name": "Gminny Ośrodek Kultury (w budowie)",
+      "latitude": 51.10181,
+      "longitude": 23.586801
+    },
+    {
+      "name": "Gminny Ośrodek Kultury - Filia w Krzelowie",
+      "latitude": 51.439596,
+      "longitude": 16.511261
+    },
+    {
+      "name": "Gminny Ośrodek Kultury Gminy Leżajsk Filia w Piskorowicach",
+      "latitude": 50.237736,
+      "longitude": 22.526087
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Biblioteki",
+      "latitude": 50.225677,
+      "longitude": 21.636908
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Czytelnictwa",
+      "latitude": 50.10208,
+      "longitude": 22.338472
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Rekreacji w Mszanie",
+      "latitude": 49.966218,
+      "longitude": 18.527309
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Sportu",
+      "latitude": 51.035956,
+      "longitude": 19.62316
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Sportu",
+      "latitude": 51.371637,
+      "longitude": 16.961825
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Sportu",
+      "latitude": 54.214407,
+      "longitude": 18.949889
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Turystyki - Pałac Suchodolskich",
+      "latitude": 51.165042,
+      "longitude": 23.804868
+    },
+    {
+      "name": "Gminny Ośrodek Kultury i Wypoczynku w Wielopolu Skrzyńskim",
+      "latitude": 49.945433,
+      "longitude": 21.614457
+    },
+    {
+      "name": "Gminny Ośrodek Kultury im. Małgorzaty Hillar w Zblewie",
+      "latitude": 53.933585,
+      "longitude": 18.326418
+    },
+    {
+      "name": "Gminny Ośrodek Kultury im. Wilhelma Blanke",
+      "latitude": 52.07198,
+      "longitude": 15.861348
+    },
+    {
+      "name": "Gminny Ośrodek Kultury Klub Teksas",
+      "latitude": 49.90251,
+      "longitude": 21.973402
+    },
+    {
+      "name": "Gminny Ośrodek Kultury Lesznowola",
+      "latitude": 52.08258,
+      "longitude": 21.009309
+    },
+    {
+      "name": "Gminny Ośrodek Kultury Sportu Turystyki i Rekreacji w Jarocinie",
+      "latitude": 50.566935,
+      "longitude": 22.315947
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Bobrownikach",
+      "latitude": 50.380057,
+      "longitude": 18.998115
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Borkowicach",
+      "latitude": 51.319691,
+      "longitude": 20.686578
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Borowej",
+      "latitude": 50.385899,
+      "longitude": 21.352449
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Błażowej",
+      "latitude": 49.888235,
+      "longitude": 22.099981
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Charsznicy",
+      "latitude": 50.395837,
+      "longitude": 19.942187
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Dobrem",
+      "latitude": 52.320222,
+      "longitude": 21.679068
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Gościeradowie",
+      "latitude": 50.864547,
+      "longitude": 21.986199
+    },
+    {
+      "name": "Gminny Ośrodek Kultury W Horodle",
+      "latitude": 50.89387,
+      "longitude": 24.036993
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Horyńcu-Zdroju",
+      "latitude": 50.189355,
+      "longitude": 23.363056
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Kobyli",
+      "latitude": 50.090578,
+      "longitude": 18.295258
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Krowicy Samej",
+      "latitude": 50.101423,
+      "longitude": 23.230645
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Lubomi",
+      "latitude": 50.040526,
+      "longitude": 18.309325
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Luzinie",
+      "latitude": 54.56558,
+      "longitude": 18.103213
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Michałowie",
+      "latitude": 53.03518,
+      "longitude": 23.604835
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Miedźnej z/s w Woli",
+      "latitude": 50.016231,
+      "longitude": 19.118045
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Mirczu",
+      "latitude": 50.650659,
+      "longitude": 23.8979
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Mogilanach",
+      "latitude": 49.94135,
+      "longitude": 19.88742
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Nowym Mieście",
+      "latitude": 52.653409,
+      "longitude": 20.631911
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Osjakowie",
+      "latitude": 51.28595,
+      "longitude": 18.79159
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Perzowie",
+      "latitude": 51.272976,
+      "longitude": 17.811261
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Piątnicy",
+      "latitude": 53.193975,
+      "longitude": 22.096756
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Poroninie",
+      "latitude": 49.337275,
+      "longitude": 20.005326
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Potoku Górnym",
+      "latitude": 50.3831,
+      "longitude": 22.538488
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Rzgowie",
+      "latitude": 51.660681,
+      "longitude": 19.496994
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Somiance",
+      "latitude": 52.561187,
+      "longitude": 21.295239
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Suszcu",
+      "latitude": 50.03182,
+      "longitude": 18.78968
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Tuchomiu",
+      "latitude": 54.115272,
+      "longitude": 17.33634
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Tucznie",
+      "latitude": 53.198521,
+      "longitude": 16.159831
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Tychowie",
+      "latitude": 53.928004,
+      "longitude": 16.25761
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Wildze",
+      "latitude": 51.851465,
+      "longitude": 21.380313
+    },
+    {
+      "name": "Gminny Ośrodek Kultury w Wiązownie",
+      "latitude": 52.173566,
+      "longitude": 21.293025
+    },
+    {
+      "name": "Gminny Ośrodek Kultury Świnna",
+      "latitude": 49.663359,
+      "longitude": 19.257144
+    },
+    {
+      "name": "Gminny Ośrodek Kultury, Sportu i Rekreacji",
+      "latitude": 50.399425,
+      "longitude": 22.651425
+    },
+    {
+      "name": "Gminny Ośrodek Kultury, Sportu i Turystyki",
+      "latitude": 51.30555,
+      "longitude": 18.323796
+    },
+    {
+      "name": "Gminny Ośrodek Kultury, Sportu i Turystyki w Żarnowcu",
+      "latitude": 50.484251,
+      "longitude": 19.863933
+    },
+    {
+      "name": "GOK Czarna",
+      "latitude": 49.325502,
+      "longitude": 22.664059
+    },
+    {
+      "name": "GOK Lesznowola - filia Nowa Iwiczna",
+      "latitude": 52.091397,
+      "longitude": 21.000773
+    },
+    {
+      "name": "GOK Rymanów",
+      "latitude": 49.573791,
+      "longitude": 21.868392
+    },
+    {
+      "name": "GOK w Jasienicy Filia w Bierach",
+      "latitude": 49.793736,
+      "longitude": 18.907447
+    },
+    {
+      "name": "GOK w Krzywem",
+      "latitude": 54.087632,
+      "longitude": 22.990927
+    },
+    {
+      "name": "GOK Świetlica",
+      "latitude": 51.3029,
+      "longitude": 16.180554
+    },
+    {
+      "name": "Goleniowski Dom Kultury",
+      "latitude": 53.566123,
+      "longitude": 14.827334
+    },
+    {
+      "name": "Gorlickie Centrum Kultury",
+      "latitude": 49.670186,
+      "longitude": 21.173837
+    },
+    {
+      "name": "Goyki 3 Art Inkubator",
+      "latitude": 54.448775,
+      "longitude": 18.559898
+    },
+    {
+      "name": "Gołaniecki Ośrodek Kultury",
+      "latitude": 52.944235,
+      "longitude": 17.298837
+    },
+    {
+      "name": "Grid Arthub",
+      "latitude": 54.364217,
+      "longitude": 18.645554
+    },
+    {
+      "name": "Grodzisko Węsiory",
+      "latitude": 54.232065,
+      "longitude": 17.851525
+    },
+    {
+      "name": "Gryficki Dom Kultury",
+      "latitude": 53.914887,
+      "longitude": 15.197692
+    },
+    {
+      "name": "Gubiński Dom Kultury",
+      "latitude": 51.952346,
+      "longitude": 14.724127
+    },
+    {
+      "name": "Górnośląskie Centrum Kultury i Spotkań im. Eichendorffa",
+      "latitude": 50.160117,
+      "longitude": 18.231295
+    },
+    {
+      "name": "Hala Wystaw Kapelusz",
+      "latitude": 50.284425,
+      "longitude": 18.981056
+    },
+    {
+      "name": "Hufiec ZHP",
+      "latitude": 53.084717,
+      "longitude": 21.567462
+    },
+    {
+      "name": "Huta Kultury",
+      "latitude": 51.236495,
+      "longitude": 23.592429
+    },
+    {
+      "name": "Ikar",
+      "latitude": 52.179348,
+      "longitude": 20.947871
+    },
+    {
+      "name": "Ikar",
+      "latitude": 52.227125,
+      "longitude": 21.091245
+    },
+    {
+      "name": "Impart Centrum",
+      "latitude": 51.102892,
+      "longitude": 17.023466
+    },
+    {
+      "name": "Instytut Cervantesa",
+      "latitude": 52.229374,
+      "longitude": 21.014189
+    },
+    {
+      "name": "Instytut Francuski",
+      "latitude": 52.231465,
+      "longitude": 21.014564
+    },
+    {
+      "name": "Instytut Goethego",
+      "latitude": 52.232443,
+      "longitude": 21.017106
+    },
+    {
+      "name": "Instytut Liszta. Węgierskie Centrum Kultury",
+      "latitude": 52.234802,
+      "longitude": 21.010042
+    },
+    {
+      "name": "Instytut Słowacki",
+      "latitude": 52.250799,
+      "longitude": 21.011509
+    },
+    {
+      "name": "Izba Pamięci",
+      "latitude": 50.024625,
+      "longitude": 21.880968
+    },
+    {
+      "name": "Izba Regionalna",
+      "latitude": 53.810361,
+      "longitude": 21.945199
+    },
+    {
+      "name": "Iławskie Centrum Kultury",
+      "latitude": 53.596513,
+      "longitude": 19.56099
+    },
+    {
+      "name": "Jazz Club \"Kosz\"",
+      "latitude": 50.716173,
+      "longitude": 23.248962
+    },
+    {
+      "name": "Jeleniogórskie Centrum Kultury Muflon",
+      "latitude": 50.848825,
+      "longitude": 15.646326
+    },
+    {
+      "name": "Just4fun",
+      "latitude": 51.025539,
+      "longitude": 17.152005
+    },
+    {
+      "name": "Kamienica Deskurów",
+      "latitude": 51.40253,
+      "longitude": 21.143588
+    },
+    {
+      "name": "Kamienica Sztuki",
+      "latitude": 54.602843,
+      "longitude": 18.22684
+    },
+    {
+      "name": "Kamieński Dom Kultury",
+      "latitude": 53.960703,
+      "longitude": 14.776504
+    },
+    {
+      "name": "Karuzella",
+      "latitude": 52.27557,
+      "longitude": 21.061272
+    },
+    {
+      "name": "Kasia Ekes",
+      "latitude": 54.365144,
+      "longitude": 18.648408
+    },
+    {
+      "name": "Kaszubski Dom Rękodzieła Ludowego w Swornegaciach",
+      "latitude": 53.860267,
+      "longitude": 17.500096
+    },
+    {
+      "name": "Katowice Miasto Ogrodów Instytucja Kultury imienia Krystyny Bochenek",
+      "latitude": 50.252986,
+      "longitude": 19.023471
+    },
+    {
+      "name": "Kazimierski Ośrodek Kultury",
+      "latitude": 50.267986,
+      "longitude": 20.49031
+    },
+    {
+      "name": "Kieleckie Centrum Kultury",
+      "latitude": 50.868659,
+      "longitude": 20.637397
+    },
+    {
+      "name": "Kino Grażyna",
+      "latitude": 50.782757,
+      "longitude": 17.067215
+    },
+    {
+      "name": "Kinoteatr Adria",
+      "latitude": 53.11905,
+      "longitude": 18.011348
+    },
+    {
+      "name": "Kinoteatr Jutrzenka Bieruński Ośrodek Kultury",
+      "latitude": 50.093835,
+      "longitude": 19.092326
+    },
+    {
+      "name": "Kleist Forum",
+      "latitude": 52.342635,
+      "longitude": 14.544244
+    },
+    {
+      "name": "Kleks Magia Kina",
+      "latitude": 50.25489,
+      "longitude": 19.062349
+    },
+    {
+      "name": "Klub \"Relax\"",
+      "latitude": 50.228566,
+      "longitude": 19.256643
+    },
+    {
+      "name": "Klub 17 Wielkopolskiej Brygady Zmechanizowanej w Wędrzynie",
+      "latitude": 52.44836,
+      "longitude": 15.186167
+    },
+    {
+      "name": "Klub 3 Batalionu Zmechanizowanego",
+      "latitude": 50.729116,
+      "longitude": 23.252198
+    },
+    {
+      "name": "Klub 303 Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.082314,
+      "longitude": 20.004679
+    },
+    {
+      "name": "Klub Aneks Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.107404,
+      "longitude": 20.113619
+    },
+    {
+      "name": "Klub Dowództwa Garnizonu Warszawa",
+      "latitude": 52.203025,
+      "longitude": 21.009626
+    },
+    {
+      "name": "Klub Dukat Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.099439,
+      "longitude": 20.073238
+    },
+    {
+      "name": "Klub Garnizonowy Kraków-Balice",
+      "latitude": 50.06865,
+      "longitude": 19.795648
+    },
+    {
+      "name": "Klub Herkules Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.06057,
+      "longitude": 20.144591
+    },
+    {
+      "name": "Klub Jedność Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.055709,
+      "longitude": 20.199889
+    },
+    {
+      "name": "Klub Jędruś Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.072623,
+      "longitude": 20.041683
+    },
+    {
+      "name": "Klub Karino Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.049839,
+      "longitude": 20.128042
+    },
+    {
+      "name": "Klub Kiepury",
+      "latitude": 50.292198,
+      "longitude": 19.132017
+    },
+    {
+      "name": "Klub Krzesławice Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.080582,
+      "longitude": 20.056681
+    },
+    {
+      "name": "Klub Kulturalne Zacisze",
+      "latitude": 52.150964,
+      "longitude": 21.733418
+    },
+    {
+      "name": "Klub Kulturalny \"Harcówka\"",
+      "latitude": 50.089535,
+      "longitude": 18.581977
+    },
+    {
+      "name": "Klub Kultury",
+      "latitude": 52.046432,
+      "longitude": 20.93105
+    },
+    {
+      "name": "Klub Kultury \"Falenica\"",
+      "latitude": 52.159709,
+      "longitude": 21.207703
+    },
+    {
+      "name": "Klub kultury \"Piast\"",
+      "latitude": 52.032369,
+      "longitude": 23.110196
+    },
+    {
+      "name": "Klub Kultury Gocław",
+      "latitude": 52.227027,
+      "longitude": 21.087537
+    },
+    {
+      "name": "Klub Kultury w Józefosławiu",
+      "latitude": 52.099372,
+      "longitude": 21.052677
+    },
+    {
+      "name": "Klub Kultury w Runowie",
+      "latitude": 52.011836,
+      "longitude": 20.934585
+    },
+    {
+      "name": "Klub Marynarki Wojennej \"Riwiera\"",
+      "latitude": 54.516104,
+      "longitude": 18.548026
+    },
+    {
+      "name": "Klub Mirage Ośrodka Kultury Kraków-Nowa",
+      "latitude": 50.098769,
+      "longitude": 20.012524
+    },
+    {
+      "name": "Klub Na Barwinku",
+      "latitude": 50.846475,
+      "longitude": 20.632576
+    },
+    {
+      "name": "Klub osiedlowy",
+      "latitude": 54.539576,
+      "longitude": 17.740016
+    },
+    {
+      "name": "Klub Osiedlowy \"Puchatek\"",
+      "latitude": 53.131776,
+      "longitude": 23.141158
+    },
+    {
+      "name": "Klub Osiedlowy \"Stoczek\"",
+      "latitude": 53.144838,
+      "longitude": 23.11816
+    },
+    {
+      "name": "Klub Pod Kasztanami Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.09113,
+      "longitude": 20.175228
+    },
+    {
+      "name": "Klub Pod Kolumnami",
+      "latitude": 51.119146,
+      "longitude": 17.035495
+    },
+    {
+      "name": "Klub rolnika",
+      "latitude": 51.244755,
+      "longitude": 16.796845
+    },
+    {
+      "name": "Klub Seniora",
+      "latitude": 50.890585,
+      "longitude": 20.666904
+    },
+    {
+      "name": "Klub Seniora",
+      "latitude": 53.153459,
+      "longitude": 16.752262
+    },
+    {
+      "name": "Klub Wersalik Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.070626,
+      "longitude": 20.045056
+    },
+    {
+      "name": "Klub Wooltura",
+      "latitude": 51.76664,
+      "longitude": 19.452576
+    },
+    {
+      "name": "Klub Zakole Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.112402,
+      "longitude": 20.058026
+    },
+    {
+      "name": "Klub Zenit S.M. \"Zachęta\"",
+      "latitude": 53.133074,
+      "longitude": 23.190995
+    },
+    {
+      "name": "Klub Zgody Ośrodka Kultury Kraków-Nowa Huta",
+      "latitude": 50.077155,
+      "longitude": 20.039394
+    },
+    {
+      "name": "KMWTW",
+      "latitude": 50.058051,
+      "longitude": 19.932793
+    },
+    {
+      "name": "Kolejkowo Modelarnia",
+      "latitude": 50.922303,
+      "longitude": 15.767718
+    },
+    {
+      "name": "Kolektyf",
+      "latitude": 51.119115,
+      "longitude": 17.033389
+    },
+    {
+      "name": "Kolneński Ośrodek Kultury i Sportu",
+      "latitude": 53.410241,
+      "longitude": 21.931187
+    },
+    {
+      "name": "Kombinat Kultury",
+      "latitude": 53.008853,
+      "longitude": 18.609503
+    },
+    {
+      "name": "Konstantynowskie Stowarzyszenie Śpiewaczo-Muzyczne im. Fryderyka Chopina",
+      "latitude": 51.749907,
+      "longitude": 19.326375
+    },
+    {
+      "name": "Konsulat Kultury",
+      "latitude": 54.523197,
+      "longitude": 18.538339
+    },
+    {
+      "name": "KontenerART",
+      "latitude": 52.405906,
+      "longitude": 16.944766
+    },
+    {
+      "name": "Kontury Kultury",
+      "latitude": 51.121773,
+      "longitude": 17.03362
+    },
+    {
+      "name": "Kostrzyńskie Centrum Kultury",
+      "latitude": 52.585582,
+      "longitude": 14.647401
+    },
+    {
+      "name": "Koszary Kultury",
+      "latitude": 52.402402,
+      "longitude": 16.896267
+    },
+    {
+      "name": "Koło Gospodyń Wiejskich w Sopotni Małej",
+      "latitude": 49.618487,
+      "longitude": 19.278512
+    },
+    {
+      "name": "Kościański Ośrodek Kultury",
+      "latitude": 52.088657,
+      "longitude": 16.639081
+    },
+    {
+      "name": "Krakowskie Forum Kultury",
+      "latitude": 50.061688,
+      "longitude": 19.940767
+    },
+    {
+      "name": "Krasobrodzki Dom Kultury",
+      "latitude": 50.54467,
+      "longitude": 23.214683
+    },
+    {
+      "name": "Kreatywne Centrum Kultury",
+      "latitude": 52.754627,
+      "longitude": 23.188386
+    },
+    {
+      "name": "Kreatywny obiekt multifunkcyjny",
+      "latitude": 51.521585,
+      "longitude": 17.2806
+    },
+    {
+      "name": "Krzywy Komin",
+      "latitude": 51.934079,
+      "longitude": 15.50213
+    },
+    {
+      "name": "Kulturní středisko Chotěbuz",
+      "latitude": 49.766088,
+      "longitude": 18.593194
+    },
+    {
+      "name": "Kulturoteka w Falenicy",
+      "latitude": 52.161081,
+      "longitude": 21.213286
+    },
+    {
+      "name": "KUMA Kulturmanufaktur Gerstenberg",
+      "latitude": 52.352411,
+      "longitude": 14.550888
+    },
+    {
+      "name": "Kurnik - wylęgarnia kultury",
+      "latitude": 52.126647,
+      "longitude": 20.668315
+    },
+    {
+      "name": "Kwiaciarnia Grafiki",
+      "latitude": 52.238091,
+      "longitude": 21.03168
+    },
+    {
+      "name": "Kwidzyńskie Centrum Kultury",
+      "latitude": 53.728337,
+      "longitude": 18.925636
+    },
+    {
+      "name": "KZMRZ",
+      "latitude": 51.416278,
+      "longitude": 21.975462
+    },
+    {
+      "name": "Kółko Rolnicze w Bierach",
+      "latitude": 49.793842,
+      "longitude": 18.907446
+    },
+    {
+      "name": "Laboratorium SCENA",
+      "latitude": 50.076786,
+      "longitude": 19.941556
+    },
+    {
+      "name": "Ladom",
+      "latitude": 52.222673,
+      "longitude": 21.027775
+    },
+    {
+      "name": "Lawsomnia",
+      "latitude": 49.692367,
+      "longitude": 21.766956
+    },
+    {
+      "name": "Lipskie Centrum Kultury",
+      "latitude": 51.158247,
+      "longitude": 21.64904
+    },
+    {
+      "name": "Look Like Art",
+      "latitude": 49.708017,
+      "longitude": 21.745043
+    },
+    {
+      "name": "Lubski Dom Kultury",
+      "latitude": 51.785783,
+      "longitude": 14.973129
+    },
+    {
+      "name": "Lupa",
+      "latitude": 52.290632,
+      "longitude": 16.843713
+    },
+    {
+      "name": "Malwa Osiedlowy Dom Społeczny",
+      "latitude": 50.947435,
+      "longitude": 21.406459
+    },
+    {
+      "name": "Marysin. Osiedlowy klub kultury",
+      "latitude": 52.238079,
+      "longitude": 21.148112
+    },
+    {
+      "name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'",
+      "latitude": 51.398051,
+      "longitude": 21.149747
+    },
+    {
+      "name": "Małomicki Ośrodek Kultury",
+      "latitude": 51.554729,
+      "longitude": 15.450591
+    },
+    {
+      "name": "Małopolski Ogród Sztuki",
+      "latitude": 50.064286,
+      "longitude": 19.929788
+    },
+    {
+      "name": "MCK Zawarcie",
+      "latitude": 52.724083,
+      "longitude": 15.238677
+    },
+    {
+      "name": "MDK",
+      "latitude": 50.203893,
+      "longitude": 19.157186
+    },
+    {
+      "name": "MDK",
+      "latitude": 50.231289,
+      "longitude": 22.120025
+    },
+    {
+      "name": "Mediateka",
+      "latitude": 50.106611,
+      "longitude": 18.985319
+    },
+    {
+      "name": "MGOK",
+      "latitude": 50.49584,
+      "longitude": 21.544659
+    },
+    {
+      "name": "Miechowski Dom Kultury",
+      "latitude": 50.356501,
+      "longitude": 20.030817
+    },
+    {
+      "name": "Miejska Biblioteka Publiczna",
+      "latitude": 51.045488,
+      "longitude": 21.087906
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 49.62376,
+      "longitude": 20.94824
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.069497,
+      "longitude": 21.693862
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.149229,
+      "longitude": 18.841136
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.158875,
+      "longitude": 23.121186
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.241984,
+      "longitude": 21.765684
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.293278,
+      "longitude": 19.240378
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 50.789767,
+      "longitude": 15.83282
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 51.064873,
+      "longitude": 19.442289
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 52.018096,
+      "longitude": 18.496356
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 52.180926,
+      "longitude": 21.569581
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 52.346039,
+      "longitude": 14.831011
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 52.454523,
+      "longitude": 14.867537
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 52.80353,
+      "longitude": 21.894974
+    },
+    {
+      "name": "Miejski Dom Kultury",
+      "latitude": 53.79915,
+      "longitude": 18.53142
+    },
+    {
+      "name": "Miejski Dom Kultury \"Koszutka\"",
+      "latitude": 50.268254,
+      "longitude": 19.016889
+    },
+    {
+      "name": "Miejski Dom Kultury \"Prażakówka\"",
+      "latitude": 49.72386,
+      "longitude": 18.808098
+    },
+    {
+      "name": "Miejski Dom Kultury Ligota",
+      "latitude": 50.22806,
+      "longitude": 18.97287
+    },
+    {
+      "name": "Miejski Dom Kultury w Barcinie",
+      "latitude": 52.856054,
+      "longitude": 17.941389
+    },
+    {
+      "name": "Miejski Dom Kultury w Krzanowicach",
+      "latitude": 50.018337,
+      "longitude": 18.120453
+    },
+    {
+      "name": "Miejski Dom Kultury w Wołominie",
+      "latitude": 52.348372,
+      "longitude": 21.247585
+    },
+    {
+      "name": "Miejski Dom Kultury w Świebodzicach",
+      "latitude": 50.859816,
+      "longitude": 16.324631
+    },
+    {
+      "name": "Miejski Dom Kultury w Świnoujściu - Filia nr 1 - Przytór",
+      "latitude": 53.884037,
+      "longitude": 14.342563
+    },
+    {
+      "name": "Miejski i Gminny Ośrodek Kultury w Łochowie",
+      "latitude": 52.531312,
+      "longitude": 21.692158
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 49.951446,
+      "longitude": 18.59818
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 50.016362,
+      "longitude": 22.682415
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 50.049449,
+      "longitude": 18.478718
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 50.288728,
+      "longitude": 18.792804
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 50.440122,
+      "longitude": 22.248412
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 51.662656,
+      "longitude": 16.083855
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 51.746807,
+      "longitude": 19.331857
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 52.186683,
+      "longitude": 20.843786
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 52.390962,
+      "longitude": 20.928899
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 52.914704,
+      "longitude": 22.511852
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 53.547621,
+      "longitude": 14.565056
+    },
+    {
+      "name": "Miejski Ośrodek Kultury",
+      "latitude": 53.652725,
+      "longitude": 20.792362
+    },
+    {
+      "name": "Miejski Ośrodek Kultury i Sztuki",
+      "latitude": 52.704403,
+      "longitude": 21.087398
+    },
+    {
+      "name": "Miejski Ośrodek Kultury im. A. Kamińskiego „Kamyka”",
+      "latitude": 52.170048,
+      "longitude": 20.812736
+    },
+    {
+      "name": "Miejski Ośrodek Kultury im. Adama Mickiewicza",
+      "latitude": 50.485601,
+      "longitude": 19.431297
+    },
+    {
+      "name": "Miejski Ośrodek Kultury w Orzeszu",
+      "latitude": 50.144177,
+      "longitude": 18.776295
+    },
+    {
+      "name": "Miejski Ośrodek Kultury w Pionkach",
+      "latitude": 51.470096,
+      "longitude": 21.439685
+    },
+    {
+      "name": "Miejski Ośrodek Kultury w Radymnie",
+      "latitude": 49.950038,
+      "longitude": 22.820603
+    },
+    {
+      "name": "Miejski Ośrodek Kultury w Wojkowicach",
+      "latitude": 50.366664,
+      "longitude": 19.017491
+    },
+    {
+      "name": "Miejski Ośrodek Kultury w Zambrowie",
+      "latitude": 52.986137,
+      "longitude": 22.247171
+    },
+    {
+      "name": "Miejski Ośrodek Kultury, Sportu i Rekreacji w Kuźni Raciborskiej",
+      "latitude": 50.200588,
+      "longitude": 18.31558
+    },
+    {
+      "name": "Miejski Ośrodek Sztuki",
+      "latitude": 52.741458,
+      "longitude": 15.255915
+    },
+    {
+      "name": "Miejskie Centrum Kultury",
+      "latitude": 50.943987,
+      "longitude": 21.39121
+    },
+    {
+      "name": "Miejskie Centrum Kultury",
+      "latitude": 51.114333,
+      "longitude": 20.865814
+    },
+    {
+      "name": "Miejskie Centrum Kultury",
+      "latitude": 51.13729,
+      "longitude": 22.854698
+    },
+    {
+      "name": "Miejskie Centrum Kultury",
+      "latitude": 53.12742,
+      "longitude": 17.99798
+    },
+    {
+      "name": "Miejskie Centrum Kultury",
+      "latitude": 53.423116,
+      "longitude": 19.592233
+    },
+    {
+      "name": "Miejskie Centrum Kultury w Gostyninie",
+      "latitude": 52.422761,
+      "longitude": 19.463854
+    },
+    {
+      "name": "Miejskie Centrum Kultury w Płońsku",
+      "latitude": 52.62263,
+      "longitude": 20.366644
+    },
+    {
+      "name": "Miejsko - Gminny Ośrodek Kulturalny w Żarkach",
+      "latitude": 50.626893,
+      "longitude": 19.364664
+    },
+    {
+      "name": "Miejsko - Gminny Ośrodek Kultury w Maciejowicach",
+      "latitude": 51.692324,
+      "longitude": 21.553522
+    },
+    {
+      "name": "Miejsko - Gminny Ośrodek Promocji Kultury w Koziegłowach",
+      "latitude": 50.598921,
+      "longitude": 19.165893
+    },
+    {
+      "name": "Miejsko Gminny Ośrodek Kultury",
+      "latitude": 49.511335,
+      "longitude": 22.264193
+    },
+    {
+      "name": "Miejsko Gminny Ośrodek Kultury",
+      "latitude": 50.320732,
+      "longitude": 20.399888
+    },
+    {
+      "name": "Miejsko-Gminne Centrum Kultury",
+      "latitude": 50.441031,
+      "longitude": 20.933697
+    },
+    {
+      "name": "Miejsko-Gminne Centrum Kultury i Promocji",
+      "latitude": 50.130081,
+      "longitude": 20.374767
+    },
+    {
+      "name": "Miejsko-Gminne Centrum Kultury w Oleśnicy",
+      "latitude": 50.450053,
+      "longitude": 21.063632
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 50.448678,
+      "longitude": 19.519726
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 50.557603,
+      "longitude": 19.45081
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 51.616185,
+      "longitude": 20.571953
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 51.648972,
+      "longitude": 20.949594
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 51.730199,
+      "longitude": 15.822676
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 51.8078,
+      "longitude": 21.894929
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 53.22753,
+      "longitude": 21.881805
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 53.228394,
+      "longitude": 21.878925
+    },
+    {
+      "name": "Miejsko-gminny ośrodek kultury",
+      "latitude": 53.354144,
+      "longitude": 17.490465
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury",
+      "latitude": 54.318746,
+      "longitude": 19.529192
+    },
+    {
+      "name": "Miejsko-gminny ośrodek kultury w Daleszycach. Świetlica w Trzemosnej",
+      "latitude": 50.751328,
+      "longitude": 20.791104
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury w Glinojecku",
+      "latitude": 52.816164,
+      "longitude": 20.287678
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury w Kietrzu",
+      "latitude": 50.079228,
+      "longitude": 18.007052
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury w Lipsku",
+      "latitude": 53.732749,
+      "longitude": 23.405455
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury w Pilawie",
+      "latitude": 51.959659,
+      "longitude": 21.529223
+    },
+    {
+      "name": "Miejsko-Gminny Ośrodek Kultury w Surażu",
+      "latitude": 52.948351,
+      "longitude": 22.95648
+    },
+    {
+      "name": "Mieroszowskie Centrum Kultury",
+      "latitude": 50.665506,
+      "longitude": 16.184255
+    },
+    {
+      "name": "Mikro Dom Kultury - Lotaryńska 6",
+      "latitude": 52.446856,
+      "longitude": 16.93121
+    },
+    {
+      "name": "MIMS galeria",
+      "latitude": 52.235226,
+      "longitude": 21.035625
+    },
+    {
+      "name": "Międzynarodowe Centrum Dialogu",
+      "latitude": 54.146274,
+      "longitude": 23.452864
+    },
+    {
+      "name": "Międzyrzecki Ośrodek Kultury",
+      "latitude": 52.441173,
+      "longitude": 15.582118
+    },
+    {
+      "name": "MOK Reszel",
+      "latitude": 54.049022,
+      "longitude": 21.142621
+    },
+    {
+      "name": "Moniecki Ośrodek Kultury",
+      "latitude": 53.404336,
+      "longitude": 22.798221
+    },
+    {
+      "name": "Motylarnia",
+      "latitude": 51.173732,
+      "longitude": 17.198997
+    },
+    {
+      "name": "Muzeum Parafialne",
+      "latitude": 49.62609,
+      "longitude": 20.94856
+    },
+    {
+      "name": "Myszka Agata",
+      "latitude": 52.16038,
+      "longitude": 21.030269
+    },
+    {
+      "name": "Myślenicki Ośrodek Kultury i Sportu",
+      "latitude": 49.829642,
+      "longitude": 19.942757
+    },
+    {
+      "name": "Młodzieżowe Centrum Profilaktyki \"ALTERNATYWA\"",
+      "latitude": 51.839858,
+      "longitude": 16.573761
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 49.56108,
+      "longitude": 22.204973
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 49.656884,
+      "longitude": 21.156078
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 50.2249,
+      "longitude": 19.237169
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 50.250569,
+      "longitude": 18.677929
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 50.664701,
+      "longitude": 17.931779
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 50.839437,
+      "longitude": 16.485961
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 50.873723,
+      "longitude": 20.631839
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 51.669158,
+      "longitude": 19.353044
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 52.166023,
+      "longitude": 20.801768
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 52.198623,
+      "longitude": 21.02518
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 52.243342,
+      "longitude": 20.946563
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 53.128809,
+      "longitude": 23.182107
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 53.137615,
+      "longitude": 23.148987
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 54.248819,
+      "longitude": 20.815733
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 54.468429,
+      "longitude": 17.032873
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury",
+      "latitude": 54.526998,
+      "longitude": 18.509047
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury \"Bielany\"",
+      "latitude": 52.285446,
+      "longitude": 20.950884
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury \"Mokotów\"",
+      "latitude": 52.195764,
+      "longitude": 21.012842
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury im. Dr. H. Jordana",
+      "latitude": 50.308488,
+      "longitude": 19.032216
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury im. Marii Gwizdak",
+      "latitude": 52.280745,
+      "longitude": 20.937111
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury im. Małego Księcia",
+      "latitude": 51.964277,
+      "longitude": 19.289275
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury nr 1",
+      "latitude": 53.109058,
+      "longitude": 18.057851
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury w Aleksandrowie Łódzkim",
+      "latitude": 51.822779,
+      "longitude": 19.297996
+    },
+    {
+      "name": "Młodzieżowy Dom Kultury w Lęborku",
+      "latitude": 54.540286,
+      "longitude": 17.753529
+    },
+    {
+      "name": "Nadarzyński Ośrodek Kultury",
+      "latitude": 52.093623,
+      "longitude": 20.80735
+    },
+    {
+      "name": "Nadbałtyckie Centrum Kultury",
+      "latitude": 54.353903,
+      "longitude": 18.647934
+    },
+    {
+      "name": "Narodowe Centrum Kultury",
+      "latitude": 52.232064,
+      "longitude": 20.966167
+    },
+    {
+      "name": "Narodowe Centrum Polskiej Piosenki",
+      "latitude": 50.667259,
+      "longitude": 17.918288
+    },
+    {
+      "name": "Natoliński Ośrodek Kultury",
+      "latitude": 52.138641,
+      "longitude": 21.050704
+    },
+    {
+      "name": "Nałęczowski Ośrodek Kultury",
+      "latitude": 51.285068,
+      "longitude": 22.215561
+    },
+    {
+      "name": "Niżańskie Centrum Kultury \"Sokół\"",
+      "latitude": 50.520749,
+      "longitude": 22.145167
+    },
+    {
+      "name": "Nocny Targ Towarzyski",
+      "latitude": 52.387573,
+      "longitude": 16.904853
+    },
+    {
+      "name": "NOMUS",
+      "latitude": 54.36319,
+      "longitude": 18.648058
+    },
+    {
+      "name": "Nowodworski Ośrodek Kultury",
+      "latitude": 52.426126,
+      "longitude": 20.720526
+    },
+    {
+      "name": "Nowohuckie Centrum Kultury",
+      "latitude": 50.070793,
+      "longitude": 20.034892
+    },
+    {
+      "name": "Nowosolski Dom Kultury",
+      "latitude": 51.808985,
+      "longitude": 15.712233
+    },
+    {
+      "name": "Nowotomyski Ośrodek Kultury",
+      "latitude": 52.316071,
+      "longitude": 16.129042
+    },
+    {
+      "name": "Nowy Dom Sztuki",
+      "latitude": 52.003935,
+      "longitude": 20.547822
+    },
+    {
+      "name": "Oblackie Centrum Kultury",
+      "latitude": 54.354399,
+      "longitude": 18.646839
+    },
+    {
+      "name": "Obornicki Ośrodek Kultury",
+      "latitude": 51.30029,
+      "longitude": 16.911735
+    },
+    {
+      "name": "Oddolne Centrum Społeczno-Kulturalne Postój",
+      "latitude": 51.127317,
+      "longitude": 16.952563
+    },
+    {
+      "name": "Oddział Otwockiego Centrum Kultury w Mlądzu",
+      "latitude": 52.140573,
+      "longitude": 21.293555
+    },
+    {
+      "name": "Odlewnia Kultury",
+      "latitude": 49.607571,
+      "longitude": 19.12369
+    },
+    {
+      "name": "Odra Centrum",
+      "latitude": 51.108836,
+      "longitude": 17.052297
+    },
+    {
+      "name": "OFF Marina",
+      "latitude": 53.402022,
+      "longitude": 14.532678
+    },
+    {
+      "name": "Ognisko Artystyczne",
+      "latitude": 53.042906,
+      "longitude": 18.579362
+    },
+    {
+      "name": "OKAP",
+      "latitude": 51.122183,
+      "longitude": 17.043215
+    },
+    {
+      "name": "Oliwski Ratusz Kultury",
+      "latitude": 54.408932,
+      "longitude": 18.559318
+    },
+    {
+      "name": "OPP Koniaków",
+      "latitude": 49.553892,
+      "longitude": 18.940826
+    },
+    {
+      "name": "Oratorium św. Filipa Neri",
+      "latitude": 51.404378,
+      "longitude": 21.173229
+    },
+    {
+      "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
+      "latitude": 50.715553,
+      "longitude": 23.25554
+    },
+    {
+      "name": "Orkiestra Wojskowa w Radomiu",
+      "latitude": 51.397306,
+      "longitude": 21.203416
+    },
+    {
+      "name": "Osada Średniowieczna",
+      "latitude": 50.863096,
+      "longitude": 21.020102
+    },
+    {
+      "name": "Osiedlowe Centrum - Klub STOK",
+      "latitude": 53.129202,
+      "longitude": 23.101489
+    },
+    {
+      "name": "Osiedlowy Dom Kultury",
+      "latitude": 50.946336,
+      "longitude": 21.377925
+    },
+    {
+      "name": "Osiedlowy Dom Kultury",
+      "latitude": 52.054584,
+      "longitude": 20.42669
+    },
+    {
+      "name": "Osiedlowy Dom Kultury",
+      "latitude": 53.035734,
+      "longitude": 18.700114
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Gaj\"",
+      "latitude": 53.154476,
+      "longitude": 23.121651
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Jubilat\"",
+      "latitude": 53.142991,
+      "longitude": 23.138645
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Kaktus\"",
+      "latitude": 53.124302,
+      "longitude": 23.100942
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Kalina\"",
+      "latitude": 53.150973,
+      "longitude": 23.128367
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Metafora\"",
+      "latitude": 53.140838,
+      "longitude": 23.133871
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Meteoryt\"",
+      "latitude": 53.137694,
+      "longitude": 23.181999
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Mikron\"",
+      "latitude": 53.140346,
+      "longitude": 23.165424
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Millenium\"",
+      "latitude": 53.121704,
+      "longitude": 23.150055
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Miraż\"",
+      "latitude": 53.140774,
+      "longitude": 23.149932
+    },
+    {
+      "name": "Osiedlowy Dom Kultury \"Relax\"",
+      "latitude": 53.136379,
+      "longitude": 23.124837
+    },
+    {
+      "name": "Osiedlowy Dom Kultury ,,Zameczek\"",
+      "latitude": 50.915656,
+      "longitude": 15.753329
+    },
+    {
+      "name": "Osiedlowy Dom Kultury Jowisz",
+      "latitude": 50.314672,
+      "longitude": 18.882229
+    },
+    {
+      "name": "Osiedlowy Dom Kultury Rudzkiej Spółdzielni Mieszkaniowej Matecznik",
+      "latitude": 50.308733,
+      "longitude": 18.858189
+    },
+    {
+      "name": "Osiedlowy Klub Kultury Polonez",
+      "latitude": 50.87995,
+      "longitude": 20.636077
+    },
+    {
+      "name": "Ostrowiecki Browar Kultury",
+      "latitude": 50.944032,
+      "longitude": 21.390995
+    },
+    {
+      "name": "Ostrołęckie Centrum Kultury",
+      "latitude": 53.079702,
+      "longitude": 21.576236
+    },
+    {
+      "name": "Ostrołęckie Centrum Kultury Klub \"Oczko\"",
+      "latitude": 53.074929,
+      "longitude": 21.587015
+    },
+    {
+      "name": "Ośrodek \"Pogranicze - sztuk, kultur, narodów\"",
+      "latitude": 54.10583,
+      "longitude": 23.350473
+    },
+    {
+      "name": "Ośrodek Kultury",
+      "latitude": 49.913719,
+      "longitude": 18.509738
+    },
+    {
+      "name": "Ośrodek Kultury",
+      "latitude": 49.946591,
+      "longitude": 21.839503
+    },
+    {
+      "name": "Ośrodek Kultury",
+      "latitude": 49.966893,
+      "longitude": 21.911385
+    },
+    {
+      "name": "Ośrodek Kultury",
+      "latitude": 51.411338,
+      "longitude": 16.265258
+    },
+    {
+      "name": "Ośrodek Kultury",
+      "latitude": 52.062382,
+      "longitude": 16.442915
+    },
+    {
+      "name": "Ośrodek kultury",
+      "latitude": 54.199373,
+      "longitude": 17.367293
+    },
+    {
+      "name": "Ośrodek Kultury i Sportu w Gaszowicach",
+      "latitude": 50.107368,
+      "longitude": 18.430694
+    },
+    {
+      "name": "Ośrodek Kultury i Sportu w Prószkowie",
+      "latitude": 50.576798,
+      "longitude": 17.873029
+    },
+    {
+      "name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"",
+      "latitude": 51.404262,
+      "longitude": 21.150403
+    },
+    {
+      "name": "Ośrodek Kultury im. Cypriana Kamila Norwida",
+      "latitude": 50.07979,
+      "longitude": 20.036361
+    },
+    {
+      "name": "Ośrodek Kultury im. Cypriana Kamila Norwida \"Sala Tańca\"",
+      "latitude": 50.080475,
+      "longitude": 20.036171
+    },
+    {
+      "name": "Ośrodek Kultury Kraków-Nowa Huta (biuro)",
+      "latitude": 50.076702,
+      "longitude": 20.03261
+    },
+    {
+      "name": "Ośrodek Kultury Moskorzew",
+      "latitude": 50.645958,
+      "longitude": 19.927157
+    },
+    {
+      "name": "Ośrodek Kultury Ochoty",
+      "latitude": 52.212655,
+      "longitude": 20.978489
+    },
+    {
+      "name": "Ośrodek Kultury Regionalnej \"Królewski Kąt\"",
+      "latitude": 50.775279,
+      "longitude": 23.967153
+    },
+    {
+      "name": "Ośrodek Kultury Sportu i Rekreacji",
+      "latitude": 51.535825,
+      "longitude": 14.736386
+    },
+    {
+      "name": "Ośrodek Kultury w Będzinie",
+      "latitude": 50.320087,
+      "longitude": 19.134949
+    },
+    {
+      "name": "Ośrodek Kultury w Będzinie Filia Grodziec",
+      "latitude": 50.348488,
+      "longitude": 19.082898
+    },
+    {
+      "name": "Ośrodek Kultury w Rogóżnie",
+      "latitude": 50.076855,
+      "longitude": 22.372083
+    },
+    {
+      "name": "Ośrodek Kultury w Sarnowie",
+      "latitude": 50.371214,
+      "longitude": 19.147256
+    },
+    {
+      "name": "Ośrodek Kultury w Suchowoli",
+      "latitude": 53.579105,
+      "longitude": 23.107204
+    },
+    {
+      "name": "Ośrodek Kultury w Wojciechowicach",
+      "latitude": 50.844445,
+      "longitude": 21.586635
+    },
+    {
+      "name": "Ośrodek Kultury Wierzbak",
+      "latitude": 52.424634,
+      "longitude": 16.90897
+    },
+    {
+      "name": "Ośrodek Kultury „Górna”",
+      "latitude": 51.740831,
+      "longitude": 19.479533
+    },
+    {
+      "name": "Ośrodek Kultury, Sportu i Rekreacji",
+      "latitude": 51.249348,
+      "longitude": 17.045475
+    },
+    {
+      "name": "Ośrodek Propagandy Sztuki",
+      "latitude": 51.763886,
+      "longitude": 19.464239
+    },
+    {
+      "name": "Palladinski",
+      "latitude": 54.365206,
+      "longitude": 18.648403
+    },
+    {
+      "name": "Parafialne Sztuki Ludowej",
+      "latitude": 49.624968,
+      "longitude": 20.780823
+    },
+    {
+      "name": "Parafialny Dom Kultury w Czudcu",
+      "latitude": 49.945164,
+      "longitude": 21.83509
+    },
+    {
+      "name": "Parczewski Dom Kultury",
+      "latitude": 51.640127,
+      "longitude": 22.896735
+    },
+    {
+      "name": "Parki ESK Wrocław Emocje-Sport-Kultura",
+      "latitude": 51.083079,
+      "longitude": 17.067118
+    },
+    {
+      "name": "Pałac Kultury Zagłębia",
+      "latitude": 50.326242,
+      "longitude": 19.188404
+    },
+    {
+      "name": "Pałac Młodzieży",
+      "latitude": 54.190423,
+      "longitude": 16.180038
+    },
+    {
+      "name": "Państwowe Ognisko Artystyczne \"Nowolipki\"",
+      "latitude": 52.245503,
+      "longitude": 20.997119
+    },
+    {
+      "name": "PGE Giganty Mocy",
+      "latitude": 51.366796,
+      "longitude": 19.372504
+    },
+    {
+      "name": "Piecownia",
+      "latitude": 51.118504,
+      "longitude": 17.035569
+    },
+    {
+      "name": "Piekarnia Cichej Kobiety",
+      "latitude": 51.933882,
+      "longitude": 15.502544
+    },
+    {
+      "name": "Piekarnia Sztuki",
+      "latitude": 50.035969,
+      "longitude": 20.217506
+    },
+    {
+      "name": "Piwnica Ceramiczna DKŚ",
+      "latitude": 52.233126,
+      "longitude": 21.024062
+    },
+    {
+      "name": "Piątkowskie Centrum Kultury \"Dąbrówka\"",
+      "latitude": 52.44962,
+      "longitude": 16.916794
+    },
+    {
+      "name": "Piąty wymiar",
+      "latitude": 52.231789,
+      "longitude": 21.106057
+    },
+    {
+      "name": "Placówka Wsparcia Dziennego",
+      "latitude": 49.845643,
+      "longitude": 19.143514
+    },
+    {
+      "name": "Podbabiogórskie Centrum Kultury",
+      "latitude": 49.727529,
+      "longitude": 19.688642
+    },
+    {
+      "name": "Podlaski Instytut Kultury",
+      "latitude": 53.132588,
+      "longitude": 23.166203
+    },
+    {
+      "name": "Podlaski Instytut Kultury",
+      "latitude": 53.134799,
+      "longitude": 23.142064
+    },
+    {
+      "name": "Poleski Ośrodek Sztuki",
+      "latitude": 51.755256,
+      "longitude": 19.424371
+    },
+    {
+      "name": "PORT",
+      "latitude": 51.123797,
+      "longitude": 17.038583
+    },
+    {
+      "name": "Port Kultury",
+      "latitude": 53.207227,
+      "longitude": 22.771227
+    },
+    {
+      "name": "Powiatowy Młodzieżowy Dom Kultury",
+      "latitude": 50.322621,
+      "longitude": 19.113593
+    },
+    {
+      "name": "Powiatowy Młodzieżowy Dom Kultury im. Henryka Jordana",
+      "latitude": 50.440365,
+      "longitude": 18.85026
+    },
+    {
+      "name": "Pracownia 4 Sztuki",
+      "latitude": 51.121108,
+      "longitude": 17.033668
+    },
+    {
+      "name": "Pracownia Artystyczna",
+      "latitude": 53.008388,
+      "longitude": 18.60524
+    },
+    {
+      "name": "Pracownia ArtZagroda",
+      "latitude": 52.224556,
+      "longitude": 16.779748
+    },
+    {
+      "name": "Pracownia bałagan.",
+      "latitude": 51.176752,
+      "longitude": 22.282402
+    },
+    {
+      "name": "Pracownia Grafiki Artystycznej Światowid",
+      "latitude": 51.112521,
+      "longitude": 17.055701
+    },
+    {
+      "name": "Pracownia modelarni",
+      "latitude": 51.982211,
+      "longitude": 21.215072
+    },
+    {
+      "name": "Pracownia Otwarta",
+      "latitude": 51.119491,
+      "longitude": 17.033365
+    },
+    {
+      "name": "Pracownia Plastyczno-Terapeutyczna",
+      "latitude": 54.602793,
+      "longitude": 18.222169
+    },
+    {
+      "name": "Pracownia Portret",
+      "latitude": 52.408762,
+      "longitude": 16.921456
+    },
+    {
+      "name": "Pracownia Teatralna. Justyna Godlewska i Przyjaciele",
+      "latitude": 53.116796,
+      "longitude": 23.177051
+    },
+    {
+      "name": "Projekt Fifna",
+      "latitude": 52.409239,
+      "longitude": 16.908443
+    },
+    {
+      "name": "Projektornia",
+      "latitude": 54.404155,
+      "longitude": 18.630812
+    },
+    {
+      "name": "Prudnicki Ośrodek Kultury",
+      "latitude": 50.320638,
+      "longitude": 17.576372
+    },
+    {
+      "name": "Przemkowski Ośrodek Kultury",
+      "latitude": 51.526055,
+      "longitude": 15.790642
+    },
+    {
+      "name": "Przestrzeń 71",
+      "latitude": 52.191176,
+      "longitude": 21.013466
+    },
+    {
+      "name": "Publiczne Ognisko Plastyczne im. Jana Skotnickiego",
+      "latitude": 52.102631,
+      "longitude": 20.617702
+    },
+    {
+      "name": "PZHGP",
+      "latitude": 50.814642,
+      "longitude": 18.157947
+    },
+    {
+      "name": "Płocka galeria sztuki",
+      "latitude": 52.545846,
+      "longitude": 19.690919
+    },
+    {
+      "name": "Qltur Kombinat",
+      "latitude": 51.243004,
+      "longitude": 15.042455
+    },
+    {
+      "name": "Raciborskie Centrum Kultury",
+      "latitude": 50.09328,
+      "longitude": 18.217412
+    },
+    {
+      "name": "Radomska Orkiestra Kameralna",
+      "latitude": 51.401577,
+      "longitude": 21.1581
+    },
+    {
+      "name": "Rampa Kultura i Twierdza Design",
+      "latitude": 53.557119,
+      "longitude": 14.838392
+    },
+    {
+      "name": "RCK",
+      "latitude": 54.182165,
+      "longitude": 15.565365
+    },
+    {
+      "name": "Regionalne Centrum Kultur Pogranicza",
+      "latitude": 49.696312,
+      "longitude": 21.754628
+    },
+    {
+      "name": "Regionalne Centrum Kultury - Fabryka Emocji",
+      "latitude": 53.145938,
+      "longitude": 16.743871
+    },
+    {
+      "name": "Regionalne Centrum Kultury w Drzewicy",
+      "latitude": 51.449994,
+      "longitude": 20.464773
+    },
+    {
+      "name": "Regionalny Ośrodek Kultury",
+      "latitude": 50.804715,
+      "longitude": 19.10862
+    },
+    {
+      "name": "Remedium",
+      "latitude": 50.297497,
+      "longitude": 19.133177
+    },
+    {
+      "name": "Rondo Sztuki",
+      "latitude": 50.264474,
+      "longitude": 19.023204
+    },
+    {
+      "name": "Rotacyjny Dom Kultury",
+      "latitude": 52.220978,
+      "longitude": 21.027694
+    },
+    {
+      "name": "Rozbrat",
+      "latitude": 52.417482,
+      "longitude": 16.91858
+    },
+    {
+      "name": "Rozwadowski Dom Kultury Sokół",
+      "latitude": 50.589208,
+      "longitude": 22.046958
+    },
+    {
+      "name": "Rydzyński Ośrodek Kultury",
+      "latitude": 51.786642,
+      "longitude": 16.66704
+    },
+    {
+      "name": "Rynek Sztuki",
+      "latitude": 50.667704,
+      "longitude": 17.926638
+    },
+    {
+      "name": "Róża Rozpruwacz",
+      "latitude": 51.121186,
+      "longitude": 17.032394
+    },
+    {
+      "name": "Rękodzielnia",
+      "latitude": 54.467747,
+      "longitude": 17.023478
+    },
+    {
+      "name": "Sala koncertowa",
+      "latitude": 50.281375,
+      "longitude": 19.141042
+    },
+    {
+      "name": "Sala Widowiskowa MOK Orzesze",
+      "latitude": 50.145425,
+      "longitude": 18.73865
+    },
+    {
+      "name": "Sala widowiskowa w Załęczu Wielkim",
+      "latitude": 51.086735,
+      "longitude": 18.683294
+    },
+    {
+      "name": "Sala Wiejska",
+      "latitude": 51.605279,
+      "longitude": 16.894977
+    },
+    {
+      "name": "Sala Wiejska",
+      "latitude": 51.656291,
+      "longitude": 17.73687
+    },
+    {
+      "name": "Sala Wiejska",
+      "latitude": 51.691463,
+      "longitude": 17.860751
+    },
+    {
+      "name": "Sala Wiejska",
+      "latitude": 51.743055,
+      "longitude": 17.803172
+    },
+    {
+      "name": "Sala Wiejska",
+      "latitude": 51.799156,
+      "longitude": 17.891789
+    },
+    {
+      "name": "Sala wiejska",
+      "latitude": 52.754632,
+      "longitude": 15.34763
+    },
+    {
+      "name": "Sala Wiejska w Sokolnej",
+      "latitude": 53.305044,
+      "longitude": 16.880284
+    },
+    {
+      "name": "Salwatorskie Studio Artystyczne",
+      "latitude": 50.055396,
+      "longitude": 19.914259
+    },
+    {
+      "name": "Samorządowy Ośrodek Kultury",
+      "latitude": 50.294321,
+      "longitude": 21.7475
+    },
+    {
+      "name": "Samorządowy Ośrodek Kultury i Sportu Gminy Mielec Filia w Woli Mieleckiej",
+      "latitude": 50.284265,
+      "longitude": 21.384829
+    },
+    {
+      "name": "Samorządowy Ośrodek Kultury w Jarczowie",
+      "latitude": 50.424276,
+      "longitude": 23.588311
+    },
+    {
+      "name": "Sandomierskie Centrum Kultury",
+      "latitude": 50.679321,
+      "longitude": 21.750202
+    },
+    {
+      "name": "Scena 210",
+      "latitude": 52.392299,
+      "longitude": 20.918429
+    },
+    {
+      "name": "scena im. Michała \"Giera\" Giercuszkiewicza",
+      "latitude": 49.354383,
+      "longitude": 22.451748
+    },
+    {
+      "name": "Scena w skansenie",
+      "latitude": 49.574333,
+      "longitude": 22.207317
+    },
+    {
+      "name": "Sezam",
+      "latitude": 52.464126,
+      "longitude": 16.658622
+    },
+    {
+      "name": "Sezam gminny ośrodek kultury",
+      "latitude": 52.463401,
+      "longitude": 16.658963
+    },
+    {
+      "name": "Siemianowickie Centrum Kultury",
+      "latitude": 50.302823,
+      "longitude": 19.006454
+    },
+    {
+      "name": "Siemiatycki Ośrodek Kultury",
+      "latitude": 52.426146,
+      "longitude": 22.862235
+    },
+    {
+      "name": "Sierakowski Ośrodek Kultury",
+      "latitude": 52.645532,
+      "longitude": 16.085839
+    },
+    {
+      "name": "Sokólski Ośrodek Kultury",
+      "latitude": 53.405694,
+      "longitude": 23.497529
+    },
+    {
+      "name": "Sokół",
+      "latitude": 49.622366,
+      "longitude": 20.694724
+    },
+    {
+      "name": "Solatorium",
+      "latitude": 52.221284,
+      "longitude": 21.028189
+    },
+    {
+      "name": "Sopki Stopki",
+      "latitude": 49.597697,
+      "longitude": 19.142186
+    },
+    {
+      "name": "Sosnowieckie Centrum Sztuki - Zamek Sielecki",
+      "latitude": 50.285502,
+      "longitude": 19.145605
+    },
+    {
+      "name": "Spółdzielnia PANATO",
+      "latitude": 51.119611,
+      "longitude": 17.038435
+    },
+    {
+      "name": "Starachowickie Centrum Kultury",
+      "latitude": 51.053178,
+      "longitude": 21.064466
+    },
+    {
+      "name": "Staromiejski Dom Kultury",
+      "latitude": 52.249831,
+      "longitude": 21.0131
+    },
+    {
+      "name": "Staromiejskie Centrum Kultury Młodzieży",
+      "latitude": 50.046137,
+      "longitude": 19.941075
+    },
+    {
+      "name": "Stary Młyn",
+      "latitude": 51.855375,
+      "longitude": 19.415242
+    },
+    {
+      "name": "Staszowski Ośrodek Kultury",
+      "latitude": 50.562753,
+      "longitude": 21.164145
+    },
+    {
+      "name": "Stodoła - miejsce spotkań parafian",
+      "latitude": 53.072231,
+      "longitude": 22.943402
+    },
+    {
+      "name": "Stowarzyszenie \"Razem Lepiej\"",
+      "latitude": 49.504339,
+      "longitude": 21.698818
+    },
+    {
+      "name": "Stowarzyszenie Apostołów Bożego Miłosierdzia „Faustinum”",
+      "latitude": 50.021602,
+      "longitude": 19.937313
+    },
+    {
+      "name": "STOWARZYSZENIE KOPALNIA SZTUKI",
+      "latitude": 50.324194,
+      "longitude": 18.793892
+    },
+    {
+      "name": "Stołeczne Centrum Edukacji Kulturalnej",
+      "latitude": 52.249588,
+      "longitude": 21.013831
+    },
+    {
+      "name": "Stołeczne Centrum Edukacji Kulturalnej",
+      "latitude": 52.25204,
+      "longitude": 21.011972
+    },
+    {
+      "name": "Strefa Kultury",
+      "latitude": 54.441112,
+      "longitude": 18.42105
+    },
+    {
+      "name": "Struktury Natury",
+      "latitude": 52.222184,
+      "longitude": 20.985866
+    },
+    {
+      "name": "Strużka Klimkowska",
+      "latitude": 51.974852,
+      "longitude": 22.301711
+    },
+    {
+      "name": "Strych nad Zegarem",
+      "latitude": 50.06114,
+      "longitude": 19.941553
+    },
+    {
+      "name": "Strzegomskie Centrum Kultury",
+      "latitude": 50.964966,
+      "longitude": 16.345381
+    },
+    {
+      "name": "Strzeliński Ośrodek Kultury",
+      "latitude": 50.782735,
+      "longitude": 17.066931
+    },
+    {
+      "name": "Studio Artystyczne - Dom Plastyka",
+      "latitude": 50.463667,
+      "longitude": 17.006119
+    },
+    {
+      "name": "Studio Artystyczne MUZA",
+      "latitude": 54.55159,
+      "longitude": 18.514398
+    },
+    {
+      "name": "Sulmierzycki Dom Kultury",
+      "latitude": 51.608379,
+      "longitude": 17.524829
+    },
+    {
+      "name": "Suski Ośrodek Kultury",
+      "latitude": 53.713297,
+      "longitude": 19.338081
+    },
+    {
+      "name": "Suwalski Ośrodek Kultury",
+      "latitude": 54.101249,
+      "longitude": 22.931579
+    },
+    {
+      "name": "Swietlica Wiejska w Bogusławcu",
+      "latitude": 54.088585,
+      "longitude": 15.470771
+    },
+    {
+      "name": "Szamotulski Ośrodek Kultury",
+      "latitude": 52.604493,
+      "longitude": 16.585167
+    },
+    {
+      "name": "Szprotawski Dom Kultury",
+      "latitude": 51.565603,
+      "longitude": 15.533773
+    },
+    {
+      "name": "Sztuka Room",
+      "latitude": 50.071542,
+      "longitude": 19.937503
+    },
+    {
+      "name": "Sztukarnia",
+      "latitude": 52.196263,
+      "longitude": 21.014099
+    },
+    {
+      "name": "Sławieński Dom Kultury‎",
+      "latitude": 54.362187,
+      "longitude": 16.684163
+    },
+    {
+      "name": "Słubicki Miejski Ośrodek Kultury",
+      "latitude": 52.347815,
+      "longitude": 14.560864
+    },
+    {
+      "name": "Słupski Ośrodek Kultury",
+      "latitude": 54.469823,
+      "longitude": 17.001458
+    },
+    {
+      "name": "Talentkowo",
+      "latitude": 53.547678,
+      "longitude": 14.573151
+    },
+    {
+      "name": "Tarnogrodzki Ośrodek Kultury",
+      "latitude": 50.36123,
+      "longitude": 22.741056
+    },
+    {
+      "name": "Teatr Dialogu",
+      "latitude": 51.081659,
+      "longitude": 17.079583
+    },
+    {
+      "name": "Teatr Miejski w Lesznie",
+      "latitude": 51.850295,
+      "longitude": 16.57543
+    },
+    {
+      "name": "Teatr Praska 52",
+      "latitude": 50.046307,
+      "longitude": 19.910784
+    },
+    {
+      "name": "Terminal Kultury Gocław",
+      "latitude": 52.231531,
+      "longitude": 21.09356
+    },
+    {
+      "name": "Totu",
+      "latitude": 52.221705,
+      "longitude": 21.012317
+    },
+    {
+      "name": "Towarzystwo Kultury Czynnej",
+      "latitude": 51.120241,
+      "longitude": 17.032584
+    },
+    {
+      "name": "Towarzystwo Społeczno - Kulturalne Niemców na Śląsku Opolskim",
+      "latitude": 50.87483,
+      "longitude": 18.419103
+    },
+    {
+      "name": "Towarzystwo Społeczno - Kulturalne Niemców na Śląsku Opolskim o/Wachowice",
+      "latitude": 50.848531,
+      "longitude": 18.402769
+    },
+    {
+      "name": "Towarzystwo społeczno-kulturalne żydów w Polsce, odział w Wałbrzychu",
+      "latitude": 50.764891,
+      "longitude": 16.282977
+    },
+    {
+      "name": "TRAFO Trafostacja Sztuki",
+      "latitude": 53.422629,
+      "longitude": 14.556769
+    },
+    {
+      "name": "Trójkot",
+      "latitude": 51.598416,
+      "longitude": 18.936569
+    },
+    {
+      "name": "TuPraga",
+      "latitude": 52.25922,
+      "longitude": 21.033839
+    },
+    {
+      "name": "Ujski Dom Kultury",
+      "latitude": 53.052598,
+      "longitude": 16.726451
+    },
+    {
+      "name": "Ursynowskie Centrum Kultury Alternatywy",
+      "latitude": 52.148416,
+      "longitude": 21.044541
+    },
+    {
+      "name": "Ustrzycki Dom Kultury",
+      "latitude": 49.430958,
+      "longitude": 22.597681
+    },
+    {
+      "name": "W Miejskiej Kniei",
+      "latitude": 51.931952,
+      "longitude": 20.061422
+    },
+    {
+      "name": "Warsztat Piernikarski",
+      "latitude": 53.011657,
+      "longitude": 18.602701
+    },
+    {
+      "name": "Wawerskie Centrum Kultury - Filia Radość",
+      "latitude": 52.184553,
+      "longitude": 21.183976
+    },
+    {
+      "name": "Wawerskie Centrum Kultury Filia Anin",
+      "latitude": 52.219941,
+      "longitude": 21.160293
+    },
+    {
+      "name": "Wawerskie Centrum Kultury Filia Marysin",
+      "latitude": 52.238542,
+      "longitude": 21.147098
+    },
+    {
+      "name": "Wawerskie Centrum Kultury Filia Międzylesie",
+      "latitude": 52.205784,
+      "longitude": 21.17006
+    },
+    {
+      "name": "Wawerskie Centrum Kultury Filia Zastów",
+      "latitude": 52.214582,
+      "longitude": 21.135508
+    },
+    {
+      "name": "Wałeckie Centrum Kultury",
+      "latitude": 53.273807,
+      "longitude": 16.471037
+    },
+    {
+      "name": "WCK",
+      "latitude": 50.003388,
+      "longitude": 18.466801
+    },
+    {
+      "name": "Wejherowskie Centrum Kultury (Filharmonia Kaszubska)",
+      "latitude": 54.602654,
+      "longitude": 18.22776
+    },
+    {
+      "name": "Widzewski Dom Kultury",
+      "latitude": 51.761847,
+      "longitude": 19.499012
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 49.60546,
+      "longitude": 20.789634
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 49.770702,
+      "longitude": 20.693335
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.008419,
+      "longitude": 18.344631
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.277042,
+      "longitude": 22.151768
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.287552,
+      "longitude": 21.687249
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.306696,
+      "longitude": 20.959833
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.670765,
+      "longitude": 22.945044
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.786732,
+      "longitude": 21.74508
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 50.98075,
+      "longitude": 22.032408
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 52.126667,
+      "longitude": 21.388502
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 53.003611,
+      "longitude": 22.908671
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 53.147103,
+      "longitude": 16.863321
+    },
+    {
+      "name": "Wiejski Dom Kultury",
+      "latitude": 53.637167,
+      "longitude": 18.482504
+    },
+    {
+      "name": "Wiejski Dom Kultury Ołpiny",
+      "latitude": 49.807015,
+      "longitude": 21.202987
+    },
+    {
+      "name": "Wiejski Dom Kultury Szerzyny",
+      "latitude": 49.809497,
+      "longitude": 21.245237
+    },
+    {
+      "name": "Wiejski Dom Kultury w Kruszewie",
+      "latitude": 52.973621,
+      "longitude": 16.660265
+    },
+    {
+      "name": "Wiejski Dom Kultury w Nowym Kościele",
+      "latitude": 51.081459,
+      "longitude": 15.872939
+    },
+    {
+      "name": "Wiejski Dom Kultury w Podlesiu",
+      "latitude": 49.999005,
+      "longitude": 21.179825
+    },
+    {
+      "name": "Wiejski Dom Kultury w Płonce Kościelnej",
+      "latitude": 53.002182,
+      "longitude": 22.827739
+    },
+    {
+      "name": "Wiejski Dom Kultury w Studzienicach",
+      "latitude": 54.091747,
+      "longitude": 17.578524
+    },
+    {
+      "name": "Wiejski Dom Kultury w Tarnawcu",
+      "latitude": 50.285434,
+      "longitude": 22.473183
+    },
+    {
+      "name": "Wiejski Dom Kultury w Wielkiej Wsi",
+      "latitude": 51.065294,
+      "longitude": 20.972868
+    },
+    {
+      "name": "Wiejski Dom Kultury w Woli Węgierskiej",
+      "latitude": 49.852222,
+      "longitude": 22.550679
+    },
+    {
+      "name": "Wiejski Dom Ludowy Uścieniec–Krzywda",
+      "latitude": 51.815913,
+      "longitude": 21.512527
+    },
+    {
+      "name": "Wiejski Dom Ludowy w Lewikowie",
+      "latitude": 51.788733,
+      "longitude": 21.504023
+    },
+    {
+      "name": "Wiejski Ośrodek Kultury",
+      "latitude": 50.312212,
+      "longitude": 16.739607
+    },
+    {
+      "name": "Wiejski Ośrodek Kultury",
+      "latitude": 51.27548,
+      "longitude": 19.306367
+    },
+    {
+      "name": "Wiejski Ośrodek Kultury",
+      "latitude": 51.944135,
+      "longitude": 19.151934
+    },
+    {
+      "name": "Wiejski Ośrodek Kultury w Antoniówce",
+      "latitude": 51.206981,
+      "longitude": 19.252928
+    },
+    {
+      "name": "Wiejski Ośrodek Kultury w Nakle",
+      "latitude": 49.874615,
+      "longitude": 22.960071
+    },
+    {
+      "name": "Wiejskie Centrum Kultury",
+      "latitude": 50.90866,
+      "longitude": 18.358406
+    },
+    {
+      "name": "Winda",
+      "latitude": 54.386639,
+      "longitude": 18.628414
+    },
+    {
+      "name": "Wojewódzki Dom Kultury",
+      "latitude": 50.863197,
+      "longitude": 20.627
+    },
+    {
+      "name": "Wojewódzki Ośrodek Animacji Kultury w Toruniu",
+      "latitude": 53.025308,
+      "longitude": 18.627656
+    },
+    {
+      "name": "WOK Hutnik",
+      "latitude": 52.599802,
+      "longitude": 21.452618
+    },
+    {
+      "name": "Wolskie Centrum Kultury",
+      "latitude": 52.234433,
+      "longitude": 20.968477
+    },
+    {
+      "name": "Wolskie Centrum Kultury",
+      "latitude": 52.234712,
+      "longitude": 20.967633
+    },
+    {
+      "name": "Wolsztyński Dom Kultury",
+      "latitude": 52.116356,
+      "longitude": 16.109538
+    },
+    {
+      "name": "Wołczyński Dom Kultury",
+      "latitude": 51.016396,
+      "longitude": 18.052596
+    },
+    {
+      "name": "Wołowski Ośrodek Kultury",
+      "latitude": 51.337793,
+      "longitude": 16.641396
+    },
+    {
+      "name": "Wrzeszcz Pointz",
+      "latitude": 54.374831,
+      "longitude": 18.615568
+    },
+    {
+      "name": "WSS Gniazdko",
+      "latitude": 51.124614,
+      "longitude": 17.028662
+    },
+    {
+      "name": "Wytwórnia Filmów Fabularnych",
+      "latitude": 51.108417,
+      "longitude": 17.074924
+    },
+    {
+      "name": "Węgrowski Ośrodek Kultury",
+      "latitude": 52.396568,
+      "longitude": 22.018945
+    },
+    {
+      "name": "Włodawski Dom Kultury",
+      "latitude": 51.545445,
+      "longitude": 23.555422
+    },
+    {
+      "name": "Zachęta",
+      "latitude": 52.239359,
+      "longitude": 21.011639
+    },
+    {
+      "name": "Zagro Plaża Rataje",
+      "latitude": 52.395486,
+      "longitude": 16.940376
+    },
+    {
+      "name": "Zakątek Kultura",
+      "latitude": 50.162886,
+      "longitude": 19.883754
+    },
+    {
+      "name": "Zamiejscowy Ośrodek Kultury",
+      "latitude": 51.927498,
+      "longitude": 22.137361
+    },
+    {
+      "name": "Zamojski Dom Kultury",
+      "latitude": 50.713723,
+      "longitude": 23.264679
+    },
+    {
+      "name": "Zespół Pieśni i Tańca Ziemi Cieszyńskiej",
+      "latitude": 49.749632,
+      "longitude": 18.631058
+    },
+    {
+      "name": "Zespół Placówek Kultury",
+      "latitude": 51.469233,
+      "longitude": 16.906553
+    },
+    {
+      "name": "Zespół Tańca Ludowego \"Pruszkowiacy\"",
+      "latitude": 52.169917,
+      "longitude": 20.812106
+    },
+    {
+      "name": "Zielonogórski Ośrodek Kultury",
+      "latitude": 51.925532,
+      "longitude": 15.491069
+    },
+    {
+      "name": "Zielonogórski Ośrodek Kultury",
+      "latitude": 51.935154,
+      "longitude": 15.590528
+    },
+    {
+      "name": "Zlepieni Pracownia Ceramiki",
+      "latitude": 53.82589,
+      "longitude": 22.347075
+    },
+    {
+      "name": "Zwierzyniecki Ośrodek Kultury i Rekreacji",
+      "latitude": 50.614834,
+      "longitude": 22.965133
+    },
+    {
+      "name": "Łaźnia",
+      "latitude": 52.210575,
+      "longitude": 18.251047
+    },
+    {
+      "name": "Łaźnia Klub Środowisk Twórczych i Galeria",
+      "latitude": 51.400286,
+      "longitude": 21.158647
+    },
+    {
+      "name": "Łobeski Dom Kultury",
+      "latitude": 53.635324,
+      "longitude": 15.617576
+    },
+    {
+      "name": "Łódzki Dom Kultury",
+      "latitude": 51.769385,
+      "longitude": 19.462144
+    },
+    {
+      "name": "Śremski Ośrodek Kultury",
+      "latitude": 52.086933,
+      "longitude": 17.022389
+    },
+    {
+      "name": "Środek",
+      "latitude": 52.251484,
+      "longitude": 21.03983
+    },
+    {
+      "name": "Środowiskowy Ośrodek Kultury w Ogrodzonej",
+      "latitude": 49.771974,
+      "longitude": 18.719936
+    },
+    {
+      "name": "Śródmiejskie Centrum Kultury",
+      "latitude": 51.760757,
+      "longitude": 19.461827
+    },
+    {
+      "name": "Świdnicki Ośrodek Kultury",
+      "latitude": 50.842533,
+      "longitude": 16.486608
+    },
+    {
+      "name": "Świdwiński Ośrodek Kultury",
+      "latitude": 53.772608,
+      "longitude": 15.769092
+    },
+    {
+      "name": "Świebodziński Dom Kultury",
+      "latitude": 52.247957,
+      "longitude": 15.536637
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.018758,
+      "longitude": 22.890298
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.026091,
+      "longitude": 23.163917
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.435646,
+      "longitude": 16.35895
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.565428,
+      "longitude": 24.080436
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.707735,
+      "longitude": 23.069808
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 50.971416,
+      "longitude": 16.758561
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.164532,
+      "longitude": 16.533707
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.190866,
+      "longitude": 16.666463
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.29956,
+      "longitude": 16.260478
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.318636,
+      "longitude": 16.10329
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.320884,
+      "longitude": 16.233024
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.323315,
+      "longitude": 16.268438
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.328986,
+      "longitude": 16.190594
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.330357,
+      "longitude": 16.298847
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.372905,
+      "longitude": 16.152476
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.37421,
+      "longitude": 15.92672
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.419376,
+      "longitude": 16.134866
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.457968,
+      "longitude": 16.691222
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.477849,
+      "longitude": 16.258152
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.520179,
+      "longitude": 16.114978
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.528271,
+      "longitude": 16.279076
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.571615,
+      "longitude": 16.427677
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.815409,
+      "longitude": 16.705285
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.956663,
+      "longitude": 16.666782
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 51.993201,
+      "longitude": 15.477536
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 52.745145,
+      "longitude": 18.083186
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 52.864246,
+      "longitude": 17.949114
+    },
+    {
+      "name": "Świetlica",
+      "latitude": 54.300061,
+      "longitude": 18.444812
+    },
+    {
+      "name": "Świetlica GOK Lesznowola w Nowej Iwicznej",
+      "latitude": 52.092696,
+      "longitude": 21.003153
+    },
+    {
+      "name": "Świetlica terapeutyczna",
+      "latitude": 53.454368,
+      "longitude": 17.537205
+    },
+    {
+      "name": "Świetlica w Pawłówku",
+      "latitude": 53.154227,
+      "longitude": 17.870095
+    },
+    {
+      "name": "Świetlica w Pęgowie",
+      "latitude": 51.247874,
+      "longitude": 16.930131
+    },
+    {
+      "name": "Świetlica w Wilczynie",
+      "latitude": 51.287376,
+      "longitude": 16.957723
+    },
+    {
+      "name": "Świetlica w Łańcach",
+      "latitude": 50.082253,
+      "longitude": 18.334137
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 49.971058,
+      "longitude": 18.318433
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 49.97499,
+      "longitude": 18.247614
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.1136,
+      "longitude": 18.059797
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.163553,
+      "longitude": 17.952575
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.740847,
+      "longitude": 16.393937
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.76557,
+      "longitude": 23.182404
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.807723,
+      "longitude": 16.367796
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.848914,
+      "longitude": 16.176897
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.874378,
+      "longitude": 14.958542
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.875427,
+      "longitude": 24.101351
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.90034,
+      "longitude": 16.503888
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.945568,
+      "longitude": 16.559743
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.948759,
+      "longitude": 16.521798
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.957239,
+      "longitude": 16.447911
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.967476,
+      "longitude": 16.570511
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.970932,
+      "longitude": 16.455973
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.973064,
+      "longitude": 16.507534
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.984505,
+      "longitude": 16.787053
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.98484,
+      "longitude": 16.584476
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.98607,
+      "longitude": 16.486765
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 50.98897,
+      "longitude": 16.418358
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 50.989667,
+      "longitude": 23.524875
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.017097,
+      "longitude": 16.014445
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.089357,
+      "longitude": 16.697802
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 51.16783,
+      "longitude": 19.100965
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.19895,
+      "longitude": 15.194879
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.229264,
+      "longitude": 16.586476
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 51.2366,
+      "longitude": 19.955398
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.306759,
+      "longitude": 16.049937
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.317973,
+      "longitude": 16.404786
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.322078,
+      "longitude": 16.044227
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.335643,
+      "longitude": 16.367645
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.34319,
+      "longitude": 16.332821
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.355101,
+      "longitude": 16.415682
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.358648,
+      "longitude": 16.297395
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.378436,
+      "longitude": 16.265527
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.379694,
+      "longitude": 16.298869
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.401219,
+      "longitude": 16.802237
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.419852,
+      "longitude": 16.334072
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.450208,
+      "longitude": 16.353325
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.473492,
+      "longitude": 16.437497
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.475669,
+      "longitude": 23.640216
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.491193,
+      "longitude": 16.382504
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.49199,
+      "longitude": 16.448669
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.499395,
+      "longitude": 16.358435
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.507129,
+      "longitude": 16.351649
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.50783,
+      "longitude": 16.290236
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.526058,
+      "longitude": 16.32322
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.527111,
+      "longitude": 16.424799
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.544466,
+      "longitude": 16.346494
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.550345,
+      "longitude": 16.399688
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.575912,
+      "longitude": 16.391905
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.585246,
+      "longitude": 16.350203
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 51.676314,
+      "longitude": 17.851024
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 51.691071,
+      "longitude": 17.860803
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.814537,
+      "longitude": 22.150138
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.831398,
+      "longitude": 16.537535
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 51.91455,
+      "longitude": 16.271873
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.158174,
+      "longitude": 21.320158
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 52.35463,
+      "longitude": 16.339644
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.416345,
+      "longitude": 22.153304
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.537621,
+      "longitude": 14.980202
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.635418,
+      "longitude": 18.060792
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.74964,
+      "longitude": 18.413998
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 52.880381,
+      "longitude": 20.03151
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.068373,
+      "longitude": 18.807489
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.147923,
+      "longitude": 14.512362
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.192675,
+      "longitude": 14.622664
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.197533,
+      "longitude": 14.470169
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.225957,
+      "longitude": 17.919035
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.308305,
+      "longitude": 19.323845
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.320864,
+      "longitude": 16.149199
+    },
+    {
+      "name": "Świetlica Wiejska",
+      "latitude": 53.677631,
+      "longitude": 21.779803
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.71096,
+      "longitude": 19.186477
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.802088,
+      "longitude": 20.327089
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.971123,
+      "longitude": 19.205537
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 53.98415,
+      "longitude": 15.797877
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 54.121388,
+      "longitude": 19.122444
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 54.305594,
+      "longitude": 16.622611
+    },
+    {
+      "name": "Świetlica wiejska",
+      "latitude": 54.575174,
+      "longitude": 17.776264
+    },
+    {
+      "name": "Świetlica wiejska \"Mleczarnia\"",
+      "latitude": 50.678928,
+      "longitude": 23.893001
+    },
+    {
+      "name": "Świetlica Wiejska Kopernica",
+      "latitude": 53.78778,
+      "longitude": 17.47773
+    },
+    {
+      "name": "Świetlica wiejska Przy Fontannie",
+      "latitude": 50.773242,
+      "longitude": 20.573878
+    },
+    {
+      "name": "Świetlica Wiejska w Biesowie",
+      "latitude": 53.933631,
+      "longitude": 20.884975
+    },
+    {
+      "name": "Świetlica Wiejska w Borkach",
+      "latitude": 51.50898,
+      "longitude": 16.906379
+    },
+    {
+      "name": "Świetlica wiejska w Budziskach",
+      "latitude": 50.203949,
+      "longitude": 18.278257
+    },
+    {
+      "name": "Świetlica Wiejska w Buszowie",
+      "latitude": 52.931248,
+      "longitude": 15.426815
+    },
+    {
+      "name": "Świetlica Wiejska w Czarnogoździcach",
+      "latitude": 51.488134,
+      "longitude": 17.304135
+    },
+    {
+      "name": "Świetlica Wiejska w Czerniczynie",
+      "latitude": 50.755164,
+      "longitude": 23.898733
+    },
+    {
+      "name": "Świetlica Wiejska w Dobieszynie",
+      "latitude": 51.617364,
+      "longitude": 21.190177
+    },
+    {
+      "name": "Świetlica Wiejska w Domanowicach",
+      "latitude": 51.408559,
+      "longitude": 17.0504
+    },
+    {
+      "name": "Świetlica wiejska w Dzielowie",
+      "latitude": 50.137862,
+      "longitude": 18.001532
+    },
+    {
+      "name": "Świetlica wiejska w Dąbiu",
+      "latitude": 51.225149,
+      "longitude": 16.363077
+    },
+    {
+      "name": "Świetlica Wiejska w Dębinach",
+      "latitude": 51.422007,
+      "longitude": 20.717133
+    },
+    {
+      "name": "Świetlica Wiejska w Garbcach",
+      "latitude": 51.513375,
+      "longitude": 16.888028
+    },
+    {
+      "name": "Świetlica wiejska w Grabowie",
+      "latitude": 53.80201,
+      "longitude": 21.226067
+    },
+    {
+      "name": "Świetlica wiejska w Janiszowicach",
+      "latitude": 51.909677,
+      "longitude": 15.038542
+    },
+    {
+      "name": "Świetlica Wiejska w Jarach",
+      "latitude": 51.283645,
+      "longitude": 16.86743
+    },
+    {
+      "name": "Świetlica Wiejska w Jodłowicach",
+      "latitude": 51.282914,
+      "longitude": 16.793254
+    },
+    {
+      "name": "Świetlica Wiejska w Karnicach",
+      "latitude": 51.479487,
+      "longitude": 16.838337
+    },
+    {
+      "name": "Świetlica Wiejska w Klimkach",
+      "latitude": 51.974881,
+      "longitude": 22.301808
+    },
+    {
+      "name": "Świetlica Wiejska w Kliszkowicach",
+      "latitude": 51.443496,
+      "longitude": 16.863161
+    },
+    {
+      "name": "Świetlica wiejska w Korycinach",
+      "latitude": 52.648126,
+      "longitude": 22.749231
+    },
+    {
+      "name": "Świetlica Wiejska w Koryciskach",
+      "latitude": 51.332641,
+      "longitude": 20.819511
+    },
+    {
+      "name": "Świetlica Wiejska w Krajowie",
+      "latitude": 51.387392,
+      "longitude": 20.704572
+    },
+    {
+      "name": "Świetlica Wiejska w Książęcej Wsi",
+      "latitude": 51.461602,
+      "longitude": 17.035574
+    },
+    {
+      "name": "Świetlica Wiejska w Kłonowie",
+      "latitude": 51.342867,
+      "longitude": 21.352459
+    },
+    {
+      "name": "Świetlica Wiejska w Kłonowie",
+      "latitude": 51.343093,
+      "longitude": 21.353276
+    },
+    {
+      "name": "Świetlica Wiejska w Kłudnie",
+      "latitude": 51.37106,
+      "longitude": 20.829625
+    },
+    {
+      "name": "Świetlica Wiejska w Ligocie Pięknej",
+      "latitude": 51.231901,
+      "longitude": 17.045072
+    },
+    {
+      "name": "Świetlica wiejska w Lutrach",
+      "latitude": 54.009281,
+      "longitude": 20.89633
+    },
+    {
+      "name": "Świetlica Wiejska w Machnicach",
+      "latitude": 51.273021,
+      "longitude": 17.062611
+    },
+    {
+      "name": "Świetlica Wiejska w Majdanie Sitanieckim",
+      "latitude": 50.849413,
+      "longitude": 23.245126
+    },
+    {
+      "name": "Świetlica Wiejska w Niezgodzie",
+      "latitude": 51.517808,
+      "longitude": 17.040667
+    },
+    {
+      "name": "Świetlica Wiejska w Niskiej Jabłonicy",
+      "latitude": 51.309222,
+      "longitude": 20.762382
+    },
+    {
+      "name": "Świetlica Wiejska w Ostrołęce",
+      "latitude": 51.1743,
+      "longitude": 19.125205
+    },
+    {
+      "name": "Świetlica Wiejska w Paniowicach",
+      "latitude": 51.212021,
+      "longitude": 16.94048
+    },
+    {
+      "name": "Świetlica Wiejska w Pawłowie Trzebnickim",
+      "latitude": 51.352033,
+      "longitude": 17.027049
+    },
+    {
+      "name": "Świetlica Wiejska w Piotrkowiczkach",
+      "latitude": 51.26952,
+      "longitude": 17.024928
+    },
+    {
+      "name": "Świetlica Wiejska w Piszewie",
+      "latitude": 53.994823,
+      "longitude": 20.820436
+    },
+    {
+      "name": "Świetlica Wiejska w Powidzku",
+      "latitude": 51.443145,
+      "longitude": 16.965586
+    },
+    {
+      "name": "Świetlica Wiejska w Psarach",
+      "latitude": 51.187993,
+      "longitude": 17.033127
+    },
+    {
+      "name": "Świetlica Wiejska w Rakowie",
+      "latitude": 51.235393,
+      "longitude": 16.88582
+    },
+    {
+      "name": "Świetlica wiejska w Siedliskach",
+      "latitude": 50.193975,
+      "longitude": 18.292464
+    },
+    {
+      "name": "Świetlica wiejska w Sitańcu",
+      "latitude": 50.760963,
+      "longitude": 23.239515
+    },
+    {
+      "name": "Świetlica wiejska w Skokówce",
+      "latitude": 50.692181,
+      "longitude": 23.23893
+    },
+    {
+      "name": "Świetlica Wiejska w Smagowie",
+      "latitude": 51.283797,
+      "longitude": 20.763779
+    },
+    {
+      "name": "Świetlica Wiejska w Soczówkach",
+      "latitude": 51.23054,
+      "longitude": 20.23984
+    },
+    {
+      "name": "Świetlica Wiejska w Sokólsku",
+      "latitude": 52.923168,
+      "longitude": 15.482046
+    },
+    {
+      "name": "Świetlica Wiejska w Stobnie",
+      "latitude": 51.280987,
+      "longitude": 16.614941
+    },
+    {
+      "name": "Świetlica Wiejska w Tarnawie Górnej",
+      "latitude": 49.778332,
+      "longitude": 19.499485
+    },
+    {
+      "name": "Świetlica wiejska w Turzu",
+      "latitude": 50.190901,
+      "longitude": 18.26407
+    },
+    {
+      "name": "Świetlica wiejska w Ujnach",
+      "latitude": 50.713879,
+      "longitude": 20.819513
+    },
+    {
+      "name": "Świetlica Wiejska w Uskorzu Wielkim",
+      "latitude": 51.331632,
+      "longitude": 16.689316
+    },
+    {
+      "name": "Świetlica Wiejska w Walinach",
+      "latitude": 51.352957,
+      "longitude": 20.996692
+    },
+    {
+      "name": "Świetlica Wiejska w Wawrzyszowie",
+      "latitude": 51.387796,
+      "longitude": 20.899671
+    },
+    {
+      "name": "Świetlica Wiejska w Werchracie",
+      "latitude": 50.256666,
+      "longitude": 23.471524
+    },
+    {
+      "name": "Świetlica Wiejska w Witoszowie Górnym",
+      "latitude": 50.820003,
+      "longitude": 16.393886
+    },
+    {
+      "name": "Świetlica Wiejska w Zaborowiu",
+      "latitude": 51.312389,
+      "longitude": 20.889416
+    },
+    {
+      "name": "Świetlica Wiejska w Zakrzewie",
+      "latitude": 51.241962,
+      "longitude": 16.613743
+    },
+    {
+      "name": "Świetlica Wiejska w Zdonkowie",
+      "latitude": 51.333402,
+      "longitude": 20.705541
+    },
+    {
+      "name": "Świetlica Wiejska w Świerzowie",
+      "latitude": 51.336987,
+      "longitude": 16.94002
+    },
+    {
+      "name": "Świetlica Środowiskowa",
+      "latitude": 49.470835,
+      "longitude": 19.033419
+    },
+    {
+      "name": "Świetlica Środowiskowa",
+      "latitude": 50.411732,
+      "longitude": 16.22163
+    },
+    {
+      "name": "Świetlica środowiskowa Towarzystwa Kuźnia w Słupie",
+      "latitude": 51.235108,
+      "longitude": 16.649826
+    },
+    {
+      "name": "Świetlica środowiskowa w Mietniowie",
+      "latitude": 49.962951,
+      "longitude": 20.075266
+    },
+    {
+      "name": "Świetlica „Pod Dobrym Aniołem”",
+      "latitude": 51.431316,
+      "longitude": 21.162668
+    },
+    {
+      "name": "Żoliborski Dom Kultury",
+      "latitude": 52.265456,
+      "longitude": 20.989866
+    },
+    {
+      "name": "Żoliborski Dom Kultury",
+      "latitude": 52.268452,
+      "longitude": 20.989426
+    },
+    {
+      "name": "Детская Школа Искусств г. Багратионовска",
+      "latitude": 54.387609,
+      "longitude": 20.640787
+    },
+    {
+      "name": "Клуб",
+      "latitude": 51.364189,
+      "longitude": 23.691247
+    }
+  ],
+  "meta": {
+    "title": "Polska — centra sztuki - Bezpłatne pobieranie",
+    "description": "Centra sztuki w Polsce (OpenStreetMap) Zawiera 1237 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — centra sztuki | ListBase",
+    "seo_description": "Pobierz Polska — centra sztuki — 1237 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 1237 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

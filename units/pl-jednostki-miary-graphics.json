@@ -1,0 +1,124 @@
+{
+  "id": "pl-jednostki-miary-graphics",
+  "name": "Jednostki miary — kategoria 'graphics' (7)",
+  "title": "Jednostki miary — kategoria 'graphics' (7)",
+  "description": "Jednostki miary kategorii 'graphics' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoria": "graphics",
+      "nazwa": "punkty na centymetr",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} punktu na centymetr"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-inch",
+      "kategoria": "graphics",
+      "nazwa": "punkty na cal",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} punktu na cal"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-em",
+      "kategoria": "graphics",
+      "nazwa": "firety",
+      "skrot": "firet",
+      "forma_waska": "firet",
+      "wzorzec": "{0} firetu"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-megapixel",
+      "kategoria": "graphics",
+      "nazwa": "megapiksele",
+      "skrot": "MP",
+      "forma_waska": "MP",
+      "wzorzec": "{0} megapiksela"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-pixel",
+      "kategoria": "graphics",
+      "nazwa": "piksele",
+      "skrot": "px",
+      "forma_waska": "px",
+      "wzorzec": "{0} piksela"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoria": "graphics",
+      "nazwa": "piksele na centymetr",
+      "skrot": "ppcm",
+      "forma_waska": "ppcm",
+      "wzorzec": "{0} piksela na centymetr"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoria": "graphics",
+      "nazwa": "piksele na cal",
+      "skrot": "ppi",
+      "forma_waska": "ppi",
+      "wzorzec": "{0} piksela na cal"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'graphics' (7) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'graphics' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 7 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'graphics' (7) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'graphics' (7) — 7 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 7 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

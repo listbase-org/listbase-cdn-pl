@@ -1,0 +1,1629 @@
+{
+  "id": "geo-currencies",
+  "name": "Globalny Zbiór Danych Walut Krajów i Kodów",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "currency_code",
+      "label": "Currency Code",
+      "type": "string"
+    },
+    {
+      "key": "currency_name",
+      "label": "Currency Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "currency_symbol",
+      "label": "Symbol",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afganistan",
+      "currency_code": "AFN",
+      "currency_name": "Afghani afgańskie",
+      "currency_symbol": "؋"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "currency_code": "ALL",
+      "currency_name": "Lek albański",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algieria",
+      "currency_code": "DZD",
+      "currency_name": "Dinar algierski",
+      "currency_symbol": "د.ج"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andora",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "currency_code": "AOA",
+      "currency_name": "Kwanza angolska",
+      "currency_symbol": "Kz"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua i Barbuda",
+      "currency_code": "XCD",
+      "currency_name": "Dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentyna",
+      "currency_code": "ARS",
+      "currency_name": "Peso argentyńskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "currency_code": "AMD",
+      "currency_name": "Dram armeński",
+      "currency_symbol": "֏"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "currency_code": "AUD",
+      "currency_name": "Dolar australijski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbejdżan",
+      "currency_code": "AZN",
+      "currency_name": "Manat azerski",
+      "currency_symbol": "₼"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamy",
+      "currency_code": "BSD",
+      "currency_name": "Dolar bahamski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrajn",
+      "currency_code": "BHD",
+      "currency_name": "Dinar bahrański",
+      "currency_symbol": ".د.ب"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesz",
+      "currency_code": "BDT",
+      "currency_name": "Taka bengalska",
+      "currency_symbol": "৳"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "currency_code": "BBD",
+      "currency_name": "Dolar barbadoski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Białoruś",
+      "currency_code": "BYN",
+      "currency_name": "Rubel białoruski",
+      "currency_symbol": "Br"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgia",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "currency_code": "BZD",
+      "currency_name": "Dolar belizeński",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "currency_code": "BTN",
+      "currency_name": "Ngultrum bhutański",
+      "currency_symbol": "Nu."
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Boliwia",
+      "currency_code": "BOB",
+      "currency_name": "Boliviano boliwijskie",
+      "currency_symbol": "Bs."
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bośnia i Hercegowina",
+      "currency_code": "BAM",
+      "currency_name": "Marka zamienna Bośni i Hercegowiny",
+      "currency_symbol": "KM"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "currency_code": "BWP",
+      "currency_name": "Pula botswańska",
+      "currency_symbol": "P"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazylia",
+      "currency_code": "BRL",
+      "currency_name": "Real brazylijski",
+      "currency_symbol": "R$"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "currency_code": "BND",
+      "currency_name": "Dolar brunejski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bułgaria",
+      "currency_code": "BGN",
+      "currency_name": "Lew bułgarski",
+      "currency_symbol": "лв"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "currency_code": "BIF",
+      "currency_name": "Frank burundyjski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kambodża",
+      "currency_code": "KHR",
+      "currency_name": "Riel kambodżański",
+      "currency_symbol": "៛"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "currency_code": "CAD",
+      "currency_name": "Dolar kanadyjski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Republika Zielonego Przylądka",
+      "currency_code": "CVE",
+      "currency_name": "Escudo Republiki Zielonego Przylądka",
+      "currency_symbol": "Esc"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Republika Środkowoafrykańska",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Czad",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "currency_code": "CLP",
+      "currency_name": "Peso chilijskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Chiny",
+      "currency_code": "CNY",
+      "currency_name": "Juan chiński",
+      "currency_symbol": "¥"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolumbia",
+      "currency_code": "COP",
+      "currency_name": "Peso kolumbijskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komory",
+      "currency_code": "KMF",
+      "currency_name": "Frank komoryjski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kostaryka",
+      "currency_code": "CRC",
+      "currency_name": "Colón kostarykański",
+      "currency_symbol": "₡"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Chorwacja",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "currency_code": "CUC",
+      "currency_name": "Kubańskie peso wymienialne",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Cypr",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Czechy",
+      "currency_code": "CZK",
+      "currency_name": "Korona czeska",
+      "currency_symbol": "Kč"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dania",
+      "currency_code": "DKK",
+      "currency_name": "Korona duńska",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Dżibuti",
+      "currency_code": "DJF",
+      "currency_name": "Frank dżibutyjski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "currency_code": "XCD",
+      "currency_name": "Dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominikana",
+      "currency_code": "DOP",
+      "currency_name": "Peso dominikańskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "DR Kongo",
+      "currency_code": "CDF",
+      "currency_name": "Frank kongijski",
+      "currency_symbol": "FC"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekwador",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Egipt",
+      "currency_code": "EGP",
+      "currency_name": "Funt egipski",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "Salwador",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Gwinea Równikowa",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Erytrea",
+      "currency_code": "ERN",
+      "currency_name": "Nakfa erytrejska",
+      "currency_symbol": "Nfk"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "currency_code": "SZL",
+      "currency_name": "Lilangeni Suazi",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopia",
+      "currency_code": "ETB",
+      "currency_name": "Birr etiopski",
+      "currency_symbol": "Br"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fidżi",
+      "currency_code": "FJD",
+      "currency_name": "Dolar fidżyjski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finlandia",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Francja",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "currency_code": "GMD",
+      "currency_name": "dalasi",
+      "currency_symbol": "D"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gruzja",
+      "currency_code": "GEL",
+      "currency_name": "lari",
+      "currency_symbol": "₾"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Niemcy",
+      "currency_code": "EUR",
+      "currency_name": "euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "currency_code": "GHS",
+      "currency_name": "cedi ghańskie",
+      "currency_symbol": "₵"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Grecja",
+      "currency_code": "EUR",
+      "currency_name": "euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "currency_code": "XCD",
+      "currency_name": "dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Gwatemala",
+      "currency_code": "GTQ",
+      "currency_name": "quetzal gwatemalski",
+      "currency_symbol": "Q"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Gwinea",
+      "currency_code": "GNF",
+      "currency_name": "frank gwinejski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Gwinea Bissau",
+      "currency_code": "XOF",
+      "currency_name": "frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Gujana",
+      "currency_code": "GYD",
+      "currency_name": "dolar gujański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "currency_code": "HTG",
+      "currency_name": "gourde haitańskie",
+      "currency_symbol": "G"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "currency_code": "HNL",
+      "currency_name": "lempira honduraska",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Węgry",
+      "currency_code": "HUF",
+      "currency_name": "forint węgierski",
+      "currency_symbol": "Ft"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Islandia",
+      "currency_code": "ISK",
+      "currency_name": "korona islandzka",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Indie",
+      "currency_code": "INR",
+      "currency_name": "rupia indyjska",
+      "currency_symbol": "₹"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonezja",
+      "currency_code": "IDR",
+      "currency_name": "rupia indonezyjska",
+      "currency_symbol": "Rp"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "currency_code": "IRR",
+      "currency_name": "rial irański",
+      "currency_symbol": "﷼"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irak",
+      "currency_code": "IQD",
+      "currency_name": "dinar iracki",
+      "currency_symbol": "ع.د"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irlandia",
+      "currency_code": "EUR",
+      "currency_name": "euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Izrael",
+      "currency_code": "ILS",
+      "currency_name": "nowy szekel izraelski",
+      "currency_symbol": "₪"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Włochy",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Wybrzeże Kości Słoniowej",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Zachodnioafrykański",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamajka",
+      "currency_code": "JMD",
+      "currency_name": "Dolar jamajski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonia",
+      "currency_code": "JPY",
+      "currency_name": "Jen japoński",
+      "currency_symbol": "¥"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordania",
+      "currency_code": "JOD",
+      "currency_name": "Dinar jordański",
+      "currency_symbol": "د.ا"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstan",
+      "currency_code": "KZT",
+      "currency_name": "Tenge kazachskie",
+      "currency_symbol": "₸"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenia",
+      "currency_code": "KES",
+      "currency_name": "Szyling kenijski",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "currency_code": "AUD",
+      "currency_name": "Dolar australijski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosowo",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwejt",
+      "currency_code": "KWD",
+      "currency_name": "Dinar kuwajcki",
+      "currency_symbol": "د.ك"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kirgistan",
+      "currency_code": "KGS",
+      "currency_name": "Som kirgiski",
+      "currency_symbol": "с"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "currency_code": "LAK",
+      "currency_name": "Kip laotański",
+      "currency_symbol": "₭"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Łotwa",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Liban",
+      "currency_code": "LBP",
+      "currency_name": "Funt libański",
+      "currency_symbol": "ل.ل"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "currency_code": "LSL",
+      "currency_name": "Loti Lesotho",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "currency_code": "LRD",
+      "currency_name": "Dolar liberyjski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libia",
+      "currency_code": "LYD",
+      "currency_name": "Dinar libijski",
+      "currency_symbol": "ل.د"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "currency_code": "CHF",
+      "currency_name": "Frank szwajcarski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litwa",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luksemburg",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "currency_code": "MGA",
+      "currency_name": "Ariary malgaski",
+      "currency_symbol": "Ar"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "currency_code": "MWK",
+      "currency_name": "Kwacha malawijska",
+      "currency_symbol": "MK"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malezja",
+      "currency_code": "MYR",
+      "currency_name": "Ringgit malezyjski",
+      "currency_symbol": "RM"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Malediwy",
+      "currency_code": "MVR",
+      "currency_name": "Rupia malediwska",
+      "currency_symbol": ".ރ"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Wyspy Marshalla",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauretania",
+      "currency_code": "MRU",
+      "currency_name": "Ugija mauretańska",
+      "currency_symbol": "UM"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "currency_code": "MUR",
+      "currency_name": "Rupia maurytyjska",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Meksyk",
+      "currency_code": "MXN",
+      "currency_name": "Peso meksykańskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronezja",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Mołdawia",
+      "currency_code": "MDL",
+      "currency_name": "Lej mołdawski",
+      "currency_symbol": "L"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolia",
+      "currency_code": "MNT",
+      "currency_name": "Tugrik mongolski",
+      "currency_symbol": "₮"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Czarnogóra",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "currency_code": "MAD",
+      "currency_name": "Dirham marokański",
+      "currency_symbol": "د.م."
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambik",
+      "currency_code": "MZN",
+      "currency_name": "Metikal mozambicki",
+      "currency_symbol": "MT"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Mjanma",
+      "currency_code": "MMK",
+      "currency_name": "Kiats birmański",
+      "currency_symbol": "Ks"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "currency_code": "NAD",
+      "currency_name": "Dolar namibijski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "currency_code": "AUD",
+      "currency_name": "Dolar australijski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "currency_code": "NPR",
+      "currency_name": "rupia nepalska",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Holandia",
+      "currency_code": "EUR",
+      "currency_name": "euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nowa Zelandia",
+      "currency_code": "NZD",
+      "currency_name": "dolar nowozelandzki",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "currency_code": "NIO",
+      "currency_name": "cordoba nikaraguańska",
+      "currency_symbol": "C$"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "currency_code": "XOF",
+      "currency_name": "frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "currency_code": "NGN",
+      "currency_name": "naira nigeryjska",
+      "currency_symbol": "₦"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Korea Północna",
+      "currency_code": "KPW",
+      "currency_name": "won północnokoreański",
+      "currency_symbol": "₩"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Macedonia Północna",
+      "currency_code": "MKD",
+      "currency_name": "denar",
+      "currency_symbol": "den"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norwegia",
+      "currency_code": "NOK",
+      "currency_name": "korona norweska",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "currency_code": "OMR",
+      "currency_name": "rial omański",
+      "currency_symbol": "ر.ع."
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "currency_code": "PKR",
+      "currency_name": "rupia pakistańska",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "currency_code": "USD",
+      "currency_name": "dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "currency_code": "PAB",
+      "currency_name": "balboa panamska",
+      "currency_symbol": "B/."
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua-Nowa Gwinea",
+      "currency_code": "PGK",
+      "currency_name": "kina papuaska",
+      "currency_symbol": "K"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paragwaj",
+      "currency_code": "PYG",
+      "currency_name": "guarani paragwajskie",
+      "currency_symbol": "₲"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "currency_code": "PEN",
+      "currency_name": "sol peruwiański",
+      "currency_symbol": "S/ "
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipiny",
+      "currency_code": "PHP",
+      "currency_name": "peso filipińskie",
+      "currency_symbol": "₱"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polska",
+      "currency_code": "PLN",
+      "currency_name": "złoty polski",
+      "currency_symbol": "zł"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalia",
+      "currency_code": "EUR",
+      "currency_name": "euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "currency_code": "QAR",
+      "currency_name": "rial katarski",
+      "currency_symbol": "ر.ق"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Republika Konga",
+      "currency_code": "XAF",
+      "currency_name": "Frank CFA Afryki Środkowej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumunia",
+      "currency_code": "RON",
+      "currency_name": "Lej rumuński",
+      "currency_symbol": "lei"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rosja",
+      "currency_code": "RUB",
+      "currency_name": "Rubel rosyjski",
+      "currency_symbol": "₽"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "currency_code": "RWF",
+      "currency_name": "Frank rwandyjski",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts i Nevis",
+      "currency_code": "XCD",
+      "currency_name": "Dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "currency_code": "XCD",
+      "currency_name": "Dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent i Grenadyny",
+      "currency_code": "XCD",
+      "currency_name": "Dolar wschodniokaraibski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "currency_code": "WST",
+      "currency_name": "Tala samoańska",
+      "currency_symbol": "T"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Wyspy Świętego Tomasza i Książęca",
+      "currency_code": "STN",
+      "currency_name": "Dobra Wysp Świętego Tomasza i Książęcej",
+      "currency_symbol": "Db"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Arabia Saudyjska",
+      "currency_code": "SAR",
+      "currency_name": "Rial saudyjski",
+      "currency_symbol": "ر.س"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "currency_code": "RSD",
+      "currency_name": "Dinar serbski",
+      "currency_symbol": "дин."
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seszele",
+      "currency_code": "SCR",
+      "currency_name": "Rupia seszelska",
+      "currency_symbol": "₨"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "currency_code": "SLE",
+      "currency_name": "Leone",
+      "currency_symbol": "Le"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "currency_code": "SGD",
+      "currency_name": "Dolar singapurski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Słowacja",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Słowenia",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Wyspy Salomona",
+      "currency_code": "SBD",
+      "currency_name": "Dolar Wysp Salomona",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "currency_code": "SOS",
+      "currency_name": "Szyling somalijski",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Republika Południowej Afryki",
+      "currency_code": "ZAR",
+      "currency_name": "Rand południowoafrykański",
+      "currency_symbol": "R"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Korea Południowa",
+      "currency_code": "KRW",
+      "currency_name": "Won południowokoreański",
+      "currency_symbol": "₩"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Sudan Południowy",
+      "currency_code": "SSP",
+      "currency_name": "Funt południowosudański",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Hiszpania",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "currency_code": "LKR",
+      "currency_name": "Rupia lankijska",
+      "currency_symbol": "Rs  රු"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "currency_code": "SDG",
+      "currency_name": "Funt sudański",
+      "currency_symbol": "ج.س"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "currency_code": "SRD",
+      "currency_name": "Dolar surinamski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Szwecja",
+      "currency_code": "SEK",
+      "currency_name": "Korona szwedzka",
+      "currency_symbol": "kr"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Szwajcaria",
+      "currency_code": "CHF",
+      "currency_name": "Frank szwajcarski",
+      "currency_symbol": "Fr."
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Syria",
+      "currency_code": "SYP",
+      "currency_name": "Funt syryjski",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tadżykistan",
+      "currency_code": "TJS",
+      "currency_name": "Somoni tadżyckie",
+      "currency_symbol": "ЅМ"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "currency_code": "TZS",
+      "currency_name": "Szyling tanzański",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Tajlandia",
+      "currency_code": "THB",
+      "currency_name": "Bat tajski",
+      "currency_symbol": "฿"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor Wschodni",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "currency_code": "XOF",
+      "currency_name": "Frank CFA Afryki Zachodniej",
+      "currency_symbol": "Fr"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "currency_code": "TOP",
+      "currency_name": "Paʻanga tonga",
+      "currency_symbol": "T$"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trynidad i Tobago",
+      "currency_code": "TTD",
+      "currency_name": "Dolar Trynidadu i Tobago",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunezja",
+      "currency_code": "TND",
+      "currency_name": "Dinar tunezyjski",
+      "currency_symbol": "د.ت"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turcja",
+      "currency_code": "TRY",
+      "currency_name": "Lira turecka",
+      "currency_symbol": "₺"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "currency_code": "TMT",
+      "currency_name": "Manat turkmeński",
+      "currency_symbol": "m"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "currency_code": "AUD",
+      "currency_name": "Dolar australijski",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "currency_code": "UGX",
+      "currency_name": "Szyling ugandyjski",
+      "currency_symbol": "Sh"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "currency_code": "UAH",
+      "currency_name": "Hrywna ukraińska",
+      "currency_symbol": "₴"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Zjednoczone Emiraty Arabskie",
+      "currency_code": "AED",
+      "currency_name": "Dirham Zjednoczonych Emiratów Arabskich",
+      "currency_symbol": "د.إ"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Wielka Brytania",
+      "currency_code": "GBP",
+      "currency_name": "Funt szterling",
+      "currency_symbol": "£"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Stany Zjednoczone",
+      "currency_code": "USD",
+      "currency_name": "Dolar amerykański",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Urugwaj",
+      "currency_code": "UYU",
+      "currency_name": "Peso urugwajskie",
+      "currency_symbol": "$"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "currency_code": "UZS",
+      "currency_name": "Sum uzbecki",
+      "currency_symbol": "so'm"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "currency_code": "VUV",
+      "currency_name": "Vatu vanuackie",
+      "currency_symbol": "Vt"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Watykan",
+      "currency_code": "EUR",
+      "currency_name": "Euro",
+      "currency_symbol": "€"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Wenezuela",
+      "currency_code": "VES",
+      "currency_name": "Bolívar soberano wenezuelski",
+      "currency_symbol": "Bs.S."
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Wietnam",
+      "currency_code": "VND",
+      "currency_name": "Dong wietnamski",
+      "currency_symbol": "₫"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Jemen",
+      "currency_code": "YER",
+      "currency_name": "Rial jemeński",
+      "currency_symbol": "﷼"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "currency_code": "ZMW",
+      "currency_name": "Kwacha zambijska",
+      "currency_symbol": "ZK"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "currency_code": "ZWL",
+      "currency_name": "Dolar Zimbabwe",
+      "currency_symbol": "$"
+    }
+  ],
+  "meta": {
+    "seo_title": "Lista Walut Krajów - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo: Kompleksowa lista 195 krajów, ich walut, kodów, nazw i symboli. Dostępne w formatach Excel, CSV i PDF dla łatwego użycia.",
+    "title": "Globalny Zbiór Danych Walut Krajów i Kodów",
+    "description": "Ten zbiór danych zawiera kompleksową listę 195 niezależnych krajów, szczegółowo przedstawiającą ich kody ISO Alpha-2/Alpha-3, oficjalne nazwy walut, kody i symbole. Jest to niezbędne źródło dla zastosowań finansowych, e-commerce i międzynarodowej analizy danych.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do kompletnej listy 195 niezależnych krajów z ich szczegółami walutowymi.",
+      "Przeglądaj kody ISO Alpha-2/Alpha-3 wraz z nazwami walut, kodami i symbolami.",
+      "Pobierz niezbędne dane walutowe do zastosowań finansowych, e-commerce lub edukacyjnych.",
+      "Zdobądź aktualne informacje o walutach do analizy rynków globalnych."
+    ],
+    "keywords": [
+      "lista walut krajów excel",
+      "kody walut csv",
+      "dane walut świata",
+      "symbole walut ISO",
+      "informacje o walutach globalnych",
+      "pobierz waluty krajów pdf"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub użyj go w skryptach Python do szybkiego rozwoju aplikacji finansowych lub międzynarodowych systemów płatniczych.",
+      "Wykorzystaj plik **Excel** do analiz finansowych, tworzenia tabel przestawnych do porównywania walut, filtrowania według kraju lub funkcji VLOOKUP do integracji danych.",
+      "Wydrukuj wersję **PDF** jako szybki podręcznik referencyjny offline w biurach, klasach lub do prezentacji na temat globalnej ekonomii i finansów.",
+      "Zintegruj te dane z platformami e-commerce lub oprogramowaniem księgowym, aby wyświetlać dokładne informacje o walutach użytkownikom lub do przetwarzania transakcji."
+    ]
+  },
+  "record_count": 195,
+  "title": "Globalny Zbiór Danych Walut Krajów i Kodów"
+}

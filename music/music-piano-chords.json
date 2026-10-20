@@ -1,0 +1,919 @@
+{
+  "id": "music-piano-chords",
+  "name": "Zestaw Danych Referencyjnych Tabela Akordów Pianino",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "keys",
+      "label": "Keys/Notes",
+      "type": "string"
+    },
+    {
+      "key": "left_hand",
+      "label": "Left Hand",
+      "type": "string"
+    },
+    {
+      "key": "right_hand",
+      "label": "Right Hand",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    },
+    {
+      "key": "semitones",
+      "label": "Semitones",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "C-dur",
+      "type": "Durowy",
+      "keys": "C-E-G",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Cm",
+      "name": "C-moll",
+      "type": "Molowy",
+      "keys": "C-Eb-G",
+      "left_hand": "C-G",
+      "right_hand": "C-Eb-G",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "C7",
+      "name": "C septymowy dominantowy",
+      "type": "Septymowy dominantowy",
+      "keys": "C-E-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-E-G-Bb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C septymowy durowy",
+      "type": "Septymowy durowy",
+      "keys": "C-E-G-B",
+      "left_hand": "C-B",
+      "right_hand": "C-E-G-B",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C septymowy molowy",
+      "type": "Septymowy molowy",
+      "keys": "C-Eb-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "C-Eb-Gb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Cdim7",
+      "name": "C septymowy zmniejszony",
+      "type": "Septymowy zmniejszony",
+      "keys": "C-Eb-Gb-Bbb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb-A",
+      "intervals": "1-b3-b5-bb7",
+      "semitones": "0-3-6-9"
+    },
+    {
+      "chord": "Caug",
+      "name": "C zwiększony",
+      "type": "Zwiększony",
+      "keys": "C-E-G#",
+      "left_hand": "C-G#",
+      "right_hand": "C-E-G#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C sus2",
+      "type": "Zawieszony",
+      "keys": "C-D-G",
+      "left_hand": "C-G",
+      "right_hand": "C-D-G",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C sus4",
+      "type": "Zawieszony",
+      "keys": "C-F-G",
+      "left_hand": "C-G",
+      "right_hand": "C-F-G",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "C6",
+      "name": "C sekstowy durowy",
+      "type": "Sekstowy durowy",
+      "keys": "C-E-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-E-G-A",
+      "intervals": "1-3-5-6",
+      "semitones": "0-4-7-9"
+    },
+    {
+      "chord": "Cm6",
+      "name": "C sekstowy molowy",
+      "type": "Sekstowy molowy",
+      "keys": "C-Eb-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-Eb-G-A",
+      "intervals": "1-b3-5-6",
+      "semitones": "0-3-7-9"
+    },
+    {
+      "chord": "C9",
+      "name": "C nonowy dominantowy",
+      "type": "Nonowy dominantowy",
+      "keys": "C-E-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-Bb-D",
+      "intervals": "1-3-5-b7-9",
+      "semitones": "0-4-7-10-14"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C add9",
+      "type": "Dodana nona",
+      "keys": "C-E-G-D",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G-D",
+      "intervals": "1-3-5-9",
+      "semitones": "0-4-7-14"
+    },
+    {
+      "chord": "D",
+      "name": "D-dur",
+      "type": "Durowy",
+      "keys": "D-F#-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F#-A",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Dm",
+      "name": "D-moll",
+      "type": "Molowy",
+      "keys": "D-F-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F-A",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "D7",
+      "name": "D septymowy dominantowy",
+      "type": "Septymowy dominantowy",
+      "keys": "D-F#-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F#-A-C",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D septymowy durowy",
+      "type": "Septymowy durowy",
+      "keys": "D-F#-A-C#",
+      "left_hand": "D-C#",
+      "right_hand": "D-F#-A-C#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D septymowy molowy",
+      "type": "Septymowy molowy",
+      "keys": "D-F-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F-A-C",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "D-F-Ab",
+      "left_hand": "D-Ab",
+      "right_hand": "D-F-Ab",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Zwiększony",
+      "type": "Zwiększony",
+      "keys": "D-F#-A#",
+      "left_hand": "D-A#",
+      "right_hand": "D-F#-A#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Zawieszony 2",
+      "type": "Zawieszony",
+      "keys": "D-E-A",
+      "left_hand": "D-A",
+      "right_hand": "D-E-A",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Zawieszony 4",
+      "type": "Zawieszony",
+      "keys": "D-G-A",
+      "left_hand": "D-A",
+      "right_hand": "D-G-A",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "E",
+      "name": "E Durowy",
+      "type": "Durowy",
+      "keys": "E-G#-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G#-B",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Em",
+      "name": "E Molowy",
+      "type": "Molowy",
+      "keys": "E-G-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G-B",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "E7",
+      "name": "E Dominantowy 7",
+      "type": "Dominantowy 7",
+      "keys": "E-G#-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G#-B-D",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Durowy 7",
+      "type": "Durowy 7",
+      "keys": "E-G#-B-D#",
+      "left_hand": "E-D#",
+      "right_hand": "E-G#-B-D#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Molowy 7",
+      "type": "Molowy 7",
+      "keys": "E-G-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "E-G-Bb",
+      "left_hand": "E-Bb",
+      "right_hand": "E-G-Bb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Zwiększony",
+      "type": "Zwiększony",
+      "keys": "E-G#-B#",
+      "left_hand": "E-C",
+      "right_hand": "E-G#-C",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Zawieszony 4",
+      "type": "Zawieszony",
+      "keys": "E-A-B",
+      "left_hand": "E-B",
+      "right_hand": "E-A-B",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "F",
+      "name": "F Durowy",
+      "type": "Durowy",
+      "keys": "F-A-C",
+      "left_hand": "F-C",
+      "right_hand": "F-A-C",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Fm",
+      "name": "F Molowy",
+      "type": "Molowy",
+      "keys": "F-Ab-C",
+      "left_hand": "F-C",
+      "right_hand": "F-Ab-C",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F7",
+      "name": "F Dominantowy 7",
+      "type": "Dominantowy 7",
+      "keys": "F-A-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-A-C-Eb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Durowy 7",
+      "type": "Durowy 7",
+      "keys": "F-A-C-E",
+      "left_hand": "F-E",
+      "right_hand": "F-A-C-E",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Molowy 7",
+      "type": "Molowy 7",
+      "keys": "F-Ab-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "F-Ab-Cb",
+      "left_hand": "F-B",
+      "right_hand": "F-Ab-B",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Zwiększony",
+      "type": "Zwiększony",
+      "keys": "F-A-C#",
+      "left_hand": "F-C#",
+      "right_hand": "F-A-C#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "G",
+      "name": "G Durowy",
+      "type": "Durowy",
+      "keys": "G-B-D",
+      "left_hand": "G-D",
+      "right_hand": "G-B-D",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Gm",
+      "name": "G Molowy",
+      "type": "Molowy",
+      "keys": "G-Bb-D",
+      "left_hand": "G-D",
+      "right_hand": "G-Bb-D",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "G7",
+      "name": "G Dominantowy 7",
+      "type": "Dominantowy 7",
+      "keys": "G-B-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-B-D-F",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Durowy 7",
+      "type": "Durowy 7",
+      "keys": "G-B-D-F#",
+      "left_hand": "G-F#",
+      "right_hand": "G-B-D-F#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Molowy 7",
+      "type": "Molowy 7",
+      "keys": "G-Bb-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "G-Bb-Db",
+      "left_hand": "G-Db",
+      "right_hand": "G-Bb-Db",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Zwiększony",
+      "type": "Zwiększony",
+      "keys": "G-B-D#",
+      "left_hand": "G-D#",
+      "right_hand": "G-B-D#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Gsus4",
+      "name": "G Zawieszony 4",
+      "type": "Zawieszony",
+      "keys": "G-C-D",
+      "left_hand": "G-D",
+      "right_hand": "G-C-D",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "A",
+      "name": "A Durowy",
+      "type": "Durowy",
+      "keys": "A-C#-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C#-E",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Am",
+      "name": "A Molowy",
+      "type": "Molowy",
+      "keys": "A-C-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C-E",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "A7",
+      "name": "A Dominantowy 7",
+      "type": "Dominantowy 7",
+      "keys": "A-C#-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C#-E-G",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Durowy 7",
+      "type": "Durowy 7",
+      "keys": "A-C#-E-G#",
+      "left_hand": "A-G#",
+      "right_hand": "A-C#-E-G#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Molowy 7",
+      "type": "Molowy 7",
+      "keys": "A-C-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C-E-G",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "A-C-Eb",
+      "left_hand": "A-Eb",
+      "right_hand": "A-C-Eb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Zwiększony",
+      "type": "Zwiększony",
+      "keys": "A-C#-E#",
+      "left_hand": "A-F",
+      "right_hand": "A-C#-F",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Zawieszony 2",
+      "type": "Zawieszony",
+      "keys": "A-B-E",
+      "left_hand": "A-E",
+      "right_hand": "A-B-E",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Zawieszony 4",
+      "type": "Zawieszony",
+      "keys": "A-D-E",
+      "left_hand": "A-E",
+      "right_hand": "A-D-E",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "B",
+      "name": "B Durowy",
+      "type": "Durowy",
+      "keys": "B-D#-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D#-F#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bm",
+      "name": "B Molowy",
+      "type": "Molowy",
+      "keys": "B-D-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D-F#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominantowy 7",
+      "type": "Dominantowy 7",
+      "keys": "B-D#-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D#-F#-A",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Durowy 7",
+      "type": "Durowy 7",
+      "keys": "B-D#-F#-A#",
+      "left_hand": "B-A#",
+      "right_hand": "B-D#-F#-A#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Molowy 7",
+      "type": "Molowy 7",
+      "keys": "B-D-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D-F#-A",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Bdim",
+      "name": "H Zmniejszony",
+      "type": "Zmniejszony",
+      "keys": "B-D-F",
+      "left_hand": "B-F",
+      "right_hand": "B-D-F",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Baug",
+      "name": "H Zwiększony",
+      "type": "Zwiększony",
+      "keys": "B-D#-Fx",
+      "left_hand": "B-G",
+      "right_hand": "B-D#-G",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "C#",
+      "name": "Cis Durowy",
+      "type": "Durowy",
+      "keys": "C#-E#-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-F-G#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "C#m",
+      "name": "Cis Molowy",
+      "type": "Molowy",
+      "keys": "C#-E-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-E-G#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Db",
+      "name": "Des Durowy",
+      "type": "Durowy",
+      "keys": "Db-F-Ab",
+      "left_hand": "Db-Ab",
+      "right_hand": "Db-F-Ab",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Eb",
+      "name": "Es Durowy",
+      "type": "Durowy",
+      "keys": "Eb-G-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-G-Bb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Ebm",
+      "name": "Es Molowy",
+      "type": "Molowy",
+      "keys": "Eb-Gb-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-Gb-Bb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F#",
+      "name": "Fis Durowy",
+      "type": "Durowy",
+      "keys": "F#-A#-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A#-C#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "F#m",
+      "name": "Fis Molowy",
+      "type": "Molowy",
+      "keys": "F#-A-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A-C#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Gb",
+      "name": "Ges Durowy",
+      "type": "Durowy",
+      "keys": "Gb-Bb-Db",
+      "left_hand": "Gb-Db",
+      "right_hand": "Gb-Bb-Db",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "G#m",
+      "name": "Gis Molowy",
+      "type": "Molowy",
+      "keys": "G#-B-D#",
+      "left_hand": "G#-D#",
+      "right_hand": "G#-B-D#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Ab",
+      "name": "As Durowy",
+      "type": "Durowy",
+      "keys": "Ab-C-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-C-Eb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Abm",
+      "name": "As Molowy",
+      "type": "Molowy",
+      "keys": "Ab-Cb-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-B-Eb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb",
+      "name": "B Durowy",
+      "type": "Durowy",
+      "keys": "Bb-D-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-D-F",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bbm",
+      "name": "B Molowy",
+      "type": "Molowy",
+      "keys": "Bb-Db-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-Db-F",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb7",
+      "name": "B Dominantowy Septymowy",
+      "type": "Dominantowy Septymowy",
+      "keys": "Bb-D-F-Ab",
+      "left_hand": "Bb-Ab",
+      "right_hand": "Bb-D-F-Ab",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj9",
+      "name": "C Durowy Nonowy",
+      "type": "Durowy Nonowy",
+      "keys": "C-E-G-B-D",
+      "left_hand": "C-B",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-3-5-7-9",
+      "semitones": "0-4-7-11-14"
+    },
+    {
+      "chord": "Cm9",
+      "name": "C Molowy Nonowy",
+      "type": "Molowy Nonowy",
+      "keys": "C-Eb-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "Eb-G-Bb-D",
+      "intervals": "1-b3-5-b7-9",
+      "semitones": "0-3-7-10-14"
+    },
+    {
+      "chord": "C11",
+      "name": "C Dominantowy Undecymowy",
+      "type": "Dominantowy Undecymowy",
+      "keys": "C-E-G-Bb-D-F",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-F",
+      "intervals": "1-3-5-b7-9-11",
+      "semitones": "0-4-7-10-14-17"
+    },
+    {
+      "chord": "C13",
+      "name": "C Dominantowy Tercdecymowy",
+      "type": "Dominantowy Tercdecymowy",
+      "keys": "C-E-G-Bb-D-A",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-A",
+      "intervals": "1-3-5-b7-9-13",
+      "semitones": "0-4-7-10-14-21"
+    },
+    {
+      "chord": "Am/E",
+      "name": "A-moll na E",
+      "type": "Akord ukośny",
+      "keys": "E-A-C-E",
+      "left_hand": "E",
+      "right_hand": "A-C-E",
+      "intervals": "5-1-b3-5",
+      "semitones": "7-0-3-7"
+    },
+    {
+      "chord": "C/G",
+      "name": "C-dur na G",
+      "type": "Akord ukośny",
+      "keys": "G-C-E-G",
+      "left_hand": "G",
+      "right_hand": "C-E-G",
+      "intervals": "5-1-3-5",
+      "semitones": "7-0-4-7"
+    },
+    {
+      "chord": "D/F#",
+      "name": "D-dur na Fis",
+      "type": "Akord ukośny",
+      "keys": "F#-D-F#-A",
+      "left_hand": "F#",
+      "right_hand": "D-F#-A",
+      "intervals": "3-1-3-5",
+      "semitones": "4-0-4-7"
+    },
+    {
+      "chord": "G/B",
+      "name": "G-dur na B",
+      "type": "Akord ukośny",
+      "keys": "B-D-G-B",
+      "left_hand": "B",
+      "right_hand": "D-G-B",
+      "intervals": "3-5-1-3",
+      "semitones": "4-7-0-4"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Akordów Pianino - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz darmową Tabelę Akordów Pianino z 84 kluczowymi akordami dla wszystkich poziomów. Dostępna w formatach Excel, CSV i PDF dla muzyków i uczących się.",
+    "title": "Zestaw Danych Referencyjnych Tabela Akordów Pianino",
+    "description": "Ten zestaw danych zawiera kompleksową listę 84 akordów pianina, szczegółowo przedstawiając ich symbole, nazwy, nuty, układy rąk, interwały i struktury półtonów. Idealny dla muzyków, studentów i nauczycieli.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 84 podstawowych akordów pianina ze szczegółowymi informacjami muzycznymi.",
+      "Przeglądaj struktury akordów, nuty, interwały i relacje półtonów dla różnych typów akordów.",
+      "Pobierz gotowe dane akordów do nauki teorii muzyki lub tworzenia aplikacji.",
+      "Wykorzystaj precyzyjne układy rąk (lewej i prawej) do dokładnego grania na pianinie."
+    ],
+    "keywords": [
+      "tabela akordów pianino",
+      "darmowe akordy pianino excel",
+      "zestaw danych teorii muzyki",
+      "układy rąk akordów csv",
+      "nuty pianino interwały pdf",
+      "pobierz 84 akordy pianino"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej aplikacji do nauki muzyki lub bazy danych, aby zasilać dynamiczne wyszukiwanie akordów i ćwiczenia.",
+      "Użyj pliku **Excel** do filtrowania akordów według typu, analizowania wzorców interwałów lub tworzenia spersonalizowanych arkuszy ćwiczeń.",
+      "Wydrukuj wersję **PDF** do szybkiego, offline'owego odniesienia podczas lekcji pianina lub sesji ćwiczeń.",
+      "Wykorzystaj ten zestaw danych do tworzenia narzędzi edukacyjnych dla uczniów pianina, wizualnie ilustrujących budowę akordów i teorię."
+    ]
+  },
+  "record_count": 84,
+  "title": "Zestaw Danych Referencyjnych Tabela Akordów Pianino"
+}

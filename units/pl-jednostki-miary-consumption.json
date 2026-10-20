@@ -1,0 +1,97 @@
+{
+  "id": "pl-jednostki-miary-consumption",
+  "name": "Jednostki miary — kategoria 'consumption' (4)",
+  "title": "Jednostki miary — kategoria 'consumption' (4)",
+  "description": "Jednostki miary kategorii 'consumption' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoria": "consumption",
+      "nazwa": "litry na 100 kilometrów",
+      "skrot": "l/100 km",
+      "forma_waska": "l/100 km",
+      "wzorzec": "{0} litra na 100 kilometrów"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoria": "consumption",
+      "nazwa": "litry na kilometr",
+      "skrot": "l/km",
+      "forma_waska": "l/km",
+      "wzorzec": "{0} litra na kilometr"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoria": "consumption",
+      "nazwa": "mile na galon",
+      "skrot": "mpg",
+      "forma_waska": "mpg",
+      "wzorzec": "{0} mili na galon"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoria": "consumption",
+      "nazwa": "mile na galon angielski",
+      "skrot": "mile/gal ang.",
+      "forma_waska": "mile/gal ang.",
+      "wzorzec": "{0} mili na galon angielski"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'consumption' (4) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'consumption' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 4 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'consumption' (4) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'consumption' (4) — 4 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 4 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

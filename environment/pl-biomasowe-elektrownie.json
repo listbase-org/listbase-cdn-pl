@@ -1,0 +1,310 @@
+{
+  "id": "pl-biomasowe-elektrownie",
+  "name": "Elektrownie na biomasę w Polsce",
+  "title": "Elektrownie na biomasę w Polsce",
+  "description": "Elektrownie na biomasę w Polsce. All 9 solid biomass power generation/storage units in Poland carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of pl-elektrownie (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2518,
+      "name": "Elblag",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "CHP",
+      "country": "Poland",
+      "capacity_mw": 25,
+      "efficiency": "",
+      "date_in": 1928,
+      "date_retrofit": "",
+      "date_out": 2025,
+      "lat": 54.180335,
+      "lon": 19.385749,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-40-1, BEYOND-PL-40-2, BEYOND-PL-40-3; GEM: G100001053792; GPD: WRI1061509"
+    },
+    {
+      "id": 8769,
+      "name": "Polaniec",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "PP",
+      "country": "Poland",
+      "capacity_mw": 225,
+      "efficiency": "",
+      "date_in": 1983,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.437685,
+      "lon": 21.33769,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 19W000000000165Z; GEM: G100000202502"
+    },
+    {
+      "id": 10502,
+      "name": "Bialystok",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 55,
+      "efficiency": "",
+      "date_in": 1978,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 53.147965,
+      "lon": 23.169649,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000202499"
+    },
+    {
+      "id": 12979,
+      "name": "Czestochowa Chp",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 68.4,
+      "efficiency": "",
+      "date_in": 2027,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.79440637,
+      "lon": 19.14242048,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001053802"
+    },
+    {
+      "id": 15861,
+      "name": "Jaworzno",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 105,
+      "efficiency": "",
+      "date_in": 1953,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.214234000000005,
+      "lon": 19.21604,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000202500, G100001007666, G100001017887"
+    },
+    {
+      "id": 16644,
+      "name": "Konin",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 100,
+      "efficiency": "",
+      "date_in": 1958,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 52.283657,
+      "lon": 18.269475,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201417, G100000202501"
+    },
+    {
+      "id": 19979,
+      "name": "Ostroleka Mill",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 37,
+      "efficiency": "",
+      "date_in": 2010,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 53.1005,
+      "lon": 21.6075,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201419"
+    },
+    {
+      "id": 23370,
+      "name": "Swiecie Pulp Mill",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 88,
+      "efficiency": "",
+      "date_in": 2015,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 53.393629,
+      "lon": 18.374224,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201421"
+    },
+    {
+      "id": 23445,
+      "name": "Szczecin",
+      "fueltype": "Solid Biomass",
+      "technology": "",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 68,
+      "efficiency": "",
+      "date_in": 2011,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 53.411271,
+      "lon": 14.585981,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201422"
+    }
+  ],
+  "meta": {
+    "title": "Elektrownie na biomasę w Polsce - Bezpłatne pobieranie",
+    "description": "Elektrownie na biomasę w Polsce. All 9 solid biomass power generation/storage units in Poland carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of pl-elektrownie (zero derivation). Zawiera 9 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Elektrownie na biomasę w Polsce | ListBase",
+    "seo_description": "Pobierz Elektrownie na biomasę w Polsce — 9 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 9 rekordów / 19 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

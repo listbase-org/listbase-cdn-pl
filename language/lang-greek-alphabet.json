@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "Kompletny Zbiór Danych Znaków Alfabetu Greckiego",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Alfa",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "Kąty, przyspieszenie kątowe, stała struktury subtelnej"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Beta",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "Współczynnik beta, cząstki beta, kąty"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Gamma",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "Funkcja gamma, promienie gamma, napięcie powierzchniowe"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Delta",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "Zmiana/różnica, funkcja delta Diraca, kąty"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Epsilon",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "Mała dodatnia wielkość, przenikalność dielektryczna, odkształcenie"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Zeta",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "Funkcja zeta Riemanna, współczynnik tłumienia"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Eta",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "Sprawność, lepkość, funkcja eta Dirichleta"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Theta",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "Kąty, temperatura, wariant notacji dużego O"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "Jota",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "Indeks, mapa inkluzji, najmniejsza wartość dodatnia"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Kappa",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "Krzywizna, przewodnictwo cieplne, spójność"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Lambda",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "Długość fali, wartość własna, rachunek lambda"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Mi",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "Przedrostek mikro-, średnia, współczynnik tarcia"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Ni",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "Częstotliwość, lepkość kinematyczna, współczynnik Poissona"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Xi",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "Zmienna losowa, stopień przemiany"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Omikron",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "Notacja dużego O (rzadko używana z powodu mylenia z 0)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Pi",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "Stała Pi (3.14159...), notacja iloczynowa, zysk"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Ro",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "Gęstość, rezystywność, współczynnik korelacji"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "Sigma",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "Sumowanie, odchylenie standardowe, naprężenie"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Tau",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "Moment obrotowy, naprężenie ścinające, stała czasowa, tau (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Ypsilon",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "Mezon Ypsilon, objętość właściwa"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Fi",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "Złoty podział, strumień magnetyczny, kąty, funkcja falowa"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Chi",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "Rozkład chi-kwadrat, elektroujemność"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Psi",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "Funkcja falowa, funkcja digamma, kąty"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Omega",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "Om (opór elektryczny), prędkość kątowa, kąt bryłowy"
+    }
+  ],
+  "meta": {
+    "seo_title": "Alfabet Grecki - Darmowe Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz kompletny alfabet grecki z 24 znakami, transliteracją, wartościami liczbowymi i zastosowaniem naukowym. Dostępny w Excel, CSV, PDF za darmo.",
+    "title": "Kompletny Zbiór Danych Znaków Alfabetu Greckiego",
+    "description": "Ten zbiór danych zawiera kompleksową listę 24 znaków alfabetu greckiego, w tym ich wielkie i małe litery, nazwy, transliterację, punkty kodowe Unicode, wartości liczbowe oraz powszechne zastosowania w nauce/matematyce.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do wszystkich 24 znaków alfabetu greckiego ze szczegółowymi atrybutami.",
+      "Przeglądaj punkty kodowe Unicode i powszechne zastosowania naukowe/matematyczne.",
+      "Pobierz gotowe do użycia dane do projektów językowych lub STEM.",
+      "Zdobądź kompletny podręcznik referencyjny dla starożytnej greki i współczesnej notacji naukowej."
+    ],
+    "keywords": [
+      "alfabet grecki excel",
+      "litery greckie unicode",
+      "alpha beta gamma zestaw danych",
+      "symbole naukowe csv",
+      "zastosowanie alfabetu greckiego pdf",
+      "pobierz znaki greckie"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do skryptów Python lub baz danych SQL w celu analizy językowej lub mapowania znaków.",
+      "Użyj pliku **Excel** do filtrowania znaków według wartości liczbowej lub powszechnego zastosowania, tworząc szybkie tabele referencyjne do nauki.",
+      "Wydrukuj wersję **PDF** jako przejrzysty, offline'owy wykres referencyjny w klasach, laboratoriach lub do samodzielnej nauki.",
+      "Wykorzystaj te dane do tworzenia aplikacji edukacyjnych, quizów lub narzędzi do nauki alfabetu greckiego i jego zastosowań."
+    ]
+  },
+  "record_count": 24,
+  "title": "Kompletny Zbiór Danych Znaków Alfabetu Greckiego"
+}

@@ -1,0 +1,797 @@
+{
+  "id": "pl-city-counties-prng",
+  "name": "Miasta na prawach powiatu (PRNG, skorygowane)",
+  "title": "Miasta na prawach powiatu (PRNG, skorygowane)",
+  "description": "66 miast na prawach powiatu w Polsce (PRNG), z poprawnym przypisaniem do województwa. Komplementarny i korekcyjny wobec pass-13 pl-city-counties: pass 13 zaklasyfikował 69 miast (3 błędnie — Żyrardów, Wiskitki, Mszczonów — które są zwykłymi miastami w powiecie żyrardowskim). Lista PRNG zawiera 66 prawdziwych miast na prawach powiatu (zgodnie z polskim prawem administracyjnym), każde z poprawnym województwem, gminą i współrzędnymi.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "voivodeship_slug",
+      "label": "Voivodeship Slug",
+      "type": "string"
+    },
+    {
+      "key": "gmina_name",
+      "label": "Gmina Name",
+      "type": "string"
+    },
+    {
+      "key": "gmina_type",
+      "label": "Gmina Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "prng_id",
+      "label": "Prng Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Biała Podlaska",
+      "slug": "biala-podlaska",
+      "voivodeship": "lubelskie",
+      "voivodeship_slug": "lubelskie",
+      "gmina_name": "Biała Podlaska",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.0339,
+      "longitude": 23.1231,
+      "prng_id": 1145
+    },
+    {
+      "name": "Białystok",
+      "slug": "bialystok",
+      "voivodeship": "podlaskie",
+      "voivodeship_slug": "podlaskie",
+      "gmina_name": "Białystok",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.1325,
+      "longitude": 23.1631,
+      "prng_id": 1313
+    },
+    {
+      "name": "Bielsko-Biała",
+      "slug": "bielsko-biala",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Bielsko-Biała",
+      "gmina_type": "gmina miejska",
+      "latitude": 49.8219,
+      "longitude": 19.0444,
+      "prng_id": 1483
+    },
+    {
+      "name": "Bydgoszcz",
+      "slug": "bydgoszcz",
+      "voivodeship": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie",
+      "gmina_name": "Bydgoszcz",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.1253,
+      "longitude": 18.0014,
+      "prng_id": 3862
+    },
+    {
+      "name": "Bytom",
+      "slug": "bytom",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Bytom",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.3469,
+      "longitude": 18.9233,
+      "prng_id": 3941
+    },
+    {
+      "name": "Chełm",
+      "slug": "chelm",
+      "voivodeship": "lubelskie",
+      "voivodeship_slug": "lubelskie",
+      "gmina_name": "Chełm",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.1336,
+      "longitude": 23.4717,
+      "prng_id": 4168
+    },
+    {
+      "name": "Chorzów",
+      "slug": "chorzow",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Chorzów",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2986,
+      "longitude": 18.9547,
+      "prng_id": 4529
+    },
+    {
+      "name": "Częstochowa",
+      "slug": "czestochowa",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Częstochowa",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.8083,
+      "longitude": 19.1272,
+      "prng_id": 5721
+    },
+    {
+      "name": "Dąbrowa Górnicza",
+      "slug": "dabrowa-gornicza",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Dąbrowa Górnicza",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.3214,
+      "longitude": 19.1872,
+      "prng_id": 6165
+    },
+    {
+      "name": "Elbląg",
+      "slug": "elblag",
+      "voivodeship": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie",
+      "gmina_name": "Elbląg",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.1614,
+      "longitude": 19.4097,
+      "prng_id": 7805
+    },
+    {
+      "name": "Gdańsk",
+      "slug": "gdansk",
+      "voivodeship": "pomorskie",
+      "voivodeship_slug": "pomorskie",
+      "gmina_name": "Gdańsk",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.3497,
+      "longitude": 18.6536,
+      "prng_id": 8457
+    },
+    {
+      "name": "Gdynia",
+      "slug": "gdynia",
+      "voivodeship": "pomorskie",
+      "voivodeship_slug": "pomorskie",
+      "gmina_name": "Gdynia",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.5178,
+      "longitude": 18.5425,
+      "prng_id": 8461
+    },
+    {
+      "name": "Gliwice",
+      "slug": "gliwice",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Gliwice",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2939,
+      "longitude": 18.6656,
+      "prng_id": 8703
+    },
+    {
+      "name": "Gorzów Wielkopolski",
+      "slug": "gorzow-wielkopolski",
+      "voivodeship": "lubuskie",
+      "voivodeship_slug": "lubuskie",
+      "gmina_name": "Gorzów Wielkopolski",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.7319,
+      "longitude": 15.2394,
+      "prng_id": 9320
+    },
+    {
+      "name": "Grudziądz",
+      "slug": "grudziadz",
+      "voivodeship": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie",
+      "gmina_name": "Grudziądz",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.4881,
+      "longitude": 18.7531,
+      "prng_id": 10332
+    },
+    {
+      "name": "Jastrzębie-Zdrój",
+      "slug": "jastrzebie-zdroj",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Jastrzębie-Zdrój",
+      "gmina_type": "gmina miejska",
+      "latitude": 49.9503,
+      "longitude": 18.5742,
+      "prng_id": 12098
+    },
+    {
+      "name": "Jaworzno",
+      "slug": "jaworzno",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Jaworzno",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2042,
+      "longitude": 19.2644,
+      "prng_id": 12221
+    },
+    {
+      "name": "Jelenia Góra",
+      "slug": "jelenia-gora",
+      "voivodeship": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie",
+      "gmina_name": "Jelenia Góra",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.9031,
+      "longitude": 15.7347,
+      "prng_id": 12307
+    },
+    {
+      "name": "Kalisz",
+      "slug": "kalisz",
+      "voivodeship": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie",
+      "gmina_name": "Kalisz",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.7611,
+      "longitude": 18.0869,
+      "prng_id": 13031
+    },
+    {
+      "name": "Katowice",
+      "slug": "katowice",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Katowice",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2597,
+      "longitude": 19.0133,
+      "prng_id": 13679
+    },
+    {
+      "name": "Kielce",
+      "slug": "kielce",
+      "voivodeship": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie",
+      "gmina_name": "Kielce",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.8717,
+      "longitude": 20.6314,
+      "prng_id": 14011
+    },
+    {
+      "name": "Konin",
+      "slug": "konin",
+      "voivodeship": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie",
+      "gmina_name": "Konin",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.2281,
+      "longitude": 18.2542,
+      "prng_id": 15114
+    },
+    {
+      "name": "Koszalin",
+      "slug": "koszalin",
+      "voivodeship": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie",
+      "gmina_name": "Koszalin",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.1903,
+      "longitude": 16.1819,
+      "prng_id": 15602
+    },
+    {
+      "name": "Kraków",
+      "slug": "krakow",
+      "voivodeship": "małopolskie",
+      "voivodeship_slug": "malopolskie",
+      "gmina_name": "Kraków",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.0617,
+      "longitude": 19.9375,
+      "prng_id": 16121
+    },
+    {
+      "name": "Krosno",
+      "slug": "krosno",
+      "voivodeship": "podkarpackie",
+      "voivodeship_slug": "podkarpackie",
+      "gmina_name": "Krosno",
+      "gmina_type": "gmina miejska",
+      "latitude": 49.6919,
+      "longitude": 21.7669,
+      "prng_id": 16418
+    },
+    {
+      "name": "Legnica",
+      "slug": "legnica",
+      "voivodeship": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie",
+      "gmina_name": "Legnica",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.2067,
+      "longitude": 16.1628,
+      "prng_id": 17705
+    },
+    {
+      "name": "Leszno",
+      "slug": "leszno",
+      "voivodeship": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie",
+      "gmina_name": "Leszno",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.8433,
+      "longitude": 16.5744,
+      "prng_id": 17877
+    },
+    {
+      "name": "Lublin",
+      "slug": "lublin",
+      "voivodeship": "lubelskie",
+      "voivodeship_slug": "lubelskie",
+      "gmina_name": "Lublin",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.2478,
+      "longitude": 22.5681,
+      "prng_id": 18656
+    },
+    {
+      "name": "Mysłowice",
+      "slug": "myslowice",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Mysłowice",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.245,
+      "longitude": 19.1353,
+      "prng_id": 22452
+    },
+    {
+      "name": "Nowy Sącz",
+      "slug": "nowy-sacz",
+      "voivodeship": "małopolskie",
+      "voivodeship_slug": "malopolskie",
+      "gmina_name": "Nowy Sącz",
+      "gmina_type": "gmina miejska",
+      "latitude": 49.625,
+      "longitude": 20.6906,
+      "prng_id": 24223
+    },
+    {
+      "name": "Olsztyn",
+      "slug": "olsztyn",
+      "voivodeship": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie",
+      "gmina_name": "Olsztyn",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.7789,
+      "longitude": 20.48,
+      "prng_id": 24829
+    },
+    {
+      "name": "Opole",
+      "slug": "opole",
+      "voivodeship": "opolskie",
+      "voivodeship_slug": "opolskie",
+      "gmina_name": "Opole",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.6686,
+      "longitude": 17.9222,
+      "prng_id": 24942
+    },
+    {
+      "name": "Ostrołęka",
+      "slug": "ostroleka",
+      "voivodeship": "mazowieckie",
+      "voivodeship_slug": "mazowieckie",
+      "gmina_name": "Ostrołęka",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.0814,
+      "longitude": 21.5725,
+      "prng_id": 25364
+    },
+    {
+      "name": "Piekary Śląskie",
+      "slug": "piekary-slaskie",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Piekary Śląskie",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.3839,
+      "longitude": 18.9447,
+      "prng_id": 26446
+    },
+    {
+      "name": "Piotrków Trybunalski",
+      "slug": "piotrkow-trybunalski",
+      "voivodeship": "łódzkie",
+      "voivodeship_slug": "lodzkie",
+      "gmina_name": "Piotrków Trybunalski",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.4111,
+      "longitude": 19.6861,
+      "prng_id": 26737
+    },
+    {
+      "name": "Poznań",
+      "slug": "poznan",
+      "voivodeship": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie",
+      "gmina_name": "Poznań",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.4081,
+      "longitude": 16.9333,
+      "prng_id": 28174
+    },
+    {
+      "name": "Przemyśl",
+      "slug": "przemysl",
+      "voivodeship": "podkarpackie",
+      "voivodeship_slug": "podkarpackie",
+      "gmina_name": "Przemyśl",
+      "gmina_type": "gmina miejska",
+      "latitude": 49.7822,
+      "longitude": 22.7753,
+      "prng_id": 28536
+    },
+    {
+      "name": "Płock",
+      "slug": "plock",
+      "voivodeship": "mazowieckie",
+      "voivodeship_slug": "mazowieckie",
+      "gmina_name": "Płock",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.5408,
+      "longitude": 19.6897,
+      "prng_id": 27016
+    },
+    {
+      "name": "Radom",
+      "slug": "radom",
+      "voivodeship": "mazowieckie",
+      "voivodeship_slug": "mazowieckie",
+      "gmina_name": "Radom",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.4008,
+      "longitude": 21.1533,
+      "prng_id": 29226
+    },
+    {
+      "name": "Ruda Śląska",
+      "slug": "ruda-slaska",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Ruda Śląska",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2806,
+      "longitude": 18.8592,
+      "prng_id": 30478
+    },
+    {
+      "name": "Rybnik",
+      "slug": "rybnik",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Rybnik",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.0947,
+      "longitude": 18.5422,
+      "prng_id": 30840
+    },
+    {
+      "name": "Rzeszów",
+      "slug": "rzeszow",
+      "voivodeship": "podkarpackie",
+      "voivodeship_slug": "podkarpackie",
+      "gmina_name": "Rzeszów",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.0411,
+      "longitude": 21.9992,
+      "prng_id": 31137
+    },
+    {
+      "name": "Siedlce",
+      "slug": "siedlce",
+      "voivodeship": "mazowieckie",
+      "voivodeship_slug": "mazowieckie",
+      "gmina_name": "Siedlce",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.1658,
+      "longitude": 22.2769,
+      "prng_id": 31700
+    },
+    {
+      "name": "Siemianowice Śląskie",
+      "slug": "siemianowice-slaskie",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Siemianowice Śląskie",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.3025,
+      "longitude": 19.0336,
+      "prng_id": 31843
+    },
+    {
+      "name": "Skierniewice",
+      "slug": "skierniewice",
+      "voivodeship": "łódzkie",
+      "voivodeship_slug": "lodzkie",
+      "gmina_name": "Skierniewice",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.9586,
+      "longitude": 20.1411,
+      "prng_id": 32246
+    },
+    {
+      "name": "Sopot",
+      "slug": "sopot",
+      "voivodeship": "pomorskie",
+      "voivodeship_slug": "pomorskie",
+      "gmina_name": "Sopot",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.4453,
+      "longitude": 18.5608,
+      "prng_id": 33169
+    },
+    {
+      "name": "Sosnowiec",
+      "slug": "sosnowiec",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Sosnowiec",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2789,
+      "longitude": 19.1294,
+      "prng_id": 33198
+    },
+    {
+      "name": "Suwałki",
+      "slug": "suwalki",
+      "voivodeship": "podlaskie",
+      "voivodeship_slug": "podlaskie",
+      "gmina_name": "Suwałki",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.1019,
+      "longitude": 22.9269,
+      "prng_id": 35260
+    },
+    {
+      "name": "Szczecin",
+      "slug": "szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie",
+      "gmina_name": "Szczecin",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.4319,
+      "longitude": 14.5467,
+      "prng_id": 35470
+    },
+    {
+      "name": "Słupsk",
+      "slug": "slupsk",
+      "voivodeship": "pomorskie",
+      "voivodeship_slug": "pomorskie",
+      "gmina_name": "Słupsk",
+      "gmina_type": "gmina miejska",
+      "latitude": 54.4656,
+      "longitude": 17.0372,
+      "prng_id": 32729
+    },
+    {
+      "name": "Tarnobrzeg",
+      "slug": "tarnobrzeg",
+      "voivodeship": "podkarpackie",
+      "voivodeship_slug": "podkarpackie",
+      "gmina_name": "Tarnobrzeg",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.57,
+      "longitude": 21.6706,
+      "prng_id": 36614
+    },
+    {
+      "name": "Tarnów",
+      "slug": "tarnow",
+      "voivodeship": "małopolskie",
+      "voivodeship_slug": "malopolskie",
+      "gmina_name": "Tarnów",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.0125,
+      "longitude": 20.9883,
+      "prng_id": 36653
+    },
+    {
+      "name": "Toruń",
+      "slug": "torun",
+      "voivodeship": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie",
+      "gmina_name": "Toruń",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.0131,
+      "longitude": 18.6056,
+      "prng_id": 37015
+    },
+    {
+      "name": "Tychy",
+      "slug": "tychy",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Tychy",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.1283,
+      "longitude": 18.9817,
+      "prng_id": 37632
+    },
+    {
+      "name": "Warszawa",
+      "slug": "warszawa",
+      "voivodeship": "mazowieckie",
+      "voivodeship_slug": "mazowieckie",
+      "gmina_name": "Warszawa",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.2319,
+      "longitude": 21.0067,
+      "prng_id": 38197
+    },
+    {
+      "name": "Wałbrzych",
+      "slug": "walbrzych",
+      "voivodeship": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie",
+      "gmina_name": "Wałbrzych",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.7672,
+      "longitude": 16.2828,
+      "prng_id": 38082
+    },
+    {
+      "name": "Wrocław",
+      "slug": "wroclaw",
+      "voivodeship": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie",
+      "gmina_name": "Wrocław",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.11,
+      "longitude": 17.0319,
+      "prng_id": 40681
+    },
+    {
+      "name": "Włocławek",
+      "slug": "wloclawek",
+      "voivodeship": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie",
+      "gmina_name": "Włocławek",
+      "gmina_type": "gmina miejska",
+      "latitude": 52.6572,
+      "longitude": 19.0633,
+      "prng_id": 39567
+    },
+    {
+      "name": "Zabrze",
+      "slug": "zabrze",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Zabrze",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.3,
+      "longitude": 18.7889,
+      "prng_id": 41379
+    },
+    {
+      "name": "Zamość",
+      "slug": "zamosc",
+      "voivodeship": "lubelskie",
+      "voivodeship_slug": "lubelskie",
+      "gmina_name": "Zamość",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.7161,
+      "longitude": 23.2547,
+      "prng_id": 41979
+    },
+    {
+      "name": "Zielona Góra",
+      "slug": "zielona-gora",
+      "voivodeship": "lubuskie",
+      "voivodeship_slug": "lubuskie",
+      "gmina_name": "Zielona Góra",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.9392,
+      "longitude": 15.5039,
+      "prng_id": 42699
+    },
+    {
+      "name": "Łomża",
+      "slug": "lomza",
+      "voivodeship": "podlaskie",
+      "voivodeship_slug": "podlaskie",
+      "gmina_name": "Łomża",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.1786,
+      "longitude": 22.0756,
+      "prng_id": 19559
+    },
+    {
+      "name": "Łódź",
+      "slug": "lodz",
+      "voivodeship": "łódzkie",
+      "voivodeship_slug": "lodzkie",
+      "gmina_name": "Łódź",
+      "gmina_type": "gmina miejska",
+      "latitude": 51.7644,
+      "longitude": 19.4631,
+      "prng_id": 19677
+    },
+    {
+      "name": "Świnoujście",
+      "slug": "swinoujscie",
+      "voivodeship": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie",
+      "gmina_name": "Świnoujście",
+      "gmina_type": "gmina miejska",
+      "latitude": 53.9078,
+      "longitude": 14.2475,
+      "prng_id": 36480
+    },
+    {
+      "name": "Świętochłowice",
+      "slug": "swietochlowice",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Świętochłowice",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.2919,
+      "longitude": 18.915,
+      "prng_id": 36424
+    },
+    {
+      "name": "Żory",
+      "slug": "zory",
+      "voivodeship": "śląskie",
+      "voivodeship_slug": "slaskie",
+      "gmina_name": "Żory",
+      "gmina_type": "gmina miejska",
+      "latitude": 50.0453,
+      "longitude": 18.6942,
+      "prng_id": 43434
+    }
+  ],
+  "meta": {
+    "title": "Miasta na prawach powiatu (PRNG, skorygowane) - Bezpłatne pobieranie",
+    "description": "66 miast na prawach powiatu w Polsce (PRNG), z poprawnym przypisaniem do województwa. Komplementarny i korekcyjny wobec pass-13 pl-city-counties: pass 13 zaklasyfikował 69 miast (3 błędnie — Żyrardów, Wiskitki, Mszczonów — które są zwykłymi miastami w powiecie żyrardowskim). Lista PRNG zawiera 66 prawdziwych miast na prawach powiatu (zgodnie z polskim prawem administracyjnym), każde z poprawnym województwem, gminą i współrzędnymi. Zawiera 66 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta na prawach powiatu (PRNG, skorygowane) | ListBase",
+    "seo_description": "Pobierz Miasta na prawach powiatu (PRNG, skorygowane) — 66 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 66 rekordów / 9 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

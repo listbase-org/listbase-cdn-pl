@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Kompleksowy Zestaw Danych Tabela Zgodności Grup Krwi",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Typy Powszechne"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Typy Powszechne"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Typy Powszechne"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Typy Rzadkie"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "Wszystkie typy (Uniwersalny Biorca)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Typy Rzadkie"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Typy Rzadkie"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Typy Powszechne"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "Wszystkie typy (Uniwersalny Dawca)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Uniwersalny Dawca"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "Wszystkie typy (Uniwersalny Dawca Osocza)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Osocze"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Tylko biorcy Rh+",
+      "can_receive_from": "Zarówno Rh+, jak i Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Informacje o czynniku Rh"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Zarówno Rh+, jak i Rh-",
+      "can_receive_from": "Tylko Rh-",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Informacje o czynniku Rh"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Zgodności Grup Krwi - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie zestaw danych Tabela Zgodności Grup Krwi. Poznaj grupy ABO, czynnik Rh i zasady dawstwa dla 11 typów krwi. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Kompleksowy Zestaw Danych Tabela Zgodności Grup Krwi",
+    "description": "Ten zestaw danych zawiera szczegółową tabelę zgodności dla wszystkich głównych grup krwi, w tym grupę ABO, czynnik Rh, zasady dawstwa/odbioru, odsetki populacji, antygeny i przeciwciała. Obejmuje 11 unikalnych wpisów typów krwi.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do krytycznych informacji na temat dawstwa i zgodności przetoczeń krwi.",
+      "Poznaj odsetki populacji i szczegóły naukowe dla 11 typów krwi.",
+      "Pobierz kompleksowe dane dotyczące antygenów, przeciwciał i klasyfikacji ABO/Rh.",
+      "Wykorzystaj tę tabelę do celów edukacyjnych lub jako odniesienie w opiece zdrowotnej."
+    ],
+    "keywords": [
+      "tabela grup krwi",
+      "zgodność krwi",
+      "zasady dawstwa krwi",
+      "czynnik Rh ABO",
+      "grupy krwi excel",
+      "pobierz tabelę krwi pdf"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Pythona w celu badań medycznych lub tworzenia aplikacji zdrowotnych.",
+      "Użyj pliku **Excel** do filtrowania grup krwi, tworzenia tabel przestawnych i analizowania odsetków populacji do raportowania zdrowia publicznego lub prezentacji.",
+      "Wydrukuj wersję **PDF** dla łatwego dostępu w gabinetach lekarskich, salach lekcyjnych lub jako szybki przewodnik referencyjny do osobistego zrozumienia.",
+      "Wykorzystaj ten kompleksowy zestaw danych do edukowania pacjentów, studentów lub personelu na temat złożoności przetoczeń krwi i zgodności."
+    ]
+  },
+  "record_count": 11,
+  "title": "Kompleksowy Zestaw Danych Tabela Zgodności Grup Krwi"
+}

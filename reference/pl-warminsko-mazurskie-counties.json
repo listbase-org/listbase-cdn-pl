@@ -1,0 +1,136 @@
+{
+  "id": "pl-warminsko-mazurskie-counties",
+  "name": "Województwo warmińsko-mazurskie — powiaty",
+  "title": "Województwo warmińsko-mazurskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie warmińsko-mazurskim (województwo warmińsko-mazurskie) — 19 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the warmińsko-mazurskie voivodeship — 19 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 247,
+      "name": "bartoszycki",
+      "slug": "bartoszycki"
+    },
+    {
+      "county_id": 248,
+      "name": "braniewski",
+      "slug": "braniewski"
+    },
+    {
+      "county_id": 249,
+      "name": "działdowski",
+      "slug": "dzialdowski"
+    },
+    {
+      "county_id": 250,
+      "name": "elbląski",
+      "slug": "elblaski"
+    },
+    {
+      "county_id": 251,
+      "name": "ełcki",
+      "slug": "elcki"
+    },
+    {
+      "county_id": 252,
+      "name": "giżycki",
+      "slug": "gizycki"
+    },
+    {
+      "county_id": 264,
+      "name": "gołdapski",
+      "slug": "goldapski"
+    },
+    {
+      "county_id": 253,
+      "name": "iławski",
+      "slug": "ilawski"
+    },
+    {
+      "county_id": 254,
+      "name": "kętrzyński",
+      "slug": "ketrzynski"
+    },
+    {
+      "county_id": 255,
+      "name": "lidzbarski",
+      "slug": "lidzbarski"
+    },
+    {
+      "county_id": 256,
+      "name": "mrągowski",
+      "slug": "mragowski"
+    },
+    {
+      "county_id": 257,
+      "name": "nidzicki",
+      "slug": "nidzicki"
+    },
+    {
+      "county_id": 258,
+      "name": "nowomiejski",
+      "slug": "nowomiejski"
+    },
+    {
+      "county_id": 259,
+      "name": "olecki",
+      "slug": "olecki"
+    },
+    {
+      "county_id": 260,
+      "name": "olsztyński",
+      "slug": "olsztynski"
+    },
+    {
+      "county_id": 261,
+      "name": "ostródzki",
+      "slug": "ostrodzki"
+    },
+    {
+      "county_id": 262,
+      "name": "piski",
+      "slug": "piski"
+    },
+    {
+      "county_id": 263,
+      "name": "szczycieński",
+      "slug": "szczycienski"
+    },
+    {
+      "county_id": 265,
+      "name": "węgorzewski",
+      "slug": "wegorzewski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo warmińsko-mazurskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie warmińsko-mazurskim (województwo warmińsko-mazurskie) — 19 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the warmińsko-mazurskie voivodeship — 19 entries. Excludes city-counties (see pl-city-counties). Zawiera 19 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo warmińsko-mazurskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo warmińsko-mazurskie — powiaty — 19 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 19 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

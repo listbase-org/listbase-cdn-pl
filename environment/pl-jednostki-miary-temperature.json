@@ -1,0 +1,106 @@
+{
+  "id": "pl-jednostki-miary-temperature",
+  "name": "Jednostki miary — kategoria 'temperature' (5)",
+  "title": "Jednostki miary — kategoria 'temperature' (5)",
+  "description": "Jednostki miary kategorii 'temperature' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategoria": "temperature",
+      "nazwa": "stopnie Celsjusza",
+      "skrot": "°C",
+      "forma_waska": "°C",
+      "wzorzec": "{0} stopnia Celsjusza"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategoria": "temperature",
+      "nazwa": "stopnie Fahrenheita",
+      "skrot": "°F",
+      "forma_waska": "°F",
+      "wzorzec": "{0} stopnia Fahrenheita"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategoria": "temperature",
+      "nazwa": "stopnie",
+      "skrot": "°",
+      "forma_waska": "°",
+      "wzorzec": "{0} stopnia"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategoria": "temperature",
+      "nazwa": "kelwiny",
+      "skrot": "K",
+      "forma_waska": "K",
+      "wzorzec": "{0} kelwina"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategoria": "temperature",
+      "nazwa": "°R",
+      "skrot": "°R",
+      "forma_waska": "°R",
+      "wzorzec": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'temperature' (5) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'temperature' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 5 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'temperature' (5) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'temperature' (5) — 5 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 5 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

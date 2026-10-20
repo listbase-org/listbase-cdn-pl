@@ -1,0 +1,256 @@
+{
+  "id": "pl-strefy-czasowe-africa",
+  "name": "Strefy czasowe — Africa (25)",
+  "title": "Strefy czasowe — Africa (25)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Africa/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "region": "Africa",
+      "miasto": "Abidżan",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "region": "Africa",
+      "miasto": "Akra",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "miasto": "Addis Abeba",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "miasto": "Algier",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "miasto": "Asmara",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bangui",
+      "region": "Africa",
+      "miasto": "Bangi",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Banjul",
+      "region": "Africa",
+      "miasto": "Bandżul",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Bujumbura",
+      "region": "Africa",
+      "miasto": "Bużumbura",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "miasto": "Kair",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Conakry",
+      "region": "Africa",
+      "miasto": "Konakry",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Djibouti",
+      "region": "Africa",
+      "miasto": "Dżibuti",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Douala",
+      "region": "Africa",
+      "miasto": "Duala",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "miasto": "Al-Ujun",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Juba",
+      "region": "Africa",
+      "miasto": "Dżuba",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Khartoum",
+      "region": "Africa",
+      "miasto": "Chartum",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Kinshasa",
+      "region": "Africa",
+      "miasto": "Kinszasa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "miasto": "Lomé",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Mogadishu",
+      "region": "Africa",
+      "miasto": "Mogadiszu",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "miasto": "Ndżamena",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Nouakchott",
+      "region": "Africa",
+      "miasto": "Nawakszut",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/Ouagadougou",
+      "region": "Africa",
+      "miasto": "Wagadugu",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Porto-Novo",
+      "region": "Africa",
+      "miasto": "Porto Novo",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "miasto": "São Tomé",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Tripoli",
+      "region": "Africa",
+      "miasto": "Trypolis",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Windhoek",
+      "region": "Africa",
+      "miasto": "Windhuk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Africa (25) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Africa/', z nazwami po polsku. Zawiera 25 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Africa (25) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Africa (25) — 25 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 25 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

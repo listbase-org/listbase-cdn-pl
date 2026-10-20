@@ -1,0 +1,226 @@
+{
+  "id": "pl-mazowieckie-counties",
+  "name": "Województwo mazowieckie — powiaty",
+  "title": "Województwo mazowieckie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie mazowieckim (województwo mazowieckie) — 37 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the mazowieckie voivodeship — 37 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 118,
+      "name": "białobrzeski",
+      "slug": "bialobrzeski"
+    },
+    {
+      "county_id": 119,
+      "name": "ciechanowski",
+      "slug": "ciechanowski"
+    },
+    {
+      "county_id": 120,
+      "name": "garwoliński",
+      "slug": "garwolinski"
+    },
+    {
+      "county_id": 121,
+      "name": "gostyniński",
+      "slug": "gostyninski"
+    },
+    {
+      "county_id": 122,
+      "name": "grodziski",
+      "slug": "grodziski"
+    },
+    {
+      "county_id": 123,
+      "name": "grójecki",
+      "slug": "grojecki"
+    },
+    {
+      "county_id": 124,
+      "name": "kozienicki",
+      "slug": "kozienicki"
+    },
+    {
+      "county_id": 125,
+      "name": "legionowski",
+      "slug": "legionowski"
+    },
+    {
+      "county_id": 126,
+      "name": "lipski",
+      "slug": "lipski"
+    },
+    {
+      "county_id": 128,
+      "name": "makowski",
+      "slug": "makowski"
+    },
+    {
+      "county_id": 129,
+      "name": "miński",
+      "slug": "minski"
+    },
+    {
+      "county_id": 130,
+      "name": "mławski",
+      "slug": "mlawski"
+    },
+    {
+      "county_id": 131,
+      "name": "nowodworski",
+      "slug": "nowodworski"
+    },
+    {
+      "county_id": 133,
+      "name": "ostrowski",
+      "slug": "ostrowski"
+    },
+    {
+      "county_id": 132,
+      "name": "ostrołęcki",
+      "slug": "ostrolecki"
+    },
+    {
+      "county_id": 134,
+      "name": "otwocki",
+      "slug": "otwocki"
+    },
+    {
+      "county_id": 135,
+      "name": "piaseczyński",
+      "slug": "piaseczynski"
+    },
+    {
+      "county_id": 138,
+      "name": "pruszkowski",
+      "slug": "pruszkowski"
+    },
+    {
+      "county_id": 139,
+      "name": "przasnyski",
+      "slug": "przasnyski"
+    },
+    {
+      "county_id": 140,
+      "name": "przysuski",
+      "slug": "przysuski"
+    },
+    {
+      "county_id": 141,
+      "name": "pułtuski",
+      "slug": "pultuski"
+    },
+    {
+      "county_id": 136,
+      "name": "płocki",
+      "slug": "plocki"
+    },
+    {
+      "county_id": 137,
+      "name": "płoński",
+      "slug": "plonski"
+    },
+    {
+      "county_id": 142,
+      "name": "radomski",
+      "slug": "radomski"
+    },
+    {
+      "county_id": 143,
+      "name": "siedlecki",
+      "slug": "siedlecki"
+    },
+    {
+      "county_id": 144,
+      "name": "sierpecki",
+      "slug": "sierpecki"
+    },
+    {
+      "county_id": 145,
+      "name": "sochaczewski",
+      "slug": "sochaczewski"
+    },
+    {
+      "county_id": 146,
+      "name": "sokołowski",
+      "slug": "sokolowski"
+    },
+    {
+      "county_id": 147,
+      "name": "szydłowiecki",
+      "slug": "szydlowiecki"
+    },
+    {
+      "county_id": 148,
+      "name": "warszawski zachodni",
+      "slug": "warszawski-zachodni"
+    },
+    {
+      "county_id": 150,
+      "name": "wołomiński",
+      "slug": "wolominski"
+    },
+    {
+      "county_id": 151,
+      "name": "wyszkowski",
+      "slug": "wyszkowski"
+    },
+    {
+      "county_id": 149,
+      "name": "węgrowski",
+      "slug": "wegrowski"
+    },
+    {
+      "county_id": 152,
+      "name": "zwoleński",
+      "slug": "zwolenski"
+    },
+    {
+      "county_id": 127,
+      "name": "łosicki",
+      "slug": "losicki"
+    },
+    {
+      "county_id": 153,
+      "name": "żuromiński",
+      "slug": "zurominski"
+    },
+    {
+      "county_id": 154,
+      "name": "żyrardowski",
+      "slug": "zyrardowski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo mazowieckie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie mazowieckim (województwo mazowieckie) — 37 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the mazowieckie voivodeship — 37 entries. Excludes city-counties (see pl-city-counties). Zawiera 37 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo mazowieckie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo mazowieckie — powiaty — 37 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 37 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

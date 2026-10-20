@@ -1,0 +1,426 @@
+{
+  "id": "units-clothing-sizes",
+  "name": "Clothing Size Standards Dataset",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "size_letter",
+      "label": "Size (Letter)",
+      "type": "string"
+    },
+    {
+      "key": "size_number",
+      "label": "Size (Number)",
+      "type": "number"
+    },
+    {
+      "key": "chest_cm",
+      "label": "Chest (cm)",
+      "type": "string"
+    },
+    {
+      "key": "chest_inch",
+      "label": "Chest (in)",
+      "type": "string"
+    },
+    {
+      "key": "waist_cm",
+      "label": "Waist (cm)",
+      "type": "string"
+    },
+    {
+      "key": "waist_inch",
+      "label": "Waist (in)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Góra męska",
+      "size_letter": "XS",
+      "size_number": 34,
+      "chest_cm": "81-86",
+      "chest_inch": "32-34",
+      "waist_cm": "66-71",
+      "waist_inch": "26-28",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "S",
+      "size_number": 36,
+      "chest_cm": "86-91",
+      "chest_inch": "34-36",
+      "waist_cm": "71-76",
+      "waist_inch": "28-30",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "M",
+      "size_number": 38,
+      "chest_cm": "91-97",
+      "chest_inch": "36-38",
+      "waist_cm": "76-81",
+      "waist_inch": "30-32",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "L",
+      "size_number": 40,
+      "chest_cm": "97-102",
+      "chest_inch": "38-40",
+      "waist_cm": "81-86",
+      "waist_inch": "32-34",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "XL",
+      "size_number": 42,
+      "chest_cm": "102-107",
+      "chest_inch": "40-42",
+      "waist_cm": "86-91",
+      "waist_inch": "34-36",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "2XL",
+      "size_number": 44,
+      "chest_cm": "107-112",
+      "chest_inch": "42-44",
+      "waist_cm": "91-97",
+      "waist_inch": "36-38",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "3XL",
+      "size_number": 46,
+      "chest_cm": "112-117",
+      "chest_inch": "44-46",
+      "waist_cm": "97-102",
+      "waist_inch": "38-40",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra męska",
+      "size_letter": "4XL",
+      "size_number": 48,
+      "chest_cm": "117-122",
+      "chest_inch": "46-48",
+      "waist_cm": "102-107",
+      "waist_inch": "40-42",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "XS",
+      "size_number": 28,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "71-74",
+      "waist_inch": "28-29",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "S",
+      "size_number": 30,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "76-79",
+      "waist_inch": "30-31",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "M",
+      "size_number": 32,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "81-84",
+      "waist_inch": "32-33",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "L",
+      "size_number": 34,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "86-89",
+      "waist_inch": "34-35",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "XL",
+      "size_number": 36,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "91-94",
+      "waist_inch": "36-37",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "2XL",
+      "size_number": 38,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "97-99",
+      "waist_inch": "38-39",
+      "region": "US/UK"
+    },
+    {
+      "category": "Spodnie męskie",
+      "size_letter": "3XL",
+      "size_number": 40,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "102-104",
+      "waist_inch": "40-41",
+      "region": "US/UK"
+    },
+    {
+      "category": "Góra damska",
+      "size_letter": "XS",
+      "size_number": 2,
+      "chest_cm": "76-81",
+      "chest_inch": "30-32",
+      "waist_cm": "58-61",
+      "waist_inch": "23-24",
+      "region": "US"
+    },
+    {
+      "category": "Góra damska",
+      "size_letter": "S",
+      "size_number": 4,
+      "chest_cm": "81-86",
+      "chest_inch": "32-34",
+      "waist_cm": "61-66",
+      "waist_inch": "24-26",
+      "region": "US"
+    },
+    {
+      "category": "Góra damska",
+      "size_letter": "M",
+      "size_number": 8,
+      "chest_cm": "86-91",
+      "chest_inch": "34-36",
+      "waist_cm": "66-71",
+      "waist_inch": "26-28",
+      "region": "US"
+    },
+    {
+      "category": "Góra damska",
+      "size_letter": "L",
+      "size_number": 12,
+      "chest_cm": "91-97",
+      "chest_inch": "36-38",
+      "waist_cm": "71-76",
+      "waist_inch": "28-30",
+      "region": "US"
+    },
+    {
+      "category": "Góra damska",
+      "size_letter": "XL",
+      "size_number": 14,
+      "chest_cm": "97-102",
+      "chest_inch": "38-40",
+      "waist_cm": "76-81",
+      "waist_inch": "30-32",
+      "region": "US"
+    },
+    {
+      "category": "Góra Damska",
+      "size_letter": "2XL",
+      "size_number": 16,
+      "chest_cm": "102-107",
+      "chest_inch": "40-42",
+      "waist_cm": "81-86",
+      "waist_inch": "32-34",
+      "region": "US"
+    },
+    {
+      "category": "Góra Damska",
+      "size_letter": "3XL",
+      "size_number": 18,
+      "chest_cm": "107-114",
+      "chest_inch": "42-45",
+      "waist_cm": "86-94",
+      "waist_inch": "34-37",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "XS",
+      "size_number": 2,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "61-64",
+      "waist_inch": "24-25",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "S",
+      "size_number": 4,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "64-66",
+      "waist_inch": "25-26",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "M",
+      "size_number": 8,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "69-71",
+      "waist_inch": "27-28",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "L",
+      "size_number": 12,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "74-76",
+      "waist_inch": "29-30",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "XL",
+      "size_number": 14,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "79-81",
+      "waist_inch": "31-32",
+      "region": "US"
+    },
+    {
+      "category": "Spodnie Damskie",
+      "size_letter": "2XL",
+      "size_number": 16,
+      "chest_cm": "-",
+      "chest_inch": "-",
+      "waist_cm": "84-86",
+      "waist_inch": "33-34",
+      "region": "US"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "XS",
+      "size_number": 44,
+      "chest_cm": "81-86",
+      "chest_inch": "32-34",
+      "waist_cm": "66-71",
+      "waist_inch": "26-28",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "S",
+      "size_number": 46,
+      "chest_cm": "86-91",
+      "chest_inch": "34-36",
+      "waist_cm": "71-76",
+      "waist_inch": "28-30",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "M",
+      "size_number": 48,
+      "chest_cm": "91-97",
+      "chest_inch": "36-38",
+      "waist_cm": "76-81",
+      "waist_inch": "30-32",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "L",
+      "size_number": 50,
+      "chest_cm": "97-102",
+      "chest_inch": "38-40",
+      "waist_cm": "81-86",
+      "waist_inch": "32-34",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "XL",
+      "size_number": 52,
+      "chest_cm": "102-107",
+      "chest_inch": "40-42",
+      "waist_cm": "86-91",
+      "waist_inch": "34-36",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "2XL",
+      "size_number": 54,
+      "chest_cm": "107-112",
+      "chest_inch": "42-44",
+      "waist_cm": "91-97",
+      "waist_inch": "36-38",
+      "region": "EU"
+    },
+    {
+      "category": "Odpowiednik UE",
+      "size_letter": "3XL",
+      "size_number": 56,
+      "chest_cm": "112-117",
+      "chest_inch": "44-46",
+      "waist_cm": "97-102",
+      "waist_inch": "38-40",
+      "region": "EU"
+    }
+  ],
+  "meta": {
+    "seo_title": "Clothing Size Standards - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download Clothing Size Standards with 35 records. Available in Excel, CSV, and PDF formats.",
+    "title": "Clothing Size Standards Dataset",
+    "description": "Clothing Size Standards containing 35 records.",
+    "key_takeaways": [
+      "Access 35 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "clothing size standards excel",
+      "clothing size standards csv download",
+      "clothing size standards data",
+      "clothing size standards list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 35,
+  "title": "Clothing Size Standards Dataset"
+}

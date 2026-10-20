@@ -1,0 +1,96 @@
+{
+  "id": "pl-obszary-chronione-cdda-1930s",
+  "name": "Polska — obszary chronione ustanowione w latach 1930–1939 (CDDA)",
+  "title": "Polska — obszary chronione ustanowione w latach 1930–1939 (CDDA)",
+  "description": "3 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1930–1939 (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 854,
+      "nazwa": "Białowieski Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1932,
+      "srodek_lat": 52.76441,
+      "srodek_lon": 23.86589,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11389,
+      "nazwa": "Kępa Redłowska",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1938,
+      "srodek_lat": 54.49061,
+      "srodek_lon": 18.56123,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 857,
+      "nazwa": "Pieniński Park Narodowy",
+      "kategoria_z_nazwy": "park narodowy",
+      "rok_ustanowienia": 1932,
+      "srodek_lat": 49.4209,
+      "srodek_lon": 20.38789,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — obszary chronione ustanowione w latach 1930–1939 (CDDA) - Bezpłatne pobieranie",
+    "description": "3 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1930–1939 (podzbiór pl-obszary-chronione-cdda). Zawiera 3 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — obszary chronione ustanowione w latach 1930–1939 (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — obszary chronione ustanowione w latach 1930–1939 (CDDA) — 3 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 3 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

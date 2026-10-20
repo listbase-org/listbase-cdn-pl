@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Zbiór Danych Uniwersalnych Skrótów Klawiszowych dla Windows i macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Kopiuj",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Wytnij",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Wklej",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Cofnij",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Ponów",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Zaznacz wszystko",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Zapisz",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Znajdź",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Znajdź i zamień",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Drukuj",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Nowy",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Otwórz",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Zamknij okno/kartę",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Zamknij aplikację",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Pomoc",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Uniwersalne",
+      "application": "All"
+    },
+    {
+      "action": "Pokaż pulpit",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "Systemowe",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Otwórz Eksplorator plików/Komputer",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "Systemowe",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Zablokuj ekran",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "Systemowe",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Widok zadań/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "Systemowe",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Przełącz aplikacje",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "Systemowe",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Zrzut ekranu wyboru",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Pełny zrzut ekranu",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Menedżer zadań/Wymuś zamknięcie",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Uruchom/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Ustawienia/Preferencje",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "System",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Nowa karta",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Ponownie otwórz zamkniętą kartę",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Następna karta",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Poprzednia karta",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Skup adres na pasku adresu",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Odśwież stronę",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Twarde odświeżenie (Wyczyść pamięć podręczną)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Dodaj stronę do zakładek",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Przełącz pasek zakładek",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Pobrane",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Historia",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Nowe okno incognito",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Przeglądarka",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "Nowe okno prywatne",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Przeglądarka",
+      "application": "Firefox"
+    },
+    {
+      "action": "Narzędzia dla programistów",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Wyświetl źródło strony",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Przeglądarka",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Paleta poleceń",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Szybkie otwieranie pliku",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Przełącz Terminal",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Przełącz Pasek boczny",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Przełącz komentarz liniowy",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Usuń linię",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Przenieś linię w górę/w dół",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Zaznacz następne wystąpienie",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Zaznacz wszystkie wystąpienia",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Idź do linii",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Zmień nazwę symbolu",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Idź do definicji",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Szukaj w plikach",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Dodaj komentarz liniowy",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Usuń komentarz liniowy",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Edytor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Przenieś według słowa",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Zaznacz według słowa",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Idź na początek/koniec linii",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Idź na początek/koniec dokumentu",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Usuń poprzednie słowo",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Usuń słowo po",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Tekst",
+      "application": "All"
+    },
+    {
+      "action": "Pogrubienie",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Tekst",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Kursywa",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Tekst",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Podkreślenie",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Tekst",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Wstaw bieżącą datę",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Wstaw bieżącą godzinę",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Zaznacz kolumnę",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Zaznacz wiersz",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Wstaw komórki",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Usuń komórki",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Przełącz odwołanie bezwzględne",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Pokaż formuły",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Arkusz kalkulacyjny",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Anuluj/Przerwij",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Wyczyść ekran",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Autouzupełnianie",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Historia poleceń",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Terminal",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Wyszukaj w historii poleceń",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Terminal",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Skróty Klawiszowe - Darmowy Pobierz (Excel/CSV/PDF)",
+    "seo_description": "Pobierz 77 popularnych skrótów klawiszowych dla Windows i macOS za darmo. Dostępne w formatach Excel, CSV, PDF, by zwiększyć produktywność.",
+    "title": "Zbiór Danych Uniwersalnych Skrótów Klawiszowych dla Windows i macOS",
+    "description": "Ten zbiór danych zawiera kompleksową listę 77 popularnych skrótów klawiszowych dla systemów Windows i macOS, skategoryzowanych według działania i aplikacji. Zwiększ swoją produktywność dzięki szybkiemu dostępowi do podstawowych poleceń.",
+    "key_takeaways": [
+      "Dostęp do 77 niezbędnych skrótów klawiszowych dla Windows i macOS.",
+      "Odkryj uniwersalne i specyficzne dla aplikacji polecenia zwiększające produktywność.",
+      "Pobierz kompleksowe listy skrótów w wielu wygodnych formatach.",
+      "Popraw efektywność pracy, opanowując typowe operacje komputerowe."
+    ],
+    "keywords": [
+      "skróty klawiszowe excel",
+      "skróty windows csv",
+      "skróty macOS pdf",
+      "lista popularnych skrótów",
+      "pobierz skróty produktywność",
+      "hotkeys komputer"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej niestandardowej aplikacji lub platformy edukacyjnej, aby zintegrować odniesienia do skrótów dla deweloperów.",
+      "Użyj pliku **Excel** do filtrowania i sortowania skrótów według kategorii, aplikacji lub platformy, aby tworzyć spersonalizowane ściągawki i materiały szkoleniowe.",
+      "Wydrukuj wersję **PDF** jako podręczny przewodnik referencyjny na biurko lub do rozpowszechniania na warsztatach edukacyjnych z zakresu obsługi komputera.",
+      "Wykorzystaj te dane do budowania interaktywnych quizów lub narzędzi pomocniczych, które uczą użytkowników efektywnej nawigacji i wykonywania poleceń."
+    ]
+  },
+  "record_count": 77,
+  "title": "Zbiór Danych Uniwersalnych Skrótów Klawiszowych dla Windows i macOS"
+}

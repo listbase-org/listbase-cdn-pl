@@ -1,0 +1,80 @@
+{
+  "id": "pl-strefy-czasowe-antarctica",
+  "name": "Strefy czasowe — Antarctica (3)",
+  "title": "Strefy czasowe — Antarctica (3)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Antarctica/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/DumontDUrville",
+      "region": "Antarctica",
+      "miasto": "Dumont-d’Urville",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Syowa",
+      "region": "Antarctica",
+      "miasto": "Showa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Antarctica/Vostok",
+      "region": "Antarctica",
+      "miasto": "Wostok",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Antarctica (3) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Antarctica/', z nazwami po polsku. Zawiera 3 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Antarctica (3) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Antarctica (3) — 3 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 3 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "Zbiór Danych Referencyjnych Skali pH i Właściwości Chemicznych",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Kwas Akumulatorowy (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Silny Kwas",
+      "nature": "Silnie Żrący"
+    },
+    {
+      "substance": "Kwas Solny (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Silny Kwas",
+      "nature": "Silnie Żrący"
+    },
+    {
+      "substance": "Kwas Żołądkowy",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Silny Kwas",
+      "nature": "Żrący"
+    },
+    {
+      "substance": "Sok Cytrynowy",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Silny Kwas",
+      "nature": "Kwaśny"
+    },
+    {
+      "substance": "Ocet",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Silny Kwas",
+      "nature": "Kwaśny"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Silny Kwas",
+      "nature": "Kwaśny"
+    },
+    {
+      "substance": "Sok Pomarańczowy",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Słaby Kwas",
+      "nature": "Lekko Kwaśny"
+    },
+    {
+      "substance": "Sok Pomidorowy",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Słaby Kwas",
+      "nature": "Lekko Kwaśny"
+    },
+    {
+      "substance": "Piwo",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Słaby Kwas",
+      "nature": "Lekko Kwaśny"
+    },
+    {
+      "substance": "Kawa (Czarna)",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Słaby Kwas",
+      "nature": "Lekko Kwaśny"
+    },
+    {
+      "substance": "Kwaśny Deszcz",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Słaby Kwas",
+      "nature": "Środowiskowy"
+    },
+    {
+      "substance": "Banany",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Słaby Kwas",
+      "nature": "Lekko Kwaśny"
+    },
+    {
+      "substance": "Zwykły Deszcz",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Słaby Kwas",
+      "nature": "Naturalny"
+    },
+    {
+      "substance": "Mleko",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Słaby Kwas",
+      "nature": "Blisko Obojętny"
+    },
+    {
+      "substance": "Ślina",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Słaby Kwas",
+      "nature": "Blisko Obojętny"
+    },
+    {
+      "substance": "Woda Czysta",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Obojętny",
+      "nature": "Obojętny"
+    },
+    {
+      "substance": "Krew",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Obojętny",
+      "nature": "Lekko Zasadowy"
+    },
+    {
+      "substance": "Białko Jaja",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Słaba Zasada",
+      "nature": "Lekko Zasadowy"
+    },
+    {
+      "substance": "Woda Morska",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Słaba Zasada",
+      "nature": "Lekko Zasadowy"
+    },
+    {
+      "substance": "Soda Oczyszczona (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Słaba Zasada",
+      "nature": "Lekko Zasadowy"
+    },
+    {
+      "substance": "Pasta do zębów",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Słaba zasada",
+      "nature": "Zasadowy"
+    },
+    {
+      "substance": "Mleczko magnezjowe",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Słaba zasada",
+      "nature": "Zasadowy"
+    },
+    {
+      "substance": "Amoniak (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Umiarkowana zasada",
+      "nature": "Żrący"
+    },
+    {
+      "substance": "Woda z mydłem",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Silna zasada",
+      "nature": "Żrący"
+    },
+    {
+      "substance": "Wybielacz (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Silna zasada",
+      "nature": "Żrący"
+    },
+    {
+      "substance": "Płyn do czyszczenia piekarników",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Silna zasada",
+      "nature": "Silnie żrący"
+    },
+    {
+      "substance": "Udrażniacz do rur",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Silna zasada",
+      "nature": "Silnie żrący"
+    },
+    {
+      "substance": "Wodorotlenek sodu (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Silna zasada",
+      "nature": "Silnie żrący"
+    },
+    {
+      "substance": "Zdrowa gleba",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Środowiskowe",
+      "nature": "Optymalne dla większości roślin"
+    },
+    {
+      "substance": "Basen (Idealny)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Środowiskowe",
+      "nature": "Bezpieczne do pływania"
+    },
+    {
+      "substance": "Akwarium (Słodkowodne)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Środowiskowe",
+      "nature": "Optymalne dla ryb"
+    },
+    {
+      "substance": "Skóra ludzka",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Biologiczne",
+      "nature": "Płaszcz kwasowy"
+    },
+    {
+      "substance": "Mocz ludzki",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Biologiczne",
+      "nature": "Zmienny (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Skala pH - Darmowe Pobranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz 33 wpisy referencyjne skali pH dla różnych substancji. Zawiera wartości pH, stężenie H⁺ i kategorię. Darmowe w Excelu, CSV, PDF.",
+    "title": "Zbiór Danych Referencyjnych Skali pH i Właściwości Chemicznych",
+    "description": "Ten zbiór danych stanowi kompleksowe odniesienie do 33 substancji, wyszczególniając ich wartości pH, stężenie jonów wodorowych, kategorię kwasowości/zasadowości i naturę.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do wyselekcjonowanej listy 33 popularnych substancji z ich wartościami pH.",
+      "Przeanalizuj stężenia jonów wodorowych ([H⁺]) i kategoryzuj substancje według kwasowości/zasadowości.",
+      "Pobierz kluczowe dane referencyjne chemiczne w wielu wygodnych formatach.",
+      "Zrozum naturę różnych substancji, od silnie żrących po obojętne."
+    ],
+    "keywords": [
+      "skala pH referencje excel",
+      "dane kwasowo-zasadowe pH csv",
+      "wartości pH substancji pobierz",
+      "chemia stężenie H+",
+      "substancje alkaliczne kwasowe lista",
+      "darmowy zbiór danych pH pdf"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych lub skryptów Python do badań chemicznych, analizy danych lub tworzenia aplikacji edukacyjnych związanych z pH.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania wartości pH i stężeń do raportów laboratoryjnych, projektów akademickich lub tworzenia wykresów porównawczych.",
+      "Wydrukuj wersję **PDF** do szybkiego, offline'owego odniesienia w klasie chemicznej, laboratorium lub do przewodników do nauki i prezentacji edukacyjnych.",
+      "Wykorzystaj ten zbiór danych do wzbogacenia treści edukacyjnych, tworzenia quizów lub demonstrowania spektrum pH codziennych substancji studentom."
+    ]
+  },
+  "record_count": 33,
+  "title": "Zbiór Danych Referencyjnych Skali pH i Właściwości Chemicznych"
+}

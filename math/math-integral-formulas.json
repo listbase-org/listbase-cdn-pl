@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Zbiór danych Powszechnych Wzorów Całkowych",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Podstawowe",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Reguła stałej"
+    },
+    {
+      "category": "Podstawowe",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Reguła potęgowa"
+    },
+    {
+      "category": "Podstawowe",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Logarytm naturalny"
+    },
+    {
+      "category": "Podstawowe",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Funkcja wykładnicza"
+    },
+    {
+      "category": "Podstawowe",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Ogólna funkcja wykładnicza"
+    },
+    {
+      "category": "Podstawowe",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Postać pierwiastka kwadratowego"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Funkcja sinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Funkcja cosinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkcja tangens"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Funkcja cotangens"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkcja secans"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Funkcja cosecans"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Secans kwadrat"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Cosecans kwadrat"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Postać iloczynowa"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Postać iloczynowa"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Tożsamość połówkowego kąta"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Tożsamość połówkowego kąta"
+    },
+    {
+      "category": "Odwrotne funkcje trygonometryczne",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Postać arcus sinus"
+    },
+    {
+      "category": "Odwrotne funkcje trygonometryczne",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Postać arcus cosinus"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Forma arcus tangens"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Forma arcus cotangens"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Forma arcus secans"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Forma arcus cosecans"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Ogólny arcus sinus"
+    },
+    {
+      "category": "Trygonometryczne Odwrotne",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "Ogólny arcus tangens"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Sinus hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Kosinus hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Tangens hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Kotangens hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Secans hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Cosecans hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Kwadrat secansa hiperbolicznego"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Kwadrat cosecansa hiperbolicznego"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Całkowanie przez części"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "Ogólny logarytm"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "Zagnieżdżony logarytm"
+    },
+    {
+      "category": "Wymierne",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Ułamki proste"
+    },
+    {
+      "category": "Wymierne",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Ułamki proste"
+    },
+    {
+      "category": "Wymierne",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Podstawienie hiperboliczne"
+    },
+    {
+      "category": "Wymierne",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Podstawienie hiperboliczne"
+    },
+    {
+      "category": "Wymierne",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Podstawienie trygonometryczne"
+    },
+    {
+      "category": "Wymierne",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Podstawienie trygonometryczne"
+    },
+    {
+      "category": "Wymierne",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Podstawienie hiperboliczne"
+    },
+    {
+      "category": "Wymierne",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Podstawienie hiperboliczne"
+    },
+    {
+      "category": "Specjalne",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Dwukrotne całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Dwukrotne całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "Dwukrotne całkowanie przez części"
+    },
+    {
+      "category": "Specjalne",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Całkowanie przez części"
+    },
+    {
+      "category": "Oznaczone",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Całka Gaussa"
+    },
+    {
+      "category": "Oznaczone",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Związek funkcji Gamma"
+    },
+    {
+      "category": "Oznaczone",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "Wzór redukcyjny"
+    },
+    {
+      "category": "Oznaczone",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Związek funkcji Beta"
+    }
+  ],
+  "meta": {
+    "seo_title": "Powszechne Wzory Całkowe - Pobierz za darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz 56 powszechnych wzorów całkowych, obejmujących funkcje podstawowe, trygonometryczne i wykładnicze. Dostępne bezpłatnie w Excelu, CSV i PDF dla studentów i profesjonalistów matematyki.",
+    "title": "Zbiór danych Powszechnych Wzorów Całkowych",
+    "description": "Ten zbiór danych zawiera kompleksową listę 56 powszechnych wzorów całkowych, szczegółowo opisujących funkcje, ich całki, warunki i uwagi. Idealny dla studentów, edukatorów i profesjonalistów w dziedzinie matematyki.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 56 podstawowych wzorów całkowych dla rachunku różniczkowego i całkowego.",
+      "Przeglądaj kategorie takie jak funkcje podstawowe, trygonometryczne i wykładnicze.",
+      "Pobierz gotowe do użycia wzory wraz z warunkami i uwagami.",
+      "Wykorzystaj dokładne definicje całek do celów edukacyjnych lub zawodowych."
+    ],
+    "keywords": [
+      "wzory całkowe excel",
+      "całki rachunek csv",
+      "arkusz wzorów matematycznych pdf",
+      "podstawowe zasady całkowania",
+      "tabela całek nieoznaczonych",
+      "pobierz dane rachunek"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojego skryptu Python lub bazy danych SQL, aby zbudować niestandardowe narzędzia do rozwiązywania całek lub edukacyjne.",
+      "Użyj pliku **Excel** do filtrowania wzorów według kategorii, tworzenia przewodników do nauki lub weryfikacji obliczeń dla złożonych problemów.",
+      "Wydrukuj wersję **PDF** jako szybki przewodnik referencyjny w klasach, podczas egzaminów lub do nauki offline.",
+      "Zintegruj ten zbiór danych z platformami e-learningowymi, aby zapewnić ustrukturyzowane źródło dla studentów uczących się rachunku całkowego."
+    ]
+  },
+  "record_count": 56,
+  "title": "Zbiór danych Powszechnych Wzorów Całkowych"
+}

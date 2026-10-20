@@ -1,0 +1,746 @@
+{
+  "id": "pl-systemy-pisma",
+  "name": "Systemy pisma świata (ISO 15924 / CLDR polski)",
+  "title": "Systemy pisma świata (ISO 15924 / CLDR polski)",
+  "description": "Kody systemów pisma ISO 15924 i ich polskie nazwy z lokalizacji pl w CLDR.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 141,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "nazwa": "adlam"
+    },
+    {
+      "id": 2,
+      "code": "Arab",
+      "nazwa": "arabskie"
+    },
+    {
+      "id": 3,
+      "code": "Arab-alt-variant",
+      "nazwa": "perso-arabskie"
+    },
+    {
+      "id": 4,
+      "code": "Aran",
+      "nazwa": "nastaliq"
+    },
+    {
+      "id": 5,
+      "code": "Armi",
+      "nazwa": "armi"
+    },
+    {
+      "id": 6,
+      "code": "Armn",
+      "nazwa": "ormiańskie"
+    },
+    {
+      "id": 7,
+      "code": "Avst",
+      "nazwa": "awestyjskie"
+    },
+    {
+      "id": 8,
+      "code": "Bali",
+      "nazwa": "balijskie"
+    },
+    {
+      "id": 9,
+      "code": "Bamu",
+      "nazwa": "bamun"
+    },
+    {
+      "id": 10,
+      "code": "Batk",
+      "nazwa": "batak"
+    },
+    {
+      "id": 11,
+      "code": "Beng",
+      "nazwa": "bengalskie"
+    },
+    {
+      "id": 12,
+      "code": "Blis",
+      "nazwa": "symbole Blissa"
+    },
+    {
+      "id": 13,
+      "code": "Bopo",
+      "nazwa": "bopomofo"
+    },
+    {
+      "id": 14,
+      "code": "Brah",
+      "nazwa": "brahmi"
+    },
+    {
+      "id": 15,
+      "code": "Brai",
+      "nazwa": "Braille’a"
+    },
+    {
+      "id": 16,
+      "code": "Bugi",
+      "nazwa": "bugińskie"
+    },
+    {
+      "id": 17,
+      "code": "Buhd",
+      "nazwa": "buhid"
+    },
+    {
+      "id": 18,
+      "code": "Cakm",
+      "nazwa": "chakma"
+    },
+    {
+      "id": 19,
+      "code": "Cans",
+      "nazwa": "zunifikowane symbole kanadyjskich autochtonów"
+    },
+    {
+      "id": 20,
+      "code": "Cari",
+      "nazwa": "karyjskie"
+    },
+    {
+      "id": 21,
+      "code": "Cham",
+      "nazwa": "czamskie"
+    },
+    {
+      "id": 22,
+      "code": "Cher",
+      "nazwa": "czirokeskie"
+    },
+    {
+      "id": 23,
+      "code": "Cirt",
+      "nazwa": "cirth"
+    },
+    {
+      "id": 24,
+      "code": "Copt",
+      "nazwa": "koptyjskie"
+    },
+    {
+      "id": 25,
+      "code": "Cprt",
+      "nazwa": "cypryjskie"
+    },
+    {
+      "id": 26,
+      "code": "Cyrl",
+      "nazwa": "cyrylica"
+    },
+    {
+      "id": 27,
+      "code": "Cyrs",
+      "nazwa": "cyrylica staro-cerkiewno-słowiańska"
+    },
+    {
+      "id": 28,
+      "code": "Deva",
+      "nazwa": "dewanagari"
+    },
+    {
+      "id": 29,
+      "code": "Dsrt",
+      "nazwa": "deseret"
+    },
+    {
+      "id": 30,
+      "code": "Egyd",
+      "nazwa": "egipskie demotyczne"
+    },
+    {
+      "id": 31,
+      "code": "Egyh",
+      "nazwa": "egipskie hieratyczne"
+    },
+    {
+      "id": 32,
+      "code": "Egyp",
+      "nazwa": "hieroglify egipskie"
+    },
+    {
+      "id": 33,
+      "code": "Ethi",
+      "nazwa": "etiopskie"
+    },
+    {
+      "id": 34,
+      "code": "Geok",
+      "nazwa": "gruzińskie chucuri"
+    },
+    {
+      "id": 35,
+      "code": "Geor",
+      "nazwa": "gruzińskie"
+    },
+    {
+      "id": 36,
+      "code": "Glag",
+      "nazwa": "głagolica"
+    },
+    {
+      "id": 37,
+      "code": "Goth",
+      "nazwa": "gotyckie"
+    },
+    {
+      "id": 38,
+      "code": "Grek",
+      "nazwa": "greckie"
+    },
+    {
+      "id": 39,
+      "code": "Gujr",
+      "nazwa": "gudżarati"
+    },
+    {
+      "id": 40,
+      "code": "Guru",
+      "nazwa": "gurmukhi"
+    },
+    {
+      "id": 41,
+      "code": "Hanb",
+      "nazwa": "chińskie z bopomofo"
+    },
+    {
+      "id": 42,
+      "code": "Hang",
+      "nazwa": "hangul"
+    },
+    {
+      "id": 43,
+      "code": "Hani",
+      "nazwa": "chińskie"
+    },
+    {
+      "id": 44,
+      "code": "Hano",
+      "nazwa": "hanunoo"
+    },
+    {
+      "id": 45,
+      "code": "Hans",
+      "nazwa": "uproszczone"
+    },
+    {
+      "id": 46,
+      "code": "Hans-alt-stand-alone",
+      "nazwa": "chińskie uproszczone"
+    },
+    {
+      "id": 47,
+      "code": "Hant",
+      "nazwa": "tradycyjne"
+    },
+    {
+      "id": 48,
+      "code": "Hant-alt-stand-alone",
+      "nazwa": "chińskie tradycyjne"
+    },
+    {
+      "id": 49,
+      "code": "Hebr",
+      "nazwa": "hebrajskie"
+    },
+    {
+      "id": 50,
+      "code": "Hira",
+      "nazwa": "hiragana"
+    },
+    {
+      "id": 51,
+      "code": "Hmng",
+      "nazwa": "pahawh hmong"
+    },
+    {
+      "id": 52,
+      "code": "Hrkt",
+      "nazwa": "sylabariusze japońskie"
+    },
+    {
+      "id": 53,
+      "code": "Hung",
+      "nazwa": "starowęgierskie"
+    },
+    {
+      "id": 54,
+      "code": "Inds",
+      "nazwa": "indus"
+    },
+    {
+      "id": 55,
+      "code": "Ital",
+      "nazwa": "starowłoskie"
+    },
+    {
+      "id": 56,
+      "code": "Jamo",
+      "nazwa": "jamo"
+    },
+    {
+      "id": 57,
+      "code": "Java",
+      "nazwa": "jawajskie"
+    },
+    {
+      "id": 58,
+      "code": "Jpan",
+      "nazwa": "japońskie"
+    },
+    {
+      "id": 59,
+      "code": "Kali",
+      "nazwa": "kayah li"
+    },
+    {
+      "id": 60,
+      "code": "Kana",
+      "nazwa": "katakana"
+    },
+    {
+      "id": 61,
+      "code": "Khar",
+      "nazwa": "charosti"
+    },
+    {
+      "id": 62,
+      "code": "Khmr",
+      "nazwa": "khmerskie"
+    },
+    {
+      "id": 63,
+      "code": "Knda",
+      "nazwa": "kannada"
+    },
+    {
+      "id": 64,
+      "code": "Kore",
+      "nazwa": "koreańskie"
+    },
+    {
+      "id": 65,
+      "code": "Kthi",
+      "nazwa": "kaithi"
+    },
+    {
+      "id": 66,
+      "code": "Lana",
+      "nazwa": "lanna"
+    },
+    {
+      "id": 67,
+      "code": "Laoo",
+      "nazwa": "laotańskie"
+    },
+    {
+      "id": 68,
+      "code": "Latf",
+      "nazwa": "łaciński - fraktura"
+    },
+    {
+      "id": 69,
+      "code": "Latg",
+      "nazwa": "łaciński - odmiana gaelicka"
+    },
+    {
+      "id": 70,
+      "code": "Latn",
+      "nazwa": "łacińskie"
+    },
+    {
+      "id": 71,
+      "code": "Lepc",
+      "nazwa": "lepcha"
+    },
+    {
+      "id": 72,
+      "code": "Limb",
+      "nazwa": "limbu"
+    },
+    {
+      "id": 73,
+      "code": "Lina",
+      "nazwa": "linearne A"
+    },
+    {
+      "id": 74,
+      "code": "Linb",
+      "nazwa": "linearne B"
+    },
+    {
+      "id": 75,
+      "code": "Lyci",
+      "nazwa": "likijskie"
+    },
+    {
+      "id": 76,
+      "code": "Lydi",
+      "nazwa": "lidyjskie"
+    },
+    {
+      "id": 77,
+      "code": "Mand",
+      "nazwa": "mandejskie"
+    },
+    {
+      "id": 78,
+      "code": "Mani",
+      "nazwa": "manichejskie"
+    },
+    {
+      "id": 79,
+      "code": "Maya",
+      "nazwa": "hieroglify Majów"
+    },
+    {
+      "id": 80,
+      "code": "Mero",
+      "nazwa": "meroickie"
+    },
+    {
+      "id": 81,
+      "code": "Mlym",
+      "nazwa": "malajalam"
+    },
+    {
+      "id": 82,
+      "code": "Mong",
+      "nazwa": "mongolskie"
+    },
+    {
+      "id": 83,
+      "code": "Moon",
+      "nazwa": "Moon’a"
+    },
+    {
+      "id": 84,
+      "code": "Mtei",
+      "nazwa": "meitei mayek"
+    },
+    {
+      "id": 85,
+      "code": "Mymr",
+      "nazwa": "birmańskie"
+    },
+    {
+      "id": 86,
+      "code": "Nkoo",
+      "nazwa": "n’ko"
+    },
+    {
+      "id": 87,
+      "code": "Ogam",
+      "nazwa": "ogham"
+    },
+    {
+      "id": 88,
+      "code": "Olck",
+      "nazwa": "ol ciki"
+    },
+    {
+      "id": 89,
+      "code": "Orkh",
+      "nazwa": "orchońskie"
+    },
+    {
+      "id": 90,
+      "code": "Orya",
+      "nazwa": "orija"
+    },
+    {
+      "id": 91,
+      "code": "Osma",
+      "nazwa": "osmanya"
+    },
+    {
+      "id": 92,
+      "code": "Perm",
+      "nazwa": "staropermskie"
+    },
+    {
+      "id": 93,
+      "code": "Phag",
+      "nazwa": "phags-pa"
+    },
+    {
+      "id": 94,
+      "code": "Phli",
+      "nazwa": "inskrypcyjne pahlawi"
+    },
+    {
+      "id": 95,
+      "code": "Phlp",
+      "nazwa": "pahlawi psałterzowy"
+    },
+    {
+      "id": 96,
+      "code": "Phlv",
+      "nazwa": "pahlawi książkowy"
+    },
+    {
+      "id": 97,
+      "code": "Phnx",
+      "nazwa": "fenicki"
+    },
+    {
+      "id": 98,
+      "code": "Plrd",
+      "nazwa": "fonetyczny Pollard’a"
+    },
+    {
+      "id": 99,
+      "code": "Prti",
+      "nazwa": "partyjski inskrypcyjny"
+    },
+    {
+      "id": 100,
+      "code": "Qaag",
+      "nazwa": "zawgyi"
+    },
+    {
+      "id": 101,
+      "code": "Rjng",
+      "nazwa": "rejang"
+    },
+    {
+      "id": 102,
+      "code": "Rohg",
+      "nazwa": "hanifi"
+    },
+    {
+      "id": 103,
+      "code": "Roro",
+      "nazwa": "rongorongo"
+    },
+    {
+      "id": 104,
+      "code": "Runr",
+      "nazwa": "runiczne"
+    },
+    {
+      "id": 105,
+      "code": "Samr",
+      "nazwa": "samarytański"
+    },
+    {
+      "id": 106,
+      "code": "Sara",
+      "nazwa": "sarati"
+    },
+    {
+      "id": 107,
+      "code": "Saur",
+      "nazwa": "saurashtra"
+    },
+    {
+      "id": 108,
+      "code": "Sgnw",
+      "nazwa": "pismo znakowe"
+    },
+    {
+      "id": 109,
+      "code": "Shaw",
+      "nazwa": "shawa"
+    },
+    {
+      "id": 110,
+      "code": "Sinh",
+      "nazwa": "syngaleskie"
+    },
+    {
+      "id": 111,
+      "code": "Sund",
+      "nazwa": "sundajskie"
+    },
+    {
+      "id": 112,
+      "code": "Sylo",
+      "nazwa": "syloti nagri"
+    },
+    {
+      "id": 113,
+      "code": "Syrc",
+      "nazwa": "syryjskie"
+    },
+    {
+      "id": 114,
+      "code": "Syre",
+      "nazwa": "syriacki estrangelo"
+    },
+    {
+      "id": 115,
+      "code": "Syrj",
+      "nazwa": "syryjski (odmiana zachodnia)"
+    },
+    {
+      "id": 116,
+      "code": "Syrn",
+      "nazwa": "syryjski (odmiana wschodnia)"
+    },
+    {
+      "id": 117,
+      "code": "Tagb",
+      "nazwa": "tagbanwa"
+    },
+    {
+      "id": 118,
+      "code": "Tale",
+      "nazwa": "tai le"
+    },
+    {
+      "id": 119,
+      "code": "Talu",
+      "nazwa": "nowy tai lue"
+    },
+    {
+      "id": 120,
+      "code": "Taml",
+      "nazwa": "tamilskie"
+    },
+    {
+      "id": 121,
+      "code": "Tavt",
+      "nazwa": "tai viet"
+    },
+    {
+      "id": 122,
+      "code": "Telu",
+      "nazwa": "telugu"
+    },
+    {
+      "id": 123,
+      "code": "Teng",
+      "nazwa": "tengwar"
+    },
+    {
+      "id": 124,
+      "code": "Tfng",
+      "nazwa": "tifinagh (berberski)"
+    },
+    {
+      "id": 125,
+      "code": "Tglg",
+      "nazwa": "tagalog"
+    },
+    {
+      "id": 126,
+      "code": "Thaa",
+      "nazwa": "taana"
+    },
+    {
+      "id": 127,
+      "code": "Thai",
+      "nazwa": "tajskie"
+    },
+    {
+      "id": 128,
+      "code": "Tibt",
+      "nazwa": "tybetańskie"
+    },
+    {
+      "id": 129,
+      "code": "Ugar",
+      "nazwa": "ugaryckie"
+    },
+    {
+      "id": 130,
+      "code": "Vaii",
+      "nazwa": "vai"
+    },
+    {
+      "id": 131,
+      "code": "Visp",
+      "nazwa": "Visible Speech"
+    },
+    {
+      "id": 132,
+      "code": "Xpeo",
+      "nazwa": "staroperskie"
+    },
+    {
+      "id": 133,
+      "code": "Xsux",
+      "nazwa": "klinowe sumero-akadyjskie"
+    },
+    {
+      "id": 134,
+      "code": "Yiii",
+      "nazwa": "yi"
+    },
+    {
+      "id": 135,
+      "code": "Zinh",
+      "nazwa": "dziedziczone"
+    },
+    {
+      "id": 136,
+      "code": "Zmth",
+      "nazwa": "notacja matematyczna"
+    },
+    {
+      "id": 137,
+      "code": "Zsye",
+      "nazwa": "emoji"
+    },
+    {
+      "id": 138,
+      "code": "Zsym",
+      "nazwa": "symbole"
+    },
+    {
+      "id": 139,
+      "code": "Zxxx",
+      "nazwa": "język bez systemu pisma"
+    },
+    {
+      "id": 140,
+      "code": "Zyyy",
+      "nazwa": "wspólne"
+    },
+    {
+      "id": 141,
+      "code": "Zzzz",
+      "nazwa": "nieznane pismo"
+    }
+  ],
+  "meta": {
+    "title": "Systemy pisma świata (ISO 15924 / CLDR polski) - Bezpłatne pobieranie",
+    "description": "Kody systemów pisma ISO 15924 i ich polskie nazwy z lokalizacji pl w CLDR. Zawiera 141 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Systemy pisma świata (ISO 15924 / CLDR polski) | ListBase",
+    "seo_description": "Pobierz Systemy pisma świata (ISO 15924 / CLDR polski) — 141 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 141 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

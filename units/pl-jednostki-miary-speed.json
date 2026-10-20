@@ -1,0 +1,115 @@
+{
+  "id": "pl-jednostki-miary-speed",
+  "name": "Jednostki miary — kategoria 'speed' (6)",
+  "title": "Jednostki miary — kategoria 'speed' (6)",
+  "description": "Jednostki miary kategorii 'speed' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategoria": "speed",
+      "nazwa": "Beaufort",
+      "skrot": "Bft",
+      "forma_waska": "Bft",
+      "wzorzec": "{0} w skali Beauforta"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoria": "speed",
+      "nazwa": "kilometry na godzinę",
+      "skrot": "km/godz.",
+      "forma_waska": "km/h",
+      "wzorzec": "{0} kilometra na godzinę"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategoria": "speed",
+      "nazwa": "węzeł",
+      "skrot": "w.",
+      "forma_waska": "w.",
+      "wzorzec": "{0} węzła"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategoria": "speed",
+      "nazwa": "światło",
+      "skrot": "św.",
+      "forma_waska": "św.",
+      "wzorzec": "{0} światła"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategoria": "speed",
+      "nazwa": "metry na sekundę",
+      "skrot": "m/s",
+      "forma_waska": "m/s",
+      "wzorzec": "{0} metra na sekundę"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategoria": "speed",
+      "nazwa": "mile na godzinę",
+      "skrot": "mile/h",
+      "forma_waska": "mph",
+      "wzorzec": "{0} mili na godzinę"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'speed' (6) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'speed' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 6 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'speed' (6) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'speed' (6) — 6 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 6 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

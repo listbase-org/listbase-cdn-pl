@@ -1,0 +1,416 @@
+{
+  "id": "pl-opolskie-cities",
+  "name": "Województwo opolskie — miasta",
+  "title": "Województwo opolskie — miasta",
+  "description": "Lista miast w województwie opolskim (województwo opolskie) — 35 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the opolskie voivodeship — 35 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 441,
+      "name": "Baborów",
+      "slug": "baborow",
+      "name_locative": "Baborowie",
+      "county_id": 156,
+      "county_name": "głubczycki",
+      "latitude": 50.1563566,
+      "longitude": 17.9859393
+    },
+    {
+      "city_id": 465,
+      "name": "Biała",
+      "slug": "biala",
+      "name_locative": "Białej",
+      "county_id": 164,
+      "county_name": "prudnicki",
+      "latitude": 50.3853609,
+      "longitude": 17.6599107
+    },
+    {
+      "city_id": 438,
+      "name": "Brzeg",
+      "slug": "brzeg",
+      "name_locative": "Brzegu",
+      "county_id": 155,
+      "county_name": "brzeski",
+      "latitude": 50.8588648,
+      "longitude": 17.46412449
+    },
+    {
+      "city_id": 445,
+      "name": "Byczyna",
+      "slug": "byczyna",
+      "name_locative": "Byczynie",
+      "county_id": 158,
+      "county_name": "kluczborski",
+      "latitude": 51.1142355,
+      "longitude": 18.2143288
+    },
+    {
+      "city_id": 457,
+      "name": "Dobrodzień",
+      "slug": "dobrodzien",
+      "name_locative": "Dobrodzieniu",
+      "county_id": 162,
+      "county_name": "oleski",
+      "latitude": 50.7288597,
+      "longitude": 18.444336
+    },
+    {
+      "city_id": 448,
+      "name": "Gogolin",
+      "slug": "gogolin",
+      "name_locative": "Gogolinie",
+      "county_id": 159,
+      "county_name": "krapkowicki",
+      "latitude": 50.4925107,
+      "longitude": 18.0176197
+    },
+    {
+      "city_id": 458,
+      "name": "Gorzów Śląski",
+      "slug": "gorzow-slaski",
+      "name_locative": "Gorzowie Śląskim",
+      "county_id": 162,
+      "county_name": "oleski",
+      "latitude": 51.0281551,
+      "longitude": 18.4222682
+    },
+    {
+      "city_id": 439,
+      "name": "Grodków",
+      "slug": "grodkow",
+      "name_locative": "Grodkowie",
+      "county_id": 155,
+      "county_name": "brzeski",
+      "latitude": 50.698157,
+      "longitude": 17.3849804
+    },
+    {
+      "city_id": 466,
+      "name": "Głogówek",
+      "slug": "glogowek",
+      "name_locative": "Głogówku",
+      "county_id": 164,
+      "county_name": "prudnicki",
+      "latitude": 50.3534373,
+      "longitude": 17.8619329
+    },
+    {
+      "city_id": 442,
+      "name": "Głubczyce",
+      "slug": "glubczyce",
+      "name_locative": "Głubczycach",
+      "county_id": 156,
+      "county_name": "głubczycki",
+      "latitude": 50.2000941,
+      "longitude": 17.8293199
+    },
+    {
+      "city_id": 452,
+      "name": "Głuchołazy",
+      "slug": "glucholazy",
+      "name_locative": "Głuchołazach",
+      "county_id": 161,
+      "county_name": "nyski",
+      "latitude": 50.3170828,
+      "longitude": 17.3833809
+    },
+    {
+      "city_id": 443,
+      "name": "Kietrz",
+      "slug": "kietrz",
+      "name_locative": "Kietrzu",
+      "county_id": 156,
+      "county_name": "głubczycki",
+      "latitude": 50.0796271,
+      "longitude": 18.0021082
+    },
+    {
+      "city_id": 446,
+      "name": "Kluczbork",
+      "slug": "kluczbork",
+      "name_locative": "Kluczborku",
+      "county_id": 158,
+      "county_name": "kluczborski",
+      "latitude": 50.9730701,
+      "longitude": 18.2140089
+    },
+    {
+      "city_id": 468,
+      "name": "Kolonowskie",
+      "slug": "kolonowskie",
+      "name_locative": "Kolonowskiem",
+      "county_id": 165,
+      "county_name": "strzelecki",
+      "latitude": 50.6528574,
+      "longitude": 18.3831071
+    },
+    {
+      "city_id": 453,
+      "name": "Korfantów",
+      "slug": "korfantow",
+      "name_locative": "Korfantowie",
+      "county_id": 161,
+      "county_name": "nyski",
+      "latitude": 50.4879782,
+      "longitude": 17.5984184
+    },
+    {
+      "city_id": 449,
+      "name": "Krapkowice",
+      "slug": "krapkowice",
+      "name_locative": "Krapkowicach",
+      "county_id": 159,
+      "county_name": "krapkowicki",
+      "latitude": 50.4747413,
+      "longitude": 17.9675262
+    },
+    {
+      "city_id": 444,
+      "name": "Kędzierzyn-Koźle",
+      "slug": "kedzierzyn-kozle",
+      "name_locative": "Kędzierzynie-Koźlu",
+      "county_id": 157,
+      "county_name": "kędzierzyńsko-kozielski",
+      "latitude": 50.3448836,
+      "longitude": 18.2109594
+    },
+    {
+      "city_id": 440,
+      "name": "Lewin Brzeski",
+      "slug": "lewin-brzeski",
+      "name_locative": "Lewinie Brzeskim",
+      "county_id": 155,
+      "county_name": "brzeski",
+      "latitude": 50.7490405,
+      "longitude": 17.6166739
+    },
+    {
+      "city_id": 469,
+      "name": "Leśnica",
+      "slug": "lesnica",
+      "name_locative": "Leśnicy",
+      "county_id": 165,
+      "county_name": "strzelecki",
+      "latitude": 50.4285562,
+      "longitude": 18.1849929
+    },
+    {
+      "city_id": 451,
+      "name": "Namysłów",
+      "slug": "namyslow",
+      "name_locative": "Namysłowie",
+      "county_id": 160,
+      "county_name": "namysłowski",
+      "latitude": 51.0766258,
+      "longitude": 17.7185619
+    },
+    {
+      "city_id": 461,
+      "name": "Niemodlin",
+      "slug": "niemodlin",
+      "name_locative": "Niemodlinie",
+      "county_id": 163,
+      "county_name": "opolski",
+      "latitude": 50.6415925,
+      "longitude": 17.6211388
+    },
+    {
+      "city_id": 454,
+      "name": "Nysa",
+      "slug": "nysa",
+      "name_locative": "Nysie",
+      "county_id": 161,
+      "county_name": "nyski",
+      "latitude": 50.4738029,
+      "longitude": 17.3324733
+    },
+    {
+      "city_id": 459,
+      "name": "Olesno",
+      "slug": "olesno",
+      "name_locative": "Oleśnie",
+      "county_id": 162,
+      "county_name": "oleski",
+      "latitude": 50.8766575,
+      "longitude": 18.4219452
+    },
+    {
+      "city_id": 455,
+      "name": "Otmuchów",
+      "slug": "otmuchow",
+      "name_locative": "Otmuchowie",
+      "county_id": 161,
+      "county_name": "nyski",
+      "latitude": 50.46553145,
+      "longitude": 17.13236552
+    },
+    {
+      "city_id": 462,
+      "name": "Ozimek",
+      "slug": "ozimek",
+      "name_locative": "Ozimku",
+      "county_id": 163,
+      "county_name": "opolski",
+      "latitude": 50.6789196,
+      "longitude": 18.2125227
+    },
+    {
+      "city_id": 456,
+      "name": "Paczków",
+      "slug": "paczkow",
+      "name_locative": "Paczkowie",
+      "county_id": 161,
+      "county_name": "nyski",
+      "latitude": 50.4642876,
+      "longitude": 17.0063856
+    },
+    {
+      "city_id": 460,
+      "name": "Praszka",
+      "slug": "praszka",
+      "name_locative": "Praszce",
+      "county_id": 162,
+      "county_name": "oleski",
+      "latitude": 51.05536,
+      "longitude": 18.4485221
+    },
+    {
+      "city_id": 467,
+      "name": "Prudnik",
+      "slug": "prudnik",
+      "name_locative": "Prudniku",
+      "county_id": 164,
+      "county_name": "prudnicki",
+      "latitude": 50.3217212,
+      "longitude": 17.5801041
+    },
+    {
+      "city_id": 463,
+      "name": "Prószków",
+      "slug": "proszkow",
+      "name_locative": "Prószkowie",
+      "county_id": 163,
+      "county_name": "opolski",
+      "latitude": 50.5786696,
+      "longitude": 17.8699852
+    },
+    {
+      "city_id": 470,
+      "name": "Strzelce Opolskie",
+      "slug": "strzelce-opolskie",
+      "name_locative": "Strzelcach Opolskich",
+      "county_id": 165,
+      "county_name": "strzelecki",
+      "latitude": 50.5109033,
+      "longitude": 18.3004547
+    },
+    {
+      "city_id": 464,
+      "name": "Tułowice",
+      "slug": "tulowice",
+      "name_locative": "Tułowicach",
+      "county_id": 163,
+      "county_name": "opolski",
+      "latitude": 50.5948519,
+      "longitude": 17.65558609
+    },
+    {
+      "city_id": 471,
+      "name": "Ujazd",
+      "slug": "ujazd",
+      "name_locative": "Ujaździe",
+      "county_id": 165,
+      "county_name": "strzelecki",
+      "latitude": 50.3892513,
+      "longitude": 18.3504502
+    },
+    {
+      "city_id": 447,
+      "name": "Wołczyn",
+      "slug": "wolczyn",
+      "name_locative": "Wołczynie",
+      "county_id": 158,
+      "county_name": "kluczborski",
+      "latitude": 51.0190253,
+      "longitude": 18.049603
+    },
+    {
+      "city_id": 472,
+      "name": "Zawadzkie",
+      "slug": "zawadzkie",
+      "name_locative": "Zawadzkiem",
+      "county_id": 165,
+      "county_name": "strzelecki",
+      "latitude": 50.6065834,
+      "longitude": 18.4801284
+    },
+    {
+      "city_id": 450,
+      "name": "Zdzieszowice",
+      "slug": "zdzieszowice",
+      "name_locative": "Zdzieszowicach",
+      "county_id": 159,
+      "county_name": "krapkowicki",
+      "latitude": 50.4202928,
+      "longitude": 18.1193187
+    }
+  ],
+  "meta": {
+    "title": "Województwo opolskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie opolskim (województwo opolskie) — 35 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the opolskie voivodeship — 35 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 35 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo opolskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo opolskie — miasta — 35 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 35 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,2568 @@
+{
+  "id": "pl-counties",
+  "name": "Polska — powiaty",
+  "title": "Polska — powiaty",
+  "description": "Lista 314 polskich powiatów ziemskich (drugi poziom podziału administracyjnego, LAU-1), z przypisaniem do województwa. Źródło ma jeden pusty rekord-placeholder (id=315) używany jako sentinel dla miast na prawach powiatu — został pominięty w tym zbiorze i wyodrębniony osobno jako pl-city-counties. List of 314 Polish rural powiaty (second-level administrative division, LAU-1) mapped to their parent voivodeship. Source has one empty-name placeholder (id=315) used as a sentinel for city-counties — that placeholder is dropped here and the 69 cities pointing to it are surfaced separately as pl-city-counties.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 314,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "voivodeship_id",
+      "label": "Voivodeship Id",
+      "type": "number"
+    },
+    {
+      "key": "voivodeship_name",
+      "label": "Voivodeship Name",
+      "type": "string"
+    },
+    {
+      "key": "voivodeship_slug",
+      "label": "Voivodeship Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 1,
+      "name": "bolesławiecki",
+      "slug": "boleslawiecki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 2,
+      "name": "dzierżoniowski",
+      "slug": "dzierzoniowski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 3,
+      "name": "głogowski",
+      "slug": "glogowski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 4,
+      "name": "górowski",
+      "slug": "gorowski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 5,
+      "name": "jaworski",
+      "slug": "jaworski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 6,
+      "name": "karkonoski",
+      "slug": "karkonoski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 7,
+      "name": "kamiennogórski",
+      "slug": "kamiennogorski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 8,
+      "name": "kłodzki",
+      "slug": "klodzki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 9,
+      "name": "legnicki",
+      "slug": "legnicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 10,
+      "name": "lubański",
+      "slug": "lubanski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 11,
+      "name": "lubiński",
+      "slug": "lubinski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 12,
+      "name": "lwówecki",
+      "slug": "lwowecki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 13,
+      "name": "milicki",
+      "slug": "milicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 14,
+      "name": "oleśnicki",
+      "slug": "olesnicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 15,
+      "name": "oławski",
+      "slug": "olawski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 16,
+      "name": "polkowicki",
+      "slug": "polkowicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 17,
+      "name": "strzeliński",
+      "slug": "strzelinski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 18,
+      "name": "średzki",
+      "slug": "sredzki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 19,
+      "name": "świdnicki",
+      "slug": "swidnicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 20,
+      "name": "trzebnicki",
+      "slug": "trzebnicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 21,
+      "name": "wałbrzyski",
+      "slug": "walbrzyski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 22,
+      "name": "wołowski",
+      "slug": "wolowski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 23,
+      "name": "wrocławski",
+      "slug": "wroclawski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 24,
+      "name": "ząbkowicki",
+      "slug": "zabkowicki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 25,
+      "name": "zgorzelecki",
+      "slug": "zgorzelecki",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 26,
+      "name": "złotoryjski",
+      "slug": "zlotoryjski",
+      "voivodeship_id": 1,
+      "voivodeship_name": "dolnośląskie",
+      "voivodeship_slug": "dolnoslaskie"
+    },
+    {
+      "county_id": 27,
+      "name": "aleksandrowski",
+      "slug": "aleksandrowski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 28,
+      "name": "brodnicki",
+      "slug": "brodnicki",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 29,
+      "name": "bydgoski",
+      "slug": "bydgoski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 30,
+      "name": "chełmiński",
+      "slug": "chelminski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 31,
+      "name": "golubsko-dobrzyński",
+      "slug": "golubsko-dobrzynski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 32,
+      "name": "grudziądzki",
+      "slug": "grudziadzki",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 33,
+      "name": "inowrocławski",
+      "slug": "inowroclawski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 34,
+      "name": "lipnowski",
+      "slug": "lipnowski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 35,
+      "name": "mogileński",
+      "slug": "mogilenski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 36,
+      "name": "nakielski",
+      "slug": "nakielski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 37,
+      "name": "radziejowski",
+      "slug": "radziejowski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 38,
+      "name": "rypiński",
+      "slug": "rypinski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 39,
+      "name": "sępoleński",
+      "slug": "sepolenski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 40,
+      "name": "świecki",
+      "slug": "swiecki",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 41,
+      "name": "toruński",
+      "slug": "torunski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 42,
+      "name": "tucholski",
+      "slug": "tucholski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 43,
+      "name": "wąbrzeski",
+      "slug": "wabrzeski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 44,
+      "name": "włocławski",
+      "slug": "wloclawski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 45,
+      "name": "żniński",
+      "slug": "zninski",
+      "voivodeship_id": 2,
+      "voivodeship_name": "kujawsko-pomorskie",
+      "voivodeship_slug": "kujawsko-pomorskie"
+    },
+    {
+      "county_id": 46,
+      "name": "bialski",
+      "slug": "bialski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 47,
+      "name": "biłgorajski",
+      "slug": "bilgorajski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 48,
+      "name": "chełmski",
+      "slug": "chelmski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 49,
+      "name": "hrubieszowski",
+      "slug": "hrubieszowski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 50,
+      "name": "janowski",
+      "slug": "janowski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 51,
+      "name": "krasnostawski",
+      "slug": "krasnostawski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 52,
+      "name": "kraśnicki",
+      "slug": "krasnicki",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 53,
+      "name": "lubartowski",
+      "slug": "lubartowski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 54,
+      "name": "lubelski",
+      "slug": "lubelski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 55,
+      "name": "łęczyński",
+      "slug": "leczynski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 56,
+      "name": "łukowski",
+      "slug": "lukowski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 57,
+      "name": "opolski",
+      "slug": "opolski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 58,
+      "name": "parczewski",
+      "slug": "parczewski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 59,
+      "name": "puławski",
+      "slug": "pulawski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 60,
+      "name": "radzyński",
+      "slug": "radzynski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 61,
+      "name": "rycki",
+      "slug": "rycki",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 62,
+      "name": "świdnicki",
+      "slug": "swidnicki",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 63,
+      "name": "tomaszowski",
+      "slug": "tomaszowski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 64,
+      "name": "włodawski",
+      "slug": "wlodawski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 65,
+      "name": "zamojski",
+      "slug": "zamojski",
+      "voivodeship_id": 3,
+      "voivodeship_name": "lubelskie",
+      "voivodeship_slug": "lubelskie"
+    },
+    {
+      "county_id": 66,
+      "name": "gorzowski",
+      "slug": "gorzowski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 67,
+      "name": "krośnieński",
+      "slug": "krosnienski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 68,
+      "name": "międzyrzecki",
+      "slug": "miedzyrzecki",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 69,
+      "name": "nowosolski",
+      "slug": "nowosolski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 70,
+      "name": "słubicki",
+      "slug": "slubicki",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 71,
+      "name": "strzelecko-drezdenecki",
+      "slug": "strzelecko-drezdenecki",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 72,
+      "name": "sulęciński",
+      "slug": "sulecinski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 73,
+      "name": "świebodziński",
+      "slug": "swiebodzinski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 74,
+      "name": "zielonogórski",
+      "slug": "zielonogorski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 75,
+      "name": "żagański",
+      "slug": "zaganski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 76,
+      "name": "żarski",
+      "slug": "zarski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 77,
+      "name": "wschowski",
+      "slug": "wschowski",
+      "voivodeship_id": 4,
+      "voivodeship_name": "lubuskie",
+      "voivodeship_slug": "lubuskie"
+    },
+    {
+      "county_id": 78,
+      "name": "bełchatowski",
+      "slug": "belchatowski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 79,
+      "name": "kutnowski",
+      "slug": "kutnowski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 80,
+      "name": "łaski",
+      "slug": "laski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 81,
+      "name": "łęczycki",
+      "slug": "leczycki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 82,
+      "name": "łowicki",
+      "slug": "lowicki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 83,
+      "name": "łódzki wschodni",
+      "slug": "lodzki-wschodni",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 84,
+      "name": "opoczyński",
+      "slug": "opoczynski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 85,
+      "name": "pabianicki",
+      "slug": "pabianicki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 86,
+      "name": "pajęczański",
+      "slug": "pajeczanski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 87,
+      "name": "piotrkowski",
+      "slug": "piotrkowski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 88,
+      "name": "poddębicki",
+      "slug": "poddebicki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 89,
+      "name": "radomszczański",
+      "slug": "radomszczanski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 90,
+      "name": "rawski",
+      "slug": "rawski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 91,
+      "name": "sieradzki",
+      "slug": "sieradzki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 92,
+      "name": "skierniewicki",
+      "slug": "skierniewicki",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 93,
+      "name": "tomaszowski",
+      "slug": "tomaszowski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 94,
+      "name": "wieluński",
+      "slug": "wielunski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 95,
+      "name": "wieruszowski",
+      "slug": "wieruszowski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 96,
+      "name": "zduńskowolski",
+      "slug": "zdunskowolski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 97,
+      "name": "zgierski",
+      "slug": "zgierski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 98,
+      "name": "brzeziński",
+      "slug": "brzezinski",
+      "voivodeship_id": 5,
+      "voivodeship_name": "łódzkie",
+      "voivodeship_slug": "lodzkie"
+    },
+    {
+      "county_id": 99,
+      "name": "bocheński",
+      "slug": "bochenski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 100,
+      "name": "brzeski",
+      "slug": "brzeski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 101,
+      "name": "chrzanowski",
+      "slug": "chrzanowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 102,
+      "name": "dąbrowski",
+      "slug": "dabrowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 103,
+      "name": "gorlicki",
+      "slug": "gorlicki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 104,
+      "name": "krakowski",
+      "slug": "krakowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 105,
+      "name": "limanowski",
+      "slug": "limanowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 106,
+      "name": "miechowski",
+      "slug": "miechowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 107,
+      "name": "myślenicki",
+      "slug": "myslenicki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 108,
+      "name": "nowosądecki",
+      "slug": "nowosadecki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 109,
+      "name": "nowotarski",
+      "slug": "nowotarski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 110,
+      "name": "olkuski",
+      "slug": "olkuski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 111,
+      "name": "oświęcimski",
+      "slug": "oswiecimski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 112,
+      "name": "proszowicki",
+      "slug": "proszowicki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 113,
+      "name": "suski",
+      "slug": "suski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 114,
+      "name": "tarnowski",
+      "slug": "tarnowski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 115,
+      "name": "tatrzański",
+      "slug": "tatrzanski",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 116,
+      "name": "wadowicki",
+      "slug": "wadowicki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 117,
+      "name": "wielicki",
+      "slug": "wielicki",
+      "voivodeship_id": 6,
+      "voivodeship_name": "małopolskie",
+      "voivodeship_slug": "malopolskie"
+    },
+    {
+      "county_id": 118,
+      "name": "białobrzeski",
+      "slug": "bialobrzeski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 119,
+      "name": "ciechanowski",
+      "slug": "ciechanowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 120,
+      "name": "garwoliński",
+      "slug": "garwolinski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 121,
+      "name": "gostyniński",
+      "slug": "gostyninski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 122,
+      "name": "grodziski",
+      "slug": "grodziski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 123,
+      "name": "grójecki",
+      "slug": "grojecki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 124,
+      "name": "kozienicki",
+      "slug": "kozienicki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 125,
+      "name": "legionowski",
+      "slug": "legionowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 126,
+      "name": "lipski",
+      "slug": "lipski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 127,
+      "name": "łosicki",
+      "slug": "losicki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 128,
+      "name": "makowski",
+      "slug": "makowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 129,
+      "name": "miński",
+      "slug": "minski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 130,
+      "name": "mławski",
+      "slug": "mlawski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 131,
+      "name": "nowodworski",
+      "slug": "nowodworski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 132,
+      "name": "ostrołęcki",
+      "slug": "ostrolecki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 133,
+      "name": "ostrowski",
+      "slug": "ostrowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 134,
+      "name": "otwocki",
+      "slug": "otwocki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 135,
+      "name": "piaseczyński",
+      "slug": "piaseczynski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 136,
+      "name": "płocki",
+      "slug": "plocki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 137,
+      "name": "płoński",
+      "slug": "plonski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 138,
+      "name": "pruszkowski",
+      "slug": "pruszkowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 139,
+      "name": "przasnyski",
+      "slug": "przasnyski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 140,
+      "name": "przysuski",
+      "slug": "przysuski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 141,
+      "name": "pułtuski",
+      "slug": "pultuski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 142,
+      "name": "radomski",
+      "slug": "radomski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 143,
+      "name": "siedlecki",
+      "slug": "siedlecki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 144,
+      "name": "sierpecki",
+      "slug": "sierpecki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 145,
+      "name": "sochaczewski",
+      "slug": "sochaczewski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 146,
+      "name": "sokołowski",
+      "slug": "sokolowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 147,
+      "name": "szydłowiecki",
+      "slug": "szydlowiecki",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 148,
+      "name": "warszawski zachodni",
+      "slug": "warszawski-zachodni",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 149,
+      "name": "węgrowski",
+      "slug": "wegrowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 150,
+      "name": "wołomiński",
+      "slug": "wolominski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 151,
+      "name": "wyszkowski",
+      "slug": "wyszkowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 152,
+      "name": "zwoleński",
+      "slug": "zwolenski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 153,
+      "name": "żuromiński",
+      "slug": "zurominski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 154,
+      "name": "żyrardowski",
+      "slug": "zyrardowski",
+      "voivodeship_id": 7,
+      "voivodeship_name": "mazowieckie",
+      "voivodeship_slug": "mazowieckie"
+    },
+    {
+      "county_id": 155,
+      "name": "brzeski",
+      "slug": "brzeski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 156,
+      "name": "głubczycki",
+      "slug": "glubczycki",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 157,
+      "name": "kędzierzyńsko-kozielski",
+      "slug": "kedzierzynsko-kozielski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 158,
+      "name": "kluczborski",
+      "slug": "kluczborski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 159,
+      "name": "krapkowicki",
+      "slug": "krapkowicki",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 160,
+      "name": "namysłowski",
+      "slug": "namyslowski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 161,
+      "name": "nyski",
+      "slug": "nyski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 162,
+      "name": "oleski",
+      "slug": "oleski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 163,
+      "name": "opolski",
+      "slug": "opolski",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 164,
+      "name": "prudnicki",
+      "slug": "prudnicki",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 165,
+      "name": "strzelecki",
+      "slug": "strzelecki",
+      "voivodeship_id": 8,
+      "voivodeship_name": "opolskie",
+      "voivodeship_slug": "opolskie"
+    },
+    {
+      "county_id": 166,
+      "name": "bieszczadzki",
+      "slug": "bieszczadzki",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 167,
+      "name": "brzozowski",
+      "slug": "brzozowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 168,
+      "name": "dębicki",
+      "slug": "debicki",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 169,
+      "name": "jarosławski",
+      "slug": "jaroslawski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 170,
+      "name": "jasielski",
+      "slug": "jasielski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 171,
+      "name": "kolbuszowski",
+      "slug": "kolbuszowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 172,
+      "name": "krośnieński",
+      "slug": "krosnienski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 173,
+      "name": "leżajski",
+      "slug": "lezajski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 174,
+      "name": "lubaczowski",
+      "slug": "lubaczowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 175,
+      "name": "łańcucki",
+      "slug": "lancucki",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 176,
+      "name": "mielecki",
+      "slug": "mielecki",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 177,
+      "name": "niżański",
+      "slug": "nizanski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 178,
+      "name": "przemyski",
+      "slug": "przemyski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 179,
+      "name": "przeworski",
+      "slug": "przeworski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 180,
+      "name": "ropczycko-sędziszowski",
+      "slug": "ropczycko-sedziszowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 181,
+      "name": "rzeszowski",
+      "slug": "rzeszowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 182,
+      "name": "sanocki",
+      "slug": "sanocki",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 183,
+      "name": "stalowowolski",
+      "slug": "stalowowolski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 184,
+      "name": "strzyżowski",
+      "slug": "strzyzowski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 185,
+      "name": "tarnobrzeski",
+      "slug": "tarnobrzeski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 186,
+      "name": "leski",
+      "slug": "leski",
+      "voivodeship_id": 9,
+      "voivodeship_name": "podkarpackie",
+      "voivodeship_slug": "podkarpackie"
+    },
+    {
+      "county_id": 187,
+      "name": "augustowski",
+      "slug": "augustowski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 188,
+      "name": "białostocki",
+      "slug": "bialostocki",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 189,
+      "name": "bielski",
+      "slug": "bielski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 190,
+      "name": "grajewski",
+      "slug": "grajewski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 191,
+      "name": "hajnowski",
+      "slug": "hajnowski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 192,
+      "name": "kolneński",
+      "slug": "kolnenski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 193,
+      "name": "łomżyński",
+      "slug": "lomzynski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 194,
+      "name": "moniecki",
+      "slug": "moniecki",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 195,
+      "name": "sejneński",
+      "slug": "sejnenski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 196,
+      "name": "siemiatycki",
+      "slug": "siemiatycki",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 197,
+      "name": "sokólski",
+      "slug": "sokolski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 198,
+      "name": "suwalski",
+      "slug": "suwalski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 199,
+      "name": "wysokomazowiecki",
+      "slug": "wysokomazowiecki",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 200,
+      "name": "zambrowski",
+      "slug": "zambrowski",
+      "voivodeship_id": 10,
+      "voivodeship_name": "podlaskie",
+      "voivodeship_slug": "podlaskie"
+    },
+    {
+      "county_id": 201,
+      "name": "bytowski",
+      "slug": "bytowski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 202,
+      "name": "chojnicki",
+      "slug": "chojnicki",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 203,
+      "name": "człuchowski",
+      "slug": "czluchowski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 204,
+      "name": "gdański",
+      "slug": "gdanski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 205,
+      "name": "kartuski",
+      "slug": "kartuski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 206,
+      "name": "kościerski",
+      "slug": "koscierski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 207,
+      "name": "kwidzyński",
+      "slug": "kwidzynski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 208,
+      "name": "lęborski",
+      "slug": "leborski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 209,
+      "name": "malborski",
+      "slug": "malborski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 210,
+      "name": "nowodworski",
+      "slug": "nowodworski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 211,
+      "name": "pucki",
+      "slug": "pucki",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 212,
+      "name": "słupski",
+      "slug": "slupski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 213,
+      "name": "starogardzki",
+      "slug": "starogardzki",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 214,
+      "name": "tczewski",
+      "slug": "tczewski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 215,
+      "name": "wejherowski",
+      "slug": "wejherowski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 216,
+      "name": "sztumski",
+      "slug": "sztumski",
+      "voivodeship_id": 11,
+      "voivodeship_name": "pomorskie",
+      "voivodeship_slug": "pomorskie"
+    },
+    {
+      "county_id": 217,
+      "name": "będziński",
+      "slug": "bedzinski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 218,
+      "name": "bielski",
+      "slug": "bielski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 219,
+      "name": "cieszyński",
+      "slug": "cieszynski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 220,
+      "name": "częstochowski",
+      "slug": "czestochowski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 221,
+      "name": "gliwicki",
+      "slug": "gliwicki",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 222,
+      "name": "kłobucki",
+      "slug": "klobucki",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 223,
+      "name": "lubliniecki",
+      "slug": "lubliniecki",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 224,
+      "name": "mikołowski",
+      "slug": "mikolowski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 225,
+      "name": "myszkowski",
+      "slug": "myszkowski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 226,
+      "name": "pszczyński",
+      "slug": "pszczynski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 227,
+      "name": "raciborski",
+      "slug": "raciborski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 228,
+      "name": "rybnicki",
+      "slug": "rybnicki",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 229,
+      "name": "tarnogórski",
+      "slug": "tarnogorski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 230,
+      "name": "bieruńsko-lędziński",
+      "slug": "bierunsko-ledzinski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 231,
+      "name": "wodzisławski",
+      "slug": "wodzislawski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 232,
+      "name": "zawierciański",
+      "slug": "zawiercianski",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 233,
+      "name": "żywiecki",
+      "slug": "zywiecki",
+      "voivodeship_id": 12,
+      "voivodeship_name": "śląskie",
+      "voivodeship_slug": "slaskie"
+    },
+    {
+      "county_id": 234,
+      "name": "buski",
+      "slug": "buski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 235,
+      "name": "jędrzejowski",
+      "slug": "jedrzejowski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 236,
+      "name": "kazimierski",
+      "slug": "kazimierski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 237,
+      "name": "kielecki",
+      "slug": "kielecki",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 238,
+      "name": "konecki",
+      "slug": "konecki",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 239,
+      "name": "opatowski",
+      "slug": "opatowski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 240,
+      "name": "ostrowiecki",
+      "slug": "ostrowiecki",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 241,
+      "name": "pińczowski",
+      "slug": "pinczowski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 242,
+      "name": "sandomierski",
+      "slug": "sandomierski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 243,
+      "name": "skarżyski",
+      "slug": "skarzyski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 244,
+      "name": "starachowicki",
+      "slug": "starachowicki",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 245,
+      "name": "staszowski",
+      "slug": "staszowski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 246,
+      "name": "włoszczowski",
+      "slug": "wloszczowski",
+      "voivodeship_id": 13,
+      "voivodeship_name": "świętokrzyskie",
+      "voivodeship_slug": "swietokrzyskie"
+    },
+    {
+      "county_id": 247,
+      "name": "bartoszycki",
+      "slug": "bartoszycki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 248,
+      "name": "braniewski",
+      "slug": "braniewski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 249,
+      "name": "działdowski",
+      "slug": "dzialdowski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 250,
+      "name": "elbląski",
+      "slug": "elblaski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 251,
+      "name": "ełcki",
+      "slug": "elcki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 252,
+      "name": "giżycki",
+      "slug": "gizycki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 253,
+      "name": "iławski",
+      "slug": "ilawski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 254,
+      "name": "kętrzyński",
+      "slug": "ketrzynski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 255,
+      "name": "lidzbarski",
+      "slug": "lidzbarski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 256,
+      "name": "mrągowski",
+      "slug": "mragowski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 257,
+      "name": "nidzicki",
+      "slug": "nidzicki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 258,
+      "name": "nowomiejski",
+      "slug": "nowomiejski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 259,
+      "name": "olecki",
+      "slug": "olecki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 260,
+      "name": "olsztyński",
+      "slug": "olsztynski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 261,
+      "name": "ostródzki",
+      "slug": "ostrodzki",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 262,
+      "name": "piski",
+      "slug": "piski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 263,
+      "name": "szczycieński",
+      "slug": "szczycienski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 264,
+      "name": "gołdapski",
+      "slug": "goldapski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 265,
+      "name": "węgorzewski",
+      "slug": "wegorzewski",
+      "voivodeship_id": 14,
+      "voivodeship_name": "warmińsko-mazurskie",
+      "voivodeship_slug": "warminsko-mazurskie"
+    },
+    {
+      "county_id": 266,
+      "name": "chodzieski",
+      "slug": "chodzieski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 267,
+      "name": "czarnkowsko-trzcianecki",
+      "slug": "czarnkowsko-trzcianecki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 268,
+      "name": "gnieźnieński",
+      "slug": "gnieznienski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 269,
+      "name": "gostyński",
+      "slug": "gostynski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 270,
+      "name": "grodziski",
+      "slug": "grodziski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 271,
+      "name": "jarociński",
+      "slug": "jarocinski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 272,
+      "name": "kaliski",
+      "slug": "kaliski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 273,
+      "name": "kępiński",
+      "slug": "kepinski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 274,
+      "name": "kolski",
+      "slug": "kolski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 275,
+      "name": "koniński",
+      "slug": "koninski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 276,
+      "name": "kościański",
+      "slug": "koscianski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 277,
+      "name": "krotoszyński",
+      "slug": "krotoszynski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 278,
+      "name": "leszczyński",
+      "slug": "leszczynski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 279,
+      "name": "międzychodzki",
+      "slug": "miedzychodzki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 280,
+      "name": "nowotomyski",
+      "slug": "nowotomyski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 281,
+      "name": "obornicki",
+      "slug": "obornicki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 282,
+      "name": "ostrowski",
+      "slug": "ostrowski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 283,
+      "name": "ostrzeszowski",
+      "slug": "ostrzeszowski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 284,
+      "name": "pilski",
+      "slug": "pilski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 285,
+      "name": "pleszewski",
+      "slug": "pleszewski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 286,
+      "name": "poznański",
+      "slug": "poznanski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 287,
+      "name": "rawicki",
+      "slug": "rawicki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 288,
+      "name": "słupecki",
+      "slug": "slupecki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 289,
+      "name": "szamotulski",
+      "slug": "szamotulski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 290,
+      "name": "średzki",
+      "slug": "sredzki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 291,
+      "name": "śremski",
+      "slug": "sremski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 292,
+      "name": "turecki",
+      "slug": "turecki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 293,
+      "name": "wągrowiecki",
+      "slug": "wagrowiecki",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 294,
+      "name": "wolsztyński",
+      "slug": "wolsztynski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 295,
+      "name": "wrzesiński",
+      "slug": "wrzesinski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 296,
+      "name": "złotowski",
+      "slug": "zlotowski",
+      "voivodeship_id": 15,
+      "voivodeship_name": "wielkopolskie",
+      "voivodeship_slug": "wielkopolskie"
+    },
+    {
+      "county_id": 297,
+      "name": "białogardzki",
+      "slug": "bialogardzki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 298,
+      "name": "choszczeński",
+      "slug": "choszczenski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 299,
+      "name": "drawski",
+      "slug": "drawski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 300,
+      "name": "goleniowski",
+      "slug": "goleniowski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 301,
+      "name": "gryficki",
+      "slug": "gryficki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 302,
+      "name": "gryfiński",
+      "slug": "gryfinski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 303,
+      "name": "kamieński",
+      "slug": "kamienski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 304,
+      "name": "kołobrzeski",
+      "slug": "kolobrzeski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 305,
+      "name": "koszaliński",
+      "slug": "koszalinski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 306,
+      "name": "myśliborski",
+      "slug": "mysliborski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 307,
+      "name": "policki",
+      "slug": "policki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 308,
+      "name": "pyrzycki",
+      "slug": "pyrzycki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 309,
+      "name": "sławieński",
+      "slug": "slawienski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 310,
+      "name": "stargardzki",
+      "slug": "stargardzki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 311,
+      "name": "szczecinecki",
+      "slug": "szczecinecki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 312,
+      "name": "świdwiński",
+      "slug": "swidwinski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 313,
+      "name": "wałecki",
+      "slug": "walecki",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    },
+    {
+      "county_id": 314,
+      "name": "łobeski",
+      "slug": "lobeski",
+      "voivodeship_id": 16,
+      "voivodeship_name": "zachodniopomorskie",
+      "voivodeship_slug": "zachodniopomorskie"
+    }
+  ],
+  "meta": {
+    "title": "Polska — powiaty - Bezpłatne pobieranie",
+    "description": "Lista 314 polskich powiatów ziemskich (drugi poziom podziału administracyjnego, LAU-1), z przypisaniem do województwa. Źródło ma jeden pusty rekord-placeholder (id=315) używany jako sentinel dla miast na prawach powiatu — został pominięty w tym zbiorze i wyodrębniony osobno jako pl-city-counties. List of 314 Polish rural powiaty (second-level administrative division, LAU-1) mapped to their parent voivodeship. Source has one empty-name placeholder (id=315) used as a sentinel for city-counties — that placeholder is dropped here and the 69 cities pointing to it are surfaced separately as pl-city-counties. Zawiera 314 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — powiaty | ListBase",
+    "seo_description": "Pobierz Polska — powiaty — 314 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 314 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

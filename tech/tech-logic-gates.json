@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "Zestaw Danych: Tabele Prawdy Bramek Logicznych",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "Odwraca sygnał wejściowy"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "Odwraca sygnał wejściowy"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Wyjście 1 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Wyjście 1 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Wyjście 1 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "Wyjście 1 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "Wyjście 1, jeśli którykolwiek z sygnałów wejściowych jest 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Wyjście 1, jeśli którykolwiek z sygnałów wejściowych jest 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Wyjście 1, jeśli którykolwiek z sygnałów wejściowych jest 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Wyjście 1, jeśli którykolwiek z sygnałów wejściowych jest 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND (NAND) - Wyjście 0 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND (NAND) - Wyjście 0 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND (NAND) - Wyjście 0 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND (NAND) - Wyjście 0 tylko wtedy, gdy oba wejścia są 1"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR (NOR) - Wyjście 1 tylko wtedy, gdy oba wejścia są 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR (NOR) - Wyjście 1 tylko wtedy, gdy oba wejścia są 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR (NOR) - Wyjście 1 tylko wtedy, gdy oba wejścia są 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR (NOR) - Wyjście 1 tylko wtedy, gdy oba wejścia są 0"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Wyjście 1, jeśli wejścia są różne"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Wyjście 1, jeśli wejścia są różne"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Wyjście 1, jeśli wejścia są różne"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Wyjście 1, jeśli wejścia są różne"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Wyjście 1, jeśli wejścia są takie same"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Wyjście 1, jeśli wejścia są takie same"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Wyjście 1, jeśli wejścia są takie same"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Wyjście 1, jeśli wejścia są takie same"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "Wyjście równa się wejściu (wzmacniacz sygnału)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "Wyjście równa się wejściu (wzmacniacz sygnału)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikacja logiczna (jeśli A, to B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikacja logiczna (jeśli A, to B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "Implikacja logiczna (jeśli A, to B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Implikacja logiczna (jeśli A, to B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabele Prawdy Bramki Logiczne - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Bezpłatne pobranie 32 tabel prawdy bramek logicznych z wyrażeniami Boole'a. Niezbędne w elektronice cyfrowej. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Zestaw Danych: Tabele Prawdy Bramek Logicznych",
+    "description": "Ten zestaw danych zawiera kompleksowe tabele prawdy dla 32 popularnych bramek logicznych, w tym ich stany wejścia/wyjścia, wyrażenia Boole'a i opisy. Idealny do nauki i referencji w elektronice cyfrowej.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do tabel prawdy dla 32 podstawowych bramek logicznych.",
+      "Poznaj wyrażenia Boole'a i opisy działania każdej bramki.",
+      "Pobierz gotowe dane do projektowania i studiowania logiki cyfrowej.",
+      "Wykorzystaj typy bramek, wejścia i wyjścia do symulacji obwodów cyfrowych."
+    ],
+    "keywords": [
+      "tabele prawdy bramek logicznych excel",
+      "zestaw danych algebry boole'a csv",
+      "cyfrowe bramki logiczne pdf",
+      "elektronika dane tabeli prawdy",
+      "darmowe bramki logiczne pobierz"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do skryptów Python lub baz danych SQL, aby programowo analizować zachowanie bramek lub budować symulatory obwodów cyfrowych.",
+      "Użyj pliku **Excel** do filtrowania bramek według typu, tworzenia niestandardowych widoków tabel prawdy lub obliczania logiki bramek w celach edukacyjnych.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, nauki offline lub dołączenia do prezentacji na temat podstaw elektroniki cyfrowej.",
+      "Wykorzystaj ten zestaw danych do szybkiej weryfikacji wyjść bramek logicznych lub jako podstawowe źródło do projektowania złożonych systemów cyfrowych."
+    ]
+  },
+  "record_count": 32,
+  "title": "Zestaw Danych: Tabele Prawdy Bramek Logicznych"
+}

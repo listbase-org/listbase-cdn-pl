@@ -1,0 +1,400 @@
+{
+  "id": "pl-strefy-czasowe-europe",
+  "name": "Strefy czasowe — Europe (43)",
+  "title": "Strefy czasowe — Europe (43)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Europe/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Andorra",
+      "region": "Europe",
+      "miasto": "Andora",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Astrakhan",
+      "region": "Europe",
+      "miasto": "Astrachań",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "miasto": "Ateny",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "miasto": "Belgrad",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Bratislava",
+      "region": "Europe",
+      "miasto": "Bratysława",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "miasto": "Bruksela",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "miasto": "Bukareszt",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Budapest",
+      "region": "Europe",
+      "miasto": "Budapeszt",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "miasto": "Büsingen am Hochrhein",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "miasto": "Kiszyniów",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "miasto": "Kopenhaga",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "miasto": "",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": "Irlandia (czas letni)"
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Isle_of_Man",
+      "region": "Europe",
+      "miasto": "Wyspa Man",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Istanbul",
+      "region": "Europe",
+      "miasto": "Stambuł",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "miasto": "Kijów",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Kirov",
+      "region": "Europe",
+      "miasto": "Kirow",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "miasto": "Lizbona",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Ljubljana",
+      "region": "Europe",
+      "miasto": "Lublana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "miasto": "Londyn",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": "Brytyjski czas letni"
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Luxembourg",
+      "region": "Europe",
+      "miasto": "Luksemburg",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Madrid",
+      "region": "Europe",
+      "miasto": "Madryt",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Mariehamn",
+      "region": "Europe",
+      "miasto": "Maarianhamina",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Minsk",
+      "region": "Europe",
+      "miasto": "Mińsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Monaco",
+      "region": "Europe",
+      "miasto": "Monako",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "miasto": "Moskwa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/Paris",
+      "region": "Europe",
+      "miasto": "Paryż",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "miasto": "Praga",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Riga",
+      "region": "Europe",
+      "miasto": "Ryga",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "miasto": "Rzym",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Sarajevo",
+      "region": "Europe",
+      "miasto": "Sarajewo",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Saratov",
+      "region": "Europe",
+      "miasto": "Saratów",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Simferopol",
+      "region": "Europe",
+      "miasto": "Symferopol",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Europe/Stockholm",
+      "region": "Europe",
+      "miasto": "Sztokholm",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Europe/Tallinn",
+      "region": "Europe",
+      "miasto": "Tallin",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "miasto": "Tirana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "miasto": "Uljanowsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "miasto": "Watykan",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "miasto": "Wiedeń",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Europe/Vilnius",
+      "region": "Europe",
+      "miasto": "Wilno",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Europe/Volgograd",
+      "region": "Europe",
+      "miasto": "Wołgograd",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "miasto": "Warszawa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Europe/Zagreb",
+      "region": "Europe",
+      "miasto": "Zagrzeb",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "miasto": "Zurych",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Europe (43) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Europe/', z nazwami po polsku. Zawiera 43 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Europe (43) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Europe (43) — 43 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 43 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

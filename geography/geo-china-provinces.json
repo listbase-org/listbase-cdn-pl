@@ -1,0 +1,497 @@
+{
+  "id": "geo-china-provinces",
+  "name": "Zbiór Danych Prowincji i Podziałów Administracyjnych Chin",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_cn",
+      "label": "Name (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "name_pinyin",
+      "label": "Pinyin",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital_cn",
+      "label": "Capital (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Anhui",
+      "name_cn": "安徽",
+      "name_pinyin": "Ānhuī",
+      "capital": "Hefei",
+      "capital_cn": "合肥",
+      "type": "Prowincja",
+      "region": "Chiny Wschodnie",
+      "iso_code": "CN-AH",
+      "population": 61027171,
+      "area_km2": 140100
+    },
+    {
+      "name_en": "Fujian",
+      "name_cn": "福建",
+      "name_pinyin": "Fújiàn",
+      "capital": "Fuzhou",
+      "capital_cn": "福州",
+      "type": "Prowincja",
+      "region": "Chiny Wschodnie",
+      "iso_code": "CN-FJ",
+      "population": 41540086,
+      "area_km2": 124000
+    },
+    {
+      "name_en": "Gansu",
+      "name_cn": "甘肃",
+      "name_pinyin": "Gānsù",
+      "capital": "Lanzhou",
+      "capital_cn": "兰州",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Zachodnie",
+      "iso_code": "CN-GS",
+      "population": 25019831,
+      "area_km2": 425800
+    },
+    {
+      "name_en": "Guangdong",
+      "name_cn": "广东",
+      "name_pinyin": "Guǎngdōng",
+      "capital": "Kanton",
+      "capital_cn": "广州",
+      "type": "Prowincja",
+      "region": "Chiny Południowe",
+      "iso_code": "CN-GD",
+      "population": 126012510,
+      "area_km2": 179800
+    },
+    {
+      "name_en": "Guizhou",
+      "name_cn": "贵州",
+      "name_pinyin": "Guìzhōu",
+      "capital": "Guiyang",
+      "capital_cn": "贵阳",
+      "type": "Prowincja",
+      "region": "Chiny Południowo-Zachodnie",
+      "iso_code": "CN-GZ",
+      "population": 38562148,
+      "area_km2": 176100
+    },
+    {
+      "name_en": "Hajnan",
+      "name_cn": "海南",
+      "name_pinyin": "Hǎinán",
+      "capital": "Haikou",
+      "capital_cn": "海口",
+      "type": "Prowincja",
+      "region": "Chiny Południowe",
+      "iso_code": "CN-HI",
+      "population": 10081232,
+      "area_km2": 35400
+    },
+    {
+      "name_en": "Hebei",
+      "name_cn": "河北",
+      "name_pinyin": "Héběi",
+      "capital": "Shijiazhuang",
+      "capital_cn": "石家庄",
+      "type": "Prowincja",
+      "region": "Chiny Północne",
+      "iso_code": "CN-HE",
+      "population": 74610235,
+      "area_km2": 187700
+    },
+    {
+      "name_en": "Heilongjiang",
+      "name_cn": "黑龙江",
+      "name_pinyin": "Hēilóngjiāng",
+      "capital": "Harbin",
+      "capital_cn": "哈尔滨",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Wschodnie",
+      "iso_code": "CN-HL",
+      "population": 31850088,
+      "area_km2": 454800
+    },
+    {
+      "name_en": "Henan",
+      "name_cn": "河南",
+      "name_pinyin": "Hénán",
+      "capital": "Zhengzhou",
+      "capital_cn": "郑州",
+      "type": "Prowincja",
+      "region": "Chiny Centralne",
+      "iso_code": "CN-HA",
+      "population": 99365519,
+      "area_km2": 167000
+    },
+    {
+      "name_en": "Hubei",
+      "name_cn": "湖北",
+      "name_pinyin": "Húběi",
+      "capital": "Wuhan",
+      "capital_cn": "武汉",
+      "type": "Prowincja",
+      "region": "Chiny Centralne",
+      "iso_code": "CN-HB",
+      "population": 57752557,
+      "area_km2": 185900
+    },
+    {
+      "name_en": "Hunan",
+      "name_cn": "湖南",
+      "name_pinyin": "Húnán",
+      "capital": "Changsha",
+      "capital_cn": "长沙",
+      "type": "Prowincja",
+      "region": "Chiny Centralne",
+      "iso_code": "CN-HN",
+      "population": 66444864,
+      "area_km2": 211800
+    },
+    {
+      "name_en": "Jiangsu",
+      "name_cn": "江苏",
+      "name_pinyin": "Jiāngsū",
+      "capital": "Nankin",
+      "capital_cn": "南京",
+      "type": "Prowincja",
+      "region": "Chiny Wschodnie",
+      "iso_code": "CN-JS",
+      "population": 84748016,
+      "area_km2": 102600
+    },
+    {
+      "name_en": "Jiangxi",
+      "name_cn": "江西",
+      "name_pinyin": "Jiāngxī",
+      "capital": "Nanchang",
+      "capital_cn": "南昌",
+      "type": "Prowincja",
+      "region": "Chiny Wschodnie",
+      "iso_code": "CN-JX",
+      "population": 45188635,
+      "area_km2": 166900
+    },
+    {
+      "name_en": "Jilin",
+      "name_cn": "吉林",
+      "name_pinyin": "Jílín",
+      "capital": "Changchun",
+      "capital_cn": "长春",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Wschodnie",
+      "iso_code": "CN-JL",
+      "population": 24073453,
+      "area_km2": 187400
+    },
+    {
+      "name_en": "Liaoning",
+      "name_cn": "辽宁",
+      "name_pinyin": "Liáoníng",
+      "capital": "Shenyang",
+      "capital_cn": "沈阳",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Wschodnie",
+      "iso_code": "CN-LN",
+      "population": 42591407,
+      "area_km2": 148000
+    },
+    {
+      "name_en": "Qinghai",
+      "name_cn": "青海",
+      "name_pinyin": "Qīnghǎi",
+      "capital": "Xining",
+      "capital_cn": "西宁",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Zachodnie",
+      "iso_code": "CN-QH",
+      "population": 5923957,
+      "area_km2": 721200
+    },
+    {
+      "name_en": "Shaanxi",
+      "name_cn": "陕西",
+      "name_pinyin": "Shǎnxī",
+      "capital": "Xi'an",
+      "capital_cn": "西安",
+      "type": "Prowincja",
+      "region": "Chiny Północno-Zachodnie",
+      "iso_code": "CN-SN",
+      "population": 39528999,
+      "area_km2": 205600
+    },
+    {
+      "name_en": "Szantung",
+      "name_cn": "山东",
+      "name_pinyin": "Shāndōng",
+      "capital": "Jinan",
+      "capital_cn": "济南",
+      "type": "Prowincja",
+      "region": "Chiny Wschodnie",
+      "iso_code": "CN-SD",
+      "population": 101527453,
+      "area_km2": 157100
+    },
+    {
+      "name_en": "Shanxi",
+      "name_cn": "山西",
+      "name_pinyin": "Shānxī",
+      "capital": "Taiyuan",
+      "capital_cn": "太原",
+      "type": "Prowincja",
+      "region": "Chiny Północne",
+      "iso_code": "CN-SX",
+      "population": 34915616,
+      "area_km2": 156300
+    },
+    {
+      "name_en": "Syczuan",
+      "name_cn": "四川",
+      "name_pinyin": "Sìchuān",
+      "capital": "Chengdu",
+      "capital_cn": "成都",
+      "type": "Prowincja",
+      "region": "Chiny Południowo-Zachodnie",
+      "iso_code": "CN-SC",
+      "population": 83674866,
+      "area_km2": 485000
+    },
+    {
+      "name_en": "Junnan",
+      "name_cn": "云南",
+      "name_pinyin": "Yúnnán",
+      "capital": "Kunming",
+      "capital_cn": "昆明",
+      "type": "Prowincja",
+      "region": "Południowo-zachodnie Chiny",
+      "iso_code": "CN-YN",
+      "population": 47209277,
+      "area_km2": 394100
+    },
+    {
+      "name_en": "Zhejiang",
+      "name_cn": "浙江",
+      "name_pinyin": "Zhèjiāng",
+      "capital": "Hangzhou",
+      "capital_cn": "杭州",
+      "type": "Prowincja",
+      "region": "Wschodnie Chiny",
+      "iso_code": "CN-ZJ",
+      "population": 64567588,
+      "area_km2": 101800
+    },
+    {
+      "name_en": "Tajwan",
+      "name_cn": "台湾",
+      "name_pinyin": "Táiwān",
+      "capital": "Tajpej",
+      "capital_cn": "台北",
+      "type": "Prowincja",
+      "region": "Wschodnie Chiny",
+      "iso_code": "CN-TW",
+      "population": 23570000,
+      "area_km2": 36197
+    },
+    {
+      "name_en": "Kuangsi",
+      "name_cn": "广西",
+      "name_pinyin": "Guǎngxī",
+      "capital": "Nanning",
+      "capital_cn": "南宁",
+      "type": "Region Autonomiczny",
+      "region": "Południowe Chiny",
+      "iso_code": "CN-GX",
+      "population": 50126804,
+      "area_km2": 237600
+    },
+    {
+      "name_en": "Mongolia Wewnętrzna",
+      "name_cn": "内蒙古",
+      "name_pinyin": "Nèi Měnggǔ",
+      "capital": "Hohhot",
+      "capital_cn": "呼和浩特",
+      "type": "Region Autonomiczny",
+      "region": "Północne Chiny",
+      "iso_code": "CN-NM",
+      "population": 24049155,
+      "area_km2": 1183000
+    },
+    {
+      "name_en": "Ningxia",
+      "name_cn": "宁夏",
+      "name_pinyin": "Níngxià",
+      "capital": "Yinchuan",
+      "capital_cn": "银川",
+      "type": "Region Autonomiczny",
+      "region": "Północno-zachodnie Chiny",
+      "iso_code": "CN-NX",
+      "population": 7202654,
+      "area_km2": 66400
+    },
+    {
+      "name_en": "Tybet",
+      "name_cn": "西藏",
+      "name_pinyin": "Xīzàng",
+      "capital": "Lhasa",
+      "capital_cn": "拉萨",
+      "type": "Region Autonomiczny",
+      "region": "Południowo-zachodnie Chiny",
+      "iso_code": "CN-XZ",
+      "population": 3648100,
+      "area_km2": 1228400
+    },
+    {
+      "name_en": "Sinciang",
+      "name_cn": "新疆",
+      "name_pinyin": "Xīnjiāng",
+      "capital": "Urumczi",
+      "capital_cn": "乌鲁木齐",
+      "type": "Region Autonomiczny",
+      "region": "Północno-zachodnie Chiny",
+      "iso_code": "CN-XJ",
+      "population": 25852345,
+      "area_km2": 1664900
+    },
+    {
+      "name_en": "Pekin",
+      "name_cn": "北京",
+      "name_pinyin": "Běijīng",
+      "capital": "Pekin",
+      "capital_cn": "北京",
+      "type": "Miasto na prawach prowincji",
+      "region": "Północne Chiny",
+      "iso_code": "CN-BJ",
+      "population": 21893095,
+      "area_km2": 16410
+    },
+    {
+      "name_en": "Chongqing",
+      "name_cn": "重庆",
+      "name_pinyin": "Chóngqìng",
+      "capital": "Chongqing",
+      "capital_cn": "重庆",
+      "type": "Miasto na prawach prowincji",
+      "region": "Południowo-zachodnie Chiny",
+      "iso_code": "CN-CQ",
+      "population": 32054159,
+      "area_km2": 82400
+    },
+    {
+      "name_en": "Szanghaj",
+      "name_cn": "上海",
+      "name_pinyin": "Shànghǎi",
+      "capital": "Szanghaj",
+      "capital_cn": "上海",
+      "type": "Miasto na prawach prowincji",
+      "region": "Wschodnie Chiny",
+      "iso_code": "CN-SH",
+      "population": 24870895,
+      "area_km2": 6341
+    },
+    {
+      "name_en": "Tiencin",
+      "name_cn": "天津",
+      "name_pinyin": "Tiānjīn",
+      "capital": "Tiencin",
+      "capital_cn": "天津",
+      "type": "Miasto na prawach prowincji",
+      "region": "Północne Chiny",
+      "iso_code": "CN-TJ",
+      "population": 13866009,
+      "area_km2": 11760
+    },
+    {
+      "name_en": "Hongkong",
+      "name_cn": "香港",
+      "name_pinyin": "Xiānggǎng",
+      "capital": "Hongkong",
+      "capital_cn": "香港",
+      "type": "Specjalny Region Administracyjny",
+      "region": "Południowe Chiny",
+      "iso_code": "CN-HK",
+      "population": 7474200,
+      "area_km2": 1106
+    },
+    {
+      "name_en": "Makau",
+      "name_cn": "澳门",
+      "name_pinyin": "Àomén",
+      "capital": "Makau",
+      "capital_cn": "澳门",
+      "type": "Specjalny Region Administracyjny",
+      "region": "Południowe Chiny",
+      "iso_code": "CN-MO",
+      "population": 683100,
+      "area_km2": 33
+    }
+  ],
+  "meta": {
+    "seo_title": "Prowincje Chin & Podział ADM - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie dane 34 prowincji, gmin i jednostek administracyjnych Chin. Zawiera stolice, populację, obszar, kody ISO. Dostępne w Excel, CSV, PDF.",
+    "title": "Zbiór Danych Prowincji i Podziałów Administracyjnych Chin",
+    "description": "Ten zbiór danych zawiera kompleksowe informacje o 34 prowincjach, regionach autonomicznych, gminach i specjalnych regionach administracyjnych Chin. Obejmuje angielskie i chińskie nazwy, pinyin, stolice, typy, regiony, kody ISO, populację i powierzchnię.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do szczegółowych danych demograficznych i geograficznych dla wszystkich 34 jednostek administracyjnych Chin.",
+      "Przeglądaj oficjalne angielskie nazwy, chińskie znaki, pinyin i informacje o stolicach.",
+      "Pobierz kluczowe statystyki, takie jak populacja, powierzchnia i kody ISO do projektów analitycznych.",
+      "Zrozum strukturę administracyjną Chin, w tym prowincje, gminy i SAR."
+    ],
+    "keywords": [
+      "prowincje chin dane",
+      "chińskie podziały administracyjne",
+      "stolice prowincji chin excel",
+      "kody iso chin csv",
+      "dane populacji chin",
+      "mapa regionów chin"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptów Python do analizy danych regionalnych i rozwoju aplikacji.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania prowincji według regionu i wykonywania porównań statystycznych populacji i obszaru.",
+      "Wydrukuj wersję **PDF** do celów edukacyjnych, prezentacji lub szybkiego dostępu offline do struktury administracyjnej Chin.",
+      "Zintegruj te dane z aplikacjami GIS, aby wizualizować rozmieszczenie geograficzne i demografię prowincji Chin."
+    ]
+  },
+  "record_count": 34,
+  "title": "Zbiór Danych Prowincji i Podziałów Administracyjnych Chin"
+}

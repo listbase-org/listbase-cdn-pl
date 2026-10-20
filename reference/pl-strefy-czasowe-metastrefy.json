@@ -1,0 +1,1087 @@
+{
+  "id": "pl-strefy-czasowe-metastrefy",
+  "name": "Metastrefy (makroregionalne strefy czasowe) — nazwy po polsku",
+  "title": "Metastrefy (makroregionalne strefy czasowe) — nazwy po polsku",
+  "description": "Metastrefy (makroregionalne strefy czasowe) z lokalizacji pl w CLDR — z nazwą ogólną, standardową i letnią.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_ogolna",
+      "label": "Nazwa Ogolna",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Afghanistan",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Afganistan",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "code": "Africa_Central",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas środkowoafrykański",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Eastern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas wschodnioafrykański",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Southern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas południowoafrykański",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Western",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas zachodnioafrykański",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "code": "Alaska",
+      "nazwa_ogolna": "czas Alaska",
+      "nazwa_standardowa": "Alaska (czas standardowy)",
+      "nazwa_letnia": "Alaska (czas letni)"
+    },
+    {
+      "id": 7,
+      "code": "Amazon",
+      "nazwa_ogolna": "czas amazoński",
+      "nazwa_standardowa": "czas amazoński standardowy",
+      "nazwa_letnia": "czas amazoński letni"
+    },
+    {
+      "id": 8,
+      "code": "America_Central",
+      "nazwa_ogolna": "czas środkowoamerykański",
+      "nazwa_standardowa": "czas środkowoamerykański standardowy",
+      "nazwa_letnia": "czas środkowoamerykański letni"
+    },
+    {
+      "id": 9,
+      "code": "America_Eastern",
+      "nazwa_ogolna": "czas wschodnioamerykański",
+      "nazwa_standardowa": "czas wschodnioamerykański standardowy",
+      "nazwa_letnia": "czas wschodnioamerykański letni"
+    },
+    {
+      "id": 10,
+      "code": "America_Mountain",
+      "nazwa_ogolna": "czas górski",
+      "nazwa_standardowa": "czas górski standardowy",
+      "nazwa_letnia": "czas górski letni"
+    },
+    {
+      "id": 11,
+      "code": "America_Pacific",
+      "nazwa_ogolna": "czas pacyficzny",
+      "nazwa_standardowa": "czas pacyficzny standardowy",
+      "nazwa_letnia": "czas pacyficzny letni"
+    },
+    {
+      "id": 12,
+      "code": "Anadyr",
+      "nazwa_ogolna": "czas Anadyr",
+      "nazwa_standardowa": "czas standardowy Anadyr",
+      "nazwa_letnia": "czas Anadyr letni"
+    },
+    {
+      "id": 13,
+      "code": "Apia",
+      "nazwa_ogolna": "czas Apia",
+      "nazwa_standardowa": "Apia (czas standardowy)",
+      "nazwa_letnia": "Apia (czas letni)"
+    },
+    {
+      "id": 14,
+      "code": "Arabian",
+      "nazwa_ogolna": "czas Półwysep Arabski",
+      "nazwa_standardowa": "Półwysep Arabski (czas standardowy)",
+      "nazwa_letnia": "Półwysep Arabski (czas letni)"
+    },
+    {
+      "id": 15,
+      "code": "Argentina",
+      "nazwa_ogolna": "czas Argentyna",
+      "nazwa_standardowa": "Argentyna (czas standardowy)",
+      "nazwa_letnia": "Argentyna (czas letni)"
+    },
+    {
+      "id": 16,
+      "code": "Argentina_Western",
+      "nazwa_ogolna": "czas Argentyna Zachodnia",
+      "nazwa_standardowa": "Argentyna Zachodnia (czas standardowy)",
+      "nazwa_letnia": "Argentyna Zachodnia (czas letni)"
+    },
+    {
+      "id": 17,
+      "code": "Armenia",
+      "nazwa_ogolna": "czas Armenia",
+      "nazwa_standardowa": "Armenia (czas standardowy)",
+      "nazwa_letnia": "Armenia (czas letni)"
+    },
+    {
+      "id": 18,
+      "code": "Atlantic",
+      "nazwa_ogolna": "czas atlantycki",
+      "nazwa_standardowa": "czas atlantycki standardowy",
+      "nazwa_letnia": "czas atlantycki letni"
+    },
+    {
+      "id": 19,
+      "code": "Australia_Central",
+      "nazwa_ogolna": "czas środkowoaustralijski",
+      "nazwa_standardowa": "czas środkowoaustralijski standardowy",
+      "nazwa_letnia": "czas środkowoaustralijski letni"
+    },
+    {
+      "id": 20,
+      "code": "Australia_CentralWestern",
+      "nazwa_ogolna": "czas środkowo-zachodnioaustralijski",
+      "nazwa_standardowa": "czas środkowo-zachodnioaustralijski standardowy",
+      "nazwa_letnia": "czas środkowo-zachodnioaustralijski letni"
+    },
+    {
+      "id": 21,
+      "code": "Australia_Eastern",
+      "nazwa_ogolna": "czas wschodnioaustralijski",
+      "nazwa_standardowa": "czas wschodnioaustralijski standardowy",
+      "nazwa_letnia": "czas wschodnioaustralijski letni"
+    },
+    {
+      "id": 22,
+      "code": "Australia_Western",
+      "nazwa_ogolna": "czas zachodnioaustralijski",
+      "nazwa_standardowa": "czas zachodnioaustralijski standardowy",
+      "nazwa_letnia": "czas zachodnioaustralijski letni"
+    },
+    {
+      "id": 23,
+      "code": "Azerbaijan",
+      "nazwa_ogolna": "czas Azerbejdżan",
+      "nazwa_standardowa": "Azerbejdżan (czas standardowy)",
+      "nazwa_letnia": "Azerbejdżan (czas letni)"
+    },
+    {
+      "id": 24,
+      "code": "Azores",
+      "nazwa_ogolna": "czas Azory",
+      "nazwa_standardowa": "Azory (czas standardowy)",
+      "nazwa_letnia": "Azory (czas letni)"
+    },
+    {
+      "id": 25,
+      "code": "Bangladesh",
+      "nazwa_ogolna": "czas Bangladesz",
+      "nazwa_standardowa": "Bangladesz (czas standardowy)",
+      "nazwa_letnia": "Bangladesz (czas letni)"
+    },
+    {
+      "id": 26,
+      "code": "Bhutan",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Bhutan",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 27,
+      "code": "Bolivia",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Boliwia",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 28,
+      "code": "Brasilia",
+      "nazwa_ogolna": "czas Brasília",
+      "nazwa_standardowa": "Brasília (czas standardowy)",
+      "nazwa_letnia": "Brasília (czas letni)"
+    },
+    {
+      "id": 29,
+      "code": "Brunei",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Brunei",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 30,
+      "code": "Cape_Verde",
+      "nazwa_ogolna": "czas Wyspy Zielonego Przylądka",
+      "nazwa_standardowa": "Wyspy Zielonego Przylądka (czas standardowy)",
+      "nazwa_letnia": "Wyspy Zielonego Przylądka (czas letni)"
+    },
+    {
+      "id": 31,
+      "code": "Chamorro",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Czamorro",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 32,
+      "code": "Chatham",
+      "nazwa_ogolna": "czas Chatham",
+      "nazwa_standardowa": "Chatham (czas standardowy)",
+      "nazwa_letnia": "Chatham (czas letni)"
+    },
+    {
+      "id": 33,
+      "code": "Chile",
+      "nazwa_ogolna": "czas Chile",
+      "nazwa_standardowa": "Chile (czas standardowy)",
+      "nazwa_letnia": "Chile (czas letni)"
+    },
+    {
+      "id": 34,
+      "code": "China",
+      "nazwa_ogolna": "czas Chiny",
+      "nazwa_standardowa": "Chiny (czas standardowy)",
+      "nazwa_letnia": "Chiny (czas letni)"
+    },
+    {
+      "id": 35,
+      "code": "Christmas",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspa Bożego Narodzenia",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 36,
+      "code": "Cocos",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspy Kokosowe",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 37,
+      "code": "Colombia",
+      "nazwa_ogolna": "czas Kolumbia",
+      "nazwa_standardowa": "Kolumbia (czas standardowy)",
+      "nazwa_letnia": "Kolumbia (czas letni)"
+    },
+    {
+      "id": 38,
+      "code": "Cook",
+      "nazwa_ogolna": "czas Wyspy Cooka",
+      "nazwa_standardowa": "Wyspy Cooka (czas standardowy)",
+      "nazwa_letnia": "Wyspy Cooka (czas letni)"
+    },
+    {
+      "id": 39,
+      "code": "Cuba",
+      "nazwa_ogolna": "czas Kuba",
+      "nazwa_standardowa": "Kuba (czas standardowy)",
+      "nazwa_letnia": "Kuba (czas letni)"
+    },
+    {
+      "id": 40,
+      "code": "Davis",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Davis",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 41,
+      "code": "DumontDUrville",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Dumont-d’Urville",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 42,
+      "code": "East_Timor",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Timor Wschodni",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 43,
+      "code": "Easter",
+      "nazwa_ogolna": "czas Wyspa Wielkanocna",
+      "nazwa_standardowa": "Wyspa Wielkanocna (czas standardowy)",
+      "nazwa_letnia": "Wyspa Wielkanocna (czas letni)"
+    },
+    {
+      "id": 44,
+      "code": "Ecuador",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Ekwador",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 45,
+      "code": "Europe_Central",
+      "nazwa_ogolna": "czas środkowoeuropejski",
+      "nazwa_standardowa": "czas środkowoeuropejski standardowy",
+      "nazwa_letnia": "czas środkowoeuropejski letni"
+    },
+    {
+      "id": 46,
+      "code": "Europe_Eastern",
+      "nazwa_ogolna": "czas wschodnioeuropejski",
+      "nazwa_standardowa": "czas wschodnioeuropejski standardowy",
+      "nazwa_letnia": "czas wschodnioeuropejski letni"
+    },
+    {
+      "id": 47,
+      "code": "Europe_Further_Eastern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas wschodnioeuropejski dalszy",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 48,
+      "code": "Europe_Western",
+      "nazwa_ogolna": "czas zachodnioeuropejski",
+      "nazwa_standardowa": "czas zachodnioeuropejski standardowy",
+      "nazwa_letnia": "czas zachodnioeuropejski letni"
+    },
+    {
+      "id": 49,
+      "code": "Falkland",
+      "nazwa_ogolna": "czas Falklandy",
+      "nazwa_standardowa": "Falklandy (czas standardowy)",
+      "nazwa_letnia": "Falklandy (czas letni)"
+    },
+    {
+      "id": 50,
+      "code": "Fiji",
+      "nazwa_ogolna": "czas Fidżi",
+      "nazwa_standardowa": "Fidżi (czas standardowy)",
+      "nazwa_letnia": "Fidżi (czas letni)"
+    },
+    {
+      "id": 51,
+      "code": "French_Guiana",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Gujana Francuska",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 52,
+      "code": "French_Southern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Francuskie Terytoria Południowe i Antarktyczne",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 53,
+      "code": "GMT",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas uniwersalny",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 54,
+      "code": "Galapagos",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Galapagos",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 55,
+      "code": "Gambier",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspy Gambiera",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 56,
+      "code": "Georgia",
+      "nazwa_ogolna": "czas Gruzja",
+      "nazwa_standardowa": "Gruzja (czas standardowy)",
+      "nazwa_letnia": "Gruzja (czas letni)"
+    },
+    {
+      "id": 57,
+      "code": "Gilbert_Islands",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspy Gilberta",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 58,
+      "code": "Greenland_Eastern",
+      "nazwa_ogolna": "czas Grenlandia Wschodnia",
+      "nazwa_standardowa": "Grenlandia Wschodnia (czas standardowy)",
+      "nazwa_letnia": "Grenlandia Wschodnia (czas letni)"
+    },
+    {
+      "id": 59,
+      "code": "Greenland_Western",
+      "nazwa_ogolna": "czas Grenlandia Zachodnia",
+      "nazwa_standardowa": "Grenlandia Zachodnia (czas standardowy)",
+      "nazwa_letnia": "Grenlandia Zachodnia (czas letni)"
+    },
+    {
+      "id": 60,
+      "code": "Gulf",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Zatoka Perska",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 61,
+      "code": "Guyana",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Gujana",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 62,
+      "code": "Hawaii",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "Hawaje-Aleuty (czas standardowy)",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 63,
+      "code": "Hawaii_Aleutian",
+      "nazwa_ogolna": "czas Hawaje-Aleuty",
+      "nazwa_standardowa": "Hawaje-Aleuty (czas standardowy)",
+      "nazwa_letnia": "Hawaje-Aleuty (czas letni)"
+    },
+    {
+      "id": 64,
+      "code": "Hong_Kong",
+      "nazwa_ogolna": "czas Hongkong",
+      "nazwa_standardowa": "Hongkong (czas standardowy)",
+      "nazwa_letnia": "Hongkong (czas letni)"
+    },
+    {
+      "id": 65,
+      "code": "Hovd",
+      "nazwa_ogolna": "czas Kobdo",
+      "nazwa_standardowa": "Kobdo (czas standardowy)",
+      "nazwa_letnia": "Kobdo (czas letni)"
+    },
+    {
+      "id": 66,
+      "code": "India",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas indyjski standardowy",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 67,
+      "code": "Indian_Ocean",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Ocean Indyjski",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 68,
+      "code": "Indochina",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas indochiński",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 69,
+      "code": "Indonesia_Central",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Indonezja Środkowa",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 70,
+      "code": "Indonesia_Eastern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Indonezja Wschodnia",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 71,
+      "code": "Indonesia_Western",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Indonezja Zachodnia",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 72,
+      "code": "Iran",
+      "nazwa_ogolna": "czas Iran",
+      "nazwa_standardowa": "Iran (czas standardowy)",
+      "nazwa_letnia": "Iran (czas letni)"
+    },
+    {
+      "id": 73,
+      "code": "Irkutsk",
+      "nazwa_ogolna": "czas Irkuck",
+      "nazwa_standardowa": "Irkuck (czas standardowy)",
+      "nazwa_letnia": "Irkuck (czas letni)"
+    },
+    {
+      "id": 74,
+      "code": "Israel",
+      "nazwa_ogolna": "czas Izrael",
+      "nazwa_standardowa": "Izrael (czas standardowy)",
+      "nazwa_letnia": "Izrael (czas letni)"
+    },
+    {
+      "id": 75,
+      "code": "Japan",
+      "nazwa_ogolna": "czas Japonia",
+      "nazwa_standardowa": "Japonia (czas standardowy)",
+      "nazwa_letnia": "Japonia (czas letni)"
+    },
+    {
+      "id": 76,
+      "code": "Kamchatka",
+      "nazwa_ogolna": "czas Pietropawłowsk Kamczacki",
+      "nazwa_standardowa": "czas standardowy Pietropawłowsk Kamczacki",
+      "nazwa_letnia": "czas Pietropawłowsk Kamczacki letni"
+    },
+    {
+      "id": 77,
+      "code": "Kazakhstan",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Kazachstan",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 78,
+      "code": "Kazakhstan_Eastern",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Kazachstan Wschodni",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 79,
+      "code": "Kazakhstan_Western",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Kazachstan Zachodni",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 80,
+      "code": "Korea",
+      "nazwa_ogolna": "czas Korea",
+      "nazwa_standardowa": "Korea (czas standardowy)",
+      "nazwa_letnia": "Korea (czas letni)"
+    },
+    {
+      "id": 81,
+      "code": "Kosrae",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Kosrae",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 82,
+      "code": "Krasnoyarsk",
+      "nazwa_ogolna": "czas Krasnojarsk",
+      "nazwa_standardowa": "Krasnojarsk (czas standardowy)",
+      "nazwa_letnia": "Krasnojarsk (czas letni)"
+    },
+    {
+      "id": 83,
+      "code": "Kyrgystan",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Kirgistan",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 84,
+      "code": "Line_Islands",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Line Islands",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 85,
+      "code": "Lord_Howe",
+      "nazwa_ogolna": "czas Lord Howe",
+      "nazwa_standardowa": "Lord Howe (czas standardowy)",
+      "nazwa_letnia": "Lord Howe (czas letni)"
+    },
+    {
+      "id": 86,
+      "code": "Magadan",
+      "nazwa_ogolna": "czas Magadan",
+      "nazwa_standardowa": "Magadan (czas standardowy)",
+      "nazwa_letnia": "Magadan (czas letni)"
+    },
+    {
+      "id": 87,
+      "code": "Malaysia",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Malezja",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 88,
+      "code": "Maldives",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Malediwy",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 89,
+      "code": "Marquesas",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Markizy",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 90,
+      "code": "Marshall_Islands",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspy Marshalla",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 91,
+      "code": "Mauritius",
+      "nazwa_ogolna": "czas Mauritius",
+      "nazwa_standardowa": "Mauritius (czas standardowy)",
+      "nazwa_letnia": "Mauritius (czas letni)"
+    },
+    {
+      "id": 92,
+      "code": "Mawson",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Mawson",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 93,
+      "code": "Mexico_Pacific",
+      "nazwa_ogolna": "Meksyk (czas pacyficzny)",
+      "nazwa_standardowa": "Meksyk (czas pacyficzny standardowy)",
+      "nazwa_letnia": "Meksyk (czas pacyficzny letni)"
+    },
+    {
+      "id": 94,
+      "code": "Mongolia",
+      "nazwa_ogolna": "czas Ułan Bator",
+      "nazwa_standardowa": "Ułan Bator (czas standardowy)",
+      "nazwa_letnia": "Ułan Bator (czas letni)"
+    },
+    {
+      "id": 95,
+      "code": "Moscow",
+      "nazwa_ogolna": "czas Moskwa",
+      "nazwa_standardowa": "Moskwa (czas standardowy)",
+      "nazwa_letnia": "Moskwa (czas letni)"
+    },
+    {
+      "id": 96,
+      "code": "Myanmar",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Mjanma",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 97,
+      "code": "Nauru",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Nauru",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 98,
+      "code": "Nepal",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Nepal",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 99,
+      "code": "New_Caledonia",
+      "nazwa_ogolna": "czas Nowa Kaledonia",
+      "nazwa_standardowa": "Nowa Kaledonia (czas standardowy)",
+      "nazwa_letnia": "Nowa Kaledonia (czas letni)"
+    },
+    {
+      "id": 100,
+      "code": "New_Zealand",
+      "nazwa_ogolna": "czas Nowa Zelandia",
+      "nazwa_standardowa": "Nowa Zelandia (czas standardowy)",
+      "nazwa_letnia": "Nowa Zelandia (czas letni)"
+    },
+    {
+      "id": 101,
+      "code": "Newfoundland",
+      "nazwa_ogolna": "czas Nowa Fundlandia",
+      "nazwa_standardowa": "Nowa Fundlandia (czas standardowy)",
+      "nazwa_letnia": "Nowa Fundlandia (czas letni)"
+    },
+    {
+      "id": 102,
+      "code": "Niue",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Niue",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 103,
+      "code": "Norfolk",
+      "nazwa_ogolna": "czas Norfolk",
+      "nazwa_standardowa": "Norfolk (czas standardowy)",
+      "nazwa_letnia": "Norfolk (czas letni)"
+    },
+    {
+      "id": 104,
+      "code": "Noronha",
+      "nazwa_ogolna": "czas Fernando de Noronha",
+      "nazwa_standardowa": "Fernando de Noronha (czas standardowy)",
+      "nazwa_letnia": "Fernando de Noronha (czas letni)"
+    },
+    {
+      "id": 105,
+      "code": "Novosibirsk",
+      "nazwa_ogolna": "czas Nowosybirsk",
+      "nazwa_standardowa": "Nowosybirsk (czas standardowy)",
+      "nazwa_letnia": "Nowosybirsk (czas letni)"
+    },
+    {
+      "id": 106,
+      "code": "Omsk",
+      "nazwa_ogolna": "czas Omsk",
+      "nazwa_standardowa": "Omsk (czas standardowy)",
+      "nazwa_letnia": "Omsk (czas letni)"
+    },
+    {
+      "id": 107,
+      "code": "Pakistan",
+      "nazwa_ogolna": "czas Pakistan",
+      "nazwa_standardowa": "Pakistan (czas standardowy)",
+      "nazwa_letnia": "Pakistan (czas letni)"
+    },
+    {
+      "id": 108,
+      "code": "Palau",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Palau",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 109,
+      "code": "Papua_New_Guinea",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Papua-Nowa Gwinea",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 110,
+      "code": "Paraguay",
+      "nazwa_ogolna": "czas Paragwaj",
+      "nazwa_standardowa": "Paragwaj (czas standardowy)",
+      "nazwa_letnia": "Paragwaj (czas letni)"
+    },
+    {
+      "id": 111,
+      "code": "Peru",
+      "nazwa_ogolna": "czas Peru",
+      "nazwa_standardowa": "Peru (czas standardowy)",
+      "nazwa_letnia": "Peru (czas letni)"
+    },
+    {
+      "id": 112,
+      "code": "Philippines",
+      "nazwa_ogolna": "czas Filipiny",
+      "nazwa_standardowa": "Filipiny (czas standardowy)",
+      "nazwa_letnia": "Filipiny (czas letni)"
+    },
+    {
+      "id": 113,
+      "code": "Phoenix_Islands",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Feniks",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 114,
+      "code": "Pierre_Miquelon",
+      "nazwa_ogolna": "czas Saint-Pierre i Miquelon",
+      "nazwa_standardowa": "Saint-Pierre i Miquelon (czas standardowy)",
+      "nazwa_letnia": "Saint-Pierre i Miquelon (czas letni)"
+    },
+    {
+      "id": 115,
+      "code": "Pitcairn",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Pitcairn",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 116,
+      "code": "Ponape",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Pohnpei",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 117,
+      "code": "Pyongyang",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Pjongjang",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 118,
+      "code": "Reunion",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Reunion",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 119,
+      "code": "Rothera",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Rothera",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 120,
+      "code": "Sakhalin",
+      "nazwa_ogolna": "czas Sachalin",
+      "nazwa_standardowa": "Sachalin (czas standardowy)",
+      "nazwa_letnia": "Sachalin (czas letni)"
+    },
+    {
+      "id": 121,
+      "code": "Samara",
+      "nazwa_ogolna": "czas Samara",
+      "nazwa_standardowa": "czas standardowy Samara",
+      "nazwa_letnia": "czas Samara letni"
+    },
+    {
+      "id": 122,
+      "code": "Samoa",
+      "nazwa_ogolna": "czas Samoa",
+      "nazwa_standardowa": "Samoa (czas standardowy)",
+      "nazwa_letnia": "Samoa (czas letni)"
+    },
+    {
+      "id": 123,
+      "code": "Seychelles",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Seszele",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 124,
+      "code": "Singapore",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Singapur",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 125,
+      "code": "Solomon",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wyspy Salomona",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 126,
+      "code": "South_Georgia",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Georgia Południowa",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 127,
+      "code": "Suriname",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Surinam",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 128,
+      "code": "Syowa",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Syowa",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 129,
+      "code": "Tahiti",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Tahiti",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 130,
+      "code": "Taipei",
+      "nazwa_ogolna": "czas Tajpej",
+      "nazwa_standardowa": "Tajpej (czas standardowy)",
+      "nazwa_letnia": "Tajpej (czas letni)"
+    },
+    {
+      "id": 131,
+      "code": "Tajikistan",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Tadżykistan",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 132,
+      "code": "Tokelau",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Tokelau",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 133,
+      "code": "Tonga",
+      "nazwa_ogolna": "czas Tonga",
+      "nazwa_standardowa": "Tonga (czas standardowy)",
+      "nazwa_letnia": "Tonga (czas letni)"
+    },
+    {
+      "id": 134,
+      "code": "Truk",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Chuuk",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 135,
+      "code": "Turkmenistan",
+      "nazwa_ogolna": "czas Turkmenistan",
+      "nazwa_standardowa": "Turkmenistan (czas standardowy)",
+      "nazwa_letnia": "Turkmenistan (czas letni)"
+    },
+    {
+      "id": 136,
+      "code": "Tuvalu",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Tuvalu",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 137,
+      "code": "Uruguay",
+      "nazwa_ogolna": "czas Urugwaj",
+      "nazwa_standardowa": "Urugwaj (czas standardowy)",
+      "nazwa_letnia": "Urugwaj (czas letni)"
+    },
+    {
+      "id": 138,
+      "code": "Uzbekistan",
+      "nazwa_ogolna": "czas Uzbekistan",
+      "nazwa_standardowa": "Uzbekistan (czas standardowy)",
+      "nazwa_letnia": "Uzbekistan (czas letni)"
+    },
+    {
+      "id": 139,
+      "code": "Vanuatu",
+      "nazwa_ogolna": "czas Vanuatu",
+      "nazwa_standardowa": "Vanuatu (czas standardowy)",
+      "nazwa_letnia": "Vanuatu (czas letni)"
+    },
+    {
+      "id": 140,
+      "code": "Venezuela",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wenezuela",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 141,
+      "code": "Vladivostok",
+      "nazwa_ogolna": "czas Władywostok",
+      "nazwa_standardowa": "Władywostok (czas standardowy)",
+      "nazwa_letnia": "Władywostok (czas letni)"
+    },
+    {
+      "id": 142,
+      "code": "Volgograd",
+      "nazwa_ogolna": "czas Wołgograd",
+      "nazwa_standardowa": "Wołgograd (czas standardowy)",
+      "nazwa_letnia": "Wołgograd (czas letni)"
+    },
+    {
+      "id": 143,
+      "code": "Vostok",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wostok",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 144,
+      "code": "Wake",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wake",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 145,
+      "code": "Wallis",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Wallis i Futuna",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 146,
+      "code": "Yakutsk",
+      "nazwa_ogolna": "czas Jakuck",
+      "nazwa_standardowa": "Jakuck (czas standardowy)",
+      "nazwa_letnia": "Jakuck (czas letni)"
+    },
+    {
+      "id": 147,
+      "code": "Yekaterinburg",
+      "nazwa_ogolna": "czas Jekaterynburg",
+      "nazwa_standardowa": "Jekaterynburg (czas standardowy)",
+      "nazwa_letnia": "Jekaterynburg (czas letni)"
+    },
+    {
+      "id": 148,
+      "code": "Yukon",
+      "nazwa_ogolna": "",
+      "nazwa_standardowa": "czas Jukon",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Metastrefy (makroregionalne strefy czasowe) — nazwy po polsku - Bezpłatne pobieranie",
+    "description": "Metastrefy (makroregionalne strefy czasowe) z lokalizacji pl w CLDR — z nazwą ogólną, standardową i letnią. Zawiera 148 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Metastrefy (makroregionalne strefy czasowe) — nazwy po polsku | ListBase",
+    "seo_description": "Pobierz Metastrefy (makroregionalne strefy czasowe) — nazwy po polsku — 148 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 148 rekordów / 5 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

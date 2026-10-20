@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Zbiór Danych Wzorów na Pochodne i Reguł Różniczkowania",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Reguły Podstawowe",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Reguła stałej"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Funkcja tożsamościowa"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Reguła stałej krotności"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Reguła sumy"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Reguła różnicy"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Reguła iloczynu"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Reguła ilorazu"
+    },
+    {
+      "category": "Reguły Podstawowe",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Reguła łańcuchowa"
+    },
+    {
+      "category": "Potęga",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Reguła potęgowa"
+    },
+    {
+      "category": "Potęga",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "Tak samo jak x^(-1)"
+    },
+    {
+      "category": "Potęga",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Potęga ujemna"
+    },
+    {
+      "category": "Potęga",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Pierwiastek kwadratowy"
+    },
+    {
+      "category": "Potęga",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "Pierwiastek n-tego stopnia"
+    },
+    {
+      "category": "Potęga",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Różniczkowanie logarytmiczne"
+    },
+    {
+      "category": "Wykładnicza",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Funkcja wykładnicza naturalna"
+    },
+    {
+      "category": "Wykładnicza",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Funkcja wykładnicza ogólna"
+    },
+    {
+      "category": "Wykładnicza",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zastosowanie reguły łańcuchowej"
+    },
+    {
+      "category": "Wykładnicza",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "Ogólna postać z regułą łańcuchową"
+    },
+    {
+      "category": "Logarytmiczna",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Logarytm naturalny"
+    },
+    {
+      "category": "Logarytmiczna",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "Logarytm ogólny"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "Forma ogólna z regułą łańcuchową"
+    },
+    {
+      "category": "Logarytmiczne",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Logarytm wartości bezwzględnej"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Funkcja sinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Funkcja cosinus"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkcja tangens"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Funkcja cotangens"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkcja secans"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Funkcja cosecans"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Trygonometryczne",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Funkcja arcsinus"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Funkcja arccosinus"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Funkcja arctangens"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Funkcja arccotangens"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Funkcja arcsecans"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Funkcja arccosecans"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Odwrotne trygonometryczne",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Zastosowana reguła łańcuchowa"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Sinus hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Kosinus hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Tangens hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Kotangens hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Sekans hiperboliczny"
+    },
+    {
+      "category": "Hiperboliczne",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Kosekans hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Odwrotny sinus hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Odwrotny kosinus hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Odwrotny tangens hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Odwrotny kotangens hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Odwrotny sekans hiperboliczny"
+    },
+    {
+      "category": "Odwrotne hiperboliczne",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Odwrotny kosekans hiperboliczny"
+    },
+    {
+      "category": "Specjalne",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Wartość bezwzględna"
+    },
+    {
+      "category": "Specjalne",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Uogólniona reguła potęgowa"
+    },
+    {
+      "category": "Specjalne",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Różniczkowanie logarytmiczne"
+    },
+    {
+      "category": "Specjalne",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Forma Gaussa"
+    },
+    {
+      "category": "Specjalne",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "Zagnieżdżony logarytm"
+    }
+  ],
+  "meta": {
+    "seo_title": "Wzory Pochodnych - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo 57 powszechnych wzorów pochodnych i reguł różniczkowania dla rachunku. Dostępne w formatach Excel, CSV, PDF dla studentów i profesjonalistów.",
+    "title": "Zbiór Danych Wzorów na Pochodne i Reguł Różniczkowania",
+    "description": "Ten zbiór danych zawiera kompleksową kolekcję 57 powszechnych wzorów na pochodne i reguł różniczkowania, w tym zasady podstawowe, potęgowe, funkcje trygonometryczne i inne. Każdy wpis zawiera funkcję, jej pochodną, warunki i uwagi.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 57 niezbędnych wzorów na pochodne i reguł różniczkowania.",
+      "Eksploruj koncepcje rachunku różniczkowego z skategoryzowanymi funkcjami i ich pochodnymi.",
+      "Pobierz gotowe dane do nauki akademickiej lub profesjonalnego zastosowania.",
+      "Wykorzystaj szczegółowe warunki i uwagi dla każdej reguły różniczkowania."
+    ],
+    "keywords": [
+      "wzory pochodnych excel",
+      "reguły różniczkowania csv",
+      "wzory rachunek różniczkowy pdf",
+      "matematyka pochodne",
+      "tabela pochodnych",
+      "pobierz dane rachunek różniczkowy"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swoich skryptów Pythona lub bazy danych SQL, aby zbudować niestandardowe aplikacje do nauki rachunku lub narzędzia do nauki.",
+      "Użyj pliku **Excel** do filtrowania wzorów według kategorii, analizowania warunków lub łatwego tworzenia przewodników do nauki.",
+      "Wydrukuj wersję **PDF** do szybkiego odniesienia offline podczas egzaminów, wykładów lub sesji nauki osobistej.",
+      "Odwołaj się do tego zbioru danych, aby szybko zweryfikować pochodne dla złożonych funkcji w obliczeniach inżynieryjnych, fizycznych lub związanych z nauką o danych."
+    ]
+  },
+  "record_count": 57,
+  "title": "Zbiór Danych Wzorów na Pochodne i Reguł Różniczkowania"
+}

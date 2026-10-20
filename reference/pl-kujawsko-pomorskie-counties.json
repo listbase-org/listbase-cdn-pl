@@ -1,0 +1,136 @@
+{
+  "id": "pl-kujawsko-pomorskie-counties",
+  "name": "Województwo kujawsko-pomorskie — powiaty",
+  "title": "Województwo kujawsko-pomorskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie kujawsko-pomorskim (województwo kujawsko-pomorskie) — 19 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the kujawsko-pomorskie voivodeship — 19 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 27,
+      "name": "aleksandrowski",
+      "slug": "aleksandrowski"
+    },
+    {
+      "county_id": 28,
+      "name": "brodnicki",
+      "slug": "brodnicki"
+    },
+    {
+      "county_id": 29,
+      "name": "bydgoski",
+      "slug": "bydgoski"
+    },
+    {
+      "county_id": 30,
+      "name": "chełmiński",
+      "slug": "chelminski"
+    },
+    {
+      "county_id": 31,
+      "name": "golubsko-dobrzyński",
+      "slug": "golubsko-dobrzynski"
+    },
+    {
+      "county_id": 32,
+      "name": "grudziądzki",
+      "slug": "grudziadzki"
+    },
+    {
+      "county_id": 33,
+      "name": "inowrocławski",
+      "slug": "inowroclawski"
+    },
+    {
+      "county_id": 34,
+      "name": "lipnowski",
+      "slug": "lipnowski"
+    },
+    {
+      "county_id": 35,
+      "name": "mogileński",
+      "slug": "mogilenski"
+    },
+    {
+      "county_id": 36,
+      "name": "nakielski",
+      "slug": "nakielski"
+    },
+    {
+      "county_id": 37,
+      "name": "radziejowski",
+      "slug": "radziejowski"
+    },
+    {
+      "county_id": 38,
+      "name": "rypiński",
+      "slug": "rypinski"
+    },
+    {
+      "county_id": 39,
+      "name": "sępoleński",
+      "slug": "sepolenski"
+    },
+    {
+      "county_id": 41,
+      "name": "toruński",
+      "slug": "torunski"
+    },
+    {
+      "county_id": 42,
+      "name": "tucholski",
+      "slug": "tucholski"
+    },
+    {
+      "county_id": 43,
+      "name": "wąbrzeski",
+      "slug": "wabrzeski"
+    },
+    {
+      "county_id": 44,
+      "name": "włocławski",
+      "slug": "wloclawski"
+    },
+    {
+      "county_id": 40,
+      "name": "świecki",
+      "slug": "swiecki"
+    },
+    {
+      "county_id": 45,
+      "name": "żniński",
+      "slug": "zninski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo kujawsko-pomorskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie kujawsko-pomorskim (województwo kujawsko-pomorskie) — 19 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the kujawsko-pomorskie voivodeship — 19 entries. Excludes city-counties (see pl-city-counties). Zawiera 19 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo kujawsko-pomorskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo kujawsko-pomorskie — powiaty — 19 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 19 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

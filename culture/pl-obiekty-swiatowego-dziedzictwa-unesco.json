@@ -1,0 +1,331 @@
+{
+  "id": "pl-obiekty-swiatowego-dziedzictwa-unesco",
+  "name": "Obiekty światowego dziedzictwa UNESCO w Polsce",
+  "title": "Obiekty światowego dziedzictwa UNESCO w Polsce",
+  "description": "Lista obiektów z listy światowego dziedzictwa UNESCO położonych w Polsce",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Historic Centre of Kraków",
+      "category": "Cultural",
+      "date_inscribed": 1978,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.061389,
+      "longitude": 19.937222,
+      "short_description": "The Historic Centre of Kraków, the former capital of Poland, is situated at the foot of the Royal Wawel Castle. The 13th-century merchants' town has Europe's largest market square and numerous historical houses, palaces and churches with their magnificent interiors. Further evidence of the town's fascinating history is provided by the remnants of the 14th-century fortifications and the medieval site of Kazimierz with its ancient synagogues in the southern part of town, Jagellonian University and the Gothic cathedral where the kings of Poland were buried.",
+      "id_number": 29,
+      "url": "https://whc.unesco.org/en/list/29"
+    },
+    {
+      "name": "Wieliczka and Bochnia Royal Salt Mines",
+      "category": "Cultural",
+      "date_inscribed": 1978,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.979167,
+      "longitude": 20.063889,
+      "short_description": "The deposit of rock salt in Wieliczka and Bochnia has been mined since the 13th century. This major industrial undertaking has royal status and is the oldest of its type in Europe. The site is a serial property consisting of Wieliczka and Bochnia salt mines and Wieliczka Saltworks Castle. The Wieliczka and Bochnia Royal Salt Mines illustrate the historic stages of the development of mining techniques in Europe from the 13th to the 20th centuries: both mines have hundreds of kilometers of galleries with works of art, underground chapels and statues sculpted in the salt, making a fascinating pilgrimage into the past. The mines were administratively and technically run by Wieliczka Saltworks Castle, which dates from the medieval period and has been rebuilt several times in the course of its history.",
+      "id_number": 32,
+      "url": "https://whc.unesco.org/en/list/32"
+    },
+    {
+      "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(vi)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.038889,
+      "longitude": 19.175,
+      "short_description": "The fortified walls, barbed wire, platforms, barracks, gallows, gas chambers and cremation ovens show the conditions within which the Nazi genocide took place in the former concentration and extermination camp of Auschwitz-Birkenau, the largest in the Third Reich. According to historical investigations, 1.5 million people, among them a great number of Jews, were systematically starved, tortured and murdered in this camp, the symbol of humanity's cruelty to its fellow human beings in the 20th century.",
+      "id_number": 31,
+      "url": "https://whc.unesco.org/en/list/31"
+    },
+    {
+      "name": "Białowieża Forest",
+      "category": "Natural",
+      "date_inscribed": 1979,
+      "criteria": "(ix)(x)",
+      "region": "Europe and North America",
+      "states": "Belarus, Poland",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 52.7275,
+      "longitude": 23.981111,
+      "short_description": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison.",
+      "id_number": 33,
+      "url": "https://whc.unesco.org/en/list/33"
+    },
+    {
+      "name": "Historic Centre of Warsaw",
+      "category": "Cultural",
+      "date_inscribed": 1980,
+      "criteria": "(ii)(vi)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 52.26639,
+      "longitude": 21.01167,
+      "short_description": "During the Warsaw Uprising in August 1944, more than 85% of Warsaw's historic centre was destroyed by Nazi troops. After the war, a five-year reconstruction campaign by its citizens resulted in today's meticulous restoration of the Old Town, with its churches, palaces and market-place. It is an outstanding example of a near-total reconstruction of a span of history covering the 13th to the 20th century.",
+      "id_number": 30,
+      "url": "https://whc.unesco.org/en/list/30"
+    },
+    {
+      "name": "Old City of Zamość",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.71667,
+      "longitude": 23.26667,
+      "short_description": "Zamosc was founded in the 16th century by the chancellor Jan Zamoysky on the trade route linking western and northern Europe with the Black Sea. Modelled on Italian theories of the 'ideal city' and built by the architect Bernando Morando, a native of Padua, Zamosc is a perfect example of a late-16th-century Renaissance town. It has retained its original layout and fortifications and a large number of buildings that combine Italian and central European architectural traditions.",
+      "id_number": 564,
+      "url": "https://whc.unesco.org/en/list/564"
+    },
+    {
+      "name": "Castle of the Teutonic Order in Malbork",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 54.041667,
+      "longitude": 19.033333,
+      "short_description": "This 13th-century fortified monastery belonging to the Teutonic Order was substantially enlarged and embellished after 1309, when the seat of the Grand Master moved here from Venice. A particularly fine example of a medieval brick castle, it later fell into decay, but was meticulously restored in the 19th and early 20th centuries. Many of the conservation techniques now accepted as standard were evolved here. Following severe damage in the Second World War it was once again restored, using the detailed documentation prepared by earlier conservators.",
+      "id_number": 847,
+      "url": "https://whc.unesco.org/en/list/847"
+    },
+    {
+      "name": "Medieval Town of Toruń",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 53.01,
+      "longitude": 18.61944,
+      "short_description": "Torun owes its origins to the Teutonic Order, which built a castle there in the mid-13th century as a base for the conquest and evangelization of Prussia. It soon developed a commercial role as part of the Hanseatic League. In the Old and New Town, the many imposing public and private buildings from the 14th and 15th centuries (among them the house of Copernicus) are striking evidence of Torun's importance.",
+      "id_number": 835,
+      "url": "https://whc.unesco.org/en/list/835"
+    },
+    {
+      "name": "Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.866667,
+      "longitude": 19.666667,
+      "short_description": "Kalwaria Zebrzydowska is a breathtaking cultural landscape of great spiritual significance. Its natural setting – in which a series of symbolic places of worship relating to the Passion of Jesus Christ and the life of the Virgin Mary was laid out at the beginning of the 17th century – has remained virtually unchanged. It is still today a place of pilgrimage.",
+      "id_number": 905,
+      "url": "https://whc.unesco.org/en/list/905"
+    },
+    {
+      "name": "Churches of Peace in Jawor and Świdnica",
+      "category": "Cultural",
+      "date_inscribed": 2001,
+      "criteria": "(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 51.054278,
+      "longitude": 16.195944,
+      "short_description": "The Churches of Peace in Jawor and Świdnica, the largest timber-framed religious buildings in Europe, were built in the former Silesia in the mid-17th century, amid the religious strife that followed the Peace of Westphalia. Constrained by the physical and political conditions, the Churches of Peace bear testimony to the quest for religious freedom and are a rare expression of Lutheran ideology in an idiom generally associated with the Catholic Church.",
+      "id_number": 1054,
+      "url": "https://whc.unesco.org/en/list/1054"
+    },
+    {
+      "name": "Wooden Churches of Southern Małopolska",
+      "category": "Cultural",
+      "date_inscribed": 2003,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.75,
+      "longitude": 21.233333,
+      "short_description": "The wooden churches of southern Little Poland represent outstanding examples of the different aspects of medieval church-building traditions in Roman Catholic culture. Built using the horizontal log technique, common in eastern and northern Europe since the Middle Ages, these churches were sponsored by noble families and became status symbols. They offered an alternative to the stone structures erected in urban centres.",
+      "id_number": 1053,
+      "url": "https://whc.unesco.org/en/list/1053"
+    },
+    {
+      "name": "Muskauer Park / Park Mużakowski",
+      "category": "Cultural",
+      "date_inscribed": 2004,
+      "criteria": "(i)(iv)",
+      "region": "Europe and North America",
+      "states": "Germany, Poland",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 51.579306,
+      "longitude": 14.726444,
+      "short_description": "A landscaped park of 559.9 ha astride the Neisse River and the border between Poland and Germany, it was created by Prince Hermann von Puckler-Muskau from 1815 to 1844. Blending seamlessly with the surrounding farmed landscape, the park pioneered new approaches to landscape design and influenced the development of landscape architecture in Europe and America. Designed as a ‘painting with plants’, it did not seek to evoke classical landscapes, paradise, or some lost perfection, instead using local plants to enhance the inherent qualities of the existing landscape. This integrated landscape extends into the town of Muskau with green passages that formed urban parks framing areas for development. The town thus became a design component in a utopian landscape. The site also features a reconstructed castle, bridges and an arboretum.",
+      "id_number": 1127,
+      "url": "https://whc.unesco.org/en/list/1127"
+    },
+    {
+      "name": "Centennial Hall in Wrocław",
+      "category": "Cultural",
+      "date_inscribed": 2006,
+      "criteria": "(i)(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 51.106947,
+      "longitude": 17.077014,
+      "short_description": "The Centennial Hall, a landmark in the history of reinforced concrete architecture, was erected in 1911-1913 by the architect Max Berg as a multi-purpose recreational building, situated in the Exhibition Grounds. In form it is a symmetrical quatrefoil with a vast circular central space that can seat some 6,000 persons. The 23m-high dome is topped with a lantern in steel and glass. The Centennial Hall is a pioneering work of modern engineering and architecture, which exhibits an important interchange of influences in the early 20th century, becoming a key reference in the later development of reinforced concrete structures.",
+      "id_number": 1165,
+      "url": "https://whc.unesco.org/en/list/1165"
+    },
+    {
+      "name": "Wooden Tserkvas of the Carpathian Region in Poland and Ukraine",
+      "category": "Cultural",
+      "date_inscribed": 2013,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.533889,
+      "longitude": 21.032222,
+      "short_description": "Situated in the eastern fringe of Central Europe, the transnational property numbers a selection of sixteen tserkvas (churches). They were built of horizontal wooden logs between the 16 th and 19 th centuries by communities of Orthodox and Greek Catholic faiths. The tserkvas bear testimony to a distinct building tradition rooted in Orthodox ecclesiastic design interwoven with elements of local tradition, and symbolic references to their communities’ cosmogony. The tserkva s are built on a tri-partite plan surmounted by open quadrilateral or octagonal domes and cupolas. Integral to tserkvas are iconostasis screens, interior polychrome decorations, and other historic furnishings. Important elements of some tserkvas include wooden bell towers, churchyards, gatehouses and graveyards.",
+      "id_number": 1424,
+      "url": "https://whc.unesco.org/en/list/1424"
+    },
+    {
+      "name": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+      "category": "Cultural",
+      "date_inscribed": 2017,
+      "criteria": "(i)(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.442697,
+      "longitude": 18.851228,
+      "short_description": "Located in Upper Silesia, in southern Poland, one of the main mining areas of central Europe, the property includes the entire underground mine with adits, shafts, galleries and other features of the water management system. Most of the property is situated underground while the surface mining topography features relics of shafts and waste heaps, as well as the remains of the 19th century steam water pumping station. The elements of the water management system, located underground and on the surface, testify to continuous efforts over three centuries to drain the underground extraction zone and to use undesirable water from the mines to supply towns and industry. Tarnowskie Góry represents a significant contribution to the global production of lead and zinc.",
+      "id_number": 1539,
+      "url": "https://whc.unesco.org/en/list/1539"
+    },
+    {
+      "name": "Krzemionki Prehistoric Striped Flint Mining Region",
+      "category": "Cultural",
+      "date_inscribed": 2019,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Poland",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.967972,
+      "longitude": 21.502306,
+      "short_description": "Located in the mountain region of Świętokrzyskie, Krzemionki is an ensemble of four mining sites, dating from the Neolithic to the Bronze Age (about 3900 to 1600 BCE), dedicated to the extraction and processing of striped flint, which was mainly used for axe-making. With its underground mining structures, flint workshops and some 4,000 shafts and pits, the property features one of the most comprehensive prehistoric underground flint extraction and processing systems identified to date. The property provides information about life and work in prehistoric settlements and bears witness to an extinct cultural tradition. It is an exceptional testimony of the importance of the prehistoric period and of flint mining for tool production in human history.",
+      "id_number": 1599,
+      "url": "https://whc.unesco.org/en/list/1599"
+    }
+  ],
+  "meta": {
+    "title": "Obiekty światowego dziedzictwa UNESCO w Polsce - Bezpłatne pobieranie",
+    "description": "Lista obiektów z listy światowego dziedzictwa UNESCO położonych w Polsce Zawiera 16 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Obiekty światowego dziedzictwa UNESCO w Polsce | ListBase",
+    "seo_description": "Pobierz Obiekty światowego dziedzictwa UNESCO w Polsce — 16 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 16 rekordów / 13 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "pl-pola-daty-czasu",
+  "name": "Pola daty i czasu — nazwy po polsku (CLDR)",
+  "title": "Pola daty i czasu — nazwy po polsku (CLDR)",
+  "description": "Nazwy pól daty i czasu (era, rok, miesiąc, dzień, godzina...) z lokalizacji pl w CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "nazwa": "era"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "nazwa": "era"
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "nazwa": "era"
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "nazwa": "rok"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "nazwa": "r."
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "nazwa": "r."
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "nazwa": "kwartał"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "nazwa": "kw."
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "nazwa": "kw."
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "nazwa": "miesiąc"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "nazwa": "mies."
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "nazwa": "mc"
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "nazwa": "tydzień"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "nazwa": "tydz."
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "nazwa": "tydz."
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "nazwa": "tydzień miesiąca"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "nazwa": "tydz. mies."
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "nazwa": "tydz. mies."
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "nazwa": "dzień"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "nazwa": "dz."
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "nazwa": "d."
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "nazwa": "dzień roku"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "nazwa": "dz. roku"
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "nazwa": "dz. r."
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "nazwa": "dzień tygodnia"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "nazwa": "dzień tyg."
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "nazwa": "dz. tyg."
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "nazwa": "dzień miesiąca"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "nazwa": "dzień mies."
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "nazwa": "dz. mies."
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "nazwa": "rano / po południu / wieczorem"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "nazwa": "rano / po południu / wieczorem"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "nazwa": "rano / po poł. / wiecz."
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "nazwa": "godzina"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "nazwa": "godz."
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "nazwa": "g."
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "nazwa": "minuta"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "nazwa": "min"
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "nazwa": "min"
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "nazwa": "sekunda"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "nazwa": "sek."
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "nazwa": "s"
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "nazwa": "strefa czasowa"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "nazwa": "str. czasowa"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "nazwa": "str. czas."
+    }
+  ],
+  "meta": {
+    "title": "Pola daty i czasu — nazwy po polsku (CLDR) - Bezpłatne pobieranie",
+    "description": "Nazwy pól daty i czasu (era, rok, miesiąc, dzień, godzina...) z lokalizacji pl w CLDR. Zawiera 45 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Pola daty i czasu — nazwy po polsku (CLDR) | ListBase",
+    "seo_description": "Pobierz Pola daty i czasu — nazwy po polsku (CLDR) — 45 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 45 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

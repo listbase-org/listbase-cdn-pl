@@ -1,0 +1,96 @@
+{
+  "id": "pl-obszary-chronione-cdda-1940s",
+  "name": "Polska — obszary chronione ustanowione w latach 1940–1949 (CDDA)",
+  "title": "Polska — obszary chronione ustanowione w latach 1940–1949 (CDDA)",
+  "description": "3 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1940–1949 (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 11210,
+      "nazwa": "Jezioro Łuknajno",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1947,
+      "srodek_lat": 53.81544,
+      "srodek_lon": 21.63123,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11282,
+      "nazwa": "Redykajny",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1949,
+      "srodek_lat": 53.7968,
+      "srodek_lon": 20.45074,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11211,
+      "nazwa": "Stary Czapliniec",
+      "kategoria_z_nazwy": "",
+      "rok_ustanowienia": 1947,
+      "srodek_lat": 53.7991,
+      "srodek_lon": 21.67488,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — obszary chronione ustanowione w latach 1940–1949 (CDDA) - Bezpłatne pobieranie",
+    "description": "3 obszarów chronionych z rejestru CDDA z rokiem ustanowienia 1940–1949 (podzbiór pl-obszary-chronione-cdda). Zawiera 3 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — obszary chronione ustanowione w latach 1940–1949 (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — obszary chronione ustanowione w latach 1940–1949 (CDDA) — 3 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 3 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

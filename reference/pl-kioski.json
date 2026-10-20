@@ -1,0 +1,3916 @@
+{
+  "id": "pl-kioski",
+  "name": "Polska — kioski",
+  "title": "Polska — kioski",
+  "description": "Kioski w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 775,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1 Minute",
+      "latitude": 50.470855,
+      "longitude": 19.070357
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 51.098483,
+      "longitude": 17.037363
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 51.09902,
+      "longitude": 17.036517
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 51.109627,
+      "longitude": 16.881042
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 51.235432,
+      "longitude": 22.714515
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.16879,
+      "longitude": 20.973474
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.170057,
+      "longitude": 20.972387
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.170857,
+      "longitude": 20.972716
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.19964,
+      "longitude": 21.011841
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.227484,
+      "longitude": 21.004454
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.228666,
+      "longitude": 21.00263
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.228792,
+      "longitude": 21.004002
+    },
+    {
+      "name": "1 minute",
+      "latitude": 52.230055,
+      "longitude": 20.983682
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.235181,
+      "longitude": 21.007725
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 52.29121,
+      "longitude": 20.928928
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 53.487729,
+      "longitude": 20.946384
+    },
+    {
+      "name": "1 minute",
+      "latitude": 53.812934,
+      "longitude": 22.376128
+    },
+    {
+      "name": "1 Minute",
+      "latitude": 54.151179,
+      "longitude": 19.416502
+    },
+    {
+      "name": "1 minute",
+      "latitude": 54.151209,
+      "longitude": 19.41621
+    },
+    {
+      "name": "1001 Drobiazgów",
+      "latitude": 49.369904,
+      "longitude": 22.421935
+    },
+    {
+      "name": "1minute",
+      "latitude": 54.365101,
+      "longitude": 18.620148
+    },
+    {
+      "name": "1minute",
+      "latitude": 54.381719,
+      "longitude": 18.604587
+    },
+    {
+      "name": "A-Qrat",
+      "latitude": 50.447365,
+      "longitude": 18.863506
+    },
+    {
+      "name": "Aelia",
+      "latitude": 52.446379,
+      "longitude": 20.651949
+    },
+    {
+      "name": "Agama",
+      "latitude": 53.011766,
+      "longitude": 18.579123
+    },
+    {
+      "name": "Agama",
+      "latitude": 53.024253,
+      "longitude": 18.808342
+    },
+    {
+      "name": "alkohole 24h",
+      "latitude": 50.076922,
+      "longitude": 19.888553
+    },
+    {
+      "name": "Alkohole24h",
+      "latitude": 52.3446,
+      "longitude": 20.951512
+    },
+    {
+      "name": "Amic",
+      "latitude": 51.800482,
+      "longitude": 19.425344
+    },
+    {
+      "name": "Amic",
+      "latitude": 51.928095,
+      "longitude": 19.356008
+    },
+    {
+      "name": "Amic",
+      "latitude": 51.945548,
+      "longitude": 19.324429
+    },
+    {
+      "name": "amic energy",
+      "latitude": 51.727793,
+      "longitude": 19.447618
+    },
+    {
+      "name": "Aququ",
+      "latitude": 52.26979,
+      "longitude": 20.953835
+    },
+    {
+      "name": "Artek",
+      "latitude": 50.24623,
+      "longitude": 21.78068
+    },
+    {
+      "name": "Artykuły spożywczo-przemysłowe",
+      "latitude": 51.954024,
+      "longitude": 20.143479
+    },
+    {
+      "name": "ASA",
+      "latitude": 50.167729,
+      "longitude": 18.905374
+    },
+    {
+      "name": "ATU Piekarnia Cukiernia",
+      "latitude": 50.133856,
+      "longitude": 19.579721
+    },
+    {
+      "name": "AVIVA",
+      "latitude": 50.792411,
+      "longitude": 19.160173
+    },
+    {
+      "name": "Bajka",
+      "latitude": 50.883513,
+      "longitude": 20.644469
+    },
+    {
+      "name": "Baltona",
+      "latitude": 52.446121,
+      "longitude": 20.651066
+    },
+    {
+      "name": "Bilecik",
+      "latitude": 54.550856,
+      "longitude": 18.505949
+    },
+    {
+      "name": "Biżuteria sztuczna",
+      "latitude": 52.810293,
+      "longitude": 17.199618
+    },
+    {
+      "name": "Blue",
+      "latitude": 51.194809,
+      "longitude": 20.411703
+    },
+    {
+      "name": "Bobryk",
+      "latitude": 53.488191,
+      "longitude": 14.379827
+    },
+    {
+      "name": "BP",
+      "latitude": 49.934404,
+      "longitude": 21.869429
+    },
+    {
+      "name": "BP",
+      "latitude": 52.303417,
+      "longitude": 20.987726
+    },
+    {
+      "name": "BP Meteor",
+      "latitude": 50.430957,
+      "longitude": 18.865709
+    },
+    {
+      "name": "BP Topola",
+      "latitude": 50.275241,
+      "longitude": 19.024127
+    },
+    {
+      "name": "Bzdura - convenience",
+      "latitude": 52.286812,
+      "longitude": 20.938513
+    },
+    {
+      "name": "Bzik",
+      "latitude": 54.097145,
+      "longitude": 18.788264
+    },
+    {
+      "name": "Centrum Tabak",
+      "latitude": 50.434357,
+      "longitude": 16.236354
+    },
+    {
+      "name": "Chemia z Niemiec",
+      "latitude": 53.042612,
+      "longitude": 18.579584
+    },
+    {
+      "name": "Ciacho",
+      "latitude": 52.229385,
+      "longitude": 21.007505
+    },
+    {
+      "name": "Ciacho",
+      "latitude": 52.229632,
+      "longitude": 21.008663
+    },
+    {
+      "name": "Ciasteczkowo",
+      "latitude": 52.231852,
+      "longitude": 21.006164
+    },
+    {
+      "name": "Circle K",
+      "latitude": 53.090584,
+      "longitude": 18.621554
+    },
+    {
+      "name": "City Shop",
+      "latitude": 50.882124,
+      "longitude": 20.63853
+    },
+    {
+      "name": "Cjo progress",
+      "latitude": 53.436171,
+      "longitude": 14.54901
+    },
+    {
+      "name": "Cukiernia",
+      "latitude": 51.974689,
+      "longitude": 20.146455
+    },
+    {
+      "name": "Danevik - Chebureki i Bielasze",
+      "latitude": 54.17591,
+      "longitude": 15.568623
+    },
+    {
+      "name": "Danuta",
+      "latitude": 51.756701,
+      "longitude": 19.548022
+    },
+    {
+      "name": "Delikatesy drobiowe",
+      "latitude": 51.335668,
+      "longitude": 16.643612
+    },
+    {
+      "name": "Dewocjonalia",
+      "latitude": 51.309623,
+      "longitude": 17.066124
+    },
+    {
+      "name": "Drożdżówki i precle",
+      "latitude": 50.067163,
+      "longitude": 19.946637
+    },
+    {
+      "name": "DW-Kiosk",
+      "latitude": 52.674511,
+      "longitude": 18.321497
+    },
+    {
+      "name": "Dymek",
+      "latitude": 50.168252,
+      "longitude": 18.905248
+    },
+    {
+      "name": "Dymek",
+      "latitude": 54.583313,
+      "longitude": 16.859119
+    },
+    {
+      "name": "e-papierosy",
+      "latitude": 53.113475,
+      "longitude": 23.148347
+    },
+    {
+      "name": "Euro-Salon",
+      "latitude": 51.957514,
+      "longitude": 15.503994
+    },
+    {
+      "name": "Euro-Salon",
+      "latitude": 52.445787,
+      "longitude": 16.989715
+    },
+    {
+      "name": "Euro-salon",
+      "latitude": 52.567714,
+      "longitude": 16.994329
+    },
+    {
+      "name": "EuroCigarettes",
+      "latitude": 53.017334,
+      "longitude": 18.599115
+    },
+    {
+      "name": "Eurokiosk",
+      "latitude": 52.368587,
+      "longitude": 16.932365
+    },
+    {
+      "name": "Eurosalon",
+      "latitude": 52.363537,
+      "longitude": 17.009235
+    },
+    {
+      "name": "Fast",
+      "latitude": 52.433054,
+      "longitude": 16.915681
+    },
+    {
+      "name": "Fiołek",
+      "latitude": 50.28541,
+      "longitude": 18.980953
+    },
+    {
+      "name": "Flagi i upominki",
+      "latitude": 50.038475,
+      "longitude": 21.998134
+    },
+    {
+      "name": "FoodBox",
+      "latitude": 53.447244,
+      "longitude": 14.491588
+    },
+    {
+      "name": "Fotech",
+      "latitude": 53.350533,
+      "longitude": 17.488064
+    },
+    {
+      "name": "Fundamenty starego koisku",
+      "latitude": 53.408651,
+      "longitude": 18.444868
+    },
+    {
+      "name": "Galeria Bławatek",
+      "latitude": 51.32178,
+      "longitude": 21.94712
+    },
+    {
+      "name": "Gama",
+      "latitude": 49.983307,
+      "longitude": 20.061422
+    },
+    {
+      "name": "Gan",
+      "latitude": 51.029249,
+      "longitude": 15.414099
+    },
+    {
+      "name": "Garamond Press",
+      "latitude": 51.748362,
+      "longitude": 19.415822
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 50.056973,
+      "longitude": 19.951909
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.739789,
+      "longitude": 19.393544
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.744517,
+      "longitude": 19.408256
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.745151,
+      "longitude": 19.40127
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.748286,
+      "longitude": 19.400931
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.748346,
+      "longitude": 19.399166
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.760174,
+      "longitude": 19.526129
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.774651,
+      "longitude": 19.453343
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.776249,
+      "longitude": 19.449611
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.776326,
+      "longitude": 19.447993
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 51.777339,
+      "longitude": 19.459999
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 53.443192,
+      "longitude": 14.526802
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 54.37458,
+      "longitude": 18.612776
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 54.377982,
+      "longitude": 18.606642
+    },
+    {
+      "name": "Garmond Press",
+      "latitude": 54.380523,
+      "longitude": 18.604505
+    },
+    {
+      "name": "GLM Prasa Książka Film",
+      "latitude": 52.090949,
+      "longitude": 21.12145
+    },
+    {
+      "name": "Grosar",
+      "latitude": 49.566665,
+      "longitude": 22.205498
+    },
+    {
+      "name": "Gryfny Kurczak",
+      "latitude": 50.256578,
+      "longitude": 19.016118
+    },
+    {
+      "name": "Górmar",
+      "latitude": 51.395615,
+      "longitude": 21.15407
+    },
+    {
+      "name": "Górsmak",
+      "latitude": 49.585764,
+      "longitude": 20.672414
+    },
+    {
+      "name": "Hawa",
+      "latitude": 52.846985,
+      "longitude": 17.497285
+    },
+    {
+      "name": "HAWA",
+      "latitude": 53.07483,
+      "longitude": 16.731876
+    },
+    {
+      "name": "Hubiz",
+      "latitude": 52.131232,
+      "longitude": 21.06594
+    },
+    {
+      "name": "Hubiz",
+      "latitude": 52.18114,
+      "longitude": 21.023991
+    },
+    {
+      "name": "Hubiz",
+      "latitude": 52.182487,
+      "longitude": 21.022253
+    },
+    {
+      "name": "Hubiz",
+      "latitude": 52.21926,
+      "longitude": 21.015402
+    },
+    {
+      "name": "In Medio",
+      "latitude": 51.142191,
+      "longitude": 17.08792
+    },
+    {
+      "name": "InMedio",
+      "latitude": 51.750411,
+      "longitude": 19.439676
+    },
+    {
+      "name": "InMedio",
+      "latitude": 51.752714,
+      "longitude": 19.419323
+    },
+    {
+      "name": "inmedio",
+      "latitude": 52.286012,
+      "longitude": 21.083975
+    },
+    {
+      "name": "InMedio",
+      "latitude": 52.332273,
+      "longitude": 20.949344
+    },
+    {
+      "name": "Inmedio Trendy",
+      "latitude": 52.143065,
+      "longitude": 21.044945
+    },
+    {
+      "name": "Inmedio Trendy",
+      "latitude": 52.257463,
+      "longitude": 21.034355
+    },
+    {
+      "name": "Inwex",
+      "latitude": 49.746713,
+      "longitude": 18.639507
+    },
+    {
+      "name": "Irena i Janina",
+      "latitude": 52.173475,
+      "longitude": 20.806066
+    },
+    {
+      "name": "Izunia",
+      "latitude": 53.25839,
+      "longitude": 20.89688
+    },
+    {
+      "name": "Jagoda",
+      "latitude": 49.783143,
+      "longitude": 22.776888
+    },
+    {
+      "name": "Jaja wiejskie",
+      "latitude": 51.808383,
+      "longitude": 16.314483
+    },
+    {
+      "name": "Jak Dawniej",
+      "latitude": 52.242293,
+      "longitude": 20.993606
+    },
+    {
+      "name": "Junior II",
+      "latitude": 50.868206,
+      "longitude": 20.613749
+    },
+    {
+      "name": "K Kiosk",
+      "latitude": 52.342371,
+      "longitude": 14.551425
+    },
+    {
+      "name": "Kamerata",
+      "latitude": 52.227882,
+      "longitude": 21.093302
+    },
+    {
+      "name": "Kantor-Papierosy-Prasa",
+      "latitude": 51.279889,
+      "longitude": 17.987187
+    },
+    {
+      "name": "Kaprys",
+      "latitude": 49.790743,
+      "longitude": 19.049828
+    },
+    {
+      "name": "Karo",
+      "latitude": 50.042901,
+      "longitude": 19.931788
+    },
+    {
+      "name": "Kasa stacji paliw Intermarche",
+      "latitude": 51.607556,
+      "longitude": 18.920062
+    },
+    {
+      "name": "Kawa",
+      "latitude": 53.146836,
+      "longitude": 18.110401
+    },
+    {
+      "name": "Keno",
+      "latitude": 49.624431,
+      "longitude": 20.715875
+    },
+    {
+      "name": "Keno",
+      "latitude": 54.189153,
+      "longitude": 16.225663
+    },
+    {
+      "name": "Keramiss",
+      "latitude": 50.072821,
+      "longitude": 19.802656
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 50.046021,
+      "longitude": 19.974495
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 50.142983,
+      "longitude": 19.411632
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 50.242978,
+      "longitude": 18.993737
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 50.264132,
+      "longitude": 19.018376
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.116776,
+      "longitude": 20.892617
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.247155,
+      "longitude": 22.55146
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.279417,
+      "longitude": 17.984853
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.39057,
+      "longitude": 21.127684
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.405987,
+      "longitude": 21.129554
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.508223,
+      "longitude": 20.722572
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.59151,
+      "longitude": 21.539766
+    },
+    {
+      "name": "kiosk",
+      "latitude": 51.707312,
+      "longitude": 16.748145
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.795778,
+      "longitude": 19.402078
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 51.948989,
+      "longitude": 19.368351
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 52.027262,
+      "longitude": 21.040895
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 52.39296,
+      "longitude": 16.9507
+    },
+    {
+      "name": "kiosk",
+      "latitude": 52.763078,
+      "longitude": 15.262616
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.145438,
+      "longitude": 23.127951
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.145711,
+      "longitude": 23.153087
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.146033,
+      "longitude": 23.150146
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.14676,
+      "longitude": 18.113149
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.150924,
+      "longitude": 23.122802
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 53.905185,
+      "longitude": 14.267215
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 54.41993,
+      "longitude": 18.58089
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 54.552579,
+      "longitude": 18.51584
+    },
+    {
+      "name": "Kiosk \"Kolporter\"",
+      "latitude": 54.41645,
+      "longitude": 18.558006
+    },
+    {
+      "name": "Kiosk \"Ruch\"",
+      "latitude": 51.928566,
+      "longitude": 15.489809
+    },
+    {
+      "name": "Kiosk \"U Marzeny\"",
+      "latitude": 54.177695,
+      "longitude": 15.579321
+    },
+    {
+      "name": "Kiosk - Kolporter",
+      "latitude": 51.74904,
+      "longitude": 19.407703
+    },
+    {
+      "name": "Kiosk - Salon prasowy",
+      "latitude": 53.133189,
+      "longitude": 23.160827
+    },
+    {
+      "name": "Kiosk Borowik",
+      "latitude": 51.623617,
+      "longitude": 21.317277
+    },
+    {
+      "name": "Kiosk caffe",
+      "latitude": 52.18918,
+      "longitude": 20.992343
+    },
+    {
+      "name": "Kiosk Centrum Zaprasza",
+      "latitude": 53.272152,
+      "longitude": 16.470558
+    },
+    {
+      "name": "Kiosk Concept Store Galeria Rzeczy",
+      "latitude": 50.295788,
+      "longitude": 18.66263
+    },
+    {
+      "name": "Kiosk Expressu",
+      "latitude": 53.123682,
+      "longitude": 18.007055
+    },
+    {
+      "name": "Kiosk Grażyna Rzeszotarska",
+      "latitude": 52.1087,
+      "longitude": 20.635141
+    },
+    {
+      "name": "Kiosk Irenka",
+      "latitude": 52.30001,
+      "longitude": 21.043668
+    },
+    {
+      "name": "Kiosk Kolporter",
+      "latitude": 50.044863,
+      "longitude": 19.930296
+    },
+    {
+      "name": "Kiosk Lotto",
+      "latitude": 51.809009,
+      "longitude": 16.314487
+    },
+    {
+      "name": "Kiosk Ludwicka",
+      "latitude": 52.086977,
+      "longitude": 18.821706
+    },
+    {
+      "name": "Kiosk na Trakcie Królewskim",
+      "latitude": 52.732935,
+      "longitude": 15.236439
+    },
+    {
+      "name": "Kiosk ORLEN PACZKA",
+      "latitude": 49.994593,
+      "longitude": 19.435814
+    },
+    {
+      "name": "Kiosk Parafialny",
+      "latitude": 49.747688,
+      "longitude": 21.476216
+    },
+    {
+      "name": "Kiosk parafialny",
+      "latitude": 50.259036,
+      "longitude": 21.97731
+    },
+    {
+      "name": "Kiosk Piotrkowska",
+      "latitude": 50.670713,
+      "longitude": 17.967885
+    },
+    {
+      "name": "Kiosk Polskie Stwolno",
+      "latitude": 53.444742,
+      "longitude": 18.661917
+    },
+    {
+      "name": "Kiosk prasa etc.",
+      "latitude": 51.752795,
+      "longitude": 19.541313
+    },
+    {
+      "name": "Kiosk prasa etc.",
+      "latitude": 51.75711,
+      "longitude": 19.5373
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 49.945825,
+      "longitude": 21.613801
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 49.951737,
+      "longitude": 22.818162
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 50.066124,
+      "longitude": 19.922936
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 50.115757,
+      "longitude": 18.992465
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 50.311284,
+      "longitude": 18.912643
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 50.317572,
+      "longitude": 19.063853
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 50.33983,
+      "longitude": 18.778029
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 51.365051,
+      "longitude": 19.378101
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 51.718438,
+      "longitude": 19.485868
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 51.736694,
+      "longitude": 19.494886
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 52.224941,
+      "longitude": 20.91581
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 52.225346,
+      "longitude": 20.917211
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 52.227457,
+      "longitude": 20.910664
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 52.275479,
+      "longitude": 20.981358
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 52.405811,
+      "longitude": 22.254929
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 53.082208,
+      "longitude": 21.572678
+    },
+    {
+      "name": "Kiosk Ruch",
+      "latitude": 53.131915,
+      "longitude": 23.16093
+    },
+    {
+      "name": "Kiosk RUCH",
+      "latitude": 53.134152,
+      "longitude": 23.147082
+    },
+    {
+      "name": "Kiosk Ruch S.A.",
+      "latitude": 52.945395,
+      "longitude": 18.937741
+    },
+    {
+      "name": "Kiosk Ruchu",
+      "latitude": 50.01456,
+      "longitude": 21.002661
+    },
+    {
+      "name": "Kiosk ruchu",
+      "latitude": 50.432171,
+      "longitude": 16.650883
+    },
+    {
+      "name": "Kiosk RUCHu",
+      "latitude": 52.60732,
+      "longitude": 19.016195
+    },
+    {
+      "name": "Kiosk RUCHu",
+      "latitude": 52.736946,
+      "longitude": 15.233315
+    },
+    {
+      "name": "Kiosk Ruchu",
+      "latitude": 52.80968,
+      "longitude": 17.198751
+    },
+    {
+      "name": "Kiosk Ruchu",
+      "latitude": 52.995036,
+      "longitude": 16.917523
+    },
+    {
+      "name": "Kiosk Ruchu",
+      "latitude": 53.108595,
+      "longitude": 18.052516
+    },
+    {
+      "name": "Kiosk RUTEX",
+      "latitude": 53.446792,
+      "longitude": 14.540937
+    },
+    {
+      "name": "Kiosk u Basi",
+      "latitude": 50.193825,
+      "longitude": 21.479751
+    },
+    {
+      "name": "Kiosk u Julki",
+      "latitude": 50.941675,
+      "longitude": 20.954873
+    },
+    {
+      "name": "Kiosk U Maryli",
+      "latitude": 50.091043,
+      "longitude": 18.996812
+    },
+    {
+      "name": "Kiosk w Emmie",
+      "latitude": 50.670634,
+      "longitude": 17.969334
+    },
+    {
+      "name": "Kiosk Wielobranżowy",
+      "latitude": 50.914518,
+      "longitude": 16.43101
+    },
+    {
+      "name": "Kiosk Wielobranżowy",
+      "latitude": 51.097673,
+      "longitude": 17.038048
+    },
+    {
+      "name": "Kiosk Wielobranżowy Marzena Żerkowska",
+      "latitude": 51.957351,
+      "longitude": 19.728887
+    },
+    {
+      "name": "Kiosk z Pamiątkami",
+      "latitude": 51.541424,
+      "longitude": 20.138226
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 49.6244,
+      "longitude": 20.691855
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 49.797729,
+      "longitude": 18.786842
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.93952,
+      "longitude": 21.38672
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.940407,
+      "longitude": 21.388488
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.942571,
+      "longitude": 21.38735
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.944305,
+      "longitude": 21.394818
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.945353,
+      "longitude": 21.395592
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 50.947774,
+      "longitude": 21.391325
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 51.392846,
+      "longitude": 21.154892
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 53.861879,
+      "longitude": 21.305568
+    },
+    {
+      "name": "Kiosk z prasą",
+      "latitude": 54.213902,
+      "longitude": 15.750162
+    },
+    {
+      "name": "Kiosk Łucja Szymankiewicz",
+      "latitude": 52.521039,
+      "longitude": 17.605141
+    },
+    {
+      "name": "Klaudia",
+      "latitude": 50.882216,
+      "longitude": 20.638621
+    },
+    {
+      "name": "Kleks",
+      "latitude": 53.166373,
+      "longitude": 15.405841
+    },
+    {
+      "name": "Kolpolter",
+      "latitude": 50.090478,
+      "longitude": 18.210979
+    },
+    {
+      "name": "Kolpolter",
+      "latitude": 51.145628,
+      "longitude": 23.438177
+    },
+    {
+      "name": "Kolpolter",
+      "latitude": 51.221732,
+      "longitude": 18.563383
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.011349,
+      "longitude": 18.456823
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.011935,
+      "longitude": 18.457086
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.016495,
+      "longitude": 19.87506
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.043565,
+      "longitude": 19.930173
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.049349,
+      "longitude": 19.926209
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.051779,
+      "longitude": 19.927524
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.295714,
+      "longitude": 21.440723
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.47028,
+      "longitude": 20.717149
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.674943,
+      "longitude": 17.953761
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 50.716555,
+      "longitude": 23.273342
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.220435,
+      "longitude": 22.629616
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.741158,
+      "longitude": 19.404466
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.756158,
+      "longitude": 19.458994
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.76386,
+      "longitude": 19.461832
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.768814,
+      "longitude": 19.456262
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.776415,
+      "longitude": 19.451455
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.778627,
+      "longitude": 19.486451
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.826308,
+      "longitude": 16.600086
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 51.934931,
+      "longitude": 15.479113
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.142714,
+      "longitude": 20.717193
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.174854,
+      "longitude": 21.05054
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.184719,
+      "longitude": 21.060196
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.232673,
+      "longitude": 20.963781
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.319171,
+      "longitude": 20.952315
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 52.783409,
+      "longitude": 18.249566
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 53.166648,
+      "longitude": 15.412118
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.259013,
+      "longitude": 18.626709
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.37612,
+      "longitude": 18.615202
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.415147,
+      "longitude": 18.59686
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.423063,
+      "longitude": 18.578634
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.465825,
+      "longitude": 17.029573
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.471564,
+      "longitude": 18.489383
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.552327,
+      "longitude": 18.50303
+    },
+    {
+      "name": "Kolporter",
+      "latitude": 54.825406,
+      "longitude": 18.244004
+    },
+    {
+      "name": "Kolporter S.A.",
+      "latitude": 51.19276,
+      "longitude": 20.408789
+    },
+    {
+      "name": "Królewska Sosna",
+      "latitude": 53.790881,
+      "longitude": 21.171686
+    },
+    {
+      "name": "Kubik",
+      "latitude": 49.939879,
+      "longitude": 18.594147
+    },
+    {
+      "name": "Kubuś",
+      "latitude": 49.795892,
+      "longitude": 19.922743
+    },
+    {
+      "name": "Kurczak z rożna",
+      "latitude": 51.707684,
+      "longitude": 16.746562
+    },
+    {
+      "name": "Kurczak z rożna",
+      "latitude": 51.978365,
+      "longitude": 21.215581
+    },
+    {
+      "name": "Kurczak z Rożna",
+      "latitude": 53.431677,
+      "longitude": 14.553893
+    },
+    {
+      "name": "Kurczak z różna",
+      "latitude": 52.400579,
+      "longitude": 16.930991
+    },
+    {
+      "name": "Kwiaciarnia B.Z. Jaskólscy",
+      "latitude": 53.773488,
+      "longitude": 20.501685
+    },
+    {
+      "name": "Linde",
+      "latitude": 52.992347,
+      "longitude": 16.916605
+    },
+    {
+      "name": "Linde",
+      "latitude": 52.992491,
+      "longitude": 16.919468
+    },
+    {
+      "name": "Lody",
+      "latitude": 53.147445,
+      "longitude": 16.736312
+    },
+    {
+      "name": "Lotos Optima",
+      "latitude": 52.772743,
+      "longitude": 23.183657
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.220463,
+      "longitude": 18.566618
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.397684,
+      "longitude": 21.151074
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.633628,
+      "longitude": 15.124782
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.747309,
+      "longitude": 19.413271
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.776422,
+      "longitude": 19.425986
+    },
+    {
+      "name": "Lotto",
+      "latitude": 51.941045,
+      "longitude": 15.504679
+    },
+    {
+      "name": "LOTTO",
+      "latitude": 53.123262,
+      "longitude": 23.178267
+    },
+    {
+      "name": "Lotto",
+      "latitude": 53.435228,
+      "longitude": 14.568169
+    },
+    {
+      "name": "lotto",
+      "latitude": 53.709381,
+      "longitude": 16.691296
+    },
+    {
+      "name": "Lotto",
+      "latitude": 54.180639,
+      "longitude": 15.570001
+    },
+    {
+      "name": "LPG",
+      "latitude": 52.232706,
+      "longitude": 21.541455
+    },
+    {
+      "name": "LTL Sp. z o.o. PPHU. Stacja paliw",
+      "latitude": 53.407748,
+      "longitude": 22.786053
+    },
+    {
+      "name": "LycaMobile",
+      "latitude": 50.086663,
+      "longitude": 19.938699
+    },
+    {
+      "name": "M.E.R.S.I.",
+      "latitude": 50.319098,
+      "longitude": 19.069702
+    },
+    {
+      "name": "Magda",
+      "latitude": 53.405799,
+      "longitude": 22.80115
+    },
+    {
+      "name": "Magmon",
+      "latitude": 52.233842,
+      "longitude": 21.08141
+    },
+    {
+      "name": "Mansi Sklep Indyjski",
+      "latitude": 51.663126,
+      "longitude": 19.408205
+    },
+    {
+      "name": "Mariell",
+      "latitude": 50.87133,
+      "longitude": 20.614987
+    },
+    {
+      "name": "Media Press",
+      "latitude": 49.614102,
+      "longitude": 20.704212
+    },
+    {
+      "name": "Media Star",
+      "latitude": 52.324248,
+      "longitude": 21.065079
+    },
+    {
+      "name": "MediaStar",
+      "latitude": 52.201799,
+      "longitude": 18.630224
+    },
+    {
+      "name": "Mediastar",
+      "latitude": 52.836588,
+      "longitude": 15.831264
+    },
+    {
+      "name": "MediaStar",
+      "latitude": 54.350733,
+      "longitude": 18.513282
+    },
+    {
+      "name": "MediaStar ⭐ salony prasowe",
+      "latitude": 53.266739,
+      "longitude": 16.462632
+    },
+    {
+      "name": "Medio II",
+      "latitude": 53.545765,
+      "longitude": 14.553185
+    },
+    {
+      "name": "Medios",
+      "latitude": 53.425391,
+      "longitude": 14.54949
+    },
+    {
+      "name": "MH kiosk",
+      "latitude": 50.089759,
+      "longitude": 20.020804
+    },
+    {
+      "name": "Mikrus",
+      "latitude": 53.695271,
+      "longitude": 17.560343
+    },
+    {
+      "name": "Mikstol",
+      "latitude": 52.247525,
+      "longitude": 17.053524
+    },
+    {
+      "name": "Mini sklepik",
+      "latitude": 52.287176,
+      "longitude": 21.075973
+    },
+    {
+      "name": "minimax",
+      "latitude": 49.660711,
+      "longitude": 19.558718
+    },
+    {
+      "name": "Miody i sery",
+      "latitude": 49.721489,
+      "longitude": 18.816057
+    },
+    {
+      "name": "Mirage",
+      "latitude": 50.224452,
+      "longitude": 19.063239
+    },
+    {
+      "name": "MOL",
+      "latitude": 50.324633,
+      "longitude": 19.202962
+    },
+    {
+      "name": "MOL",
+      "latitude": 52.277305,
+      "longitude": 20.994261
+    },
+    {
+      "name": "Morski Kącik",
+      "latitude": 54.444631,
+      "longitude": 18.569163
+    },
+    {
+      "name": "Moya",
+      "latitude": 53.338561,
+      "longitude": 14.548929
+    },
+    {
+      "name": "Moya",
+      "latitude": 53.420248,
+      "longitude": 14.71399
+    },
+    {
+      "name": "Moya",
+      "latitude": 53.926933,
+      "longitude": 15.208368
+    },
+    {
+      "name": "Moya Express",
+      "latitude": 52.239481,
+      "longitude": 20.904869
+    },
+    {
+      "name": "Myszka",
+      "latitude": 50.893055,
+      "longitude": 20.640743
+    },
+    {
+      "name": "Mój Kiosk",
+      "latitude": 51.101727,
+      "longitude": 17.102337
+    },
+    {
+      "name": "Mój sklep",
+      "latitude": 54.179685,
+      "longitude": 15.600461
+    },
+    {
+      "name": "Müller",
+      "latitude": 50.900491,
+      "longitude": 15.884119
+    },
+    {
+      "name": "Na Wynos",
+      "latitude": 50.944189,
+      "longitude": 21.392456
+    },
+    {
+      "name": "Ni z gruszki, ni z pietruszki",
+      "latitude": 50.077717,
+      "longitude": 19.901519
+    },
+    {
+      "name": "Nieczynny",
+      "latitude": 51.407547,
+      "longitude": 21.167224
+    },
+    {
+      "name": "Nocna Bryza",
+      "latitude": 54.382261,
+      "longitude": 19.422956
+    },
+    {
+      "name": "Nowości",
+      "latitude": 52.99364,
+      "longitude": 18.593234
+    },
+    {
+      "name": "Oaza",
+      "latitude": 50.891571,
+      "longitude": 20.6482
+    },
+    {
+      "name": "Oaza",
+      "latitude": 50.895182,
+      "longitude": 20.665334
+    },
+    {
+      "name": "Obchůdek - smíšené zboží",
+      "latitude": 49.945417,
+      "longitude": 18.249536
+    },
+    {
+      "name": "Obwarzanki Krakowskie",
+      "latitude": 50.042908,
+      "longitude": 19.971727
+    },
+    {
+      "name": "Od A do Z",
+      "latitude": 50.319485,
+      "longitude": 19.125296
+    },
+    {
+      "name": "One Minute",
+      "latitude": 52.220924,
+      "longitude": 20.972659
+    },
+    {
+      "name": "Orlen",
+      "latitude": 49.537432,
+      "longitude": 22.224263
+    },
+    {
+      "name": "Orlen",
+      "latitude": 49.630268,
+      "longitude": 20.669807
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.270729,
+      "longitude": 19.589305
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.318405,
+      "longitude": 19.192179
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.373674,
+      "longitude": 19.27424
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.454105,
+      "longitude": 18.884927
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.95434,
+      "longitude": 21.295238
+    },
+    {
+      "name": "Orlen",
+      "latitude": 50.958321,
+      "longitude": 19.170112
+    },
+    {
+      "name": "Orlen",
+      "latitude": 51.401483,
+      "longitude": 17.667109
+    },
+    {
+      "name": "Orlen",
+      "latitude": 52.664254,
+      "longitude": 19.055542
+    },
+    {
+      "name": "Orlen",
+      "latitude": 52.691017,
+      "longitude": 22.052159
+    },
+    {
+      "name": "Orlen",
+      "latitude": 53.157999,
+      "longitude": 16.738582
+    },
+    {
+      "name": "Orlen",
+      "latitude": 53.396371,
+      "longitude": 22.803771
+    },
+    {
+      "name": "Orlen",
+      "latitude": 53.644165,
+      "longitude": 18.72472
+    },
+    {
+      "name": "Orlen",
+      "latitude": 53.767476,
+      "longitude": 15.758222
+    },
+    {
+      "name": "Orlen",
+      "latitude": 54.056703,
+      "longitude": 15.259339
+    },
+    {
+      "name": "Orlen Nowe",
+      "latitude": 53.636617,
+      "longitude": 18.704692
+    },
+    {
+      "name": "Orlen Paczka",
+      "latitude": 50.09519,
+      "longitude": 20.012162
+    },
+    {
+      "name": "Orlen w Ruchu",
+      "latitude": 51.842937,
+      "longitude": 16.574802
+    },
+    {
+      "name": "Orlen w ruchu",
+      "latitude": 52.175767,
+      "longitude": 20.944161
+    },
+    {
+      "name": "Orlen w Ruchu",
+      "latitude": 52.176774,
+      "longitude": 21.020712
+    },
+    {
+      "name": "Orlen w Ruchu",
+      "latitude": 52.228783,
+      "longitude": 20.914773
+    },
+    {
+      "name": "Orlen w Ruchu",
+      "latitude": 52.27211,
+      "longitude": 20.973327
+    },
+    {
+      "name": "Orlen w Ruchu",
+      "latitude": 54.338031,
+      "longitude": 18.610577
+    },
+    {
+      "name": "Orzeszek",
+      "latitude": 49.693921,
+      "longitude": 21.750064
+    },
+    {
+      "name": "Otwarte Studio Antyfaszystowskie",
+      "latitude": 51.252211,
+      "longitude": 22.54078
+    },
+    {
+      "name": "P.H. Jacek Tomasik",
+      "latitude": 51.076395,
+      "longitude": 17.716386
+    },
+    {
+      "name": "Pakersi Paczka w Ruchu",
+      "latitude": 52.33601,
+      "longitude": 21.19276
+    },
+    {
+      "name": "Paola",
+      "latitude": 50.027845,
+      "longitude": 19.929229
+    },
+    {
+      "name": "Papierosy",
+      "latitude": 51.302796,
+      "longitude": 15.727448
+    },
+    {
+      "name": "Papierosy Prasa Chemia",
+      "latitude": 54.178257,
+      "longitude": 15.58063
+    },
+    {
+      "name": "Papirus",
+      "latitude": 53.153305,
+      "longitude": 23.121642
+    },
+    {
+      "name": "Pawilon Wielobranżowy AnSo",
+      "latitude": 51.119173,
+      "longitude": 20.865296
+    },
+    {
+      "name": "Piapierosy",
+      "latitude": 50.3217,
+      "longitude": 19.196188
+    },
+    {
+      "name": "Pieczywo Kozielski",
+      "latitude": 49.960406,
+      "longitude": 18.391369
+    },
+    {
+      "name": "Pieprzyk",
+      "latitude": 54.162782,
+      "longitude": 15.548448
+    },
+    {
+      "name": "PM Petrol",
+      "latitude": 50.233609,
+      "longitude": 18.662707
+    },
+    {
+      "name": "Pod wydrami",
+      "latitude": 50.129545,
+      "longitude": 18.981749
+    },
+    {
+      "name": "Pogodna.net",
+      "latitude": 52.953421,
+      "longitude": 17.913606
+    },
+    {
+      "name": "Point",
+      "latitude": 52.336871,
+      "longitude": 14.547865
+    },
+    {
+      "name": "POK Centrum",
+      "latitude": 53.777045,
+      "longitude": 20.484896
+    },
+    {
+      "name": "Polanka",
+      "latitude": 51.495433,
+      "longitude": 21.620977
+    },
+    {
+      "name": "Poleska Chatka",
+      "latitude": 51.454945,
+      "longitude": 23.104587
+    },
+    {
+      "name": "Pomidorek",
+      "latitude": 52.172006,
+      "longitude": 21.030799
+    },
+    {
+      "name": "POTOCKI",
+      "latitude": 50.258005,
+      "longitude": 21.953199
+    },
+    {
+      "name": "Prasa",
+      "latitude": 50.174909,
+      "longitude": 20.986964
+    },
+    {
+      "name": "Prasa",
+      "latitude": 50.291554,
+      "longitude": 18.919314
+    },
+    {
+      "name": "Prasa",
+      "latitude": 50.340676,
+      "longitude": 16.886863
+    },
+    {
+      "name": "Prasa",
+      "latitude": 50.74877,
+      "longitude": 20.618432
+    },
+    {
+      "name": "Prasa",
+      "latitude": 50.888831,
+      "longitude": 20.612174
+    },
+    {
+      "name": "Prasa",
+      "latitude": 51.752068,
+      "longitude": 19.425447
+    },
+    {
+      "name": "Prasa",
+      "latitude": 51.820879,
+      "longitude": 19.444168
+    },
+    {
+      "name": "PRASA",
+      "latitude": 52.253586,
+      "longitude": 21.050058
+    },
+    {
+      "name": "Prasa i Artykuły Przemysłowo-Spożywcze Dorota Piłat",
+      "latitude": 54.718678,
+      "longitude": 18.40923
+    },
+    {
+      "name": "Prasa Kolporter",
+      "latitude": 51.819888,
+      "longitude": 19.442284
+    },
+    {
+      "name": "Prasa Papierosy Tytoń",
+      "latitude": 50.864656,
+      "longitude": 20.626045
+    },
+    {
+      "name": "Pressa",
+      "latitude": 51.789285,
+      "longitude": 19.435046
+    },
+    {
+      "name": "PressMedio",
+      "latitude": 50.021001,
+      "longitude": 19.902686
+    },
+    {
+      "name": "PRO-EKO",
+      "latitude": 50.038106,
+      "longitude": 19.22868
+    },
+    {
+      "name": "Promyczek",
+      "latitude": 53.025546,
+      "longitude": 18.680325
+    },
+    {
+      "name": "Pronar",
+      "latitude": 53.625904,
+      "longitude": 22.484591
+    },
+    {
+      "name": "Punkt sprzedaży zniczy",
+      "latitude": 54.525923,
+      "longitude": 17.773604
+    },
+    {
+      "name": "Pączkarnia",
+      "latitude": 52.729901,
+      "longitude": 15.230762
+    },
+    {
+      "name": "Ranpress",
+      "latitude": 51.030375,
+      "longitude": 15.415977
+    },
+    {
+      "name": "Recepcja COS OPO Spała",
+      "latitude": 51.540302,
+      "longitude": 20.147279
+    },
+    {
+      "name": "RELAY",
+      "latitude": 49.82991,
+      "longitude": 19.04499
+    },
+    {
+      "name": "Relay",
+      "latitude": 49.830406,
+      "longitude": 19.043024
+    },
+    {
+      "name": "Relay",
+      "latitude": 51.098681,
+      "longitude": 17.035573
+    },
+    {
+      "name": "Relay",
+      "latitude": 54.507992,
+      "longitude": 18.535995
+    },
+    {
+      "name": "Rolkon",
+      "latitude": 53.025252,
+      "longitude": 18.619469
+    },
+    {
+      "name": "ROSA",
+      "latitude": 52.203672,
+      "longitude": 20.965377
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.355531,
+      "longitude": 20.896751
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.370787,
+      "longitude": 22.426912
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.440224,
+      "longitude": 20.713956
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.560219,
+      "longitude": 20.744468
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.560248,
+      "longitude": 22.200876
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.609962,
+      "longitude": 20.685219
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.616605,
+      "longitude": 20.702699
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.687042,
+      "longitude": 19.209487
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.688347,
+      "longitude": 19.204216
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.694684,
+      "longitude": 21.74913
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.780358,
+      "longitude": 22.788998
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.782695,
+      "longitude": 22.74779
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.785017,
+      "longitude": 22.773967
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.822972,
+      "longitude": 19.052949
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.877479,
+      "longitude": 19.210645
+    },
+    {
+      "name": "Ruch",
+      "latitude": 49.970737,
+      "longitude": 19.134662
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.010292,
+      "longitude": 18.461453
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.019445,
+      "longitude": 22.004427
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.02197,
+      "longitude": 20.995545
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.022825,
+      "longitude": 22.016421
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.029701,
+      "longitude": 18.693459
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.039195,
+      "longitude": 19.240281
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.039455,
+      "longitude": 19.243058
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.0451,
+      "longitude": 21.999858
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.066097,
+      "longitude": 19.944921
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.07185,
+      "longitude": 19.929507
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.07385,
+      "longitude": 19.935142
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.084234,
+      "longitude": 20.009935
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.100695,
+      "longitude": 19.263422
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.11423,
+      "longitude": 19.005191
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.118883,
+      "longitude": 19.613198
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.126573,
+      "longitude": 18.799686
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.14212,
+      "longitude": 19.408161
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.142673,
+      "longitude": 19.405516
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.152582,
+      "longitude": 18.674561
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.15925,
+      "longitude": 19.471478
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.15934,
+      "longitude": 19.472733
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.201634,
+      "longitude": 17.823374
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.216056,
+      "longitude": 19.157458
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.220939,
+      "longitude": 18.674784
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.231419,
+      "longitude": 18.983094
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.234341,
+      "longitude": 18.977371
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.240031,
+      "longitude": 18.855442
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.2664,
+      "longitude": 18.973442
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.271821,
+      "longitude": 18.937808
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.273084,
+      "longitude": 18.93242
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.2757,
+      "longitude": 18.931488
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.277571,
+      "longitude": 18.672463
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.290782,
+      "longitude": 18.792072
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.292902,
+      "longitude": 18.77304
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.293242,
+      "longitude": 18.726002
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.298249,
+      "longitude": 18.95187
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.302395,
+      "longitude": 18.782528
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.312644,
+      "longitude": 18.852074
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.318146,
+      "longitude": 18.816008
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.319847,
+      "longitude": 19.130091
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.320546,
+      "longitude": 19.203898
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.322095,
+      "longitude": 19.134171
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.327332,
+      "longitude": 19.124493
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.339515,
+      "longitude": 18.892177
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.341057,
+      "longitude": 18.906904
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.349636,
+      "longitude": 18.876679
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.351161,
+      "longitude": 19.083541
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.353125,
+      "longitude": 18.841569
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.353697,
+      "longitude": 17.863493
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.36698,
+      "longitude": 18.84809
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.395366,
+      "longitude": 18.878882
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.397886,
+      "longitude": 18.876628
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.442942,
+      "longitude": 22.249528
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.45402,
+      "longitude": 23.41929
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.458678,
+      "longitude": 20.721799
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.469261,
+      "longitude": 17.337215
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.483561,
+      "longitude": 19.408788
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.492092,
+      "longitude": 19.433638
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.563692,
+      "longitude": 21.166704
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.571046,
+      "longitude": 19.356427
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.801393,
+      "longitude": 19.110527
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.810324,
+      "longitude": 19.097032
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.811602,
+      "longitude": 19.118102
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.8121,
+      "longitude": 19.121259
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.827538,
+      "longitude": 19.108481
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.894665,
+      "longitude": 20.645341
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.89625,
+      "longitude": 14.843618
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.901749,
+      "longitude": 15.735291
+    },
+    {
+      "name": "Ruch",
+      "latitude": 50.90462,
+      "longitude": 15.748827
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.050917,
+      "longitude": 21.061136
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.058348,
+      "longitude": 21.067139
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.091793,
+      "longitude": 22.963408
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.111155,
+      "longitude": 15.575138
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.117621,
+      "longitude": 17.031423
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.149315,
+      "longitude": 15.006594
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.154445,
+      "longitude": 15.014748
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.211756,
+      "longitude": 16.166376
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.213745,
+      "longitude": 22.572582
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.231777,
+      "longitude": 22.56909
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.232503,
+      "longitude": 22.591705
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.232866,
+      "longitude": 22.591261
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.242662,
+      "longitude": 22.519971
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.246237,
+      "longitude": 22.542117
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.246972,
+      "longitude": 22.50978
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.247541,
+      "longitude": 22.553024
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.364686,
+      "longitude": 19.373451
+    },
+    {
+      "name": "RUCH",
+      "latitude": 51.367309,
+      "longitude": 19.379961
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.377834,
+      "longitude": 20.279111
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.378538,
+      "longitude": 20.2774
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.405308,
+      "longitude": 19.689038
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.462453,
+      "longitude": 22.609015
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.484446,
+      "longitude": 21.457757
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.547873,
+      "longitude": 23.548415
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.593911,
+      "longitude": 22.138249
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.609238,
+      "longitude": 16.861967
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.613039,
+      "longitude": 16.861085
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.614209,
+      "longitude": 15.323968
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.651011,
+      "longitude": 16.072654
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.727596,
+      "longitude": 19.454344
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.743479,
+      "longitude": 19.488367
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.753878,
+      "longitude": 15.011062
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.78377,
+      "longitude": 21.188268
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.801459,
+      "longitude": 15.717066
+    },
+    {
+      "name": "ruch",
+      "latitude": 51.811228,
+      "longitude": 19.318304
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.818539,
+      "longitude": 19.308524
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.840118,
+      "longitude": 16.590581
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.840577,
+      "longitude": 16.585248
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.845182,
+      "longitude": 16.574523
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.846476,
+      "longitude": 16.597655
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.931327,
+      "longitude": 15.500765
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.93414,
+      "longitude": 15.506739
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.940166,
+      "longitude": 15.502657
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.943656,
+      "longitude": 15.508871
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.035746,
+      "longitude": 23.1265
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.096775,
+      "longitude": 21.268086
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.099711,
+      "longitude": 21.257938
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.105682,
+      "longitude": 21.263752
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.163076,
+      "longitude": 20.80522
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.19268,
+      "longitude": 20.893042
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.194542,
+      "longitude": 20.932917
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.195788,
+      "longitude": 20.963856
+    },
+    {
+      "name": "RUCH",
+      "latitude": 52.201933,
+      "longitude": 17.4887
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.204052,
+      "longitude": 21.014033
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.205961,
+      "longitude": 20.915463
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.211067,
+      "longitude": 20.977649
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.216659,
+      "longitude": 20.980692
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.218973,
+      "longitude": 20.982994
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.219895,
+      "longitude": 21.022672
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.22039,
+      "longitude": 21.005181
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.228783,
+      "longitude": 21.062509
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.230816,
+      "longitude": 18.279145
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.232152,
+      "longitude": 21.021342
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.235744,
+      "longitude": 20.939116
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.238219,
+      "longitude": 21.05047
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.246096,
+      "longitude": 20.985633
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.24626,
+      "longitude": 21.074923
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.24667,
+      "longitude": 20.942454
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.246906,
+      "longitude": 21.014362
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.250753,
+      "longitude": 21.009072
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.280432,
+      "longitude": 20.951556
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.287624,
+      "longitude": 21.040883
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.291512,
+      "longitude": 21.020165
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.31826,
+      "longitude": 20.952467
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.349517,
+      "longitude": 14.562059
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.365749,
+      "longitude": 16.905595
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.366316,
+      "longitude": 16.930284
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.378365,
+      "longitude": 16.962602
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.390721,
+      "longitude": 16.94356
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.401754,
+      "longitude": 16.909417
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.404686,
+      "longitude": 16.875068
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.404961,
+      "longitude": 19.165547
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.409345,
+      "longitude": 16.919785
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.410981,
+      "longitude": 16.877917
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.412418,
+      "longitude": 16.904529
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.547947,
+      "longitude": 19.699665
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.547949,
+      "longitude": 19.693597
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.548756,
+      "longitude": 19.709809
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.548872,
+      "longitude": 19.690159
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.549929,
+      "longitude": 19.691616
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.553476,
+      "longitude": 19.686153
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.553939,
+      "longitude": 19.685658
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.643436,
+      "longitude": 19.089355
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.656688,
+      "longitude": 17.954797
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.793948,
+      "longitude": 18.271263
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.797528,
+      "longitude": 18.242169
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.878961,
+      "longitude": 20.629854
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.922891,
+      "longitude": 14.873088
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.924097,
+      "longitude": 14.865295
+    },
+    {
+      "name": "Ruch",
+      "latitude": 52.985149,
+      "longitude": 22.241546
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.008189,
+      "longitude": 17.735228
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.131742,
+      "longitude": 23.139152
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.132541,
+      "longitude": 23.157151
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.359501,
+      "longitude": 17.489912
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.40842,
+      "longitude": 14.525802
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.422825,
+      "longitude": 14.5587
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.426301,
+      "longitude": 14.544111
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.428975,
+      "longitude": 14.54116
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.430531,
+      "longitude": 14.516918
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.435353,
+      "longitude": 14.56808
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.443854,
+      "longitude": 14.548488
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.444688,
+      "longitude": 14.553297
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.691474,
+      "longitude": 19.974156
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.697287,
+      "longitude": 19.963632
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.767969,
+      "longitude": 20.499884
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.773559,
+      "longitude": 20.47743
+    },
+    {
+      "name": "Ruch",
+      "latitude": 53.929455,
+      "longitude": 18.697181
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.161663,
+      "longitude": 19.418577
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.170281,
+      "longitude": 19.401827
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.181299,
+      "longitude": 19.431491
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.185183,
+      "longitude": 19.399286
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.18682,
+      "longitude": 19.401007
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.351206,
+      "longitude": 18.63461
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.411794,
+      "longitude": 18.585985
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.466171,
+      "longitude": 17.028123
+    },
+    {
+      "name": "ruch",
+      "latitude": 54.566626,
+      "longitude": 18.104155
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.569092,
+      "longitude": 18.394157
+    },
+    {
+      "name": "Ruch",
+      "latitude": 54.604605,
+      "longitude": 18.252406
+    },
+    {
+      "name": "Ruch - punkt odbioru przesyłek",
+      "latitude": 50.603596,
+      "longitude": 18.485382
+    },
+    {
+      "name": "RUCH S.A.",
+      "latitude": 52.294539,
+      "longitude": 21.021963
+    },
+    {
+      "name": "RUCH S.A.",
+      "latitude": 52.540758,
+      "longitude": 19.700045
+    },
+    {
+      "name": "RUCH S.A.",
+      "latitude": 52.54145,
+      "longitude": 19.698783
+    },
+    {
+      "name": "RUCH S.A.",
+      "latitude": 52.549194,
+      "longitude": 19.692708
+    },
+    {
+      "name": "RUCH S.A.",
+      "latitude": 52.557624,
+      "longitude": 19.684867
+    },
+    {
+      "name": "Rudawka",
+      "latitude": 52.266688,
+      "longitude": 20.961718
+    },
+    {
+      "name": "Róża",
+      "latitude": 50.017467,
+      "longitude": 22.682449
+    },
+    {
+      "name": "Salon Prasowy",
+      "latitude": 50.826571,
+      "longitude": 15.78663
+    },
+    {
+      "name": "Salon prasowy",
+      "latitude": 51.733103,
+      "longitude": 19.458894
+    },
+    {
+      "name": "Salon prasowy",
+      "latitude": 53.01287,
+      "longitude": 18.612001
+    },
+    {
+      "name": "Salon Prasowy",
+      "latitude": 53.013345,
+      "longitude": 18.603269
+    },
+    {
+      "name": "Salon prasowy/Drogeria laboo",
+      "latitude": 50.54586,
+      "longitude": 23.212306
+    },
+    {
+      "name": "Saloni Prasowy Kolporter",
+      "latitude": 51.819165,
+      "longitude": 19.43187
+    },
+    {
+      "name": "Salonik prasowy",
+      "latitude": 49.793441,
+      "longitude": 19.056887
+    },
+    {
+      "name": "Salonik prasowy",
+      "latitude": 50.298536,
+      "longitude": 16.876497
+    },
+    {
+      "name": "Salonik Prasowy",
+      "latitude": 50.324823,
+      "longitude": 19.183451
+    },
+    {
+      "name": "Salonik Prasowy",
+      "latitude": 51.735642,
+      "longitude": 19.495171
+    },
+    {
+      "name": "Salonik Prasowy",
+      "latitude": 51.751942,
+      "longitude": 19.41009
+    },
+    {
+      "name": "Salonik Prasowy",
+      "latitude": 51.820982,
+      "longitude": 19.443207
+    },
+    {
+      "name": "Salonik Prasowy",
+      "latitude": 52.230622,
+      "longitude": 20.241375
+    },
+    {
+      "name": "Salonik prasowy",
+      "latitude": 53.014335,
+      "longitude": 18.592626
+    },
+    {
+      "name": "Salonik prasowy",
+      "latitude": 53.45254,
+      "longitude": 14.563904
+    },
+    {
+      "name": "Samoobslužný bar",
+      "latitude": 50.757297,
+      "longitude": 15.600566
+    },
+    {
+      "name": "Segelschule",
+      "latitude": 51.072082,
+      "longitude": 14.955625
+    },
+    {
+      "name": "Semko",
+      "latitude": 54.036465,
+      "longitude": 15.87689
+    },
+    {
+      "name": "Service Express",
+      "latitude": 50.067774,
+      "longitude": 19.946128
+    },
+    {
+      "name": "Sery z Istebnej i Koniakowa",
+      "latitude": 49.817033,
+      "longitude": 19.216531
+    },
+    {
+      "name": "Shell",
+      "latitude": 50.313553,
+      "longitude": 19.194627
+    },
+    {
+      "name": "Shell",
+      "latitude": 51.658657,
+      "longitude": 19.478522
+    },
+    {
+      "name": "Shell",
+      "latitude": 51.82745,
+      "longitude": 19.42782
+    },
+    {
+      "name": "Shell",
+      "latitude": 53.030366,
+      "longitude": 18.611202
+    },
+    {
+      "name": "Sklep rolno-spożywczy",
+      "latitude": 53.150479,
+      "longitude": 18.132499
+    },
+    {
+      "name": "Sklep spożywczo-przemysłowy",
+      "latitude": 53.003595,
+      "longitude": 22.908451
+    },
+    {
+      "name": "Sklep spożywczy",
+      "latitude": 51.002845,
+      "longitude": 21.623275
+    },
+    {
+      "name": "Sklep spożywczy",
+      "latitude": 54.248725,
+      "longitude": 15.955831
+    },
+    {
+      "name": "Sklep Spożywczy",
+      "latitude": 54.510373,
+      "longitude": 16.483718
+    },
+    {
+      "name": "sklep u Basi",
+      "latitude": 53.816945,
+      "longitude": 15.534313
+    },
+    {
+      "name": "Sklep wielobranżowy",
+      "latitude": 50.316691,
+      "longitude": 19.115206
+    },
+    {
+      "name": "Sklep wielobranżowy",
+      "latitude": 50.691996,
+      "longitude": 22.067263
+    },
+    {
+      "name": "Sklep z gazetami i chemią",
+      "latitude": 51.590835,
+      "longitude": 21.533127
+    },
+    {
+      "name": "Sklepik",
+      "latitude": 54.367683,
+      "longitude": 18.766847
+    },
+    {
+      "name": "Sklepik ze zniczami, wkładami itd.",
+      "latitude": 52.318892,
+      "longitude": 15.083886
+    },
+    {
+      "name": "Skład",
+      "latitude": 51.322953,
+      "longitude": 21.947301
+    },
+    {
+      "name": "SLODYCZE",
+      "latitude": 54.833488,
+      "longitude": 18.305334
+    },
+    {
+      "name": "Sokpol",
+      "latitude": 50.573609,
+      "longitude": 19.324629
+    },
+    {
+      "name": "Spirit of Poland",
+      "latitude": 52.17221,
+      "longitude": 20.970708
+    },
+    {
+      "name": "Społem",
+      "latitude": 50.4129,
+      "longitude": 21.753677
+    },
+    {
+      "name": "Spożywczy",
+      "latitude": 51.723127,
+      "longitude": 19.839219
+    },
+    {
+      "name": "Stacja Paliw",
+      "latitude": 49.876686,
+      "longitude": 19.503131
+    },
+    {
+      "name": "Stacja Paliw",
+      "latitude": 49.997301,
+      "longitude": 21.884943
+    },
+    {
+      "name": "Stacja paliw Elba",
+      "latitude": 51.088792,
+      "longitude": 19.896982
+    },
+    {
+      "name": "Stacyjkowo",
+      "latitude": 52.17518,
+      "longitude": 20.880985
+    },
+    {
+      "name": "Super 1",
+      "latitude": 52.416513,
+      "longitude": 16.882247
+    },
+    {
+      "name": "Słodka Budka",
+      "latitude": 51.107082,
+      "longitude": 17.073628
+    },
+    {
+      "name": "Tabac&co",
+      "latitude": 52.342255,
+      "longitude": 14.547196
+    },
+    {
+      "name": "Tabacco&Press",
+      "latitude": 52.354119,
+      "longitude": 14.562076
+    },
+    {
+      "name": "Tabak",
+      "latitude": 49.682236,
+      "longitude": 19.207747
+    },
+    {
+      "name": "TABAK",
+      "latitude": 49.683825,
+      "longitude": 21.778455
+    },
+    {
+      "name": "Tabak",
+      "latitude": 49.893642,
+      "longitude": 21.053269
+    },
+    {
+      "name": "Tabak",
+      "latitude": 54.379923,
+      "longitude": 18.607211
+    },
+    {
+      "name": "Tabak Polska",
+      "latitude": 53.754621,
+      "longitude": 20.484424
+    },
+    {
+      "name": "Tabak shop",
+      "latitude": 53.919499,
+      "longitude": 14.253217
+    },
+    {
+      "name": "Tabák",
+      "latitude": 50.093921,
+      "longitude": 17.686465
+    },
+    {
+      "name": "TABÁK KUDOWA - TABAK - LEVNÉ CIGARETY- KÁVA",
+      "latitude": 50.434853,
+      "longitude": 16.232773
+    },
+    {
+      "name": "Tanie Papierosy",
+      "latitude": 51.735609,
+      "longitude": 19.49564
+    },
+    {
+      "name": "The Warsaw Store",
+      "latitude": 52.170758,
+      "longitude": 20.972281
+    },
+    {
+      "name": "Tik-Tak",
+      "latitude": 50.065148,
+      "longitude": 19.915528
+    },
+    {
+      "name": "Tik-Tak",
+      "latitude": 50.839763,
+      "longitude": 19.160486
+    },
+    {
+      "name": "Tina",
+      "latitude": 49.748919,
+      "longitude": 18.632863
+    },
+    {
+      "name": "Tola",
+      "latitude": 50.299128,
+      "longitude": 19.00495
+    },
+    {
+      "name": "Top Press",
+      "latitude": 51.353025,
+      "longitude": 19.376213
+    },
+    {
+      "name": "top-press koloporter",
+      "latitude": 53.146924,
+      "longitude": 16.716501
+    },
+    {
+      "name": "Tost i Kawa",
+      "latitude": 53.435486,
+      "longitude": 14.560111
+    },
+    {
+      "name": "Tourist information, tour booking",
+      "latitude": 50.057088,
+      "longitude": 19.938406
+    },
+    {
+      "name": "Traf",
+      "latitude": 49.748647,
+      "longitude": 18.632673
+    },
+    {
+      "name": "Traf",
+      "latitude": 50.008151,
+      "longitude": 19.953696
+    },
+    {
+      "name": "traf",
+      "latitude": 50.438229,
+      "longitude": 16.652029
+    },
+    {
+      "name": "Traf",
+      "latitude": 53.026164,
+      "longitude": 18.666758
+    },
+    {
+      "name": "Traf Press",
+      "latitude": 51.460653,
+      "longitude": 22.609489
+    },
+    {
+      "name": "Traf Press",
+      "latitude": 54.558415,
+      "longitude": 18.512702
+    },
+    {
+      "name": "TRAFFIC",
+      "latitude": 50.962218,
+      "longitude": 22.15745
+    },
+    {
+      "name": "Trafic Tabak",
+      "latitude": 49.951034,
+      "longitude": 18.596996
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.059705,
+      "longitude": 19.941748
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.321009,
+      "longitude": 18.942852
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.435023,
+      "longitude": 16.237425
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.47804,
+      "longitude": 17.336627
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.529843,
+      "longitude": 22.708526
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.859458,
+      "longitude": 17.471794
+    },
+    {
+      "name": "Trafika",
+      "latitude": 51.077669,
+      "longitude": 17.722994
+    },
+    {
+      "name": "Trafika",
+      "latitude": 51.279026,
+      "longitude": 17.986186
+    },
+    {
+      "name": "Trafika",
+      "latitude": 51.744816,
+      "longitude": 19.438091
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.021034,
+      "longitude": 23.119082
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.356874,
+      "longitude": 21.258621
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.379697,
+      "longitude": 16.96094
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.464043,
+      "longitude": 16.90633
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.596931,
+      "longitude": 15.501924
+    },
+    {
+      "name": "Trafika",
+      "latitude": 52.658432,
+      "longitude": 17.954702
+    },
+    {
+      "name": "Trafika",
+      "latitude": 53.910074,
+      "longitude": 15.19789
+    },
+    {
+      "name": "Trafika",
+      "latitude": 54.206625,
+      "longitude": 16.179095
+    },
+    {
+      "name": "Trafika",
+      "latitude": 54.374011,
+      "longitude": 18.626934
+    },
+    {
+      "name": "Trafika Kopernika",
+      "latitude": 51.126371,
+      "longitude": 15.286851
+    },
+    {
+      "name": "Trafika Stop",
+      "latitude": 50.073357,
+      "longitude": 19.913032
+    },
+    {
+      "name": "Trafika Tabak Polska",
+      "latitude": 50.810044,
+      "longitude": 15.765832
+    },
+    {
+      "name": "Trafika. Sprzedaż prasy i papierosów",
+      "latitude": 51.545901,
+      "longitude": 23.554847
+    },
+    {
+      "name": "TravelPlanet.pl",
+      "latitude": 50.443548,
+      "longitude": 18.858426
+    },
+    {
+      "name": "Tu tanio. Prasa papierosy",
+      "latitude": 52.261046,
+      "longitude": 21.029299
+    },
+    {
+      "name": "Tutti",
+      "latitude": 50.325425,
+      "longitude": 18.935717
+    },
+    {
+      "name": "Twój Ruch",
+      "latitude": 50.344867,
+      "longitude": 16.873151
+    },
+    {
+      "name": "Tęcza",
+      "latitude": 51.545308,
+      "longitude": 21.880632
+    },
+    {
+      "name": "U \"Joli\"",
+      "latitude": 52.574274,
+      "longitude": 20.76726
+    },
+    {
+      "name": "U Adama",
+      "latitude": 52.173137,
+      "longitude": 21.02696
+    },
+    {
+      "name": "U Angeli",
+      "latitude": 52.889055,
+      "longitude": 21.39917
+    },
+    {
+      "name": "U Ani",
+      "latitude": 49.440811,
+      "longitude": 21.182638
+    },
+    {
+      "name": "U Baśki",
+      "latitude": 50.306839,
+      "longitude": 19.017451
+    },
+    {
+      "name": "U Julci",
+      "latitude": 53.431561,
+      "longitude": 14.541742
+    },
+    {
+      "name": "U Marlona",
+      "latitude": 54.036266,
+      "longitude": 19.041145
+    },
+    {
+      "name": "U Maćka",
+      "latitude": 52.880859,
+      "longitude": 18.791222
+    },
+    {
+      "name": "U Michasia",
+      "latitude": 51.868183,
+      "longitude": 19.321582
+    },
+    {
+      "name": "Ubezpieczenia",
+      "latitude": 50.395245,
+      "longitude": 18.8781
+    },
+    {
+      "name": "Univers",
+      "latitude": 52.197094,
+      "longitude": 20.977775
+    },
+    {
+      "name": "Virgin",
+      "latitude": 52.171473,
+      "longitude": 20.972892
+    },
+    {
+      "name": "Warzywa i owoce",
+      "latitude": 52.237163,
+      "longitude": 21.142898
+    },
+    {
+      "name": "Warzywa Owoce",
+      "latitude": 54.163127,
+      "longitude": 15.496285
+    },
+    {
+      "name": "Warzywniaczek",
+      "latitude": 51.125203,
+      "longitude": 16.989916
+    },
+    {
+      "name": "Weź na Drogę",
+      "latitude": 52.229729,
+      "longitude": 21.009106
+    },
+    {
+      "name": "Wielobranżowy",
+      "latitude": 51.652923,
+      "longitude": 17.811289
+    },
+    {
+      "name": "Witamina",
+      "latitude": 50.016889,
+      "longitude": 18.567034
+    },
+    {
+      "name": "Witaminka",
+      "latitude": 52.452776,
+      "longitude": 16.921575
+    },
+    {
+      "name": "Xero-Prasa",
+      "latitude": 52.292847,
+      "longitude": 21.11131
+    },
+    {
+      "name": "zabka",
+      "latitude": 50.859269,
+      "longitude": 16.319797
+    },
+    {
+      "name": "zieleniak",
+      "latitude": 51.714317,
+      "longitude": 16.746602
+    },
+    {
+      "name": "Znicze",
+      "latitude": 49.676864,
+      "longitude": 21.768005
+    },
+    {
+      "name": "Znicze i kwiaty",
+      "latitude": 53.033886,
+      "longitude": 18.609013
+    },
+    {
+      "name": "Zoom",
+      "latitude": 52.173386,
+      "longitude": 20.969493
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 50.241765,
+      "longitude": 18.846177
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 50.672042,
+      "longitude": 17.970265
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 51.110809,
+      "longitude": 15.580602
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 51.594549,
+      "longitude": 21.532148
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 51.718899,
+      "longitude": 19.495811
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 51.895947,
+      "longitude": 17.781136
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 51.958403,
+      "longitude": 19.712381
+    },
+    {
+      "name": "Świat prasy",
+      "latitude": 52.449422,
+      "longitude": 16.941447
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 53.03125,
+      "longitude": 18.500407
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.031998,
+      "longitude": 14.809082
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.238934,
+      "longitude": 15.974278
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.382091,
+      "longitude": 16.320714
+    },
+    {
+      "name": "Świat prasy",
+      "latitude": 54.442857,
+      "longitude": 18.416221
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.581949,
+      "longitude": 18.494075
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.602625,
+      "longitude": 18.350513
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.716242,
+      "longitude": 18.415936
+    },
+    {
+      "name": "Świat Prasy",
+      "latitude": 54.718025,
+      "longitude": 18.405246
+    },
+    {
+      "name": "Świeże jaja",
+      "latitude": 50.764993,
+      "longitude": 16.28298
+    },
+    {
+      "name": "Żabka Nano",
+      "latitude": 52.401581,
+      "longitude": 16.911567
+    },
+    {
+      "name": "Яйцо",
+      "latitude": 52.098557,
+      "longitude": 23.649165
+    }
+  ],
+  "meta": {
+    "title": "Polska — kioski - Bezpłatne pobieranie",
+    "description": "Kioski w Polsce (OpenStreetMap) Zawiera 775 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — kioski | ListBase",
+    "seo_description": "Pobierz Polska — kioski — 775 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 775 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

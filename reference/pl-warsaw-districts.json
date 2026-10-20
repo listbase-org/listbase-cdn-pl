@@ -1,0 +1,246 @@
+{
+  "id": "pl-warsaw-districts",
+  "name": "Warszawa — dzielnice",
+  "title": "Warszawa — dzielnice",
+  "description": "Lista 18 dzielnic m. st. Warszawy z lokalizacją (lat/lng). Dzielnice są jednostkami pomocniczymi gminy w polskim systemie administracyjnym; Warszawa jest jedynym polskim miastem zaopatrzonym w dzielnice w tym źródle. List of 18 districts (dzielnice) of Warsaw with coordinates. Districts are auxiliary city-subdivision units; Warsaw is the only Polish city with districts represented in this source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "city_name",
+      "label": "City Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "district_id": 367,
+      "name": "Bemowo",
+      "slug": "warszawa-bemowo",
+      "full_name": "Warszawa, Bemowo",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.24336,
+      "longitude": 20.90661
+    },
+    {
+      "district_id": 365,
+      "name": "Białołęka",
+      "slug": "warszawa-bialoleka",
+      "full_name": "Warszawa, Białołęka",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.33008,
+      "longitude": 20.99661
+    },
+    {
+      "district_id": 369,
+      "name": "Bielany",
+      "slug": "warszawa-bielany",
+      "full_name": "Warszawa, Bielany",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.28479,
+      "longitude": 20.93958
+    },
+    {
+      "district_id": 353,
+      "name": "Mokotów",
+      "slug": "warszawa-mokotow",
+      "full_name": "Warszawa, Mokotów",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.19282,
+      "longitude": 21.03232
+    },
+    {
+      "district_id": 355,
+      "name": "Ochota",
+      "slug": "warszawa-ochota",
+      "full_name": "Warszawa, Ochota",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.21374,
+      "longitude": 20.97928
+    },
+    {
+      "district_id": 381,
+      "name": "Praga-Południe",
+      "slug": "warszawa-praga-poludnie",
+      "full_name": "Warszawa, Praga-Południe",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.23876,
+      "longitude": 21.08553
+    },
+    {
+      "district_id": 379,
+      "name": "Praga-Północ",
+      "slug": "warszawa-praga-polnoc",
+      "full_name": "Warszawa, Praga-Północ",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.25786,
+      "longitude": 21.03784
+    },
+    {
+      "district_id": 361,
+      "name": "Rembertów",
+      "slug": "warszawa-rembertow",
+      "full_name": "Warszawa, Rembertów",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.25906,
+      "longitude": 21.15547
+    },
+    {
+      "district_id": 377,
+      "name": "Targówek",
+      "slug": "warszawa-targowek",
+      "full_name": "Warszawa, Targówek",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.28055,
+      "longitude": 21.05787
+    },
+    {
+      "district_id": 371,
+      "name": "Ursus",
+      "slug": "warszawa-ursus",
+      "full_name": "Warszawa, Ursus",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.19474,
+      "longitude": 20.88159
+    },
+    {
+      "district_id": 373,
+      "name": "Ursynów",
+      "slug": "warszawa-ursynow",
+      "full_name": "Warszawa, Ursynów",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.1401,
+      "longitude": 21.03333
+    },
+    {
+      "district_id": 383,
+      "name": "Wawer",
+      "slug": "warszawa-wawer",
+      "full_name": "Warszawa, Wawer",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.19307,
+      "longitude": 21.17927
+    },
+    {
+      "district_id": 533,
+      "name": "Wesoła",
+      "slug": "warszawa-wesola",
+      "full_name": "Warszawa, Wesoła",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.23302,
+      "longitude": 21.24147
+    },
+    {
+      "district_id": 375,
+      "name": "Wilanów",
+      "slug": "warszawa-wilanow",
+      "full_name": "Warszawa, Wilanów",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.15926,
+      "longitude": 21.09296
+    },
+    {
+      "district_id": 359,
+      "name": "Wola",
+      "slug": "warszawa-wola",
+      "full_name": "Warszawa, Wola",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.23725,
+      "longitude": 20.96608
+    },
+    {
+      "district_id": 357,
+      "name": "Włochy",
+      "slug": "warszawa-wlochy",
+      "full_name": "Warszawa, Włochy",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.19255,
+      "longitude": 20.93517
+    },
+    {
+      "district_id": 351,
+      "name": "Śródmieście",
+      "slug": "warszawa-srodmiescie",
+      "full_name": "Warszawa, Śródmieście",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.23474,
+      "longitude": 21.01522
+    },
+    {
+      "district_id": 363,
+      "name": "Żoliborz",
+      "slug": "warszawa-zoliborz",
+      "full_name": "Warszawa, Żoliborz",
+      "city_id": 437,
+      "city_name": "Warszawa",
+      "latitude": 52.26735,
+      "longitude": 20.98132
+    }
+  ],
+  "meta": {
+    "title": "Warszawa — dzielnice - Bezpłatne pobieranie",
+    "description": "Lista 18 dzielnic m. st. Warszawy z lokalizacją (lat/lng). Dzielnice są jednostkami pomocniczymi gminy w polskim systemie administracyjnym; Warszawa jest jedynym polskim miastem zaopatrzonym w dzielnice w tym źródle. List of 18 districts (dzielnice) of Warsaw with coordinates. Districts are auxiliary city-subdivision units; Warsaw is the only Polish city with districts represented in this source. Zawiera 18 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Warszawa — dzielnice | ListBase",
+    "seo_description": "Pobierz Warszawa — dzielnice — 18 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 18 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "pl-lubelskie-counties",
+  "name": "Województwo lubelskie — powiaty",
+  "title": "Województwo lubelskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie lubelskim (województwo lubelskie) — 20 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the lubelskie voivodeship — 20 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 46,
+      "name": "bialski",
+      "slug": "bialski"
+    },
+    {
+      "county_id": 47,
+      "name": "biłgorajski",
+      "slug": "bilgorajski"
+    },
+    {
+      "county_id": 48,
+      "name": "chełmski",
+      "slug": "chelmski"
+    },
+    {
+      "county_id": 49,
+      "name": "hrubieszowski",
+      "slug": "hrubieszowski"
+    },
+    {
+      "county_id": 50,
+      "name": "janowski",
+      "slug": "janowski"
+    },
+    {
+      "county_id": 51,
+      "name": "krasnostawski",
+      "slug": "krasnostawski"
+    },
+    {
+      "county_id": 52,
+      "name": "kraśnicki",
+      "slug": "krasnicki"
+    },
+    {
+      "county_id": 53,
+      "name": "lubartowski",
+      "slug": "lubartowski"
+    },
+    {
+      "county_id": 54,
+      "name": "lubelski",
+      "slug": "lubelski"
+    },
+    {
+      "county_id": 57,
+      "name": "opolski",
+      "slug": "opolski"
+    },
+    {
+      "county_id": 58,
+      "name": "parczewski",
+      "slug": "parczewski"
+    },
+    {
+      "county_id": 59,
+      "name": "puławski",
+      "slug": "pulawski"
+    },
+    {
+      "county_id": 60,
+      "name": "radzyński",
+      "slug": "radzynski"
+    },
+    {
+      "county_id": 61,
+      "name": "rycki",
+      "slug": "rycki"
+    },
+    {
+      "county_id": 63,
+      "name": "tomaszowski",
+      "slug": "tomaszowski"
+    },
+    {
+      "county_id": 64,
+      "name": "włodawski",
+      "slug": "wlodawski"
+    },
+    {
+      "county_id": 65,
+      "name": "zamojski",
+      "slug": "zamojski"
+    },
+    {
+      "county_id": 56,
+      "name": "łukowski",
+      "slug": "lukowski"
+    },
+    {
+      "county_id": 55,
+      "name": "łęczyński",
+      "slug": "leczynski"
+    },
+    {
+      "county_id": 62,
+      "name": "świdnicki",
+      "slug": "swidnicki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo lubelskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie lubelskim (województwo lubelskie) — 20 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the lubelskie voivodeship — 20 entries. Excludes city-counties (see pl-city-counties). Zawiera 20 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo lubelskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo lubelskie — powiaty — 20 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 20 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

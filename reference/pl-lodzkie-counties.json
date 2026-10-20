@@ -1,0 +1,146 @@
+{
+  "id": "pl-lodzkie-counties",
+  "name": "Województwo łódzkie — powiaty",
+  "title": "Województwo łódzkie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie łódzkim (województwo łódzkie) — 21 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the łódzkie voivodeship — 21 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 78,
+      "name": "bełchatowski",
+      "slug": "belchatowski"
+    },
+    {
+      "county_id": 98,
+      "name": "brzeziński",
+      "slug": "brzezinski"
+    },
+    {
+      "county_id": 79,
+      "name": "kutnowski",
+      "slug": "kutnowski"
+    },
+    {
+      "county_id": 84,
+      "name": "opoczyński",
+      "slug": "opoczynski"
+    },
+    {
+      "county_id": 85,
+      "name": "pabianicki",
+      "slug": "pabianicki"
+    },
+    {
+      "county_id": 86,
+      "name": "pajęczański",
+      "slug": "pajeczanski"
+    },
+    {
+      "county_id": 87,
+      "name": "piotrkowski",
+      "slug": "piotrkowski"
+    },
+    {
+      "county_id": 88,
+      "name": "poddębicki",
+      "slug": "poddebicki"
+    },
+    {
+      "county_id": 89,
+      "name": "radomszczański",
+      "slug": "radomszczanski"
+    },
+    {
+      "county_id": 90,
+      "name": "rawski",
+      "slug": "rawski"
+    },
+    {
+      "county_id": 91,
+      "name": "sieradzki",
+      "slug": "sieradzki"
+    },
+    {
+      "county_id": 92,
+      "name": "skierniewicki",
+      "slug": "skierniewicki"
+    },
+    {
+      "county_id": 93,
+      "name": "tomaszowski",
+      "slug": "tomaszowski"
+    },
+    {
+      "county_id": 94,
+      "name": "wieluński",
+      "slug": "wielunski"
+    },
+    {
+      "county_id": 95,
+      "name": "wieruszowski",
+      "slug": "wieruszowski"
+    },
+    {
+      "county_id": 96,
+      "name": "zduńskowolski",
+      "slug": "zdunskowolski"
+    },
+    {
+      "county_id": 97,
+      "name": "zgierski",
+      "slug": "zgierski"
+    },
+    {
+      "county_id": 80,
+      "name": "łaski",
+      "slug": "laski"
+    },
+    {
+      "county_id": 82,
+      "name": "łowicki",
+      "slug": "lowicki"
+    },
+    {
+      "county_id": 83,
+      "name": "łódzki wschodni",
+      "slug": "lodzki-wschodni"
+    },
+    {
+      "county_id": 81,
+      "name": "łęczycki",
+      "slug": "leczycki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo łódzkie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie łódzkim (województwo łódzkie) — 21 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the łódzkie voivodeship — 21 entries. Excludes city-counties (see pl-city-counties). Zawiera 21 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo łódzkie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo łódzkie — powiaty — 21 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 21 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

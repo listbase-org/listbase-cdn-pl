@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "Zestaw Danych Kodów i Specyfikacji Kontenerów Wysyłkowych ISO 6346",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft Ogólnego Przeznaczenia",
+      "category": "Suchy",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Standardowy kontener suchy 20-stopowy"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft Ogólnego Przeznaczenia",
+      "category": "Suchy",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Standardowy kontener suchy 40-stopowy"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft High Cube",
+      "category": "Suchy",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "Kontener high cube z dodatkową wysokością"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft High Cube",
+      "category": "Suchy",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "45-stopowy kontener high cube"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Chłodniczy",
+      "category": "Chłodniczy",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "20-stopowy kontener chłodniczy"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Chłodniczy",
+      "category": "Chłodniczy",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "40-stopowy kontener chłodniczy"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Chłodniczy High Cube",
+      "category": "Chłodniczy",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "Kontener chłodniczy high cube"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Otwarty Dach",
+      "category": "Otwarty Dach",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Otwarty dach dla ładunków ponadgabarytowych"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Otwarty Dach",
+      "category": "Otwarty Dach",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "40-stopowy kontener z otwartym dachem"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Płaska Platforma",
+      "category": "Płaska Platforma",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "Bez ścian/dachu dla ciężkich maszyn"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Płaska Platforma",
+      "category": "Płaska Platforma",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "40-stopowy kontener z płaską platformą"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Cysterna",
+      "category": "Cysterna",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "Do transportu cieczy/gazu"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Platforma",
+      "category": "Platforma",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Płaska platforma, bez ścian"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Platforma",
+      "category": "Platforma",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "40-stopowy kontener platforma"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kody Kontenerów ISO 6346 - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz dane kodów kontenerów ISO 6346 za darmo. Uzyskaj 14 rekordów z wymiarami, pojemnością i ładownością. Dostępne w Excel, CSV, PDF.",
+    "title": "Zestaw Danych Kodów i Specyfikacji Kontenerów Wysyłkowych ISO 6346",
+    "description": "Ten zestaw danych zawiera kompleksową listę 14 kodów kontenerów ISO 6346, szczegółowo opisując ich typy, wymiary, pojemności i specyfikacje wagowe dla różnych kontenerów transportowych.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do szczegółowych specyfikacji dla 14 popularnych typów kontenerów ISO 6346.",
+      "Przeglądaj wymiary kontenerów, pojemności, maksymalne ładowności i masy własne.",
+      "Pobierz gotowe do użycia odniesienie do analizy logistyki, wysyłki i łańcucha dostaw.",
+      "Wykorzystaj dokładne dane do planowania frachtu i optymalizacji wykorzystania kontenerów."
+    ],
+    "keywords": [
+      "kody kontenerów ISO 6346",
+      "wymiary kontenerów morskich",
+      "dane kontenerów transportowych",
+      "specyfikacje kontenerów excel",
+      "typy kontenerów ISO csv",
+      "pojemność ładowność kontenera pdf"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptów Python, aby zintegrować specyfikacje kontenerów z systemami zarządzania logistyką lub narzędziami do kalkulacji frachtu.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania typów kontenerów i analizowania pojemności w celu optymalnego planowania tras wysyłki i załadunku ładunku.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, podręczników operacyjnych lub szybkiego wyszukiwania offline w magazynie.",
+      "Skorzystaj z tego zestawu danych do walidacji deklaracji kontenerowych, zrozumienia międzynarodowych standardów wysyłki lub tworzenia materiałów edukacyjnych na temat handlu globalnego."
+    ]
+  },
+  "record_count": 14,
+  "title": "Zestaw Danych Kodów i Specyfikacji Kontenerów Wysyłkowych ISO 6346"
+}

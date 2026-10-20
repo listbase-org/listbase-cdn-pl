@@ -1,0 +1,479 @@
+{
+  "id": "tech-mime-types",
+  "name": "Zbiór Danych Typów MIME i Rozszerzeń Plików",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "mime_type",
+      "label": "MIME Type",
+      "type": "string"
+    },
+    {
+      "key": "extension",
+      "label": "Extension",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mime_type": "text/plain",
+      "extension": ".txt",
+      "category": "Tekst",
+      "description": "Zwykły tekst"
+    },
+    {
+      "mime_type": "text/html",
+      "extension": ".html, .htm",
+      "category": "Tekst",
+      "description": "Dokument HTML"
+    },
+    {
+      "mime_type": "text/css",
+      "extension": ".css",
+      "category": "Tekst",
+      "description": "Kaskadowe Arkusze Stylów"
+    },
+    {
+      "mime_type": "text/javascript",
+      "extension": ".js",
+      "category": "Tekst",
+      "description": "JavaScript"
+    },
+    {
+      "mime_type": "text/csv",
+      "extension": ".csv",
+      "category": "Tekst",
+      "description": "Wartości rozdzielone przecinkami"
+    },
+    {
+      "mime_type": "text/xml",
+      "extension": ".xml",
+      "category": "Tekst",
+      "description": "Dokument XML"
+    },
+    {
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "category": "Tekst",
+      "description": "Dokument Markdown"
+    },
+    {
+      "mime_type": "text/calendar",
+      "extension": ".ics",
+      "category": "Tekst",
+      "description": "Format iCalendar"
+    },
+    {
+      "mime_type": "application/pdf",
+      "extension": ".pdf",
+      "category": "Dokument",
+      "description": "Adobe PDF"
+    },
+    {
+      "mime_type": "application/msword",
+      "extension": ".doc",
+      "category": "Dokument",
+      "description": "Microsoft Word"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx",
+      "category": "Dokument",
+      "description": "Microsoft Word (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-excel",
+      "extension": ".xls",
+      "category": "Dokument",
+      "description": "Microsoft Excel"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx",
+      "category": "Dokument",
+      "description": "Microsoft Excel (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-powerpoint",
+      "extension": ".ppt",
+      "category": "Dokument",
+      "description": "Microsoft PowerPoint"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx",
+      "category": "Dokument",
+      "description": "Microsoft PowerPoint (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.text",
+      "extension": ".odt",
+      "category": "Dokument",
+      "description": "Tekst OpenDocument"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "extension": ".ods",
+      "category": "Dokument",
+      "description": "Arkusz kalkulacyjny OpenDocument"
+    },
+    {
+      "mime_type": "application/rtf",
+      "extension": ".rtf",
+      "category": "Dokument",
+      "description": "Format Tekstu Sformatowanego"
+    },
+    {
+      "mime_type": "application/epub+zip",
+      "extension": ".epub",
+      "category": "Dokument",
+      "description": "Publikacja elektroniczna (EPUB)"
+    },
+    {
+      "mime_type": "application/json",
+      "extension": ".json",
+      "category": "Dane",
+      "description": "Format JSON"
+    },
+    {
+      "mime_type": "application/xml",
+      "extension": ".xml",
+      "category": "Dane",
+      "description": "Dane XML"
+    },
+    {
+      "mime_type": "application/ld+json",
+      "extension": ".jsonld",
+      "category": "Dane",
+      "description": "Format JSON-LD"
+    },
+    {
+      "mime_type": "application/x-yaml",
+      "extension": ".yaml, .yml",
+      "category": "Dane",
+      "description": "Format YAML"
+    },
+    {
+      "mime_type": "application/sql",
+      "extension": ".sql",
+      "category": "Dane",
+      "description": "Skrypt SQL"
+    },
+    {
+      "mime_type": "application/zip",
+      "extension": ".zip",
+      "category": "Archiwum",
+      "description": "Archiwum ZIP"
+    },
+    {
+      "mime_type": "application/gzip",
+      "extension": ".gz",
+      "category": "Archiwum",
+      "description": "Archiwum GZIP"
+    },
+    {
+      "mime_type": "application/x-tar",
+      "extension": ".tar",
+      "category": "Archiwum",
+      "description": "Archiwum TAR"
+    },
+    {
+      "mime_type": "application/x-rar-compressed",
+      "extension": ".rar",
+      "category": "Archiwum",
+      "description": "Archiwum RAR"
+    },
+    {
+      "mime_type": "application/x-7z-compressed",
+      "extension": ".7z",
+      "category": "Archiwum",
+      "description": "Archiwum 7-Zip"
+    },
+    {
+      "mime_type": "application/x-bzip2",
+      "extension": ".bz2",
+      "category": "Archiwum",
+      "description": "Archiwum Bzip2"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "extension": ".bin",
+      "category": "Dane binarne",
+      "description": "Dane binarne"
+    },
+    {
+      "mime_type": "application/x-executable",
+      "extension": ".exe",
+      "category": "Dane binarne",
+      "description": "Plik wykonywalny"
+    },
+    {
+      "mime_type": "application/x-msdownload",
+      "extension": ".exe, .dll",
+      "category": "Dane binarne",
+      "description": "Plik wykonywalny Microsoft"
+    },
+    {
+      "mime_type": "application/x-shockwave-flash",
+      "extension": ".swf",
+      "category": "Dane binarne",
+      "description": "Adobe Flash"
+    },
+    {
+      "mime_type": "application/java-archive",
+      "extension": ".jar",
+      "category": "Dane binarne",
+      "description": "Archiwum Java"
+    },
+    {
+      "mime_type": "application/vnd.android.package-archive",
+      "extension": ".apk",
+      "category": "Dane binarne",
+      "description": "Pakiet Android"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg",
+      "category": "Obraz",
+      "description": "Obraz JPEG"
+    },
+    {
+      "mime_type": "image/png",
+      "extension": ".png",
+      "category": "Obraz",
+      "description": "Obraz PNG"
+    },
+    {
+      "mime_type": "image/gif",
+      "extension": ".gif",
+      "category": "Obraz",
+      "description": "Obraz GIF"
+    },
+    {
+      "mime_type": "image/webp",
+      "extension": ".webp",
+      "category": "Obraz",
+      "description": "Obraz WebP"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "extension": ".svg",
+      "category": "Obraz",
+      "description": "Obraz SVG"
+    },
+    {
+      "mime_type": "image/bmp",
+      "extension": ".bmp",
+      "category": "Obraz",
+      "description": "Obraz bitmapowy"
+    },
+    {
+      "mime_type": "image/tiff",
+      "extension": ".tiff, .tif",
+      "category": "Obraz",
+      "description": "Obraz TIFF"
+    },
+    {
+      "mime_type": "image/x-icon",
+      "extension": ".ico",
+      "category": "Obraz",
+      "description": "Format ikony"
+    },
+    {
+      "mime_type": "image/avif",
+      "extension": ".avif",
+      "category": "Obraz",
+      "description": "Obraz AVIF"
+    },
+    {
+      "mime_type": "image/heic",
+      "extension": ".heic",
+      "category": "Obraz",
+      "description": "Obraz HEIC (Apple)"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3",
+      "category": "Dźwięk",
+      "description": "Dźwięk MP3"
+    },
+    {
+      "mime_type": "audio/wav",
+      "extension": ".wav",
+      "category": "Dźwięk",
+      "description": "Dźwięk WAV"
+    },
+    {
+      "mime_type": "audio/ogg",
+      "extension": ".ogg",
+      "category": "Dźwięk",
+      "description": "Dźwięk OGG"
+    },
+    {
+      "mime_type": "audio/webm",
+      "extension": ".weba",
+      "category": "Dźwięk",
+      "description": "Dźwięk WebM"
+    },
+    {
+      "mime_type": "audio/aac",
+      "extension": ".aac",
+      "category": "Dźwięk",
+      "description": "Dźwięk AAC"
+    },
+    {
+      "mime_type": "audio/flac",
+      "extension": ".flac",
+      "category": "Dźwięk",
+      "description": "Dźwięk FLAC"
+    },
+    {
+      "mime_type": "audio/midi",
+      "extension": ".mid, .midi",
+      "category": "Dźwięk",
+      "description": "Dźwięk MIDI"
+    },
+    {
+      "mime_type": "audio/x-m4a",
+      "extension": ".m4a",
+      "category": "Dźwięk",
+      "description": "Dźwięk M4A (Apple)"
+    },
+    {
+      "mime_type": "video/mp4",
+      "extension": ".mp4",
+      "category": "Wideo",
+      "description": "Wideo MP4"
+    },
+    {
+      "mime_type": "video/webm",
+      "extension": ".webm",
+      "category": "Wideo",
+      "description": "Wideo WebM"
+    },
+    {
+      "mime_type": "video/ogg",
+      "extension": ".ogv",
+      "category": "Wideo",
+      "description": "Wideo OGG"
+    },
+    {
+      "mime_type": "video/x-msvideo",
+      "extension": ".avi",
+      "category": "Wideo",
+      "description": "Wideo AVI"
+    },
+    {
+      "mime_type": "video/quicktime",
+      "extension": ".mov",
+      "category": "Wideo",
+      "description": "Wideo QuickTime"
+    },
+    {
+      "mime_type": "video/x-matroska",
+      "extension": ".mkv",
+      "category": "Wideo",
+      "description": "Wideo Matroska"
+    },
+    {
+      "mime_type": "video/x-flv",
+      "extension": ".flv",
+      "category": "Wideo",
+      "description": "Wideo Flash"
+    },
+    {
+      "mime_type": "video/mpeg",
+      "extension": ".mpeg, .mpg",
+      "category": "Wideo",
+      "description": "Wideo MPEG"
+    },
+    {
+      "mime_type": "video/3gpp",
+      "extension": ".3gp",
+      "category": "Wideo",
+      "description": "Wideo 3GPP"
+    },
+    {
+      "mime_type": "font/woff",
+      "extension": ".woff",
+      "category": "Czcionka",
+      "description": "Format Otwartych Czcionek Internetowych"
+    },
+    {
+      "mime_type": "font/woff2",
+      "extension": ".woff2",
+      "category": "Czcionka",
+      "description": "Format Otwartych Czcionek Internetowych 2"
+    },
+    {
+      "mime_type": "font/ttf",
+      "extension": ".ttf",
+      "category": "Czcionka",
+      "description": "Czcionka TrueType"
+    },
+    {
+      "mime_type": "font/otf",
+      "extension": ".otf",
+      "category": "Czcionka",
+      "description": "Czcionka OpenType"
+    },
+    {
+      "mime_type": "application/vnd.ms-fontobject",
+      "extension": ".eot",
+      "category": "Czcionka",
+      "description": "Osadzony OpenType"
+    },
+    {
+      "mime_type": "multipart/form-data",
+      "extension": "",
+      "category": "Wieloczęściowe",
+      "description": "Dane formularza z przesyłaniem plików"
+    },
+    {
+      "mime_type": "multipart/byteranges",
+      "extension": "",
+      "category": "Wieloczęściowe",
+      "description": "Zakresy częściowej zawartości"
+    }
+  ],
+  "meta": {
+    "seo_title": "Wspólne Typy MIME - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo 70 typowych typów MIME, rozszerzeń i kategorii. Idealne dla programistów i analityków danych. Dostępne w formatach Excel, CSV i PDF.",
+    "title": "Zbiór Danych Typów MIME i Rozszerzeń Plików",
+    "description": "Ten zbiór danych zawiera kompleksową listę 70 typowych typów MIME, powiązanych rozszerzeń plików, kategorii i opisów. Niezbędny do tworzenia stron internetowych, przetwarzania danych i administracji systemami.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do wyselekcjonowanej listy 70 typowych typów MIME i ich szczegółów.",
+      "Przeglądaj rozszerzenia plików, kategorie i opisy dla różnych formatów danych.",
+      "Pobierz kluczowe informacje o typach MIME dla rozwoju stron internetowych i obsługi danych.",
+      "Uzyskaj precyzyjne dane do identyfikacji typu treści i konfiguracji serwera."
+    ],
+    "keywords": [
+      "lista typów mime",
+      "zbiór danych rozszerzeń plików",
+      "typy mime csv",
+      "typy treści web excel",
+      "lista formatów danych",
+      "pobierz typy mime za darmo"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej aplikacji backendowej lub bazy danych, aby walidować przesyłane pliki i programowo ustawiać typy treści.",
+      "Użyj pliku **Excel** do szybkiego filtrowania i krzyżowego odwoływania się do typów MIME w celach dokumentacyjnych, audytów systemowych lub przygotowywania mapowań typów treści.",
+      "Wydrukuj wersję **PDF** jako szybki przewodnik referencyjny dla zespołów programistycznych, administratorów systemów lub do celów edukacyjnych na zajęciach informatycznych.",
+      "Wykorzystaj ten zbiór danych do ulepszenia negocjacji treści, wdrożenia solidnej obsługi plików lub poprawy konfiguracji serwera dla aplikacji internetowych."
+    ]
+  },
+  "record_count": 70,
+  "title": "Zbiór Danych Typów MIME i Rozszerzeń Plików"
+}

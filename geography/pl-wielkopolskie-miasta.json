@@ -1,0 +1,1216 @@
+{
+  "id": "pl-wielkopolskie-miasta",
+  "name": "Miasta w województwie wielkopolskie",
+  "title": "Miasta w województwie wielkopolskie",
+  "description": "Cities and towns (miasta) in Wielkopolskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "2118",
+      "name": "Bojanowo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "rawicki",
+      "commune": "Bojanowo-gmina miejsko-wiejska",
+      "latitude": 51.7075,
+      "longitude": 16.7489
+    },
+    {
+      "id": "2290",
+      "name": "Borek Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gostyński",
+      "commune": "Borek Wielkopolski-gmina miejsko-wiejska",
+      "latitude": 51.9164,
+      "longitude": 17.2422
+    },
+    {
+      "id": "3630",
+      "name": "Budzyń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "chodzieski",
+      "commune": "Budzyń-gmina wiejska",
+      "latitude": 52.89,
+      "longitude": 16.9878
+    },
+    {
+      "id": "3675",
+      "name": "Buk",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Buk-gmina miejsko-wiejska",
+      "latitude": 52.3553,
+      "longitude": 16.5197
+    },
+    {
+      "id": "4369",
+      "name": "Chocz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pleszewski",
+      "commune": "Chocz-gmina miejsko-wiejska",
+      "latitude": 51.9769,
+      "longitude": 17.8703
+    },
+    {
+      "id": "4406",
+      "name": "Chodzież",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "chodzieski",
+      "commune": "Chodzież-gmina miejska",
+      "latitude": 52.9922,
+      "longitude": 16.9153
+    },
+    {
+      "id": "5370",
+      "name": "Czarnków",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "czarnkowsko-trzcianecki",
+      "commune": "Czarnków-gmina miejska",
+      "latitude": 52.9047,
+      "longitude": 16.5644
+    },
+    {
+      "id": "5554",
+      "name": "Czempiń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kościański",
+      "commune": "Czempiń-gmina miejsko-wiejska",
+      "latitude": 52.1433,
+      "longitude": 16.7572
+    },
+    {
+      "id": "5617",
+      "name": "Czerniejewo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gnieźnieński",
+      "commune": "Czerniejewo-gmina miejsko-wiejska",
+      "latitude": 52.4267,
+      "longitude": 17.4894
+    },
+    {
+      "id": "6007",
+      "name": "Dąbie",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kolski",
+      "commune": "Dąbie-gmina miejsko-wiejska",
+      "latitude": 52.0883,
+      "longitude": 18.8222
+    },
+    {
+      "id": "6782",
+      "name": "Dobra",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "turecki",
+      "commune": "Dobra-gmina miejsko-wiejska",
+      "latitude": 51.9156,
+      "longitude": 18.6164
+    },
+    {
+      "id": "6929",
+      "name": "Dobrzyca",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pleszewski",
+      "commune": "Dobrzyca-gmina wiejska",
+      "latitude": 51.8633,
+      "longitude": 17.6011
+    },
+    {
+      "id": "6985",
+      "name": "Dolsk",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "śremski",
+      "commune": "Dolsk-gmina miejsko-wiejska",
+      "latitude": 51.9872,
+      "longitude": 17.0639
+    },
+    {
+      "id": "8922",
+      "name": "Gniezno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gnieźnieński",
+      "commune": "Gniezno-gmina miejska",
+      "latitude": 52.5333,
+      "longitude": 17.6014
+    },
+    {
+      "id": "9108",
+      "name": "Golina",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "koniński",
+      "commune": "Golina-gmina miejsko-wiejska",
+      "latitude": 52.245,
+      "longitude": 18.0942
+    },
+    {
+      "id": "9131",
+      "name": "Gołańcz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wągrowiecki",
+      "commune": "Gołańcz-gmina miejsko-wiejska",
+      "latitude": 52.9433,
+      "longitude": 17.3011
+    },
+    {
+      "id": "9395",
+      "name": "Gostyń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gostyński",
+      "commune": "Gostyń-gmina miejsko-wiejska",
+      "latitude": 51.8819,
+      "longitude": 17.0122
+    },
+    {
+      "id": "9936",
+      "name": "Grabów nad Prosną",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrzeszowski",
+      "commune": "Grabów nad Prosną-gmina miejsko-wiejska",
+      "latitude": 51.5083,
+      "longitude": 18.1147
+    },
+    {
+      "id": "10183",
+      "name": "Grodzisk Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "grodziski",
+      "commune": "Grodzisk Wielkopolski-gmina miejsko-wiejska",
+      "latitude": 52.2244,
+      "longitude": 16.3642
+    },
+    {
+      "id": "11853",
+      "name": "Jaraczewo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "jarociński",
+      "commune": "Jaraczewo-gmina wiejska",
+      "latitude": 51.9689,
+      "longitude": 17.2972
+    },
+    {
+      "id": "11892",
+      "name": "Jarocin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "jarociński",
+      "commune": "Jarocin-gmina miejsko-wiejska",
+      "latitude": 51.9725,
+      "longitude": 17.5017
+    },
+    {
+      "id": "12069",
+      "name": "Jastrowie",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "złotowski",
+      "commune": "Jastrowie-gmina miejsko-wiejska",
+      "latitude": 53.4211,
+      "longitude": 16.8156
+    },
+    {
+      "id": "12830",
+      "name": "Jutrosin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "rawicki",
+      "commune": "Jutrosin-gmina miejsko-wiejska",
+      "latitude": 51.6514,
+      "longitude": 17.1692
+    },
+    {
+      "id": "13031",
+      "name": "Kalisz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "Kalisz",
+      "commune": "Kalisz-gmina miejska",
+      "latitude": 51.7611,
+      "longitude": 18.0869
+    },
+    {
+      "id": "13969",
+      "name": "Kępno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kępiński",
+      "commune": "Kępno-gmina miejsko-wiejska",
+      "latitude": 51.2792,
+      "longitude": 17.9833
+    },
+    {
+      "id": "14241",
+      "name": "Kleczew",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "koniński",
+      "commune": "Kleczew-gmina miejsko-wiejska",
+      "latitude": 52.3708,
+      "longitude": 18.1731
+    },
+    {
+      "id": "14468",
+      "name": "Kłecko",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gnieźnieński",
+      "commune": "Kłecko-gmina miejsko-wiejska",
+      "latitude": 52.6317,
+      "longitude": 17.4294
+    },
+    {
+      "id": "14495",
+      "name": "Kłodawa",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kolski",
+      "commune": "Kłodawa-gmina miejsko-wiejska",
+      "latitude": 52.2536,
+      "longitude": 18.9131
+    },
+    {
+      "id": "14661",
+      "name": "Kobylin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "krotoszyński",
+      "commune": "Kobylin-gmina miejsko-wiejska",
+      "latitude": 51.7167,
+      "longitude": 17.2267
+    },
+    {
+      "id": "14922",
+      "name": "Koło",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kolski",
+      "commune": "Koło-gmina miejska",
+      "latitude": 52.2044,
+      "longitude": 18.6325
+    },
+    {
+      "id": "15114",
+      "name": "Konin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "Konin",
+      "commune": "Konin-gmina miejska",
+      "latitude": 52.2281,
+      "longitude": 18.2542
+    },
+    {
+      "id": "15587",
+      "name": "Kostrzyn",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Kostrzyn-gmina miejsko-wiejska",
+      "latitude": 52.3972,
+      "longitude": 17.2256
+    },
+    {
+      "id": "15646",
+      "name": "Kościan",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kościański",
+      "commune": "Kościan-gmina miejska",
+      "latitude": 52.0858,
+      "longitude": 16.6442
+    },
+    {
+      "id": "16046",
+      "name": "Koźmin Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "krotoszyński",
+      "commune": "Koźmin Wielkopolski-gmina miejsko-wiejska",
+      "latitude": 51.8272,
+      "longitude": 17.4528
+    },
+    {
+      "id": "16047",
+      "name": "Koźminek",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kaliski",
+      "commune": "Koźminek-gmina wiejska",
+      "latitude": 51.7994,
+      "longitude": 18.3356
+    },
+    {
+      "id": "16074",
+      "name": "Kórnik",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Kórnik-gmina miejsko-wiejska",
+      "latitude": 52.2486,
+      "longitude": 17.0897
+    },
+    {
+      "id": "16088",
+      "name": "Krajenka",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "złotowski",
+      "commune": "Krajenka-gmina miejsko-wiejska",
+      "latitude": 53.2969,
+      "longitude": 16.9906
+    },
+    {
+      "id": "16357",
+      "name": "Krobia",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gostyński",
+      "commune": "Krobia-gmina miejsko-wiejska",
+      "latitude": 51.7742,
+      "longitude": 16.9847
+    },
+    {
+      "id": "16440",
+      "name": "Krotoszyn",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "krotoszyński",
+      "commune": "Krotoszyn-gmina miejsko-wiejska",
+      "latitude": 51.6958,
+      "longitude": 17.4375
+    },
+    {
+      "id": "16876",
+      "name": "Krzywiń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kościański",
+      "commune": "Krzywiń-gmina miejsko-wiejska",
+      "latitude": 51.9617,
+      "longitude": 16.8208
+    },
+    {
+      "id": "16904",
+      "name": "Krzyż Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "czarnkowsko-trzcianecki",
+      "commune": "Krzyż Wielkopolski-gmina miejsko-wiejska",
+      "latitude": 52.8792,
+      "longitude": 16.0136
+    },
+    {
+      "id": "16979",
+      "name": "Książ Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "śremski",
+      "commune": "Książ Wielkopolski-gmina miejsko-wiejska",
+      "latitude": 52.0625,
+      "longitude": 17.2392
+    },
+    {
+      "id": "17877",
+      "name": "Leszno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "Leszno",
+      "commune": "Leszno-gmina miejska",
+      "latitude": 51.8433,
+      "longitude": 16.5744
+    },
+    {
+      "id": "18711",
+      "name": "Luboń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Luboń-gmina miejska",
+      "latitude": 52.3458,
+      "longitude": 16.8778
+    },
+    {
+      "id": "18932",
+      "name": "Lwówek",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "nowotomyski",
+      "commune": "Lwówek-gmina miejsko-wiejska",
+      "latitude": 52.4481,
+      "longitude": 16.1808
+    },
+    {
+      "id": "19492",
+      "name": "Łobżenica",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pilski",
+      "commune": "Łobżenica-gmina miejsko-wiejska",
+      "latitude": 53.2603,
+      "longitude": 17.2553
+    },
+    {
+      "id": "20516",
+      "name": "Margonin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "chodzieski",
+      "commune": "Margonin-gmina miejsko-wiejska",
+      "latitude": 52.9733,
+      "longitude": 17.0944
+    },
+    {
+      "id": "21198",
+      "name": "Miejska Górka",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "rawicki",
+      "commune": "Miejska Górka-gmina miejsko-wiejska",
+      "latitude": 51.6556,
+      "longitude": 16.9569
+    },
+    {
+      "id": "21341",
+      "name": "Międzychód",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "międzychodzki",
+      "commune": "Międzychód-gmina miejsko-wiejska",
+      "latitude": 52.6044,
+      "longitude": 15.8994
+    },
+    {
+      "id": "21446",
+      "name": "Mikstat",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrzeszowski",
+      "commune": "Mikstat-gmina miejsko-wiejska",
+      "latitude": 51.5322,
+      "longitude": 17.9731
+    },
+    {
+      "id": "21580",
+      "name": "Miłosław",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wrzesiński",
+      "commune": "Miłosław-gmina miejsko-wiejska",
+      "latitude": 52.2028,
+      "longitude": 17.4886
+    },
+    {
+      "id": "22154",
+      "name": "Mosina",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Mosina-gmina miejsko-wiejska",
+      "latitude": 52.2444,
+      "longitude": 16.8506
+    },
+    {
+      "id": "22395",
+      "name": "Murowana Goślina",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Murowana Goślina-gmina miejsko-wiejska",
+      "latitude": 52.5758,
+      "longitude": 17.0094
+    },
+    {
+      "id": "22739",
+      "name": "Nekla",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wrzesiński",
+      "commune": "Nekla-gmina miejsko-wiejska",
+      "latitude": 52.3644,
+      "longitude": 17.4125
+    },
+    {
+      "id": "23823",
+      "name": "Nowe Skalmierzyce",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrowski",
+      "commune": "Nowe Skalmierzyce-gmina miejsko-wiejska",
+      "latitude": 51.7086,
+      "longitude": 17.9917
+    },
+    {
+      "id": "24264",
+      "name": "Nowy Tomyśl",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "nowotomyski",
+      "commune": "Nowy Tomyśl-gmina miejsko-wiejska",
+      "latitude": 52.3167,
+      "longitude": 16.1325
+    },
+    {
+      "id": "24358",
+      "name": "Oborniki",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "obornicki",
+      "commune": "Oborniki-gmina miejsko-wiejska",
+      "latitude": 52.6458,
+      "longitude": 16.8089
+    },
+    {
+      "id": "24411",
+      "name": "Obrzycko",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "szamotulski",
+      "commune": "Obrzycko-gmina miejska",
+      "latitude": 52.7081,
+      "longitude": 16.5269
+    },
+    {
+      "id": "24464",
+      "name": "Odolanów",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrowski",
+      "commune": "Odolanów-gmina miejsko-wiejska",
+      "latitude": 51.5742,
+      "longitude": 17.6736
+    },
+    {
+      "id": "24575",
+      "name": "Okonek",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "złotowski",
+      "commune": "Okonek-gmina miejsko-wiejska",
+      "latitude": 53.5353,
+      "longitude": 16.8497
+    },
+    {
+      "id": "24895",
+      "name": "Opalenica",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "nowotomyski",
+      "commune": "Opalenica-gmina miejsko-wiejska",
+      "latitude": 52.3075,
+      "longitude": 16.4131
+    },
+    {
+      "id": "24920",
+      "name": "Opatówek",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kaliski",
+      "commune": "Opatówek-gmina wiejska",
+      "latitude": 51.7394,
+      "longitude": 18.2142
+    },
+    {
+      "id": "25128",
+      "name": "Osieczna",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "leszczyński",
+      "commune": "Osieczna-gmina miejsko-wiejska",
+      "latitude": 51.9044,
+      "longitude": 16.6775
+    },
+    {
+      "id": "25374",
+      "name": "Ostroróg",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "szamotulski",
+      "commune": "Ostroróg-gmina miejsko-wiejska",
+      "latitude": 52.6267,
+      "longitude": 16.4508
+    },
+    {
+      "id": "25498",
+      "name": "Ostrów Wielkopolski",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrowski",
+      "commune": "Ostrów Wielkopolski-gmina miejska",
+      "latitude": 51.6494,
+      "longitude": 17.8167
+    },
+    {
+      "id": "25546",
+      "name": "Ostrzeszów",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrzeszowski",
+      "commune": "Ostrzeszów-gmina miejsko-wiejska",
+      "latitude": 51.4236,
+      "longitude": 17.9314
+    },
+    {
+      "id": "26675",
+      "name": "Piła",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pilski",
+      "commune": "Piła-gmina miejska",
+      "latitude": 53.1475,
+      "longitude": 16.7394
+    },
+    {
+      "id": "26911",
+      "name": "Pleszew",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pleszewski",
+      "commune": "Pleszew-gmina miejsko-wiejska",
+      "latitude": 51.8964,
+      "longitude": 17.7858
+    },
+    {
+      "id": "27109",
+      "name": "Pniewy",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "szamotulski",
+      "commune": "Pniewy-gmina miejsko-wiejska",
+      "latitude": 52.5081,
+      "longitude": 16.2553
+    },
+    {
+      "id": "27126",
+      "name": "Pobiedziska",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Pobiedziska-gmina miejsko-wiejska",
+      "latitude": 52.4775,
+      "longitude": 17.285
+    },
+    {
+      "id": "27533",
+      "name": "Pogorzela",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gostyński",
+      "commune": "Pogorzela-gmina miejsko-wiejska",
+      "latitude": 51.8225,
+      "longitude": 17.2303
+    },
+    {
+      "id": "27836",
+      "name": "Poniec",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gostyński",
+      "commune": "Poniec-gmina miejsko-wiejska",
+      "latitude": 51.7647,
+      "longitude": 16.8067
+    },
+    {
+      "id": "28174",
+      "name": "Poznań",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "Poznań",
+      "commune": "Poznań-gmina miejska",
+      "latitude": 52.4081,
+      "longitude": 16.9333
+    },
+    {
+      "id": "28475",
+      "name": "Przedecz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kolski",
+      "commune": "Przedecz-gmina miejsko-wiejska",
+      "latitude": 52.3333,
+      "longitude": 18.9006
+    },
+    {
+      "id": "29051",
+      "name": "Puszczykowo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Puszczykowo-gmina miejska",
+      "latitude": 52.2847,
+      "longitude": 16.8544
+    },
+    {
+      "id": "29082",
+      "name": "Pyzdry",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wrzesiński",
+      "commune": "Pyzdry-gmina miejsko-wiejska",
+      "latitude": 52.1669,
+      "longitude": 17.6869
+    },
+    {
+      "id": "29452",
+      "name": "Rakoniewice",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "grodziski",
+      "commune": "Rakoniewice-gmina miejsko-wiejska",
+      "latitude": 52.1386,
+      "longitude": 16.2733
+    },
+    {
+      "id": "29530",
+      "name": "Raszków",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "ostrowski",
+      "commune": "Raszków-gmina miejsko-wiejska",
+      "latitude": 51.7183,
+      "longitude": 17.7261
+    },
+    {
+      "id": "29580",
+      "name": "Rawicz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "rawicki",
+      "commune": "Rawicz-gmina miejsko-wiejska",
+      "latitude": 51.6094,
+      "longitude": 16.8583
+    },
+    {
+      "id": "29907",
+      "name": "Rogoźno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "obornicki",
+      "commune": "Rogoźno-gmina miejsko-wiejska",
+      "latitude": 52.7522,
+      "longitude": 16.9917
+    },
+    {
+      "id": "30889",
+      "name": "Rychwał",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "koniński",
+      "commune": "Rychwał-gmina miejsko-wiejska",
+      "latitude": 52.07,
+      "longitude": 18.1664
+    },
+    {
+      "id": "30927",
+      "name": "Rydzyna",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "leszczyński",
+      "commune": "Rydzyna-gmina miejsko-wiejska",
+      "latitude": 51.7867,
+      "longitude": 16.6672
+    },
+    {
+      "id": "31955",
+      "name": "Sieraków",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "międzychodzki",
+      "commune": "Sieraków-gmina miejsko-wiejska",
+      "latitude": 52.6497,
+      "longitude": 16.0822
+    },
+    {
+      "id": "32273",
+      "name": "Skoki",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wągrowiecki",
+      "commune": "Skoki-gmina miejsko-wiejska",
+      "latitude": 52.6733,
+      "longitude": 17.1592
+    },
+    {
+      "id": "32697",
+      "name": "Słupca",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "słupecki",
+      "commune": "Słupca-gmina miejska",
+      "latitude": 52.2894,
+      "longitude": 17.8725
+    },
+    {
+      "id": "33163",
+      "name": "Sompolno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "koniński",
+      "commune": "Sompolno-gmina miejsko-wiejska",
+      "latitude": 52.3889,
+      "longitude": 18.5028
+    },
+    {
+      "id": "34307",
+      "name": "Stawiszyn",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kaliski",
+      "commune": "Stawiszyn-gmina miejsko-wiejska",
+      "latitude": 51.9175,
+      "longitude": 18.1117
+    },
+    {
+      "id": "34413",
+      "name": "Stęszew",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Stęszew-gmina miejsko-wiejska",
+      "latitude": 52.2806,
+      "longitude": 16.7033
+    },
+    {
+      "id": "35150",
+      "name": "Sulmierzyce",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "krotoszyński",
+      "commune": "Sulmierzyce-gmina miejska",
+      "latitude": 51.6061,
+      "longitude": 17.5306
+    },
+    {
+      "id": "35269",
+      "name": "Swarzędz",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "poznański",
+      "commune": "Swarzędz-gmina miejsko-wiejska",
+      "latitude": 52.41,
+      "longitude": 17.0775
+    },
+    {
+      "id": "35396",
+      "name": "Szamocin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "chodzieski",
+      "commune": "Szamocin-gmina miejsko-wiejska",
+      "latitude": 53.0289,
+      "longitude": 17.1217
+    },
+    {
+      "id": "35398",
+      "name": "Szamotuły",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "szamotulski",
+      "commune": "Szamotuły-gmina miejsko-wiejska",
+      "latitude": 52.6117,
+      "longitude": 16.5786
+    },
+    {
+      "id": "36079",
+      "name": "Ślesin",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "koniński",
+      "commune": "Ślesin-gmina miejsko-wiejska",
+      "latitude": 52.3706,
+      "longitude": 18.3064
+    },
+    {
+      "id": "36139",
+      "name": "Śmigiel",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "kościański",
+      "commune": "Śmigiel-gmina miejsko-wiejska",
+      "latitude": 52.0122,
+      "longitude": 16.5253
+    },
+    {
+      "id": "36192",
+      "name": "Śrem",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "śremski",
+      "commune": "Śrem-gmina miejsko-wiejska",
+      "latitude": 52.0953,
+      "longitude": 17.0206
+    },
+    {
+      "id": "36195",
+      "name": "Środa Wielkopolska",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "średzki",
+      "commune": "Środa Wielkopolska-gmina miejsko-wiejska",
+      "latitude": 52.2289,
+      "longitude": 17.275
+    },
+    {
+      "id": "37180",
+      "name": "Trzcianka",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "czarnkowsko-trzcianecki",
+      "commune": "Trzcianka-gmina miejsko-wiejska",
+      "latitude": 53.04,
+      "longitude": 16.4606
+    },
+    {
+      "id": "37331",
+      "name": "Trzemeszno",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gnieźnieński",
+      "commune": "Trzemeszno-gmina miejsko-wiejska",
+      "latitude": 52.5606,
+      "longitude": 17.8219
+    },
+    {
+      "id": "37430",
+      "name": "Tuliszków",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "turecki",
+      "commune": "Tuliszków-gmina miejsko-wiejska",
+      "latitude": 52.0775,
+      "longitude": 18.2936
+    },
+    {
+      "id": "37466",
+      "name": "Turek",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "turecki",
+      "commune": "Turek-gmina miejska",
+      "latitude": 52.0156,
+      "longitude": 18.5017
+    },
+    {
+      "id": "37795",
+      "name": "Ujście",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pilski",
+      "commune": "Ujście-gmina miejsko-wiejska",
+      "latitude": 53.0531,
+      "longitude": 16.7325
+    },
+    {
+      "id": "38305",
+      "name": "Wągrowiec",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wągrowiecki",
+      "commune": "Wągrowiec-gmina miejska",
+      "latitude": 52.8067,
+      "longitude": 17.2006
+    },
+    {
+      "id": "38625",
+      "name": "Wieleń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "czarnkowsko-trzcianecki",
+      "commune": "Wieleń-gmina miejsko-wiejska",
+      "latitude": 52.8886,
+      "longitude": 16.1678
+    },
+    {
+      "id": "38644",
+      "name": "Wielichowo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "grodziski",
+      "commune": "Wielichowo-gmina miejsko-wiejska",
+      "latitude": 52.1175,
+      "longitude": 16.3497
+    },
+    {
+      "id": "39411",
+      "name": "Witkowo",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "gnieźnieński",
+      "commune": "Witkowo-gmina miejsko-wiejska",
+      "latitude": 52.44,
+      "longitude": 17.7728
+    },
+    {
+      "id": "40253",
+      "name": "Wolsztyn",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wolsztyński",
+      "commune": "Wolsztyn-gmina miejsko-wiejska",
+      "latitude": 52.1144,
+      "longitude": 16.1167
+    },
+    {
+      "id": "40702",
+      "name": "Wronki",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "szamotulski",
+      "commune": "Wronki-gmina miejsko-wiejska",
+      "latitude": 52.7081,
+      "longitude": 16.3786
+    },
+    {
+      "id": "40777",
+      "name": "Września",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "wrzesiński",
+      "commune": "Września-gmina miejsko-wiejska",
+      "latitude": 52.3258,
+      "longitude": 17.5653
+    },
+    {
+      "id": "41061",
+      "name": "Wyrzysk",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pilski",
+      "commune": "Wyrzysk-gmina miejsko-wiejska",
+      "latitude": 53.1533,
+      "longitude": 17.2669
+    },
+    {
+      "id": "41103",
+      "name": "Wysoka",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "pilski",
+      "commune": "Wysoka-gmina miejsko-wiejska",
+      "latitude": 53.1817,
+      "longitude": 17.0797
+    },
+    {
+      "id": "41500",
+      "name": "Zagórów",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "słupecki",
+      "commune": "Zagórów-gmina miejsko-wiejska",
+      "latitude": 52.1683,
+      "longitude": 17.8953
+    },
+    {
+      "id": "42368",
+      "name": "Zbąszyń",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "nowotomyski",
+      "commune": "Zbąszyń-gmina miejsko-wiejska",
+      "latitude": 52.2533,
+      "longitude": 15.9189
+    },
+    {
+      "id": "42502",
+      "name": "Zduny",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "krotoszyński",
+      "commune": "Zduny-gmina miejsko-wiejska",
+      "latitude": 51.6453,
+      "longitude": 17.3756
+    },
+    {
+      "id": "42872",
+      "name": "Złotów",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "złotowski",
+      "commune": "Złotów-gmina miejska",
+      "latitude": 53.3631,
+      "longitude": 17.0389
+    },
+    {
+      "id": "43357",
+      "name": "Żerków",
+      "type": "city",
+      "province": "wielkopolskie",
+      "district": "jarociński",
+      "commune": "Żerków-gmina miejsko-wiejska",
+      "latitude": 52.0683,
+      "longitude": 17.5633
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie wielkopolskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Wielkopolskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 115 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie wielkopolskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie wielkopolskie — 115 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 115 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

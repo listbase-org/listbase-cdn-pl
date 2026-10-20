@@ -1,0 +1,512 @@
+{
+  "id": "pl-strefy-czasowe-asia",
+  "name": "Strefy czasowe — Asia (57)",
+  "title": "Strefy czasowe — Asia (57)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Asia/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Almaty",
+      "region": "Asia",
+      "miasto": "Ałmaty",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "miasto": "Aktau",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "miasto": "Aktiubińsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "miasto": "Aszchabad",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "miasto": "Bagdad",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Bahrain",
+      "region": "Asia",
+      "miasto": "Bahrajn",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Barnaul",
+      "region": "Asia",
+      "miasto": "Barnauł",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Beirut",
+      "region": "Asia",
+      "miasto": "Bejrut",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "miasto": "Biszkek",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "miasto": "Kalkuta",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "miasto": "Czyta",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Colombo",
+      "region": "Asia",
+      "miasto": "Kolombo",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "miasto": "Damaszek",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Dubai",
+      "region": "Asia",
+      "miasto": "Dubaj",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "miasto": "Duszanbe",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "miasto": "Hongkong",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "miasto": "Kobdo",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Irkutsk",
+      "region": "Asia",
+      "miasto": "Irkuck",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Jakarta",
+      "region": "Asia",
+      "miasto": "Dżakarta",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Jerusalem",
+      "region": "Asia",
+      "miasto": "Jerozolima",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "miasto": "Kamczatka",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Karachi",
+      "region": "Asia",
+      "miasto": "Karaczi",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "miasto": "Katmandu",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "miasto": "Chandyga",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "miasto": "Krasnojarsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Kuwait",
+      "region": "Asia",
+      "miasto": "Kuwejt",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "miasto": "Makau",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "miasto": "Maskat",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Nicosia",
+      "region": "Asia",
+      "miasto": "Nikozja",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Novokuznetsk",
+      "region": "Asia",
+      "miasto": "Nowokuźnieck",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Novosibirsk",
+      "region": "Asia",
+      "miasto": "Nowosybirsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Oral",
+      "region": "Asia",
+      "miasto": "Uralsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Pyongyang",
+      "region": "Asia",
+      "miasto": "Pjongjang",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Qatar",
+      "region": "Asia",
+      "miasto": "Katar",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "miasto": "Kustanaj",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Qyzylorda",
+      "region": "Asia",
+      "miasto": "Kyzyłorda",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "miasto": "Rangun",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Riyadh",
+      "region": "Asia",
+      "miasto": "Rijad",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "miasto": "Ho Chi Minh",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "miasto": "Sachalin",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Samarkand",
+      "region": "Asia",
+      "miasto": "Samarkanda",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Seoul",
+      "region": "Asia",
+      "miasto": "Seul",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Shanghai",
+      "region": "Asia",
+      "miasto": "Szanghaj",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Singapore",
+      "region": "Asia",
+      "miasto": "Singapur",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Srednekolymsk",
+      "region": "Asia",
+      "miasto": "Sriedniekołymsk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Taipei",
+      "region": "Asia",
+      "miasto": "Tajpej",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "miasto": "Taszkient",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "miasto": "Teheran",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Tokyo",
+      "region": "Asia",
+      "miasto": "Tokio",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Ulaanbaatar",
+      "region": "Asia",
+      "miasto": "Ułan Bator",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "miasto": "Urumczi",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Asia/Ust-Nera",
+      "region": "Asia",
+      "miasto": "Ust-Niera",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Asia/Vientiane",
+      "region": "Asia",
+      "miasto": "Wientian",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Asia/Vladivostok",
+      "region": "Asia",
+      "miasto": "Władywostok",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "miasto": "Jakuck",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "miasto": "Jekaterynburg",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "miasto": "Erywań",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Asia (57) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Asia/', z nazwami po polsku. Zawiera 57 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Asia (57) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Asia (57) — 57 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 57 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "pl-strefy-czasowe-atlantic",
+  "name": "Strefy czasowe — Atlantic (8)",
+  "title": "Strefy czasowe — Atlantic (8)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Atlantic/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "miasto": "Azory",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "region": "Atlantic",
+      "miasto": "Bermudy",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "miasto": "Wyspy Kanaryjskie",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "miasto": "Republika Zielonego Przylądka",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "miasto": "Wyspy Owcze",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/Madeira",
+      "region": "Atlantic",
+      "miasto": "Madera",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "miasto": "Georgia Południowa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "miasto": "Święta Helena",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Atlantic (8) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Atlantic/', z nazwami po polsku. Zawiera 8 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Atlantic (8) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Atlantic (8) — 8 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 8 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

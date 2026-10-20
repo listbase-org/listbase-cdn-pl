@@ -1,0 +1,216 @@
+{
+  "id": "pl-nazwiska",
+  "name": "Pl Nazwiska",
+  "title": "Pl Nazwiska",
+  "description": "Top-20 najpopularniejszych nazwisk w Polsce z liczbą osób",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "PL-1",
+      "rank": 1,
+      "localized": "Nowak",
+      "romanized": "Nowak",
+      "count": 207348,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-2",
+      "rank": 2,
+      "localized": "Kowalski",
+      "romanized": "Kowalski",
+      "count": 140471,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-3",
+      "rank": 3,
+      "localized": "Wiśniewski",
+      "romanized": "Wiśniewski",
+      "count": 111174,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-4",
+      "rank": 4,
+      "localized": "Wójcik",
+      "romanized": "Wójcik",
+      "count": 100064,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-5",
+      "rank": 5,
+      "localized": "Kowalczyk",
+      "romanized": "Kowalczyk",
+      "count": 98739,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-6",
+      "rank": 6,
+      "localized": "Kamiński",
+      "romanized": "Kamiński",
+      "count": 95816,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-7",
+      "rank": 7,
+      "localized": "Lewandowski",
+      "romanized": "Lewandowski",
+      "count": 93404,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-8",
+      "rank": 8,
+      "localized": "Zieliński",
+      "romanized": "Zieliński",
+      "count": 91522,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-9",
+      "rank": 9,
+      "localized": "Szymański",
+      "romanized": "Szymański",
+      "count": 89698,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-10",
+      "rank": 10,
+      "localized": "Woźniak",
+      "romanized": "Woźniak",
+      "count": 89015,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-11",
+      "rank": 11,
+      "localized": "Dąbrowski",
+      "romanized": "Dąbrowski",
+      "count": 87304,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-12",
+      "rank": 12,
+      "localized": "Kozłowski",
+      "romanized": "Kozłowski",
+      "count": 76657,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-13",
+      "rank": 13,
+      "localized": "Jankowski",
+      "romanized": "Jankowski",
+      "count": 69280,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-14",
+      "rank": 14,
+      "localized": "Mazur",
+      "romanized": "Mazur",
+      "count": 68090,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-15",
+      "rank": 15,
+      "localized": "Kwiatkowski",
+      "romanized": "Kwiatkowski",
+      "count": 66917,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-16",
+      "rank": 16,
+      "localized": "Wojciechowski",
+      "romanized": "Wojciechowski",
+      "count": 66879,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-17",
+      "rank": 17,
+      "localized": "Krawczyk",
+      "romanized": "Krawczyk",
+      "count": 64543,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-18",
+      "rank": 18,
+      "localized": "Kaczmarek",
+      "romanized": "Kaczmarek",
+      "count": 62399,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-19",
+      "rank": 19,
+      "localized": "Piotrowski",
+      "romanized": "Piotrowski",
+      "count": 61844,
+      "percent": ""
+    },
+    {
+      "name_group": "PL-20",
+      "rank": 20,
+      "localized": "Grabowski",
+      "romanized": "Grabowski",
+      "count": 59052,
+      "percent": ""
+    }
+  ],
+  "meta": {
+    "title": "Pl Nazwiska - Bezpłatne pobieranie",
+    "description": "Top-20 najpopularniejszych nazwisk w Polsce z liczbą osób Zawiera 20 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Pl Nazwiska | ListBase",
+    "seo_description": "Pobierz Pl Nazwiska — 20 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 20 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

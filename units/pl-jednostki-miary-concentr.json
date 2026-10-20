@@ -1,0 +1,178 @@
+{
+  "id": "pl-jednostki-miary-concentr",
+  "name": "Jednostki miary — kategoria 'concentr' (13)",
+  "title": "Jednostki miary — kategoria 'concentr' (13)",
+  "description": "Jednostki miary kategorii 'concentr' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategoria": "concentr",
+      "nazwa": "sztuki",
+      "skrot": "szt.",
+      "forma_waska": "szt.",
+      "wzorzec": "{0} sztuki"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategoria": "concentr",
+      "nazwa": "karaty",
+      "skrot": "karaty",
+      "forma_waska": "karaty",
+      "wzorzec": "{0} karata"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategoria": "concentr",
+      "nazwa": "katale",
+      "skrot": "kat",
+      "forma_waska": "kat",
+      "wzorzec": "{0} katala"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoria": "concentr",
+      "nazwa": "miligramy na decylitr",
+      "skrot": "mg/dl",
+      "forma_waska": "mg/dl",
+      "wzorzec": "{0} miligrama na decylitr"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoria": "concentr",
+      "nazwa": "milimole na litr",
+      "skrot": "mmol/l",
+      "forma_waska": "mmol/l",
+      "wzorzec": "{0} milimola na litr"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategoria": "concentr",
+      "nazwa": "mol",
+      "skrot": "mol",
+      "forma_waska": "mol",
+      "wzorzec": "{0} mola"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategoria": "concentr",
+      "nazwa": "glukozy",
+      "skrot": "Glc",
+      "forma_waska": "Glc",
+      "wzorzec": "{0} Glc"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategoria": "concentr",
+      "nazwa": "części",
+      "skrot": "część",
+      "forma_waska": "część",
+      "wzorzec": "{0} części"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategoria": "concentr",
+      "nazwa": "części na milion",
+      "skrot": "ppm",
+      "forma_waska": "ppm",
+      "wzorzec": "{0} części na milion"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategoria": "concentr",
+      "nazwa": "części na miliard",
+      "skrot": "ppb",
+      "forma_waska": "ppb",
+      "wzorzec": "{0} części na miliard"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategoria": "concentr",
+      "nazwa": "procent",
+      "skrot": "%",
+      "forma_waska": "%",
+      "wzorzec": "{0} procent"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategoria": "concentr",
+      "nazwa": "promil",
+      "skrot": "‰",
+      "forma_waska": "‰",
+      "wzorzec": "{0} promila"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategoria": "concentr",
+      "nazwa": "punkt bazowy",
+      "skrot": "‱",
+      "forma_waska": "‱",
+      "wzorzec": "{0} punktu bazowego"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'concentr' (13) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'concentr' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 13 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'concentr' (13) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'concentr' (13) — 13 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 13 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

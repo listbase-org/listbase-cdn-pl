@@ -1,0 +1,111 @@
+{
+  "id": "pl-podlaskie-counties",
+  "name": "Województwo podlaskie — powiaty",
+  "title": "Województwo podlaskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie podlaskim (województwo podlaskie) — 14 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the podlaskie voivodeship — 14 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 187,
+      "name": "augustowski",
+      "slug": "augustowski"
+    },
+    {
+      "county_id": 188,
+      "name": "białostocki",
+      "slug": "bialostocki"
+    },
+    {
+      "county_id": 189,
+      "name": "bielski",
+      "slug": "bielski"
+    },
+    {
+      "county_id": 190,
+      "name": "grajewski",
+      "slug": "grajewski"
+    },
+    {
+      "county_id": 191,
+      "name": "hajnowski",
+      "slug": "hajnowski"
+    },
+    {
+      "county_id": 192,
+      "name": "kolneński",
+      "slug": "kolnenski"
+    },
+    {
+      "county_id": 194,
+      "name": "moniecki",
+      "slug": "moniecki"
+    },
+    {
+      "county_id": 195,
+      "name": "sejneński",
+      "slug": "sejnenski"
+    },
+    {
+      "county_id": 196,
+      "name": "siemiatycki",
+      "slug": "siemiatycki"
+    },
+    {
+      "county_id": 197,
+      "name": "sokólski",
+      "slug": "sokolski"
+    },
+    {
+      "county_id": 198,
+      "name": "suwalski",
+      "slug": "suwalski"
+    },
+    {
+      "county_id": 199,
+      "name": "wysokomazowiecki",
+      "slug": "wysokomazowiecki"
+    },
+    {
+      "county_id": 200,
+      "name": "zambrowski",
+      "slug": "zambrowski"
+    },
+    {
+      "county_id": 193,
+      "name": "łomżyński",
+      "slug": "lomzynski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo podlaskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie podlaskim (województwo podlaskie) — 14 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the podlaskie voivodeship — 14 entries. Excludes city-counties (see pl-city-counties). Zawiera 14 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo podlaskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo podlaskie — powiaty — 14 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 14 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

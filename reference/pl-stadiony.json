@@ -1,0 +1,3926 @@
+{
+  "id": "pl-stadiony",
+  "name": "Polska — stadiony",
+  "title": "Polska — stadiony",
+  "description": "Stadiony w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 777,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agrykola",
+      "latitude": 52.220573,
+      "longitude": 21.034452
+    },
+    {
+      "name": "AR TIG \"Hutnik\" Huta Dąbrowa",
+      "latitude": 51.811467,
+      "longitude": 22.043744
+    },
+    {
+      "name": "Arena Gliwice - Mała Hala",
+      "latitude": 50.285071,
+      "longitude": 18.687244
+    },
+    {
+      "name": "Arena Katowice",
+      "latitude": 50.251408,
+      "longitude": 18.974678
+    },
+    {
+      "name": "Arena Lekkoatletyczna",
+      "latitude": 50.123088,
+      "longitude": 18.992723
+    },
+    {
+      "name": "Arena Lublin",
+      "latitude": 51.232448,
+      "longitude": 22.55719
+    },
+    {
+      "name": "Arena zielona-energia.com",
+      "latitude": 50.802806,
+      "longitude": 19.153781
+    },
+    {
+      "name": "Arena Żagań",
+      "latitude": 51.615396,
+      "longitude": 15.300366
+    },
+    {
+      "name": "Asta Arena",
+      "latitude": 53.155201,
+      "longitude": 16.752784
+    },
+    {
+      "name": "Bałtyk Koszalin",
+      "latitude": 54.187243,
+      "longitude": 16.188846
+    },
+    {
+      "name": "Białołęcki Ośrodek Sportu",
+      "latitude": 52.322259,
+      "longitude": 20.947922
+    },
+    {
+      "name": "BIZON JELENIEC",
+      "latitude": 51.862029,
+      "longitude": 22.265523
+    },
+    {
+      "name": "Bizon Medyka",
+      "latitude": 49.810561,
+      "longitude": 22.930495
+    },
+    {
+      "name": "Bocheński Klub Sportowy",
+      "latitude": 49.965975,
+      "longitude": 20.4256
+    },
+    {
+      "name": "Boiska do siatkówki plażowej",
+      "latitude": 51.524284,
+      "longitude": 20.225333
+    },
+    {
+      "name": "Boisko",
+      "latitude": 51.593738,
+      "longitude": 20.289004
+    },
+    {
+      "name": "Boisko",
+      "latitude": 53.00341,
+      "longitude": 14.966509
+    },
+    {
+      "name": "Boisko do piłki nożnej",
+      "latitude": 52.797471,
+      "longitude": 22.322402
+    },
+    {
+      "name": "Boisko do piłki nożnej zespołu \"KS Smoki Podole Małe\"",
+      "latitude": 54.380861,
+      "longitude": 17.306543
+    },
+    {
+      "name": "Boisko Kaszubii Starzyno",
+      "latitude": 54.754894,
+      "longitude": 18.250606
+    },
+    {
+      "name": "Boisko Komunalne \"Zagrzęba\"",
+      "latitude": 51.23345,
+      "longitude": 21.977262
+    },
+    {
+      "name": "Boisko lokalne",
+      "latitude": 49.956959,
+      "longitude": 20.05769
+    },
+    {
+      "name": "Boisko Mariówka",
+      "latitude": 51.386819,
+      "longitude": 20.596982
+    },
+    {
+      "name": "Boisko Orlik",
+      "latitude": 51.55045,
+      "longitude": 20.177803
+    },
+    {
+      "name": "Boisko sportowe",
+      "latitude": 49.826695,
+      "longitude": 21.16941
+    },
+    {
+      "name": "Boisko sportowe",
+      "latitude": 49.92035,
+      "longitude": 21.130776
+    },
+    {
+      "name": "Boisko sportowe",
+      "latitude": 51.766781,
+      "longitude": 16.812373
+    },
+    {
+      "name": "Boisko Sportowe w Ludyni",
+      "latitude": 50.847063,
+      "longitude": 20.122812
+    },
+    {
+      "name": "Boisko szkolne",
+      "latitude": 50.359824,
+      "longitude": 20.034146
+    },
+    {
+      "name": "Boisko treningowe",
+      "latitude": 54.754485,
+      "longitude": 18.251766
+    },
+    {
+      "name": "Boisko UKS Ustków",
+      "latitude": 51.766898,
+      "longitude": 18.600062
+    },
+    {
+      "name": "Boisko wielofunkcyjne",
+      "latitude": 51.524983,
+      "longitude": 20.226137
+    },
+    {
+      "name": "Boisko wielofunkcyjne",
+      "latitude": 51.596213,
+      "longitude": 20.293985
+    },
+    {
+      "name": "Carbo Gliwice",
+      "latitude": 50.282082,
+      "longitude": 18.600969
+    },
+    {
+      "name": "Centrum Aktywności Gminnej",
+      "latitude": 52.705208,
+      "longitude": 23.854286
+    },
+    {
+      "name": "Centrum Sportowe Orlik",
+      "latitude": 51.439826,
+      "longitude": 21.000456
+    },
+    {
+      "name": "Centrum Treningu Młodego LKS-u Tworków",
+      "latitude": 50.018764,
+      "longitude": 18.213396
+    },
+    {
+      "name": "Ceramika Opoczno",
+      "latitude": 51.375921,
+      "longitude": 20.29812
+    },
+    {
+      "name": "Chemik Pustków",
+      "latitude": 50.112035,
+      "longitude": 21.50812
+    },
+    {
+      "name": "Chorten Arena",
+      "latitude": 53.105965,
+      "longitude": 23.149284
+    },
+    {
+      "name": "Czarni Pyskowice",
+      "latitude": 50.387642,
+      "longitude": 18.61676
+    },
+    {
+      "name": "Dawny Poligon Strażacki",
+      "latitude": 50.278197,
+      "longitude": 18.841902
+    },
+    {
+      "name": "ENEA Stadion",
+      "latitude": 52.397676,
+      "longitude": 16.858627
+    },
+    {
+      "name": "Ergo Arena",
+      "latitude": 54.426532,
+      "longitude": 18.580544
+    },
+    {
+      "name": "EXBUD Arena",
+      "latitude": 50.861745,
+      "longitude": 20.624391
+    },
+    {
+      "name": "Gala Jeździecka w skokach przez przeszkody",
+      "latitude": 53.070684,
+      "longitude": 16.811722
+    },
+    {
+      "name": "Gavia Choszczno",
+      "latitude": 53.151215,
+      "longitude": 15.435354
+    },
+    {
+      "name": "Gdański Stadion Lekkoatletyczny i Rugby",
+      "latitude": 54.391101,
+      "longitude": 18.582758
+    },
+    {
+      "name": "GKS Andaluzja Piekary Śląskie",
+      "latitude": 50.363389,
+      "longitude": 18.983807
+    },
+    {
+      "name": "GKS Bełchatów",
+      "latitude": 51.365904,
+      "longitude": 19.381845
+    },
+    {
+      "name": "GKS Mierzyn",
+      "latitude": 53.4247,
+      "longitude": 14.453889
+    },
+    {
+      "name": "GKS Nałęcz Babiak",
+      "latitude": 52.343502,
+      "longitude": 18.657261
+    },
+    {
+      "name": "GKS Orion Niedrzwica",
+      "latitude": 51.091671,
+      "longitude": 22.363214
+    },
+    {
+      "name": "GKS Pogoń Grodzisk Mazowiecki",
+      "latitude": 52.097506,
+      "longitude": 20.621462
+    },
+    {
+      "name": "GKS Pokrzywnica",
+      "latitude": 52.619233,
+      "longitude": 21.022231
+    },
+    {
+      "name": "GKS Urania Ruda Śląska",
+      "latitude": 50.259962,
+      "longitude": 18.902453
+    },
+    {
+      "name": "GLKS Przemsza Klucze",
+      "latitude": 50.339633,
+      "longitude": 19.559596
+    },
+    {
+      "name": "Gminne Centrum Sportowe",
+      "latitude": 51.190755,
+      "longitude": 19.200559
+    },
+    {
+      "name": "Gminny Stadion Sportowy",
+      "latitude": 54.089218,
+      "longitude": 21.926729
+    },
+    {
+      "name": "Górnik Pszów",
+      "latitude": 50.043478,
+      "longitude": 18.405858
+    },
+    {
+      "name": "Górnik Wieliczka",
+      "latitude": 49.981791,
+      "longitude": 20.054764
+    },
+    {
+      "name": "Górnik Zagórze",
+      "latitude": 50.311067,
+      "longitude": 19.191551
+    },
+    {
+      "name": "Hala Podpromie",
+      "latitude": 50.029369,
+      "longitude": 22.001135
+    },
+    {
+      "name": "Hala sportowa",
+      "latitude": 50.86032,
+      "longitude": 20.62503
+    },
+    {
+      "name": "Hala sportowa",
+      "latitude": 51.568755,
+      "longitude": 21.572028
+    },
+    {
+      "name": "Hala Sportowa w Charsznicy",
+      "latitude": 50.395059,
+      "longitude": 19.955091
+    },
+    {
+      "name": "Hala sportowo - widowiskowa",
+      "latitude": 50.261719,
+      "longitude": 22.41317
+    },
+    {
+      "name": "Hala Sportowo-Widowiskowa \"Łuczniczka\"",
+      "latitude": 53.119724,
+      "longitude": 18.026338
+    },
+    {
+      "name": "Hala treningowa",
+      "latitude": 50.315544,
+      "longitude": 18.243922
+    },
+    {
+      "name": "Hala Widowiskowo Sportowa",
+      "latitude": 50.261757,
+      "longitude": 22.417248
+    },
+    {
+      "name": "Hala Widowiskowo Sportowa",
+      "latitude": 50.312325,
+      "longitude": 19.193275
+    },
+    {
+      "name": "Hala widowiskowo-sportowa",
+      "latitude": 49.692387,
+      "longitude": 21.775603
+    },
+    {
+      "name": "Hala widowiskowo-sportowa",
+      "latitude": 53.411827,
+      "longitude": 18.443836
+    },
+    {
+      "name": "Hipodrom",
+      "latitude": 50.839794,
+      "longitude": 16.303183
+    },
+    {
+      "name": "Hipodrom Wola",
+      "latitude": 52.43137,
+      "longitude": 16.859448
+    },
+    {
+      "name": "Huragan Wołomin",
+      "latitude": 52.341757,
+      "longitude": 21.229847
+    },
+    {
+      "name": "Iskra Pasikurowice",
+      "latitude": 51.209136,
+      "longitude": 17.108803
+    },
+    {
+      "name": "Iskra Witków",
+      "latitude": 50.807528,
+      "longitude": 16.125031
+    },
+    {
+      "name": "Iskra Łagów",
+      "latitude": 51.15619,
+      "longitude": 15.052555
+    },
+    {
+      "name": "ITAKA Arena",
+      "latitude": 50.685013,
+      "longitude": 17.874098
+    },
+    {
+      "name": "IZO Arena",
+      "latitude": 49.98724,
+      "longitude": 21.937994
+    },
+    {
+      "name": "Jawor Krzemienica",
+      "latitude": 50.075527,
+      "longitude": 22.186216
+    },
+    {
+      "name": "Junak Słocina",
+      "latitude": 50.026025,
+      "longitude": 22.069294
+    },
+    {
+      "name": "Jura Niegowa",
+      "latitude": 50.638222,
+      "longitude": 19.483995
+    },
+    {
+      "name": "K.S. Błyskawica Proszówki",
+      "latitude": 50.018139,
+      "longitude": 20.431104
+    },
+    {
+      "name": "KGHM Zagłębie Arena",
+      "latitude": 51.414045,
+      "longitude": 16.197912
+    },
+    {
+      "name": "Klub piłkarski \"Błękitni Sarnów\"",
+      "latitude": 50.366769,
+      "longitude": 19.146706
+    },
+    {
+      "name": "Klub piłkarski Stanisławice",
+      "latitude": 51.56763,
+      "longitude": 21.512087
+    },
+    {
+      "name": "Klub Sportowy \"Przyszłość Włochy\"",
+      "latitude": 52.206533,
+      "longitude": 20.903434
+    },
+    {
+      "name": "Klub Sportowy Baszta Rytwiany",
+      "latitude": 50.5294,
+      "longitude": 21.208292
+    },
+    {
+      "name": "Klub Sportowy Borek",
+      "latitude": 50.017488,
+      "longitude": 19.919502
+    },
+    {
+      "name": "Klub Sportowy Grębałowianka",
+      "latitude": 50.096415,
+      "longitude": 20.074743
+    },
+    {
+      "name": "Klub Sportowy Górnik 09",
+      "latitude": 50.249019,
+      "longitude": 19.136276
+    },
+    {
+      "name": "Klub Sportowy Jastrząb Szydłowiec",
+      "latitude": 51.251447,
+      "longitude": 20.94528
+    },
+    {
+      "name": "Klub Sportowy Orzeł Baniocha",
+      "latitude": 52.023787,
+      "longitude": 21.121041
+    },
+    {
+      "name": "Klub Sportowy Stal Szczecin",
+      "latitude": 53.459396,
+      "longitude": 14.558635
+    },
+    {
+      "name": "Klub Sportowy Zakopane",
+      "latitude": 49.292608,
+      "longitude": 19.951006
+    },
+    {
+      "name": "Kompleks boisk sportowych \"Orlik 2012\"",
+      "latitude": 53.944049,
+      "longitude": 15.534787
+    },
+    {
+      "name": "Kompleks Skoczni narciarskich SKALITE w Szczyrku",
+      "latitude": 49.71684,
+      "longitude": 19.036549
+    },
+    {
+      "name": "Kompleks Widowiskowo-Sportowy",
+      "latitude": 53.719935,
+      "longitude": 18.936114
+    },
+    {
+      "name": "Kort tenisowy",
+      "latitude": 51.524796,
+      "longitude": 20.226076
+    },
+    {
+      "name": "Korty tenisowe RCS",
+      "latitude": 51.393581,
+      "longitude": 16.198842
+    },
+    {
+      "name": "KP Ravia 1923 Rawicz",
+      "latitude": 51.604727,
+      "longitude": 16.852335
+    },
+    {
+      "name": "Królowa Sportu",
+      "latitude": 50.794262,
+      "longitude": 16.82964
+    },
+    {
+      "name": "KS 1905 Krzanowice",
+      "latitude": 50.013943,
+      "longitude": 18.114571
+    },
+    {
+      "name": "KS Atut Podborze",
+      "latitude": 50.236568,
+      "longitude": 21.324095
+    },
+    {
+      "name": "KS Beskid Andrychów",
+      "latitude": 49.848604,
+      "longitude": 19.348851
+    },
+    {
+      "name": "KS Błonianka Błonie",
+      "latitude": 52.189627,
+      "longitude": 20.620528
+    },
+    {
+      "name": "KS CCC Dąbrówki",
+      "latitude": 50.120237,
+      "longitude": 22.235897
+    },
+    {
+      "name": "KS Ciecierzyn",
+      "latitude": 51.315789,
+      "longitude": 22.606435
+    },
+    {
+      "name": "KS Clepardia",
+      "latitude": 50.088603,
+      "longitude": 19.936317
+    },
+    {
+      "name": "KS Gwardia",
+      "latitude": 54.199978,
+      "longitude": 16.198293
+    },
+    {
+      "name": "KS Górnik Brzeszcze",
+      "latitude": 49.987946,
+      "longitude": 19.163012
+    },
+    {
+      "name": "KS Kornowac",
+      "latitude": 50.076355,
+      "longitude": 18.316167
+    },
+    {
+      "name": "KS Kłodnica",
+      "latitude": 50.357033,
+      "longitude": 18.166974
+    },
+    {
+      "name": "KS Mostki",
+      "latitude": 52.364464,
+      "longitude": 18.590998
+    },
+    {
+      "name": "KS Naprzód Jędrzejów",
+      "latitude": 50.648018,
+      "longitude": 20.294031
+    },
+    {
+      "name": "KS Piast Nowa Ruda",
+      "latitude": 50.580474,
+      "longitude": 16.494951
+    },
+    {
+      "name": "KS Polonia Poznań",
+      "latitude": 52.419385,
+      "longitude": 16.971397
+    },
+    {
+      "name": "KS Promień Żary",
+      "latitude": 51.62953,
+      "longitude": 15.122583
+    },
+    {
+      "name": "KS Proszowianka",
+      "latitude": 50.19655,
+      "longitude": 20.288559
+    },
+    {
+      "name": "KS Płaszowianka",
+      "latitude": 50.042165,
+      "longitude": 19.982506
+    },
+    {
+      "name": "KS Rafako Racibórz",
+      "latitude": 50.07503,
+      "longitude": 18.222572
+    },
+    {
+      "name": "KS Raszyn",
+      "latitude": 52.149874,
+      "longitude": 20.929731
+    },
+    {
+      "name": "KS Sparta Miejska Górka",
+      "latitude": 51.656769,
+      "longitude": 16.951586
+    },
+    {
+      "name": "KS Start Mrzezino",
+      "latitude": 54.653057,
+      "longitude": 18.421326
+    },
+    {
+      "name": "KS Tęcza Gowarczów",
+      "latitude": 51.271963,
+      "longitude": 20.443514
+    },
+    {
+      "name": "KS Unia Złoty Stok",
+      "latitude": 50.446268,
+      "longitude": 16.875456
+    },
+    {
+      "name": "KS Victoria Żmudź",
+      "latitude": 51.018306,
+      "longitude": 23.668097
+    },
+    {
+      "name": "KUJAWIAK STANIN",
+      "latitude": 51.8707,
+      "longitude": 22.174913
+    },
+    {
+      "name": "Kujawy Markowice",
+      "latitude": 52.709752,
+      "longitude": 18.219776
+    },
+    {
+      "name": "LKS  Jankowice",
+      "latitude": 50.169603,
+      "longitude": 18.38706
+    },
+    {
+      "name": "LKS \"Czarni\" Nowa Wieś",
+      "latitude": 50.116587,
+      "longitude": 18.364367
+    },
+    {
+      "name": "LKS \"Płomień\" Kobyla",
+      "latitude": 50.093903,
+      "longitude": 18.291203
+    },
+    {
+      "name": "LKS 05 Tworków",
+      "latitude": 50.002218,
+      "longitude": 18.23553
+    },
+    {
+      "name": "LKS 07 Markowice",
+      "latitude": 50.119929,
+      "longitude": 18.273963
+    },
+    {
+      "name": "LKS 1908 Nędza",
+      "latitude": 50.15798,
+      "longitude": 18.303809
+    },
+    {
+      "name": "LKS Azalia Brzóza Królewska",
+      "latitude": 50.249007,
+      "longitude": 22.316781
+    },
+    {
+      "name": "LKS Bratek Bratkowice",
+      "latitude": 50.118373,
+      "longitude": 21.860092
+    },
+    {
+      "name": "LKS Gamów",
+      "latitude": 50.130566,
+      "longitude": 18.137755
+    },
+    {
+      "name": "LKS Gronik Gronków",
+      "latitude": 49.441263,
+      "longitude": 20.092164
+    },
+    {
+      "name": "LKS Grzegorzowice",
+      "latitude": 50.176801,
+      "longitude": 18.243341
+    },
+    {
+      "name": "LKS Hetman Rusiec",
+      "latitude": 51.32884,
+      "longitude": 18.990685
+    },
+    {
+      "name": "LKS Jedność Jejkowice",
+      "latitude": 50.107101,
+      "longitude": 18.478471
+    },
+    {
+      "name": "LKS Krzyżanowice",
+      "latitude": 49.986006,
+      "longitude": 18.27024
+    },
+    {
+      "name": "LKS Kłos Gałowo",
+      "latitude": 52.595541,
+      "longitude": 16.565667
+    },
+    {
+      "name": "LKS Mordarka",
+      "latitude": 49.691616,
+      "longitude": 20.451548
+    },
+    {
+      "name": "LKS Nadwiślanka",
+      "latitude": 49.963186,
+      "longitude": 19.633764
+    },
+    {
+      "name": "LKS Ocice",
+      "latitude": 50.079856,
+      "longitude": 18.17201
+    },
+    {
+      "name": "LKS Odra Malczyce",
+      "latitude": 51.217793,
+      "longitude": 16.498733
+    },
+    {
+      "name": "LKS Olimpia Pisarzowa",
+      "latitude": 49.693514,
+      "longitude": 20.517588
+    },
+    {
+      "name": "LKS Olza Godów",
+      "latitude": 49.915563,
+      "longitude": 18.484824
+    },
+    {
+      "name": "LKS Orzeł Dzierżysław",
+      "latitude": 50.04674,
+      "longitude": 17.9633
+    },
+    {
+      "name": "LKS Orzeł Stanica",
+      "latitude": 50.206956,
+      "longitude": 18.506181
+    },
+    {
+      "name": "LKS Orzeł Wojnarowa",
+      "latitude": 49.671493,
+      "longitude": 20.911708
+    },
+    {
+      "name": "LKS Ostrovia Ostrowy",
+      "latitude": 52.309589,
+      "longitude": 19.165423
+    },
+    {
+      "name": "LKS Owsiszcze",
+      "latitude": 49.979626,
+      "longitude": 18.226715
+    },
+    {
+      "name": "LKS Piast Ożarowice",
+      "latitude": 50.471068,
+      "longitude": 19.041871
+    },
+    {
+      "name": "LKS Plon Garbatka Letnisko",
+      "latitude": 51.495197,
+      "longitude": 21.627551
+    },
+    {
+      "name": "LKS Pogoń Imielin",
+      "latitude": 50.138333,
+      "longitude": 19.181944
+    },
+    {
+      "name": "LKS Płomień Ochojec",
+      "latitude": 50.170218,
+      "longitude": 18.527346
+    },
+    {
+      "name": "LKS Raszczyce",
+      "latitude": 50.124997,
+      "longitude": 18.294671
+    },
+    {
+      "name": "LKS ROSANÓW",
+      "latitude": 51.906964,
+      "longitude": 19.396328
+    },
+    {
+      "name": "LKS Samborowice",
+      "latitude": 50.059303,
+      "longitude": 18.134866
+    },
+    {
+      "name": "LKS Sokół Wielka Lipa",
+      "latitude": 51.321498,
+      "longitude": 16.860563
+    },
+    {
+      "name": "LKS Sokół Wola",
+      "latitude": 50.014346,
+      "longitude": 19.09869
+    },
+    {
+      "name": "LKS Sokół Wyczechy",
+      "latitude": 53.687292,
+      "longitude": 17.047658
+    },
+    {
+      "name": "LKS Spatra Babice",
+      "latitude": 50.14119,
+      "longitude": 18.291192
+    },
+    {
+      "name": "LKS Start Bogdanowice",
+      "latitude": 50.16499,
+      "longitude": 17.8351
+    },
+    {
+      "name": "LKS START Pietrowice Wielkie",
+      "latitude": 50.088643,
+      "longitude": 18.08611
+    },
+    {
+      "name": "LKS Studzienna",
+      "latitude": 50.065755,
+      "longitude": 18.199613
+    },
+    {
+      "name": "LKS Tajfun Ostrów Lubelski",
+      "latitude": 51.502618,
+      "longitude": 22.855405
+    },
+    {
+      "name": "LKS Turbacz",
+      "latitude": 49.677684,
+      "longitude": 20.077584
+    },
+    {
+      "name": "LKS Tęcza Kraśnik",
+      "latitude": 50.92499,
+      "longitude": 22.221249
+    },
+    {
+      "name": "LKS Victoria Cisek",
+      "latitude": 50.281037,
+      "longitude": 18.204296
+    },
+    {
+      "name": "LKS Wolanka",
+      "latitude": 50.133995,
+      "longitude": 19.583692
+    },
+    {
+      "name": "LKS Zatorzanka",
+      "latitude": 49.98847,
+      "longitude": 19.44539
+    },
+    {
+      "name": "LKS Zawada Książęca",
+      "latitude": 50.15373,
+      "longitude": 18.259294
+    },
+    {
+      "name": "LKS Znicz Sułkowice-Bolęcina",
+      "latitude": 49.806723,
+      "longitude": 19.369068
+    },
+    {
+      "name": "LKS Zwonowice",
+      "latitude": 50.138305,
+      "longitude": 18.443722
+    },
+    {
+      "name": "LKS Łąka",
+      "latitude": 50.085716,
+      "longitude": 22.105026
+    },
+    {
+      "name": "LKS Śląsk Koszęcin",
+      "latitude": 50.622494,
+      "longitude": 18.847474
+    },
+    {
+      "name": "LMKS Piast Gorzów Śląski",
+      "latitude": 51.033701,
+      "longitude": 18.420635
+    },
+    {
+      "name": "Lodowisko",
+      "latitude": 51.550991,
+      "longitude": 20.177831
+    },
+    {
+      "name": "Lodowisko Jantor",
+      "latitude": 50.245625,
+      "longitude": 19.082609
+    },
+    {
+      "name": "Ludowy Klub Sportowy \"Iskra Psary\"",
+      "latitude": 50.37939,
+      "longitude": 19.134636
+    },
+    {
+      "name": "Ludowy Klub Sportowy Pogórze Gwoździec",
+      "latitude": 49.88326,
+      "longitude": 20.77198
+    },
+    {
+      "name": "Ludowy Klub Sportowy Victoria Skalbmierz",
+      "latitude": 50.320357,
+      "longitude": 20.394285
+    },
+    {
+      "name": "Ludowy Klub Sportowy Wolania Wola Rzędzińska",
+      "latitude": 50.033189,
+      "longitude": 21.054855
+    },
+    {
+      "name": "LZS Kometa Krzelów",
+      "latitude": 51.4435,
+      "longitude": 16.512017
+    },
+    {
+      "name": "LZS Płomień Trześń",
+      "latitude": 50.645328,
+      "longitude": 21.789119
+    },
+    {
+      "name": "LZS Rakowice",
+      "latitude": 53.469092,
+      "longitude": 19.672969
+    },
+    {
+      "name": "LZS Trębaczew",
+      "latitude": 51.122301,
+      "longitude": 18.92274
+    },
+    {
+      "name": "LZS Wawelno",
+      "latitude": 50.654755,
+      "longitude": 17.758313
+    },
+    {
+      "name": "Mazur Wydminy",
+      "latitude": 53.97874,
+      "longitude": 22.033484
+    },
+    {
+      "name": "Mała Hala",
+      "latitude": 50.06838,
+      "longitude": 19.992365
+    },
+    {
+      "name": "Miejski Klub Sportowy Szydłowianka Szydłowiec",
+      "latitude": 51.234164,
+      "longitude": 20.86284
+    },
+    {
+      "name": "Miejski Klub Sportowy Unia Wąbrzeźno",
+      "latitude": 53.286344,
+      "longitude": 18.946313
+    },
+    {
+      "name": "Miejski Ośrodek Sportu",
+      "latitude": 50.148375,
+      "longitude": 23.112763
+    },
+    {
+      "name": "Miejski Ośrodek Sportu",
+      "latitude": 52.844435,
+      "longitude": 17.745684
+    },
+    {
+      "name": "Miejski Ośrodek Sportu i Rekreacji",
+      "latitude": 52.874053,
+      "longitude": 20.611166
+    },
+    {
+      "name": "Miejski Stadion Lekkoatletyczny",
+      "latitude": 50.108239,
+      "longitude": 18.549674
+    },
+    {
+      "name": "Miejski Stadion Lekkoatletyczny",
+      "latitude": 50.821087,
+      "longitude": 19.112315
+    },
+    {
+      "name": "Miejski Stadion Lekkoatletyczny im. Wiesława Maniaka",
+      "latitude": 53.453072,
+      "longitude": 14.505778
+    },
+    {
+      "name": "Miejski Stadion Sportowy",
+      "latitude": 50.157859,
+      "longitude": 19.464828
+    },
+    {
+      "name": "Mieszko Mieszkowice",
+      "latitude": 52.78705,
+      "longitude": 14.472757
+    },
+    {
+      "name": "Mini stadion lekkoatletyczny",
+      "latitude": 50.885392,
+      "longitude": 20.648533
+    },
+    {
+      "name": "Międzyszkolny Ośrodek Sportowy",
+      "latitude": 50.056039,
+      "longitude": 19.932596
+    },
+    {
+      "name": "Międzyszkolny Ośrodek Sportowy",
+      "latitude": 50.280717,
+      "longitude": 19.116169
+    },
+    {
+      "name": "MKS \"Babia Góra\"",
+      "latitude": 49.740447,
+      "longitude": 19.595433
+    },
+    {
+      "name": "MKS Chojniczanka",
+      "latitude": 53.69706,
+      "longitude": 17.562666
+    },
+    {
+      "name": "MKS Ciechanów",
+      "latitude": 52.873894,
+      "longitude": 20.612199
+    },
+    {
+      "name": "MKS DAP Dębica",
+      "latitude": 50.052197,
+      "longitude": 21.427575
+    },
+    {
+      "name": "MKS Lewart",
+      "latitude": 51.468489,
+      "longitude": 22.614409
+    },
+    {
+      "name": "MKS Limanovia",
+      "latitude": 49.701763,
+      "longitude": 20.41417
+    },
+    {
+      "name": "MKS Mławianka Mława",
+      "latitude": 53.124191,
+      "longitude": 20.379542
+    },
+    {
+      "name": "MKS Odra Chojna",
+      "latitude": 52.970336,
+      "longitude": 14.427514
+    },
+    {
+      "name": "MKS Osadnik Myślibórz",
+      "latitude": 52.926256,
+      "longitude": 14.859318
+    },
+    {
+      "name": "MKS Pilica Przedbórz",
+      "latitude": 51.089675,
+      "longitude": 19.864812
+    },
+    {
+      "name": "MKS Puszcza Niepołomice",
+      "latitude": 50.031982,
+      "longitude": 20.221196
+    },
+    {
+      "name": "MKS Start",
+      "latitude": 53.46913,
+      "longitude": 18.75214
+    },
+    {
+      "name": "MKS Stąporków",
+      "latitude": 51.138163,
+      "longitude": 20.578209
+    },
+    {
+      "name": "MKS Victoria Świebodzice",
+      "latitude": 50.852428,
+      "longitude": 16.331093
+    },
+    {
+      "name": "MLKS \"Dąbrovia\"",
+      "latitude": 50.168957,
+      "longitude": 20.987063
+    },
+    {
+      "name": "MLKS Lechia Sędziszów Młp",
+      "latitude": 50.066137,
+      "longitude": 21.697593
+    },
+    {
+      "name": "MOSiR",
+      "latitude": 50.036196,
+      "longitude": 19.211716
+    },
+    {
+      "name": "MOSiR",
+      "latitude": 50.273637,
+      "longitude": 19.558778
+    },
+    {
+      "name": "MOSIR Brzeg",
+      "latitude": 50.855462,
+      "longitude": 17.454899
+    },
+    {
+      "name": "MOSiR im. Józefa Górczyńskiego",
+      "latitude": 52.611896,
+      "longitude": 18.532993
+    },
+    {
+      "name": "MOSiR Stadion Miejski",
+      "latitude": 51.310149,
+      "longitude": 17.716289
+    },
+    {
+      "name": "Moto Arena Łódź",
+      "latitude": 51.764934,
+      "longitude": 19.42975
+    },
+    {
+      "name": "Motoarena Toruń im. Mariana Rosego",
+      "latitude": 53.018738,
+      "longitude": 18.54715
+    },
+    {
+      "name": "Narodowe Centrum Rugby 7",
+      "latitude": 50.100051,
+      "longitude": 20.089117
+    },
+    {
+      "name": "Narodowy Stadion Rugby",
+      "latitude": 54.497296,
+      "longitude": 18.531218
+    },
+    {
+      "name": "Nowy stadion",
+      "latitude": 54.126805,
+      "longitude": 17.986983
+    },
+    {
+      "name": "Obiekt Sportowo-Rekreacyjny SYRENA",
+      "latitude": 51.622707,
+      "longitude": 15.151934
+    },
+    {
+      "name": "Odrzanka Radziszewo",
+      "latitude": 53.314189,
+      "longitude": 14.539794
+    },
+    {
+      "name": "Okocimski Klub Sportowy",
+      "latitude": 49.960265,
+      "longitude": 20.61018
+    },
+    {
+      "name": "Olimpia Bucze",
+      "latitude": 50.034786,
+      "longitude": 20.621569
+    },
+    {
+      "name": "Orkan",
+      "latitude": 50.795319,
+      "longitude": 19.0508
+    },
+    {
+      "name": "ORKAN WOJCIESZKÓW",
+      "latitude": 51.768,
+      "longitude": 22.32042
+    },
+    {
+      "name": "Orlen Arena",
+      "latitude": 52.560021,
+      "longitude": 19.683547
+    },
+    {
+      "name": "Orlen Stadion",
+      "latitude": 52.562062,
+      "longitude": 19.684304
+    },
+    {
+      "name": "Orlik",
+      "latitude": 49.732342,
+      "longitude": 21.94434
+    },
+    {
+      "name": "Orlik",
+      "latitude": 50.870632,
+      "longitude": 18.414673
+    },
+    {
+      "name": "Orlik",
+      "latitude": 51.361264,
+      "longitude": 21.57967
+    },
+    {
+      "name": "Orlik",
+      "latitude": 51.540589,
+      "longitude": 15.759272
+    },
+    {
+      "name": "Orlik",
+      "latitude": 51.882834,
+      "longitude": 16.06816
+    },
+    {
+      "name": "Orlik",
+      "latitude": 52.111876,
+      "longitude": 16.122905
+    },
+    {
+      "name": "Orlik",
+      "latitude": 52.840469,
+      "longitude": 15.828183
+    },
+    {
+      "name": "Orlik",
+      "latitude": 53.18491,
+      "longitude": 17.09047
+    },
+    {
+      "name": "Orlik 2012",
+      "latitude": 49.946249,
+      "longitude": 22.820959
+    },
+    {
+      "name": "Orlik 2012",
+      "latitude": 52.784264,
+      "longitude": 18.713834
+    },
+    {
+      "name": "Orlik Pawłów Trzebnicki",
+      "latitude": 51.35143,
+      "longitude": 17.02756
+    },
+    {
+      "name": "Orlik przy SP 2",
+      "latitude": 52.036876,
+      "longitude": 23.101732
+    },
+    {
+      "name": "Orlik Stary",
+      "latitude": 50.920061,
+      "longitude": 22.213679
+    },
+    {
+      "name": "Orlęta - Spomlek",
+      "latitude": 51.781468,
+      "longitude": 22.608619
+    },
+    {
+      "name": "Orlęta Łuków",
+      "latitude": 51.925446,
+      "longitude": 22.376227
+    },
+    {
+      "name": "Orły Klembów",
+      "latitude": 52.40324,
+      "longitude": 21.339392
+    },
+    {
+      "name": "OZS Guzikówka Krosno",
+      "latitude": 49.684817,
+      "longitude": 21.747693
+    },
+    {
+      "name": "Ośrodek Doskonalenia Techniki Jazdy (PORD)",
+      "latitude": 54.17809,
+      "longitude": 18.710873
+    },
+    {
+      "name": "Ośrodek Rekreacji KCKRiS",
+      "latitude": 51.589332,
+      "longitude": 21.540916
+    },
+    {
+      "name": "Ośrodek Sportu i Rekreacji",
+      "latitude": 51.783662,
+      "longitude": 14.983081
+    },
+    {
+      "name": "Ośrodek Sportu i Rekreacji w Łowiczu",
+      "latitude": 52.098615,
+      "longitude": 19.932229
+    },
+    {
+      "name": "Paintball",
+      "latitude": 49.73361,
+      "longitude": 20.46998
+    },
+    {
+      "name": "PGE Turów Arena",
+      "latitude": 51.158833,
+      "longitude": 15.01451
+    },
+    {
+      "name": "Piast Pawłów",
+      "latitude": 50.275077,
+      "longitude": 18.811004
+    },
+    {
+      "name": "Pieczarka Wielichowo",
+      "latitude": 52.118704,
+      "longitude": 16.356165
+    },
+    {
+      "name": "Pilawa",
+      "latitude": 51.718221,
+      "longitude": 17.234552
+    },
+    {
+      "name": "Plac Sportowy",
+      "latitude": 52.037064,
+      "longitude": 14.865996
+    },
+    {
+      "name": "Plac Sportowy",
+      "latitude": 52.160674,
+      "longitude": 14.751219
+    },
+    {
+      "name": "Plac Sportowy",
+      "latitude": 52.199913,
+      "longitude": 14.806253
+    },
+    {
+      "name": "Pogoń Siedlce",
+      "latitude": 52.178715,
+      "longitude": 22.298374
+    },
+    {
+      "name": "Polonia Głubczyce",
+      "latitude": 50.205597,
+      "longitude": 17.824296
+    },
+    {
+      "name": "Polonia Przemyśl",
+      "latitude": 49.780011,
+      "longitude": 22.756952
+    },
+    {
+      "name": "Polsat Plus Arena Gdańsk",
+      "latitude": 54.389995,
+      "longitude": 18.640402
+    },
+    {
+      "name": "Polsat Plus Arena Gdynia",
+      "latitude": 54.498938,
+      "longitude": 18.531223
+    },
+    {
+      "name": "Powiatowe Centrum Lekkoatletyczne im. Bohdana Zielińskiego w Szamotułach",
+      "latitude": 52.612893,
+      "longitude": 16.589094
+    },
+    {
+      "name": "Powiatowe Centrum Sportu",
+      "latitude": 51.371904,
+      "longitude": 19.347654
+    },
+    {
+      "name": "PreZero Arena Gliwice",
+      "latitude": 50.285705,
+      "longitude": 18.686071
+    },
+    {
+      "name": "Przebój Wolbrom",
+      "latitude": 50.376668,
+      "longitude": 19.758701
+    },
+    {
+      "name": "Przyszłość Rogów",
+      "latitude": 49.989929,
+      "longitude": 18.347851
+    },
+    {
+      "name": "Quo Vadis Makoszowy",
+      "latitude": 50.262064,
+      "longitude": 18.75246
+    },
+    {
+      "name": "Retro Stadion WKS Skrzydła Glinnik",
+      "latitude": 51.57851,
+      "longitude": 20.076927
+    },
+    {
+      "name": "RKS Garbarnia",
+      "latitude": 50.038209,
+      "longitude": 19.935143
+    },
+    {
+      "name": "RKS Lechia Tomaszów Mazowiecki",
+      "latitude": 51.533298,
+      "longitude": 20.019588
+    },
+    {
+      "name": "RKS Okęcie",
+      "latitude": 52.188573,
+      "longitude": 20.966724
+    },
+    {
+      "name": "Robotniczy Klub Sportowy \"Grodziec\"",
+      "latitude": 50.355587,
+      "longitude": 19.086053
+    },
+    {
+      "name": "Ruch",
+      "latitude": 51.114878,
+      "longitude": 20.871545
+    },
+    {
+      "name": "Ruczynów Arena",
+      "latitude": 50.479409,
+      "longitude": 20.838926
+    },
+    {
+      "name": "Rzut Młotem",
+      "latitude": 51.453796,
+      "longitude": 21.627703
+    },
+    {
+      "name": "Skate Park Bowl",
+      "latitude": 50.310289,
+      "longitude": 19.193566
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 51.387384,
+      "longitude": 20.145327
+    },
+    {
+      "name": "Skocznia narciarska Dukla",
+      "latitude": 49.571444,
+      "longitude": 21.684422
+    },
+    {
+      "name": "Skotawia",
+      "latitude": 54.374658,
+      "longitude": 17.151789
+    },
+    {
+      "name": "SKS Podgórze",
+      "latitude": 50.047268,
+      "longitude": 19.968176
+    },
+    {
+      "name": "Sokól Adamów",
+      "latitude": 51.745622,
+      "longitude": 22.246977
+    },
+    {
+      "name": "Sokół Pyrzyce",
+      "latitude": 53.136219,
+      "longitude": 14.88891
+    },
+    {
+      "name": "Sopocki Klub Lekkoatletyczny",
+      "latitude": 54.435868,
+      "longitude": 18.550716
+    },
+    {
+      "name": "Sparta Węgorzyno",
+      "latitude": 53.539538,
+      "longitude": 15.561643
+    },
+    {
+      "name": "Spodek",
+      "latitude": 50.266112,
+      "longitude": 19.025323
+    },
+    {
+      "name": "Sportplatz",
+      "latitude": 51.946746,
+      "longitude": 14.69366
+    },
+    {
+      "name": "Społem Zabrze",
+      "latitude": 50.364155,
+      "longitude": 18.766548
+    },
+    {
+      "name": "Stadion",
+      "latitude": 49.475345,
+      "longitude": 20.015218
+    },
+    {
+      "name": "Stadion",
+      "latitude": 49.686323,
+      "longitude": 19.198005
+    },
+    {
+      "name": "Stadion",
+      "latitude": 49.831089,
+      "longitude": 21.167591
+    },
+    {
+      "name": "Stadion",
+      "latitude": 50.062808,
+      "longitude": 21.824169
+    },
+    {
+      "name": "Stadion",
+      "latitude": 50.467195,
+      "longitude": 17.16457
+    },
+    {
+      "name": "Stadion",
+      "latitude": 50.495644,
+      "longitude": 22.620827
+    },
+    {
+      "name": "Stadion",
+      "latitude": 52.301588,
+      "longitude": 22.816862
+    },
+    {
+      "name": "Stadion",
+      "latitude": 52.339347,
+      "longitude": 19.867156
+    },
+    {
+      "name": "Stadion",
+      "latitude": 52.747563,
+      "longitude": 23.580844
+    },
+    {
+      "name": "Stadion",
+      "latitude": 54.042655,
+      "longitude": 18.238692
+    },
+    {
+      "name": "Stadion \"ABC\"",
+      "latitude": 54.200034,
+      "longitude": 16.188991
+    },
+    {
+      "name": "Stadion \"Aleja\" MOSiR",
+      "latitude": 49.998306,
+      "longitude": 18.456602
+    },
+    {
+      "name": "Stadion \"Igros\"",
+      "latitude": 50.543715,
+      "longitude": 23.195916
+    },
+    {
+      "name": "Stadion \"Podskarbińska\"",
+      "latitude": 52.251422,
+      "longitude": 21.076131
+    },
+    {
+      "name": "Stadion \"Syrena\"",
+      "latitude": 51.622305,
+      "longitude": 15.149866
+    },
+    {
+      "name": "Stadion - GKS Zjednoczeni Przytoczna",
+      "latitude": 52.577521,
+      "longitude": 15.691536
+    },
+    {
+      "name": "Stadion - Świt Barcząca",
+      "latitude": 52.151022,
+      "longitude": 21.616292
+    },
+    {
+      "name": "Stadion 1000-lecia",
+      "latitude": 50.784411,
+      "longitude": 16.249613
+    },
+    {
+      "name": "Stadion 1000-lecia Państwa Polskiego",
+      "latitude": 50.487538,
+      "longitude": 19.4325
+    },
+    {
+      "name": "Stadion 650-lecia",
+      "latitude": 54.47439,
+      "longitude": 17.045217
+    },
+    {
+      "name": "Stadion Akademii KKS Lech Poznań",
+      "latitude": 52.718343,
+      "longitude": 16.37444
+    },
+    {
+      "name": "Stadion ANS w Raciborzu",
+      "latitude": 50.084708,
+      "longitude": 18.206232
+    },
+    {
+      "name": "Stadion ArcelorMittal Park",
+      "latitude": 50.288471,
+      "longitude": 19.170364
+    },
+    {
+      "name": "Stadion ASiP w Prudniku",
+      "latitude": 50.315226,
+      "longitude": 17.56604
+    },
+    {
+      "name": "Stadion AZS UWM",
+      "latitude": 53.754917,
+      "longitude": 20.457946
+    },
+    {
+      "name": "Stadion BKS \"Naprzód Brwinów\"",
+      "latitude": 52.145107,
+      "longitude": 20.722894
+    },
+    {
+      "name": "Stadion Bresna Brzeźno",
+      "latitude": 51.362872,
+      "longitude": 16.875947
+    },
+    {
+      "name": "Stadion Bruk-Bet Termalica",
+      "latitude": 50.159906,
+      "longitude": 20.84913
+    },
+    {
+      "name": "Stadion BUDOWLANI",
+      "latitude": 51.793722,
+      "longitude": 19.46912
+    },
+    {
+      "name": "Stadion Cracovii im. Józefa Piłsudskiego",
+      "latitude": 50.058266,
+      "longitude": 19.920323
+    },
+    {
+      "name": "Stadion der Freundschaft",
+      "latitude": 51.134811,
+      "longitude": 14.98599
+    },
+    {
+      "name": "Stadion der Freundschaft",
+      "latitude": 52.33197,
+      "longitude": 14.555823
+    },
+    {
+      "name": "Stadion der Freundschaft",
+      "latitude": 52.332504,
+      "longitude": 14.556079
+    },
+    {
+      "name": "Stadion Dyskobolia",
+      "latitude": 52.229376,
+      "longitude": 16.377942
+    },
+    {
+      "name": "Stadion Freda Flinstona",
+      "latitude": 53.195322,
+      "longitude": 19.641722
+    },
+    {
+      "name": "Stadion Fürstenberg",
+      "latitude": 52.136483,
+      "longitude": 14.672646
+    },
+    {
+      "name": "Stadion GKM Grudziądz",
+      "latitude": 53.472817,
+      "longitude": 18.761128
+    },
+    {
+      "name": "Stadion GKS Chorzowianka",
+      "latitude": 50.298813,
+      "longitude": 18.944736
+    },
+    {
+      "name": "Stadion GKS Gwarek",
+      "latitude": 50.182769,
+      "longitude": 18.761385
+    },
+    {
+      "name": "Stadion GKS Kresy Dołhobyczów",
+      "latitude": 50.587723,
+      "longitude": 24.028407
+    },
+    {
+      "name": "Stadion GKS Sierakowice",
+      "latitude": 54.342437,
+      "longitude": 17.885685
+    },
+    {
+      "name": "Stadion GKS Szombierki Bytom",
+      "latitude": 50.330778,
+      "longitude": 18.898023
+    },
+    {
+      "name": "Stadion GKS Walka Makoszowy",
+      "latitude": 50.287444,
+      "longitude": 18.787136
+    },
+    {
+      "name": "Stadion GKS Ziemowit",
+      "latitude": 52.63645,
+      "longitude": 18.728283
+    },
+    {
+      "name": "Stadion GLKS Zamek",
+      "latitude": 50.521659,
+      "longitude": 16.874507
+    },
+    {
+      "name": "Stadion gminny",
+      "latitude": 51.506029,
+      "longitude": 19.166237
+    },
+    {
+      "name": "Stadion Gminny",
+      "latitude": 52.084127,
+      "longitude": 18.825356
+    },
+    {
+      "name": "Stadion Gminny",
+      "latitude": 52.193293,
+      "longitude": 18.739593
+    },
+    {
+      "name": "Stadion gminny Gminy Trzcianka w Siedlisku",
+      "latitude": 52.985758,
+      "longitude": 16.399268
+    },
+    {
+      "name": "Stadion Gminny im. Leszka Białego w Gąsawie",
+      "latitude": 52.765432,
+      "longitude": 17.751009
+    },
+    {
+      "name": "Stadion Gminny w Baniach Mazurskich",
+      "latitude": 54.246589,
+      "longitude": 22.040746
+    },
+    {
+      "name": "Stadion Gminny w Jonkowie",
+      "latitude": 53.828857,
+      "longitude": 20.308166
+    },
+    {
+      "name": "Stadion Gminny w Potworowie",
+      "latitude": 51.504711,
+      "longitude": 20.718153
+    },
+    {
+      "name": "Stadion Gminny w Radzanowie",
+      "latitude": 51.566335,
+      "longitude": 20.875979
+    },
+    {
+      "name": "Stadion Gminny w Rudnej",
+      "latitude": 51.511119,
+      "longitude": 16.252674
+    },
+    {
+      "name": "Stadion Gminny w Rybnie",
+      "latitude": 52.243721,
+      "longitude": 20.109026
+    },
+    {
+      "name": "Stadion GMKS Dębowiec-Zarzecze",
+      "latitude": 49.6832,
+      "longitude": 21.468716
+    },
+    {
+      "name": "Stadion GOS-u w Nadarzynie",
+      "latitude": 52.097273,
+      "longitude": 20.792214
+    },
+    {
+      "name": "Stadion Gracja Tczów",
+      "latitude": 51.330094,
+      "longitude": 21.447356
+    },
+    {
+      "name": "Stadion Gryf Słupsk",
+      "latitude": 54.452528,
+      "longitude": 17.027088
+    },
+    {
+      "name": "Stadion Gryfa Tczew",
+      "latitude": 54.095948,
+      "longitude": 18.795453
+    },
+    {
+      "name": "Stadion GUKS Gorzkowice",
+      "latitude": 51.212098,
+      "longitude": 19.592023
+    },
+    {
+      "name": "Stadion Gwarka Zabrze",
+      "latitude": 50.325712,
+      "longitude": 18.829967
+    },
+    {
+      "name": "Stadion Górnik Łęczna S.A.",
+      "latitude": 51.301412,
+      "longitude": 22.875699
+    },
+    {
+      "name": "Stadion Henrykowianka Henryków",
+      "latitude": 50.657119,
+      "longitude": 17.015865
+    },
+    {
+      "name": "Stadion Huragan Hrubieszów im. Tadeusza Handziuka",
+      "latitude": 50.819523,
+      "longitude": 23.938566
+    },
+    {
+      "name": "Stadion im. Alfreda Smoczyka",
+      "latitude": 51.832742,
+      "longitude": 16.585683
+    },
+    {
+      "name": "Stadion im. Antoniego Maszewskiego",
+      "latitude": 51.308023,
+      "longitude": 19.643485
+    },
+    {
+      "name": "Stadion im. Braci Czachorów RKS Radomiak",
+      "latitude": 51.409744,
+      "longitude": 21.172088
+    },
+    {
+      "name": "Stadion im. Edmunda Szyca",
+      "latitude": 52.396221,
+      "longitude": 16.929438
+    },
+    {
+      "name": "Stadion im. Edwarda Szymkowiaka",
+      "latitude": 50.357688,
+      "longitude": 18.899175
+    },
+    {
+      "name": "Stadion im. Floriana Kapały",
+      "latitude": 51.616278,
+      "longitude": 16.836523
+    },
+    {
+      "name": "Stadion im. Ireny Szewińskiej",
+      "latitude": 50.777459,
+      "longitude": 15.759814
+    },
+    {
+      "name": "Stadion im. Ireny Szewińskiej",
+      "latitude": 50.777962,
+      "longitude": 15.75926
+    },
+    {
+      "name": "Stadion im. Jerzego Głuszkiewicza w Nowym Mieście nad Pilicą",
+      "latitude": 51.618438,
+      "longitude": 20.591144
+    },
+    {
+      "name": "Stadion im. Józefa Kopaczewskiego w Kamieńcu",
+      "latitude": 52.168514,
+      "longitude": 16.454547
+    },
+    {
+      "name": "Stadion im. Orłów Górskiego Klubu Sportowego ERO Balice",
+      "latitude": 50.543811,
+      "longitude": 20.836596
+    },
+    {
+      "name": "Stadion im. Sebastiana Karpiniuka",
+      "latitude": 54.175786,
+      "longitude": 15.561958
+    },
+    {
+      "name": "Stadion im. Stanisława Gomoły",
+      "latitude": 50.61982,
+      "longitude": 23.69704
+    },
+    {
+      "name": "Stadion im. Stanisława Kurowskiego",
+      "latitude": 52.602493,
+      "longitude": 16.591711
+    },
+    {
+      "name": "Stadion im. Włodzimierza Smolarka",
+      "latitude": 51.809342,
+      "longitude": 19.303303
+    },
+    {
+      "name": "Stadion im. Zdzisława Krzyszkowiaka",
+      "latitude": 53.145671,
+      "longitude": 18.020447
+    },
+    {
+      "name": "Stadion im.Józefa Pawełczyka",
+      "latitude": 50.314726,
+      "longitude": 19.067486
+    },
+    {
+      "name": "Stadion imienia Ernesta Pohla",
+      "latitude": 50.296297,
+      "longitude": 18.76834
+    },
+    {
+      "name": "Stadion Iskra Krajenka",
+      "latitude": 53.302641,
+      "longitude": 16.985409
+    },
+    {
+      "name": "Stadion Izbicko",
+      "latitude": 50.577546,
+      "longitude": 18.165043
+    },
+    {
+      "name": "Stadion Jasiołka Hankówka - Brzyszczki",
+      "latitude": 49.744747,
+      "longitude": 21.512544
+    },
+    {
+      "name": "Stadion KKS Dwór Kombornia",
+      "latitude": 49.699851,
+      "longitude": 21.864655
+    },
+    {
+      "name": "Stadion KKS Kalisz",
+      "latitude": 51.758397,
+      "longitude": 18.100724
+    },
+    {
+      "name": "Stadion Klub Sportowy Orkan Raba Wyżna",
+      "latitude": 49.561944,
+      "longitude": 19.866111
+    },
+    {
+      "name": "Stadion Klubu Sportowego Bielawianka",
+      "latitude": 50.687828,
+      "longitude": 16.601182
+    },
+    {
+      "name": "Stadion Kolejarz",
+      "latitude": 50.293909,
+      "longitude": 18.707708
+    },
+    {
+      "name": "Stadion Korona Piekielnik",
+      "latitude": 49.477194,
+      "longitude": 19.754441
+    },
+    {
+      "name": "Stadion Koszaliński",
+      "latitude": 54.009913,
+      "longitude": 16.962669
+    },
+    {
+      "name": "Stadion KP Dąb Dobroszyce",
+      "latitude": 51.269057,
+      "longitude": 17.356868
+    },
+    {
+      "name": "Stadion KPW Gdynia",
+      "latitude": 54.54169,
+      "longitude": 18.548069
+    },
+    {
+      "name": "Stadion Krzeszyce",
+      "latitude": 52.580058,
+      "longitude": 15.022928
+    },
+    {
+      "name": "Stadion Królowej Sportu",
+      "latitude": 51.11392,
+      "longitude": 15.571122
+    },
+    {
+      "name": "Stadion KS \"Orzeł\" Szpital Branice",
+      "latitude": 50.055369,
+      "longitude": 17.7982
+    },
+    {
+      "name": "Stadion KS Bobrek",
+      "latitude": 50.349668,
+      "longitude": 18.870153
+    },
+    {
+      "name": "Stadion KS Dalin",
+      "latitude": 49.823099,
+      "longitude": 19.947657
+    },
+    {
+      "name": "Stadion KS Iskra Iskrzynia",
+      "latitude": 49.686532,
+      "longitude": 21.862419
+    },
+    {
+      "name": "Stadion KS Kuźnia Ustroń",
+      "latitude": 49.723088,
+      "longitude": 18.814351
+    },
+    {
+      "name": "Stadion KS Mazur Pisz",
+      "latitude": 53.628769,
+      "longitude": 21.799166
+    },
+    {
+      "name": "Stadion KS Pogoń",
+      "latitude": 50.296801,
+      "longitude": 18.820599
+    },
+    {
+      "name": "Stadion KS Polonia Nysa",
+      "latitude": 50.462043,
+      "longitude": 17.333332
+    },
+    {
+      "name": "Stadion KS Silesia",
+      "latitude": 50.359364,
+      "longitude": 18.847158
+    },
+    {
+      "name": "Stadion KS Sparta Jeżowe",
+      "latitude": 50.372665,
+      "longitude": 22.140544
+    },
+    {
+      "name": "Stadion KS Stal Zabrze",
+      "latitude": 50.310654,
+      "longitude": 18.793182
+    },
+    {
+      "name": "Stadion KS Wełna Skoki",
+      "latitude": 52.673851,
+      "longitude": 17.152884
+    },
+    {
+      "name": "Stadion KS Wieczysta Kraków",
+      "latitude": 50.076626,
+      "longitude": 19.977105
+    },
+    {
+      "name": "Stadion KS Włókniarz Rakszawa",
+      "latitude": 50.153303,
+      "longitude": 22.248258
+    },
+    {
+      "name": "Stadion KS Zamek",
+      "latitude": 53.405403,
+      "longitude": 19.572825
+    },
+    {
+      "name": "Stadion KS Zorza Pęgów",
+      "latitude": 51.252657,
+      "longitude": 16.929771
+    },
+    {
+      "name": "Stadion KSZO Ostrowiec Świętokrzyski",
+      "latitude": 50.924347,
+      "longitude": 21.379177
+    },
+    {
+      "name": "Stadion Kunów",
+      "latitude": 50.958826,
+      "longitude": 21.282274
+    },
+    {
+      "name": "Stadion Lekkoatletycczny Rakowice Wielkie",
+      "latitude": 51.12945,
+      "longitude": 15.564805
+    },
+    {
+      "name": "Stadion Lekkoatletyczno-Piłkarski im. Marszałka Józefa Piłsudskiego",
+      "latitude": 51.396821,
+      "longitude": 21.146476
+    },
+    {
+      "name": "Stadion lekkoatletyczny",
+      "latitude": 49.282967,
+      "longitude": 19.972739
+    },
+    {
+      "name": "Stadion Lekkoatletyczny",
+      "latitude": 51.274292,
+      "longitude": 17.98511
+    },
+    {
+      "name": "Stadion Lekkoatletyczny",
+      "latitude": 51.512194,
+      "longitude": 16.069955
+    },
+    {
+      "name": "Stadion lekkoatletyczny",
+      "latitude": 51.972472,
+      "longitude": 18.55484
+    },
+    {
+      "name": "Stadion lekkoatletyczny",
+      "latitude": 54.087776,
+      "longitude": 22.930909
+    },
+    {
+      "name": "Stadion lekkoatletyczny",
+      "latitude": 54.127365,
+      "longitude": 20.599081
+    },
+    {
+      "name": "Stadion lekkoatletyczny AWF",
+      "latitude": 51.119102,
+      "longitude": 17.093886
+    },
+    {
+      "name": "Stadion lekkoatletyczny Golęcin",
+      "latitude": 52.425321,
+      "longitude": 16.890228
+    },
+    {
+      "name": "Stadion lekkoatletyczny im. Lubuskich Olimpijczyków",
+      "latitude": 52.743008,
+      "longitude": 15.231958
+    },
+    {
+      "name": "Stadion lekkoatletyczny im. Opolskich Olimpijczyków",
+      "latitude": 50.674039,
+      "longitude": 17.949934
+    },
+    {
+      "name": "Stadion lekkoatletyczny im. Wojciecha Nowickiego",
+      "latitude": 53.120432,
+      "longitude": 23.159676
+    },
+    {
+      "name": "Stadion lekkoatletyczny im. Zygmunta Szelesta",
+      "latitude": 52.286834,
+      "longitude": 20.958985
+    },
+    {
+      "name": "Stadion Lekkoatletyczny imienia Miłosza Józefa Szczepańskiego",
+      "latitude": 52.232593,
+      "longitude": 17.261012
+    },
+    {
+      "name": "Stadion Lekkoatletyczny MOSiR",
+      "latitude": 50.855385,
+      "longitude": 20.613502
+    },
+    {
+      "name": "Stadion lekkoatletyczny OSiR",
+      "latitude": 52.743196,
+      "longitude": 15.233794
+    },
+    {
+      "name": "Stadion lekkoatletyczny w Baranowie Sandomierskim",
+      "latitude": 50.502687,
+      "longitude": 21.546378
+    },
+    {
+      "name": "Stadion Leśnica",
+      "latitude": 51.144154,
+      "longitude": 16.878313
+    },
+    {
+      "name": "Stadion Leśny w Ćmielowie",
+      "latitude": 50.898275,
+      "longitude": 21.523326
+    },
+    {
+      "name": "Stadion LKS \"Głogovia\"",
+      "latitude": 50.154465,
+      "longitude": 21.958529
+    },
+    {
+      "name": "Stadion LKS \"Klimontowianka\"",
+      "latitude": 50.660186,
+      "longitude": 21.442804
+    },
+    {
+      "name": "Stadion LKS \"Nurt\" Potok",
+      "latitude": 49.71914,
+      "longitude": 21.684659
+    },
+    {
+      "name": "Stadion LKS Barycz Sułów",
+      "latitude": 51.504883,
+      "longitude": 17.169586
+    },
+    {
+      "name": "Stadion LKS Błysk Kuźniczysko",
+      "latitude": 51.383701,
+      "longitude": 17.179259
+    },
+    {
+      "name": "Stadion LKS Długie",
+      "latitude": 49.578266,
+      "longitude": 22.045627
+    },
+    {
+      "name": "Stadion LKS Grabów",
+      "latitude": 52.128098,
+      "longitude": 19.000445
+    },
+    {
+      "name": "Stadion LKS Granica Stubno",
+      "latitude": 49.900486,
+      "longitude": 22.954967
+    },
+    {
+      "name": "Stadion LKS Górki",
+      "latitude": 49.654735,
+      "longitude": 22.033924
+    },
+    {
+      "name": "Stadion LKS Mazowsze Stężyca",
+      "latitude": 51.574164,
+      "longitude": 21.777362
+    },
+    {
+      "name": "Stadion LKS Mniszków",
+      "latitude": 51.371468,
+      "longitude": 20.02917
+    },
+    {
+      "name": "Stadion LKS Orzeł Kozy",
+      "latitude": 49.847797,
+      "longitude": 19.145409
+    },
+    {
+      "name": "Stadion LKS Orzeł Radocza",
+      "latitude": 49.917299,
+      "longitude": 19.470971
+    },
+    {
+      "name": "Stadion LKS Postęp Łaziska",
+      "latitude": 51.32816,
+      "longitude": 20.92193
+    },
+    {
+      "name": "Stadion LKS Skalniak Kroczyce",
+      "latitude": 50.56858,
+      "longitude": 19.570273
+    },
+    {
+      "name": "Stadion LKS Start Niechcice",
+      "latitude": 51.268782,
+      "longitude": 19.589955
+    },
+    {
+      "name": "Stadion LKS Strażak Mokrzyska",
+      "latitude": 50.003713,
+      "longitude": 20.61725
+    },
+    {
+      "name": "Stadion LKS Wola Dalsza",
+      "latitude": 50.109246,
+      "longitude": 22.259754
+    },
+    {
+      "name": "Stadion LKS Wójtowa",
+      "latitude": 49.69274,
+      "longitude": 21.292849
+    },
+    {
+      "name": "Stadion LKS Zorza Jagiełła",
+      "latitude": 50.106287,
+      "longitude": 22.558778
+    },
+    {
+      "name": "Stadion LKS Łąka",
+      "latitude": 49.959342,
+      "longitude": 18.909288
+    },
+    {
+      "name": "Stadion LKS Żyglin",
+      "latitude": 50.491361,
+      "longitude": 18.951705
+    },
+    {
+      "name": "Stadion Ludowy",
+      "latitude": 50.277318,
+      "longitude": 19.103746
+    },
+    {
+      "name": "Stadion Luks Delta Bielice",
+      "latitude": 50.552684,
+      "longitude": 17.493878
+    },
+    {
+      "name": "Stadion LUKS Gomunice",
+      "latitude": 51.168219,
+      "longitude": 19.48199
+    },
+    {
+      "name": "Stadion LZS Start",
+      "latitude": 52.867196,
+      "longitude": 18.274661
+    },
+    {
+      "name": "Stadion Mawit i Pogoń Lwówek",
+      "latitude": 52.445197,
+      "longitude": 16.188601
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 49.696216,
+      "longitude": 21.766406
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.060899,
+      "longitude": 21.409493
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.135294,
+      "longitude": 19.119326
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.218849,
+      "longitude": 18.678674
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.26224,
+      "longitude": 19.473779
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.319927,
+      "longitude": 17.37907
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.472286,
+      "longitude": 17.341246
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.561753,
+      "longitude": 21.160338
+    },
+    {
+      "name": "Stadion miejski",
+      "latitude": 50.695314,
+      "longitude": 17.379991
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.704675,
+      "longitude": 16.580032
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.904567,
+      "longitude": 15.754472
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.912848,
+      "longitude": 15.337756
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 50.945939,
+      "longitude": 16.487871
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.009907,
+      "longitude": 15.672019
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.061018,
+      "longitude": 21.069706
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.157274,
+      "longitude": 21.665834
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.187583,
+      "longitude": 20.422098
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.215832,
+      "longitude": 17.388397
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.259469,
+      "longitude": 15.577006
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.276349,
+      "longitude": 15.929827
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.283218,
+      "longitude": 17.98762
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.28559,
+      "longitude": 15.233083
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.511542,
+      "longitude": 18.11206
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.572006,
+      "longitude": 17.672716
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.594292,
+      "longitude": 19.139153
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.643067,
+      "longitude": 17.821502
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.656154,
+      "longitude": 16.096982
+    },
+    {
+      "name": "Stadion miejski",
+      "latitude": 51.685219,
+      "longitude": 15.73369
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.749831,
+      "longitude": 15.594377
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 51.761887,
+      "longitude": 18.100258
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.061182,
+      "longitude": 21.036198
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.199467,
+      "longitude": 18.628031
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.244781,
+      "longitude": 15.525875
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.255968,
+      "longitude": 20.280289
+    },
+    {
+      "name": "Stadion miejski",
+      "latitude": 52.259785,
+      "longitude": 19.168399
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.317369,
+      "longitude": 16.422271
+    },
+    {
+      "name": "Stadion miejski",
+      "latitude": 52.438557,
+      "longitude": 17.777347
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 52.756944,
+      "longitude": 17.476389
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.018878,
+      "longitude": 20.889941
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.05702,
+      "longitude": 16.459467
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.071921,
+      "longitude": 19.903921
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.140969,
+      "longitude": 16.715403
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.357921,
+      "longitude": 20.41058
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.409034,
+      "longitude": 22.789525
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.572005,
+      "longitude": 20.993913
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.843093,
+      "longitude": 19.602486
+    },
+    {
+      "name": "Stadion miejski",
+      "latitude": 53.924832,
+      "longitude": 14.439683
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 53.96265,
+      "longitude": 14.772243
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 54.072347,
+      "longitude": 19.659493
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 54.339195,
+      "longitude": 18.207345
+    },
+    {
+      "name": "Stadion Miejski",
+      "latitude": 54.367989,
+      "longitude": 18.62078
+    },
+    {
+      "name": "Stadion Miejski \"Beskid\" im. R. Kukucza",
+      "latitude": 49.800498,
+      "longitude": 18.794873
+    },
+    {
+      "name": "Stadion Miejski \"Fair Play Arena\"",
+      "latitude": 51.303579,
+      "longitude": 17.049745
+    },
+    {
+      "name": "Stadion Miejski \"Piast Osiek\"",
+      "latitude": 50.526881,
+      "longitude": 21.430837
+    },
+    {
+      "name": "Stadion Miejski Górnik Wojkowice",
+      "latitude": 50.369765,
+      "longitude": 19.032618
+    },
+    {
+      "name": "Stadion Miejski Hutnik Kraków",
+      "latitude": 50.06603,
+      "longitude": 20.057505
+    },
+    {
+      "name": "Stadion Miejski im. Alfonsa Guzińskiego",
+      "latitude": 54.07985,
+      "longitude": 18.790912
+    },
+    {
+      "name": "Stadion Miejski im. Andrzeja Korola w Złocieńcu",
+      "latitude": 53.547382,
+      "longitude": 16.007141
+    },
+    {
+      "name": "Stadion Miejski im. Czesława Lisa",
+      "latitude": 53.699864,
+      "longitude": 16.693059
+    },
+    {
+      "name": "Stadion Miejski im. Czesława Panczakiewicza",
+      "latitude": 49.873342,
+      "longitude": 19.50587
+    },
+    {
+      "name": "Stadion Miejski im. Floriana Krygiera",
+      "latitude": 53.43649,
+      "longitude": 14.518499
+    },
+    {
+      "name": "Stadion Miejski im. Grzegorza Lato",
+      "latitude": 50.298677,
+      "longitude": 21.435868
+    },
+    {
+      "name": "Stadion Miejski im. Henryka Reymana",
+      "latitude": 50.063422,
+      "longitude": 19.911197
+    },
+    {
+      "name": "Stadion Miejski im. Henryka Reymana",
+      "latitude": 52.235069,
+      "longitude": 19.369357
+    },
+    {
+      "name": "Stadion Miejski im. Janusza Kalbarczyka",
+      "latitude": 52.180897,
+      "longitude": 20.842978
+    },
+    {
+      "name": "Stadion Miejski im. Janusza Kusocińskiego",
+      "latitude": 52.441342,
+      "longitude": 19.478251
+    },
+    {
+      "name": "Stadion Miejski im. Jerzego Arceusza",
+      "latitude": 52.777352,
+      "longitude": 20.112767
+    },
+    {
+      "name": "Stadion Miejski im. Józefa Nojiego",
+      "latitude": 52.837804,
+      "longitude": 15.820002
+    },
+    {
+      "name": "Stadion Miejski im. Kazimierza Deyny",
+      "latitude": 53.970296,
+      "longitude": 18.533891
+    },
+    {
+      "name": "Stadion Miejski im. Kazimierza Górskiego",
+      "latitude": 52.533387,
+      "longitude": 19.157594
+    },
+    {
+      "name": "Stadion Miejski im. Orła Białego",
+      "latitude": 51.203542,
+      "longitude": 16.170005
+    },
+    {
+      "name": "Stadion Miejski im. płk. Franciszka Hynka",
+      "latitude": 52.521469,
+      "longitude": 17.597765
+    },
+    {
+      "name": "Stadion Miejski im. Ryszarda Janeckiego",
+      "latitude": 51.333296,
+      "longitude": 16.653629
+    },
+    {
+      "name": "Stadion Miejski im. Zdzisława Kokowicza",
+      "latitude": 52.872043,
+      "longitude": 18.682534
+    },
+    {
+      "name": "Stadion Miejski im. Złotej Jedenastki Kazimierza Górskiego",
+      "latitude": 52.218554,
+      "longitude": 18.255463
+    },
+    {
+      "name": "Stadion Miejski im.Grzegorza Dunieckiego",
+      "latitude": 53.020484,
+      "longitude": 18.590726
+    },
+    {
+      "name": "Stadion Miejski Klubu Piłkarskiego Bór Oborniki",
+      "latitude": 51.314614,
+      "longitude": 16.918344
+    },
+    {
+      "name": "Stadion Miejski KS Legionovia KZB Legionowo",
+      "latitude": 52.403091,
+      "longitude": 20.9177
+    },
+    {
+      "name": "Stadion Miejski KS Mszczonowianka Mszczonów",
+      "latitude": 51.976026,
+      "longitude": 20.527904
+    },
+    {
+      "name": "Stadion Miejski KS Naprzód Rydułtowy",
+      "latitude": 50.069291,
+      "longitude": 18.411535
+    },
+    {
+      "name": "Stadion Miejski KS Ostrovia",
+      "latitude": 52.805117,
+      "longitude": 21.902075
+    },
+    {
+      "name": "Stadion Miejski KS Prądniczanka im. Władysława Kawuli",
+      "latitude": 50.087652,
+      "longitude": 19.958222
+    },
+    {
+      "name": "Stadion Miejski Kuźniczka",
+      "latitude": 50.351875,
+      "longitude": 18.206433
+    },
+    {
+      "name": "Stadion Miejski Legii Warszawa",
+      "latitude": 52.220466,
+      "longitude": 21.040559
+    },
+    {
+      "name": "Stadion Miejski MKS Mieszko Gniezno",
+      "latitude": 52.530922,
+      "longitude": 17.585663
+    },
+    {
+      "name": "Stadion Miejski nr 1",
+      "latitude": 52.79194,
+      "longitude": 18.247108
+    },
+    {
+      "name": "Stadion miejski OKS Olesno",
+      "latitude": 50.871361,
+      "longitude": 18.415892
+    },
+    {
+      "name": "Stadion Miejski OSiR Ustka",
+      "latitude": 54.574014,
+      "longitude": 16.873581
+    },
+    {
+      "name": "Stadion Miejski OSiR w Goleniowie",
+      "latitude": 53.55774,
+      "longitude": 14.825215
+    },
+    {
+      "name": "Stadion Miejski Oskar Przysucha",
+      "latitude": 51.360395,
+      "longitude": 20.638197
+    },
+    {
+      "name": "Stadion Miejski TKS Bóbr Tłuszcz",
+      "latitude": 52.426634,
+      "longitude": 21.439653
+    },
+    {
+      "name": "Stadion miejski Tuczno",
+      "latitude": 53.205233,
+      "longitude": 16.164428
+    },
+    {
+      "name": "Stadion Miejski w Baborowie",
+      "latitude": 50.158535,
+      "longitude": 17.981522
+    },
+    {
+      "name": "Stadion Miejski w Bielsku-Białej",
+      "latitude": 49.817603,
+      "longitude": 19.054199
+    },
+    {
+      "name": "Stadion Miejski w Brzegu Dolnym",
+      "latitude": 51.264438,
+      "longitude": 16.724503
+    },
+    {
+      "name": "Stadion Miejski w Gdyni",
+      "latitude": 54.493182,
+      "longitude": 18.531118
+    },
+    {
+      "name": "Stadion Miejski w Gliwicach",
+      "latitude": 50.306695,
+      "longitude": 18.695628
+    },
+    {
+      "name": "Stadion Miejski w Jarosławiu im. Mieczysława Haspla",
+      "latitude": 50.013108,
+      "longitude": 22.67943
+    },
+    {
+      "name": "Stadion Miejski w Jastrzębiu-Zdroju",
+      "latitude": 49.950031,
+      "longitude": 18.611993
+    },
+    {
+      "name": "Stadion Miejski w Kałuszynie. Klub Sportowy \"Victoria\" Kałuszyn",
+      "latitude": 52.216208,
+      "longitude": 21.813338
+    },
+    {
+      "name": "Stadion Miejski w Krotoszynie",
+      "latitude": 51.699459,
+      "longitude": 17.457789
+    },
+    {
+      "name": "Stadion Miejski w Lubawce",
+      "latitude": 50.697762,
+      "longitude": 16.006124
+    },
+    {
+      "name": "Stadion Miejski w Lęborku",
+      "latitude": 54.523758,
+      "longitude": 17.747629
+    },
+    {
+      "name": "Stadion Miejski w Miłosławiu",
+      "latitude": 52.197862,
+      "longitude": 17.49737
+    },
+    {
+      "name": "Stadion Miejski w Nowym Tomyślu im. Andrzeja Wojtkowiaka",
+      "latitude": 52.315331,
+      "longitude": 16.133998
+    },
+    {
+      "name": "Stadion Miejski w Paczkowie",
+      "latitude": 50.457323,
+      "longitude": 17.006672
+    },
+    {
+      "name": "Stadion Miejski w Polkowicach",
+      "latitude": 51.499373,
+      "longitude": 16.065634
+    },
+    {
+      "name": "Stadion Miejski w Praszce",
+      "latitude": 51.064908,
+      "longitude": 18.446001
+    },
+    {
+      "name": "Stadion Miejski w Przytyku",
+      "latitude": 51.465928,
+      "longitude": 20.904449
+    },
+    {
+      "name": "Stadion Miejski w Rumi",
+      "latitude": 54.576861,
+      "longitude": 18.398732
+    },
+    {
+      "name": "Stadion Miejski w Serocku",
+      "latitude": 52.517044,
+      "longitude": 21.068362
+    },
+    {
+      "name": "Stadion Miejski w Sompolnie",
+      "latitude": 52.37931,
+      "longitude": 18.499285
+    },
+    {
+      "name": "Stadion Miejski w Suwałkach",
+      "latitude": 54.094335,
+      "longitude": 22.915956
+    },
+    {
+      "name": "Stadion Miejski w Swarzędzu imienia Mariana Zaporowskiego",
+      "latitude": 52.411355,
+      "longitude": 17.070405
+    },
+    {
+      "name": "Stadion Miejski w Trzciance",
+      "latitude": 53.056811,
+      "longitude": 16.460196
+    },
+    {
+      "name": "Stadion miejski w Trzcińsku-Zdroju",
+      "latitude": 52.963473,
+      "longitude": 14.623746
+    },
+    {
+      "name": "Stadion Miejski w Tuszynie",
+      "latitude": 51.611484,
+      "longitude": 19.516308
+    },
+    {
+      "name": "Stadion Miejski w Tychach",
+      "latitude": 50.124052,
+      "longitude": 18.990623
+    },
+    {
+      "name": "Stadion Miejski w Wałczu",
+      "latitude": 53.275779,
+      "longitude": 16.477597
+    },
+    {
+      "name": "Stadion Miejski w Więcborku",
+      "latitude": 53.346824,
+      "longitude": 17.488606
+    },
+    {
+      "name": "Stadion Miejski w Zduńskiej Woli przy ul. Okrzei",
+      "latitude": 51.575378,
+      "longitude": 19.008405
+    },
+    {
+      "name": "Stadion Miejski w Zduńskiej Woli przy ul. Łaskiej 90",
+      "latitude": 51.590486,
+      "longitude": 18.955908
+    },
+    {
+      "name": "Stadion Miejski w Łaszczowie",
+      "latitude": 50.531522,
+      "longitude": 23.72976
+    },
+    {
+      "name": "Stadion Miejski w Łomży",
+      "latitude": 53.187103,
+      "longitude": 22.088442
+    },
+    {
+      "name": "Stadion Miejski w Ślesinie",
+      "latitude": 52.373631,
+      "longitude": 18.321575
+    },
+    {
+      "name": "Stadion Miejski w Żabnie",
+      "latitude": 50.132579,
+      "longitude": 20.881772
+    },
+    {
+      "name": "Stadion Miejski Widzewa Łódź",
+      "latitude": 51.765184,
+      "longitude": 19.511774
+    },
+    {
+      "name": "Stadion miejski Wąsoszu im. Józefa Stefaniaka",
+      "latitude": 51.563432,
+      "longitude": 16.686421
+    },
+    {
+      "name": "Stadion Miejski ŁKS im. Władysława Króla",
+      "latitude": 51.758924,
+      "longitude": 19.426201
+    },
+    {
+      "name": "Stadion MKS \"Jutrzenka\" Warta",
+      "latitude": 51.714402,
+      "longitude": 18.622263
+    },
+    {
+      "name": "Stadion MKS Budowlani",
+      "latitude": 51.430447,
+      "longitude": 15.087429
+    },
+    {
+      "name": "Stadion MKS Bug Wyszków",
+      "latitude": 52.592609,
+      "longitude": 21.447171
+    },
+    {
+      "name": "Stadion MKS Iskra Małomice",
+      "latitude": 51.545443,
+      "longitude": 15.448327
+    },
+    {
+      "name": "Stadion MKS Odra Ścinawa",
+      "latitude": 51.409048,
+      "longitude": 16.436849
+    },
+    {
+      "name": "Stadion MKS Orlicz",
+      "latitude": 51.037453,
+      "longitude": 20.840423
+    },
+    {
+      "name": "Stadion MKS Sandecja Nowy Sącz",
+      "latitude": 49.620317,
+      "longitude": 20.705421
+    },
+    {
+      "name": "Stadion MKS Victoria Września",
+      "latitude": 52.329095,
+      "longitude": 17.567105
+    },
+    {
+      "name": "Stadion MKS-MOS",
+      "latitude": 50.280297,
+      "longitude": 19.116111
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 50.108835,
+      "longitude": 18.54794
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 50.843058,
+      "longitude": 19.980563
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 51.120235,
+      "longitude": 15.298284
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 51.95483,
+      "longitude": 15.523573
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 51.99321,
+      "longitude": 22.767203
+    },
+    {
+      "name": "Stadion MOSiR",
+      "latitude": 52.64404,
+      "longitude": 19.075619
+    },
+    {
+      "name": "Stadion MOSiR Dukla",
+      "latitude": 49.553084,
+      "longitude": 21.678985
+    },
+    {
+      "name": "Stadion MOSiR Jasło",
+      "latitude": 49.743889,
+      "longitude": 21.48092
+    },
+    {
+      "name": "Stadion MOSiR Nadnarwianka",
+      "latitude": 52.699442,
+      "longitude": 21.087872
+    },
+    {
+      "name": "Stadion MOSiR w Puławach",
+      "latitude": 51.424106,
+      "longitude": 21.973651
+    },
+    {
+      "name": "Stadion MZKS Jagiellonka",
+      "latitude": 52.830626,
+      "longitude": 18.899439
+    },
+    {
+      "name": "Stadion Narodowy",
+      "latitude": 52.240139,
+      "longitude": 21.045278
+    },
+    {
+      "name": "Stadion Nowe Miasto (w remoncie)",
+      "latitude": 50.773192,
+      "longitude": 16.289327
+    },
+    {
+      "name": "Stadion OCKF Oława",
+      "latitude": 50.948489,
+      "longitude": 17.30144
+    },
+    {
+      "name": "Stadion Odry Lubiąż",
+      "latitude": 51.268929,
+      "longitude": 16.470602
+    },
+    {
+      "name": "Stadion OKS Start Otwock",
+      "latitude": 52.094023,
+      "longitude": 21.265446
+    },
+    {
+      "name": "Stadion OKS Stomil Olsztyn",
+      "latitude": 53.77314,
+      "longitude": 20.509201
+    },
+    {
+      "name": "Stadion Olimpia Wojnicz",
+      "latitude": 49.967468,
+      "longitude": 20.841109
+    },
+    {
+      "name": "Stadion Olimpii Grudziądz",
+      "latitude": 53.488086,
+      "longitude": 18.759921
+    },
+    {
+      "name": "Stadion Olimpijski",
+      "latitude": 51.119198,
+      "longitude": 17.096676
+    },
+    {
+      "name": "Stadion Oporowska",
+      "latitude": 51.096272,
+      "longitude": 16.996938
+    },
+    {
+      "name": "Stadion Orlik",
+      "latitude": 51.091037,
+      "longitude": 22.285898
+    },
+    {
+      "name": "Stadion Orlik w Strzegowie",
+      "latitude": 52.895821,
+      "longitude": 20.282902
+    },
+    {
+      "name": "Stadion Orzeł Wierzbica",
+      "latitude": 51.249055,
+      "longitude": 21.072775
+    },
+    {
+      "name": "Stadion OSiR",
+      "latitude": 50.097527,
+      "longitude": 18.217287
+    },
+    {
+      "name": "Stadion OSiR",
+      "latitude": 50.320507,
+      "longitude": 19.125334
+    },
+    {
+      "name": "Stadion OSiR",
+      "latitude": 51.394363,
+      "longitude": 19.691854
+    },
+    {
+      "name": "Stadion OSiR",
+      "latitude": 52.731581,
+      "longitude": 15.207397
+    },
+    {
+      "name": "Stadion Ospel Wierbka",
+      "latitude": 50.476781,
+      "longitude": 19.720127
+    },
+    {
+      "name": "Stadion Piechowickiego Klubu Sportowego Lechia Piechowice",
+      "latitude": 50.856471,
+      "longitude": 15.593395
+    },
+    {
+      "name": "Stadion Piranii Radziądz",
+      "latitude": 51.516706,
+      "longitude": 16.970452
+    },
+    {
+      "name": "Stadion Piłkarski GKS Piast Nowa Ruda (nieczynny)",
+      "latitude": 50.59432,
+      "longitude": 16.51467
+    },
+    {
+      "name": "Stadion Piłkarski im. Mariana Paska w Koninie",
+      "latitude": 52.209601,
+      "longitude": 18.237032
+    },
+    {
+      "name": "Stadion Piłkarski KUKS W Laskovia",
+      "latitude": 49.764563,
+      "longitude": 20.454016
+    },
+    {
+      "name": "Stadion Piłkarski Miejskiego Zarządu Obiektów Sportowych „Znicz”",
+      "latitude": 52.168888,
+      "longitude": 20.81268
+    },
+    {
+      "name": "Stadion piłkarski Orzeł Gielniów",
+      "latitude": 51.396478,
+      "longitude": 20.48158
+    },
+    {
+      "name": "Stadion Piłkarski Perła Telatyn",
+      "latitude": 50.518312,
+      "longitude": 23.846086
+    },
+    {
+      "name": "Stadion Piłkarski Powała Taczów",
+      "latitude": 51.454926,
+      "longitude": 21.032262
+    },
+    {
+      "name": "Stadion Piłkarski Tęczy Zręcin",
+      "latitude": 49.667092,
+      "longitude": 21.684851
+    },
+    {
+      "name": "Stadion piłkarsko - lekkoatletyczny",
+      "latitude": 51.217883,
+      "longitude": 19.316985
+    },
+    {
+      "name": "Stadion Plantatora Nienadówka",
+      "latitude": 50.19586,
+      "longitude": 22.117744
+    },
+    {
+      "name": "Stadion Pogoni Prudnik",
+      "latitude": 50.324715,
+      "longitude": 17.585338
+    },
+    {
+      "name": "Stadion Pogórze Srogów Górny",
+      "latitude": 49.615145,
+      "longitude": 22.13497
+    },
+    {
+      "name": "Stadion Pokoleń Pomezanii Malbork",
+      "latitude": 54.043832,
+      "longitude": 19.045162
+    },
+    {
+      "name": "Stadion Polonii",
+      "latitude": 53.12754,
+      "longitude": 18.024207
+    },
+    {
+      "name": "Stadion Powiatowy w Trzciance",
+      "latitude": 53.056558,
+      "longitude": 16.461155
+    },
+    {
+      "name": "Stadion przy ZSZiO",
+      "latitude": 51.391595,
+      "longitude": 16.198095
+    },
+    {
+      "name": "Stadion PTC Pabianice",
+      "latitude": 51.654005,
+      "longitude": 19.343795
+    },
+    {
+      "name": "Stadion Płakowice",
+      "latitude": 51.118914,
+      "longitude": 15.618192
+    },
+    {
+      "name": "Stadion Płomień Limanowa",
+      "latitude": 49.740957,
+      "longitude": 20.396755
+    },
+    {
+      "name": "Stadion Płomień Nekla",
+      "latitude": 52.362318,
+      "longitude": 17.420527
+    },
+    {
+      "name": "Stadion Radowiak Drezdenko",
+      "latitude": 52.856149,
+      "longitude": 15.834476
+    },
+    {
+      "name": "Stadion Raków",
+      "latitude": 50.776653,
+      "longitude": 19.159094
+    },
+    {
+      "name": "Stadion Rokitnica",
+      "latitude": 50.360225,
+      "longitude": 18.805842
+    },
+    {
+      "name": "Stadion rozgrzewkowy",
+      "latitude": 52.4234,
+      "longitude": 16.892352
+    },
+    {
+      "name": "Stadion Ruch Zdzieszowice",
+      "latitude": 50.431982,
+      "longitude": 18.119374
+    },
+    {
+      "name": "Stadion Rybno",
+      "latitude": 53.379108,
+      "longitude": 19.951166
+    },
+    {
+      "name": "Stadion Skałka im. Pawła Waloszka",
+      "latitude": 50.300908,
+      "longitude": 18.919905
+    },
+    {
+      "name": "Stadion Sokoła Damasławek",
+      "latitude": 52.845582,
+      "longitude": 17.481434
+    },
+    {
+      "name": "stadion sokół stary sącz",
+      "latitude": 49.561642,
+      "longitude": 20.640915
+    },
+    {
+      "name": "Stadion SOSIR w Słubicach",
+      "latitude": 52.344691,
+      "longitude": 14.590074
+    },
+    {
+      "name": "Stadion Sparta Tworóg",
+      "latitude": 50.533742,
+      "longitude": 18.72978
+    },
+    {
+      "name": "Stadion Sparty Zabrze",
+      "latitude": 50.334505,
+      "longitude": 18.776547
+    },
+    {
+      "name": "Stadion Sportowy",
+      "latitude": 49.573936,
+      "longitude": 20.603571
+    },
+    {
+      "name": "Stadion sportowy",
+      "latitude": 50.311293,
+      "longitude": 20.238794
+    },
+    {
+      "name": "Stadion Sportowy",
+      "latitude": 52.74608,
+      "longitude": 17.319031
+    },
+    {
+      "name": "Stadion sportowy",
+      "latitude": 53.174907,
+      "longitude": 21.289544
+    },
+    {
+      "name": "Stadion sportowy \"Koło\"",
+      "latitude": 49.485018,
+      "longitude": 20.024489
+    },
+    {
+      "name": "Stadion sportowy Miechowice Małe",
+      "latitude": 50.157989,
+      "longitude": 20.771572
+    },
+    {
+      "name": "Stadion Sportowy Miejski",
+      "latitude": 51.979768,
+      "longitude": 14.718104
+    },
+    {
+      "name": "Stadion Sportowy przy Szkole",
+      "latitude": 53.772778,
+      "longitude": 18.201389
+    },
+    {
+      "name": "Stadion Sportowy w Bukowej",
+      "latitude": 50.866587,
+      "longitude": 20.207301
+    },
+    {
+      "name": "Stadion sportowy w Dusznikach",
+      "latitude": 52.453533,
+      "longitude": 16.407159
+    },
+    {
+      "name": "Stadion Sportowy w Kołbieli",
+      "latitude": 52.063202,
+      "longitude": 21.487152
+    },
+    {
+      "name": "Stadion Sportowy w Pakosławiu",
+      "latitude": 51.193265,
+      "longitude": 21.167709
+    },
+    {
+      "name": "Stadion sportowy w Pątnowie im. Ryszarda Sztuki",
+      "latitude": 51.141046,
+      "longitude": 18.610346
+    },
+    {
+      "name": "Stadion sportowy w Zagórzu",
+      "latitude": 49.517445,
+      "longitude": 22.265035
+    },
+    {
+      "name": "Stadion Stare Zagłębie",
+      "latitude": 50.791093,
+      "longitude": 16.25789
+    },
+    {
+      "name": "Stadion START",
+      "latitude": 51.802829,
+      "longitude": 19.428139
+    },
+    {
+      "name": "Stadion Start Pruchnik",
+      "latitude": 49.902199,
+      "longitude": 22.511945
+    },
+    {
+      "name": "Stadion Syrenki",
+      "latitude": 52.212888,
+      "longitude": 21.011301
+    },
+    {
+      "name": "Stadion Sztabowa",
+      "latitude": 51.085733,
+      "longitude": 17.021156
+    },
+    {
+      "name": "Stadion tartanowy",
+      "latitude": 51.541294,
+      "longitude": 20.148054
+    },
+    {
+      "name": "Stadion TKKF",
+      "latitude": 52.63376,
+      "longitude": 16.096907
+    },
+    {
+      "name": "Stadion TS Gwarek",
+      "latitude": 50.452405,
+      "longitude": 18.857345
+    },
+    {
+      "name": "Stadion Unia Białopole",
+      "latitude": 50.978053,
+      "longitude": 23.739158
+    },
+    {
+      "name": "Stadion Uniejów",
+      "latitude": 51.966752,
+      "longitude": 18.788781
+    },
+    {
+      "name": "Stadion Unii Gniewkowo",
+      "latitude": 52.898533,
+      "longitude": 18.392815
+    },
+    {
+      "name": "Stadion Unii Racibórz",
+      "latitude": 50.092613,
+      "longitude": 18.239808
+    },
+    {
+      "name": "Stadion Uniwersytetu Zielonogórskiego",
+      "latitude": 51.944967,
+      "longitude": 15.526577
+    },
+    {
+      "name": "Stadion w Dobrzyniu nad Wisłą",
+      "latitude": 52.641309,
+      "longitude": 19.313353
+    },
+    {
+      "name": "Stadion w Głowaczowie",
+      "latitude": 51.620273,
+      "longitude": 21.324843
+    },
+    {
+      "name": "Stadion w Mirczu",
+      "latitude": 50.648182,
+      "longitude": 23.899601
+    },
+    {
+      "name": "Stadion w Rychtalu",
+      "latitude": 51.148169,
+      "longitude": 17.858897
+    },
+    {
+      "name": "Stadion w Trębaczowie",
+      "latitude": 51.216565,
+      "longitude": 17.797992
+    },
+    {
+      "name": "Stadion Wieruszów im. Borysa Rokickiego",
+      "latitude": 51.298439,
+      "longitude": 18.150932
+    },
+    {
+      "name": "Stadion Wisan Skopanie",
+      "latitude": 50.472738,
+      "longitude": 21.55697
+    },
+    {
+      "name": "Stadion Wisła Szczucin",
+      "latitude": 50.310947,
+      "longitude": 21.087647
+    },
+    {
+      "name": "Stadion WKS Gryf Wejherowo",
+      "latitude": 54.592371,
+      "longitude": 18.227675
+    },
+    {
+      "name": "Stadion WKS Wieluń",
+      "latitude": 51.221155,
+      "longitude": 18.549392
+    },
+    {
+      "name": "Stadion WKS Włocłavia",
+      "latitude": 52.649564,
+      "longitude": 19.067417
+    },
+    {
+      "name": "Stadion Wrzos Międzyborów",
+      "latitude": 52.053455,
+      "longitude": 20.482203
+    },
+    {
+      "name": "Stadion Wyższej Szkoły Policji",
+      "latitude": 53.559805,
+      "longitude": 21.02779
+    },
+    {
+      "name": "Stadion Zenitu Międzyborz",
+      "latitude": 51.400782,
+      "longitude": 17.665542
+    },
+    {
+      "name": "Stadion zespołu Czarni Lipa",
+      "latitude": 50.692942,
+      "longitude": 22.061946
+    },
+    {
+      "name": "Stadion Zimowy",
+      "latitude": 50.28872,
+      "longitude": 19.167316
+    },
+    {
+      "name": "Stadion ZKS Górnik Złotoryja",
+      "latitude": 51.126291,
+      "longitude": 15.905424
+    },
+    {
+      "name": "Stadion ZKS Nafta",
+      "latitude": 49.728468,
+      "longitude": 21.453856
+    },
+    {
+      "name": "Stadion ZKS Nafta Jedlicze",
+      "latitude": 49.705768,
+      "longitude": 21.655703
+    },
+    {
+      "name": "Stadion Śląski",
+      "latitude": 50.288053,
+      "longitude": 18.973155
+    },
+    {
+      "name": "Stadion żużlowo-piłkarski \"Jaskółcze Gniazdo\"",
+      "latitude": 50.008823,
+      "longitude": 20.924456
+    },
+    {
+      "name": "Stadion Żużlowy",
+      "latitude": 51.929013,
+      "longitude": 15.529712
+    },
+    {
+      "name": "Stadion żużlowy Golęcin",
+      "latitude": 52.427444,
+      "longitude": 16.888233
+    },
+    {
+      "name": "Stadion Żużlowy im. Zbigniewa Podleckiego",
+      "latitude": 54.346185,
+      "longitude": 18.671495
+    },
+    {
+      "name": "Stary stadion",
+      "latitude": 53.827778,
+      "longitude": 20.3075
+    },
+    {
+      "name": "Stary stadion",
+      "latitude": 54.125153,
+      "longitude": 17.987343
+    },
+    {
+      "name": "Strzelnica",
+      "latitude": 53.189713,
+      "longitude": 15.427124
+    },
+    {
+      "name": "Strzelnica Rekreacyjna „FRANKÓW”",
+      "latitude": 49.568775,
+      "longitude": 21.677954
+    },
+    {
+      "name": "Strzelnica Sportowa - Mysliwska",
+      "latitude": 49.406308,
+      "longitude": 20.995323
+    },
+    {
+      "name": "Suwałki Arena",
+      "latitude": 54.093966,
+      "longitude": 22.917664
+    },
+    {
+      "name": "SV Traktor Kienitz",
+      "latitude": 52.673126,
+      "longitude": 14.431941
+    },
+    {
+      "name": "Tarczyński Arena",
+      "latitude": 51.14113,
+      "longitude": 16.9438
+    },
+    {
+      "name": "tartan PZS 3",
+      "latitude": 54.130097,
+      "longitude": 17.980799
+    },
+    {
+      "name": "Tauron Arena Kraków",
+      "latitude": 50.067638,
+      "longitude": 19.991534
+    },
+    {
+      "name": "TJ Slavia Píšť",
+      "latitude": 49.975846,
+      "longitude": 18.183747
+    },
+    {
+      "name": "TJ Sokol Hněvošice",
+      "latitude": 49.996591,
+      "longitude": 17.998778
+    },
+    {
+      "name": "TJ Sokol Sudice",
+      "latitude": 50.029347,
+      "longitude": 18.067913
+    },
+    {
+      "name": "TJ Spartak Chuchelna",
+      "latitude": 49.988441,
+      "longitude": 18.12151
+    },
+    {
+      "name": "Tor saneczkowy",
+      "latitude": 51.596987,
+      "longitude": 20.29547
+    },
+    {
+      "name": "Tor speedrowerowy LKS Szawer Leszno",
+      "latitude": 51.833687,
+      "longitude": 16.587513
+    },
+    {
+      "name": "Tor Stegny",
+      "latitude": 52.186848,
+      "longitude": 21.043333
+    },
+    {
+      "name": "Trybuna",
+      "latitude": 51.085699,
+      "longitude": 17.724663
+    },
+    {
+      "name": "Trybuna",
+      "latitude": 51.086163,
+      "longitude": 17.72609
+    },
+    {
+      "name": "Trybuna kryta",
+      "latitude": 50.762812,
+      "longitude": 16.172368
+    },
+    {
+      "name": "Trybuna kryta",
+      "latitude": 52.521529,
+      "longitude": 17.597155
+    },
+    {
+      "name": "Trybuna odkryta",
+      "latitude": 50.763134,
+      "longitude": 16.172224
+    },
+    {
+      "name": "Trybuna zakryta",
+      "latitude": 53.408075,
+      "longitude": 23.506028
+    },
+    {
+      "name": "Trybuny",
+      "latitude": 51.465521,
+      "longitude": 20.903099
+    },
+    {
+      "name": "trybuny",
+      "latitude": 51.593285,
+      "longitude": 17.708702
+    },
+    {
+      "name": "Trybuny",
+      "latitude": 51.655019,
+      "longitude": 16.950901
+    },
+    {
+      "name": "TS Koszarawa Żywiec",
+      "latitude": 49.690799,
+      "longitude": 19.193308
+    },
+    {
+      "name": "UKS Błyskawica",
+      "latitude": 50.18237,
+      "longitude": 19.478167
+    },
+    {
+      "name": "ULKS Sparta Wszemirów",
+      "latitude": 51.363362,
+      "longitude": 16.99611
+    },
+    {
+      "name": "Unia Bełżyce",
+      "latitude": 51.178608,
+      "longitude": 22.285302
+    },
+    {
+      "name": "Unia Krzywda",
+      "latitude": 51.793789,
+      "longitude": 22.19242
+    },
+    {
+      "name": "Victoria Koronowo",
+      "latitude": 53.304629,
+      "longitude": 17.938327
+    },
+    {
+      "name": "Vojsławia Wojsławice",
+      "latitude": 50.911469,
+      "longitude": 23.550335
+    },
+    {
+      "name": "Wanda Kraków",
+      "latitude": 50.084305,
+      "longitude": 20.045988
+    },
+    {
+      "name": "Wał",
+      "latitude": 50.762315,
+      "longitude": 16.173078
+    },
+    {
+      "name": "Wał",
+      "latitude": 50.762951,
+      "longitude": 16.173639
+    },
+    {
+      "name": "Wał",
+      "latitude": 50.76373,
+      "longitude": 16.172877
+    },
+    {
+      "name": "Weinaustadion",
+      "latitude": 50.901149,
+      "longitude": 14.837815
+    },
+    {
+      "name": "Wielka Krokiew imienia Stanisława Marusarza",
+      "latitude": 49.280144,
+      "longitude": 19.963688
+    },
+    {
+      "name": "Wietcisa Skarszewy",
+      "latitude": 54.072153,
+      "longitude": 18.442597
+    },
+    {
+      "name": "Wieża z zegarem i tablicą wyników",
+      "latitude": 50.763777,
+      "longitude": 16.173018
+    },
+    {
+      "name": "Wisłok Wiśniowa",
+      "latitude": 49.865058,
+      "longitude": 21.643534
+    },
+    {
+      "name": "WKS Wawel",
+      "latitude": 50.076611,
+      "longitude": 19.907761
+    },
+    {
+      "name": "WKS Wilczyce",
+      "latitude": 50.746528,
+      "longitude": 21.655217
+    },
+    {
+      "name": "Wyciąg narciarski",
+      "latitude": 51.38172,
+      "longitude": 21.99875
+    },
+    {
+      "name": "Wólczanka Wólka Pełkińska",
+      "latitude": 50.090251,
+      "longitude": 22.6116
+    },
+    {
+      "name": "Zenit Koszewo",
+      "latitude": 53.272287,
+      "longitude": 14.904128
+    },
+    {
+      "name": "Zew Kazimierz",
+      "latitude": 50.287805,
+      "longitude": 19.26646
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.742241,
+      "longitude": 18.618273
+    },
+    {
+      "name": "Zjednoczeni Złomex Branice",
+      "latitude": 50.059729,
+      "longitude": 20.144029
+    },
+    {
+      "name": "ZKS Olimpia Elbląg",
+      "latitude": 54.165896,
+      "longitude": 19.421198
+    },
+    {
+      "name": "ZKS „Granat”",
+      "latitude": 51.088706,
+      "longitude": 20.849363
+    },
+    {
+      "name": "Ząbki Dozbud Arena",
+      "latitude": 52.292755,
+      "longitude": 21.121778
+    },
+    {
+      "name": "ŁKS Promnik",
+      "latitude": 51.792298,
+      "longitude": 21.583514
+    },
+    {
+      "name": "Łopuszno",
+      "latitude": 50.942669,
+      "longitude": 20.245198
+    },
+    {
+      "name": "Łódzki Klub Piłkarski „Kolejarz”",
+      "latitude": 51.772032,
+      "longitude": 19.409899
+    },
+    {
+      "name": "Średnia Krokiew imienia Bronisława Czecha",
+      "latitude": 49.279706,
+      "longitude": 19.968428
+    },
+    {
+      "name": "Środowiskowy Klub Sportowy Unia Niedomice",
+      "latitude": 50.103893,
+      "longitude": 20.895394
+    },
+    {
+      "name": "ŚWIT Kamieńsk",
+      "latitude": 51.19461,
+      "longitude": 19.495133
+    }
+  ],
+  "meta": {
+    "title": "Polska — stadiony - Bezpłatne pobieranie",
+    "description": "Stadiony w Polsce (OpenStreetMap) Zawiera 777 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — stadiony | ListBase",
+    "seo_description": "Pobierz Polska — stadiony — 777 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 777 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "Kompleksowy Zbiór Danych Stanów USA",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "region": "Południe",
+      "division": "Wschodnio-Południowo-Centralny",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "region": "Zachód",
+      "division": "Pacyfik",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "region": "Zachód",
+      "division": "Góry",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "region": "Południe",
+      "division": "Zachodnio-Południowo-Centralny",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "Kalifornia",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "region": "Zachód",
+      "division": "Pacyfik",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "Kolorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "region": "Zachód",
+      "division": "Góry",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Floryda",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Hawaje",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "region": "Zachód",
+      "division": "Pacyfik",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "region": "Zachód",
+      "division": "Góry",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "region": "Środkowy Zachód",
+      "division": "Wschodnio-Północno-Centralny",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "region": "Środkowy Zachód",
+      "division": "Wschodnio-Północno-Centralny",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "region": "Środkowy Zachód",
+      "division": "Zachodnio-Północno-Centralny",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "region": "Środkowy Zachód",
+      "division": "Zachodnio-Północno-Centralny",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "region": "Południe",
+      "division": "Wschodnio-Południowo-Centralny",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "Luizjana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "region": "Południe",
+      "division": "Zachodnio-Południowo-Centralny",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "region": "Środkowy Zachód",
+      "division": "Wschodni Północny Centralny",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "region": "Środkowy Zachód",
+      "division": "Zachodni Północny Centralny",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "region": "Południe",
+      "division": "Wschodni Południowy Centralny",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "region": "Środkowy Zachód",
+      "division": "Zachodni Północny Centralny",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "region": "Zachód",
+      "division": "Górski",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "region": "Środkowy Zachód",
+      "division": "Zachodni Północny Centralny",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "region": "Zachód",
+      "division": "Górski",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "region": "Północny Wschód",
+      "division": "Środkowoatlantycki",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Nowy Meksyk",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "region": "Zachód",
+      "division": "Górski",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Nowy Jork",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "region": "Północny Wschód",
+      "division": "Środkowoatlantycki",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Karolina Północna",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "region": "Południe",
+      "division": "Południowoatlantycki",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "Dakota Północna",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "region": "Środkowy Zachód",
+      "division": "Zachodni Północny Centralny",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "region": "Środkowy Zachód",
+      "division": "Wschodni Północny Centralny",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "region": "Południe",
+      "division": "Zachodni Południowy Centralny",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "region": "Zachód",
+      "division": "Pacyficzny",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "Pensylwania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "region": "Północny Wschód",
+      "division": "Środkowoatlantycki",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "Karolina Południowa",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "region": "Południe",
+      "division": "Południowoatlantycki",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Dakota Południowa",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "region": "Środkowy Zachód",
+      "division": "Zachodnie Północno-Środkowe",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "region": "Południe",
+      "division": "Wschodnie Południowo-Środkowe",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "Teksas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "region": "Południe",
+      "division": "Zachodnie Południowo-Środkowe",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "region": "Zachód",
+      "division": "Górskie",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "region": "Północny Wschód",
+      "division": "Nowa Anglia",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "Wirginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Waszyngton",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "region": "Zachód",
+      "division": "Pacyfik",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Wirginia Zachodnia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "region": "Południe",
+      "division": "Południowy Atlantyk",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "region": "Środkowy Zachód",
+      "division": "Wschodnie Północno-Środkowe",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "region": "Zachód",
+      "division": "Górskie",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane Stanów USA - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz 50 stanów USA: nazwa, stolica, populacja, region. Za darmo w Excel, CSV, PDF do analizy, edukacji i rozwoju.",
+    "title": "Kompleksowy Zbiór Danych Stanów USA",
+    "description": "Ten zbiór danych zawiera szczegółowe informacje dla wszystkich 50 stanów Stanów Zjednoczonych, w tym ich nazwy, skróty, stolice, regiony, podziały, populację, obszar i rok uzyskania statusu stanu. Stanowi cenne źródło do analiz geograficznych i demograficznych.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do kluczowych danych demograficznych i geograficznych dla wszystkich 50 stanów USA.",
+      "Przeglądaj nazwy stanów, stolice, regiony, populację i powierzchnię lądową.",
+      "Pobierz kompleksowe dane stanów USA gotowe do natychmiastowego użycia w różnych formatach.",
+      "Wykorzystaj dokładne informacje do projektów edukacyjnych, badawczych i rozwojowych."
+    ],
+    "keywords": [
+      "dane stanów usa za darmo",
+      "fakty usa excel",
+      "stolice stanów usa csv",
+      "dane populacji 50 stanów",
+      "regiony usa pdf",
+      "pobierz informacje stany usa"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do bazy danych SQL lub skryptów Python do analizy geograficznej lub tworzenia aplikacji z danymi na poziomie stanowym.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania stanów według regionu lub populacji oraz generowania raportów na temat trendów demograficznych i geograficznych w USA.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, prezentacji edukacyjnych lub szybkiego dostępu offline do faktów i danych o stanach USA.",
+      "Analizuj historię stanowości USA, zmiany populacji i demografię regionalną w projektach badawczych lub akademickich."
+    ]
+  },
+  "record_count": 50,
+  "title": "Kompleksowy Zbiór Danych Stanów USA"
+}

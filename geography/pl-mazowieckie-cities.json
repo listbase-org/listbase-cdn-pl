@@ -1,0 +1,906 @@
+{
+  "id": "pl-mazowieckie-cities",
+  "name": "Województwo mazowieckie — miasta",
+  "title": "Województwo mazowieckie — miasta",
+  "description": "Lista miast w województwie mazowieckim (województwo mazowieckie) — 84 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the mazowieckie voivodeship — 84 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 346,
+      "name": "Białobrzegi",
+      "slug": "bialobrzegi",
+      "name_locative": "Białobrzegach",
+      "county_id": 118,
+      "county_name": "białobrzeski",
+      "latitude": 51.6482305,
+      "longitude": 20.9497458
+    },
+    {
+      "city_id": 427,
+      "name": "Bieżuń",
+      "slug": "biezun",
+      "name_locative": "Bieżuniu",
+      "county_id": 154,
+      "county_name": "żyrardowski",
+      "latitude": 52.9617996,
+      "longitude": 19.8899936
+    },
+    {
+      "city_id": 382,
+      "name": "Brok",
+      "slug": "brok",
+      "name_locative": "Broku",
+      "county_id": 133,
+      "county_name": "ostrowski",
+      "latitude": 52.6989287,
+      "longitude": 21.8601815
+    },
+    {
+      "city_id": 399,
+      "name": "Brwinów",
+      "slug": "brwinow",
+      "name_locative": "Brwinowie",
+      "county_id": 138,
+      "county_name": "pruszkowski",
+      "latitude": 52.1425551,
+      "longitude": 20.7170701
+    },
+    {
+      "city_id": 413,
+      "name": "Błonie",
+      "slug": "blonie",
+      "name_locative": "Błoniu",
+      "county_id": 149,
+      "county_name": "węgrowski",
+      "latitude": 52.1946065,
+      "longitude": 20.6169694
+    },
+    {
+      "city_id": 401,
+      "name": "Chorzele",
+      "slug": "chorzele",
+      "name_locative": "Chorzelach",
+      "county_id": 139,
+      "county_name": "przasnyski",
+      "latitude": 53.2610476,
+      "longitude": 20.8978631
+    },
+    {
+      "city_id": 348,
+      "name": "Ciechanów",
+      "slug": "ciechanow",
+      "name_locative": "Ciechanowie",
+      "county_id": 119,
+      "county_name": "ciechanowski",
+      "latitude": 52.8712044,
+      "longitude": 20.60624592
+    },
+    {
+      "city_id": 395,
+      "name": "Czerwińsk nad Wisłą",
+      "slug": "czerwinsk-nad-wisla",
+      "name_locative": "Czerwińsku nad Wisłą",
+      "county_id": 137,
+      "county_name": "płoński",
+      "latitude": 52.3968191,
+      "longitude": 20.3096485
+    },
+    {
+      "city_id": 390,
+      "name": "Drobin",
+      "slug": "drobin",
+      "name_locative": "Drobinie",
+      "county_id": 136,
+      "county_name": "płocki",
+      "latitude": 52.7377981,
+      "longitude": 19.9893151
+    },
+    {
+      "city_id": 350,
+      "name": "Garwolin",
+      "slug": "garwolin",
+      "name_locative": "Garwolinie",
+      "county_id": 120,
+      "county_name": "garwoliński",
+      "latitude": 51.8958048,
+      "longitude": 21.62106475
+    },
+    {
+      "city_id": 349,
+      "name": "Glinojeck",
+      "slug": "glinojeck",
+      "name_locative": "Glinojecku",
+      "county_id": 119,
+      "county_name": "ciechanowski",
+      "latitude": 52.819174,
+      "longitude": 20.2862655
+    },
+    {
+      "city_id": 354,
+      "name": "Gostynin",
+      "slug": "gostynin",
+      "name_locative": "Gostyninie",
+      "county_id": 121,
+      "county_name": "gostyniński",
+      "latitude": 52.4242453,
+      "longitude": 19.46333842
+    },
+    {
+      "city_id": 358,
+      "name": "Grodzisk Mazowiecki",
+      "slug": "grodzisk-mazowiecki",
+      "name_locative": "Grodzisku Mazowieckim",
+      "county_id": 122,
+      "county_name": "grodziski",
+      "latitude": 52.1066223,
+      "longitude": 20.6313441
+    },
+    {
+      "city_id": 359,
+      "name": "Grójec",
+      "slug": "grojec",
+      "name_locative": "Grójcu",
+      "county_id": 123,
+      "county_name": "grójecki",
+      "latitude": 51.8655126,
+      "longitude": 20.8675017
+    },
+    {
+      "city_id": 386,
+      "name": "Góra Kalwaria",
+      "slug": "gora-kalwaria",
+      "name_locative": "Górze Kalwarii",
+      "county_id": 135,
+      "county_name": "piaseczyński",
+      "latitude": 51.9843765,
+      "longitude": 21.2140226
+    },
+    {
+      "city_id": 391,
+      "name": "Gąbin",
+      "slug": "gabin",
+      "name_locative": "Gąbinie",
+      "county_id": 136,
+      "county_name": "płocki",
+      "latitude": 52.39942,
+      "longitude": 19.73072
+    },
+    {
+      "city_id": 372,
+      "name": "Halinów",
+      "slug": "halinow",
+      "name_locative": "Halinowie",
+      "county_id": 129,
+      "county_name": "miński",
+      "latitude": 52.3581586,
+      "longitude": 19.4706484
+    },
+    {
+      "city_id": 405,
+      "name": "Iłża",
+      "slug": "ilza",
+      "name_locative": "Iłży",
+      "county_id": 142,
+      "county_name": "radomski",
+      "latitude": 51.1624174,
+      "longitude": 21.2374622
+    },
+    {
+      "city_id": 383,
+      "name": "Józefów",
+      "slug": "jozefow-13537",
+      "name_locative": "Józefowie",
+      "county_id": 134,
+      "county_name": "otwocki",
+      "latitude": 52.12849335,
+      "longitude": 21.21556779
+    },
+    {
+      "city_id": 385,
+      "name": "Karczew",
+      "slug": "karczew",
+      "name_locative": "Karczewie",
+      "county_id": 134,
+      "county_name": "otwocki",
+      "latitude": 52.0782795,
+      "longitude": 21.2508068
+    },
+    {
+      "city_id": 373,
+      "name": "Kałuszyn",
+      "slug": "kaluszyn",
+      "name_locative": "Kałuszynie",
+      "county_id": 129,
+      "county_name": "miński",
+      "latitude": 52.2082344,
+      "longitude": 21.8133341
+    },
+    {
+      "city_id": 418,
+      "name": "Kobyłka",
+      "slug": "kobylka",
+      "name_locative": "Kobyłce",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.33997115,
+      "longitude": 21.19054415
+    },
+    {
+      "city_id": 387,
+      "name": "Konstancin-Jeziorna",
+      "slug": "konstancin-jeziorna",
+      "name_locative": "Konstancinie-Jeziornie",
+      "county_id": 135,
+      "county_name": "piaseczyński",
+      "latitude": 52.0834787,
+      "longitude": 21.1208073
+    },
+    {
+      "city_id": 411,
+      "name": "Kosów Lacki",
+      "slug": "kosow-lacki",
+      "name_locative": "Kosowie Lackim",
+      "county_id": 146,
+      "county_name": "sokołowski",
+      "latitude": 52.5960805,
+      "longitude": 22.1471764
+    },
+    {
+      "city_id": 363,
+      "name": "Kozienice",
+      "slug": "kozienice",
+      "name_locative": "Kozienicach",
+      "county_id": 124,
+      "county_name": "kozienicki",
+      "latitude": 51.5849678,
+      "longitude": 21.549883
+    },
+    {
+      "city_id": 364,
+      "name": "Legionowo",
+      "slug": "legionowo",
+      "name_locative": "Legionowie",
+      "county_id": 125,
+      "county_name": "legionowski",
+      "latitude": 52.4048356,
+      "longitude": 20.93314657
+    },
+    {
+      "city_id": 366,
+      "name": "Lipsko",
+      "slug": "lipsko",
+      "name_locative": "Lipsku",
+      "county_id": 126,
+      "county_name": "lipski",
+      "latitude": 51.158513,
+      "longitude": 21.6490099
+    },
+    {
+      "city_id": 428,
+      "name": "Lubowidz",
+      "slug": "lubowidz",
+      "name_locative": "Lubowidzu",
+      "county_id": 154,
+      "county_name": "żyrardowski",
+      "latitude": 53.1216748,
+      "longitude": 19.8407986
+    },
+    {
+      "city_id": 369,
+      "name": "Maków Mazowiecki",
+      "slug": "makow-mazowiecki",
+      "name_locative": "Makowie Mazowieckim",
+      "county_id": 128,
+      "county_name": "makowski",
+      "latitude": 52.8620544,
+      "longitude": 21.09235243
+    },
+    {
+      "city_id": 419,
+      "name": "Marki",
+      "slug": "marki",
+      "name_locative": "Markach",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.3363752,
+      "longitude": 21.12077876
+    },
+    {
+      "city_id": 356,
+      "name": "Milanówek",
+      "slug": "milanowek",
+      "name_locative": "Milanówku",
+      "county_id": 122,
+      "county_name": "grodziski",
+      "latitude": 52.1237468,
+      "longitude": 20.66934426
+    },
+    {
+      "city_id": 371,
+      "name": "Mińsk Mazowiecki",
+      "slug": "minsk-mazowiecki",
+      "name_locative": "Mińsku Mazowieckim",
+      "county_id": 129,
+      "county_name": "miński",
+      "latitude": 52.17959585,
+      "longitude": 21.56945595
+    },
+    {
+      "city_id": 360,
+      "name": "Mogielnica",
+      "slug": "mogielnica",
+      "name_locative": "Mogielnicy",
+      "county_id": 123,
+      "county_name": "grójecki",
+      "latitude": 51.6929526,
+      "longitude": 20.723371
+    },
+    {
+      "city_id": 407,
+      "name": "Mordy",
+      "slug": "mordy",
+      "name_locative": "Mordach",
+      "county_id": 143,
+      "county_name": "siedlecki",
+      "latitude": 52.2106634,
+      "longitude": 22.5154232
+    },
+    {
+      "city_id": 374,
+      "name": "Mrozy",
+      "slug": "mrozy",
+      "name_locative": "Mrozach",
+      "county_id": 129,
+      "county_name": "miński",
+      "latitude": 52.1655506,
+      "longitude": 21.8001682
+    },
+    {
+      "city_id": 380,
+      "name": "Myszyniec",
+      "slug": "myszyniec",
+      "name_locative": "Myszyńcu",
+      "county_id": 132,
+      "county_name": "ostrołęcki",
+      "latitude": 53.3831962,
+      "longitude": 21.3420723
+    },
+    {
+      "city_id": 376,
+      "name": "Mława",
+      "slug": "mlawa",
+      "name_locative": "Mławie",
+      "county_id": 130,
+      "county_name": "mławski",
+      "latitude": 53.13419145,
+      "longitude": 20.36288299
+    },
+    {
+      "city_id": 378,
+      "name": "Nasielsk",
+      "slug": "nasielsk",
+      "name_locative": "Nasielsku",
+      "county_id": 131,
+      "county_name": "nowodworski",
+      "latitude": 52.5867531,
+      "longitude": 20.8130115
+    },
+    {
+      "city_id": 361,
+      "name": "Nowe Miasto nad Pilicą",
+      "slug": "nowe-miasto-nad-pilica",
+      "name_locative": "Nowym Mieście nad Pilicą",
+      "county_id": 123,
+      "county_name": "grójecki",
+      "latitude": 51.616692,
+      "longitude": 20.5796171
+    },
+    {
+      "city_id": 377,
+      "name": "Nowy Dwór Mazowiecki",
+      "slug": "nowy-dwor-mazowiecki",
+      "name_locative": "Nowym Dworze Mazowieckim",
+      "county_id": 131,
+      "county_name": "nowodworski",
+      "latitude": 52.43417575,
+      "longitude": 20.70611042
+    },
+    {
+      "city_id": 381,
+      "name": "Ostrów Mazowiecka",
+      "slug": "ostrow-mazowiecka",
+      "name_locative": "Ostrowi Mazowieckiej",
+      "county_id": 133,
+      "county_name": "ostrowski",
+      "latitude": 52.8071068,
+      "longitude": 21.87963793
+    },
+    {
+      "city_id": 384,
+      "name": "Otwock",
+      "slug": "otwock",
+      "name_locative": "Otwocku",
+      "county_id": 134,
+      "county_name": "otwocki",
+      "latitude": 52.1161661,
+      "longitude": 21.29345896
+    },
+    {
+      "city_id": 415,
+      "name": "Ożarów Mazowiecki",
+      "slug": "ozarow-mazowiecki",
+      "name_locative": "Ożarowie Mazowieckim",
+      "county_id": 149,
+      "county_name": "węgrowski",
+      "latitude": 52.2080548,
+      "longitude": 20.7941606
+    },
+    {
+      "city_id": 388,
+      "name": "Piaseczno",
+      "slug": "piaseczno",
+      "name_locative": "Piasecznie",
+      "county_id": 135,
+      "county_name": "piaseczyński",
+      "latitude": 52.0747377,
+      "longitude": 21.0270885
+    },
+    {
+      "city_id": 397,
+      "name": "Piastów",
+      "slug": "piastow",
+      "name_locative": "Piastowie",
+      "county_id": 138,
+      "county_name": "pruszkowski",
+      "latitude": 52.1855923,
+      "longitude": 20.84782321
+    },
+    {
+      "city_id": 352,
+      "name": "Pilawa",
+      "slug": "pilawa",
+      "name_locative": "Pilawie",
+      "county_id": 120,
+      "county_name": "garwoliński",
+      "latitude": 51.9595452,
+      "longitude": 21.5271524
+    },
+    {
+      "city_id": 404,
+      "name": "Pionki",
+      "slug": "pionki",
+      "name_locative": "Pionkach",
+      "county_id": 142,
+      "county_name": "radomski",
+      "latitude": 51.47179795,
+      "longitude": 21.45233277
+    },
+    {
+      "city_id": 357,
+      "name": "Podkowa Leśna",
+      "slug": "podkowa-lesna",
+      "name_locative": "Podkowie Leśnej",
+      "county_id": 122,
+      "county_name": "grodziski",
+      "latitude": 52.1113192,
+      "longitude": 20.76141131
+    },
+    {
+      "city_id": 398,
+      "name": "Pruszków",
+      "slug": "pruszkow",
+      "name_locative": "Pruszkowie",
+      "county_id": 138,
+      "county_name": "pruszkowski",
+      "latitude": 52.1719743,
+      "longitude": 20.80298569
+    },
+    {
+      "city_id": 400,
+      "name": "Przasnysz",
+      "slug": "przasnysz",
+      "name_locative": "Przasnyszu",
+      "county_id": 139,
+      "county_name": "przasnyski",
+      "latitude": 53.0182519,
+      "longitude": 20.8845669
+    },
+    {
+      "city_id": 402,
+      "name": "Przysucha",
+      "slug": "przysucha",
+      "name_locative": "Przysusze",
+      "county_id": 140,
+      "county_name": "przysuski",
+      "latitude": 51.3585043,
+      "longitude": 20.6285468
+    },
+    {
+      "city_id": 403,
+      "name": "Pułtusk",
+      "slug": "pultusk",
+      "name_locative": "Pułtusku",
+      "county_id": 141,
+      "county_name": "pułtuski",
+      "latitude": 52.7051109,
+      "longitude": 21.0840274
+    },
+    {
+      "city_id": 393,
+      "name": "Płońsk",
+      "slug": "plonsk",
+      "name_locative": "Płońsku",
+      "county_id": 137,
+      "county_name": "płoński",
+      "latitude": 52.6264153,
+      "longitude": 20.36427925
+    },
+    {
+      "city_id": 394,
+      "name": "Raciąż",
+      "slug": "raciaz",
+      "name_locative": "Raciążu",
+      "county_id": 137,
+      "county_name": "płoński",
+      "latitude": 52.7827927,
+      "longitude": 20.11964301
+    },
+    {
+      "city_id": 422,
+      "name": "Radzymin",
+      "slug": "radzymin",
+      "name_locative": "Radzyminie",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.4176347,
+      "longitude": 21.1807836
+    },
+    {
+      "city_id": 370,
+      "name": "Różan",
+      "slug": "rozan",
+      "name_locative": "Różanie",
+      "county_id": 128,
+      "county_name": "makowski",
+      "latitude": 52.8886251,
+      "longitude": 21.3965069
+    },
+    {
+      "city_id": 355,
+      "name": "Sanniki",
+      "slug": "sanniki",
+      "name_locative": "Sannikach",
+      "county_id": 121,
+      "county_name": "gostyniński",
+      "latitude": 52.33089,
+      "longitude": 19.86693
+    },
+    {
+      "city_id": 365,
+      "name": "Serock",
+      "slug": "serock",
+      "name_locative": "Serocku",
+      "county_id": 125,
+      "county_name": "legionowski",
+      "latitude": 52.5135193,
+      "longitude": 21.0731162
+    },
+    {
+      "city_id": 408,
+      "name": "Sierpc",
+      "slug": "sierpc",
+      "name_locative": "Sierpcu",
+      "county_id": 144,
+      "county_name": "sierpecki",
+      "latitude": 52.85317695,
+      "longitude": 19.66141405
+    },
+    {
+      "city_id": 406,
+      "name": "Skaryszew",
+      "slug": "skaryszew",
+      "name_locative": "Skaryszewie",
+      "county_id": 142,
+      "county_name": "radomski",
+      "latitude": 51.3105682,
+      "longitude": 21.2523856
+    },
+    {
+      "city_id": 409,
+      "name": "Sochaczew",
+      "slug": "sochaczew",
+      "name_locative": "Sochaczewie",
+      "county_id": 145,
+      "county_name": "sochaczewski",
+      "latitude": 52.2367219,
+      "longitude": 20.25712361
+    },
+    {
+      "city_id": 396,
+      "name": "Sochocin",
+      "slug": "sochocin",
+      "name_locative": "Sochocinie",
+      "county_id": 137,
+      "county_name": "płoński",
+      "latitude": 52.6898865,
+      "longitude": 20.4707992
+    },
+    {
+      "city_id": 410,
+      "name": "Sokołów Podlaski",
+      "slug": "sokolow-podlaski",
+      "name_locative": "Sokołowie Podlaskim",
+      "county_id": 146,
+      "county_name": "sokołowski",
+      "latitude": 52.41425845,
+      "longitude": 22.23993648
+    },
+    {
+      "city_id": 367,
+      "name": "Solec nad Wisłą",
+      "slug": "solec-nad-wisla",
+      "name_locative": "Solcu nad Wisłą",
+      "county_id": 126,
+      "county_name": "lipski",
+      "latitude": 51.1349963,
+      "longitude": 21.765376
+    },
+    {
+      "city_id": 375,
+      "name": "Sulejówek",
+      "slug": "sulejowek",
+      "name_locative": "Sulejówku",
+      "county_id": 129,
+      "county_name": "miński",
+      "latitude": 52.2467992,
+      "longitude": 21.282523
+    },
+    {
+      "city_id": 412,
+      "name": "Szydłowiec",
+      "slug": "szydlowiec",
+      "name_locative": "Szydłowcu",
+      "county_id": 147,
+      "county_name": "szydłowiecki",
+      "latitude": 51.2238922,
+      "longitude": 20.8575141
+    },
+    {
+      "city_id": 389,
+      "name": "Tarczyn",
+      "slug": "tarczyn",
+      "name_locative": "Tarczynie",
+      "county_id": 135,
+      "county_name": "piaseczyński",
+      "latitude": 51.9802935,
+      "longitude": 20.8339613
+    },
+    {
+      "city_id": 423,
+      "name": "Tłuszcz",
+      "slug": "tluszcz",
+      "name_locative": "Tłuszczu",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.4301697,
+      "longitude": 21.4355074
+    },
+    {
+      "city_id": 362,
+      "name": "Warka",
+      "slug": "warka",
+      "name_locative": "Warce",
+      "county_id": 123,
+      "county_name": "grójecki",
+      "latitude": 51.7850969,
+      "longitude": 21.1833835
+    },
+    {
+      "city_id": 424,
+      "name": "Wołomin",
+      "slug": "wolomin",
+      "name_locative": "Wołominie",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.3468689,
+      "longitude": 21.2420179
+    },
+    {
+      "city_id": 425,
+      "name": "Wyszków",
+      "slug": "wyszkow",
+      "name_locative": "Wyszkowie",
+      "county_id": 152,
+      "county_name": "zwoleński",
+      "latitude": 52.5928035,
+      "longitude": 21.4584581
+    },
+    {
+      "city_id": 392,
+      "name": "Wyszogród",
+      "slug": "wyszogrod",
+      "name_locative": "Wyszogrodzie",
+      "county_id": 136,
+      "county_name": "płocki",
+      "latitude": 52.3883717,
+      "longitude": 20.1913084
+    },
+    {
+      "city_id": 347,
+      "name": "Wyśmierzyce",
+      "slug": "wysmierzyce",
+      "name_locative": "Wyśmierzycach",
+      "county_id": 118,
+      "county_name": "białobrzeski",
+      "latitude": 51.6251076,
+      "longitude": 20.8119331
+    },
+    {
+      "city_id": 416,
+      "name": "Węgrów",
+      "slug": "wegrow",
+      "name_locative": "Węgrowie",
+      "county_id": 150,
+      "county_name": "wołomiński",
+      "latitude": 52.4007333,
+      "longitude": 22.04646418
+    },
+    {
+      "city_id": 379,
+      "name": "Zakroczym",
+      "slug": "zakroczym",
+      "name_locative": "Zakroczymiu",
+      "county_id": 131,
+      "county_name": "nowodworski",
+      "latitude": 52.4333534,
+      "longitude": 20.6116771
+    },
+    {
+      "city_id": 421,
+      "name": "Zielonka",
+      "slug": "zielonka",
+      "name_locative": "Zielonce",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.310847,
+      "longitude": 21.1523199
+    },
+    {
+      "city_id": 426,
+      "name": "Zwoleń",
+      "slug": "zwolen",
+      "name_locative": "Zwoleniu",
+      "county_id": 153,
+      "county_name": "żuromiński",
+      "latitude": 52.4313708,
+      "longitude": 19.555107
+    },
+    {
+      "city_id": 420,
+      "name": "Ząbki",
+      "slug": "zabki",
+      "name_locative": "Ząbkach",
+      "county_id": 151,
+      "county_name": "wyszkowski",
+      "latitude": 52.29233345,
+      "longitude": 21.11469988
+    },
+    {
+      "city_id": 351,
+      "name": "Łaskarzew",
+      "slug": "laskarzew",
+      "name_locative": "Łaskarzewie",
+      "county_id": 120,
+      "county_name": "garwoliński",
+      "latitude": 51.78552615,
+      "longitude": 21.60246906
+    },
+    {
+      "city_id": 417,
+      "name": "Łochów",
+      "slug": "lochow",
+      "name_locative": "Łochowie",
+      "county_id": 150,
+      "county_name": "wołomiński",
+      "latitude": 52.53042,
+      "longitude": 21.68528
+    },
+    {
+      "city_id": 414,
+      "name": "Łomianki",
+      "slug": "lomianki",
+      "name_locative": "Łomiankach",
+      "county_id": 149,
+      "county_name": "węgrowski",
+      "latitude": 52.3355273,
+      "longitude": 20.895012
+    },
+    {
+      "city_id": 368,
+      "name": "Łosice",
+      "slug": "losice",
+      "name_locative": "Łosicach",
+      "county_id": 127,
+      "county_name": "łosicki",
+      "latitude": 52.2115134,
+      "longitude": 22.717294
+    },
+    {
+      "city_id": 353,
+      "name": "Żelechów",
+      "slug": "zelechow",
+      "name_locative": "Żelechowie",
+      "county_id": 120,
+      "county_name": "garwoliński",
+      "latitude": 51.8096724,
+      "longitude": 21.895505
+    },
+    {
+      "city_id": 429,
+      "name": "Żuromin",
+      "slug": "zuromin",
+      "name_locative": "Żurominie",
+      "county_id": 154,
+      "county_name": "żyrardowski",
+      "latitude": 53.0671703,
+      "longitude": 19.9078353
+    }
+  ],
+  "meta": {
+    "title": "Województwo mazowieckie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie mazowieckim (województwo mazowieckie) — 84 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the mazowieckie voivodeship — 84 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 84 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo mazowieckie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo mazowieckie — miasta — 84 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 84 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

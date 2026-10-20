@@ -1,0 +1,79 @@
+{
+  "id": "pl-jednostki-miary-torque",
+  "name": "Jednostki miary — kategoria 'torque' (2)",
+  "title": "Jednostki miary — kategoria 'torque' (2)",
+  "description": "Jednostki miary kategorii 'torque' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "kategoria": "torque",
+      "nazwa": "niutonometry",
+      "skrot": "N⋅m",
+      "forma_waska": "N⋅m",
+      "wzorzec": "{0} niutonometra"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "kategoria": "torque",
+      "nazwa": "stopofunty",
+      "skrot": "lbf⋅ft",
+      "forma_waska": "lbf⋅ft",
+      "wzorzec": "{0} stopofunta"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'torque' (2) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'torque' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 2 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'torque' (2) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'torque' (2) — 2 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 2 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

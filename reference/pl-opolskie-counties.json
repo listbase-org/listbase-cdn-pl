@@ -1,0 +1,96 @@
+{
+  "id": "pl-opolskie-counties",
+  "name": "Województwo opolskie — powiaty",
+  "title": "Województwo opolskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie opolskim (województwo opolskie) — 11 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the opolskie voivodeship — 11 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 155,
+      "name": "brzeski",
+      "slug": "brzeski"
+    },
+    {
+      "county_id": 156,
+      "name": "głubczycki",
+      "slug": "glubczycki"
+    },
+    {
+      "county_id": 158,
+      "name": "kluczborski",
+      "slug": "kluczborski"
+    },
+    {
+      "county_id": 159,
+      "name": "krapkowicki",
+      "slug": "krapkowicki"
+    },
+    {
+      "county_id": 157,
+      "name": "kędzierzyńsko-kozielski",
+      "slug": "kedzierzynsko-kozielski"
+    },
+    {
+      "county_id": 160,
+      "name": "namysłowski",
+      "slug": "namyslowski"
+    },
+    {
+      "county_id": 161,
+      "name": "nyski",
+      "slug": "nyski"
+    },
+    {
+      "county_id": 162,
+      "name": "oleski",
+      "slug": "oleski"
+    },
+    {
+      "county_id": 163,
+      "name": "opolski",
+      "slug": "opolski"
+    },
+    {
+      "county_id": 164,
+      "name": "prudnicki",
+      "slug": "prudnicki"
+    },
+    {
+      "county_id": 165,
+      "name": "strzelecki",
+      "slug": "strzelecki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo opolskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie opolskim (województwo opolskie) — 11 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the opolskie voivodeship — 11 entries. Excludes city-counties (see pl-city-counties). Zawiera 11 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo opolskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo opolskie — powiaty — 11 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 11 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": "science-planet-data",
+  "name": "Zestaw Danych Planet i Ciał Niebieskich Układu Słonecznego",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "order_from_sun",
+      "label": "Order from Sun",
+      "type": "number"
+    },
+    {
+      "key": "mass_kg",
+      "label": "Mass (kg)",
+      "type": "string"
+    },
+    {
+      "key": "mass_earth",
+      "label": "Mass (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_km",
+      "label": "Diameter (km)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_earth",
+      "label": "Diameter (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "distance_from_sun_km",
+      "label": "Distance from Sun (km)",
+      "type": "string"
+    },
+    {
+      "key": "distance_from_sun_au",
+      "label": "Distance from Sun (AU)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_days",
+      "label": "Orbital Period (days)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_years",
+      "label": "Orbital Period (years)",
+      "type": "number"
+    },
+    {
+      "key": "rotation_period_hours",
+      "label": "Rotation Period (hours)",
+      "type": "number"
+    },
+    {
+      "key": "moons",
+      "label": "Number of Moons",
+      "type": "number"
+    },
+    {
+      "key": "rings",
+      "label": "Has Rings",
+      "type": "string"
+    },
+    {
+      "key": "surface_gravity_ms2",
+      "label": "Surface Gravity (m/s²)",
+      "type": "number"
+    },
+    {
+      "key": "avg_temperature_c",
+      "label": "Avg Temperature (°C)",
+      "type": "number"
+    },
+    {
+      "key": "atmosphere",
+      "label": "Atmosphere (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Merkury",
+      "symbol": "☿",
+      "type": "Typu ziemskiego",
+      "order_from_sun": 1,
+      "mass_kg": "3.30 × 10²³",
+      "mass_earth": 0.055,
+      "diameter_km": 4879,
+      "diameter_earth": 0.383,
+      "distance_from_sun_km": "57.9 × 10⁶",
+      "distance_from_sun_au": 0.39,
+      "orbital_period_days": 88,
+      "orbital_period_years": 0.24,
+      "rotation_period_hours": 1407.6,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 3.7,
+      "avg_temperature_c": 167,
+      "atmosphere": "Minimalna (egzosfera)"
+    },
+    {
+      "name": "Wenus",
+      "symbol": "♀",
+      "type": "Typu ziemskiego",
+      "order_from_sun": 2,
+      "mass_kg": "4.87 × 10²⁴",
+      "mass_earth": 0.815,
+      "diameter_km": 12104,
+      "diameter_earth": 0.949,
+      "distance_from_sun_km": "108.2 × 10⁶",
+      "distance_from_sun_au": 0.72,
+      "orbital_period_days": 225,
+      "orbital_period_years": 0.62,
+      "rotation_period_hours": -5832.5,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": 464,
+      "atmosphere": "CO₂, N₂ (gęsta, zbita)"
+    },
+    {
+      "name": "Ziemia",
+      "symbol": "⊕",
+      "type": "Typu ziemskiego",
+      "order_from_sun": 3,
+      "mass_kg": "5.97 × 10²⁴",
+      "mass_earth": 1,
+      "diameter_km": 12756,
+      "diameter_earth": 1,
+      "distance_from_sun_km": "149.6 × 10⁶",
+      "distance_from_sun_au": 1,
+      "orbital_period_days": 365.25,
+      "orbital_period_years": 1,
+      "rotation_period_hours": 23.93,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 9.81,
+      "avg_temperature_c": 15,
+      "atmosphere": "N₂, O₂"
+    },
+    {
+      "name": "Mars",
+      "symbol": "♂",
+      "type": "Typu ziemskiego",
+      "order_from_sun": 4,
+      "mass_kg": "6.42 × 10²³",
+      "mass_earth": 0.107,
+      "diameter_km": 6792,
+      "diameter_earth": 0.532,
+      "distance_from_sun_km": "228.0 × 10⁶",
+      "distance_from_sun_au": 1.52,
+      "orbital_period_days": 687,
+      "orbital_period_years": 1.88,
+      "rotation_period_hours": 24.62,
+      "moons": 2,
+      "rings": "No",
+      "surface_gravity_ms2": 3.71,
+      "avg_temperature_c": -65,
+      "atmosphere": "CO₂, N₂, Ar (rzadka)"
+    },
+    {
+      "name": "Jowisz",
+      "symbol": "♃",
+      "type": "Gazowy olbrzym",
+      "order_from_sun": 5,
+      "mass_kg": "1.90 × 10²⁷",
+      "mass_earth": 317.8,
+      "diameter_km": 142984,
+      "diameter_earth": 11.21,
+      "distance_from_sun_km": "778.5 × 10⁶",
+      "distance_from_sun_au": 5.2,
+      "orbital_period_days": 4333,
+      "orbital_period_years": 11.86,
+      "rotation_period_hours": 9.93,
+      "moons": 95,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 24.79,
+      "avg_temperature_c": -110,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Saturn",
+      "symbol": "♄",
+      "type": "Gazowy olbrzym",
+      "order_from_sun": 6,
+      "mass_kg": "5.68 × 10²⁶",
+      "mass_earth": 95.2,
+      "diameter_km": 120536,
+      "diameter_earth": 9.45,
+      "distance_from_sun_km": "1432 × 10⁶",
+      "distance_from_sun_au": 9.58,
+      "orbital_period_days": 10759,
+      "orbital_period_years": 29.46,
+      "rotation_period_hours": 10.66,
+      "moons": 146,
+      "rings": "Yes (prominent)",
+      "surface_gravity_ms2": 10.44,
+      "avg_temperature_c": -140,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Uran",
+      "symbol": "⛢",
+      "type": "Lodowy olbrzym",
+      "order_from_sun": 7,
+      "mass_kg": "8.68 × 10²⁵",
+      "mass_earth": 14.5,
+      "diameter_km": 51118,
+      "diameter_earth": 4.01,
+      "distance_from_sun_km": "2867 × 10⁶",
+      "distance_from_sun_au": 19.18,
+      "orbital_period_days": 30687,
+      "orbital_period_years": 84.01,
+      "rotation_period_hours": -17.24,
+      "moons": 28,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": -195,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Neptun",
+      "symbol": "♆",
+      "type": "Lodowy olbrzym",
+      "order_from_sun": 8,
+      "mass_kg": "1.02 × 10²⁶",
+      "mass_earth": 17.1,
+      "diameter_km": 49528,
+      "diameter_earth": 3.88,
+      "distance_from_sun_km": "4515 × 10⁶",
+      "distance_from_sun_au": 30.07,
+      "orbital_period_days": 60190,
+      "orbital_period_years": 164.8,
+      "rotation_period_hours": 16.11,
+      "moons": 16,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 11.15,
+      "avg_temperature_c": -200,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Pluton",
+      "symbol": "♇",
+      "type": "Planeta karłowata",
+      "order_from_sun": 9,
+      "mass_kg": "1.30 × 10²²",
+      "mass_earth": 0.002,
+      "diameter_km": 2377,
+      "diameter_earth": 0.186,
+      "distance_from_sun_km": "5906 × 10⁶",
+      "distance_from_sun_au": 39.48,
+      "orbital_period_days": 90560,
+      "orbital_period_years": 248,
+      "rotation_period_hours": -153.3,
+      "moons": 5,
+      "rings": "No",
+      "surface_gravity_ms2": 0.62,
+      "avg_temperature_c": -230,
+      "atmosphere": "N₂, CH₄, CO (rzadka)"
+    },
+    {
+      "name": "Ceres",
+      "symbol": "⚳",
+      "type": "Planeta karłowata",
+      "order_from_sun": null,
+      "mass_kg": "9.38 × 10²⁰",
+      "mass_earth": 0.00016,
+      "diameter_km": 940,
+      "diameter_earth": 0.074,
+      "distance_from_sun_km": "414 × 10⁶",
+      "distance_from_sun_au": 2.77,
+      "orbital_period_days": 1682,
+      "orbital_period_years": 4.6,
+      "rotation_period_hours": 9.07,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 0.27,
+      "avg_temperature_c": -105,
+      "atmosphere": "Minimalna"
+    },
+    {
+      "name": "Eris",
+      "symbol": "⯰",
+      "type": "Planeta karłowata",
+      "order_from_sun": null,
+      "mass_kg": "1.66 × 10²²",
+      "mass_earth": 0.0028,
+      "diameter_km": 2326,
+      "diameter_earth": 0.182,
+      "distance_from_sun_km": "10120 × 10⁶",
+      "distance_from_sun_au": 67.67,
+      "orbital_period_days": 203830,
+      "orbital_period_years": 558,
+      "rotation_period_hours": 25.9,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 0.82,
+      "avg_temperature_c": -243,
+      "atmosphere": "Minimalna"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane Planet Układu Słonecznego - Darmowe Pobranie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie kompleksowe dane o 11 ciałach niebieskich Układu Słonecznego. Zawiera masę, średnicę, okresy orbitalne, księżyce, atmosferę. Dostępne w Excelu, CSV i PDF.",
+    "title": "Zestaw Danych Planet i Ciał Niebieskich Układu Słonecznego",
+    "description": "Ten zestaw danych oferuje kompleksowe charakterystyki fizyczne i orbitalne dla 11 ciał niebieskich w naszym Układzie Słonecznym. Obejmuje główne planety i planety karłowate, dostarczając szczegółów na temat masy, średnicy, odległości od Słońca, okresów orbitalnych, liczby księżyców i składu atmosfery.",
+    "key_takeaways": [
+      "Dostęp do szczegółowych danych fizycznych i orbitalnych dla 11 ciał niebieskich Układu Słonecznego.",
+      "Analizuj metryki porównawcze, takie jak Masa (Ziemia=1) i Średnica (Ziemia=1), dla łatwej oceny.",
+      "Pobierz kluczowe fakty astronomiczne do projektów edukacyjnych, badawczych lub deweloperskich.",
+      "Wykorzystaj dane dotyczące składu atmosfery, temperatury i grawitacji powierzchniowej."
+    ],
+    "keywords": [
+      "dane planet układu słonecznego excel",
+      "właściwości planet csv",
+      "statystyki ciał niebieskich pdf",
+      "dane mechaniki orbitalnej",
+      "pobierz fakty o planetach",
+      "darmowy zestaw danych astronomicznych"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub użyj go ze skryptami Pythona do symulacji astrofizycznych i projektów modelowania danych.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania danych dla konkretnych planet i generowania kompleksowych raportów na temat charakterystyki ciał niebieskich.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, na warsztatach edukacyjnych lub jako podręczny przewodnik offline dla miłośników astronomii.",
+      "Wykorzystaj ten zestaw danych do tworzenia aplikacji edukacyjnych, zapełniania stron internetowych o tematyce kosmicznej lub wzbogacania badań naukowych nad planetami."
+    ]
+  },
+  "record_count": 11,
+  "title": "Zestaw Danych Planet i Ciał Niebieskich Układu Słonecznego"
+}

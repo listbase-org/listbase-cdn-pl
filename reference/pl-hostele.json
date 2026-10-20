@@ -1,0 +1,5511 @@
+{
+  "id": "pl-hostele",
+  "name": "Polska — hostele",
+  "title": "Polska — hostele",
+  "description": "Hostele w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1094,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"14-stka\" MiniHotell",
+      "latitude": 52.418166,
+      "longitude": 16.780385
+    },
+    {
+      "name": "11 Dębów",
+      "latitude": 54.154213,
+      "longitude": 15.401083
+    },
+    {
+      "name": "3 Bros' Hostel",
+      "latitude": 49.749703,
+      "longitude": 18.632414
+    },
+    {
+      "name": "3City Hostel",
+      "latitude": 54.352148,
+      "longitude": 18.647068
+    },
+    {
+      "name": "5 Stars Luxury Hostel",
+      "latitude": 51.11098,
+      "longitude": 17.023949
+    },
+    {
+      "name": "7 Dziewczyn",
+      "latitude": 54.120942,
+      "longitude": 15.386357
+    },
+    {
+      "name": "7 Hostel",
+      "latitude": 52.412574,
+      "longitude": 17.08834
+    },
+    {
+      "name": "999 Aparthostel",
+      "latitude": 50.045212,
+      "longitude": 19.926329
+    },
+    {
+      "name": "A&O Hostel Warszawa Wola",
+      "latitude": 52.229415,
+      "longitude": 20.973241
+    },
+    {
+      "name": "AB Hostel",
+      "latitude": 52.223533,
+      "longitude": 20.989458
+    },
+    {
+      "name": "ABI Noclegi",
+      "latitude": 50.25793,
+      "longitude": 19.051672
+    },
+    {
+      "name": "Absolwent",
+      "latitude": 50.336687,
+      "longitude": 16.388183
+    },
+    {
+      "name": "Absynt",
+      "latitude": 51.109341,
+      "longitude": 17.025288
+    },
+    {
+      "name": "AdeoHostel",
+      "latitude": 53.114973,
+      "longitude": 23.170256
+    },
+    {
+      "name": "Aga",
+      "latitude": 52.239415,
+      "longitude": 21.023619
+    },
+    {
+      "name": "Agava Guest Rooms",
+      "latitude": 50.065328,
+      "longitude": 19.937315
+    },
+    {
+      "name": "Agro-Oaza",
+      "latitude": 50.836042,
+      "longitude": 17.485181
+    },
+    {
+      "name": "Agroturystyka",
+      "latitude": 50.756465,
+      "longitude": 23.764628
+    },
+    {
+      "name": "Agroturystyka",
+      "latitude": 50.793338,
+      "longitude": 20.445019
+    },
+    {
+      "name": "Agroturystyka \"Dom zaiezdny\"",
+      "latitude": 50.801836,
+      "longitude": 20.462314
+    },
+    {
+      "name": "Agroturystyka Agnieszka Miśkowicz",
+      "latitude": 49.604454,
+      "longitude": 21.523303
+    },
+    {
+      "name": "Agroturystyka Aneta Łapaj",
+      "latitude": 50.567772,
+      "longitude": 19.482078
+    },
+    {
+      "name": "Agroturystyka Czesława Faligowska",
+      "latitude": 52.866264,
+      "longitude": 18.716069
+    },
+    {
+      "name": "Agroturystyka Janina Haładus",
+      "latitude": 50.570644,
+      "longitude": 19.480526
+    },
+    {
+      "name": "Agroturystyka Jolinkowo",
+      "latitude": 49.708734,
+      "longitude": 21.257117
+    },
+    {
+      "name": "Agroturystyka Kalina",
+      "latitude": 53.350127,
+      "longitude": 16.111136
+    },
+    {
+      "name": "Agroturystyka Pod Rumakiem",
+      "latitude": 50.799767,
+      "longitude": 20.460254
+    },
+    {
+      "name": "Agroturystyka Pod Wiatrakiem",
+      "latitude": 52.646823,
+      "longitude": 23.442121
+    },
+    {
+      "name": "Agroturystyka Ruta",
+      "latitude": 52.909938,
+      "longitude": 23.792689
+    },
+    {
+      "name": "Agroturystyka Stokrotka",
+      "latitude": 50.759982,
+      "longitude": 23.76234
+    },
+    {
+      "name": "Agrowczasy Pod Lipą",
+      "latitude": 51.220519,
+      "longitude": 19.91065
+    },
+    {
+      "name": "Air Tel Home",
+      "latitude": 51.445885,
+      "longitude": 21.193319
+    },
+    {
+      "name": "Akademia Przygoda, Szumimłyn",
+      "latitude": 54.142013,
+      "longitude": 18.123616
+    },
+    {
+      "name": "Albatros",
+      "latitude": 54.587536,
+      "longitude": 16.875724
+    },
+    {
+      "name": "Albatros Medical Spa",
+      "latitude": 54.259791,
+      "longitude": 16.053118
+    },
+    {
+      "name": "Aleje28",
+      "latitude": 50.054883,
+      "longitude": 19.924095
+    },
+    {
+      "name": "Alex & Tsa",
+      "latitude": 50.066271,
+      "longitude": 19.954197
+    },
+    {
+      "name": "Alfa Marina",
+      "latitude": 52.31729,
+      "longitude": 17.550255
+    },
+    {
+      "name": "Alibaba",
+      "latitude": 54.214344,
+      "longitude": 15.771108
+    },
+    {
+      "name": "Alko",
+      "latitude": 50.037841,
+      "longitude": 22.004267
+    },
+    {
+      "name": "Alpina",
+      "latitude": 49.42266,
+      "longitude": 20.95018
+    },
+    {
+      "name": "Amber",
+      "latitude": 50.066768,
+      "longitude": 19.938302
+    },
+    {
+      "name": "Amelia",
+      "latitude": 54.204654,
+      "longitude": 15.714256
+    },
+    {
+      "name": "American House",
+      "latitude": 52.125734,
+      "longitude": 21.018879
+    },
+    {
+      "name": "Ametyst",
+      "latitude": 50.579266,
+      "longitude": 19.488396
+    },
+    {
+      "name": "Ametyst Hostel",
+      "latitude": 50.064049,
+      "longitude": 19.932046
+    },
+    {
+      "name": "Amicus",
+      "latitude": 52.267002,
+      "longitude": 20.983692
+    },
+    {
+      "name": "Anastazja",
+      "latitude": 50.362577,
+      "longitude": 20.886932
+    },
+    {
+      "name": "Angel",
+      "latitude": 53.009838,
+      "longitude": 18.603987
+    },
+    {
+      "name": "Annamarie",
+      "latitude": 53.427299,
+      "longitude": 14.554523
+    },
+    {
+      "name": "Antares",
+      "latitude": 50.328569,
+      "longitude": 19.161153
+    },
+    {
+      "name": "Apart Hostel",
+      "latitude": 52.369061,
+      "longitude": 16.936226
+    },
+    {
+      "name": "Apart Hostel Korolówka Mielnik",
+      "latitude": 52.334478,
+      "longitude": 23.039236
+    },
+    {
+      "name": "Apart Hostel Nazar",
+      "latitude": 50.074507,
+      "longitude": 19.917694
+    },
+    {
+      "name": "Apartament Leśny",
+      "latitude": 49.287883,
+      "longitude": 20.004607
+    },
+    {
+      "name": "Apartament Pod Wilczyncem",
+      "latitude": 50.283474,
+      "longitude": 16.852111
+    },
+    {
+      "name": "Apartamenty Galicja",
+      "latitude": 49.779788,
+      "longitude": 22.788211
+    },
+    {
+      "name": "Apartamenty InforesPark",
+      "latitude": 49.78705,
+      "longitude": 22.757737
+    },
+    {
+      "name": "Apartamenty na Mniszej",
+      "latitude": 49.78357,
+      "longitude": 22.773822
+    },
+    {
+      "name": "Apartamenty Nyskie",
+      "latitude": 51.156916,
+      "longitude": 14.995828
+    },
+    {
+      "name": "Apartamenty Przemyśl",
+      "latitude": 49.781819,
+      "longitude": 22.777201
+    },
+    {
+      "name": "Apartamenty Rejtana",
+      "latitude": 49.781157,
+      "longitude": 22.776343
+    },
+    {
+      "name": "Apartamenty Szmulson",
+      "latitude": 52.26011,
+      "longitude": 21.056457
+    },
+    {
+      "name": "Aparthostel",
+      "latitude": 49.688962,
+      "longitude": 21.756594
+    },
+    {
+      "name": "ApartHostel",
+      "latitude": 51.107884,
+      "longitude": 17.032128
+    },
+    {
+      "name": "ApartHostel",
+      "latitude": 51.108873,
+      "longitude": 17.03514
+    },
+    {
+      "name": "ApartHostel",
+      "latitude": 51.10902,
+      "longitude": 17.032055
+    },
+    {
+      "name": "ApartHostel",
+      "latitude": 51.110725,
+      "longitude": 17.03391
+    },
+    {
+      "name": "ApartHostel",
+      "latitude": 51.111255,
+      "longitude": 17.02581
+    },
+    {
+      "name": "Aparthotel",
+      "latitude": 50.679604,
+      "longitude": 21.750321
+    },
+    {
+      "name": "Apartmenty Maria",
+      "latitude": 49.684936,
+      "longitude": 19.188928
+    },
+    {
+      "name": "Arcus Premium Hostel",
+      "latitude": 52.284017,
+      "longitude": 20.909982
+    },
+    {
+      "name": "Ares Apartments",
+      "latitude": 49.78696,
+      "longitude": 22.784505
+    },
+    {
+      "name": "Arnika",
+      "latitude": 49.42107,
+      "longitude": 20.95148
+    },
+    {
+      "name": "ARS Hostel",
+      "latitude": 50.052278,
+      "longitude": 19.938927
+    },
+    {
+      "name": "Arsenał Kwatery",
+      "latitude": 52.645482,
+      "longitude": 19.085492
+    },
+    {
+      "name": "Art",
+      "latitude": 50.868948,
+      "longitude": 20.635177
+    },
+    {
+      "name": "Art Hostel",
+      "latitude": 50.056487,
+      "longitude": 19.947593
+    },
+    {
+      "name": "Art Hostel",
+      "latitude": 52.408982,
+      "longitude": 16.922306
+    },
+    {
+      "name": "Arte Hostel",
+      "latitude": 52.40927,
+      "longitude": 16.933083
+    },
+    {
+      "name": "Astoria",
+      "latitude": 54.029298,
+      "longitude": 14.767138
+    },
+    {
+      "name": "Atlantis Hostel",
+      "latitude": 50.054112,
+      "longitude": 19.942998
+    },
+    {
+      "name": "Au Room",
+      "latitude": 50.440026,
+      "longitude": 16.874881
+    },
+    {
+      "name": "Ave Łagiewniki",
+      "latitude": 50.019612,
+      "longitude": 19.940775
+    },
+    {
+      "name": "Awangarda",
+      "latitude": 52.403185,
+      "longitude": 16.930293
+    },
+    {
+      "name": "Axel",
+      "latitude": 51.754585,
+      "longitude": 19.428034
+    },
+    {
+      "name": "Azymut",
+      "latitude": 52.321496,
+      "longitude": 17.556169
+    },
+    {
+      "name": "Baba Hostel",
+      "latitude": 51.762505,
+      "longitude": 18.08508
+    },
+    {
+      "name": "Babel Hostel",
+      "latitude": 51.100322,
+      "longitude": 17.035735
+    },
+    {
+      "name": "Bacówka Jamna",
+      "latitude": 49.769847,
+      "longitude": 20.831402
+    },
+    {
+      "name": "Bacówka PTTK na Małym Stożku",
+      "latitude": 49.617305,
+      "longitude": 18.82863
+    },
+    {
+      "name": "Bacówka U Bucka",
+      "latitude": 49.543324,
+      "longitude": 20.228027
+    },
+    {
+      "name": "Bacówka u Harnasia",
+      "latitude": 49.794263,
+      "longitude": 19.640193
+    },
+    {
+      "name": "Baltic",
+      "latitude": 54.359431,
+      "longitude": 18.642676
+    },
+    {
+      "name": "Baltic Hostel",
+      "latitude": 54.343563,
+      "longitude": 18.642759
+    },
+    {
+      "name": "Balticus Hostel",
+      "latitude": 54.35762,
+      "longitude": 18.68274
+    },
+    {
+      "name": "Baszta Grodzka",
+      "latitude": 50.903582,
+      "longitude": 15.732015
+    },
+    {
+      "name": "Baza Harcerska ZHP Suwałki",
+      "latitude": 54.137458,
+      "longitude": 22.613481
+    },
+    {
+      "name": "Bałtyk Ośrodek Wczasowy",
+      "latitude": 54.313579,
+      "longitude": 16.205722
+    },
+    {
+      "name": "Beczkolandia. Akademia Przygoda",
+      "latitude": 54.138636,
+      "longitude": 18.160765
+    },
+    {
+      "name": "Bello ApartHostel",
+      "latitude": 52.228327,
+      "longitude": 21.013799
+    },
+    {
+      "name": "Bemma Apart",
+      "latitude": 51.113005,
+      "longitude": 17.03541
+    },
+    {
+      "name": "Bemma Hostel",
+      "latitude": 51.109776,
+      "longitude": 17.02623
+    },
+    {
+      "name": "Bezpieczna Woda",
+      "latitude": 52.468523,
+      "longitude": 16.792391
+    },
+    {
+      "name": "Biały Dworek",
+      "latitude": 52.875636,
+      "longitude": 18.703459
+    },
+    {
+      "name": "Bielpon 24h Noclegi",
+      "latitude": 49.783014,
+      "longitude": 22.843671
+    },
+    {
+      "name": "Bieszczadzki Zespół Placówek Szkolno-Wychowawczych Szkolne Schronisko Młodzierzowe w Ustrzykach Dolnych",
+      "latitude": 49.436775,
+      "longitude": 22.57674
+    },
+    {
+      "name": "Big City Hostel",
+      "latitude": 51.105207,
+      "longitude": 17.01226
+    },
+    {
+      "name": "Bike Hostel",
+      "latitude": 51.476195,
+      "longitude": 14.948393
+    },
+    {
+      "name": "Bimba",
+      "latitude": 52.43996,
+      "longitude": 16.913825
+    },
+    {
+      "name": "Blues Hostel",
+      "latitude": 52.21145,
+      "longitude": 18.254698
+    },
+    {
+      "name": "Boat Hostel Barka Basia",
+      "latitude": 50.047665,
+      "longitude": 19.949087
+    },
+    {
+      "name": "Bobrówka",
+      "latitude": 52.775239,
+      "longitude": 19.025703
+    },
+    {
+      "name": "Boogie ApartHouse",
+      "latitude": 51.112945,
+      "longitude": 17.030694
+    },
+    {
+      "name": "Boogie Hostel Deluxe",
+      "latitude": 51.111229,
+      "longitude": 17.027475
+    },
+    {
+      "name": "BotanikHostel",
+      "latitude": 52.420032,
+      "longitude": 16.874625
+    },
+    {
+      "name": "Boutique",
+      "latitude": 51.751563,
+      "longitude": 19.452739
+    },
+    {
+      "name": "BP Hostel",
+      "latitude": 54.506057,
+      "longitude": 18.554585
+    },
+    {
+      "name": "Brama",
+      "latitude": 50.064489,
+      "longitude": 19.941374
+    },
+    {
+      "name": "Bristol",
+      "latitude": 50.652354,
+      "longitude": 17.942586
+    },
+    {
+      "name": "Broadway",
+      "latitude": 53.462185,
+      "longitude": 14.786501
+    },
+    {
+      "name": "Bryza Ośrodek Wypoczynkowy",
+      "latitude": 54.310067,
+      "longitude": 16.201309
+    },
+    {
+      "name": "Bubble Hostel",
+      "latitude": 50.066355,
+      "longitude": 19.940347
+    },
+    {
+      "name": "Bursa",
+      "latitude": 50.266985,
+      "longitude": 19.576264
+    },
+    {
+      "name": "Bursa",
+      "latitude": 51.093879,
+      "longitude": 20.86676
+    },
+    {
+      "name": "Bursa Jagiellońska",
+      "latitude": 50.0395,
+      "longitude": 19.940935
+    },
+    {
+      "name": "Bursa Międzyszkolna nr 1",
+      "latitude": 50.729806,
+      "longitude": 23.250054
+    },
+    {
+      "name": "Bursa Międzyszkolna nr 1",
+      "latitude": 51.847711,
+      "longitude": 16.571616
+    },
+    {
+      "name": "Bursa Międzyszkolna nr 2",
+      "latitude": 50.713706,
+      "longitude": 23.22367
+    },
+    {
+      "name": "Bursa Międzyszkolna Nr.2",
+      "latitude": 54.183092,
+      "longitude": 15.577182
+    },
+    {
+      "name": "Bursa nr 1 w Olsztynie",
+      "latitude": 53.785365,
+      "longitude": 20.449746
+    },
+    {
+      "name": "Bursa nr 2 w Olsztynie",
+      "latitude": 53.78368,
+      "longitude": 20.453025
+    },
+    {
+      "name": "Bursa nr 3 w Olsztynie",
+      "latitude": 53.767129,
+      "longitude": 20.486374
+    },
+    {
+      "name": "Bursa Nr 4",
+      "latitude": 53.77328,
+      "longitude": 20.49173
+    },
+    {
+      "name": "Bursa szkolna",
+      "latitude": 50.356376,
+      "longitude": 20.021682
+    },
+    {
+      "name": "Bursa Szkolna",
+      "latitude": 50.689682,
+      "longitude": 21.742714
+    },
+    {
+      "name": "Bursa Szkolna",
+      "latitude": 50.946203,
+      "longitude": 21.386871
+    },
+    {
+      "name": "Bursa Szkolna",
+      "latitude": 51.37407,
+      "longitude": 20.283367
+    },
+    {
+      "name": "Bursa Szkolna",
+      "latitude": 51.37559,
+      "longitude": 20.29659
+    },
+    {
+      "name": "Bursa Towarzystwa Salezjańskiego",
+      "latitude": 53.420969,
+      "longitude": 14.503718
+    },
+    {
+      "name": "Bursa\"Hazema\"",
+      "latitude": 51.842656,
+      "longitude": 16.574005
+    },
+    {
+      "name": "Bursztyn",
+      "latitude": 53.437558,
+      "longitude": 14.534931
+    },
+    {
+      "name": "Butrans",
+      "latitude": 54.209874,
+      "longitude": 15.72764
+    },
+    {
+      "name": "Candy Apartments",
+      "latitude": 52.246792,
+      "longitude": 20.985063
+    },
+    {
+      "name": "Caritas",
+      "latitude": 50.746561,
+      "longitude": 16.406977
+    },
+    {
+      "name": "Cent Hostel",
+      "latitude": 51.248635,
+      "longitude": 22.55426
+    },
+    {
+      "name": "Centrum",
+      "latitude": 52.234775,
+      "longitude": 21.003006
+    },
+    {
+      "name": "Centrum Edukacji Ekologiczno-Turystycznej w Myczkowie",
+      "latitude": 49.381419,
+      "longitude": 22.40981
+    },
+    {
+      "name": "Centrum Hostel",
+      "latitude": 51.111716,
+      "longitude": 17.027761
+    },
+    {
+      "name": "Centrum Szkoleniowo-Konferencyjne",
+      "latitude": 52.179374,
+      "longitude": 21.148483
+    },
+    {
+      "name": "Centrum Turystyki i Kultury",
+      "latitude": 51.414883,
+      "longitude": 16.422629
+    },
+    {
+      "name": "Chata brata",
+      "latitude": 49.798399,
+      "longitude": 22.556707
+    },
+    {
+      "name": "Chata na przełęczy",
+      "latitude": 50.224952,
+      "longitude": 16.572102
+    },
+    {
+      "name": "Chata Zieleniecka",
+      "latitude": 50.338175,
+      "longitude": 16.388722
+    },
+    {
+      "name": "Chatka Ornitologa PTTK",
+      "latitude": 52.178799,
+      "longitude": 17.776113
+    },
+    {
+      "name": "Chatka Skalanka",
+      "latitude": 49.489788,
+      "longitude": 18.968518
+    },
+    {
+      "name": "Chatka SKPB Lublin",
+      "latitude": 49.506061,
+      "longitude": 21.734419
+    },
+    {
+      "name": "Chatka Włóczykija",
+      "latitude": 49.768479,
+      "longitude": 20.830198
+    },
+    {
+      "name": "Chałupa Chemików",
+      "latitude": 49.46999,
+      "longitude": 19.107699
+    },
+    {
+      "name": "Chill Out",
+      "latitude": 52.223932,
+      "longitude": 21.012259
+    },
+    {
+      "name": "Chilli hostel",
+      "latitude": 50.040165,
+      "longitude": 19.942179
+    },
+    {
+      "name": "Chilli Hostel",
+      "latitude": 51.101557,
+      "longitude": 17.026671
+    },
+    {
+      "name": "Chmielna 5",
+      "latitude": 52.232959,
+      "longitude": 21.018271
+    },
+    {
+      "name": "Ciepły Kąt",
+      "latitude": 50.047885,
+      "longitude": 20.058686
+    },
+    {
+      "name": "Cinema",
+      "latitude": 52.403261,
+      "longitude": 16.931437
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 50.069761,
+      "longitude": 19.928547
+    },
+    {
+      "name": "Cinnamon Hostel",
+      "latitude": 51.106762,
+      "longitude": 17.03486
+    },
+    {
+      "name": "City Central",
+      "latitude": 51.111556,
+      "longitude": 17.033498
+    },
+    {
+      "name": "City Express Hostel",
+      "latitude": 50.059531,
+      "longitude": 19.950491
+    },
+    {
+      "name": "City Hostel",
+      "latitude": 53.439126,
+      "longitude": 14.564039
+    },
+    {
+      "name": "Cityhostel Dom przy Rynku",
+      "latitude": 52.253534,
+      "longitude": 21.008832
+    },
+    {
+      "name": "Cloud Hostel",
+      "latitude": 52.258115,
+      "longitude": 21.058184
+    },
+    {
+      "name": "Coco",
+      "latitude": 52.225874,
+      "longitude": 20.995059
+    },
+    {
+      "name": "Colourful Hostel",
+      "latitude": 51.117696,
+      "longitude": 17.030699
+    },
+    {
+      "name": "ComfortExpress",
+      "latitude": 49.698417,
+      "longitude": 19.180441
+    },
+    {
+      "name": "Corner Hostel",
+      "latitude": 49.688912,
+      "longitude": 19.200602
+    },
+    {
+      "name": "Corner Hostel",
+      "latitude": 51.107656,
+      "longitude": 17.031885
+    },
+    {
+      "name": "Cracow",
+      "latitude": 50.060645,
+      "longitude": 19.937099
+    },
+    {
+      "name": "Cuma",
+      "latitude": 53.008899,
+      "longitude": 18.609372
+    },
+    {
+      "name": "Daga",
+      "latitude": 54.20996,
+      "longitude": 15.73288
+    },
+    {
+      "name": "Daniel Griffin Aparthotel",
+      "latitude": 50.057201,
+      "longitude": 19.944853
+    },
+    {
+      "name": "Danusia I",
+      "latitude": 53.256204,
+      "longitude": 19.796362
+    },
+    {
+      "name": "Danusia II",
+      "latitude": 53.25544,
+      "longitude": 19.791909
+    },
+    {
+      "name": "Dar Serca",
+      "latitude": 53.25725,
+      "longitude": 19.804676
+    },
+    {
+      "name": "Deja Vu",
+      "latitude": 52.242483,
+      "longitude": 21.017735
+    },
+    {
+      "name": "Delfin",
+      "latitude": 54.208329,
+      "longitude": 15.726379
+    },
+    {
+      "name": "Diana Ośrodek Wczasowy",
+      "latitude": 54.308045,
+      "longitude": 16.201306
+    },
+    {
+      "name": "Dimena",
+      "latitude": 54.211206,
+      "longitude": 15.732661
+    },
+    {
+      "name": "Diva",
+      "latitude": 52.407887,
+      "longitude": 16.931938
+    },
+    {
+      "name": "Dizzy Daisy",
+      "latitude": 50.070034,
+      "longitude": 19.938887
+    },
+    {
+      "name": "DJH Jugendherberge Görlitz \"Altstadt\"",
+      "latitude": 51.157136,
+      "longitude": 14.991966
+    },
+    {
+      "name": "Dniestrzanka",
+      "latitude": 49.422737,
+      "longitude": 20.959934
+    },
+    {
+      "name": "Dobranoc",
+      "latitude": 52.403384,
+      "longitude": 16.933385
+    },
+    {
+      "name": "Dom \"Kolping\"",
+      "latitude": 50.146823,
+      "longitude": 20.110281
+    },
+    {
+      "name": "Dom Anderssona",
+      "latitude": 53.770998,
+      "longitude": 20.470304
+    },
+    {
+      "name": "Dom Gości",
+      "latitude": 50.018587,
+      "longitude": 19.801506
+    },
+    {
+      "name": "Dom Gościnny Luk Luk",
+      "latitude": 54.439451,
+      "longitude": 18.558373
+    },
+    {
+      "name": "Dom Gościnny Radków",
+      "latitude": 50.504359,
+      "longitude": 16.40099
+    },
+    {
+      "name": "Dom Gościnny Wrocław",
+      "latitude": 51.143072,
+      "longitude": 16.904832
+    },
+    {
+      "name": "Dom krawca",
+      "latitude": 50.444742,
+      "longitude": 16.699292
+    },
+    {
+      "name": "Dom MaZURy Artur",
+      "latitude": 53.719019,
+      "longitude": 21.693722
+    },
+    {
+      "name": "Dom na Brogach",
+      "latitude": 50.082609,
+      "longitude": 19.963074
+    },
+    {
+      "name": "Dom Nauczyciela",
+      "latitude": 50.0185,
+      "longitude": 20.98247
+    },
+    {
+      "name": "Dom Pielgrzyma",
+      "latitude": 49.630318,
+      "longitude": 22.70706
+    },
+    {
+      "name": "Dom Pielgrzyma",
+      "latitude": 50.452389,
+      "longitude": 23.422344
+    },
+    {
+      "name": "Dom Pielgrzyma",
+      "latitude": 51.914658,
+      "longitude": 23.607692
+    },
+    {
+      "name": "Dom Pielgrzyma \"Nazaret\"",
+      "latitude": 50.489527,
+      "longitude": 16.457397
+    },
+    {
+      "name": "Dom pod Mareszką",
+      "latitude": 49.554551,
+      "longitude": 21.348491
+    },
+    {
+      "name": "Dom Rekolekcyjny Caritas",
+      "latitude": 51.11145,
+      "longitude": 15.582394
+    },
+    {
+      "name": "Dom rekolekcyjny św. Kaspra",
+      "latitude": 50.815644,
+      "longitude": 19.105626
+    },
+    {
+      "name": "Dom Sonata",
+      "latitude": 54.345358,
+      "longitude": 18.663019
+    },
+    {
+      "name": "Dom Studencki \"BS Kawęczyn\"",
+      "latitude": 52.27113,
+      "longitude": 21.123111
+    },
+    {
+      "name": "Dom Studencki Akropol",
+      "latitude": 50.069522,
+      "longitude": 19.9029
+    },
+    {
+      "name": "Dom Studencki Bydgoska",
+      "latitude": 50.070351,
+      "longitude": 19.910809
+    },
+    {
+      "name": "Dom Studencki Nawojka",
+      "latitude": 50.064984,
+      "longitude": 19.91838
+    },
+    {
+      "name": "Dom Studencki nr B-1",
+      "latitude": 50.070473,
+      "longitude": 19.909725
+    },
+    {
+      "name": "Dom Studenta \"Dziekanka\"",
+      "latitude": 52.243988,
+      "longitude": 21.015438
+    },
+    {
+      "name": "Dom Studenta Bulionik",
+      "latitude": 51.751443,
+      "longitude": 18.132071
+    },
+    {
+      "name": "Dom Studenta PWSZ",
+      "latitude": 52.882414,
+      "longitude": 20.603064
+    },
+    {
+      "name": "Dom Studenta WSZMiJO",
+      "latitude": 50.264203,
+      "longitude": 18.99537
+    },
+    {
+      "name": "Dom Turysty",
+      "latitude": 49.827945,
+      "longitude": 19.041238
+    },
+    {
+      "name": "Dom Turysty",
+      "latitude": 51.148907,
+      "longitude": 15.003826
+    },
+    {
+      "name": "Dom Turysty pod Wieżycą",
+      "latitude": 50.892744,
+      "longitude": 16.726499
+    },
+    {
+      "name": "Dom Wczasowy \"California\"",
+      "latitude": 54.082191,
+      "longitude": 15.011903
+    },
+    {
+      "name": "Dom Wczasowy „Plaża”",
+      "latitude": 54.081579,
+      "longitude": 15.010032
+    },
+    {
+      "name": "Dom Wczasów Dziecięcych \"Architekton\"",
+      "latitude": 50.780589,
+      "longitude": 15.724777
+    },
+    {
+      "name": "Dom Wczasów Dziecięcych Odrodzenie",
+      "latitude": 50.687141,
+      "longitude": 16.238625
+    },
+    {
+      "name": "Dom Wczasów Dziecięcych w Rytrze",
+      "latitude": 49.489794,
+      "longitude": 20.67668
+    },
+    {
+      "name": "Dom Wycieczkowy \"Na stadionie\"",
+      "latitude": 50.428804,
+      "longitude": 16.651835
+    },
+    {
+      "name": "Dom Wycieczkowy nr 3",
+      "latitude": 51.741439,
+      "longitude": 19.486459
+    },
+    {
+      "name": "Dom Wycieczkowy PTTK",
+      "latitude": 50.081191,
+      "longitude": 20.048221
+    },
+    {
+      "name": "Dom Wycieczkowy PTTK Turysta",
+      "latitude": 50.683895,
+      "longitude": 21.75314
+    },
+    {
+      "name": "Dom Wypoczynkowy \"Pod Fortami\"",
+      "latitude": 50.573757,
+      "longitude": 16.661846
+    },
+    {
+      "name": "Dom Wypoczynkowy Sportowiec",
+      "latitude": 50.490734,
+      "longitude": 17.95964
+    },
+    {
+      "name": "Domino",
+      "latitude": 54.105546,
+      "longitude": 19.510078
+    },
+    {
+      "name": "Domki Letniskowe Holiday",
+      "latitude": 54.204353,
+      "longitude": 15.748499
+    },
+    {
+      "name": "Domki wczasowe",
+      "latitude": 50.547495,
+      "longitude": 18.967176
+    },
+    {
+      "name": "Domy Studenta Uniwersytetu Łódzkiego",
+      "latitude": 51.778067,
+      "longitude": 19.494482
+    },
+    {
+      "name": "Dorian",
+      "latitude": 52.399156,
+      "longitude": 16.893219
+    },
+    {
+      "name": "Dos Patos",
+      "latitude": 53.825036,
+      "longitude": 22.344183
+    },
+    {
+      "name": "Dream Hostel",
+      "latitude": 50.053235,
+      "longitude": 19.943488
+    },
+    {
+      "name": "DS Piast",
+      "latitude": 50.070777,
+      "longitude": 19.905337
+    },
+    {
+      "name": "Dublet 1 Wit Magula",
+      "latitude": 50.375802,
+      "longitude": 19.082024
+    },
+    {
+      "name": "Duchówka",
+      "latitude": 54.158166,
+      "longitude": 19.413751
+    },
+    {
+      "name": "Duszka Hostel",
+      "latitude": 52.536924,
+      "longitude": 19.725966
+    },
+    {
+      "name": "DV Hostel",
+      "latitude": 54.528264,
+      "longitude": 18.50608
+    },
+    {
+      "name": "DW \"Koral\"",
+      "latitude": 54.094705,
+      "longitude": 15.081768
+    },
+    {
+      "name": "Dwór Kasztelański w Szteklinie",
+      "latitude": 53.893403,
+      "longitude": 18.424626
+    },
+    {
+      "name": "Dwór Nad Rozlewiskiem",
+      "latitude": 53.894669,
+      "longitude": 18.427842
+    },
+    {
+      "name": "Dwór w Lanckoronie",
+      "latitude": 49.84481,
+      "longitude": 19.712872
+    },
+    {
+      "name": "Dziejba Leśna",
+      "latitude": 54.101038,
+      "longitude": 15.120689
+    },
+    {
+      "name": "ED",
+      "latitude": 49.41821,
+      "longitude": 20.95197
+    },
+    {
+      "name": "Elegant Apartments",
+      "latitude": 52.393596,
+      "longitude": 16.897721
+    },
+    {
+      "name": "Elewator Gdańsk Hostel",
+      "latitude": 54.347081,
+      "longitude": 18.658634
+    },
+    {
+      "name": "eMka",
+      "latitude": 52.234174,
+      "longitude": 21.020959
+    },
+    {
+      "name": "Euro Hostel",
+      "latitude": 50.061545,
+      "longitude": 19.944576
+    },
+    {
+      "name": "Extra",
+      "latitude": 52.08426,
+      "longitude": 16.66182
+    },
+    {
+      "name": "Fala 1 Centrum Rekracyjno-Wypoczynkowe",
+      "latitude": 54.306946,
+      "longitude": 16.198598
+    },
+    {
+      "name": "Fantastic Inn",
+      "latitude": 52.232713,
+      "longitude": 21.018254
+    },
+    {
+      "name": "Fantazja",
+      "latitude": 50.523145,
+      "longitude": 22.702478
+    },
+    {
+      "name": "Financa",
+      "latitude": 49.343498,
+      "longitude": 20.803617
+    },
+    {
+      "name": "Fire Brigade",
+      "latitude": 50.472118,
+      "longitude": 17.328981
+    },
+    {
+      "name": "Firlik",
+      "latitude": 53.441653,
+      "longitude": 14.573673
+    },
+    {
+      "name": "First Noclegi",
+      "latitude": 54.076802,
+      "longitude": 18.80074
+    },
+    {
+      "name": "Flamingo",
+      "latitude": 51.762988,
+      "longitude": 19.46204
+    },
+    {
+      "name": "Foka",
+      "latitude": 51.1057,
+      "longitude": 17.015981
+    },
+    {
+      "name": "Folk Hostel",
+      "latitude": 51.248004,
+      "longitude": 22.562848
+    },
+    {
+      "name": "For rest",
+      "latitude": 51.239742,
+      "longitude": 22.541138
+    },
+    {
+      "name": "Forrest",
+      "latitude": 54.346982,
+      "longitude": 18.65937
+    },
+    {
+      "name": "Fort IV",
+      "latitude": 53.04049,
+      "longitude": 18.633201
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 50.245581,
+      "longitude": 16.631407
+    },
+    {
+      "name": "Foto Hostel",
+      "latitude": 51.246808,
+      "longitude": 22.551444
+    },
+    {
+      "name": "Franciszkański Dom Formacycjo - Edukacyjny",
+      "latitude": 49.697049,
+      "longitude": 19.268411
+    },
+    {
+      "name": "Freedom",
+      "latitude": 53.009906,
+      "longitude": 18.603803
+    },
+    {
+      "name": "Fresco",
+      "latitude": 51.766199,
+      "longitude": 19.43742
+    },
+    {
+      "name": "Fresko Ośrodek Wczasowy",
+      "latitude": 54.310385,
+      "longitude": 16.205695
+    },
+    {
+      "name": "Frolic Goats",
+      "latitude": 52.40621,
+      "longitude": 16.93264
+    },
+    {
+      "name": "Fundacja na Rzecz Kultury Fizycznej i Sportu",
+      "latitude": 50.235833,
+      "longitude": 21.768322
+    },
+    {
+      "name": "Fusion Hostel",
+      "latitude": 52.407346,
+      "longitude": 16.92184
+    },
+    {
+      "name": "Gemini Dom",
+      "latitude": 54.151178,
+      "longitude": 19.416069
+    },
+    {
+      "name": "Gems",
+      "latitude": 51.664677,
+      "longitude": 16.089623
+    },
+    {
+      "name": "Geo - Sea",
+      "latitude": 54.157079,
+      "longitude": 15.410864
+    },
+    {
+      "name": "Glockenhof",
+      "latitude": 51.579494,
+      "longitude": 14.722802
+    },
+    {
+      "name": "Glow Hostel",
+      "latitude": 51.111077,
+      "longitude": 17.024179
+    },
+    {
+      "name": "Good Bye Lenin Hostel",
+      "latitude": 49.286225,
+      "longitude": 19.998284
+    },
+    {
+      "name": "Goscinec Użmauda",
+      "latitude": 54.32444,
+      "longitude": 22.792438
+    },
+    {
+      "name": "Gospodarstwo Agroturystyczne",
+      "latitude": 50.562189,
+      "longitude": 19.479477
+    },
+    {
+      "name": "Gospodarstwo Agroturystyczne \"Za lasem\"",
+      "latitude": 52.525557,
+      "longitude": 20.536031
+    },
+    {
+      "name": "Gospodarstwo Agroturystyczne Dom Pod Lipami",
+      "latitude": 50.938165,
+      "longitude": 23.495061
+    },
+    {
+      "name": "Gospodarstwo agroturystyczne Jolanty Jarmoch",
+      "latitude": 51.911961,
+      "longitude": 15.700716
+    },
+    {
+      "name": "Gospodarstwo Agroturystyczne u Ani",
+      "latitude": 51.674737,
+      "longitude": 21.581933
+    },
+    {
+      "name": "Gospodarstwo Agroturystyczne Willa Zacisze",
+      "latitude": 49.896222,
+      "longitude": 19.480732
+    },
+    {
+      "name": "Gospodarstwo agroturystyczne „Nad Stawami”",
+      "latitude": 49.764075,
+      "longitude": 22.229852
+    },
+    {
+      "name": "Gościniec Pod Lilijką",
+      "latitude": 50.45444,
+      "longitude": 19.548519
+    },
+    {
+      "name": "Gościniec Rym@Ro",
+      "latitude": 53.397656,
+      "longitude": 14.677918
+    },
+    {
+      "name": "Gościniec Szczeliniec",
+      "latitude": 50.475779,
+      "longitude": 16.339163
+    },
+    {
+      "name": "Gościniec u Jana",
+      "latitude": 50.802692,
+      "longitude": 18.998436
+    },
+    {
+      "name": "Gościniec uDany",
+      "latitude": 50.164908,
+      "longitude": 16.561597
+    },
+    {
+      "name": "Gościniec Zaborze",
+      "latitude": 50.294304,
+      "longitude": 18.810098
+    },
+    {
+      "name": "Gościnne Gospodarstwo Agroturystyczne \"Nad Nidą\"",
+      "latitude": 50.447521,
+      "longitude": 20.586792
+    },
+    {
+      "name": "Grampa’s",
+      "latitude": 51.119106,
+      "longitude": 17.036429
+    },
+    {
+      "name": "Grand Central Hostel",
+      "latitude": 50.065128,
+      "longitude": 19.943917
+    },
+    {
+      "name": "Grand Hostel Gdańsk",
+      "latitude": 54.351506,
+      "longitude": 18.657689
+    },
+    {
+      "name": "Green",
+      "latitude": 52.411165,
+      "longitude": 16.91338
+    },
+    {
+      "name": "Green Hostel",
+      "latitude": 50.051411,
+      "longitude": 19.941858
+    },
+    {
+      "name": "Green Hostel",
+      "latitude": 51.775977,
+      "longitude": 19.452639
+    },
+    {
+      "name": "Green Hostel",
+      "latitude": 53.0113,
+      "longitude": 18.605217
+    },
+    {
+      "name": "Green Hostel",
+      "latitude": 53.011631,
+      "longitude": 18.609056
+    },
+    {
+      "name": "Green Port",
+      "latitude": 52.262452,
+      "longitude": 21.086654
+    },
+    {
+      "name": "Green Town Noclegi",
+      "latitude": 52.077932,
+      "longitude": 21.034603
+    },
+    {
+      "name": "Greg & Tom",
+      "latitude": 50.06575,
+      "longitude": 19.944799
+    },
+    {
+      "name": "Greg&Tom Beer House Hostel",
+      "latitude": 50.063994,
+      "longitude": 19.940935
+    },
+    {
+      "name": "Greg&Tom Party Hostel",
+      "latitude": 50.059713,
+      "longitude": 19.945688
+    },
+    {
+      "name": "Grodzka Hostel",
+      "latitude": 51.663458,
+      "longitude": 16.091522
+    },
+    {
+      "name": "GT apartHOSTEL",
+      "latitude": 52.398374,
+      "longitude": 17.23855
+    },
+    {
+      "name": "Guest Rooms Patron",
+      "latitude": 54.337135,
+      "longitude": 18.614522
+    },
+    {
+      "name": "Hale Noclegowe",
+      "latitude": 50.810996,
+      "longitude": 19.094649
+    },
+    {
+      "name": "Happy 7",
+      "latitude": 54.353877,
+      "longitude": 18.65928
+    },
+    {
+      "name": "Happy House",
+      "latitude": 52.39865,
+      "longitude": 16.898346
+    },
+    {
+      "name": "Harcerska Baza Karkonoska w Przesiece",
+      "latitude": 50.810082,
+      "longitude": 15.666865
+    },
+    {
+      "name": "Hart Hostel and Art",
+      "latitude": 51.119332,
+      "longitude": 17.033499
+    },
+    {
+      "name": "Helvetia",
+      "latitude": 52.238318,
+      "longitude": 21.020832
+    },
+    {
+      "name": "HENIEK",
+      "latitude": 54.66073,
+      "longitude": 17.21256
+    },
+    {
+      "name": "Hill Old Town Inn Hostel",
+      "latitude": 52.409139,
+      "longitude": 16.931927
+    },
+    {
+      "name": "Hipnotic Hostel",
+      "latitude": 54.428914,
+      "longitude": 18.563298
+    },
+    {
+      "name": "Hipstel",
+      "latitude": 52.231406,
+      "longitude": 20.993553
+    },
+    {
+      "name": "Holiday Golden Resort",
+      "latitude": 54.3129,
+      "longitude": 16.204926
+    },
+    {
+      "name": "Home Traveller",
+      "latitude": 50.056044,
+      "longitude": 19.226302
+    },
+    {
+      "name": "Hossa",
+      "latitude": 53.919079,
+      "longitude": 14.251773
+    },
+    {
+      "name": "Hostal",
+      "latitude": 52.708539,
+      "longitude": 16.37911
+    },
+    {
+      "name": "Hostal",
+      "latitude": 52.709745,
+      "longitude": 16.377133
+    },
+    {
+      "name": "Hostal 4-friends",
+      "latitude": 54.349734,
+      "longitude": 18.656923
+    },
+    {
+      "name": "Hostel",
+      "latitude": 49.686571,
+      "longitude": 19.186651
+    },
+    {
+      "name": "Hostel",
+      "latitude": 50.319559,
+      "longitude": 19.067087
+    },
+    {
+      "name": "Hostel",
+      "latitude": 51.093755,
+      "longitude": 19.425714
+    },
+    {
+      "name": "Hostel",
+      "latitude": 51.404519,
+      "longitude": 21.147703
+    },
+    {
+      "name": "Hostel",
+      "latitude": 51.407051,
+      "longitude": 21.151175
+    },
+    {
+      "name": "Hostel",
+      "latitude": 51.568059,
+      "longitude": 15.526107
+    },
+    {
+      "name": "Hostel",
+      "latitude": 51.93751,
+      "longitude": 15.496864
+    },
+    {
+      "name": "Hostel",
+      "latitude": 52.221986,
+      "longitude": 20.906681
+    },
+    {
+      "name": "Hostel \"likeHOME\"",
+      "latitude": 49.78288,
+      "longitude": 22.770489
+    },
+    {
+      "name": "Hostel \"NAD OBRĄ\"",
+      "latitude": 52.45666,
+      "longitude": 15.621215
+    },
+    {
+      "name": "Hostel - Viola",
+      "latitude": 53.55269,
+      "longitude": 14.562033
+    },
+    {
+      "name": "Hostel 01",
+      "latitude": 50.782666,
+      "longitude": 19.137619
+    },
+    {
+      "name": "hostel 245",
+      "latitude": 49.871137,
+      "longitude": 19.029015
+    },
+    {
+      "name": "Hostel 365",
+      "latitude": 52.381124,
+      "longitude": 16.831167
+    },
+    {
+      "name": "Hostel 42-200",
+      "latitude": 50.811729,
+      "longitude": 19.114308
+    },
+    {
+      "name": "Hostel 55",
+      "latitude": 51.133998,
+      "longitude": 17.059061
+    },
+    {
+      "name": "Hostel 58",
+      "latitude": 52.396903,
+      "longitude": 16.901331
+    },
+    {
+      "name": "Hostel 8",
+      "latitude": 52.403714,
+      "longitude": 16.932011
+    },
+    {
+      "name": "Hostel AgMa",
+      "latitude": 51.743731,
+      "longitude": 15.008737
+    },
+    {
+      "name": "Hostel Akademik",
+      "latitude": 49.773794,
+      "longitude": 22.788624
+    },
+    {
+      "name": "Hostel Albatros",
+      "latitude": 49.966521,
+      "longitude": 22.012018
+    },
+    {
+      "name": "Hostel Apart",
+      "latitude": 50.069362,
+      "longitude": 19.930347
+    },
+    {
+      "name": "Hostel Avatar",
+      "latitude": 51.394736,
+      "longitude": 21.137502
+    },
+    {
+      "name": "Hostel Baj",
+      "latitude": 52.408862,
+      "longitude": 16.841195
+    },
+    {
+      "name": "Hostel Baza 15",
+      "latitude": 51.118094,
+      "longitude": 17.020976
+    },
+    {
+      "name": "Hostel Biała",
+      "latitude": 49.818307,
+      "longitude": 19.050626
+    },
+    {
+      "name": "Hostel Biały Dom",
+      "latitude": 50.044308,
+      "longitude": 19.985439
+    },
+    {
+      "name": "Hostel Brooklyn",
+      "latitude": 50.291388,
+      "longitude": 19.10919
+    },
+    {
+      "name": "Hostel Deco",
+      "latitude": 50.072911,
+      "longitude": 19.931105
+    },
+    {
+      "name": "Hostel Deja Vu",
+      "latitude": 51.096968,
+      "longitude": 17.0256
+    },
+    {
+      "name": "Hostel Dom Zachariasza Zappio",
+      "latitude": 54.351643,
+      "longitude": 18.656985
+    },
+    {
+      "name": "Hostel Dąbrówka",
+      "latitude": 52.384219,
+      "longitude": 16.746526
+    },
+    {
+      "name": "Hostel ENERSA",
+      "latitude": 53.409941,
+      "longitude": 14.545669
+    },
+    {
+      "name": "Hostel Estakada",
+      "latitude": 50.043194,
+      "longitude": 19.961073
+    },
+    {
+      "name": "Hostel Explorer",
+      "latitude": 52.405487,
+      "longitude": 16.93676
+    },
+    {
+      "name": "Hostel Fabryka",
+      "latitude": 52.65165,
+      "longitude": 19.061614
+    },
+    {
+      "name": "Hostel Famil",
+      "latitude": 53.964982,
+      "longitude": 18.538062
+    },
+    {
+      "name": "Hostel FENIKS",
+      "latitude": 52.533292,
+      "longitude": 18.819514
+    },
+    {
+      "name": "Hostel Flamingo",
+      "latitude": 50.062264,
+      "longitude": 19.93521
+    },
+    {
+      "name": "Hostel Fraszka",
+      "latitude": 51.102631,
+      "longitude": 17.02138
+    },
+    {
+      "name": "Hostel Galaxy",
+      "latitude": 54.375062,
+      "longitude": 18.615929
+    },
+    {
+      "name": "Hostel Gardenhouse",
+      "latitude": 50.062255,
+      "longitude": 19.939682
+    },
+    {
+      "name": "Hostel Gdynia 2017",
+      "latitude": 54.517231,
+      "longitude": 18.542057
+    },
+    {
+      "name": "Hostel George Sopot",
+      "latitude": 54.437706,
+      "longitude": 18.568487
+    },
+    {
+      "name": "Hostel Grono",
+      "latitude": 51.930581,
+      "longitude": 15.498946
+    },
+    {
+      "name": "Hostel Gryf",
+      "latitude": 53.431105,
+      "longitude": 14.542099
+    },
+    {
+      "name": "Hostel Grębocin",
+      "latitude": 53.060215,
+      "longitude": 18.726763
+    },
+    {
+      "name": "Hostel Guben",
+      "latitude": 51.959711,
+      "longitude": 14.708057
+    },
+    {
+      "name": "Hostel Guido",
+      "latitude": 50.288428,
+      "longitude": 18.790806
+    },
+    {
+      "name": "Hostel Gwarek",
+      "latitude": 50.271555,
+      "longitude": 19.025551
+    },
+    {
+      "name": "Hostel House",
+      "latitude": 51.13628,
+      "longitude": 16.874957
+    },
+    {
+      "name": "hostel Hutnik",
+      "latitude": 50.946571,
+      "longitude": 21.433799
+    },
+    {
+      "name": "Hostel Incepcja",
+      "latitude": 51.10423,
+      "longitude": 17.029554
+    },
+    {
+      "name": "Hostel Jaśmin",
+      "latitude": 52.536951,
+      "longitude": 17.572612
+    },
+    {
+      "name": "Hostel Jeżyce",
+      "latitude": 52.411303,
+      "longitude": 16.903049
+    },
+    {
+      "name": "Hostel Jurajski",
+      "latitude": 50.396631,
+      "longitude": 19.677021
+    },
+    {
+      "name": "Hostel Juvenia",
+      "latitude": 50.057884,
+      "longitude": 19.906093
+    },
+    {
+      "name": "Hostel Kamienica",
+      "latitude": 52.545742,
+      "longitude": 19.692497
+    },
+    {
+      "name": "Hostel Kamienna Centrum",
+      "latitude": 50.256908,
+      "longitude": 19.012066
+    },
+    {
+      "name": "Hostel Karolinka",
+      "latitude": 50.347189,
+      "longitude": 19.130037
+    },
+    {
+      "name": "Hostel Katowice Centrum",
+      "latitude": 50.256532,
+      "longitude": 19.015165
+    },
+    {
+      "name": "Hostel Komfort Borek",
+      "latitude": 50.01901,
+      "longitude": 19.920764
+    },
+    {
+      "name": "Hostel Kościuszko",
+      "latitude": 51.103368,
+      "longitude": 17.02803
+    },
+    {
+      "name": "Hostel Kresy",
+      "latitude": 51.394013,
+      "longitude": 16.200166
+    },
+    {
+      "name": "Hostel Królewska",
+      "latitude": 51.246948,
+      "longitude": 22.56672
+    },
+    {
+      "name": "Hostel Lawenda",
+      "latitude": 51.722743,
+      "longitude": 19.485066
+    },
+    {
+      "name": "Hostel Leszno",
+      "latitude": 51.824225,
+      "longitude": 16.587391
+    },
+    {
+      "name": "Hostel Lotnisko",
+      "latitude": 53.518825,
+      "longitude": 18.850293
+    },
+    {
+      "name": "Hostel Luna",
+      "latitude": 51.791881,
+      "longitude": 19.423513
+    },
+    {
+      "name": "Hostel Magnolia",
+      "latitude": 51.190398,
+      "longitude": 17.1684
+    },
+    {
+      "name": "Hostel Malinowski City",
+      "latitude": 50.343747,
+      "longitude": 18.628025
+    },
+    {
+      "name": "Hostel Mandala",
+      "latitude": 52.406161,
+      "longitude": 16.932075
+    },
+    {
+      "name": "Hostel Miś",
+      "latitude": 54.458368,
+      "longitude": 17.032311
+    },
+    {
+      "name": "Hostel Mleczna",
+      "latitude": 52.288398,
+      "longitude": 21.060253
+    },
+    {
+      "name": "Hostel MOSiR",
+      "latitude": 53.185967,
+      "longitude": 22.086207
+    },
+    {
+      "name": "Hostel na Złotnie",
+      "latitude": 51.780089,
+      "longitude": 19.379106
+    },
+    {
+      "name": "Hostel Nina",
+      "latitude": 50.258824,
+      "longitude": 19.044434
+    },
+    {
+      "name": "Hostel Nowy Targ",
+      "latitude": 49.481077,
+      "longitude": 20.057442
+    },
+    {
+      "name": "Hostel Okulski Rozewie",
+      "latitude": 54.819014,
+      "longitude": 18.33791
+    },
+    {
+      "name": "Hostel on The River Marta",
+      "latitude": 50.048638,
+      "longitude": 19.934282
+    },
+    {
+      "name": "Hostel Open Tours",
+      "latitude": 53.825111,
+      "longitude": 22.361801
+    },
+    {
+      "name": "Hostel Opti",
+      "latitude": 54.257919,
+      "longitude": 18.632628
+    },
+    {
+      "name": "Hostel Orange Plus",
+      "latitude": 53.01307,
+      "longitude": 18.610872
+    },
+    {
+      "name": "Hostel Orla",
+      "latitude": 51.244773,
+      "longitude": 22.555903
+    },
+    {
+      "name": "Hostel Phoenix",
+      "latitude": 52.639133,
+      "longitude": 19.079002
+    },
+    {
+      "name": "Hostel Pod Basztą",
+      "latitude": 51.246932,
+      "longitude": 22.56661
+    },
+    {
+      "name": "Hostel Pod Różą",
+      "latitude": 49.996899,
+      "longitude": 19.437015
+    },
+    {
+      "name": "Hostel pod Topolami",
+      "latitude": 51.94117,
+      "longitude": 15.506231
+    },
+    {
+      "name": "Hostel Podlasie",
+      "latitude": 53.136608,
+      "longitude": 23.148838
+    },
+    {
+      "name": "Hostel Polon",
+      "latitude": 52.692877,
+      "longitude": 21.073973
+    },
+    {
+      "name": "Hostel Popowo",
+      "latitude": 52.715501,
+      "longitude": 16.337024
+    },
+    {
+      "name": "Hostel Posmyk",
+      "latitude": 50.611752,
+      "longitude": 18.69878
+    },
+    {
+      "name": "Hostel Poznań",
+      "latitude": 52.411301,
+      "longitude": 16.905409
+    },
+    {
+      "name": "Hostel Poznań Petit",
+      "latitude": 52.396352,
+      "longitude": 16.925224
+    },
+    {
+      "name": "Hostel Pracowniczy",
+      "latitude": 54.378596,
+      "longitude": 18.635288
+    },
+    {
+      "name": "Hostel Pracowniczy Point of View",
+      "latitude": 51.99137,
+      "longitude": 21.191829
+    },
+    {
+      "name": "Hostel pracowniczy, PUH \"Dom-El III\" sp. z o.o.",
+      "latitude": 50.215765,
+      "longitude": 19.225164
+    },
+    {
+      "name": "Hostel Praga",
+      "latitude": 52.260306,
+      "longitude": 21.056566
+    },
+    {
+      "name": "Hostel Przystań",
+      "latitude": 53.999315,
+      "longitude": 15.899995
+    },
+    {
+      "name": "Hostel Północna 61",
+      "latitude": 50.299883,
+      "longitude": 19.15876
+    },
+    {
+      "name": "Hostel Residence Floriańska",
+      "latitude": 50.062659,
+      "longitude": 19.939357
+    },
+    {
+      "name": "Hostel Rest",
+      "latitude": 50.062754,
+      "longitude": 20.022912
+    },
+    {
+      "name": "Hostel Retro",
+      "latitude": 50.046961,
+      "longitude": 19.932739
+    },
+    {
+      "name": "Hostel Rudzki",
+      "latitude": 50.305675,
+      "longitude": 18.865904
+    },
+    {
+      "name": "Hostel Rumiankowy",
+      "latitude": 51.120998,
+      "longitude": 16.927735
+    },
+    {
+      "name": "Hostel Rzeszów",
+      "latitude": 50.037156,
+      "longitude": 22.004347
+    },
+    {
+      "name": "Hostel Soleil",
+      "latitude": 52.225312,
+      "longitude": 19.338185
+    },
+    {
+      "name": "Hostel Sport",
+      "latitude": 50.394532,
+      "longitude": 16.387985
+    },
+    {
+      "name": "Hostel Starachowice",
+      "latitude": 51.072777,
+      "longitude": 21.067793
+    },
+    {
+      "name": "Hostel Starówka",
+      "latitude": 50.718695,
+      "longitude": 23.252839
+    },
+    {
+      "name": "Hostel Stegny",
+      "latitude": 52.187103,
+      "longitude": 21.042812
+    },
+    {
+      "name": "Hostel Stonewall",
+      "latitude": 52.408292,
+      "longitude": 16.935452
+    },
+    {
+      "name": "Hostel Stowarzyszenia Monar",
+      "latitude": 50.896335,
+      "longitude": 20.577341
+    },
+    {
+      "name": "Hostel Sun&Sea",
+      "latitude": 54.406859,
+      "longitude": 18.63943
+    },
+    {
+      "name": "Hostel Szwejk",
+      "latitude": 53.421591,
+      "longitude": 14.508513
+    },
+    {
+      "name": "Hostel u Kmity",
+      "latitude": 50.06242,
+      "longitude": 19.940283
+    },
+    {
+      "name": "Hostel Victoria",
+      "latitude": 50.022613,
+      "longitude": 19.995732
+    },
+    {
+      "name": "Hostel w Koszarach Wiktorii",
+      "latitude": 53.418914,
+      "longitude": 14.533859
+    },
+    {
+      "name": "Hostel Wenecja",
+      "latitude": 52.79873,
+      "longitude": 17.752712
+    },
+    {
+      "name": "Hostel Wieżyca",
+      "latitude": 54.219211,
+      "longitude": 18.126026
+    },
+    {
+      "name": "Hostel Wigwam",
+      "latitude": 51.10296,
+      "longitude": 17.053736
+    },
+    {
+      "name": "Hostel Willa Lila",
+      "latitude": 52.739945,
+      "longitude": 14.709526
+    },
+    {
+      "name": "Hostel Wratislavia",
+      "latitude": 51.102517,
+      "longitude": 17.04404
+    },
+    {
+      "name": "Hostel Września",
+      "latitude": 52.303522,
+      "longitude": 17.531371
+    },
+    {
+      "name": "Hostel Wysoka Brama",
+      "latitude": 53.777492,
+      "longitude": 20.477795
+    },
+    {
+      "name": "Hostel Zachodni",
+      "latitude": 52.218848,
+      "longitude": 20.96388
+    },
+    {
+      "name": "Hostel Zamość",
+      "latitude": 50.714302,
+      "longitude": 23.241342
+    },
+    {
+      "name": "Hostel Zielony Domek",
+      "latitude": 54.344441,
+      "longitude": 18.613038
+    },
+    {
+      "name": "Hostel Śpioch",
+      "latitude": 53.506294,
+      "longitude": 17.995629
+    },
+    {
+      "name": "Hostel Świebodzki",
+      "latitude": 51.10821,
+      "longitude": 17.019774
+    },
+    {
+      "name": "Hostel „Argentum” noclegi Gliwice",
+      "latitude": 50.295788,
+      "longitude": 18.634175
+    },
+    {
+      "name": "Hostel „Familia”",
+      "latitude": 50.287397,
+      "longitude": 18.648929
+    },
+    {
+      "name": "Hostel, Cuma",
+      "latitude": 53.439095,
+      "longitude": 14.538596
+    },
+    {
+      "name": "Hostel24",
+      "latitude": 50.305545,
+      "longitude": 18.868409
+    },
+    {
+      "name": "Hostel24",
+      "latitude": 53.13391,
+      "longitude": 18.030157
+    },
+    {
+      "name": "Hostel4u",
+      "latitude": 54.345987,
+      "longitude": 18.647998
+    },
+    {
+      "name": "Hostelik Przy Przystanku kwatery pracownicze",
+      "latitude": 53.270967,
+      "longitude": 14.507221
+    },
+    {
+      "name": "Hostelik Wiktoriański",
+      "latitude": 51.765025,
+      "longitude": 19.461903
+    },
+    {
+      "name": "HostelWigry.pl",
+      "latitude": 54.094792,
+      "longitude": 22.916793
+    },
+    {
+      "name": "Hostelzone.pl",
+      "latitude": 54.425152,
+      "longitude": 17.018358
+    },
+    {
+      "name": "Hotel Alicja",
+      "latitude": 51.728687,
+      "longitude": 19.457094
+    },
+    {
+      "name": "Hotel Hetman",
+      "latitude": 50.19087,
+      "longitude": 23.36359
+    },
+    {
+      "name": "Hotel Muszyna",
+      "latitude": 49.365775,
+      "longitude": 20.887069
+    },
+    {
+      "name": "Hotel Ochrony Zdrowia",
+      "latitude": 50.013063,
+      "longitude": 21.030228
+    },
+    {
+      "name": "Hotel Orle Gniazdo",
+      "latitude": 52.505196,
+      "longitude": 16.75869
+    },
+    {
+      "name": "Hotel pracowniczy",
+      "latitude": 50.126862,
+      "longitude": 19.428472
+    },
+    {
+      "name": "Hotel pracowniczy Kartoszyno",
+      "latitude": 54.742145,
+      "longitude": 18.097383
+    },
+    {
+      "name": "Hotel Pracowniczy Metro",
+      "latitude": 52.198778,
+      "longitude": 20.949831
+    },
+    {
+      "name": "Hotel Sportowy",
+      "latitude": 50.448507,
+      "longitude": 23.401057
+    },
+    {
+      "name": "Hotel ZSE Tczew",
+      "latitude": 54.098088,
+      "longitude": 18.779991
+    },
+    {
+      "name": "Hotelik Pod Zamkiem",
+      "latitude": 50.071302,
+      "longitude": 22.239809
+    },
+    {
+      "name": "HS Hostel Opole Główne",
+      "latitude": 50.662283,
+      "longitude": 17.926419
+    },
+    {
+      "name": "Hubertus",
+      "latitude": 54.203202,
+      "longitude": 15.718866
+    },
+    {
+      "name": "Incom",
+      "latitude": 50.882349,
+      "longitude": 20.616224
+    },
+    {
+      "name": "Internat",
+      "latitude": 50.944818,
+      "longitude": 21.370609
+    },
+    {
+      "name": "Internat",
+      "latitude": 51.389014,
+      "longitude": 21.155623
+    },
+    {
+      "name": "Internat Centrum Kształcenia Zawodowego i Ustawicznego w Więcborku",
+      "latitude": 53.356028,
+      "longitude": 17.486098
+    },
+    {
+      "name": "Internat I LO",
+      "latitude": 51.377347,
+      "longitude": 20.270481
+    },
+    {
+      "name": "Internat przy Zespole Szkół nr 1 w Opatowie",
+      "latitude": 50.796955,
+      "longitude": 21.418973
+    },
+    {
+      "name": "Internat przy ZSCKR w Marianowie",
+      "latitude": 53.211311,
+      "longitude": 22.10231
+    },
+    {
+      "name": "Internat ZCEMiP",
+      "latitude": 53.46308,
+      "longitude": 14.578739
+    },
+    {
+      "name": "Internat Zespołu Szkół Centrum Kształcenia Rolniczego",
+      "latitude": 53.377425,
+      "longitude": 14.618999
+    },
+    {
+      "name": "Internat Zespołu Szkół Elektryczno-Elektronicznych",
+      "latitude": 53.440572,
+      "longitude": 14.561422
+    },
+    {
+      "name": "Internat ZSB im. Kazimierza Wielkiego",
+      "latitude": 53.437773,
+      "longitude": 14.549125
+    },
+    {
+      "name": "Irena Ośrodek Wypoczynkowy",
+      "latitude": 54.292685,
+      "longitude": 16.163755
+    },
+    {
+      "name": "IW Hotel",
+      "latitude": 50.184122,
+      "longitude": 21.903795
+    },
+    {
+      "name": "Jagnar",
+      "latitude": 53.042575,
+      "longitude": 16.451604
+    },
+    {
+      "name": "Jarefka",
+      "latitude": 54.074054,
+      "longitude": 17.35284
+    },
+    {
+      "name": "Jaro",
+      "latitude": 52.396348,
+      "longitude": 16.896934
+    },
+    {
+      "name": "Jaśminowe Wzgórze",
+      "latitude": 50.690791,
+      "longitude": 21.748503
+    },
+    {
+      "name": "Jess Inn",
+      "latitude": 52.231545,
+      "longitude": 21.018791
+    },
+    {
+      "name": "Johnny House",
+      "latitude": 54.110568,
+      "longitude": 22.949094
+    },
+    {
+      "name": "Jopi Hostel",
+      "latitude": 50.253945,
+      "longitude": 19.020447
+    },
+    {
+      "name": "Jordan Guest Rooms",
+      "latitude": 50.067363,
+      "longitude": 19.938934
+    },
+    {
+      "name": "Jugendferienpark Ahlbeck",
+      "latitude": 53.93426,
+      "longitude": 14.205085
+    },
+    {
+      "name": "Jugendherberge \"Rehkitz\"",
+      "latitude": 52.672571,
+      "longitude": 14.44286
+    },
+    {
+      "name": "Julka & Kinga",
+      "latitude": 54.209833,
+      "longitude": 15.728252
+    },
+    {
+      "name": "JustHostel",
+      "latitude": 54.342464,
+      "longitude": 18.683203
+    },
+    {
+      "name": "Kajzer",
+      "latitude": 50.044878,
+      "longitude": 19.95204
+    },
+    {
+      "name": "Kamienica 9",
+      "latitude": 50.276615,
+      "longitude": 19.131224
+    },
+    {
+      "name": "Kamienica LOFT",
+      "latitude": 52.881606,
+      "longitude": 18.795267
+    },
+    {
+      "name": "Kanonia Hostel",
+      "latitude": 52.249335,
+      "longitude": 21.013681
+    },
+    {
+      "name": "Kantadaj Village Domki Prestige",
+      "latitude": 50.282163,
+      "longitude": 17.512107
+    },
+    {
+      "name": "Karczma Brzeziniak",
+      "latitude": 49.184541,
+      "longitude": 22.388299
+    },
+    {
+      "name": "KaWuKa",
+      "latitude": 50.311797,
+      "longitude": 18.781623
+    },
+    {
+      "name": "Kaykowo",
+      "latitude": 52.410512,
+      "longitude": 16.911381
+    },
+    {
+      "name": "Kienitz",
+      "latitude": 52.673696,
+      "longitude": 14.442832
+    },
+    {
+      "name": "Kinga-Serwis",
+      "latitude": 51.500942,
+      "longitude": 16.027371
+    },
+    {
+      "name": "Kolorowa",
+      "latitude": 51.206488,
+      "longitude": 16.156092
+    },
+    {
+      "name": "Kombinat",
+      "latitude": 51.106485,
+      "longitude": 17.031956
+    },
+    {
+      "name": "Komenik",
+      "latitude": 51.85138,
+      "longitude": 16.579903
+    },
+    {
+      "name": "Koral",
+      "latitude": 53.447654,
+      "longitude": 14.553104
+    },
+    {
+      "name": "Koralowa Ścieżka. Gościniec",
+      "latitude": 50.813545,
+      "longitude": 15.607221
+    },
+    {
+      "name": "KOSS",
+      "latitude": 49.7817,
+      "longitude": 18.829092
+    },
+    {
+      "name": "Krakow Town House",
+      "latitude": 50.064039,
+      "longitude": 19.950599
+    },
+    {
+      "name": "Krakowiak",
+      "latitude": 50.069829,
+      "longitude": 19.898834
+    },
+    {
+      "name": "Krasnal",
+      "latitude": 51.109861,
+      "longitude": 17.036116
+    },
+    {
+      "name": "Kremenaros",
+      "latitude": 49.104224,
+      "longitude": 22.644835
+    },
+    {
+      "name": "Krokus",
+      "latitude": 50.76978,
+      "longitude": 15.751804
+    },
+    {
+      "name": "Krynicka Koliba",
+      "latitude": 49.417547,
+      "longitude": 20.896002
+    },
+    {
+      "name": "Księżycówka",
+      "latitude": 49.839122,
+      "longitude": 20.485146
+    },
+    {
+      "name": "Kwadrat Hostel",
+      "latitude": 52.537762,
+      "longitude": 16.758111
+    },
+    {
+      "name": "Kwatera Agroturystyczna",
+      "latitude": 54.757004,
+      "longitude": 18.261849
+    },
+    {
+      "name": "Kwatera Koniaczów (P - 143)",
+      "latitude": 50.036484,
+      "longitude": 22.742976
+    },
+    {
+      "name": "Kwatery Pracownicze",
+      "latitude": 52.090376,
+      "longitude": 21.000008
+    },
+    {
+      "name": "Kwatery Pracownicze",
+      "latitude": 52.09115,
+      "longitude": 21.012062
+    },
+    {
+      "name": "Kwatery Pracownicze",
+      "latitude": 52.091893,
+      "longitude": 21.011453
+    },
+    {
+      "name": "Kwatery Pracownicze",
+      "latitude": 52.094586,
+      "longitude": 20.964751
+    },
+    {
+      "name": "Kwatery pracownicze",
+      "latitude": 52.15556,
+      "longitude": 20.931159
+    },
+    {
+      "name": "Kwatery Pracownicze Hermanowska",
+      "latitude": 51.124941,
+      "longitude": 16.943956
+    },
+    {
+      "name": "Kwatery Prywatne",
+      "latitude": 50.442491,
+      "longitude": 16.256908
+    },
+    {
+      "name": "Kwatery Prywatne \"Na Skarpie\"",
+      "latitude": 50.576359,
+      "longitude": 16.657567
+    },
+    {
+      "name": "KWATERY.xyz",
+      "latitude": 52.192344,
+      "longitude": 20.602883
+    },
+    {
+      "name": "La Fontaine",
+      "latitude": 50.063023,
+      "longitude": 19.937238
+    },
+    {
+      "name": "La Guitarra",
+      "latitude": 52.407085,
+      "longitude": 16.927366
+    },
+    {
+      "name": "La Guitarra Hostel",
+      "latitude": 54.354247,
+      "longitude": 18.660328
+    },
+    {
+      "name": "La Musica",
+      "latitude": 52.052968,
+      "longitude": 21.059235
+    },
+    {
+      "name": "Lawendowy Hostel",
+      "latitude": 50.081389,
+      "longitude": 19.977119
+    },
+    {
+      "name": "Leo",
+      "latitude": 52.382968,
+      "longitude": 16.838632
+    },
+    {
+      "name": "Let's Rock",
+      "latitude": 50.058509,
+      "longitude": 19.9382
+    },
+    {
+      "name": "Letnia Sielanka",
+      "latitude": 54.20408,
+      "longitude": 15.718675
+    },
+    {
+      "name": "Lew Hostel",
+      "latitude": 52.795559,
+      "longitude": 18.258769
+    },
+    {
+      "name": "Leśna 19",
+      "latitude": 50.821747,
+      "longitude": 15.531127
+    },
+    {
+      "name": "Leśna Willa PTTK",
+      "latitude": 49.347965,
+      "longitude": 22.077243
+    },
+    {
+      "name": "Leśna Zatoka nad Soliną",
+      "latitude": 49.344179,
+      "longitude": 22.441527
+    },
+    {
+      "name": "Leśne Schronisko „Łowców Przygód”",
+      "latitude": 54.518905,
+      "longitude": 18.001745
+    },
+    {
+      "name": "Leśniczówka Jednorożec",
+      "latitude": 53.519937,
+      "longitude": 20.457831
+    },
+    {
+      "name": "Leśniczówka Zieleniec",
+      "latitude": 50.34507,
+      "longitude": 16.399419
+    },
+    {
+      "name": "Leśny Dwór",
+      "latitude": 50.499634,
+      "longitude": 16.402415
+    },
+    {
+      "name": "Location ApartHostel",
+      "latitude": 50.059373,
+      "longitude": 19.936822
+    },
+    {
+      "name": "Locomotive Hostel",
+      "latitude": 51.108145,
+      "longitude": 17.018461
+    },
+    {
+      "name": "LOFT Hostel",
+      "latitude": 52.181658,
+      "longitude": 20.941104
+    },
+    {
+      "name": "LoLek Hostel",
+      "latitude": 51.245009,
+      "longitude": 22.566503
+    },
+    {
+      "name": "Lorf Hostel&Coffee",
+      "latitude": 50.068697,
+      "longitude": 19.937336
+    },
+    {
+      "name": "Lotnicza 40",
+      "latitude": 54.206531,
+      "longitude": 15.716922
+    },
+    {
+      "name": "Lubrzanka",
+      "latitude": 50.900461,
+      "longitude": 20.781854
+    },
+    {
+      "name": "Lull Hostel",
+      "latitude": 52.236556,
+      "longitude": 21.046711
+    },
+    {
+      "name": "LuLu",
+      "latitude": 51.246376,
+      "longitude": 22.567388
+    },
+    {
+      "name": "Luxhostel24",
+      "latitude": 52.185775,
+      "longitude": 20.960076
+    },
+    {
+      "name": "Lwowska 11",
+      "latitude": 52.221715,
+      "longitude": 21.012204
+    },
+    {
+      "name": "M7",
+      "latitude": 51.734586,
+      "longitude": 19.443362
+    },
+    {
+      "name": "Magnes",
+      "latitude": 52.511311,
+      "longitude": 16.752482
+    },
+    {
+      "name": "Main Station Hostel",
+      "latitude": 54.356573,
+      "longitude": 18.645305
+    },
+    {
+      "name": "Majed",
+      "latitude": 54.160894,
+      "longitude": 15.414515
+    },
+    {
+      "name": "Mammas and pappas",
+      "latitude": 54.320051,
+      "longitude": 18.629264
+    },
+    {
+      "name": "Mamut Camp",
+      "latitude": 52.891183,
+      "longitude": 20.28642
+    },
+    {
+      "name": "Mango",
+      "latitude": 52.40799,
+      "longitude": 16.921673
+    },
+    {
+      "name": "Marathon Noclegi",
+      "latitude": 51.119469,
+      "longitude": 20.882694
+    },
+    {
+      "name": "Marcus",
+      "latitude": 53.125763,
+      "longitude": 17.976009
+    },
+    {
+      "name": "Markus",
+      "latitude": 50.354476,
+      "longitude": 18.261404
+    },
+    {
+      "name": "Max Berg Hostel",
+      "latitude": 51.112243,
+      "longitude": 17.056444
+    },
+    {
+      "name": "Mały Żagiel",
+      "latitude": 54.514592,
+      "longitude": 18.54859
+    },
+    {
+      "name": "Mega Hostel & Apartamenty",
+      "latitude": 53.125691,
+      "longitude": 18.02852
+    },
+    {
+      "name": "Meininger",
+      "latitude": 50.058948,
+      "longitude": 19.949696
+    },
+    {
+      "name": "Melange",
+      "latitude": 52.402598,
+      "longitude": 16.932133
+    },
+    {
+      "name": "Melody Hostel",
+      "latitude": 52.407369,
+      "longitude": 16.932506
+    },
+    {
+      "name": "Miastkovo",
+      "latitude": 52.40637,
+      "longitude": 16.831208
+    },
+    {
+      "name": "Midi",
+      "latitude": 53.011951,
+      "longitude": 17.742416
+    },
+    {
+      "name": "Miejska Bursa Szkolna",
+      "latitude": 50.31355,
+      "longitude": 18.76919
+    },
+    {
+      "name": "miniHostel Żary",
+      "latitude": 51.637997,
+      "longitude": 15.141467
+    },
+    {
+      "name": "Międzynarodowy Dom Spotkań Młodzieży w Oświęcimiu",
+      "latitude": 50.039408,
+      "longitude": 19.214101
+    },
+    {
+      "name": "Miłosz",
+      "latitude": 52.965203,
+      "longitude": 18.735778
+    },
+    {
+      "name": "Mleczarnia",
+      "latitude": 51.108156,
+      "longitude": 17.025186
+    },
+    {
+      "name": "Modern Hostel",
+      "latitude": 51.114258,
+      "longitude": 17.020429
+    },
+    {
+      "name": "Mokotów",
+      "latitude": 52.192685,
+      "longitude": 21.010789
+    },
+    {
+      "name": "Momotown",
+      "latitude": 50.053108,
+      "longitude": 19.945649
+    },
+    {
+      "name": "Moon Hostel",
+      "latitude": 50.052113,
+      "longitude": 19.950672
+    },
+    {
+      "name": "Moon Hostel",
+      "latitude": 51.107919,
+      "longitude": 17.02691
+    },
+    {
+      "name": "Moon Hostel",
+      "latitude": 52.233944,
+      "longitude": 21.021113
+    },
+    {
+      "name": "Moon Hostel",
+      "latitude": 52.409918,
+      "longitude": 16.936043
+    },
+    {
+      "name": "Moon Hostel",
+      "latitude": 54.346918,
+      "longitude": 18.661066
+    },
+    {
+      "name": "Morska Dolina",
+      "latitude": 54.214243,
+      "longitude": 15.753927
+    },
+    {
+      "name": "Morskie Uroczysko",
+      "latitude": 54.580219,
+      "longitude": 16.823655
+    },
+    {
+      "name": "MOSiR",
+      "latitude": 51.596594,
+      "longitude": 18.747815
+    },
+    {
+      "name": "Mosquito Hostel",
+      "latitude": 50.066589,
+      "longitude": 19.94019
+    },
+    {
+      "name": "Mosquito Old Town Apartments",
+      "latitude": 50.058051,
+      "longitude": 19.938805
+    },
+    {
+      "name": "Motello",
+      "latitude": 49.543812,
+      "longitude": 21.689705
+    },
+    {
+      "name": "mPark",
+      "latitude": 50.197193,
+      "longitude": 19.148886
+    },
+    {
+      "name": "Mr Hostel",
+      "latitude": 51.969565,
+      "longitude": 17.482226
+    },
+    {
+      "name": "MTB Hostel Kościelisko",
+      "latitude": 49.276448,
+      "longitude": 19.882617
+    },
+    {
+      "name": "Mundo",
+      "latitude": 50.057187,
+      "longitude": 19.942163
+    },
+    {
+      "name": "Music Hostel",
+      "latitude": 51.769857,
+      "longitude": 19.456952
+    },
+    {
+      "name": "Music Hostel",
+      "latitude": 51.776806,
+      "longitude": 19.465432
+    },
+    {
+      "name": "Muzyczny Kraków",
+      "latitude": 50.063976,
+      "longitude": 19.932724
+    },
+    {
+      "name": "Młodzieżowy Ośrodek Rekolekcyjno-Rekreacyjny (MOREKO)",
+      "latitude": 49.708429,
+      "longitude": 20.173903
+    },
+    {
+      "name": "Młodzieżowy Ośrodek Turystyczny Brama Bieszczad",
+      "latitude": 49.442997,
+      "longitude": 22.265927
+    },
+    {
+      "name": "Młotek i Perlik",
+      "latitude": 50.443835,
+      "longitude": 18.854321
+    },
+    {
+      "name": "Na Vyhlídce",
+      "latitude": 49.521926,
+      "longitude": 18.836463
+    },
+    {
+      "name": "Neptun Ośrodek Wczasowy",
+      "latitude": 54.312136,
+      "longitude": 16.203835
+    },
+    {
+      "name": "New World",
+      "latitude": 50.003011,
+      "longitude": 19.99581
+    },
+    {
+      "name": "New World Street Hostel",
+      "latitude": 52.232897,
+      "longitude": 21.019393
+    },
+    {
+      "name": "Niepubliczne Szkolne Schronisko Młodzieżowe PTSM",
+      "latitude": 52.161022,
+      "longitude": 17.158575
+    },
+    {
+      "name": "Niepubliczne Szkolne Schronisko Młodzieżowe Zielony Cień",
+      "latitude": 49.485691,
+      "longitude": 22.408375
+    },
+    {
+      "name": "Night O'Clock",
+      "latitude": 51.14106,
+      "longitude": 17.070572
+    },
+    {
+      "name": "Nina",
+      "latitude": 50.556041,
+      "longitude": 19.45136
+    },
+    {
+      "name": "Noclegi",
+      "latitude": 51.186516,
+      "longitude": 17.22679
+    },
+    {
+      "name": "Noclegi",
+      "latitude": 51.646763,
+      "longitude": 17.838905
+    },
+    {
+      "name": "Noclegi",
+      "latitude": 51.66491,
+      "longitude": 17.83092
+    },
+    {
+      "name": "Noclegi",
+      "latitude": 52.230495,
+      "longitude": 16.378815
+    },
+    {
+      "name": "Noclegi 16",
+      "latitude": 51.251575,
+      "longitude": 15.57677
+    },
+    {
+      "name": "Noclegi Andersa",
+      "latitude": 50.79272,
+      "longitude": 16.254531
+    },
+    {
+      "name": "Noclegi Biskupiec",
+      "latitude": 53.865248,
+      "longitude": 20.968843
+    },
+    {
+      "name": "Noclegi Centrum",
+      "latitude": 52.236179,
+      "longitude": 21.010765
+    },
+    {
+      "name": "Noclegi Galesz",
+      "latitude": 50.837446,
+      "longitude": 16.498681
+    },
+    {
+      "name": "Noclegi Gdynia",
+      "latitude": 54.524695,
+      "longitude": 18.545458
+    },
+    {
+      "name": "Noclegi Grajek",
+      "latitude": 52.431547,
+      "longitude": 16.706069
+    },
+    {
+      "name": "noclegi Kandulski",
+      "latitude": 52.37876,
+      "longitude": 16.838177
+    },
+    {
+      "name": "Noclegi Kolejowa",
+      "latitude": 50.088694,
+      "longitude": 18.553604
+    },
+    {
+      "name": "Noclegi Podgórna 12",
+      "latitude": 52.406174,
+      "longitude": 16.929783
+    },
+    {
+      "name": "Noclegi Pokoje Gościnne",
+      "latitude": 51.556204,
+      "longitude": 20.015658
+    },
+    {
+      "name": "Noclegi przy Ogrodowej",
+      "latitude": 51.554589,
+      "longitude": 23.552975
+    },
+    {
+      "name": "Noclegi przy Targowej",
+      "latitude": 51.116079,
+      "longitude": 18.8686
+    },
+    {
+      "name": "Noclegi Relax",
+      "latitude": 51.235184,
+      "longitude": 22.619108
+    },
+    {
+      "name": "Noclegi S7",
+      "latitude": 50.040657,
+      "longitude": 20.068948
+    },
+    {
+      "name": "Noclegi SLAWEX",
+      "latitude": 51.551319,
+      "longitude": 23.545879
+    },
+    {
+      "name": "Noclegi Szafir",
+      "latitude": 54.573051,
+      "longitude": 16.84931
+    },
+    {
+      "name": "Noclegi tanie",
+      "latitude": 50.100153,
+      "longitude": 19.248573
+    },
+    {
+      "name": "Noclegi Teodorówka",
+      "latitude": 49.557763,
+      "longitude": 21.662711
+    },
+    {
+      "name": "Noclegi u Krzysztofa",
+      "latitude": 53.764565,
+      "longitude": 20.414253
+    },
+    {
+      "name": "Noclegi U Zbyszka",
+      "latitude": 52.236941,
+      "longitude": 20.285865
+    },
+    {
+      "name": "Noclegi w Rynku",
+      "latitude": 51.59401,
+      "longitude": 18.73845
+    },
+    {
+      "name": "Noclegi Zdrojowa",
+      "latitude": 52.965316,
+      "longitude": 14.607697
+    },
+    {
+      "name": "Noclegi „Pod Brzózką”",
+      "latitude": 49.480933,
+      "longitude": 20.036988
+    },
+    {
+      "name": "Nogleg",
+      "latitude": 52.975467,
+      "longitude": 22.253329
+    },
+    {
+      "name": "Nuove Frontiere",
+      "latitude": 50.481978,
+      "longitude": 17.326724
+    },
+    {
+      "name": "O W Słoneczko domki",
+      "latitude": 54.157742,
+      "longitude": 15.404651
+    },
+    {
+      "name": "O.W. Raj",
+      "latitude": 54.205872,
+      "longitude": 15.736706
+    },
+    {
+      "name": "O.W.Ajna Park",
+      "latitude": 54.182173,
+      "longitude": 15.588417
+    },
+    {
+      "name": "Oaza",
+      "latitude": 52.303756,
+      "longitude": 17.530084
+    },
+    {
+      "name": "Oblacka Przystań",
+      "latitude": 50.607929,
+      "longitude": 18.706165
+    },
+    {
+      "name": "Obora",
+      "latitude": 50.797677,
+      "longitude": 16.533103
+    },
+    {
+      "name": "Obywatelskiej Fundacji Pomocy Dzieciom",
+      "latitude": 52.232948,
+      "longitude": 21.023079
+    },
+    {
+      "name": "och! hostel",
+      "latitude": 54.512078,
+      "longitude": 18.53955
+    },
+    {
+      "name": "OK Noclegi",
+      "latitude": 52.201169,
+      "longitude": 21.155588
+    },
+    {
+      "name": "Oki Doki",
+      "latitude": 52.250678,
+      "longitude": 21.008415
+    },
+    {
+      "name": "Olive Hostel",
+      "latitude": 54.413598,
+      "longitude": 18.576097
+    },
+    {
+      "name": "Oliwka",
+      "latitude": 52.236437,
+      "longitude": 21.009344
+    },
+    {
+      "name": "One World Hostel",
+      "latitude": 50.062993,
+      "longitude": 19.945218
+    },
+    {
+      "name": "ONRest",
+      "latitude": 50.869475,
+      "longitude": 20.620454
+    },
+    {
+      "name": "Opera",
+      "latitude": 52.411045,
+      "longitude": 16.917377
+    },
+    {
+      "name": "Opera Hostel",
+      "latitude": 53.124835,
+      "longitude": 17.999494
+    },
+    {
+      "name": "Orange House",
+      "latitude": 52.429833,
+      "longitude": 16.933169
+    },
+    {
+      "name": "Orange Tree Hotel",
+      "latitude": 50.32433,
+      "longitude": 19.131308
+    },
+    {
+      "name": "ORSO Rooms & Apartments Loft Affair Collection",
+      "latitude": 52.190477,
+      "longitude": 20.907068
+    },
+    {
+      "name": "Ostrzyce SPA",
+      "latitude": 54.248066,
+      "longitude": 18.120915
+    },
+    {
+      "name": "Otm",
+      "latitude": 50.557872,
+      "longitude": 18.157069
+    },
+    {
+      "name": "OW Boski Raj",
+      "latitude": 54.20614,
+      "longitude": 15.716745
+    },
+    {
+      "name": "Ośrodek Biwakowo-Obozowy Hufca ZHP Piast Poznań Stare Miasto",
+      "latitude": 52.266715,
+      "longitude": 16.881355
+    },
+    {
+      "name": "Ośrodek Harcerski Hufca ZHP Myśliborz",
+      "latitude": 52.928542,
+      "longitude": 14.857129
+    },
+    {
+      "name": "Ośrodek leczniczo-wypoczynkowy DELFIN",
+      "latitude": 54.58686,
+      "longitude": 16.864383
+    },
+    {
+      "name": "ośrodek rekolekcyjno-wypoczynkowy \"Gwiazda Morza\"",
+      "latitude": 54.157437,
+      "longitude": 15.48773
+    },
+    {
+      "name": "Ośrodek Rekolekcyjno-Wypoczynkowy Sarepta",
+      "latitude": 49.336824,
+      "longitude": 22.066515
+    },
+    {
+      "name": "Ośrodek sanatoryjno-wypoczynkowy UAM",
+      "latitude": 54.183659,
+      "longitude": 15.577136
+    },
+    {
+      "name": "Ośrodek Szkoleniowo - Sportowy LZS \"JAGNA\"",
+      "latitude": 50.28674,
+      "longitude": 16.544099
+    },
+    {
+      "name": "Ośrodek Szkoleniowo-Wypoczynkowy \"Tęcza\"",
+      "latitude": 53.919676,
+      "longitude": 14.245158
+    },
+    {
+      "name": "Ośrodek Szkoleniowo-Wypoczynkowy Folwark CYZIÓWKA",
+      "latitude": 50.16778,
+      "longitude": 21.698603
+    },
+    {
+      "name": "Ośrodek Uroczysko",
+      "latitude": 54.582091,
+      "longitude": 16.842176
+    },
+    {
+      "name": "Ośrodek Wczasowo Szkoleniowy \"Mitur\"",
+      "latitude": 49.638931,
+      "longitude": 18.937801
+    },
+    {
+      "name": "Ośrodek Wczasowo-Rehabilitacyjny Arka",
+      "latitude": 54.537894,
+      "longitude": 16.530745
+    },
+    {
+      "name": "Ośrodek Wczasowo-Wypoczynkowy HELP-MED",
+      "latitude": 51.368735,
+      "longitude": 19.823501
+    },
+    {
+      "name": "Ośrodek Wczasowy \"Niewiadów\"",
+      "latitude": 54.581857,
+      "longitude": 16.83685
+    },
+    {
+      "name": "Ośrodek Wczasowy „Słoneczna Polana”",
+      "latitude": 54.622674,
+      "longitude": 16.983714
+    },
+    {
+      "name": "Ośrodek Wypoczynkowo-Szkoleniowy \"Dolina Warty\"",
+      "latitude": 51.02935,
+      "longitude": 19.362957
+    },
+    {
+      "name": "Ośrodek Wypoczynkowo-Szkoleniowy \"Lbn-Huta\"",
+      "latitude": 51.551922,
+      "longitude": 17.740319
+    },
+    {
+      "name": "Ośrodek wypoczynkowy \"ANNA\"",
+      "latitude": 50.61515,
+      "longitude": 22.965774
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy \"Dom Harcerza\"",
+      "latitude": 51.533792,
+      "longitude": 23.011207
+    },
+    {
+      "name": "Ośrodek wypoczynkowy \"Domino\"",
+      "latitude": 49.442127,
+      "longitude": 20.436173
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy \"Skarpa\"",
+      "latitude": 54.044041,
+      "longitude": 22.504813
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy Hufca ZHP",
+      "latitude": 51.256666,
+      "longitude": 19.894286
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy Nad Potokiem",
+      "latitude": 49.442509,
+      "longitude": 20.74587
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy Towarzystwa Przyjaciół Dzieci",
+      "latitude": 50.184798,
+      "longitude": 16.631053
+    },
+    {
+      "name": "Ośrodek Wypoczynkowy „Defka”",
+      "latitude": 52.333824,
+      "longitude": 15.28919
+    },
+    {
+      "name": "Parkowe Zacisze",
+      "latitude": 51.025298,
+      "longitude": 22.522931
+    },
+    {
+      "name": "Pastel Guest Rooms",
+      "latitude": 52.210064,
+      "longitude": 20.969673
+    },
+    {
+      "name": "Patchworkowe Siedlisko",
+      "latitude": 51.341487,
+      "longitude": 20.827005
+    },
+    {
+      "name": "Państwowa Bursa Szkół Artystycznych",
+      "latitude": 53.438775,
+      "longitude": 14.529433
+    },
+    {
+      "name": "Pension nad Wartą",
+      "latitude": 52.407367,
+      "longitude": 16.947434
+    },
+    {
+      "name": "Pensjonat \"U Janiny\"",
+      "latitude": 51.251752,
+      "longitude": 15.577426
+    },
+    {
+      "name": "Pensjonat Casablanca",
+      "latitude": 51.308011,
+      "longitude": 21.950345
+    },
+    {
+      "name": "Pensjonat Drogomistrzówka",
+      "latitude": 49.441325,
+      "longitude": 20.71907
+    },
+    {
+      "name": "Pensjonat Kacper",
+      "latitude": 52.441942,
+      "longitude": 15.113509
+    },
+    {
+      "name": "Pensjonat na Placu Słowiańskim",
+      "latitude": 51.936051,
+      "longitude": 15.504964
+    },
+    {
+      "name": "Pensjonat Villa Tabu",
+      "latitude": 52.408341,
+      "longitude": 17.009569
+    },
+    {
+      "name": "Pensjonat Świetlana",
+      "latitude": 49.441073,
+      "longitude": 20.719443
+    },
+    {
+      "name": "Pepe Hostel",
+      "latitude": 52.276115,
+      "longitude": 20.97089
+    },
+    {
+      "name": "Pink Panther's Hostel",
+      "latitude": 50.063928,
+      "longitude": 19.936921
+    },
+    {
+      "name": "Pit Stop",
+      "latitude": 52.398396,
+      "longitude": 16.898188
+    },
+    {
+      "name": "Plaża",
+      "latitude": 54.208258,
+      "longitude": 15.72576
+    },
+    {
+      "name": "Plaża Klub - Ośrodek Wypoczynkowy",
+      "latitude": 54.028257,
+      "longitude": 14.762381
+    },
+    {
+      "name": "Plejady",
+      "latitude": 54.157064,
+      "longitude": 15.412834
+    },
+    {
+      "name": "Plus",
+      "latitude": 51.123403,
+      "longitude": 17.018317
+    },
+    {
+      "name": "Poco Loco",
+      "latitude": 52.405337,
+      "longitude": 16.923847
+    },
+    {
+      "name": "Pod Krukiem",
+      "latitude": 49.424832,
+      "longitude": 20.957027
+    },
+    {
+      "name": "Pod Lipami",
+      "latitude": 51.946848,
+      "longitude": 15.519832
+    },
+    {
+      "name": "Pod Murami Dom Wycieczkowy",
+      "latitude": 50.013146,
+      "longitude": 20.990055
+    },
+    {
+      "name": "Pod Syrokom",
+      "latitude": 49.416857,
+      "longitude": 20.030141
+    },
+    {
+      "name": "Pod Zielonym Kogutem",
+      "latitude": 50.396994,
+      "longitude": 16.386899
+    },
+    {
+      "name": "PodGromadzyniem.Pl",
+      "latitude": 49.429675,
+      "longitude": 22.598629
+    },
+    {
+      "name": "Podzamcze PTTK",
+      "latitude": 49.782416,
+      "longitude": 22.766494
+    },
+    {
+      "name": "Pokoje \"Wacuś\"",
+      "latitude": 50.575882,
+      "longitude": 16.660766
+    },
+    {
+      "name": "Pokoje - Pod Jaworem",
+      "latitude": 51.328735,
+      "longitude": 16.853629
+    },
+    {
+      "name": "Pokoje Gościnne",
+      "latitude": 52.1076,
+      "longitude": 19.921367
+    },
+    {
+      "name": "Pokoje Gościnne \"Aquarium\"",
+      "latitude": 49.791739,
+      "longitude": 22.773761
+    },
+    {
+      "name": "Pokoje gościnne \"Maja\"",
+      "latitude": 49.454863,
+      "longitude": 20.283694
+    },
+    {
+      "name": "Pokoje gościnne \"Na Słonecznej\"",
+      "latitude": 53.471012,
+      "longitude": 14.448936
+    },
+    {
+      "name": "Pokoje gościnne \"U Cepra\"",
+      "latitude": 49.374471,
+      "longitude": 20.037279
+    },
+    {
+      "name": "Pokoje Gościnne \"Ustronie\"",
+      "latitude": 51.387223,
+      "longitude": 20.276154
+    },
+    {
+      "name": "Pokoje gościnne Anna",
+      "latitude": 49.6713,
+      "longitude": 21.136897
+    },
+    {
+      "name": "Pokoje Gościnne Anna Airport Modlin",
+      "latitude": 52.45015,
+      "longitude": 20.707922
+    },
+    {
+      "name": "Pokoje Gościnne Barbara",
+      "latitude": 49.777638,
+      "longitude": 19.199712
+    },
+    {
+      "name": "Pokoje gościnne Klatt",
+      "latitude": 50.041396,
+      "longitude": 19.938884
+    },
+    {
+      "name": "Pokoje gościnne Koral",
+      "latitude": 50.500431,
+      "longitude": 18.924539
+    },
+    {
+      "name": "Pokoje Gościnne Koschel",
+      "latitude": 54.102351,
+      "longitude": 18.768021
+    },
+    {
+      "name": "Pokoje Ilona Moskała",
+      "latitude": 49.72162,
+      "longitude": 18.918192
+    },
+    {
+      "name": "Pokoje Lomza",
+      "latitude": 53.17779,
+      "longitude": 22.089089
+    },
+    {
+      "name": "POKOJE NOCLEGOWE Centrum Sportu i Rekreacji",
+      "latitude": 51.786392,
+      "longitude": 21.181801
+    },
+    {
+      "name": "pokoje u Czecha",
+      "latitude": 54.789679,
+      "longitude": 18.400958
+    },
+    {
+      "name": "Pokoje u Zosi",
+      "latitude": 53.749933,
+      "longitude": 16.362105
+    },
+    {
+      "name": "Pokoje „Pod Pałacem”",
+      "latitude": 50.634613,
+      "longitude": 18.840966
+    },
+    {
+      "name": "Polin House",
+      "latitude": 50.038538,
+      "longitude": 19.220731
+    },
+    {
+      "name": "Posejdon Ośrodek Rekracyjno-Wypoczynkowy",
+      "latitude": 54.311276,
+      "longitude": 16.203367
+    },
+    {
+      "name": "Powstanie",
+      "latitude": 52.233294,
+      "longitude": 20.981344
+    },
+    {
+      "name": "Premium Hostel",
+      "latitude": 50.070819,
+      "longitude": 19.924952
+    },
+    {
+      "name": "Promenada",
+      "latitude": 50.035272,
+      "longitude": 22.000843
+    },
+    {
+      "name": "Przy Cesarskim Gościńcu",
+      "latitude": 49.826925,
+      "longitude": 22.191679
+    },
+    {
+      "name": "Przy Dobrym Źródle",
+      "latitude": 50.801049,
+      "longitude": 15.729917
+    },
+    {
+      "name": "Przystanek Toruń",
+      "latitude": 53.012744,
+      "longitude": 18.620078
+    },
+    {
+      "name": "Pszczew",
+      "latitude": 52.483098,
+      "longitude": 15.775369
+    },
+    {
+      "name": "PTSM",
+      "latitude": 51.134294,
+      "longitude": 23.479003
+    },
+    {
+      "name": "PTSM Oleandry",
+      "latitude": 50.06097,
+      "longitude": 19.921041
+    },
+    {
+      "name": "PTTK",
+      "latitude": 54.469914,
+      "longitude": 17.032046
+    },
+    {
+      "name": "PTTK Łańcut",
+      "latitude": 50.069336,
+      "longitude": 22.228566
+    },
+    {
+      "name": "Puzzle",
+      "latitude": 52.411433,
+      "longitude": 16.902954
+    },
+    {
+      "name": "Quadrans Hostel",
+      "latitude": 52.443001,
+      "longitude": 20.703344
+    },
+    {
+      "name": "Ranczo pod Wysoką Turnią",
+      "latitude": 50.573956,
+      "longitude": 19.481929
+    },
+    {
+      "name": "Red Carpet Hostel",
+      "latitude": 50.072583,
+      "longitude": 19.932232
+    },
+    {
+      "name": "Redwood",
+      "latitude": 51.222237,
+      "longitude": 22.588925
+    },
+    {
+      "name": "Regle",
+      "latitude": 50.336424,
+      "longitude": 16.387204
+    },
+    {
+      "name": "Relax",
+      "latitude": 49.41734,
+      "longitude": 20.95287
+    },
+    {
+      "name": "Relax",
+      "latitude": 52.255112,
+      "longitude": 21.103217
+    },
+    {
+      "name": "Relax Usługi Noclegowe",
+      "latitude": 51.7565,
+      "longitude": 19.459488
+    },
+    {
+      "name": "Renesans",
+      "latitude": 50.060735,
+      "longitude": 19.93815
+    },
+    {
+      "name": "Rentumi",
+      "latitude": 53.912186,
+      "longitude": 14.253697
+    },
+    {
+      "name": "Rentumi Hostel",
+      "latitude": 53.249991,
+      "longitude": 14.491381
+    },
+    {
+      "name": "Residence AM",
+      "latitude": 52.41246,
+      "longitude": 16.907476
+    },
+    {
+      "name": "Retro",
+      "latitude": 53.551626,
+      "longitude": 14.567668
+    },
+    {
+      "name": "Retro Hostel Poznań",
+      "latitude": 52.409511,
+      "longitude": 16.933039
+    },
+    {
+      "name": "Rezydencja Parysa",
+      "latitude": 51.238013,
+      "longitude": 22.488049
+    },
+    {
+      "name": "Rosemary's Hostel",
+      "latitude": 52.406792,
+      "longitude": 16.933414
+    },
+    {
+      "name": "Route 7 Hostel",
+      "latitude": 49.842797,
+      "longitude": 19.928609
+    },
+    {
+      "name": "Royal Hostel",
+      "latitude": 51.108182,
+      "longitude": 17.027405
+    },
+    {
+      "name": "Roza",
+      "latitude": 50.284074,
+      "longitude": 21.423008
+    },
+    {
+      "name": "RPG Hostel",
+      "latitude": 50.058542,
+      "longitude": 19.944415
+    },
+    {
+      "name": "Rusałka Ośrodek Wypoczynkowy",
+      "latitude": 54.313921,
+      "longitude": 16.206688
+    },
+    {
+      "name": "Rynek 6",
+      "latitude": 51.403376,
+      "longitude": 21.141852
+    },
+    {
+      "name": "Rynek 7",
+      "latitude": 50.260081,
+      "longitude": 19.02267
+    },
+    {
+      "name": "Róża",
+      "latitude": 49.687382,
+      "longitude": 19.188589
+    },
+    {
+      "name": "Safestay Warsaw",
+      "latitude": 52.245041,
+      "longitude": 21.013651
+    },
+    {
+      "name": "Salezjański dom młodzieżowy w Polanie",
+      "latitude": 49.303931,
+      "longitude": 22.574065
+    },
+    {
+      "name": "Saturn",
+      "latitude": 54.033584,
+      "longitude": 19.026596
+    },
+    {
+      "name": "Schronisko \"Hajstra\"",
+      "latitude": 49.454735,
+      "longitude": 21.537523
+    },
+    {
+      "name": "Schronisko Agroturystyczne Radosne Szwejkowo",
+      "latitude": 49.249255,
+      "longitude": 22.057129
+    },
+    {
+      "name": "Schronisko Liczyrzepa",
+      "latitude": 50.776433,
+      "longitude": 15.781192
+    },
+    {
+      "name": "Schronisko Młodzieżowe",
+      "latitude": 49.62295,
+      "longitude": 20.949109
+    },
+    {
+      "name": "Schronisko Młodzieżowe",
+      "latitude": 52.4775,
+      "longitude": 15.779339
+    },
+    {
+      "name": "Schronisko Młodzieżowe",
+      "latitude": 53.53518,
+      "longitude": 16.015269
+    },
+    {
+      "name": "Schronisko młodzieżowe \"Murań\"",
+      "latitude": 49.283142,
+      "longitude": 19.929178
+    },
+    {
+      "name": "Schronisko Młodzieżowe \"Ustrzyk\"",
+      "latitude": 49.507162,
+      "longitude": 20.201905
+    },
+    {
+      "name": "Schronisko młodzieżowe CKU",
+      "latitude": 53.52594,
+      "longitude": 15.800682
+    },
+    {
+      "name": "Schronisko młodzieżowe Duninowo",
+      "latitude": 54.538623,
+      "longitude": 16.819752
+    },
+    {
+      "name": "Schronisko Młodzieżowe LUBAWIA",
+      "latitude": 50.697283,
+      "longitude": 16.013392
+    },
+    {
+      "name": "Schronisko Młodzieżowe Maciejówka",
+      "latitude": 50.973741,
+      "longitude": 15.612332
+    },
+    {
+      "name": "Schronisko Młodzieżowe Małgosia",
+      "latitude": 50.18956,
+      "longitude": 19.745064
+    },
+    {
+      "name": "Schronisko młodzieżowe Pawełki",
+      "latitude": 50.746732,
+      "longitude": 18.677349
+    },
+    {
+      "name": "Schronisko Młodzieżowe PTSM \"Matecznik\"",
+      "latitude": 49.791935,
+      "longitude": 22.763444
+    },
+    {
+      "name": "Schronisko Młodzieżowe Skała",
+      "latitude": 50.222633,
+      "longitude": 19.844084
+    },
+    {
+      "name": "Schronisko Młodzieżowe Tadeuszówka",
+      "latitude": 53.745371,
+      "longitude": 16.077068
+    },
+    {
+      "name": "Schronisko Młodzieżowe Tanie Spanie",
+      "latitude": 50.90754,
+      "longitude": 20.882414
+    },
+    {
+      "name": "Schronisko Młodzieżowe TPD",
+      "latitude": 52.422867,
+      "longitude": 16.910881
+    },
+    {
+      "name": "Schronisko Młodzieżowe w Bolkowie",
+      "latitude": 50.91942,
+      "longitude": 16.097909
+    },
+    {
+      "name": "Schronisko Młodzieżowe w Dobkowie (tymczasowo zamknięte)",
+      "latitude": 50.986207,
+      "longitude": 15.960281
+    },
+    {
+      "name": "Schronisko Młodzieżowe w Jaworze",
+      "latitude": 51.055489,
+      "longitude": 16.186076
+    },
+    {
+      "name": "Schronisko Młodzieżowe Wiecha",
+      "latitude": 49.707131,
+      "longitude": 18.849632
+    },
+    {
+      "name": "Schronisko młodzieżowe „CZEKAY”",
+      "latitude": 51.592988,
+      "longitude": 18.937147
+    },
+    {
+      "name": "Schronisko Na Wyspie",
+      "latitude": 51.116124,
+      "longitude": 17.04046
+    },
+    {
+      "name": "Schronisko Paryjówka im. Generała Wędzidełko",
+      "latitude": 49.447102,
+      "longitude": 21.135147
+    },
+    {
+      "name": "Schronisko pod Wianuszkami",
+      "latitude": 51.330903,
+      "longitude": 21.95789
+    },
+    {
+      "name": "Schronisko PTSM",
+      "latitude": 53.133639,
+      "longitude": 17.997485
+    },
+    {
+      "name": "Schronisko PTSM Pod Pielgrzymem",
+      "latitude": 50.860219,
+      "longitude": 21.079107
+    },
+    {
+      "name": "Schronisko PTSM Wędrownik",
+      "latitude": 50.864267,
+      "longitude": 20.648988
+    },
+    {
+      "name": "Schronisko SSM Korbielów",
+      "latitude": 49.582392,
+      "longitude": 19.343678
+    },
+    {
+      "name": "Schronisko SSM Rycerka Kolonia",
+      "latitude": 49.439842,
+      "longitude": 19.016171
+    },
+    {
+      "name": "Schronisko SSM Soblówka",
+      "latitude": 49.43644,
+      "longitude": 19.142758
+    },
+    {
+      "name": "Schronisko Stodoła",
+      "latitude": 50.236952,
+      "longitude": 16.771023
+    },
+    {
+      "name": "Schronisko Szkolne",
+      "latitude": 51.015204,
+      "longitude": 15.67466
+    },
+    {
+      "name": "Schronisko Turystyczne \"Halny\"",
+      "latitude": 50.948535,
+      "longitude": 15.368766
+    },
+    {
+      "name": "Schronisko Turystyczne \"Halny\"",
+      "latitude": 50.94875,
+      "longitude": 15.367446
+    },
+    {
+      "name": "Schronisko w Zembrzycach",
+      "latitude": 49.776011,
+      "longitude": 19.605148
+    },
+    {
+      "name": "Schronisko w Ślemieniu - Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.71999,
+      "longitude": 19.375612
+    },
+    {
+      "name": "Schronisko wędkarskie PZW Świętajno",
+      "latitude": 53.592574,
+      "longitude": 21.260496
+    },
+    {
+      "name": "Schronisko Zaścianek",
+      "latitude": 49.440594,
+      "longitude": 21.803233
+    },
+    {
+      "name": "Schronisko Łupki",
+      "latitude": 51.02229,
+      "longitude": 15.644517
+    },
+    {
+      "name": "Schullandheim Domino Camp",
+      "latitude": 50.884247,
+      "longitude": 14.812408
+    },
+    {
+      "name": "Sea Hostel",
+      "latitude": 54.523028,
+      "longitude": 18.521018
+    },
+    {
+      "name": "SEHO Noclegi",
+      "latitude": 53.137068,
+      "longitude": 18.002647
+    },
+    {
+      "name": "Sen Hostel",
+      "latitude": 52.460961,
+      "longitude": 16.948726
+    },
+    {
+      "name": "Sen nad Wartą",
+      "latitude": 52.644958,
+      "longitude": 16.809108
+    },
+    {
+      "name": "Sezonowe Szkolne Schronisko Młodzieżowe JULIA w Wałbrzychu",
+      "latitude": 50.771012,
+      "longitude": 16.273327
+    },
+    {
+      "name": "SHED Living",
+      "latitude": 50.063325,
+      "longitude": 19.908604
+    },
+    {
+      "name": "Siedem Łanów",
+      "latitude": 50.499261,
+      "longitude": 16.40217
+    },
+    {
+      "name": "Simar Hostel",
+      "latitude": 50.307589,
+      "longitude": 19.075516
+    },
+    {
+      "name": "Skalny",
+      "latitude": 50.458285,
+      "longitude": 19.551792
+    },
+    {
+      "name": "Sky Hostel",
+      "latitude": 50.064269,
+      "longitude": 19.942114
+    },
+    {
+      "name": "Skłodowska",
+      "latitude": 51.246292,
+      "longitude": 22.547091
+    },
+    {
+      "name": "Sleep In Hostel & Apartments",
+      "latitude": 52.408333,
+      "longitude": 16.931962
+    },
+    {
+      "name": "Smart City Stay",
+      "latitude": 54.516202,
+      "longitude": 18.534494
+    },
+    {
+      "name": "Soda hostel & apartments",
+      "latitude": 52.411979,
+      "longitude": 16.90879
+    },
+    {
+      "name": "Sonata Guest house",
+      "latitude": 49.742155,
+      "longitude": 18.624422
+    },
+    {
+      "name": "Sopotel - Pokoje Gościnne Sopot",
+      "latitude": 54.435,
+      "longitude": 18.5604
+    },
+    {
+      "name": "SOR Bike Hostel",
+      "latitude": 53.652095,
+      "longitude": 14.627681
+    },
+    {
+      "name": "Sound",
+      "latitude": 54.349708,
+      "longitude": 18.656888
+    },
+    {
+      "name": "Spichlerz",
+      "latitude": 50.796575,
+      "longitude": 16.533491
+    },
+    {
+      "name": "Spoko",
+      "latitude": 54.381816,
+      "longitude": 18.615119
+    },
+    {
+      "name": "Sport Hostel",
+      "latitude": 52.248648,
+      "longitude": 21.067331
+    },
+    {
+      "name": "SSM Chrobacze",
+      "latitude": 49.666109,
+      "longitude": 19.846116
+    },
+    {
+      "name": "SSM filia Bodzentyn",
+      "latitude": 50.943149,
+      "longitude": 20.947294
+    },
+    {
+      "name": "SSM i Bursa szkolna",
+      "latitude": 50.012364,
+      "longitude": 22.685414
+    },
+    {
+      "name": "SSM Krzeptówki",
+      "latitude": 49.286762,
+      "longitude": 19.923764
+    },
+    {
+      "name": "SSM Niezapominajka",
+      "latitude": 50.658533,
+      "longitude": 17.933863
+    },
+    {
+      "name": "SSM Nowy Kamień",
+      "latitude": 50.326994,
+      "longitude": 22.142662
+    },
+    {
+      "name": "SSM Rakszawa",
+      "latitude": 50.148226,
+      "longitude": 22.243555
+    },
+    {
+      "name": "SSM Szarotka",
+      "latitude": 49.300963,
+      "longitude": 19.955544
+    },
+    {
+      "name": "SSM Ustrzyki Dolne",
+      "latitude": 49.437016,
+      "longitude": 22.575495
+    },
+    {
+      "name": "SSM Ventus",
+      "latitude": 50.82351,
+      "longitude": 20.539894
+    },
+    {
+      "name": "SSM w Czudcu filia w Przemyślu",
+      "latitude": 49.78762,
+      "longitude": 22.764859
+    },
+    {
+      "name": "SSM w Oleszycach",
+      "latitude": 50.164313,
+      "longitude": 23.044171
+    },
+    {
+      "name": "SSM Wetlina",
+      "latitude": 49.1578,
+      "longitude": 22.466384
+    },
+    {
+      "name": "Stacja Centrum",
+      "latitude": 50.814322,
+      "longitude": 19.122574
+    },
+    {
+      "name": "Stacja Snu",
+      "latitude": 54.153765,
+      "longitude": 17.493348
+    },
+    {
+      "name": "Stajnia",
+      "latitude": 50.796391,
+      "longitude": 16.534198
+    },
+    {
+      "name": "Stara Plebania",
+      "latitude": 50.309092,
+      "longitude": 16.793946
+    },
+    {
+      "name": "Stara Praga Poludnie",
+      "latitude": 52.242482,
+      "longitude": 21.085973
+    },
+    {
+      "name": "Stara Szkoła",
+      "latitude": 50.875775,
+      "longitude": 15.941704
+    },
+    {
+      "name": "Staromiejski",
+      "latitude": 52.536167,
+      "longitude": 17.595359
+    },
+    {
+      "name": "Stańczyk",
+      "latitude": 50.04359,
+      "longitude": 19.945709
+    },
+    {
+      "name": "Stella",
+      "latitude": 51.403833,
+      "longitude": 21.144882
+    },
+    {
+      "name": "Submarine Hostel",
+      "latitude": 50.0664,
+      "longitude": 19.940179
+    },
+    {
+      "name": "Sunny Hostel",
+      "latitude": 51.110439,
+      "longitude": 17.025246
+    },
+    {
+      "name": "Swing Hotel Bielecki i Synowie",
+      "latitude": 51.71331,
+      "longitude": 19.28991
+    },
+    {
+      "name": "Syrenka",
+      "latitude": 51.775499,
+      "longitude": 19.452795
+    },
+    {
+      "name": "Szewska 22 Boutique",
+      "latitude": 50.062849,
+      "longitude": 19.933858
+    },
+    {
+      "name": "Szkolne Młodziezowe Schronisko \"Zacisze\"",
+      "latitude": 53.56862,
+      "longitude": 16.229162
+    },
+    {
+      "name": "Szkolne Schonisko Młodzieżowe",
+      "latitude": 50.910637,
+      "longitude": 20.796344
+    },
+    {
+      "name": "Szkolne Schronisko \"Rozdzielnia Wiatrów\" w Głobikowej",
+      "latitude": 49.964485,
+      "longitude": 21.446101
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.328209,
+      "longitude": 22.659975
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.3285,
+      "longitude": 22.383815
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.555138,
+      "longitude": 21.684937
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.677014,
+      "longitude": 21.167991
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.705855,
+      "longitude": 20.937974
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.786868,
+      "longitude": 20.972478
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 49.964436,
+      "longitude": 20.613301
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.035417,
+      "longitude": 19.99727
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.321902,
+      "longitude": 23.186485
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.454876,
+      "longitude": 18.16848
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.499035,
+      "longitude": 21.540235
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.699827,
+      "longitude": 22.978791
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.771197,
+      "longitude": 16.432554
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 50.848358,
+      "longitude": 16.48483
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.08778,
+      "longitude": 19.879184
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.100447,
+      "longitude": 17.036334
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.207911,
+      "longitude": 16.172355
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.357249,
+      "longitude": 22.757337
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.400495,
+      "longitude": 21.971626
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.477168,
+      "longitude": 17.356687
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.762021,
+      "longitude": 19.452744
+    },
+    {
+      "name": "Szkolne schronisko młodzieżowe",
+      "latitude": 51.776474,
+      "longitude": 19.449165
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.946931,
+      "longitude": 15.527048
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.956403,
+      "longitude": 15.626787
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 51.975258,
+      "longitude": 16.9788
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 52.256623,
+      "longitude": 15.522825
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 52.858339,
+      "longitude": 14.393751
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 53.022871,
+      "longitude": 18.58442
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 53.903243,
+      "longitude": 14.233676
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 54.346304,
+      "longitude": 18.599138
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe",
+      "latitude": 54.39161,
+      "longitude": 18.580958
+    },
+    {
+      "name": "Szkolne schronisko młodzieżowe",
+      "latitude": 54.665462,
+      "longitude": 17.210708
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe \"Agrykola\"",
+      "latitude": 52.220575,
+      "longitude": 21.035118
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe \"Dolina Baryczy\" w Miliczu",
+      "latitude": 51.521598,
+      "longitude": 17.273762
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe \"Dworek\"",
+      "latitude": 51.317413,
+      "longitude": 16.943617
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe \"Sitareczka\"",
+      "latitude": 50.543053,
+      "longitude": 22.724734
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe \"Skalnik\"",
+      "latitude": 50.825279,
+      "longitude": 15.822765
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Bieszczadnik",
+      "latitude": 49.478906,
+      "longitude": 22.321743
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Bolewicko",
+      "latitude": 52.378689,
+      "longitude": 16.051018
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Dom Sportowca",
+      "latitude": 50.958705,
+      "longitude": 22.161498
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Druh",
+      "latitude": 50.909266,
+      "longitude": 15.756453
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe FALA",
+      "latitude": 54.055548,
+      "longitude": 14.928083
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Hostelling International",
+      "latitude": 54.180431,
+      "longitude": 16.190502
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe im. Bolka i Lolka",
+      "latitude": 49.830829,
+      "longitude": 19.036313
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Jura",
+      "latitude": 50.267026,
+      "longitude": 19.576397
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Krokodyl w Okunince",
+      "latitude": 51.506064,
+      "longitude": 23.521209
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe nr 1",
+      "latitude": 54.358967,
+      "longitude": 18.651256
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe nr 1 im. Pawła Edmunda Strzeleckiego",
+      "latitude": 52.322301,
+      "longitude": 16.94632
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe nr 1 we Włodawie",
+      "latitude": 51.548453,
+      "longitude": 23.557238
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe nr 3 we Włodawie",
+      "latitude": 51.546341,
+      "longitude": 23.548604
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Nr 4",
+      "latitude": 53.364008,
+      "longitude": 14.65365
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Obiekt nr 1 przy ul. Kościuszki",
+      "latitude": 53.775176,
+      "longitude": 20.486021
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Obiekt nr 2 \"Relaks\"",
+      "latitude": 53.773177,
+      "longitude": 20.488098
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Pod Jałowcem",
+      "latitude": 49.689733,
+      "longitude": 19.511224
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe przy II Liceum Ogólnokształcącym",
+      "latitude": 50.446569,
+      "longitude": 23.411299
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Przy Zespole Szkół Zawodowych w Janowie Lubelskim",
+      "latitude": 50.706335,
+      "longitude": 22.420469
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Ptsm w Starym Brusie",
+      "latitude": 51.48107,
+      "longitude": 23.301027
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Siedemdziesiątka",
+      "latitude": 53.9656,
+      "longitude": 14.57059
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Skałka",
+      "latitude": 51.210656,
+      "longitude": 20.858428
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Staszicówka",
+      "latitude": 53.144574,
+      "longitude": 16.732727
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Baszni Dolnej",
+      "latitude": 50.17315,
+      "longitude": 23.229609
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Bieczu",
+      "latitude": 49.734504,
+      "longitude": 21.256025
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Cieszanowie",
+      "latitude": 50.242453,
+      "longitude": 23.145019
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Czudcu",
+      "latitude": 49.939786,
+      "longitude": 21.846266
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Czudcu filia w Tarnobrzegu",
+      "latitude": 50.566923,
+      "longitude": 21.71862
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Głuchołazach",
+      "latitude": 50.282674,
+      "longitude": 17.473237
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Hucie Różanieckiej",
+      "latitude": 50.378306,
+      "longitude": 23.198118
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Jabłonkach Akademia Bieszczadzka",
+      "latitude": 49.27847,
+      "longitude": 22.283003
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Józefowie",
+      "latitude": 50.477249,
+      "longitude": 23.058989
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Józefowie",
+      "latitude": 50.478642,
+      "longitude": 23.057812
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Józefowie Filia w Górecku Starym",
+      "latitude": 50.522566,
+      "longitude": 22.994646
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Kalnicy",
+      "latitude": 49.195071,
+      "longitude": 22.424621
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Krasnobrodzie",
+      "latitude": 50.549724,
+      "longitude": 23.197424
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Krowicy Samej",
+      "latitude": 50.101167,
+      "longitude": 23.232751
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Krośnicach",
+      "latitude": 51.47892,
+      "longitude": 17.33966
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Krynicach",
+      "latitude": 50.586154,
+      "longitude": 23.379556
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Lanckoronie",
+      "latitude": 49.844858,
+      "longitude": 19.713049
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Lutowiskach",
+      "latitude": 49.250227,
+      "longitude": 22.696342
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Mchawie",
+      "latitude": 49.356314,
+      "longitude": 22.280362
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Nowym Lublińcu",
+      "latitude": 50.297261,
+      "longitude": 23.093213
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Opatowie",
+      "latitude": 50.796881,
+      "longitude": 21.41934
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Rajczy-Nickulinie",
+      "latitude": 49.503143,
+      "longitude": 19.138232
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Solcu nad Wisłą",
+      "latitude": 51.132884,
+      "longitude": 21.76404
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Suścu",
+      "latitude": 50.412476,
+      "longitude": 23.209388
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Urszulinie",
+      "latitude": 51.393765,
+      "longitude": 23.19045
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Werchracie",
+      "latitude": 50.258029,
+      "longitude": 23.470495
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Woli Uhruskiej",
+      "latitude": 51.323684,
+      "longitude": 23.619892
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Zawoi Wełczy",
+      "latitude": 49.651876,
+      "longitude": 19.512527
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Zespole Szkół Rolniczych w Kijanach",
+      "latitude": 51.336519,
+      "longitude": 22.770919
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Zwierzyńcu",
+      "latitude": 50.615479,
+      "longitude": 22.968669
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe w Ślemieniu - Filia w Lesie",
+      "latitude": 49.739369,
+      "longitude": 19.429957
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe we Włodawie",
+      "latitude": 51.554729,
+      "longitude": 23.557471
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe WOJTEK",
+      "latitude": 50.888533,
+      "longitude": 15.74585
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Zacisze",
+      "latitude": 51.125956,
+      "longitude": 15.913281
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Zespołu Szkół",
+      "latitude": 50.819974,
+      "longitude": 23.548977
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe Ślązaczek",
+      "latitude": 50.265075,
+      "longitude": 19.014845
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe „Dąbrówka”",
+      "latitude": 50.315565,
+      "longitude": 17.569323
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe „Hanka”",
+      "latitude": 52.452253,
+      "longitude": 16.8488
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe „Hondrasik”",
+      "latitude": 49.71827,
+      "longitude": 19.035795
+    },
+    {
+      "name": "Szkolne Schronisko Młodzieżowe „Pod Ziębickim Lwem”",
+      "latitude": 50.460689,
+      "longitude": 17.330261
+    },
+    {
+      "name": "Szkoła podstawowa",
+      "latitude": 50.981324,
+      "longitude": 22.031626
+    },
+    {
+      "name": "Sztukateria",
+      "latitude": 53.429813,
+      "longitude": 14.547403
+    },
+    {
+      "name": "Słoneczna Przystań",
+      "latitude": 52.338377,
+      "longitude": 16.884586
+    },
+    {
+      "name": "Słowianka",
+      "latitude": 50.828283,
+      "longitude": 16.479228
+    },
+    {
+      "name": "Tanie Noclegi Pracownicze",
+      "latitude": 51.579194,
+      "longitude": 19.005986
+    },
+    {
+      "name": "Tanie spanie przy City Parku",
+      "latitude": 52.398854,
+      "longitude": 16.897183
+    },
+    {
+      "name": "Tara",
+      "latitude": 50.050808,
+      "longitude": 19.942206
+    },
+    {
+      "name": "Target Hostel",
+      "latitude": 49.29965,
+      "longitude": 19.957036
+    },
+    {
+      "name": "Tawerna stawisko",
+      "latitude": 51.489258,
+      "longitude": 21.673809
+    },
+    {
+      "name": "Tenement House",
+      "latitude": 52.404497,
+      "longitude": 16.928366
+    },
+    {
+      "name": "Terebowiec",
+      "latitude": 49.102257,
+      "longitude": 22.655153
+    },
+    {
+      "name": "Tetris Hostel",
+      "latitude": 54.433821,
+      "longitude": 18.563569
+    },
+    {
+      "name": "Tey",
+      "latitude": 52.40735,
+      "longitude": 16.934258
+    },
+    {
+      "name": "The Little Havana Party Hostel",
+      "latitude": 50.06205,
+      "longitude": 19.934751
+    },
+    {
+      "name": "The One Hostel",
+      "latitude": 51.109287,
+      "longitude": 17.033423
+    },
+    {
+      "name": "Top Hostel",
+      "latitude": 49.294043,
+      "longitude": 19.953097
+    },
+    {
+      "name": "Trafo Base Camp",
+      "latitude": 50.566493,
+      "longitude": 19.535414
+    },
+    {
+      "name": "Trans",
+      "latitude": 53.459021,
+      "longitude": 14.573467
+    },
+    {
+      "name": "Trip&hostel",
+      "latitude": 54.352693,
+      "longitude": 18.648687
+    },
+    {
+      "name": "Truchanówka",
+      "latitude": 49.285057,
+      "longitude": 19.85541
+    },
+    {
+      "name": "Trzy Kolory",
+      "latitude": 51.116256,
+      "longitude": 17.059936
+    },
+    {
+      "name": "Turistická ubytovna KČT",
+      "latitude": 50.371657,
+      "longitude": 17.184966
+    },
+    {
+      "name": "Turistická ubytovňa",
+      "latitude": 49.393673,
+      "longitude": 20.411635
+    },
+    {
+      "name": "Turistická ubytovňa",
+      "latitude": 49.406953,
+      "longitude": 20.464572
+    },
+    {
+      "name": "Tutti Frutti",
+      "latitude": 50.063375,
+      "longitude": 19.940547
+    },
+    {
+      "name": "Twierdza Srebrna Góra",
+      "latitude": 50.574198,
+      "longitude": 16.642259
+    },
+    {
+      "name": "Twój Hostel",
+      "latitude": 50.308313,
+      "longitude": 18.8645
+    },
+    {
+      "name": "Twój Hostel",
+      "latitude": 50.371373,
+      "longitude": 18.892891
+    },
+    {
+      "name": "Tyrolski",
+      "latitude": 53.777254,
+      "longitude": 20.476426
+    },
+    {
+      "name": "U Andrzeja Pensjonat",
+      "latitude": 49.412875,
+      "longitude": 20.954625
+    },
+    {
+      "name": "U Jana",
+      "latitude": 49.779815,
+      "longitude": 22.804928
+    },
+    {
+      "name": "U Jana",
+      "latitude": 52.17995,
+      "longitude": 16.71084
+    },
+    {
+      "name": "U Kasi",
+      "latitude": 51.403141,
+      "longitude": 22.968442
+    },
+    {
+      "name": "U Marisa",
+      "latitude": 49.798245,
+      "longitude": 22.746837
+    },
+    {
+      "name": "U Marzeny",
+      "latitude": 50.894575,
+      "longitude": 20.824548
+    },
+    {
+      "name": "u Rzepki",
+      "latitude": 50.545555,
+      "longitude": 18.979046
+    },
+    {
+      "name": "U Szermierzy",
+      "latitude": 51.106338,
+      "longitude": 17.043661
+    },
+    {
+      "name": "U Wioli",
+      "latitude": 52.300012,
+      "longitude": 20.802229
+    },
+    {
+      "name": "Ubytovanie Helena",
+      "latitude": 49.390577,
+      "longitude": 20.405271
+    },
+    {
+      "name": "Universus",
+      "latitude": 54.348919,
+      "longitude": 18.647431
+    },
+    {
+      "name": "Uroczysko",
+      "latitude": 53.796651,
+      "longitude": 22.807168
+    },
+    {
+      "name": "Uroczysko - Ośrodek Wczasowy",
+      "latitude": 54.581381,
+      "longitude": 16.835409
+    },
+    {
+      "name": "Urok Morza",
+      "latitude": 54.188814,
+      "longitude": 15.602939
+    },
+    {
+      "name": "Vanilla Hostel",
+      "latitude": 51.106018,
+      "longitude": 17.046242
+    },
+    {
+      "name": "Varsavia Hostel",
+      "latitude": 52.238871,
+      "longitude": 20.957352
+    },
+    {
+      "name": "Velo Hostel",
+      "latitude": 50.028378,
+      "longitude": 19.541135
+    },
+    {
+      "name": "Venetian House",
+      "latitude": 50.060523,
+      "longitude": 19.938097
+    },
+    {
+      "name": "Very Berry",
+      "latitude": 52.407388,
+      "longitude": 16.929378
+    },
+    {
+      "name": "Vice City Hostel",
+      "latitude": 51.109603,
+      "longitude": 17.026189
+    },
+    {
+      "name": "Viki Hostel",
+      "latitude": 50.05015,
+      "longitude": 19.940434
+    },
+    {
+      "name": "Villa Minerva",
+      "latitude": 51.262973,
+      "longitude": 15.556884
+    },
+    {
+      "name": "Villa Nobis",
+      "latitude": 54.75088,
+      "longitude": 17.574379
+    },
+    {
+      "name": "WAGMA",
+      "latitude": 54.186899,
+      "longitude": 15.599793
+    },
+    {
+      "name": "WAGMA",
+      "latitude": 54.188629,
+      "longitude": 15.60016
+    },
+    {
+      "name": "WCSM Agrykola",
+      "latitude": 52.249372,
+      "longitude": 21.006606
+    },
+    {
+      "name": "Wega",
+      "latitude": 54.181944,
+      "longitude": 15.591549
+    },
+    {
+      "name": "Welcome 2",
+      "latitude": 50.05708,
+      "longitude": 19.926862
+    },
+    {
+      "name": "Widok",
+      "latitude": 50.338405,
+      "longitude": 16.388107
+    },
+    {
+      "name": "Wielobranżówka",
+      "latitude": 52.870371,
+      "longitude": 22.534665
+    },
+    {
+      "name": "Wiktorowa Chata",
+      "latitude": 49.41328,
+      "longitude": 20.769348
+    },
+    {
+      "name": "Willa Alpha",
+      "latitude": 49.304527,
+      "longitude": 19.960383
+    },
+    {
+      "name": "Willa Miłosna",
+      "latitude": 53.710711,
+      "longitude": 18.954801
+    },
+    {
+      "name": "Willa Smrek",
+      "latitude": 49.41859,
+      "longitude": 20.95209
+    },
+    {
+      "name": "Willa Sokole Gniazdo",
+      "latitude": 52.005966,
+      "longitude": 21.155993
+    },
+    {
+      "name": "Willa Stare Osieczno",
+      "latitude": 53.009884,
+      "longitude": 15.951773
+    },
+    {
+      "name": "Willa Wisła",
+      "latitude": 49.814652,
+      "longitude": 19.941951
+    },
+    {
+      "name": "Words & Swords",
+      "latitude": 50.066261,
+      "longitude": 19.935158
+    },
+    {
+      "name": "World Hostel",
+      "latitude": 54.355554,
+      "longitude": 18.652491
+    },
+    {
+      "name": "Wronka",
+      "latitude": 52.409806,
+      "longitude": 16.934166
+    },
+    {
+      "name": "Wrzos",
+      "latitude": 54.2072,
+      "longitude": 15.719393
+    },
+    {
+      "name": "Włókniarz",
+      "latitude": 54.587022,
+      "longitude": 16.874038
+    },
+    {
+      "name": "Yarek Hostels",
+      "latitude": 50.880645,
+      "longitude": 15.743179
+    },
+    {
+      "name": "Za Kolumnami",
+      "latitude": 50.07005,
+      "longitude": 19.899587
+    },
+    {
+      "name": "Zacisze",
+      "latitude": 50.384862,
+      "longitude": 19.638559
+    },
+    {
+      "name": "Zagroda na Zadupiu",
+      "latitude": 52.665584,
+      "longitude": 16.624473
+    },
+    {
+      "name": "Zajaz Brzozowy Raj",
+      "latitude": 51.362254,
+      "longitude": 21.524399
+    },
+    {
+      "name": "Zajazd",
+      "latitude": 49.722344,
+      "longitude": 20.275141
+    },
+    {
+      "name": "Zajazd \"Academicus\"",
+      "latitude": 49.749364,
+      "longitude": 18.647289
+    },
+    {
+      "name": "Zajazd \"Orlik\"",
+      "latitude": 50.488572,
+      "longitude": 19.573317
+    },
+    {
+      "name": "Zajazd Flis",
+      "latitude": 50.189266,
+      "longitude": 23.372046
+    },
+    {
+      "name": "Zajazd Irys",
+      "latitude": 50.296753,
+      "longitude": 19.11554
+    },
+    {
+      "name": "Zajazd Kresowia",
+      "latitude": 53.393439,
+      "longitude": 23.470756
+    },
+    {
+      "name": "Zajazd na Podzamczu",
+      "latitude": 50.250929,
+      "longitude": 19.787132
+    },
+    {
+      "name": "Zajazd Ostoja",
+      "latitude": 49.7144,
+      "longitude": 20.95495
+    },
+    {
+      "name": "Zajazd Pod Debem",
+      "latitude": 50.01374,
+      "longitude": 21.02494
+    },
+    {
+      "name": "Zajazd Pod Skałą",
+      "latitude": 49.78488,
+      "longitude": 21.419766
+    },
+    {
+      "name": "Zajazd u Gomółki",
+      "latitude": 51.692877,
+      "longitude": 23.036465
+    },
+    {
+      "name": "Zajazd u Marka",
+      "latitude": 51.183492,
+      "longitude": 23.726879
+    },
+    {
+      "name": "Zajazd Zielona",
+      "latitude": 50.543796,
+      "longitude": 18.971214
+    },
+    {
+      "name": "Zakład Hotelowy Monika",
+      "latitude": 52.245162,
+      "longitude": 21.114459
+    },
+    {
+      "name": "Zamek Golubski",
+      "latitude": 53.115533,
+      "longitude": 19.049574
+    },
+    {
+      "name": "Zbójnicka Chata",
+      "latitude": 50.344104,
+      "longitude": 16.392804
+    },
+    {
+      "name": "Zedan",
+      "latitude": 54.208764,
+      "longitude": 15.728324
+    },
+    {
+      "name": "Zeitraum",
+      "latitude": 50.050354,
+      "longitude": 19.990384
+    },
+    {
+      "name": "Zespół Placówek Młodzieżowych \"Bursa\"",
+      "latitude": 53.478125,
+      "longitude": 18.755467
+    },
+    {
+      "name": "Zielony Domek",
+      "latitude": 53.88309,
+      "longitude": 21.295138
+    },
+    {
+      "name": "Zoom Przygody",
+      "latitude": 50.691308,
+      "longitude": 22.400436
+    },
+    {
+      "name": "Zulian",
+      "latitude": 50.070225,
+      "longitude": 19.937167
+    },
+    {
+      "name": "Zuza",
+      "latitude": 54.205968,
+      "longitude": 15.714966
+    },
+    {
+      "name": "Złoty Kłos",
+      "latitude": 50.499457,
+      "longitude": 16.401172
+    },
+    {
+      "name": "Ąę",
+      "latitude": 52.235822,
+      "longitude": 21.018021
+    },
+    {
+      "name": "Ławica Hostel",
+      "latitude": 52.408915,
+      "longitude": 16.837653
+    },
+    {
+      "name": "Łopusze",
+      "latitude": 49.799506,
+      "longitude": 20.422364
+    },
+    {
+      "name": "Łowisko Młyn",
+      "latitude": 50.779347,
+      "longitude": 20.151292
+    },
+    {
+      "name": "Łukowy Kąt",
+      "latitude": 54.076873,
+      "longitude": 23.07518
+    },
+    {
+      "name": "Ślązaczek",
+      "latitude": 50.298945,
+      "longitude": 18.695068
+    },
+    {
+      "name": "Ślężanka",
+      "latitude": 50.829706,
+      "longitude": 16.482039
+    },
+    {
+      "name": "Żółty Dworek",
+      "latitude": 54.274329,
+      "longitude": 16.107679
+    }
+  ],
+  "meta": {
+    "title": "Polska — hostele - Bezpłatne pobieranie",
+    "description": "Hostele w Polsce (OpenStreetMap) Zawiera 1094 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — hostele | ListBase",
+    "seo_description": "Pobierz Polska — hostele — 1094 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 1094 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

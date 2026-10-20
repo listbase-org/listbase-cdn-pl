@@ -1,0 +1,686 @@
+{
+  "id": "pl-obszary-chronionego-krajobrazu-cdda",
+  "name": "Polska — obszary chronionego krajobrazu (CDDA)",
+  "title": "Polska — obszary chronionego krajobrazu (CDDA)",
+  "description": "62 obiektów, których nazwa w rejestrze CDDA zawiera „obszar chronionego krajobrazu” (podzbiór pl-obszary-chronione-cdda).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "cdda_id",
+      "label": "Cdda Id",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "kategoria_z_nazwy",
+      "label": "Kategoria Z Nazwy",
+      "type": "string"
+    },
+    {
+      "key": "rok_ustanowienia",
+      "label": "Rok Ustanowienia",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lat",
+      "label": "Srodek Lat",
+      "type": "number"
+    },
+    {
+      "key": "srodek_lon",
+      "label": "Srodek Lon",
+      "type": "number"
+    },
+    {
+      "key": "zrodlo_geometrii",
+      "label": "Zrodlo Geometrii",
+      "type": "string"
+    },
+    {
+      "key": "data_edycji_zrodla",
+      "label": "Data Edycji Zrodla",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "cdda_id": 177732,
+      "nazwa": "Bratucicki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.05025,
+      "srodek_lon": 20.59804,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115151,
+      "nazwa": "Brzóźniański Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 50.2321,
+      "srodek_lon": 22.28382,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31605,
+      "nazwa": "Chełmski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.22527,
+      "srodek_lon": 23.43588,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115121,
+      "nazwa": "Chodelski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.17387,
+      "srodek_lon": 21.97694,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115145,
+      "nazwa": "Czarnorzecki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 49.71467,
+      "srodek_lon": 21.87748,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115122,
+      "nazwa": "Czerniejowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.09898,
+      "srodek_lon": 22.58555,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177724,
+      "nazwa": "Dołhobyczowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.62365,
+      "srodek_lon": 24.02032,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562795,
+      "nazwa": "Grabowiecko-Strzelecki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 50.95499,
+      "srodek_lon": 23.50636,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115146,
+      "nazwa": "Hyżnieńsko-Gwoźnicki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.89828,
+      "srodek_lon": 22.11469,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177734,
+      "nazwa": "Jastrząbsko-Żdżarski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.11175,
+      "srodek_lon": 21.14651,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562791,
+      "nazwa": "Jeleniowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2001,
+      "srodek_lat": 50.83505,
+      "srodek_lon": 21.19318,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562833,
+      "nazwa": "Koszycki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 50.17236,
+      "srodek_lon": 20.56602,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115119,
+      "nazwa": "Kraśnicki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 50.94336,
+      "srodek_lon": 22.14144,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115152,
+      "nazwa": "Kuryłowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 50.30755,
+      "srodek_lon": 22.5474,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555737608,
+      "nazwa": "Leśniańsko-Złotnicki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 51.02391,
+      "srodek_lon": 15.34132,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562759,
+      "nazwa": "Mielecko-Kolbuszowsko-Głogowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 50.22454,
+      "srodek_lon": 21.66098,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 114989,
+      "nazwa": "Nadbużański Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 52.48036,
+      "srodek_lon": 22.45021,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177677,
+      "nazwa": "Nadbużański Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1997,
+      "srodek_lat": 50.80611,
+      "srodek_lon": 24.02304,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177678,
+      "nazwa": "Nadbużański Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1990,
+      "srodek_lat": 51.92564,
+      "srodek_lon": 23.59442,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115143,
+      "nazwa": "Obszar Chronionego Krajobrazu Beskidu Niskiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 49.49433,
+      "srodek_lon": 21.86694,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562918,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Błędzianki",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 54.25085,
+      "srodek_lon": 22.45948,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177773,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Gołdapy i Węgorapy",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 54.28256,
+      "srodek_lon": 22.00055,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562840,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Górnej Drwęcy",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.60717,
+      "srodek_lon": 20.10253,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555691997,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Rzeki Debrzynki",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2019,
+      "srodek_lat": 53.5397,
+      "srodek_lon": 17.16827,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562763,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Symsarny",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.97704,
+      "srodek_lon": 20.85511,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177737,
+      "nazwa": "Obszar Chronionego Krajobrazu Doliny Wisły",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.25973,
+      "srodek_lon": 20.84516,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177739,
+      "nazwa": "Obszar Chronionego Krajobrazu Pogórza Ciężkowickiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 49.88325,
+      "srodek_lon": 21.01767,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177781,
+      "nazwa": "Obszar Chronionego Krajobrazu Pojezierza Ełckiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.8931,
+      "srodek_lon": 22.30559,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562900,
+      "nazwa": "Obszar Chronionego Krajobrazu Pojezierza Iławskiego - Wschód",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.76451,
+      "srodek_lon": 19.65015,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562773,
+      "nazwa": "Obszar Chronionego Krajobrazu Pojezierza Iławskiego - część A i B",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.72255,
+      "srodek_lon": 19.52539,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562916,
+      "nazwa": "Obszar Chronionego Krajobrazu Pojezierza Olsztyńskiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 53.73971,
+      "srodek_lon": 20.81962,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31699,
+      "nazwa": "Obszar Chronionego Krajobrazu Pojezierze Sławskie, Pradolina Obry i Rynna Zbąszyńska",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 52.121,
+      "srodek_lon": 16.0038,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555589099,
+      "nazwa": "Obszar Chronionego Krajobrazu Potoku Leśnego łącznie z dopływami",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2003,
+      "srodek_lat": 50.17117,
+      "srodek_lon": 18.76833,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555589102,
+      "nazwa": "Obszar Chronionego Krajobrazu Potoku Od Solarni łącznie z dopływami",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2003,
+      "srodek_lat": 50.19151,
+      "srodek_lon": 18.74014,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555589100,
+      "nazwa": "Obszar Chronionego Krajobrazu Potoku Ornontowickiego łącznie z dopływami",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2003,
+      "srodek_lat": 50.19117,
+      "srodek_lon": 18.7584,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555589101,
+      "nazwa": "Obszar Chronionego Krajobrazu Potoku Z Bujakowa łącznie z dopływami",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2003,
+      "srodek_lat": 50.19196,
+      "srodek_lon": 18.77438,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555589103,
+      "nazwa": "Obszar Chronionego Krajobrazu Potoku Łąkowego łącznie z dopływami",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2003,
+      "srodek_lat": 50.19314,
+      "srodek_lon": 18.74515,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177714,
+      "nazwa": "Obszar Chronionego Krajobrazu Rzeki Liwy (woj.warmińsko-mazurskie)",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1985,
+      "srodek_lat": 53.73932,
+      "srodek_lon": 19.3014,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177740,
+      "nazwa": "Obszar Chronionego Krajobrazu Wschodniego Pogórza Wiśnickiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 49.88765,
+      "srodek_lon": 20.65095,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562850,
+      "nazwa": "Obszar Chronionego Krajobrazu Wyżyny Miechowskiej",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 50.40134,
+      "srodek_lon": 20.09524,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562808,
+      "nazwa": "Obszar Chronionego Krajobrazu Zachodniego Pogórza Wiśnickiego",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 49.86748,
+      "srodek_lon": 20.34132,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555595632,
+      "nazwa": "Obszar Chronionego Krajobrazu w gminie Kórnik",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1993,
+      "srodek_lat": 52.2478,
+      "srodek_lon": 17.08666,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562816,
+      "nazwa": "Otmuchowsko - Nyski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1989,
+      "srodek_lat": 50.46102,
+      "srodek_lon": 17.17041,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31607,
+      "nazwa": "Pawłowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.13368,
+      "srodek_lon": 23.13723,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562789,
+      "nazwa": "Piliczański Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2009,
+      "srodek_lat": 51.08747,
+      "srodek_lon": 19.87281,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177672,
+      "nazwa": "Podkielecki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1995,
+      "srodek_lat": 50.87424,
+      "srodek_lon": 20.70014,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31608,
+      "nazwa": "Poleski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1983,
+      "srodek_lat": 51.45298,
+      "srodek_lon": 23.30603,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555562793,
+      "nazwa": "Południowomałopolski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1997,
+      "srodek_lat": 49.54206,
+      "srodek_lon": 20.38563,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31656,
+      "nazwa": "Przemysko-Dynowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1987,
+      "srodek_lat": 49.80218,
+      "srodek_lon": 22.44578,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31668,
+      "nazwa": "Radzyński Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 51.92074,
+      "srodek_lon": 22.53942,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177741,
+      "nazwa": "Radłowsko-Wierzchosławicki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1996,
+      "srodek_lat": 50.08196,
+      "srodek_lon": 20.77548,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31657,
+      "nazwa": "Roztoczański Obszar Chronionego Krajobrazu (woj. podkarpackie)",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1987,
+      "srodek_lat": 50.27221,
+      "srodek_lon": 23.25881,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 31658,
+      "nazwa": "Sieniawski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1987,
+      "srodek_lat": 50.19209,
+      "srodek_lon": 22.73998,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115150,
+      "nazwa": "Sokołowsko-Wilczowolski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 50.29894,
+      "srodek_lon": 21.95988,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115148,
+      "nazwa": "Strzyżowsko-Sędziszowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 49.95794,
+      "srodek_lon": 21.75961,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 11489,
+      "nazwa": "Wschodniobeskidzki Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1998,
+      "srodek_lat": 49.44439,
+      "srodek_lon": 22.37964,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 115153,
+      "nazwa": "Zmysłowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1992,
+      "srodek_lat": 50.14578,
+      "srodek_lon": 22.41848,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 177675,
+      "nazwa": "Łukowski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 1986,
+      "srodek_lat": 51.98503,
+      "srodek_lon": 22.15498,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555633832,
+      "nazwa": "Świętokrzyski Obszar Chronionego Krajobrazu",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2017,
+      "srodek_lat": 50.8783,
+      "srodek_lon": 21.06526,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555595634,
+      "nazwa": "Świętokrzyski Obszar Chronionego Krajobrazu w gminie Bieliny",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2008,
+      "srodek_lat": 50.84831,
+      "srodek_lon": 20.9568,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555595633,
+      "nazwa": "Świętokrzyski Obszar Chronionego Krajobrazu w gminie Bodzentyn",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2007,
+      "srodek_lat": 50.93055,
+      "srodek_lon": 20.92132,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    },
+    {
+      "cdda_id": 555595635,
+      "nazwa": "Świętokrzyski Obszar Chronionego Krajobrazu w gminie Górno",
+      "kategoria_z_nazwy": "obszar chronionego krajobrazu",
+      "rok_ustanowienia": 2008,
+      "srodek_lat": 50.88012,
+      "srodek_lon": 20.84692,
+      "zrodlo_geometrii": "cdda",
+      "data_edycji_zrodla": "2024-03-17"
+    }
+  ],
+  "meta": {
+    "title": "Polska — obszary chronionego krajobrazu (CDDA) - Bezpłatne pobieranie",
+    "description": "62 obiektów, których nazwa w rejestrze CDDA zawiera „obszar chronionego krajobrazu” (podzbiór pl-obszary-chronione-cdda). Zawiera 62 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — obszary chronionego krajobrazu (CDDA) | ListBase",
+    "seo_description": "Pobierz Polska — obszary chronionego krajobrazu (CDDA) — 62 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 62 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

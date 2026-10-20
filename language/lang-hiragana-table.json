@@ -1,0 +1,488 @@
+{
+  "id": "lang-hiragana-table",
+  "name": "Zbiór Danych Japońskiej Tabeli Hiragany i Mapowania Romaji",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "hiragana",
+      "label": "Hiragana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hiragana": "あ",
+      "romaji": "a",
+      "category": "Samogłoska",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3042"
+    },
+    {
+      "hiragana": "い",
+      "romaji": "i",
+      "category": "Samogłoska",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3044"
+    },
+    {
+      "hiragana": "う",
+      "romaji": "u",
+      "category": "Samogłoska",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3046"
+    },
+    {
+      "hiragana": "え",
+      "romaji": "e",
+      "category": "Samogłoska",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3048"
+    },
+    {
+      "hiragana": "お",
+      "romaji": "o",
+      "category": "Samogłoska",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+304A"
+    },
+    {
+      "hiragana": "か",
+      "romaji": "ka",
+      "category": "Spółgłoska K",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+304B"
+    },
+    {
+      "hiragana": "き",
+      "romaji": "ki",
+      "category": "Spółgłoska K",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 4,
+      "unicode": "U+304D"
+    },
+    {
+      "hiragana": "く",
+      "romaji": "ku",
+      "category": "Spółgłoska K",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+304F"
+    },
+    {
+      "hiragana": "け",
+      "romaji": "ke",
+      "category": "Spółgłoska K",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+3051"
+    },
+    {
+      "hiragana": "こ",
+      "romaji": "ko",
+      "category": "Spółgłoska K",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3053"
+    },
+    {
+      "hiragana": "さ",
+      "romaji": "sa",
+      "category": "Spółgłoska S",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3055"
+    },
+    {
+      "hiragana": "し",
+      "romaji": "shi",
+      "category": "Spółgłoska S",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3057"
+    },
+    {
+      "hiragana": "す",
+      "romaji": "su",
+      "category": "Spółgłoska S",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3059"
+    },
+    {
+      "hiragana": "せ",
+      "romaji": "se",
+      "category": "Spółgłoska S",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+305B"
+    },
+    {
+      "hiragana": "そ",
+      "romaji": "so",
+      "category": "Spółgłoska S",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+305D"
+    },
+    {
+      "hiragana": "た",
+      "romaji": "ta",
+      "category": "Spółgłoska T",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+305F"
+    },
+    {
+      "hiragana": "ち",
+      "romaji": "chi",
+      "category": "Spółgłoska T",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3061"
+    },
+    {
+      "hiragana": "つ",
+      "romaji": "tsu",
+      "category": "Spółgłoska T",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+3064"
+    },
+    {
+      "hiragana": "て",
+      "romaji": "te",
+      "category": "Spółgłoska T",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3066"
+    },
+    {
+      "hiragana": "と",
+      "romaji": "to",
+      "category": "Spółgłoska T",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3068"
+    },
+    {
+      "hiragana": "な",
+      "romaji": "na",
+      "category": "Spółgłoska rzędu N",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+306A"
+    },
+    {
+      "hiragana": "に",
+      "romaji": "ni",
+      "category": "Spółgłoska rzędu N",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+306B"
+    },
+    {
+      "hiragana": "ぬ",
+      "romaji": "nu",
+      "category": "Spółgłoska rzędu N",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+306C"
+    },
+    {
+      "hiragana": "ね",
+      "romaji": "ne",
+      "category": "Spółgłoska rzędu N",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+306D"
+    },
+    {
+      "hiragana": "の",
+      "romaji": "no",
+      "category": "Spółgłoska rzędu N",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+306E"
+    },
+    {
+      "hiragana": "は",
+      "romaji": "ha",
+      "category": "Spółgłoska rzędu H",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+306F"
+    },
+    {
+      "hiragana": "ひ",
+      "romaji": "hi",
+      "category": "Spółgłoska rzędu H",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3072"
+    },
+    {
+      "hiragana": "ふ",
+      "romaji": "fu",
+      "category": "Spółgłoska rzędu H",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 4,
+      "unicode": "U+3075"
+    },
+    {
+      "hiragana": "へ",
+      "romaji": "he",
+      "category": "Spółgłoska rzędu H",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3078"
+    },
+    {
+      "hiragana": "ほ",
+      "romaji": "ho",
+      "category": "Spółgłoska rzędu H",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+307B"
+    },
+    {
+      "hiragana": "ま",
+      "romaji": "ma",
+      "category": "Spółgłoska rzędu M",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+307E"
+    },
+    {
+      "hiragana": "み",
+      "romaji": "mi",
+      "category": "Spółgłoska rzędu M",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+307F"
+    },
+    {
+      "hiragana": "む",
+      "romaji": "mu",
+      "category": "Spółgłoska rzędu M",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+3080"
+    },
+    {
+      "hiragana": "め",
+      "romaji": "me",
+      "category": "Spółgłoska rzędu M",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3081"
+    },
+    {
+      "hiragana": "も",
+      "romaji": "mo",
+      "category": "Spółgłoska rzędu M",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3082"
+    },
+    {
+      "hiragana": "や",
+      "romaji": "ya",
+      "category": "Spółgłoska rzędu Y",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3084"
+    },
+    {
+      "hiragana": "ゆ",
+      "romaji": "yu",
+      "category": "Spółgłoska rzędu Y",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3086"
+    },
+    {
+      "hiragana": "よ",
+      "romaji": "yo",
+      "category": "Spółgłoska rzędu Y",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3088"
+    },
+    {
+      "hiragana": "ら",
+      "romaji": "ra",
+      "category": "Spółgłoska rzędu R",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+3089"
+    },
+    {
+      "hiragana": "り",
+      "romaji": "ri",
+      "category": "Spółgłoska rzędu R",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+308A"
+    },
+    {
+      "hiragana": "る",
+      "romaji": "ru",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+308B"
+    },
+    {
+      "hiragana": "れ",
+      "romaji": "re",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+308C"
+    },
+    {
+      "hiragana": "ろ",
+      "romaji": "ro",
+      "category": "Spółgłoska R",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+308D"
+    },
+    {
+      "hiragana": "わ",
+      "romaji": "wa",
+      "category": "Spółgłoska W",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+308F"
+    },
+    {
+      "hiragana": "を",
+      "romaji": "wo",
+      "category": "Spółgłoska W",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3092"
+    },
+    {
+      "hiragana": "ん",
+      "romaji": "n",
+      "category": "Spółgłoska nosowa",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 1,
+      "unicode": "U+3093"
+    }
+  ],
+  "meta": {
+    "seo_title": "Japońska Tabela Hiragany - Bezpłatne Pobieranie (Excel/CSV/PDF)",
+    "seo_description": "Bezpłatne pobieranie zbioru danych Japońskiej Tabeli Hiragany. Dostęp do 46 kluczowych znaków Hiragany z Romaji, liczbą kresek i Unicode. Dostępne w Excel, CSV i PDF.",
+    "title": "Zbiór Danych Japońskiej Tabeli Hiragany i Mapowania Romaji",
+    "description": "Ten zbiór danych zawiera kompleksową listę 46 japońskich znaków Hiragany, wraz z ich transliteracją Romaji, kategoriami, liczbą kresek i wartościami Unicode. Idealny dla uczących się języka i programistów.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 46 podstawowych japońskich znaków Hiragany.",
+      "Eksploruj dokładne mapowania Romaji i wartości Unicode.",
+      "Pobierz szczegółowe liczby kresek i kategorie znaków.",
+      "Wykorzystaj te dane do aplikacji do nauki języków i rozwoju."
+    ],
+    "keywords": [
+      "tabela hiragana excel",
+      "japońska hiragana csv",
+      "lista hiragana romaji",
+      "dane znaków japońskich",
+      "pobierz hiragana za darmo",
+      "unicode hiragana"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej aplikacji Python lub bazy danych SQL, aby stworzyć niestandardowe narzędzie do nauki japońskiego lub usługę wyszukiwania znaków.",
+      "Użyj pliku **Excel** do filtrowania znaków według kategorii, sortowania według liczby kresek lub tworzenia interaktywnych fiszek do nauki języka.",
+      "Wydrukuj wersję **PDF** do celów referencyjnych w klasie, nauki offline lub jako poręczny plakat ścienny do nauki Hiragany.",
+      "Wykorzystaj ten zbiór danych do walidacji danych wprowadzanych przez użytkownika w japońskich polach tekstowych lub usprawnienia oprogramowania wielojęzycznego."
+    ]
+  },
+  "record_count": 46,
+  "title": "Zbiór Danych Japońskiej Tabeli Hiragany i Mapowania Romaji"
+}

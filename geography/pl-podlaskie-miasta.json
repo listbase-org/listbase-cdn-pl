@@ -1,0 +1,466 @@
+{
+  "id": "pl-podlaskie-miasta",
+  "name": "Miasta w województwie podlaskie",
+  "title": "Miasta w województwie podlaskie",
+  "description": "Cities and towns (miasta) in Podlaskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "419",
+      "name": "Augustów",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "augustowski",
+      "commune": "Augustów-gmina miejska",
+      "latitude": 53.84,
+      "longitude": 22.9983
+    },
+    {
+      "id": "1313",
+      "name": "Białystok",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "Białystok",
+      "commune": "Białystok-gmina miejska",
+      "latitude": 53.1325,
+      "longitude": 23.1631
+    },
+    {
+      "id": "1477",
+      "name": "Bielsk Podlaski",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "bielski",
+      "commune": "Bielsk Podlaski-gmina miejska",
+      "latitude": 52.7711,
+      "longitude": 23.1903
+    },
+    {
+      "id": "2713",
+      "name": "Brańsk",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "bielski",
+      "commune": "Brańsk-gmina miejska",
+      "latitude": 52.7433,
+      "longitude": 22.8417
+    },
+    {
+      "id": "4505",
+      "name": "Choroszcz",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Choroszcz-gmina miejsko-wiejska",
+      "latitude": 53.1439,
+      "longitude": 22.9889
+    },
+    {
+      "id": "4875",
+      "name": "Ciechanowiec",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "wysokomazowiecki",
+      "commune": "Ciechanowiec-gmina miejsko-wiejska",
+      "latitude": 52.6792,
+      "longitude": 22.4997
+    },
+    {
+      "id": "5320",
+      "name": "Czarna Białostocka",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Czarna Białostocka-gmina miejsko-wiejska",
+      "latitude": 53.3058,
+      "longitude": 23.2811
+    },
+    {
+      "id": "5805",
+      "name": "Czyżew",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "wysokomazowiecki",
+      "commune": "Czyżew-gmina miejsko-wiejska",
+      "latitude": 52.7986,
+      "longitude": 22.3167
+    },
+    {
+      "id": "6150",
+      "name": "Dąbrowa Białostocka",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "sokólski",
+      "commune": "Dąbrowa Białostocka-gmina miejsko-wiejska",
+      "latitude": 53.6547,
+      "longitude": 23.3467
+    },
+    {
+      "id": "7198",
+      "name": "Drohiczyn",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "siemiatycki",
+      "commune": "Drohiczyn-gmina miejsko-wiejska",
+      "latitude": 52.3969,
+      "longitude": 22.6589
+    },
+    {
+      "id": "9226",
+      "name": "Goniądz",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "moniecki",
+      "commune": "Goniądz-gmina miejsko-wiejska",
+      "latitude": 53.4886,
+      "longitude": 22.7325
+    },
+    {
+      "id": "9983",
+      "name": "Grajewo",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "grajewski",
+      "commune": "Grajewo-gmina miejska",
+      "latitude": 53.6472,
+      "longitude": 22.4547
+    },
+    {
+      "id": "10668",
+      "name": "Hajnówka",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "hajnowski",
+      "commune": "Hajnówka-gmina miejska",
+      "latitude": 52.7433,
+      "longitude": 23.5836
+    },
+    {
+      "id": "12285",
+      "name": "Jedwabne",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "łomżyński",
+      "commune": "Jedwabne-gmina miejsko-wiejska",
+      "latitude": 53.2872,
+      "longitude": 22.3025
+    },
+    {
+      "id": "14275",
+      "name": "Kleszczele",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "hajnowski",
+      "commune": "Kleszczele-gmina miejsko-wiejska",
+      "latitude": 52.575,
+      "longitude": 23.3258
+    },
+    {
+      "id": "14589",
+      "name": "Knyszyn",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "moniecki",
+      "commune": "Knyszyn-gmina miejsko-wiejska",
+      "latitude": 53.3128,
+      "longitude": 22.9194
+    },
+    {
+      "id": "14861",
+      "name": "Kolno",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "kolneński",
+      "commune": "Kolno-gmina miejska",
+      "latitude": 53.4092,
+      "longitude": 21.9353
+    },
+    {
+      "id": "16633",
+      "name": "Krynki",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "sokólski",
+      "commune": "Krynki-gmina miejsko-wiejska",
+      "latitude": 53.2644,
+      "longitude": 23.7744
+    },
+    {
+      "id": "18366",
+      "name": "Lipsk",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "augustowski",
+      "commune": "Lipsk-gmina miejsko-wiejska",
+      "latitude": 53.7331,
+      "longitude": 23.4044
+    },
+    {
+      "id": "19076",
+      "name": "Łapy",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Łapy-gmina miejsko-wiejska",
+      "latitude": 52.9894,
+      "longitude": 22.8797
+    },
+    {
+      "id": "19559",
+      "name": "Łomża",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "Łomża",
+      "commune": "Łomża-gmina miejska",
+      "latitude": 53.1786,
+      "longitude": 22.0756
+    },
+    {
+      "id": "21048",
+      "name": "Michałowo",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Michałowo-gmina miejsko-wiejska",
+      "latitude": 53.0333,
+      "longitude": 23.6064
+    },
+    {
+      "id": "22078",
+      "name": "Mońki",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "moniecki",
+      "commune": "Mońki-gmina miejsko-wiejska",
+      "latitude": 53.405,
+      "longitude": 22.7994
+    },
+    {
+      "id": "23957",
+      "name": "Nowogród",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "łomżyński",
+      "commune": "Nowogród-gmina miejsko-wiejska",
+      "latitude": 53.2261,
+      "longitude": 21.8792
+    },
+    {
+      "id": "29432",
+      "name": "Rajgród",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "grajewski",
+      "commune": "Rajgród-gmina miejsko-wiejska",
+      "latitude": 53.7308,
+      "longitude": 22.6983
+    },
+    {
+      "id": "31516",
+      "name": "Sejny",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "sejneński",
+      "commune": "Sejny-gmina miejska",
+      "latitude": 54.1064,
+      "longitude": 23.3497
+    },
+    {
+      "id": "31850",
+      "name": "Siemiatycze",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "siemiatycki",
+      "commune": "Siemiatycze-gmina miejska",
+      "latitude": 52.4297,
+      "longitude": 22.865
+    },
+    {
+      "id": "33106",
+      "name": "Sokółka",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "sokólski",
+      "commune": "Sokółka-gmina miejsko-wiejska",
+      "latitude": 53.4072,
+      "longitude": 23.5039
+    },
+    {
+      "id": "34303",
+      "name": "Stawiski",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "kolneński",
+      "commune": "Stawiski-gmina miejsko-wiejska",
+      "latitude": 53.3794,
+      "longitude": 22.1558
+    },
+    {
+      "id": "35026",
+      "name": "Suchowola",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "sokólski",
+      "commune": "Suchowola-gmina miejsko-wiejska",
+      "latitude": 53.5783,
+      "longitude": 23.1064
+    },
+    {
+      "id": "35212",
+      "name": "Supraśl",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Supraśl-gmina miejsko-wiejska",
+      "latitude": 53.2053,
+      "longitude": 23.3375
+    },
+    {
+      "id": "35218",
+      "name": "Suraż",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Suraż-gmina miejsko-wiejska",
+      "latitude": 52.95,
+      "longitude": 22.9558
+    },
+    {
+      "id": "35260",
+      "name": "Suwałki",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "Suwałki",
+      "commune": "Suwałki-gmina miejska",
+      "latitude": 54.1019,
+      "longitude": 22.9269
+    },
+    {
+      "id": "35579",
+      "name": "Szczuczyn",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "grajewski",
+      "commune": "Szczuczyn-gmina miejsko-wiejska",
+      "latitude": 53.5633,
+      "longitude": 22.285
+    },
+    {
+      "id": "35674",
+      "name": "Szepietowo",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "wysokomazowiecki",
+      "commune": "Szepietowo-gmina miejsko-wiejska",
+      "latitude": 52.8689,
+      "longitude": 22.5453
+    },
+    {
+      "id": "37639",
+      "name": "Tykocin",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Tykocin-gmina miejsko-wiejska",
+      "latitude": 53.2064,
+      "longitude": 22.7731
+    },
+    {
+      "id": "38240",
+      "name": "Wasilków",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Wasilków-gmina miejsko-wiejska",
+      "latitude": 53.1989,
+      "longitude": 23.2072
+    },
+    {
+      "id": "41155",
+      "name": "Wysokie Mazowieckie",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "wysokomazowiecki",
+      "commune": "Wysokie Mazowieckie-gmina miejska",
+      "latitude": 52.92,
+      "longitude": 22.5136
+    },
+    {
+      "id": "41309",
+      "name": "Zabłudów",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "białostocki",
+      "commune": "Zabłudów-gmina miejsko-wiejska",
+      "latitude": 53.015,
+      "longitude": 23.3339
+    },
+    {
+      "id": "41930",
+      "name": "Zambrów",
+      "type": "city",
+      "province": "podlaskie",
+      "district": "zambrowski",
+      "commune": "Zambrów-gmina miejska",
+      "latitude": 52.9814,
+      "longitude": 22.2444
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie podlaskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Podlaskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 40 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie podlaskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie podlaskie — 40 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 40 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

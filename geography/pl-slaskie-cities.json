@@ -1,0 +1,586 @@
+{
+  "id": "pl-slaskie-cities",
+  "name": "Województwo śląskie — miasta",
+  "title": "Województwo śląskie — miasta",
+  "description": "Lista miast w województwie śląskim (województwo śląskie) — 52 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the śląskie voivodeship — 52 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 646,
+      "name": "Bieruń",
+      "slug": "bierun",
+      "name_locative": "Bieruniu",
+      "county_id": 230,
+      "county_name": "bieruńsko-lędziński",
+      "latitude": 50.0842685,
+      "longitude": 19.12529638
+    },
+    {
+      "city_id": 621,
+      "name": "Blachownia",
+      "slug": "blachownia",
+      "name_locative": "Blachowni",
+      "county_id": 220,
+      "county_name": "częstochowski",
+      "latitude": 50.7820239,
+      "longitude": 18.9684255
+    },
+    {
+      "city_id": 608,
+      "name": "Będzin",
+      "slug": "bedzin",
+      "name_locative": "Będzinie",
+      "county_id": 217,
+      "county_name": "będziński",
+      "latitude": 50.3230785,
+      "longitude": 19.1322201
+    },
+    {
+      "city_id": 616,
+      "name": "Cieszyn",
+      "slug": "cieszyn",
+      "name_locative": "Cieszynie",
+      "county_id": 219,
+      "county_name": "cieszyński",
+      "latitude": 49.7557676,
+      "longitude": 18.65623134
+    },
+    {
+      "city_id": 614,
+      "name": "Czechowice-Dziedzice",
+      "slug": "czechowice-dziedzice",
+      "name_locative": "Czechowicach-Dziedzicach",
+      "county_id": 218,
+      "county_name": "bielski",
+      "latitude": 49.9112146,
+      "longitude": 19.007564
+    },
+    {
+      "city_id": 609,
+      "name": "Czeladź",
+      "slug": "czeladz",
+      "name_locative": "Czeladzi",
+      "county_id": 217,
+      "county_name": "będziński",
+      "latitude": 50.31914185,
+      "longitude": 19.07847071
+    },
+    {
+      "city_id": 641,
+      "name": "Czerwionka-Leszczyny",
+      "slug": "czerwionka-leszczyny",
+      "name_locative": "Czerwionce-Leszczynach",
+      "county_id": 228,
+      "county_name": "rybnicki",
+      "latitude": 50.1449958,
+      "longitude": 18.6531994
+    },
+    {
+      "city_id": 647,
+      "name": "Imielin",
+      "slug": "imielin",
+      "name_locative": "Imielinie",
+      "county_id": 230,
+      "county_name": "bieruńsko-lędziński",
+      "latitude": 50.1440745,
+      "longitude": 19.20258366
+    },
+    {
+      "city_id": 642,
+      "name": "Kalety",
+      "slug": "kalety",
+      "name_locative": "Kaletach",
+      "county_id": 229,
+      "county_name": "tarnogórski",
+      "latitude": 50.56866455,
+      "longitude": 18.93614501
+    },
+    {
+      "city_id": 623,
+      "name": "Knurów",
+      "slug": "knurow",
+      "name_locative": "Knurowie",
+      "county_id": 221,
+      "county_name": "gliwicki",
+      "latitude": 50.2071818,
+      "longitude": 18.6637073
+    },
+    {
+      "city_id": 622,
+      "name": "Koniecpol",
+      "slug": "koniecpol",
+      "name_locative": "Koniecpolu",
+      "county_id": 220,
+      "county_name": "częstochowski",
+      "latitude": 50.7725294,
+      "longitude": 19.6769723
+    },
+    {
+      "city_id": 635,
+      "name": "Koziegłowy",
+      "slug": "kozieglowy",
+      "name_locative": "Koziegłowach",
+      "county_id": 225,
+      "county_name": "myszkowski",
+      "latitude": 50.5978504,
+      "longitude": 19.1615184
+    },
+    {
+      "city_id": 639,
+      "name": "Krzanowice",
+      "slug": "krzanowice",
+      "name_locative": "Krzanowicach",
+      "county_id": 227,
+      "county_name": "raciborski",
+      "latitude": 50.017931,
+      "longitude": 18.1216249
+    },
+    {
+      "city_id": 628,
+      "name": "Krzepice",
+      "slug": "krzepice",
+      "name_locative": "Krzepicach",
+      "county_id": 222,
+      "county_name": "kłobucki",
+      "latitude": 50.9693977,
+      "longitude": 18.7264242
+    },
+    {
+      "city_id": 640,
+      "name": "Kuźnia Raciborska",
+      "slug": "kuznia-raciborska",
+      "name_locative": "Kuźni Raciborskiej",
+      "county_id": 227,
+      "county_name": "raciborski",
+      "latitude": 50.2007002,
+      "longitude": 18.3105735
+    },
+    {
+      "city_id": 627,
+      "name": "Kłobuck",
+      "slug": "klobuck",
+      "name_locative": "Kłobucku",
+      "county_id": 222,
+      "county_name": "kłobucki",
+      "latitude": 50.9025547,
+      "longitude": 18.93716
+    },
+    {
+      "city_id": 629,
+      "name": "Lubliniec",
+      "slug": "lubliniec",
+      "name_locative": "Lublińcu",
+      "county_id": 223,
+      "county_name": "lubliniecki",
+      "latitude": 50.669016,
+      "longitude": 18.6825574
+    },
+    {
+      "city_id": 648,
+      "name": "Lędziny",
+      "slug": "ledziny",
+      "name_locative": "Lędzinach",
+      "county_id": 230,
+      "county_name": "bieruńsko-lędziński",
+      "latitude": 50.128624,
+      "longitude": 19.11609221
+    },
+    {
+      "city_id": 643,
+      "name": "Miasteczko Śląskie",
+      "slug": "miasteczko-slaskie",
+      "name_locative": "Miasteczku Śląskim",
+      "county_id": 229,
+      "county_name": "tarnogórski",
+      "latitude": 50.49427005,
+      "longitude": 18.96417204
+    },
+    {
+      "city_id": 632,
+      "name": "Mikołów",
+      "slug": "mikolow",
+      "name_locative": "Mikołowie",
+      "county_id": 224,
+      "county_name": "mikołowski",
+      "latitude": 50.19600335,
+      "longitude": 18.85385164
+    },
+    {
+      "city_id": 634,
+      "name": "Myszków",
+      "slug": "myszkow",
+      "name_locative": "Myszkowie",
+      "county_id": 225,
+      "county_name": "myszkowski",
+      "latitude": 50.5646661,
+      "longitude": 19.32486157
+    },
+    {
+      "city_id": 656,
+      "name": "Ogrodzieniec",
+      "slug": "ogrodzieniec",
+      "name_locative": "Ogrodzieńcu",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.4521463,
+      "longitude": 19.5213629
+    },
+    {
+      "city_id": 633,
+      "name": "Orzesze",
+      "slug": "orzesze",
+      "name_locative": "Orzeszu",
+      "county_id": 224,
+      "county_name": "mikołowski",
+      "latitude": 50.1439,
+      "longitude": 18.77462
+    },
+    {
+      "city_id": 657,
+      "name": "Pilica",
+      "slug": "pilica",
+      "name_locative": "Pilicy",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.4681134,
+      "longitude": 19.6573591
+    },
+    {
+      "city_id": 653,
+      "name": "Poręba",
+      "slug": "poreba",
+      "name_locative": "Porębie",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.48904555,
+      "longitude": 19.32628112
+    },
+    {
+      "city_id": 637,
+      "name": "Pszczyna",
+      "slug": "pszczyna",
+      "name_locative": "Pszczynie",
+      "county_id": 226,
+      "county_name": "pszczyński",
+      "latitude": 49.9778328,
+      "longitude": 18.9425124
+    },
+    {
+      "city_id": 649,
+      "name": "Pszów",
+      "slug": "pszow",
+      "name_locative": "Pszowie",
+      "county_id": 231,
+      "county_name": "wodzisławski",
+      "latitude": 50.0449928,
+      "longitude": 18.39621898
+    },
+    {
+      "city_id": 624,
+      "name": "Pyskowice",
+      "slug": "pyskowice",
+      "name_locative": "Pyskowicach",
+      "county_id": 221,
+      "county_name": "gliwicki",
+      "latitude": 50.39162675,
+      "longitude": 18.61088152
+    },
+    {
+      "city_id": 638,
+      "name": "Racibórz",
+      "slug": "raciborz",
+      "name_locative": "Raciborzu",
+      "county_id": 227,
+      "county_name": "raciborski",
+      "latitude": 50.0904247,
+      "longitude": 18.21514118
+    },
+    {
+      "city_id": 650,
+      "name": "Radlin",
+      "slug": "radlin",
+      "name_locative": "Radlinie",
+      "county_id": 231,
+      "county_name": "wodzisławski",
+      "latitude": 50.04119,
+      "longitude": 18.4646689
+    },
+    {
+      "city_id": 644,
+      "name": "Radzionków",
+      "slug": "radzionkow",
+      "name_locative": "Radzionkowie",
+      "county_id": 229,
+      "county_name": "tarnogórski",
+      "latitude": 50.4015072,
+      "longitude": 18.90330205
+    },
+    {
+      "city_id": 651,
+      "name": "Rydułtowy",
+      "slug": "rydultowy",
+      "name_locative": "Rydułtowach",
+      "county_id": 231,
+      "county_name": "wodzisławski",
+      "latitude": 50.0664038,
+      "longitude": 18.42450621
+    },
+    {
+      "city_id": 611,
+      "name": "Siewierz",
+      "slug": "siewierz",
+      "name_locative": "Siewierzu",
+      "county_id": 217,
+      "county_name": "będziński",
+      "latitude": 50.4710097,
+      "longitude": 19.2318901
+    },
+    {
+      "city_id": 619,
+      "name": "Skoczów",
+      "slug": "skoczow",
+      "name_locative": "Skoczowie",
+      "county_id": 219,
+      "county_name": "cieszyński",
+      "latitude": 49.7999039,
+      "longitude": 18.7877583
+    },
+    {
+      "city_id": 625,
+      "name": "Sośnicowice",
+      "slug": "sosnicowice",
+      "name_locative": "Sośnicowicach",
+      "county_id": 221,
+      "county_name": "gliwicki",
+      "latitude": 50.2722844,
+      "longitude": 18.5298588
+    },
+    {
+      "city_id": 620,
+      "name": "Strumień",
+      "slug": "strumien",
+      "name_locative": "Strumieniu",
+      "county_id": 219,
+      "county_name": "cieszyński",
+      "latitude": 49.9171995,
+      "longitude": 18.7634908
+    },
+    {
+      "city_id": 658,
+      "name": "Szczekociny",
+      "slug": "szczekociny",
+      "name_locative": "Szczekocinach",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.6259216,
+      "longitude": 19.8194681
+    },
+    {
+      "city_id": 613,
+      "name": "Szczyrk",
+      "slug": "szczyrk",
+      "name_locative": "Szczyrku",
+      "county_id": 218,
+      "county_name": "bielski",
+      "latitude": 49.69649115,
+      "longitude": 19.01094694
+    },
+    {
+      "city_id": 612,
+      "name": "Sławków",
+      "slug": "slawkow",
+      "name_locative": "Sławkowie",
+      "county_id": 217,
+      "county_name": "będziński",
+      "latitude": 50.2984547,
+      "longitude": 19.3898475
+    },
+    {
+      "city_id": 645,
+      "name": "Tarnowskie Góry",
+      "slug": "tarnowskie-gory",
+      "name_locative": "Tarnowskich Górach",
+      "county_id": 229,
+      "county_name": "tarnogórski",
+      "latitude": 50.4445194,
+      "longitude": 18.8554757
+    },
+    {
+      "city_id": 626,
+      "name": "Toszek",
+      "slug": "toszek",
+      "name_locative": "Toszku",
+      "county_id": 221,
+      "county_name": "gliwicki",
+      "latitude": 50.4551063,
+      "longitude": 18.5180604
+    },
+    {
+      "city_id": 617,
+      "name": "Ustroń",
+      "slug": "ustron",
+      "name_locative": "Ustroniu",
+      "county_id": 219,
+      "county_name": "cieszyński",
+      "latitude": 49.7186488,
+      "longitude": 18.82510746
+    },
+    {
+      "city_id": 615,
+      "name": "Wilamowice",
+      "slug": "wilamowice",
+      "name_locative": "Wilamowicach",
+      "county_id": 218,
+      "county_name": "bielski",
+      "latitude": 49.9167395,
+      "longitude": 19.1524707
+    },
+    {
+      "city_id": 618,
+      "name": "Wisła",
+      "slug": "wisla",
+      "name_locative": "Wiśle",
+      "county_id": 219,
+      "county_name": "cieszyński",
+      "latitude": 49.6523647,
+      "longitude": 18.8709256
+    },
+    {
+      "city_id": 652,
+      "name": "Wodzisław Śląski",
+      "slug": "wodzislaw-slaski",
+      "name_locative": "Wodzisławiu Śląskim",
+      "county_id": 231,
+      "county_name": "wodzisławski",
+      "latitude": 50.0023178,
+      "longitude": 18.44811073
+    },
+    {
+      "city_id": 610,
+      "name": "Wojkowice",
+      "slug": "wojkowice",
+      "name_locative": "Wojkowicach",
+      "county_id": 217,
+      "county_name": "będziński",
+      "latitude": 50.3659257,
+      "longitude": 19.03576307
+    },
+    {
+      "city_id": 630,
+      "name": "Woźniki",
+      "slug": "wozniki",
+      "name_locative": "Woźnikach",
+      "county_id": 223,
+      "county_name": "lubliniecki",
+      "latitude": 50.58757,
+      "longitude": 19.05677
+    },
+    {
+      "city_id": 654,
+      "name": "Zawiercie",
+      "slug": "zawiercie",
+      "name_locative": "Zawierciu",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.4844179,
+      "longitude": 19.4333887
+    },
+    {
+      "city_id": 631,
+      "name": "Łaziska Górne",
+      "slug": "laziska-gorne",
+      "name_locative": "Łaziskach Górnych",
+      "county_id": 224,
+      "county_name": "mikołowski",
+      "latitude": 50.1500892,
+      "longitude": 18.8390661
+    },
+    {
+      "city_id": 655,
+      "name": "Łazy",
+      "slug": "lazy",
+      "name_locative": "Łazach",
+      "county_id": 232,
+      "county_name": "zawierciański",
+      "latitude": 50.4276105,
+      "longitude": 19.3948494
+    },
+    {
+      "city_id": 636,
+      "name": "Żarki",
+      "slug": "zarki",
+      "name_locative": "Żarkach",
+      "county_id": 225,
+      "county_name": "myszkowski",
+      "latitude": 50.6259563,
+      "longitude": 19.3645599
+    },
+    {
+      "city_id": 659,
+      "name": "Żywiec",
+      "slug": "zywiec",
+      "name_locative": "Żywcu",
+      "county_id": 233,
+      "county_name": "żywiecki",
+      "latitude": 49.7064961,
+      "longitude": 19.21914906
+    }
+  ],
+  "meta": {
+    "title": "Województwo śląskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie śląskim (województwo śląskie) — 52 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the śląskie voivodeship — 52 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 52 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo śląskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo śląskie — miasta — 52 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 52 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

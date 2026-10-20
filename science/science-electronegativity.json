@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Zbiór Danych Tabela Elektroujemności (Skala Paulinga)",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Wodór",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Niemetal",
+      "trend": "Odniesienie"
+    },
+    {
+      "symbol": "He",
+      "name": "Hel",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Gaz szlachetny",
+      "trend": "Nie dotyczy - Gaz szlachetny"
+    },
+    {
+      "symbol": "Li",
+      "name": "Lit",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Najniższy w okresie"
+    },
+    {
+      "symbol": "Be",
+      "name": "Beryl",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Metal ziem alkalicznych",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "B",
+      "name": "Bor",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Półmetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "C",
+      "name": "Węgiel",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Niemetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "N",
+      "name": "Azot",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Niemetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "O",
+      "name": "Tlen",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Niemetal",
+      "trend": "Drugi najwyższy"
+    },
+    {
+      "symbol": "F",
+      "name": "Fluor",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Najbardziej elektroujemny pierwiastek"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Gaz szlachetny",
+      "trend": "Nie dotyczy - Gaz szlachetny"
+    },
+    {
+      "symbol": "Na",
+      "name": "Sód",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Najniższy w okresie"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Magnez",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Metal ziem alkalicznych",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Al",
+      "name": "Glin",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Metal postprzejściowy",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Si",
+      "name": "Krzem",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Półmetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "P",
+      "name": "Fosfor",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Niemetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "S",
+      "name": "Siarka",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Niemetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Chlor",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Najwyższy w okresie"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Gaz szlachetny",
+      "trend": "Nie dotyczy - Gaz szlachetny"
+    },
+    {
+      "symbol": "K",
+      "name": "Potas",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Najniższy w okresie"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Wapń",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Metal ziem alkalicznych",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Skand",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Tytan",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "V",
+      "name": "Wanad",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Chrom",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Żelazo",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Co",
+      "name": "Kobalt",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Nikiel",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Miedź",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Cynk",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Gal",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Metal poprzejściowy",
+      "trend": "Po przejściu"
+    },
+    {
+      "symbol": "Ge",
+      "name": "German",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Półmetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "As",
+      "name": "Arsen",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Półmetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selen",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Niemetal",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Br",
+      "name": "Brom",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Najwyższy w okresie"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Krypton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Gaz szlachetny",
+      "trend": "Gaz szlachetny o wartości EN"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubid",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Najniższy w okresie"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Stront",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Metal ziem alkalicznych",
+      "trend": "Rośnie w okresie"
+    },
+    {
+      "symbol": "Y",
+      "name": "Itr",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Cyrkon",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niob",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molibden",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Technet",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Ruten",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rod",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Pallad",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Srebro",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Kadm",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "In",
+      "name": "Ind",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Metal poprzejściowy",
+      "trend": "Poprzejściowy"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Cyna",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Metal poprzejściowy",
+      "trend": "Rośnie wzdłuż okresu"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antymon",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Rośnie wzdłuż okresu"
+    },
+    {
+      "symbol": "Te",
+      "name": "Tellur",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Metaloid",
+      "trend": "Rośnie wzdłuż okresu"
+    },
+    {
+      "symbol": "I",
+      "name": "Jod",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Najwyższy w okresie (grupa główna)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Ksenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Gaz szlachetny",
+      "trend": "Gaz szlachetny z wartością EN"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Cez",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Drugi najniższy pierwiastek EN"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Bar",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Metal ziem alkalicznych",
+      "trend": "Niskie EN"
+    },
+    {
+      "symbol": "Au",
+      "name": "Złoto",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Metal przejściowy",
+      "trend": "Wysokie EN dla metalu"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Rtęć",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Metal przejściowy",
+      "trend": "Strefa metalu przejściowego"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Ołów",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Metal poprzejściowy",
+      "trend": "Poprzejściowy"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bizmut",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Metal poprzejściowy",
+      "trend": "Poprzejściowy"
+    },
+    {
+      "symbol": "At",
+      "name": "Astat",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Halogen promieniotwórczy"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Frans",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Metal alkaliczny",
+      "trend": "Pierwiastek o najniższej elektroujemności"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Elektroujemności (Skala Paulinga) - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz za darmo: Tabela Elektroujemności (Skala Paulinga) dla 62 pierwiastków chemicznych. Odkryj właściwości atomowe i trendy. Dostępne w Excel, CSV i PDF.",
+    "title": "Zbiór Danych Tabela Elektroujemności (Skala Paulinga)",
+    "description": "Ten zbiór danych zawiera wartości elektroujemności (skala Paulinga) dla 62 pierwiastków chemicznych, w tym liczbę atomową, okres, grupę i kategorię pierwiastka. Idealny dla studentów chemii, badaczy i edukatorów.",
+    "key_takeaways": [
+      "Dostęp do danych elektroujemności Paulinga dla 62 pierwiastków.",
+      "Szczegółowo eksploruj właściwości atomowe i trendy okresowe.",
+      "Pobierz kompleksowe dane w formacie Excel, CSV lub PDF do analizy.",
+      "Uzyskaj wgląd w wiązania chemiczne i reaktywność."
+    ],
+    "keywords": [
+      "tabela elektroujemności paulinga",
+      "dane pierwiastków chemicznych",
+      "zbiór danych właściwości atomowych",
+      "wartości elektroujemności excel",
+      "trendy okresowe csv",
+      "darmowe dane chemiczne"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do bazy danych SQL lub skryptu Python, aby przeprowadzić niestandardową analizę danych na temat trendów elektroujemności i właściwości pierwiastków chemicznych.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania pierwiastków według grupy lub kategorii oraz generowania raportów dla badań akademickich lub zadań klasowych.",
+      "Wydrukuj wersję **PDF** jako szybki, offline przewodnik referencyjny w laboratorium chemicznym, klasie lub do prezentacji dotyczących charakterystyki atomowej.",
+      "Wykorzystaj ten zbiór danych, aby zrozumieć trendy okresowe elektroujemności i przewidzieć zachowanie wiązań chemicznych w różnych związkach."
+    ]
+  },
+  "record_count": 62,
+  "title": "Zbiór Danych Tabela Elektroujemności (Skala Paulinga)"
+}

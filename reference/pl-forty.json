@@ -1,0 +1,1546 @@
+{
+  "id": "pl-forty",
+  "name": "Polska — forty",
+  "title": "Polska — forty",
+  "description": "Forty i fortyfikacje w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 301,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Austro-węgierska ufortyfikowana strażnica kolejowa",
+      "latitude": 50.144175,
+      "longitude": 22.531968
+    },
+    {
+      "name": "Basteja Hioba",
+      "latitude": 51.108802,
+      "longitude": 17.041915
+    },
+    {
+      "name": "Bastion Archonattiego",
+      "latitude": 51.110651,
+      "longitude": 15.590333
+    },
+    {
+      "name": "Bastion Ceglarski",
+      "latitude": 51.1115,
+      "longitude": 17.045404
+    },
+    {
+      "name": "Bastion III \"Kleparz\"",
+      "latitude": 50.07473,
+      "longitude": 19.937837
+    },
+    {
+      "name": "Bastion IVa \"Luneta Warszawska\"",
+      "latitude": 50.078192,
+      "longitude": 19.947002
+    },
+    {
+      "name": "Bastion Kapliczny",
+      "latitude": 50.485684,
+      "longitude": 17.32771
+    },
+    {
+      "name": "Bastion Kapucyński Górny",
+      "latitude": 50.485995,
+      "longitude": 17.330482
+    },
+    {
+      "name": "Bastion Morawski",
+      "latitude": 50.485307,
+      "longitude": 17.335896
+    },
+    {
+      "name": "Bastion Regulicki",
+      "latitude": 50.485959,
+      "longitude": 17.333925
+    },
+    {
+      "name": "Bastion Sakwowy",
+      "latitude": 51.104723,
+      "longitude": 17.038782
+    },
+    {
+      "name": "Bastion świętej Jadwigi",
+      "latitude": 50.476115,
+      "longitude": 17.331758
+    },
+    {
+      "name": "Baszta Pasamoników",
+      "latitude": 50.064749,
+      "longitude": 19.942243
+    },
+    {
+      "name": "Bateria B3 Orzechowce",
+      "latitude": 49.839368,
+      "longitude": 22.749894
+    },
+    {
+      "name": "Bateria B4 Orzechowce",
+      "latitude": 49.838889,
+      "longitude": 22.754402
+    },
+    {
+      "name": "Bateria sprzężona XVa „Borek”",
+      "latitude": 49.769862,
+      "longitude": 22.898883
+    },
+    {
+      "name": "Bateria XXa Kanał",
+      "latitude": 49.774756,
+      "longitude": 22.801022
+    },
+    {
+      "name": "Beluarda",
+      "latitude": 49.772617,
+      "longitude": 20.695898
+    },
+    {
+      "name": "Cytadela Warszawska",
+      "latitude": 52.262961,
+      "longitude": 21.002032
+    },
+    {
+      "name": "Działobitnia",
+      "latitude": 49.809209,
+      "longitude": 22.757814
+    },
+    {
+      "name": "Dzieło D-10 (Fort XVIIIa)",
+      "latitude": 52.416293,
+      "longitude": 20.782728
+    },
+    {
+      "name": "Dzieło D-10 (Fort XVIIIa)",
+      "latitude": 52.418689,
+      "longitude": 20.786326
+    },
+    {
+      "name": "Dzieło D-3 (Fort XIa) Twierdzy Modlin",
+      "latitude": 52.466469,
+      "longitude": 20.578235
+    },
+    {
+      "name": "Dzieło D-4 (Fort XIc) Strubiny",
+      "latitude": 52.482925,
+      "longitude": 20.591167
+    },
+    {
+      "name": "Dzieło D-6 Twierdzy Modlin",
+      "latitude": 52.503949,
+      "longitude": 20.651367
+    },
+    {
+      "name": "Dzieło D-6 Twierdzy Modlin",
+      "latitude": 52.505788,
+      "longitude": 20.66782
+    },
+    {
+      "name": "Dzieło D-8",
+      "latitude": 52.477432,
+      "longitude": 20.765653
+    },
+    {
+      "name": "Dzieło D-9 (Fort XVIIa)",
+      "latitude": 52.436145,
+      "longitude": 20.789964
+    },
+    {
+      "name": "Dzieło flankujące pośrednie",
+      "latitude": 52.235668,
+      "longitude": 20.931472
+    },
+    {
+      "name": "Dzieło flankujące pośrednie Buraków",
+      "latitude": 52.268342,
+      "longitude": 20.967158
+    },
+    {
+      "name": "Fort \"Bielany\"",
+      "latitude": 50.040859,
+      "longitude": 19.83357
+    },
+    {
+      "name": "Fort \"Bielany\" (blok koszarowy)",
+      "latitude": 50.041684,
+      "longitude": 19.835174
+    },
+    {
+      "name": "Fort \"Mierzwiączka\"",
+      "latitude": 51.57741,
+      "longitude": 21.856858
+    },
+    {
+      "name": "Fort 1 Krowniki",
+      "latitude": 49.767922,
+      "longitude": 22.83039
+    },
+    {
+      "name": "Fort 13 Lapajowka",
+      "latitude": 49.783005,
+      "longitude": 22.842098
+    },
+    {
+      "name": "Fort 2 \"Kościuszko\"",
+      "latitude": 50.0548,
+      "longitude": 19.893165
+    },
+    {
+      "name": "Fort 31 „Benedykt”",
+      "latitude": 50.042769,
+      "longitude": 19.957997
+    },
+    {
+      "name": "Fort 38 \"Skała\"",
+      "latitude": 50.053497,
+      "longitude": 19.823602
+    },
+    {
+      "name": "Fort 39 \"Olszanica\"",
+      "latitude": 50.064578,
+      "longitude": 19.829812
+    },
+    {
+      "name": "Fort 41a \"Mydlniki\"",
+      "latitude": 50.084884,
+      "longitude": 19.861632
+    },
+    {
+      "name": "Fort 43 \"Pasternik\"",
+      "latitude": 50.104734,
+      "longitude": 19.86036
+    },
+    {
+      "name": "Fort 44 \"Tonie\"",
+      "latitude": 50.124183,
+      "longitude": 19.897353
+    },
+    {
+      "name": "Fort 44a \"Pękowice\"",
+      "latitude": 50.123743,
+      "longitude": 19.904571
+    },
+    {
+      "name": "Fort 45 \"Marszowiec\"",
+      "latitude": 50.128257,
+      "longitude": 19.937399
+    },
+    {
+      "name": "Fort 45a \"Bibice\"",
+      "latitude": 50.12489,
+      "longitude": 19.948147
+    },
+    {
+      "name": "Fort 47 \"Łysa Góra\"",
+      "latitude": 50.112711,
+      "longitude": 19.973352
+    },
+    {
+      "name": "Fort 47a \"Węgrzce\"",
+      "latitude": 50.1161,
+      "longitude": 19.965712
+    },
+    {
+      "name": "Fort 48 \"Batowice\"",
+      "latitude": 50.099955,
+      "longitude": 19.999079
+    },
+    {
+      "name": "Fort 48a \"Mistrzejowice\"",
+      "latitude": 50.101236,
+      "longitude": 20.017119
+    },
+    {
+      "name": "Fort 49 \"Krzesławice\"",
+      "latitude": 50.098493,
+      "longitude": 20.055861
+    },
+    {
+      "name": "Fort 49a \"Dłubnia\"",
+      "latitude": 50.098338,
+      "longitude": 20.041052
+    },
+    {
+      "name": "Fort 49¼ \"Grębałów\"",
+      "latitude": 50.094739,
+      "longitude": 20.068261
+    },
+    {
+      "name": "Fort 49½ a \"Mogiła\"",
+      "latitude": 50.066891,
+      "longitude": 20.073083
+    },
+    {
+      "name": "Fort 50 \"Prokocim\"",
+      "latitude": 50.010468,
+      "longitude": 19.996963
+    },
+    {
+      "name": "Fort 50a \"Lasówka\"",
+      "latitude": 50.043119,
+      "longitude": 20.015308
+    },
+    {
+      "name": "Fort 50½ O \"Kosocice\"",
+      "latitude": 49.994842,
+      "longitude": 19.992139
+    },
+    {
+      "name": "Fort 50½ W \"Kosocice\"",
+      "latitude": 49.992786,
+      "longitude": 19.987359
+    },
+    {
+      "name": "Fort 51 \"Rajsko\"",
+      "latitude": 49.988905,
+      "longitude": 19.96902
+    },
+    {
+      "name": "Fort 51½ OW \"Wróblowice\"",
+      "latitude": 49.987118,
+      "longitude": 19.957829
+    },
+    {
+      "name": "Fort 52 \"Borek\"",
+      "latitude": 50.000544,
+      "longitude": 19.90409
+    },
+    {
+      "name": "Fort 52a \"Jugowice\"",
+      "latitude": 49.998082,
+      "longitude": 19.91692
+    },
+    {
+      "name": "Fort 52½ N \"Skotniki\"",
+      "latitude": 50.006716,
+      "longitude": 19.865746
+    },
+    {
+      "name": "Fort 52½ S \"Skotniki\"",
+      "latitude": 50.00507,
+      "longitude": 19.867255
+    },
+    {
+      "name": "Fort 53a \"Winnica\"",
+      "latitude": 50.023124,
+      "longitude": 19.861438
+    },
+    {
+      "name": "Fort Anioła",
+      "latitude": 53.914806,
+      "longitude": 14.273558
+    },
+    {
+      "name": "Fort Bema",
+      "latitude": 51.536932,
+      "longitude": 21.787465
+    },
+    {
+      "name": "Fort Beniaminów",
+      "latitude": 52.439177,
+      "longitude": 21.097759
+    },
+    {
+      "name": "Fort Bombardier",
+      "latitude": 50.481974,
+      "longitude": 17.323267
+    },
+    {
+      "name": "Fort Borek",
+      "latitude": 51.527503,
+      "longitude": 21.814527
+    },
+    {
+      "name": "Fort Colomb",
+      "latitude": 52.403835,
+      "longitude": 16.917557
+    },
+    {
+      "name": "fort Dąb",
+      "latitude": 53.503056,
+      "longitude": 18.816136
+    },
+    {
+      "name": "Fort Dębe",
+      "latitude": 52.498176,
+      "longitude": 20.927423
+    },
+    {
+      "name": "Fort Gerharda",
+      "latitude": 53.917753,
+      "longitude": 14.28643
+    },
+    {
+      "name": "Fort Góry Gradowej",
+      "latitude": 54.356092,
+      "longitude": 18.639691
+    },
+    {
+      "name": "Fort Głusiec",
+      "latitude": 51.55416,
+      "longitude": 21.799839
+    },
+    {
+      "name": "Fort I",
+      "latitude": 50.488388,
+      "longitude": 17.336846
+    },
+    {
+      "name": "Fort I",
+      "latitude": 52.360435,
+      "longitude": 16.92765
+    },
+    {
+      "name": "Fort I Jana III Sobieskiego",
+      "latitude": 53.01873,
+      "longitude": 18.668223
+    },
+    {
+      "name": "Fort I Salis Soglio",
+      "latitude": 49.757468,
+      "longitude": 22.895835
+    },
+    {
+      "name": "Fort I Twierdzy Modlin Zakroczym",
+      "latitude": 52.441492,
+      "longitude": 20.620401
+    },
+    {
+      "name": "Fort I Twierdzy Różan",
+      "latitude": 52.89093,
+      "longitude": 21.388391
+    },
+    {
+      "name": "Fort I Twierdzy Warszawa \"Bielany\"",
+      "latitude": 52.29894,
+      "longitude": 20.94746
+    },
+    {
+      "name": "Fort I/1 \"Łysiczka\"",
+      "latitude": 49.76529,
+      "longitude": 22.913626
+    },
+    {
+      "name": "Fort I/2 \"Byków\"",
+      "latitude": 49.760657,
+      "longitude": 22.919458
+    },
+    {
+      "name": "Fort I/3 \"Pleszowice\"",
+      "latitude": 49.754956,
+      "longitude": 22.916437
+    },
+    {
+      "name": "Fort I/4 \"Maruszka Las\"",
+      "latitude": 49.747757,
+      "longitude": 22.906236
+    },
+    {
+      "name": "Fort I/6 \"Dziewięczyce\"",
+      "latitude": 49.745529,
+      "longitude": 22.896782
+    },
+    {
+      "name": "Fort Ia",
+      "latitude": 52.363589,
+      "longitude": 16.950504
+    },
+    {
+      "name": "Fort II",
+      "latitude": 50.491967,
+      "longitude": 17.325272
+    },
+    {
+      "name": "Fort II",
+      "latitude": 52.371944,
+      "longitude": 16.963674
+    },
+    {
+      "name": "Fort II - Kosewo",
+      "latitude": 52.467858,
+      "longitude": 20.689275
+    },
+    {
+      "name": "Fort II Jaksmanice",
+      "latitude": 49.74375,
+      "longitude": 22.867806
+    },
+    {
+      "name": "Fort II Nehrybka",
+      "latitude": 49.755428,
+      "longitude": 22.807119
+    },
+    {
+      "name": "Fort II Stefana Czarnieckiego",
+      "latitude": 53.024446,
+      "longitude": 18.654759
+    },
+    {
+      "name": "Fort II Twierdzy Warszawa \"Wawrzyszew\"",
+      "latitude": 52.277156,
+      "longitude": 20.907185
+    },
+    {
+      "name": "Fort IIa",
+      "latitude": 52.385348,
+      "longitude": 16.983513
+    },
+    {
+      "name": "Fort IIa Mogiłki",
+      "latitude": 49.747303,
+      "longitude": 22.859781
+    },
+    {
+      "name": "Fort IIA Twierdzy Warszawa \"Babice\"",
+      "latitude": 52.263338,
+      "longitude": 20.881416
+    },
+    {
+      "name": "Fort IIb Cyków",
+      "latitude": 49.748618,
+      "longitude": 22.880684
+    },
+    {
+      "name": "Fort III",
+      "latitude": 50.468673,
+      "longitude": 17.351218
+    },
+    {
+      "name": "Fort III",
+      "latitude": 52.39769,
+      "longitude": 16.995328
+    },
+    {
+      "name": "Fort III - Pomiechówek",
+      "latitude": 52.468964,
+      "longitude": 20.726411
+    },
+    {
+      "name": "Fort III Stanisława Jabłonowskiego",
+      "latitude": 53.033432,
+      "longitude": 18.6463
+    },
+    {
+      "name": "Fort III Twierdzy Warszawa „Blizne”",
+      "latitude": 52.247,
+      "longitude": 20.89473
+    },
+    {
+      "name": "Fort III Łuczyce",
+      "latitude": 49.745212,
+      "longitude": 22.831625
+    },
+    {
+      "name": "Fort IIIa",
+      "latitude": 52.416691,
+      "longitude": 17.002378
+    },
+    {
+      "name": "Fort IIIa Hermanowice Kolej",
+      "latitude": 49.743075,
+      "longitude": 22.808094
+    },
+    {
+      "name": "Fort IIIa Kruhel",
+      "latitude": 49.765494,
+      "longitude": 22.747789
+    },
+    {
+      "name": "Fort IIIb Kruhel",
+      "latitude": 49.765083,
+      "longitude": 22.750861
+    },
+    {
+      "name": "Fort IIIc Kruhel",
+      "latitude": 49.765225,
+      "longitude": 22.754026
+    },
+    {
+      "name": "Fort IV",
+      "latitude": 52.429822,
+      "longitude": 16.987287
+    },
+    {
+      "name": "Fort IV",
+      "latitude": 52.430422,
+      "longitude": 20.785707
+    },
+    {
+      "name": "Fort IV Optyń",
+      "latitude": 49.732615,
+      "longitude": 22.793732
+    },
+    {
+      "name": "Fort IV Stanisława Żółkiewskiego",
+      "latitude": 53.040865,
+      "longitude": 18.632686
+    },
+    {
+      "name": "Fort IV Twierdzy Warszawa \"Chrzanów\"",
+      "latitude": 52.220479,
+      "longitude": 20.892009
+    },
+    {
+      "name": "Fort IVa",
+      "latitude": 52.436716,
+      "longitude": 16.956695
+    },
+    {
+      "name": "Fort IX",
+      "latitude": 52.374993,
+      "longitude": 16.880153
+    },
+    {
+      "name": "Fort IX Bolesława Chrobrego",
+      "latitude": 53.015678,
+      "longitude": 18.5585
+    },
+    {
+      "name": "Fort IX Brunner",
+      "latitude": 49.826449,
+      "longitude": 22.721652
+    },
+    {
+      "name": "Fort IX Twierdzy Warszawa \"Czerniaków\"",
+      "latitude": 52.182496,
+      "longitude": 21.066633
+    },
+    {
+      "name": "Fort IXa",
+      "latitude": 52.364866,
+      "longitude": 16.901945
+    },
+    {
+      "name": "Fort IXa Przy Krzyżu",
+      "latitude": 49.830536,
+      "longitude": 22.721943
+    },
+    {
+      "name": "fort Las Miejski",
+      "latitude": 53.4645,
+      "longitude": 18.758719
+    },
+    {
+      "name": "Fort Legionów",
+      "latitude": 52.257302,
+      "longitude": 21.006663
+    },
+    {
+      "name": "Fort Lewicpol (pozostałości)",
+      "latitude": 52.298945,
+      "longitude": 21.075985
+    },
+    {
+      "name": "Fort Lipniki",
+      "latitude": 52.705447,
+      "longitude": 21.057413
+    },
+    {
+      "name": "Fort M Twierdzy Warszawa \"Mokotów\"",
+      "latitude": 52.194913,
+      "longitude": 20.996072
+    },
+    {
+      "name": "fort Malakoff",
+      "latitude": 51.671422,
+      "longitude": 16.086603
+    },
+    {
+      "name": "fort Mała Księża Góra",
+      "latitude": 53.486817,
+      "longitude": 18.82576
+    },
+    {
+      "name": "Fort N-1 \"Zwierzyniec\"",
+      "latitude": 50.050229,
+      "longitude": 19.901746
+    },
+    {
+      "name": "fort Nowa Wieś",
+      "latitude": 53.525751,
+      "longitude": 18.78284
+    },
+    {
+      "name": "Fort Owczy",
+      "latitude": 50.44422,
+      "longitude": 16.663168
+    },
+    {
+      "name": "Fort P Twierdzy Warszawa \"Bema\"",
+      "latitude": 52.256395,
+      "longitude": 20.938503
+    },
+    {
+      "name": "fort Parski",
+      "latitude": 53.530911,
+      "longitude": 18.773153
+    },
+    {
+      "name": "Fort Piechoty I.St.-5",
+      "latitude": 51.155954,
+      "longitude": 17.065664
+    },
+    {
+      "name": "Fort Piechoty nr 6",
+      "latitude": 51.165059,
+      "longitude": 17.043487
+    },
+    {
+      "name": "Fort Piechoty Nr 9",
+      "latitude": 51.164584,
+      "longitude": 17.000299
+    },
+    {
+      "name": "Fort Piłsudskiego",
+      "latitude": 52.188903,
+      "longitude": 21.03929
+    },
+    {
+      "name": "Fort Prochownia",
+      "latitude": 49.796843,
+      "longitude": 22.74489
+    },
+    {
+      "name": "Fort Prusy",
+      "latitude": 50.483586,
+      "longitude": 17.317812
+    },
+    {
+      "name": "Fort Płoni Wielkiej",
+      "latitude": 54.345043,
+      "longitude": 18.786132
+    },
+    {
+      "name": "Fort reditowy 7 \"Za Rzeką\"",
+      "latitude": 50.081259,
+      "longitude": 19.901686
+    },
+    {
+      "name": "Fort S2 Wilcze",
+      "latitude": 49.796585,
+      "longitude": 22.791217
+    },
+    {
+      "name": "Fort S3 Garbarze",
+      "latitude": 49.796437,
+      "longitude": 22.786015
+    },
+    {
+      "name": "Fort Sokolnickiego",
+      "latitude": 52.268358,
+      "longitude": 20.98966
+    },
+    {
+      "name": "fort Strzemięcin",
+      "latitude": 53.456955,
+      "longitude": 18.727051
+    },
+    {
+      "name": "Fort Szczęśliwice",
+      "latitude": 52.206723,
+      "longitude": 20.949875
+    },
+    {
+      "name": "fort Tarpno",
+      "latitude": 53.509718,
+      "longitude": 18.799799
+    },
+    {
+      "name": "Fort Traugutta",
+      "latitude": 52.257564,
+      "longitude": 20.998562
+    },
+    {
+      "name": "Fort Twierdzy Brzeskiej - Lebiedziew",
+      "latitude": 52.01953,
+      "longitude": 23.603739
+    },
+    {
+      "name": "Fort V",
+      "latitude": 52.444658,
+      "longitude": 16.935498
+    },
+    {
+      "name": "Fort V Grochowce",
+      "latitude": 49.735712,
+      "longitude": 22.761401
+    },
+    {
+      "name": "Fort V Jana Karola Chodkiewicza",
+      "latitude": 53.042694,
+      "longitude": 18.604676
+    },
+    {
+      "name": "Fort V Twierdzy Warszawa \"Włochy\"",
+      "latitude": 52.19565,
+      "longitude": 20.914736
+    },
+    {
+      "name": "Fort V- Dębina",
+      "latitude": 52.389319,
+      "longitude": 20.716745
+    },
+    {
+      "name": "Fort Va",
+      "latitude": 52.445084,
+      "longitude": 16.916673
+    },
+    {
+      "name": "Fort Va Biadoliny",
+      "latitude": 49.741316,
+      "longitude": 22.746758
+    },
+    {
+      "name": "Fort VI",
+      "latitude": 52.443258,
+      "longitude": 16.896208
+    },
+    {
+      "name": "Fort VI Iwanowa Góra",
+      "latitude": 49.750211,
+      "longitude": 22.728266
+    },
+    {
+      "name": "Fort VI Jaremy Wiśniowieckiego",
+      "latitude": 53.038879,
+      "longitude": 18.585636
+    },
+    {
+      "name": "Fort VI Twierdzy Warszawa \"Okęcie\"",
+      "latitude": 52.184479,
+      "longitude": 20.946797
+    },
+    {
+      "name": "Fort VI- Czeczotki",
+      "latitude": 52.382982,
+      "longitude": 20.676194
+    },
+    {
+      "name": "Fort VIa",
+      "latitude": 49.746212,
+      "longitude": 22.735292
+    },
+    {
+      "name": "Fort VIa",
+      "latitude": 52.436792,
+      "longitude": 16.882169
+    },
+    {
+      "name": "Fort VIa Laboratorium",
+      "latitude": 49.768047,
+      "longitude": 22.778851
+    },
+    {
+      "name": "Fort VIb Lipnik",
+      "latitude": 49.756367,
+      "longitude": 22.72934
+    },
+    {
+      "name": "Fort VII - Cybulice",
+      "latitude": 52.396063,
+      "longitude": 20.631877
+    },
+    {
+      "name": "Fort VII Prałkowce",
+      "latitude": 49.76777,
+      "longitude": 22.700255
+    },
+    {
+      "name": "Fort VII Rybieniec",
+      "latitude": 53.340075,
+      "longitude": 18.524814
+    },
+    {
+      "name": "Fort VII Tadeusza Kościuszki",
+      "latitude": 53.034908,
+      "longitude": 18.564162
+    },
+    {
+      "name": "Fort VII Twierdzy Warszawa \"Zbarż\"",
+      "latitude": 52.171052,
+      "longitude": 20.984149
+    },
+    {
+      "name": "Fort VIIa",
+      "latitude": 52.406584,
+      "longitude": 16.858072
+    },
+    {
+      "name": "Fort VIIa \"Aszczycówka\" (\"Leśniczówka Łętownia\")",
+      "latitude": 49.817197,
+      "longitude": 22.72433
+    },
+    {
+      "name": "Fort VIIa Tarnawce",
+      "latitude": 49.792897,
+      "longitude": 22.707186
+    },
+    {
+      "name": "Fort VIIA Twierdzy Warszawa \"Służewiec\"",
+      "latitude": 52.17259,
+      "longitude": 21.016048
+    },
+    {
+      "name": "Fort VIIA Twierdzy Warszawa \"Służewiec\"",
+      "latitude": 52.17269,
+      "longitude": 21.015127
+    },
+    {
+      "name": "Fort VIII",
+      "latitude": 52.395064,
+      "longitude": 16.85712
+    },
+    {
+      "name": "Fort VIII - Kępa Grochalska",
+      "latitude": 52.40802,
+      "longitude": 20.627778
+    },
+    {
+      "name": "Fort VIII Króla Kazimierza Wielkiego",
+      "latitude": 53.023387,
+      "longitude": 18.556981
+    },
+    {
+      "name": "Fort VIII Twierdzy Warszawa \"Służew\"",
+      "latitude": 52.166826,
+      "longitude": 21.040118
+    },
+    {
+      "name": "Fort VIII Łętownia",
+      "latitude": 49.810697,
+      "longitude": 22.712099
+    },
+    {
+      "name": "Fort VIIIa",
+      "latitude": 52.38586,
+      "longitude": 16.868128
+    },
+    {
+      "name": "Fort W-Szcza Twierdzy Warszawa",
+      "latitude": 52.215259,
+      "longitude": 20.934792
+    },
+    {
+      "name": "fort Wielka Księża Góra",
+      "latitude": 53.477835,
+      "longitude": 18.818732
+    },
+    {
+      "name": "Fort Wodny",
+      "latitude": 50.465722,
+      "longitude": 17.3214
+    },
+    {
+      "name": "Fort X Bateria Nadbrzeżna",
+      "latitude": 52.998314,
+      "longitude": 18.569252
+    },
+    {
+      "name": "Fort X Orzechowce",
+      "latitude": 49.840802,
+      "longitude": 22.745605
+    },
+    {
+      "name": "Fort X Twierdzy Modlin",
+      "latitude": 52.450505,
+      "longitude": 20.570555
+    },
+    {
+      "name": "Fort X Twierdzy Warszawa \"Augustówka\"",
+      "latitude": 52.207324,
+      "longitude": 21.087797
+    },
+    {
+      "name": "Fort Xa Pruchnicka Droga",
+      "latitude": 49.844535,
+      "longitude": 22.761047
+    },
+    {
+      "name": "Fort Xb Zagrodnia",
+      "latitude": 49.834293,
+      "longitude": 22.730925
+    },
+    {
+      "name": "Fort XI Dunkowiczki",
+      "latitude": 49.844749,
+      "longitude": 22.787473
+    },
+    {
+      "name": "Fort XI Stefana Batorego",
+      "latitude": 52.985464,
+      "longitude": 18.574011
+    },
+    {
+      "name": "Fort XI Twierdzy Modlin",
+      "latitude": 52.480419,
+      "longitude": 20.583067
+    },
+    {
+      "name": "Fort XIa Cegielnia",
+      "latitude": 49.843323,
+      "longitude": 22.771817
+    },
+    {
+      "name": "Fort XIa Dunkowiczki",
+      "latitude": 49.836621,
+      "longitude": 22.801336
+    },
+    {
+      "name": "Fort XII Buszkowiczki",
+      "latitude": 49.805767,
+      "longitude": 22.838398
+    },
+    {
+      "name": "Fort XII Twierdzy Modlin",
+      "latitude": 52.493456,
+      "longitude": 20.622238
+    },
+    {
+      "name": "Fort XII Twierdzy Warszawa \"Antoninów\"",
+      "latitude": 52.269247,
+      "longitude": 21.091623
+    },
+    {
+      "name": "Fort XII Werner",
+      "latitude": 49.833787,
+      "longitude": 22.814765
+    },
+    {
+      "name": "Fort XII Władysława Jagiełły",
+      "latitude": 52.98536,
+      "longitude": 18.593795
+    },
+    {
+      "name": "Fort XIII Karola Kniaziewicza",
+      "latitude": 52.982935,
+      "longitude": 18.615649
+    },
+    {
+      "name": "Fort XIII San Rideau",
+      "latitude": 49.821498,
+      "longitude": 22.861178
+    },
+    {
+      "name": "Fort XIII Twierdzy Modlin",
+      "latitude": 52.504077,
+      "longitude": 20.633342
+    },
+    {
+      "name": "Fort XIIIa Zabłocie",
+      "latitude": 49.810396,
+      "longitude": 22.868127
+    },
+    {
+      "name": "Fort XIIIb Bolestraszyce",
+      "latitude": 49.82145,
+      "longitude": 22.852077
+    },
+    {
+      "name": "Fort XIV Józefa Bema",
+      "latitude": 52.990406,
+      "longitude": 18.638248
+    },
+    {
+      "name": "Fort XIVa Twierdzy Modlin",
+      "latitude": 52.519837,
+      "longitude": 20.691108
+    },
+    {
+      "name": "Fort XIVc Twierdzy Modlin",
+      "latitude": 52.508699,
+      "longitude": 20.705053
+    },
+    {
+      "name": "Fort XIX Winna Góra",
+      "latitude": 49.800013,
+      "longitude": 22.774057
+    },
+    {
+      "name": "Fort XIXa Buda",
+      "latitude": 49.804662,
+      "longitude": 22.772015
+    },
+    {
+      "name": "Fort XV Borek",
+      "latitude": 49.771549,
+      "longitude": 22.899627
+    },
+    {
+      "name": "Fort XV Henryka Dąbrowskiego",
+      "latitude": 52.999734,
+      "longitude": 18.64753
+    },
+    {
+      "name": "Fort XV Twierdzy Modlin",
+      "latitude": 52.510283,
+      "longitude": 20.742845
+    },
+    {
+      "name": "Fort XVI",
+      "latitude": 52.490892,
+      "longitude": 20.759598
+    },
+    {
+      "name": "Fort XVI Kolejowy",
+      "latitude": 53.004855,
+      "longitude": 18.634584
+    },
+    {
+      "name": "Fort XVIc Trzy Krzyże",
+      "latitude": 49.776148,
+      "longitude": 22.760297
+    },
+    {
+      "name": "Fort XVII",
+      "latitude": 52.430769,
+      "longitude": 20.796404
+    },
+    {
+      "name": "Fort XVII Ostrów",
+      "latitude": 49.791846,
+      "longitude": 22.738539
+    },
+    {
+      "name": "Fort XVII Przyczółek Mostowy",
+      "latitude": 52.999031,
+      "longitude": 18.616428
+    },
+    {
+      "name": "Fort XVIIa Browar",
+      "latitude": 49.78849,
+      "longitude": 22.743458
+    },
+    {
+      "name": "Fort XVIIb Dynamit",
+      "latitude": 49.794212,
+      "longitude": 22.74266
+    },
+    {
+      "name": "Fort XVIII Boża Wola / Suchocin",
+      "latitude": 52.412469,
+      "longitude": 20.768484
+    },
+    {
+      "name": "Fort XVIII Lipowica",
+      "latitude": 49.810872,
+      "longitude": 22.752776
+    },
+    {
+      "name": "Fort XVIIIa Strzelnica",
+      "latitude": 49.801312,
+      "longitude": 22.747797
+    },
+    {
+      "name": "Fort XVIIIb Głęboka",
+      "latitude": 49.806459,
+      "longitude": 22.748112
+    },
+    {
+      "name": "Fort XVIIIc Las",
+      "latitude": 49.808758,
+      "longitude": 22.762308
+    },
+    {
+      "name": "Fort XX Przekopana",
+      "latitude": 49.781732,
+      "longitude": 22.813011
+    },
+    {
+      "name": "Fort XXI Bakończyce",
+      "latitude": 49.771133,
+      "longitude": 22.791904
+    },
+    {
+      "name": "Fort Zachodni",
+      "latitude": 53.918785,
+      "longitude": 14.275072
+    },
+    {
+      "name": "Fort Zegrze",
+      "latitude": 52.466311,
+      "longitude": 21.022043
+    },
+    {
+      "name": "Fort Śliwickiego Cytadeli Warszawskiej \"Jasińskiego\"",
+      "latitude": 52.265457,
+      "longitude": 21.016138
+    },
+    {
+      "name": "fort Świerkocin",
+      "latitude": 53.518497,
+      "longitude": 18.795653
+    },
+    {
+      "name": "Fort Świętego Jakuba",
+      "latitude": 53.013628,
+      "longitude": 18.624282
+    },
+    {
+      "name": "Fortyfikacja Linia Mołotowa",
+      "latitude": 53.730526,
+      "longitude": 23.402672
+    },
+    {
+      "name": "Fortyfikacja Linia Mołotowa",
+      "latitude": 53.73823,
+      "longitude": 23.399356
+    },
+    {
+      "name": "Grupa Fortowa „Carski Dar” Twierdzy Modlin",
+      "latitude": 52.508167,
+      "longitude": 20.742233
+    },
+    {
+      "name": "Muzeum Martyrologii Wielkopolan – Fort VII",
+      "latitude": 52.416196,
+      "longitude": 16.866735
+    },
+    {
+      "name": "Posterunek piechoty z Blokhauzem",
+      "latitude": 49.776383,
+      "longitude": 22.758021
+    },
+    {
+      "name": "Pozostałości Fortu Ogrodowego",
+      "latitude": 50.840938,
+      "longitude": 16.479469
+    },
+    {
+      "name": "Pozostałości Reduty Jawornickiej",
+      "latitude": 50.844249,
+      "longitude": 16.479332
+    },
+    {
+      "name": "Pozostałości Reduty Kościelnej",
+      "latitude": 50.848436,
+      "longitude": 16.489025
+    },
+    {
+      "name": "Pozostałości Reduty Ogrodowej",
+      "latitude": 50.838694,
+      "longitude": 16.48341
+    },
+    {
+      "name": "Pozostałości Twierdzy Drezdenko",
+      "latitude": 52.839023,
+      "longitude": 15.838031
+    },
+    {
+      "name": "Prochownia P-1 Gałachy",
+      "latitude": 52.436907,
+      "longitude": 20.638928
+    },
+    {
+      "name": "Prochownia P-2 Myza",
+      "latitude": 52.444041,
+      "longitude": 20.638895
+    },
+    {
+      "name": "Prochownia P7 Harcerskie",
+      "latitude": 52.409446,
+      "longitude": 20.645538
+    },
+    {
+      "name": "Prochownie P-10 Ordona",
+      "latitude": 52.411592,
+      "longitude": 20.692174
+    },
+    {
+      "name": "Prochownie P-11 Gen. Zajączka",
+      "latitude": 52.402141,
+      "longitude": 20.643175
+    },
+    {
+      "name": "Prochownie P-6",
+      "latitude": 52.393818,
+      "longitude": 20.675817
+    },
+    {
+      "name": "Przedmoście kazuńskie",
+      "latitude": 52.426629,
+      "longitude": 20.67634
+    },
+    {
+      "name": "Reduta Bagienna",
+      "latitude": 54.179665,
+      "longitude": 15.557937
+    },
+    {
+      "name": "Reduta Jerozolimska",
+      "latitude": 50.478894,
+      "longitude": 17.319191
+    },
+    {
+      "name": "Reduta Kapucyńska",
+      "latitude": 50.480168,
+      "longitude": 17.332488
+    },
+    {
+      "name": "Reduta Kardynalska",
+      "latitude": 50.473101,
+      "longitude": 17.322326
+    },
+    {
+      "name": "Reduta Królicza",
+      "latitude": 50.479652,
+      "longitude": 17.306922
+    },
+    {
+      "name": "Reduta Napoleona - Działobitnia por. Kołaczkowskiego",
+      "latitude": 52.433249,
+      "longitude": 20.660051
+    },
+    {
+      "name": "Relikty bastionu V \"Lubicz\"",
+      "latitude": 50.066186,
+      "longitude": 19.959074
+    },
+    {
+      "name": "Relikty fortu 17 \"Luneta Grzegórzecka\"",
+      "latitude": 50.054531,
+      "longitude": 19.968563
+    },
+    {
+      "name": "Relikty fortu 33 „Krakus”",
+      "latitude": 50.037644,
+      "longitude": 19.958459
+    },
+    {
+      "name": "Relikty fortu 41 \"Bronowice Małe\"",
+      "latitude": 50.08862,
+      "longitude": 19.863526
+    },
+    {
+      "name": "Relikty fortu 9 \"Krowodrza\"",
+      "latitude": 50.086258,
+      "longitude": 19.921145
+    },
+    {
+      "name": "Relikty fortu N-8 \"Łobzów\"",
+      "latitude": 50.082816,
+      "longitude": 19.906851
+    },
+    {
+      "name": "Ruiny Fleszy Jawornickiej",
+      "latitude": 50.847276,
+      "longitude": 16.480357
+    },
+    {
+      "name": "Ruiny Fleszy Nowomłyńskiej",
+      "latitude": 50.83374,
+      "longitude": 16.487663
+    },
+    {
+      "name": "Ruiny fortu 43a \"Podchruście\"",
+      "latitude": 50.110089,
+      "longitude": 19.869329
+    },
+    {
+      "name": "Ruiny fortu 47½ \"Sudół\"",
+      "latitude": 50.103205,
+      "longitude": 19.985494
+    },
+    {
+      "name": "Ruiny fortu 53 \"Bodzów\"",
+      "latitude": 50.034369,
+      "longitude": 19.86592
+    },
+    {
+      "name": "Ruiny Fortu Jawornickiego",
+      "latitude": 50.847986,
+      "longitude": 16.482692
+    },
+    {
+      "name": "Ruiny fortu N-4 \"Błonia\"",
+      "latitude": 50.062604,
+      "longitude": 19.900865
+    },
+    {
+      "name": "Ruiny Fortu Szubienniczego",
+      "latitude": 50.847958,
+      "longitude": 16.4952
+    },
+    {
+      "name": "Ruiny Fortu Witoszowskiego",
+      "latitude": 50.836508,
+      "longitude": 16.486319
+    },
+    {
+      "name": "Schron amunicyjny Swoszowice",
+      "latitude": 49.99402,
+      "longitude": 19.947199
+    },
+    {
+      "name": "SD PGW AR",
+      "latitude": 51.470057,
+      "longitude": 15.816498
+    },
+    {
+      "name": "Strażnica kolejowa",
+      "latitude": 50.00589,
+      "longitude": 20.941735
+    },
+    {
+      "name": "Szaniec",
+      "latitude": 49.774994,
+      "longitude": 22.761644
+    },
+    {
+      "name": "Szaniec Jezuicki",
+      "latitude": 54.336371,
+      "longitude": 18.632343
+    },
+    {
+      "name": "Szaniec Mewi",
+      "latitude": 54.40078,
+      "longitude": 18.682893
+    },
+    {
+      "name": "Szaniec piechoty Orzechowce",
+      "latitude": 49.835458,
+      "longitude": 22.738518
+    },
+    {
+      "name": "Szaniec piechoty Parski",
+      "latitude": 53.529182,
+      "longitude": 18.774657
+    },
+    {
+      "name": "Szaniec S XIV A \"Hurko\"",
+      "latitude": 49.785714,
+      "longitude": 22.881375
+    },
+    {
+      "name": "Szaniec S XIVb \"Hurko\"",
+      "latitude": 49.79667,
+      "longitude": 22.883054
+    },
+    {
+      "name": "Szaniec S1 \"Pobereże\"",
+      "latitude": 49.789633,
+      "longitude": 22.796187
+    },
+    {
+      "name": "Szaniec S18 Czeremoszna",
+      "latitude": 49.80862,
+      "longitude": 22.884674
+    },
+    {
+      "name": "Szaniec SZ12 Lempertówka",
+      "latitude": 49.778782,
+      "longitude": 22.807349
+    },
+    {
+      "name": "Szaniec Zachodni",
+      "latitude": 54.396591,
+      "longitude": 18.675862
+    },
+    {
+      "name": "Twierdza Chełmno - Fort I Watorowo",
+      "latitude": 53.293679,
+      "longitude": 18.418391
+    },
+    {
+      "name": "Twierdza Dęblin (Iwangorod)",
+      "latitude": 51.556408,
+      "longitude": 21.835743
+    },
+    {
+      "name": "Twierdza Grudziądz",
+      "latitude": 53.511696,
+      "longitude": 18.761843
+    },
+    {
+      "name": "Twierdza Łomża",
+      "latitude": 53.204481,
+      "longitude": 22.09618
+    },
+    {
+      "name": "Wysoka Bateria",
+      "latitude": 50.479386,
+      "longitude": 17.311854
+    },
+    {
+      "name": "Wysoki Redan",
+      "latitude": 50.480615,
+      "longitude": 17.312407
+    },
+    {
+      "name": "Zapasowe Stanowisko Dowodzenia Zachodniego Teatru Działań Wojennych",
+      "latitude": 51.479053,
+      "longitude": 15.805336
+    },
+    {
+      "name": "zespół fortyfikacji Fortu 31 „Benedykt”",
+      "latitude": 50.042632,
+      "longitude": 19.957551
+    },
+    {
+      "name": "Śluza Katedralna",
+      "latitude": 52.412459,
+      "longitude": 16.950331
+    },
+    {
+      "name": "Średniowieczny Gródek z XIII w.",
+      "latitude": 50.260565,
+      "longitude": 18.89121
+    },
+    {
+      "name": "ДУ «Мемарыяльны комплекс «Брэсцкая крэпасць-герой» экспазіцыя «Абарона Усходняга форта»",
+      "latitude": 52.088209,
+      "longitude": 23.65949
+    },
+    {
+      "name": "Форт I",
+      "latitude": 52.120126,
+      "longitude": 23.626605
+    },
+    {
+      "name": "Форт V",
+      "latitude": 52.047627,
+      "longitude": 23.672948
+    },
+    {
+      "name": "Форт «А»",
+      "latitude": 52.121607,
+      "longitude": 23.611636
+    },
+    {
+      "name": "Форт «Граф Берг»",
+      "latitude": 52.096228,
+      "longitude": 23.6426
+    }
+  ],
+  "meta": {
+    "title": "Polska — forty - Bezpłatne pobieranie",
+    "description": "Forty i fortyfikacje w Polsce (OpenStreetMap) Zawiera 301 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — forty | ListBase",
+    "seo_description": "Pobierz Polska — forty — 301 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 301 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

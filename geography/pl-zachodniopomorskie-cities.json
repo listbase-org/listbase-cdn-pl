@@ -1,0 +1,696 @@
+{
+  "id": "pl-zachodniopomorskie-cities",
+  "name": "Województwo zachodniopomorskie — miasta",
+  "title": "Województwo zachodniopomorskie — miasta",
+  "description": "Lista miast w województwie zachodniopomorskim (województwo zachodniopomorskie) — 63 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the zachodniopomorskie voivodeship — 63 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 924,
+      "name": "Barlinek",
+      "slug": "barlinek",
+      "name_locative": "Barlinku",
+      "county_id": 306,
+      "county_name": "myśliborski",
+      "latitude": 52.9920762,
+      "longitude": 15.2166391
+    },
+    {
+      "city_id": 939,
+      "name": "Barwice",
+      "slug": "barwice",
+      "name_locative": "Barwicach",
+      "county_id": 311,
+      "county_name": "szczecinecki",
+      "latitude": 53.7445649,
+      "longitude": 16.3549399
+    },
+    {
+      "city_id": 889,
+      "name": "Białogard",
+      "slug": "bialogard",
+      "name_locative": "Białogardzie",
+      "county_id": 297,
+      "county_name": "białogardzki",
+      "latitude": 54.0145099,
+      "longitude": 15.96911872
+    },
+    {
+      "city_id": 940,
+      "name": "Biały Bór",
+      "slug": "bialy-bor",
+      "name_locative": "Białym Borze",
+      "county_id": 311,
+      "county_name": "szczecinecki",
+      "latitude": 53.8987414,
+      "longitude": 16.8377275
+    },
+    {
+      "city_id": 920,
+      "name": "Bobolice",
+      "slug": "bobolice",
+      "name_locative": "Bobolicach",
+      "county_id": 305,
+      "county_name": "koszaliński",
+      "latitude": 53.954693,
+      "longitude": 16.5884779
+    },
+    {
+      "city_id": 941,
+      "name": "Borne Sulinowo",
+      "slug": "borne-sulinowo",
+      "name_locative": "Bornem Sulinowie",
+      "county_id": 311,
+      "county_name": "szczecinecki",
+      "latitude": 53.5812939,
+      "longitude": 16.538117
+    },
+    {
+      "city_id": 907,
+      "name": "Cedynia",
+      "slug": "cedynia",
+      "name_locative": "Cedyni",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 52.8785605,
+      "longitude": 14.202564
+    },
+    {
+      "city_id": 934,
+      "name": "Chociwel",
+      "slug": "chociwel",
+      "name_locative": "Chociwlu",
+      "county_id": 310,
+      "county_name": "stargardzki",
+      "latitude": 53.4663949,
+      "longitude": 15.3314436
+    },
+    {
+      "city_id": 908,
+      "name": "Chojna",
+      "slug": "chojna",
+      "name_locative": "Chojnie",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 52.9629793,
+      "longitude": 14.4314113
+    },
+    {
+      "city_id": 892,
+      "name": "Choszczno",
+      "slug": "choszczno",
+      "name_locative": "Choszcznie",
+      "county_id": 298,
+      "county_name": "choszczeński",
+      "latitude": 53.1704801,
+      "longitude": 15.4167349
+    },
+    {
+      "city_id": 896,
+      "name": "Czaplinek",
+      "slug": "czaplinek",
+      "name_locative": "Czaplinku",
+      "county_id": 299,
+      "county_name": "drawski",
+      "latitude": 53.560673,
+      "longitude": 16.2319428
+    },
+    {
+      "city_id": 945,
+      "name": "Człopa",
+      "slug": "czlopa",
+      "name_locative": "Człopie",
+      "county_id": 313,
+      "county_name": "wałecki",
+      "latitude": 53.0884595,
+      "longitude": 16.1201069
+    },
+    {
+      "city_id": 931,
+      "name": "Darłowo",
+      "slug": "darlowo",
+      "name_locative": "Darłowie",
+      "county_id": 309,
+      "county_name": "sławieński",
+      "latitude": 54.42914965,
+      "longitude": 16.40384636
+    },
+    {
+      "city_id": 948,
+      "name": "Dobra",
+      "slug": "dobra-12021",
+      "name_locative": "Dobrej",
+      "county_id": 314,
+      "county_name": "łobeski",
+      "latitude": 53.584659,
+      "longitude": 15.3073048
+    },
+    {
+      "city_id": 935,
+      "name": "Dobrzany",
+      "slug": "dobrzany",
+      "name_locative": "Dobrzanach",
+      "county_id": 310,
+      "county_name": "stargardzki",
+      "latitude": 53.3582754,
+      "longitude": 15.4299315
+    },
+    {
+      "city_id": 893,
+      "name": "Drawno",
+      "slug": "drawno",
+      "name_locative": "Drawnie",
+      "county_id": 298,
+      "county_name": "choszczeński",
+      "latitude": 53.2189468,
+      "longitude": 15.7580084
+    },
+    {
+      "city_id": 897,
+      "name": "Drawsko Pomorskie",
+      "slug": "drawsko-pomorskie",
+      "name_locative": "Drawsku Pomorskim",
+      "county_id": 299,
+      "county_name": "drawski",
+      "latitude": 53.5310786,
+      "longitude": 15.8134179
+    },
+    {
+      "city_id": 913,
+      "name": "Dziwnów",
+      "slug": "dziwnow",
+      "name_locative": "Dziwnowie",
+      "county_id": 303,
+      "county_name": "kamieński",
+      "latitude": 54.025095,
+      "longitude": 14.7526469
+    },
+    {
+      "city_id": 925,
+      "name": "Dębno",
+      "slug": "debno",
+      "name_locative": "Dębnie",
+      "county_id": 306,
+      "county_name": "myśliborski",
+      "latitude": 52.7396681,
+      "longitude": 14.7014522
+    },
+    {
+      "city_id": 914,
+      "name": "Golczewo",
+      "slug": "golczewo",
+      "name_locative": "Golczewie",
+      "county_id": 303,
+      "county_name": "kamieński",
+      "latitude": 53.8241081,
+      "longitude": 14.9773396
+    },
+    {
+      "city_id": 900,
+      "name": "Goleniów",
+      "slug": "goleniow",
+      "name_locative": "Goleniowie",
+      "county_id": 300,
+      "county_name": "goleniowski",
+      "latitude": 53.5656704,
+      "longitude": 14.8300626
+    },
+    {
+      "city_id": 919,
+      "name": "Gościno",
+      "slug": "goscino",
+      "name_locative": "Gościnie",
+      "county_id": 304,
+      "county_name": "kołobrzeski",
+      "latitude": 54.0515795,
+      "longitude": 15.6534004
+    },
+    {
+      "city_id": 904,
+      "name": "Gryfice",
+      "slug": "gryfice",
+      "name_locative": "Gryficach",
+      "county_id": 301,
+      "county_name": "gryficki",
+      "latitude": 53.9148529,
+      "longitude": 15.1987062
+    },
+    {
+      "city_id": 909,
+      "name": "Gryfino",
+      "slug": "gryfino",
+      "name_locative": "Gryfinie",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 53.2535889,
+      "longitude": 14.4924243
+    },
+    {
+      "city_id": 936,
+      "name": "Ińsko",
+      "slug": "insko",
+      "name_locative": "Ińsku",
+      "county_id": 310,
+      "county_name": "stargardzki",
+      "latitude": 53.4365292,
+      "longitude": 15.5503079
+    },
+    {
+      "city_id": 898,
+      "name": "Kalisz Pomorski",
+      "slug": "kalisz-pomorski",
+      "name_locative": "Kaliszu Pomorskim",
+      "county_id": 299,
+      "county_name": "drawski",
+      "latitude": 53.2981616,
+      "longitude": 15.9059903
+    },
+    {
+      "city_id": 915,
+      "name": "Kamień Pomorski",
+      "slug": "kamien-pomorski",
+      "name_locative": "Kamieniu Pomorskim",
+      "county_id": 303,
+      "county_name": "kamieński",
+      "latitude": 53.9653947,
+      "longitude": 14.7728556
+    },
+    {
+      "city_id": 890,
+      "name": "Karlino",
+      "slug": "karlino",
+      "name_locative": "Karlinie",
+      "county_id": 297,
+      "county_name": "białogardzki",
+      "latitude": 54.0410287,
+      "longitude": 15.8793019
+    },
+    {
+      "city_id": 918,
+      "name": "Kołobrzeg",
+      "slug": "kolobrzeg",
+      "name_locative": "Kołobrzegu",
+      "county_id": 304,
+      "county_name": "kołobrzeski",
+      "latitude": 54.17621155,
+      "longitude": 15.5764037
+    },
+    {
+      "city_id": 929,
+      "name": "Lipiany",
+      "slug": "lipiany",
+      "name_locative": "Lipianach",
+      "county_id": 308,
+      "county_name": "pyrzycki",
+      "latitude": 53.0035599,
+      "longitude": 14.9697645
+    },
+    {
+      "city_id": 901,
+      "name": "Maszewo",
+      "slug": "maszewo",
+      "name_locative": "Maszewie",
+      "county_id": 300,
+      "county_name": "goleniowski",
+      "latitude": 53.496222,
+      "longitude": 15.0613549
+    },
+    {
+      "city_id": 921,
+      "name": "Mielno",
+      "slug": "mielno",
+      "name_locative": "Mielnie",
+      "county_id": 305,
+      "county_name": "koszaliński",
+      "latitude": 54.2590065,
+      "longitude": 16.0539997
+    },
+    {
+      "city_id": 910,
+      "name": "Mieszkowice",
+      "slug": "mieszkowice",
+      "name_locative": "Mieszkowicach",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 52.785412,
+      "longitude": 14.4954296
+    },
+    {
+      "city_id": 946,
+      "name": "Mirosławiec",
+      "slug": "miroslawiec",
+      "name_locative": "Mirosławcu",
+      "county_id": 313,
+      "county_name": "wałecki",
+      "latitude": 53.3415106,
+      "longitude": 16.0881475
+    },
+    {
+      "city_id": 916,
+      "name": "Międzyzdroje",
+      "slug": "miedzyzdroje",
+      "name_locative": "Międzyzdrojach",
+      "county_id": 303,
+      "county_name": "kamieński",
+      "latitude": 53.9282745,
+      "longitude": 14.448903
+    },
+    {
+      "city_id": 911,
+      "name": "Moryń",
+      "slug": "moryn",
+      "name_locative": "Moryniu",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 52.8558027,
+      "longitude": 14.3968046
+    },
+    {
+      "city_id": 926,
+      "name": "Myślibórz",
+      "slug": "mysliborz",
+      "name_locative": "Myśliborzu",
+      "county_id": 306,
+      "county_name": "myśliborski",
+      "latitude": 52.924825,
+      "longitude": 14.8664799
+    },
+    {
+      "city_id": 927,
+      "name": "Nowe Warpno",
+      "slug": "nowe-warpno",
+      "name_locative": "Nowym Warpnie",
+      "county_id": 307,
+      "county_name": "policki",
+      "latitude": 53.7252724,
+      "longitude": 14.2809332
+    },
+    {
+      "city_id": 902,
+      "name": "Nowogard",
+      "slug": "nowogard",
+      "name_locative": "Nowogardzie",
+      "county_id": 300,
+      "county_name": "goleniowski",
+      "latitude": 53.6687698,
+      "longitude": 15.1225889
+    },
+    {
+      "city_id": 894,
+      "name": "Pełczyce",
+      "slug": "pelczyce",
+      "name_locative": "Pełczycach",
+      "county_id": 298,
+      "county_name": "choszczeński",
+      "latitude": 53.04218,
+      "longitude": 15.30591
+    },
+    {
+      "city_id": 922,
+      "name": "Polanów",
+      "slug": "polanow",
+      "name_locative": "Polanowie",
+      "county_id": 305,
+      "county_name": "koszaliński",
+      "latitude": 54.11921,
+      "longitude": 16.68725
+    },
+    {
+      "city_id": 928,
+      "name": "Police",
+      "slug": "police",
+      "name_locative": "Policach",
+      "county_id": 307,
+      "county_name": "policki",
+      "latitude": 53.5486435,
+      "longitude": 14.5657399
+    },
+    {
+      "city_id": 943,
+      "name": "Połczyn-Zdrój",
+      "slug": "polczyn-zdroj",
+      "name_locative": "Połczynie-Zdroju",
+      "county_id": 312,
+      "county_name": "świdwiński",
+      "latitude": 53.7648981,
+      "longitude": 16.0952705
+    },
+    {
+      "city_id": 930,
+      "name": "Pyrzyce",
+      "slug": "pyrzyce",
+      "name_locative": "Pyrzycach",
+      "county_id": 308,
+      "county_name": "pyrzycki",
+      "latitude": 53.1457,
+      "longitude": 14.89267
+    },
+    {
+      "city_id": 905,
+      "name": "Płoty",
+      "slug": "ploty",
+      "name_locative": "Płotach",
+      "county_id": 301,
+      "county_name": "gryficki",
+      "latitude": 53.8030947,
+      "longitude": 15.2663988
+    },
+    {
+      "city_id": 895,
+      "name": "Recz",
+      "slug": "recz",
+      "name_locative": "Reczu",
+      "county_id": 298,
+      "county_name": "choszczeński",
+      "latitude": 53.2601536,
+      "longitude": 15.5467648
+    },
+    {
+      "city_id": 950,
+      "name": "Resko",
+      "slug": "resko",
+      "name_locative": "Resku",
+      "county_id": 314,
+      "county_name": "łobeski",
+      "latitude": 53.7733969,
+      "longitude": 15.4056058
+    },
+    {
+      "city_id": 923,
+      "name": "Sianów",
+      "slug": "sianow",
+      "name_locative": "Sianowie",
+      "county_id": 305,
+      "county_name": "koszaliński",
+      "latitude": 54.228188,
+      "longitude": 16.2942839
+    },
+    {
+      "city_id": 933,
+      "name": "Stargard",
+      "slug": "stargard",
+      "name_locative": "Stargardzie Szczecińskim",
+      "county_id": 310,
+      "county_name": "stargardzki",
+      "latitude": 53.30897745,
+      "longitude": 15.03164593
+    },
+    {
+      "city_id": 903,
+      "name": "Stepnica",
+      "slug": "stepnica",
+      "name_locative": "Stepnicy",
+      "county_id": 300,
+      "county_name": "goleniowski",
+      "latitude": 53.651453,
+      "longitude": 14.6299527
+    },
+    {
+      "city_id": 937,
+      "name": "Suchań",
+      "slug": "suchan",
+      "name_locative": "Suchaniu",
+      "county_id": 310,
+      "county_name": "stargardzki",
+      "latitude": 53.2799427,
+      "longitude": 15.3188331
+    },
+    {
+      "city_id": 938,
+      "name": "Szczecinek",
+      "slug": "szczecinek",
+      "name_locative": "Szczecinku",
+      "county_id": 311,
+      "county_name": "szczecinecki",
+      "latitude": 53.70234205,
+      "longitude": 16.70713425
+    },
+    {
+      "city_id": 932,
+      "name": "Sławno",
+      "slug": "slawno",
+      "name_locative": "Sławnie",
+      "county_id": 309,
+      "county_name": "sławieński",
+      "latitude": 54.36114195,
+      "longitude": 16.67540761
+    },
+    {
+      "city_id": 912,
+      "name": "Trzcińsko-Zdrój",
+      "slug": "trzcinsko-zdroj",
+      "name_locative": "Trzcińsku-Zdroju",
+      "county_id": 302,
+      "county_name": "gryfiński",
+      "latitude": 52.9660381,
+      "longitude": 14.6075982
+    },
+    {
+      "city_id": 906,
+      "name": "Trzebiatów",
+      "slug": "trzebiatow",
+      "name_locative": "Trzebiatowie",
+      "county_id": 301,
+      "county_name": "gryficki",
+      "latitude": 54.0627026,
+      "longitude": 15.2657157
+    },
+    {
+      "city_id": 947,
+      "name": "Tuczno",
+      "slug": "tuczno",
+      "name_locative": "Tucznie",
+      "county_id": 313,
+      "county_name": "wałecki",
+      "latitude": 53.194419,
+      "longitude": 16.1548235
+    },
+    {
+      "city_id": 891,
+      "name": "Tychowo",
+      "slug": "tychowo",
+      "name_locative": "Tychowie",
+      "county_id": 297,
+      "county_name": "białogardzki",
+      "latitude": 53.92866,
+      "longitude": 16.25668
+    },
+    {
+      "city_id": 944,
+      "name": "Wałcz",
+      "slug": "walcz",
+      "name_locative": "Wałczu",
+      "county_id": 313,
+      "county_name": "wałecki",
+      "latitude": 53.27285375,
+      "longitude": 16.47681766
+    },
+    {
+      "city_id": 917,
+      "name": "Wolin",
+      "slug": "wolin",
+      "name_locative": "Wolinie",
+      "county_id": 303,
+      "county_name": "kamieński",
+      "latitude": 53.9131743,
+      "longitude": 14.52001389
+    },
+    {
+      "city_id": 951,
+      "name": "Węgorzyno",
+      "slug": "wegorzyno",
+      "name_locative": "Węgorzynie",
+      "county_id": 314,
+      "county_name": "łobeski",
+      "latitude": 53.5411822,
+      "longitude": 15.5602398
+    },
+    {
+      "city_id": 899,
+      "name": "Złocieniec",
+      "slug": "zlocieniec",
+      "name_locative": "Złocieńcu",
+      "county_id": 299,
+      "county_name": "drawski",
+      "latitude": 53.5310697,
+      "longitude": 16.0120665
+    },
+    {
+      "city_id": 949,
+      "name": "Łobez",
+      "slug": "lobez",
+      "name_locative": "Łobzie",
+      "county_id": 314,
+      "county_name": "łobeski",
+      "latitude": 53.6391189,
+      "longitude": 15.6213487
+    },
+    {
+      "city_id": 942,
+      "name": "Świdwin",
+      "slug": "swidwin",
+      "name_locative": "Świdwinie",
+      "county_id": 312,
+      "county_name": "świdwiński",
+      "latitude": 53.7743624,
+      "longitude": 15.78251587
+    }
+  ],
+  "meta": {
+    "title": "Województwo zachodniopomorskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie zachodniopomorskim (województwo zachodniopomorskie) — 63 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the zachodniopomorskie voivodeship — 63 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 63 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo zachodniopomorskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo zachodniopomorskie — miasta — 63 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 63 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

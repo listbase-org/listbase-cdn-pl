@@ -1,0 +1,352 @@
+{
+  "id": "time-chinese-zodiac",
+  "name": "Kompleksowy Zbiór Danych Zwierząt Chińskiego Zodiaku (12 Znaków)",
+  "category": "time",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_cn",
+      "label": "Name (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "pinyin",
+      "label": "Pinyin",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "recent_years",
+      "label": "Recent Years",
+      "type": "string"
+    },
+    {
+      "key": "yin_yang",
+      "label": "Yin/Yang",
+      "type": "string"
+    },
+    {
+      "key": "fixed_element",
+      "label": "Fixed Element",
+      "type": "string"
+    },
+    {
+      "key": "season",
+      "label": "Season (EN)",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "direction",
+      "label": "Direction",
+      "type": "string"
+    },
+    {
+      "key": "hours",
+      "label": "Hours",
+      "type": "string"
+    },
+    {
+      "key": "traits",
+      "label": "Personality Traits (EN)",
+      "type": "string"
+    },
+    {
+      "key": "compatible",
+      "label": "Compatible With",
+      "type": "string"
+    },
+    {
+      "key": "incompatible",
+      "label": "Incompatible With",
+      "type": "string"
+    },
+    {
+      "key": "lucky_numbers",
+      "label": "Lucky Numbers",
+      "type": "string"
+    },
+    {
+      "key": "lucky_colors",
+      "label": "Lucky Colors (EN)",
+      "type": "string"
+    },
+    {
+      "key": "lucky_flowers",
+      "label": "Lucky Flowers",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Szczur",
+      "name_cn": "鼠",
+      "pinyin": "Shǔ",
+      "order": 1,
+      "recent_years": "1924, 1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020, 2032",
+      "yin_yang": "Yang",
+      "fixed_element": "Water",
+      "season": "Zima",
+      "month": "December",
+      "direction": "North",
+      "hours": "23:00 - 01:00",
+      "traits": "Błyskotliwy, zaradny, wszechstronny, życzliwy",
+      "compatible": "Dragon, Monkey, Ox",
+      "incompatible": "Horse, Goat",
+      "lucky_numbers": "2, 3",
+      "lucky_colors": "Niebieski, Złoty, Zielony",
+      "lucky_flowers": "Lily, African Violet"
+    },
+    {
+      "name_en": "Wół",
+      "name_cn": "牛",
+      "pinyin": "Niú",
+      "order": 2,
+      "recent_years": "1925, 1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021, 2033",
+      "yin_yang": "Yin",
+      "fixed_element": "Earth",
+      "season": "Zima",
+      "month": "January",
+      "direction": "North-Northeast",
+      "hours": "01:00 - 03:00",
+      "traits": "Sumienny, niezawodny, silny, zdeterminowany",
+      "compatible": "Rat, Snake, Rooster",
+      "incompatible": "Tiger, Dragon, Horse, Goat",
+      "lucky_numbers": "1, 4",
+      "lucky_colors": "Biały, Żółty, Zielony",
+      "lucky_flowers": "Tulip, Evergreen"
+    },
+    {
+      "name_en": "Tygrys",
+      "name_cn": "虎",
+      "pinyin": "Hǔ",
+      "order": 3,
+      "recent_years": "1926, 1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022, 2034",
+      "yin_yang": "Yang",
+      "fixed_element": "Wood",
+      "season": "Wiosna",
+      "month": "February",
+      "direction": "East-Northeast",
+      "hours": "03:00 - 05:00",
+      "traits": "Odważny, pewny siebie, rywalizujący, nieprzewidywalny",
+      "compatible": "Dragon, Horse, Pig",
+      "incompatible": "Ox, Tiger, Snake, Monkey",
+      "lucky_numbers": "1, 3, 4",
+      "lucky_colors": "Niebieski, Szary, Pomarańczowy",
+      "lucky_flowers": "Yellow Lily, Cineraria"
+    },
+    {
+      "name_en": "Królik",
+      "name_cn": "兔",
+      "pinyin": "Tù",
+      "order": 4,
+      "recent_years": "1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023, 2035",
+      "yin_yang": "Yin",
+      "fixed_element": "Wood",
+      "season": "Wiosna",
+      "month": "March",
+      "direction": "East",
+      "hours": "05:00 - 07:00",
+      "traits": "Cichy, elegancki, życzliwy, odpowiedzialny",
+      "compatible": "Goat, Monkey, Dog, Pig",
+      "incompatible": "Snake, Rooster",
+      "lucky_numbers": "3, 4, 6",
+      "lucky_colors": "Czerwony, Różowy, Fioletowy, Niebieski",
+      "lucky_flowers": "Plantain Lily, Jasmine"
+    },
+    {
+      "name_en": "Smok",
+      "name_cn": "龙",
+      "pinyin": "Lóng",
+      "order": 5,
+      "recent_years": "1928, 1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024, 2036",
+      "yin_yang": "Yang",
+      "fixed_element": "Earth",
+      "season": "Wiosna",
+      "month": "April",
+      "direction": "East-Southeast",
+      "hours": "07:00 - 09:00",
+      "traits": "Pewny siebie, inteligentny, entuzjastyczny, ambitny",
+      "compatible": "Rooster, Rat, Monkey",
+      "incompatible": "Ox, Goat, Dog",
+      "lucky_numbers": "1, 6, 7",
+      "lucky_colors": "Złoty, Srebrny, Szary",
+      "lucky_flowers": "Bleeding Heart, Dragon Flower"
+    },
+    {
+      "name_en": "Wąż",
+      "name_cn": "蛇",
+      "pinyin": "Shé",
+      "order": 6,
+      "recent_years": "1929, 1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025, 2037",
+      "yin_yang": "Yin",
+      "fixed_element": "Fire",
+      "season": "Lato",
+      "month": "May",
+      "direction": "South-Southeast",
+      "hours": "09:00 - 11:00",
+      "traits": "Enigmatyczny, inteligentny, mądry, intuicyjny",
+      "compatible": "Dragon, Rooster, Ox",
+      "incompatible": "Tiger, Rabbit, Snake, Pig",
+      "lucky_numbers": "2, 8, 9",
+      "lucky_colors": "Czarny, Czerwony, Żółty",
+      "lucky_flowers": "Orchid, Cactus"
+    },
+    {
+      "name_en": "Koń",
+      "name_cn": "马",
+      "pinyin": "Mǎ",
+      "order": 7,
+      "recent_years": "1930, 1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026, 2038",
+      "yin_yang": "Yang",
+      "fixed_element": "Fire",
+      "season": "Lato",
+      "month": "June",
+      "direction": "South",
+      "hours": "11:00 - 13:00",
+      "traits": "Ożywiony, aktywny, energiczny, niezależny",
+      "compatible": "Tiger, Goat, Rabbit",
+      "incompatible": "Rat, Ox, Rooster",
+      "lucky_numbers": "2, 3, 7",
+      "lucky_colors": "Żółty, Zielony",
+      "lucky_flowers": "Calla Lily, Jasmine"
+    },
+    {
+      "name_en": "Koza",
+      "name_cn": "羊",
+      "pinyin": "Yáng",
+      "order": 8,
+      "recent_years": "1931, 1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027, 2039",
+      "yin_yang": "Yin",
+      "fixed_element": "Earth",
+      "season": "Lato",
+      "month": "July",
+      "direction": "South-Southwest",
+      "hours": "13:00 - 15:00",
+      "traits": "Spokojny, łagodny, współczujący, kreatywny",
+      "compatible": "Rabbit, Horse, Pig",
+      "incompatible": "Ox, Dragon, Snake, Dog",
+      "lucky_numbers": "2, 7",
+      "lucky_colors": "Brązowy, Czerwony, Fioletowy",
+      "lucky_flowers": "Carnation, Primrose"
+    },
+    {
+      "name_en": "Małpa",
+      "name_cn": "猴",
+      "pinyin": "Hóu",
+      "order": 9,
+      "recent_years": "1932, 1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028, 2040",
+      "yin_yang": "Yang",
+      "fixed_element": "Metal",
+      "season": "Jesień",
+      "month": "August",
+      "direction": "West-Southwest",
+      "hours": "15:00 - 17:00",
+      "traits": "Błyskotliwy, sprytny, ciekawski, psotny",
+      "compatible": "Ox, Rabbit, Dragon, Rat",
+      "incompatible": "Tiger, Pig",
+      "lucky_numbers": "4, 9",
+      "lucky_colors": "Biały, Niebieski, Złoty",
+      "lucky_flowers": "Chrysanthemum, Crape Myrtle"
+    },
+    {
+      "name_en": "Kogut",
+      "name_cn": "鸡",
+      "pinyin": "Jī",
+      "order": 10,
+      "recent_years": "1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029, 2041",
+      "yin_yang": "Yin",
+      "fixed_element": "Metal",
+      "season": "Jesień",
+      "month": "September",
+      "direction": "West",
+      "hours": "17:00 - 19:00",
+      "traits": "Spostrzegawczy, pracowity, odważny, utalentowany",
+      "compatible": "Ox, Dragon, Snake",
+      "incompatible": "Rat, Rabbit, Horse, Rooster, Dog",
+      "lucky_numbers": "5, 7, 8",
+      "lucky_colors": "Złoty, Brązowy, Żółty",
+      "lucky_flowers": "Gladiola, Impatiens"
+    },
+    {
+      "name_en": "Pies",
+      "name_cn": "狗",
+      "pinyin": "Gǒu",
+      "order": 11,
+      "recent_years": "1934, 1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030, 2042",
+      "yin_yang": "Yang",
+      "fixed_element": "Earth",
+      "season": "Jesień",
+      "month": "October",
+      "direction": "West-Northwest",
+      "hours": "19:00 - 21:00",
+      "traits": "Lojalny, szczery, uprzejmy, życzliwy, rozważny",
+      "compatible": "Rabbit, Tiger, Horse",
+      "incompatible": "Dragon, Goat, Rooster",
+      "lucky_numbers": "3, 4, 9",
+      "lucky_colors": "Czerwony, Zielony, Fioletowy",
+      "lucky_flowers": "Rose, Cymbidium Orchid"
+    },
+    {
+      "name_en": "Świnia",
+      "name_cn": "猪",
+      "pinyin": "Zhū",
+      "order": 12,
+      "recent_years": "1923, 1935, 1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+      "yin_yang": "Yin",
+      "fixed_element": "Water",
+      "season": "Zima",
+      "month": "November",
+      "direction": "North-Northwest",
+      "hours": "21:00 - 23:00",
+      "traits": "Współczujący, hojny, sumienny, spokojny",
+      "compatible": "Tiger, Rabbit, Goat",
+      "incompatible": "Snake, Monkey",
+      "lucky_numbers": "2, 5, 8",
+      "lucky_colors": "Żółty, Szary, Brązowy, Złoty",
+      "lucky_flowers": "Hydrangea, Pitcher Plant"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dane Chińskiego Zodiaku - Pobierz za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatne dane o wszystkich 12 zwierzętach Chińskiego Zodiaku, w tym cechy, lata, elementy i więcej. Dostępne w formatach Excel, CSV, PDF. 12 rekordów.",
+    "title": "Kompleksowy Zbiór Danych Zwierząt Chińskiego Zodiaku (12 Znaków)",
+    "description": "Ten zbiór danych zawiera szczegółowe informacje dla wszystkich 12 zwierząt Chińskiego Zodiaku, obejmujące ich nazwy, ostatnie lata, elementy, cechy, zgodność i szczęśliwe atrybuty.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do szczegółowych profili wszystkich 12 zwierząt Chińskiego Zodiaku i ich charakterystyk.",
+      "Przeglądaj cechy osobowości, zgodne znaki i stałe elementy dla każdego znaku zodiaku.",
+      "Pobierz najnowsze lata urodzenia, szczęśliwe liczby, kolory i kwiaty dla każdego zwierzęcia.",
+      "Wykorzystaj kompleksowe dane dotyczące Yin/Yang, pory roku, miesiąca, kierunku i godzin."
+    ],
+    "keywords": [
+      "chiński zodiak dane excel",
+      "12 zwierząt zodiaku csv",
+      "zbiór danych astrologii chińskiej",
+      "cechy znaków zodiaku",
+      "pobierz chiński zodiak za darmo",
+      "zwierzęta kalendarza księżycowego"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub skryptów Python do zastosowań astrologicznych i analizy danych.",
+      "Użyj pliku **Excel** do tworzenia tabel przestawnych, filtrowania zwierząt według stałego elementu lub wykonywania funkcji VLOOKUP dla konkretnych cech.",
+      "Wydrukuj wersję **PDF** do celów edukacyjnych, prezentacji kulturowych lub osobistego studium Chińskiego Zodiaku.",
+      "Zintegruj te kompleksowe dane ze stronami internetowymi lub aplikacjami, aby zapewnić spersonalizowane informacje o zodiaku i sprawdzanie zgodności."
+    ]
+  },
+  "record_count": 12,
+  "title": "Kompleksowy Zbiór Danych Zwierząt Chińskiego Zodiaku (12 Znaków)"
+}

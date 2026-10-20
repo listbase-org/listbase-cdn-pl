@@ -1,0 +1,1556 @@
+{
+  "id": "pl-powiaty",
+  "name": "Powiaty Polski (380 powiatów)",
+  "title": "Powiaty Polski (380 powiatów)",
+  "description": "380 powiatów Polski z kodem TERC i nazwą — jednostki samorządu terytorialnego drugiego stopnia",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 380,
+  "columns": [
+    {
+      "key": "terc",
+      "label": "Terc",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "terc": "0201",
+      "name": "bolesławiecki"
+    },
+    {
+      "terc": "0202",
+      "name": "dzierżoniowski"
+    },
+    {
+      "terc": "0203",
+      "name": "głogowski"
+    },
+    {
+      "terc": "0204",
+      "name": "górowski"
+    },
+    {
+      "terc": "0205",
+      "name": "jaworski"
+    },
+    {
+      "terc": "0206",
+      "name": "jeleniogórski"
+    },
+    {
+      "terc": "0207",
+      "name": "kamiennogórski"
+    },
+    {
+      "terc": "0208",
+      "name": "kłodzki"
+    },
+    {
+      "terc": "0209",
+      "name": "legnicki"
+    },
+    {
+      "terc": "0210",
+      "name": "lubański"
+    },
+    {
+      "terc": "0211",
+      "name": "lubiński"
+    },
+    {
+      "terc": "0212",
+      "name": "lwówecki"
+    },
+    {
+      "terc": "0213",
+      "name": "milicki"
+    },
+    {
+      "terc": "0214",
+      "name": "oleśnicki"
+    },
+    {
+      "terc": "0215",
+      "name": "oławski"
+    },
+    {
+      "terc": "0216",
+      "name": "polkowicki"
+    },
+    {
+      "terc": "0217",
+      "name": "strzeliński"
+    },
+    {
+      "terc": "0218",
+      "name": "średzki"
+    },
+    {
+      "terc": "0219",
+      "name": "świdnicki"
+    },
+    {
+      "terc": "0220",
+      "name": "trzebnicki"
+    },
+    {
+      "terc": "0221",
+      "name": "wałbrzyski"
+    },
+    {
+      "terc": "0222",
+      "name": "wołowski"
+    },
+    {
+      "terc": "0223",
+      "name": "wrocławski"
+    },
+    {
+      "terc": "0224",
+      "name": "ząbkowicki"
+    },
+    {
+      "terc": "0225",
+      "name": "zgorzelecki"
+    },
+    {
+      "terc": "0226",
+      "name": "złotoryjski"
+    },
+    {
+      "terc": "0261",
+      "name": "Jelenia Góra"
+    },
+    {
+      "terc": "0262",
+      "name": "Legnica"
+    },
+    {
+      "terc": "0264",
+      "name": "Wrocław"
+    },
+    {
+      "terc": "0265",
+      "name": "Wałbrzych"
+    },
+    {
+      "terc": "0401",
+      "name": "aleksandrowski"
+    },
+    {
+      "terc": "0402",
+      "name": "brodnicki"
+    },
+    {
+      "terc": "0403",
+      "name": "bydgoski"
+    },
+    {
+      "terc": "0404",
+      "name": "chełmiński"
+    },
+    {
+      "terc": "0405",
+      "name": "golubsko-dobrzyński"
+    },
+    {
+      "terc": "0406",
+      "name": "grudziądzki"
+    },
+    {
+      "terc": "0407",
+      "name": "inowrocławski"
+    },
+    {
+      "terc": "0408",
+      "name": "lipnowski"
+    },
+    {
+      "terc": "0409",
+      "name": "mogileński"
+    },
+    {
+      "terc": "0410",
+      "name": "nakielski"
+    },
+    {
+      "terc": "0411",
+      "name": "radziejowski"
+    },
+    {
+      "terc": "0412",
+      "name": "rypiński"
+    },
+    {
+      "terc": "0413",
+      "name": "sępoleński"
+    },
+    {
+      "terc": "0414",
+      "name": "świecki"
+    },
+    {
+      "terc": "0415",
+      "name": "toruński"
+    },
+    {
+      "terc": "0416",
+      "name": "tucholski"
+    },
+    {
+      "terc": "0417",
+      "name": "wąbrzeski"
+    },
+    {
+      "terc": "0418",
+      "name": "włocławski"
+    },
+    {
+      "terc": "0419",
+      "name": "żniński"
+    },
+    {
+      "terc": "0461",
+      "name": "Bydgoszcz"
+    },
+    {
+      "terc": "0462",
+      "name": "Grudziądz"
+    },
+    {
+      "terc": "0463",
+      "name": "Toruń"
+    },
+    {
+      "terc": "0464",
+      "name": "Włocławek"
+    },
+    {
+      "terc": "0601",
+      "name": "bialski"
+    },
+    {
+      "terc": "0602",
+      "name": "biłgorajski"
+    },
+    {
+      "terc": "0603",
+      "name": "chełmski"
+    },
+    {
+      "terc": "0604",
+      "name": "hrubieszowski"
+    },
+    {
+      "terc": "0605",
+      "name": "janowski"
+    },
+    {
+      "terc": "0606",
+      "name": "krasnostawski"
+    },
+    {
+      "terc": "0607",
+      "name": "kraśnicki"
+    },
+    {
+      "terc": "0608",
+      "name": "lubartowski"
+    },
+    {
+      "terc": "0609",
+      "name": "lubelski"
+    },
+    {
+      "terc": "0610",
+      "name": "łęczyński"
+    },
+    {
+      "terc": "0611",
+      "name": "łukowski"
+    },
+    {
+      "terc": "0612",
+      "name": "opolski"
+    },
+    {
+      "terc": "0613",
+      "name": "parczewski"
+    },
+    {
+      "terc": "0614",
+      "name": "puławski"
+    },
+    {
+      "terc": "0615",
+      "name": "radzyński"
+    },
+    {
+      "terc": "0616",
+      "name": "rycki"
+    },
+    {
+      "terc": "0617",
+      "name": "świdnicki"
+    },
+    {
+      "terc": "0618",
+      "name": "tomaszowski"
+    },
+    {
+      "terc": "0619",
+      "name": "włodawski"
+    },
+    {
+      "terc": "0620",
+      "name": "zamojski"
+    },
+    {
+      "terc": "0661",
+      "name": "Biała Podlaska"
+    },
+    {
+      "terc": "0662",
+      "name": "Chełm"
+    },
+    {
+      "terc": "0663",
+      "name": "Lublin"
+    },
+    {
+      "terc": "0664",
+      "name": "Zamość"
+    },
+    {
+      "terc": "0801",
+      "name": "gorzowski"
+    },
+    {
+      "terc": "0802",
+      "name": "krośnieński"
+    },
+    {
+      "terc": "0803",
+      "name": "międzyrzecki"
+    },
+    {
+      "terc": "0804",
+      "name": "nowosolski"
+    },
+    {
+      "terc": "0805",
+      "name": "słubicki"
+    },
+    {
+      "terc": "0806",
+      "name": "strzelecko-drezdenecki"
+    },
+    {
+      "terc": "0807",
+      "name": "sulęciński"
+    },
+    {
+      "terc": "0808",
+      "name": "świebodziński"
+    },
+    {
+      "terc": "0809",
+      "name": "zielonogórski"
+    },
+    {
+      "terc": "0810",
+      "name": "żagański"
+    },
+    {
+      "terc": "0811",
+      "name": "żarski"
+    },
+    {
+      "terc": "0812",
+      "name": "wschowski"
+    },
+    {
+      "terc": "0861",
+      "name": "Gorzów Wielkopolski"
+    },
+    {
+      "terc": "0862",
+      "name": "Zielona Góra"
+    },
+    {
+      "terc": "1001",
+      "name": "bełchatowski"
+    },
+    {
+      "terc": "1002",
+      "name": "kutnowski"
+    },
+    {
+      "terc": "1003",
+      "name": "łaski"
+    },
+    {
+      "terc": "1004",
+      "name": "łęczycki"
+    },
+    {
+      "terc": "1005",
+      "name": "łowicki"
+    },
+    {
+      "terc": "1006",
+      "name": "łódzki wschodni"
+    },
+    {
+      "terc": "1007",
+      "name": "opoczyński"
+    },
+    {
+      "terc": "1008",
+      "name": "pabianicki"
+    },
+    {
+      "terc": "1009",
+      "name": "pajęczański"
+    },
+    {
+      "terc": "1010",
+      "name": "piotrkowski"
+    },
+    {
+      "terc": "1011",
+      "name": "poddębicki"
+    },
+    {
+      "terc": "1012",
+      "name": "radomszczański"
+    },
+    {
+      "terc": "1013",
+      "name": "rawski"
+    },
+    {
+      "terc": "1014",
+      "name": "sieradzki"
+    },
+    {
+      "terc": "1015",
+      "name": "skierniewicki"
+    },
+    {
+      "terc": "1016",
+      "name": "tomaszowski"
+    },
+    {
+      "terc": "1017",
+      "name": "wieluński"
+    },
+    {
+      "terc": "1018",
+      "name": "wieruszowski"
+    },
+    {
+      "terc": "1019",
+      "name": "zduńskowolski"
+    },
+    {
+      "terc": "1020",
+      "name": "zgierski"
+    },
+    {
+      "terc": "1021",
+      "name": "brzeziński"
+    },
+    {
+      "terc": "1061",
+      "name": "Łódź"
+    },
+    {
+      "terc": "1062",
+      "name": "Piotrków Trybunalski"
+    },
+    {
+      "terc": "1063",
+      "name": "Skierniewice"
+    },
+    {
+      "terc": "1201",
+      "name": "bocheński"
+    },
+    {
+      "terc": "1202",
+      "name": "brzeski"
+    },
+    {
+      "terc": "1203",
+      "name": "chrzanowski"
+    },
+    {
+      "terc": "1204",
+      "name": "dąbrowski"
+    },
+    {
+      "terc": "1205",
+      "name": "gorlicki"
+    },
+    {
+      "terc": "1206",
+      "name": "krakowski"
+    },
+    {
+      "terc": "1207",
+      "name": "limanowski"
+    },
+    {
+      "terc": "1208",
+      "name": "miechowski"
+    },
+    {
+      "terc": "1209",
+      "name": "myślenicki"
+    },
+    {
+      "terc": "1210",
+      "name": "nowosądecki"
+    },
+    {
+      "terc": "1211",
+      "name": "nowotarski"
+    },
+    {
+      "terc": "1212",
+      "name": "olkuski"
+    },
+    {
+      "terc": "1213",
+      "name": "oświęcimski"
+    },
+    {
+      "terc": "1214",
+      "name": "proszowicki"
+    },
+    {
+      "terc": "1215",
+      "name": "suski"
+    },
+    {
+      "terc": "1216",
+      "name": "tarnowski"
+    },
+    {
+      "terc": "1217",
+      "name": "tatrzański"
+    },
+    {
+      "terc": "1218",
+      "name": "wadowicki"
+    },
+    {
+      "terc": "1219",
+      "name": "wielicki"
+    },
+    {
+      "terc": "1261",
+      "name": "Kraków"
+    },
+    {
+      "terc": "1262",
+      "name": "Nowy Sącz"
+    },
+    {
+      "terc": "1263",
+      "name": "Tarnów"
+    },
+    {
+      "terc": "1401",
+      "name": "białobrzeski"
+    },
+    {
+      "terc": "1402",
+      "name": "ciechanowski"
+    },
+    {
+      "terc": "1403",
+      "name": "garwoliński"
+    },
+    {
+      "terc": "1404",
+      "name": "gostyniński"
+    },
+    {
+      "terc": "1405",
+      "name": "grodziski"
+    },
+    {
+      "terc": "1406",
+      "name": "grójecki"
+    },
+    {
+      "terc": "1407",
+      "name": "kozienicki"
+    },
+    {
+      "terc": "1408",
+      "name": "legionowski"
+    },
+    {
+      "terc": "1409",
+      "name": "lipski"
+    },
+    {
+      "terc": "1410",
+      "name": "łosicki"
+    },
+    {
+      "terc": "1411",
+      "name": "makowski"
+    },
+    {
+      "terc": "1412",
+      "name": "miński"
+    },
+    {
+      "terc": "1413",
+      "name": "mławski"
+    },
+    {
+      "terc": "1414",
+      "name": "nowodworski"
+    },
+    {
+      "terc": "1415",
+      "name": "ostrołęcki"
+    },
+    {
+      "terc": "1416",
+      "name": "ostrowski"
+    },
+    {
+      "terc": "1417",
+      "name": "otwocki"
+    },
+    {
+      "terc": "1418",
+      "name": "piaseczyński"
+    },
+    {
+      "terc": "1419",
+      "name": "płocki"
+    },
+    {
+      "terc": "1420",
+      "name": "płoński"
+    },
+    {
+      "terc": "1421",
+      "name": "pruszkowski"
+    },
+    {
+      "terc": "1422",
+      "name": "przasnyski"
+    },
+    {
+      "terc": "1423",
+      "name": "przysuski"
+    },
+    {
+      "terc": "1424",
+      "name": "pułtuski"
+    },
+    {
+      "terc": "1425",
+      "name": "radomski"
+    },
+    {
+      "terc": "1426",
+      "name": "siedlecki"
+    },
+    {
+      "terc": "1427",
+      "name": "sierpecki"
+    },
+    {
+      "terc": "1428",
+      "name": "sochaczewski"
+    },
+    {
+      "terc": "1429",
+      "name": "sokołowski"
+    },
+    {
+      "terc": "1430",
+      "name": "szydłowiecki"
+    },
+    {
+      "terc": "1432",
+      "name": "warszawski zachodni"
+    },
+    {
+      "terc": "1433",
+      "name": "węgrowski"
+    },
+    {
+      "terc": "1434",
+      "name": "wołomiński"
+    },
+    {
+      "terc": "1435",
+      "name": "wyszkowski"
+    },
+    {
+      "terc": "1436",
+      "name": "zwoleński"
+    },
+    {
+      "terc": "1437",
+      "name": "żuromiński"
+    },
+    {
+      "terc": "1438",
+      "name": "żyrardowski"
+    },
+    {
+      "terc": "1461",
+      "name": "Ostrołęka"
+    },
+    {
+      "terc": "1462",
+      "name": "Płock"
+    },
+    {
+      "terc": "1463",
+      "name": "Radom"
+    },
+    {
+      "terc": "1464",
+      "name": "Siedlce"
+    },
+    {
+      "terc": "1465",
+      "name": "Warszawa"
+    },
+    {
+      "terc": "1601",
+      "name": "brzeski"
+    },
+    {
+      "terc": "1602",
+      "name": "głubczycki"
+    },
+    {
+      "terc": "1603",
+      "name": "kędzierzyńsko-kozielski"
+    },
+    {
+      "terc": "1604",
+      "name": "kluczborski"
+    },
+    {
+      "terc": "1605",
+      "name": "krapkowicki"
+    },
+    {
+      "terc": "1606",
+      "name": "namysłowski"
+    },
+    {
+      "terc": "1607",
+      "name": "nyski"
+    },
+    {
+      "terc": "1608",
+      "name": "oleski"
+    },
+    {
+      "terc": "1609",
+      "name": "opolski"
+    },
+    {
+      "terc": "1610",
+      "name": "prudnicki"
+    },
+    {
+      "terc": "1611",
+      "name": "strzelecki"
+    },
+    {
+      "terc": "1661",
+      "name": "Opole"
+    },
+    {
+      "terc": "1801",
+      "name": "bieszczadzki"
+    },
+    {
+      "terc": "1802",
+      "name": "brzozowski"
+    },
+    {
+      "terc": "1803",
+      "name": "dębicki"
+    },
+    {
+      "terc": "1804",
+      "name": "jarosławski"
+    },
+    {
+      "terc": "1805",
+      "name": "jasielski"
+    },
+    {
+      "terc": "1806",
+      "name": "kolbuszowski"
+    },
+    {
+      "terc": "1807",
+      "name": "krośnieński"
+    },
+    {
+      "terc": "1808",
+      "name": "leżajski"
+    },
+    {
+      "terc": "1809",
+      "name": "lubaczowski"
+    },
+    {
+      "terc": "1810",
+      "name": "łańcucki"
+    },
+    {
+      "terc": "1811",
+      "name": "mielecki"
+    },
+    {
+      "terc": "1812",
+      "name": "niżański"
+    },
+    {
+      "terc": "1813",
+      "name": "przemyski"
+    },
+    {
+      "terc": "1814",
+      "name": "przeworski"
+    },
+    {
+      "terc": "1815",
+      "name": "ropczycko-sędziszowski"
+    },
+    {
+      "terc": "1816",
+      "name": "rzeszowski"
+    },
+    {
+      "terc": "1817",
+      "name": "sanocki"
+    },
+    {
+      "terc": "1818",
+      "name": "stalowowolski"
+    },
+    {
+      "terc": "1819",
+      "name": "strzyżowski"
+    },
+    {
+      "terc": "1820",
+      "name": "tarnobrzeski"
+    },
+    {
+      "terc": "1821",
+      "name": "leski"
+    },
+    {
+      "terc": "1861",
+      "name": "Krosno"
+    },
+    {
+      "terc": "1862",
+      "name": "Przemyśl"
+    },
+    {
+      "terc": "1863",
+      "name": "Rzeszów"
+    },
+    {
+      "terc": "1864",
+      "name": "Tarnobrzeg"
+    },
+    {
+      "terc": "2001",
+      "name": "augustowski"
+    },
+    {
+      "terc": "2002",
+      "name": "białostocki"
+    },
+    {
+      "terc": "2003",
+      "name": "bielski"
+    },
+    {
+      "terc": "2004",
+      "name": "grajewski"
+    },
+    {
+      "terc": "2005",
+      "name": "hajnowski"
+    },
+    {
+      "terc": "2006",
+      "name": "kolneński"
+    },
+    {
+      "terc": "2007",
+      "name": "łomżyński"
+    },
+    {
+      "terc": "2008",
+      "name": "moniecki"
+    },
+    {
+      "terc": "2009",
+      "name": "sejneński"
+    },
+    {
+      "terc": "2010",
+      "name": "siemiatycki"
+    },
+    {
+      "terc": "2011",
+      "name": "sokólski"
+    },
+    {
+      "terc": "2012",
+      "name": "suwalski"
+    },
+    {
+      "terc": "2013",
+      "name": "wysokomazowiecki"
+    },
+    {
+      "terc": "2014",
+      "name": "zambrowski"
+    },
+    {
+      "terc": "2061",
+      "name": "Białystok"
+    },
+    {
+      "terc": "2062",
+      "name": "Łomża"
+    },
+    {
+      "terc": "2063",
+      "name": "Suwałki"
+    },
+    {
+      "terc": "2201",
+      "name": "bytowski"
+    },
+    {
+      "terc": "2202",
+      "name": "chojnicki"
+    },
+    {
+      "terc": "2203",
+      "name": "człuchowski"
+    },
+    {
+      "terc": "2204",
+      "name": "gdański"
+    },
+    {
+      "terc": "2205",
+      "name": "kartuski"
+    },
+    {
+      "terc": "2206",
+      "name": "kościerski"
+    },
+    {
+      "terc": "2207",
+      "name": "kwidzyński"
+    },
+    {
+      "terc": "2208",
+      "name": "lęborski"
+    },
+    {
+      "terc": "2209",
+      "name": "malborski"
+    },
+    {
+      "terc": "2210",
+      "name": "nowodworski"
+    },
+    {
+      "terc": "2211",
+      "name": "pucki"
+    },
+    {
+      "terc": "2212",
+      "name": "słupski"
+    },
+    {
+      "terc": "2213",
+      "name": "starogardzki"
+    },
+    {
+      "terc": "2214",
+      "name": "tczewski"
+    },
+    {
+      "terc": "2215",
+      "name": "wejherowski"
+    },
+    {
+      "terc": "2216",
+      "name": "sztumski"
+    },
+    {
+      "terc": "2261",
+      "name": "Gdańsk"
+    },
+    {
+      "terc": "2262",
+      "name": "Gdynia"
+    },
+    {
+      "terc": "2263",
+      "name": "Słupsk"
+    },
+    {
+      "terc": "2264",
+      "name": "Sopot"
+    },
+    {
+      "terc": "2401",
+      "name": "będziński"
+    },
+    {
+      "terc": "2402",
+      "name": "bielski"
+    },
+    {
+      "terc": "2403",
+      "name": "cieszyński"
+    },
+    {
+      "terc": "2404",
+      "name": "częstochowski"
+    },
+    {
+      "terc": "2405",
+      "name": "gliwicki"
+    },
+    {
+      "terc": "2406",
+      "name": "kłobucki"
+    },
+    {
+      "terc": "2407",
+      "name": "lubliniecki"
+    },
+    {
+      "terc": "2408",
+      "name": "mikołowski"
+    },
+    {
+      "terc": "2409",
+      "name": "myszkowski"
+    },
+    {
+      "terc": "2410",
+      "name": "pszczyński"
+    },
+    {
+      "terc": "2411",
+      "name": "raciborski"
+    },
+    {
+      "terc": "2412",
+      "name": "rybnicki"
+    },
+    {
+      "terc": "2413",
+      "name": "tarnogórski"
+    },
+    {
+      "terc": "2414",
+      "name": "bieruńsko-lędziński"
+    },
+    {
+      "terc": "2415",
+      "name": "wodzisławski"
+    },
+    {
+      "terc": "2416",
+      "name": "zawierciański"
+    },
+    {
+      "terc": "2417",
+      "name": "żywiecki"
+    },
+    {
+      "terc": "2461",
+      "name": "Bielsko-Biała"
+    },
+    {
+      "terc": "2462",
+      "name": "Bytom"
+    },
+    {
+      "terc": "2463",
+      "name": "Chorzów"
+    },
+    {
+      "terc": "2464",
+      "name": "Częstochowa"
+    },
+    {
+      "terc": "2465",
+      "name": "Dąbrowa Górnicza"
+    },
+    {
+      "terc": "2466",
+      "name": "Gliwice"
+    },
+    {
+      "terc": "2467",
+      "name": "Jastrzębie-Zdrój"
+    },
+    {
+      "terc": "2468",
+      "name": "Jaworzno"
+    },
+    {
+      "terc": "2469",
+      "name": "Katowice"
+    },
+    {
+      "terc": "2470",
+      "name": "Mysłowice"
+    },
+    {
+      "terc": "2471",
+      "name": "Piekary Śląskie"
+    },
+    {
+      "terc": "2472",
+      "name": "Ruda Śląska"
+    },
+    {
+      "terc": "2473",
+      "name": "Rybnik"
+    },
+    {
+      "terc": "2474",
+      "name": "Siemianowice Śląskie"
+    },
+    {
+      "terc": "2475",
+      "name": "Sosnowiec"
+    },
+    {
+      "terc": "2476",
+      "name": "Świętochłowice"
+    },
+    {
+      "terc": "2477",
+      "name": "Tychy"
+    },
+    {
+      "terc": "2478",
+      "name": "Zabrze"
+    },
+    {
+      "terc": "2479",
+      "name": "Żory"
+    },
+    {
+      "terc": "2601",
+      "name": "buski"
+    },
+    {
+      "terc": "2602",
+      "name": "jędrzejowski"
+    },
+    {
+      "terc": "2603",
+      "name": "kazimierski"
+    },
+    {
+      "terc": "2604",
+      "name": "kielecki"
+    },
+    {
+      "terc": "2605",
+      "name": "konecki"
+    },
+    {
+      "terc": "2606",
+      "name": "opatowski"
+    },
+    {
+      "terc": "2607",
+      "name": "ostrowiecki"
+    },
+    {
+      "terc": "2608",
+      "name": "pińczowski"
+    },
+    {
+      "terc": "2609",
+      "name": "sandomierski"
+    },
+    {
+      "terc": "2610",
+      "name": "skarżyski"
+    },
+    {
+      "terc": "2611",
+      "name": "starachowicki"
+    },
+    {
+      "terc": "2612",
+      "name": "staszowski"
+    },
+    {
+      "terc": "2613",
+      "name": "włoszczowski"
+    },
+    {
+      "terc": "2661",
+      "name": "Kielce"
+    },
+    {
+      "terc": "2801",
+      "name": "bartoszycki"
+    },
+    {
+      "terc": "2802",
+      "name": "braniewski"
+    },
+    {
+      "terc": "2803",
+      "name": "działdowski"
+    },
+    {
+      "terc": "2804",
+      "name": "elbląski"
+    },
+    {
+      "terc": "2805",
+      "name": "ełcki"
+    },
+    {
+      "terc": "2806",
+      "name": "giżycki"
+    },
+    {
+      "terc": "2807",
+      "name": "iławski"
+    },
+    {
+      "terc": "2808",
+      "name": "kętrzyński"
+    },
+    {
+      "terc": "2809",
+      "name": "lidzbarski"
+    },
+    {
+      "terc": "2810",
+      "name": "mrągowski"
+    },
+    {
+      "terc": "2811",
+      "name": "nidzicki"
+    },
+    {
+      "terc": "2812",
+      "name": "nowomiejski"
+    },
+    {
+      "terc": "2813",
+      "name": "olecki"
+    },
+    {
+      "terc": "2814",
+      "name": "olsztyński"
+    },
+    {
+      "terc": "2815",
+      "name": "ostródzki"
+    },
+    {
+      "terc": "2816",
+      "name": "piski"
+    },
+    {
+      "terc": "2817",
+      "name": "szczycieński"
+    },
+    {
+      "terc": "2818",
+      "name": "gołdapski"
+    },
+    {
+      "terc": "2819",
+      "name": "węgorzewski"
+    },
+    {
+      "terc": "2861",
+      "name": "Elbląg"
+    },
+    {
+      "terc": "2862",
+      "name": "Olsztyn"
+    },
+    {
+      "terc": "3001",
+      "name": "chodzieski"
+    },
+    {
+      "terc": "3002",
+      "name": "czarnkowsko-trzcianecki"
+    },
+    {
+      "terc": "3003",
+      "name": "gnieźnieński"
+    },
+    {
+      "terc": "3004",
+      "name": "gostyński"
+    },
+    {
+      "terc": "3005",
+      "name": "grodziski"
+    },
+    {
+      "terc": "3006",
+      "name": "jarociński"
+    },
+    {
+      "terc": "3007",
+      "name": "kaliski"
+    },
+    {
+      "terc": "3008",
+      "name": "kępiński"
+    },
+    {
+      "terc": "3009",
+      "name": "kolski"
+    },
+    {
+      "terc": "3010",
+      "name": "koniński"
+    },
+    {
+      "terc": "3011",
+      "name": "kościański"
+    },
+    {
+      "terc": "3012",
+      "name": "krotoszyński"
+    },
+    {
+      "terc": "3013",
+      "name": "leszczyński"
+    },
+    {
+      "terc": "3014",
+      "name": "międzychodzki"
+    },
+    {
+      "terc": "3015",
+      "name": "nowotomyski"
+    },
+    {
+      "terc": "3016",
+      "name": "obornicki"
+    },
+    {
+      "terc": "3017",
+      "name": "ostrowski"
+    },
+    {
+      "terc": "3018",
+      "name": "ostrzeszowski"
+    },
+    {
+      "terc": "3019",
+      "name": "pilski"
+    },
+    {
+      "terc": "3020",
+      "name": "pleszewski"
+    },
+    {
+      "terc": "3021",
+      "name": "poznański"
+    },
+    {
+      "terc": "3022",
+      "name": "rawicki"
+    },
+    {
+      "terc": "3023",
+      "name": "słupecki"
+    },
+    {
+      "terc": "3024",
+      "name": "szamotulski"
+    },
+    {
+      "terc": "3025",
+      "name": "średzki"
+    },
+    {
+      "terc": "3026",
+      "name": "śremski"
+    },
+    {
+      "terc": "3027",
+      "name": "turecki"
+    },
+    {
+      "terc": "3028",
+      "name": "wągrowiecki"
+    },
+    {
+      "terc": "3029",
+      "name": "wolsztyński"
+    },
+    {
+      "terc": "3030",
+      "name": "wrzesiński"
+    },
+    {
+      "terc": "3031",
+      "name": "złotowski"
+    },
+    {
+      "terc": "3061",
+      "name": "Kalisz"
+    },
+    {
+      "terc": "3062",
+      "name": "Konin"
+    },
+    {
+      "terc": "3063",
+      "name": "Leszno"
+    },
+    {
+      "terc": "3064",
+      "name": "Poznań"
+    },
+    {
+      "terc": "3201",
+      "name": "białogardzki"
+    },
+    {
+      "terc": "3202",
+      "name": "choszczeński"
+    },
+    {
+      "terc": "3203",
+      "name": "drawski"
+    },
+    {
+      "terc": "3204",
+      "name": "goleniowski"
+    },
+    {
+      "terc": "3205",
+      "name": "gryficki"
+    },
+    {
+      "terc": "3206",
+      "name": "gryfiński"
+    },
+    {
+      "terc": "3207",
+      "name": "kamieński"
+    },
+    {
+      "terc": "3208",
+      "name": "kołobrzeski"
+    },
+    {
+      "terc": "3209",
+      "name": "koszaliński"
+    },
+    {
+      "terc": "3210",
+      "name": "myśliborski"
+    },
+    {
+      "terc": "3211",
+      "name": "policki"
+    },
+    {
+      "terc": "3212",
+      "name": "pyrzycki"
+    },
+    {
+      "terc": "3213",
+      "name": "sławieński"
+    },
+    {
+      "terc": "3214",
+      "name": "stargardzki"
+    },
+    {
+      "terc": "3215",
+      "name": "szczecinecki"
+    },
+    {
+      "terc": "3216",
+      "name": "świdwiński"
+    },
+    {
+      "terc": "3217",
+      "name": "wałecki"
+    },
+    {
+      "terc": "3218",
+      "name": "łobeski"
+    },
+    {
+      "terc": "3261",
+      "name": "Koszalin"
+    },
+    {
+      "terc": "3262",
+      "name": "Szczecin"
+    },
+    {
+      "terc": "3263",
+      "name": "Świnoujście"
+    }
+  ],
+  "meta": {
+    "title": "Powiaty Polski (380 powiatów) - Bezpłatne pobieranie",
+    "description": "380 powiatów Polski z kodem TERC i nazwą — jednostki samorządu terytorialnego drugiego stopnia Zawiera 380 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Powiaty Polski (380 powiatów) | ListBase",
+    "seo_description": "Pobierz Powiaty Polski (380 powiatów) — 380 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 380 rekordów / 2 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

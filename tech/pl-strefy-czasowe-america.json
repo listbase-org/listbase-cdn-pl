@@ -1,0 +1,520 @@
+{
+  "id": "pl-strefy-czasowe-america",
+  "name": "Strefy czasowe — America (58)",
+  "title": "Strefy czasowe — America (58)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'America/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "miasto": "Araguaína",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "miasto": "Río Gallegos",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "miasto": "Tucumán",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "miasto": "Asunción",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Bahia",
+      "region": "America",
+      "miasto": "Salvador",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "miasto": "Bahia Banderas",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "miasto": "Belém",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "miasto": "Bogotá",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "miasto": "Cancún",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Cayenne",
+      "region": "America",
+      "miasto": "Kajenna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "miasto": "Kajmany",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "miasto": "Ciudad Juárez",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "miasto": "Atikokan",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "miasto": "Córdoba",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Costa_Rica",
+      "region": "America",
+      "miasto": "Kostaryka",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "miasto": "Cuiabá",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "miasto": "Curaçao",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Dominica",
+      "region": "America",
+      "miasto": "Dominika",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "miasto": "Eirunepé",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/El_Salvador",
+      "region": "America",
+      "miasto": "Salwador",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "miasto": "Nuuk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Guadeloupe",
+      "region": "America",
+      "miasto": "Gwadelupa",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Guatemala",
+      "region": "America",
+      "miasto": "Gwatemala",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Guyana",
+      "region": "America",
+      "miasto": "Gujana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "miasto": "Hawana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "miasto": "Knox, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "miasto": "Marengo, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "miasto": "Petersburg, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "miasto": "Tell City, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "miasto": "Vevay, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "miasto": "Vincennes, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "miasto": "Winamac, Indiana",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Jamaica",
+      "region": "America",
+      "miasto": "Jamajka",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "miasto": "Monticello, Kentucky",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "miasto": "Lower Prince’s Quarter",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "miasto": "Maceió",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Martinique",
+      "region": "America",
+      "miasto": "Martynika",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "miasto": "Mazatlán",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "miasto": "Merida",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "miasto": "Meksyk (miasto)",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "miasto": "Saint-Pierre",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/New_York",
+      "region": "America",
+      "miasto": "Nowy Jork",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "miasto": "Fernando de Noronha",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "miasto": "Beulah, Dakota Północna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "miasto": "Center, Dakota Północna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "miasto": "New Salem, Dakota Północna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Port_of_Spain",
+      "region": "America",
+      "miasto": "Port-of-Spain",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Puerto_Rico",
+      "region": "America",
+      "miasto": "Portoryko",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "miasto": "Santarém",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "miasto": "São Paulo",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "miasto": "Ittoqqortoormiit",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "miasto": "Saint-Barthélemy",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "miasto": "St. John’s",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "miasto": "Saint Kitts",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "miasto": "Saint Lucia",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "miasto": "Saint Thomas",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "miasto": "Saint Vincent",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Thule",
+      "region": "America",
+      "miasto": "Qaanaaq",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — America (58) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'America/', z nazwami po polsku. Zawiera 58 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — America (58) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — America (58) — 58 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 58 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

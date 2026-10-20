@@ -1,0 +1,171 @@
+{
+  "id": "pl-dolnoslaskie-counties",
+  "name": "Województwo dolnośląskie — powiaty",
+  "title": "Województwo dolnośląskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie dolnośląskim (województwo dolnośląskie) — 26 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the dolnośląskie voivodeship — 26 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 1,
+      "name": "bolesławiecki",
+      "slug": "boleslawiecki"
+    },
+    {
+      "county_id": 2,
+      "name": "dzierżoniowski",
+      "slug": "dzierzoniowski"
+    },
+    {
+      "county_id": 4,
+      "name": "górowski",
+      "slug": "gorowski"
+    },
+    {
+      "county_id": 3,
+      "name": "głogowski",
+      "slug": "glogowski"
+    },
+    {
+      "county_id": 5,
+      "name": "jaworski",
+      "slug": "jaworski"
+    },
+    {
+      "county_id": 7,
+      "name": "kamiennogórski",
+      "slug": "kamiennogorski"
+    },
+    {
+      "county_id": 6,
+      "name": "karkonoski",
+      "slug": "karkonoski"
+    },
+    {
+      "county_id": 8,
+      "name": "kłodzki",
+      "slug": "klodzki"
+    },
+    {
+      "county_id": 9,
+      "name": "legnicki",
+      "slug": "legnicki"
+    },
+    {
+      "county_id": 10,
+      "name": "lubański",
+      "slug": "lubanski"
+    },
+    {
+      "county_id": 11,
+      "name": "lubiński",
+      "slug": "lubinski"
+    },
+    {
+      "county_id": 12,
+      "name": "lwówecki",
+      "slug": "lwowecki"
+    },
+    {
+      "county_id": 13,
+      "name": "milicki",
+      "slug": "milicki"
+    },
+    {
+      "county_id": 14,
+      "name": "oleśnicki",
+      "slug": "olesnicki"
+    },
+    {
+      "county_id": 15,
+      "name": "oławski",
+      "slug": "olawski"
+    },
+    {
+      "county_id": 16,
+      "name": "polkowicki",
+      "slug": "polkowicki"
+    },
+    {
+      "county_id": 17,
+      "name": "strzeliński",
+      "slug": "strzelinski"
+    },
+    {
+      "county_id": 20,
+      "name": "trzebnicki",
+      "slug": "trzebnicki"
+    },
+    {
+      "county_id": 21,
+      "name": "wałbrzyski",
+      "slug": "walbrzyski"
+    },
+    {
+      "county_id": 22,
+      "name": "wołowski",
+      "slug": "wolowski"
+    },
+    {
+      "county_id": 23,
+      "name": "wrocławski",
+      "slug": "wroclawski"
+    },
+    {
+      "county_id": 25,
+      "name": "zgorzelecki",
+      "slug": "zgorzelecki"
+    },
+    {
+      "county_id": 24,
+      "name": "ząbkowicki",
+      "slug": "zabkowicki"
+    },
+    {
+      "county_id": 26,
+      "name": "złotoryjski",
+      "slug": "zlotoryjski"
+    },
+    {
+      "county_id": 18,
+      "name": "średzki",
+      "slug": "sredzki"
+    },
+    {
+      "county_id": 19,
+      "name": "świdnicki",
+      "slug": "swidnicki"
+    }
+  ],
+  "meta": {
+    "title": "Województwo dolnośląskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie dolnośląskim (województwo dolnośląskie) — 26 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the dolnośląskie voivodeship — 26 entries. Excludes city-counties (see pl-city-counties). Zawiera 26 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo dolnośląskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo dolnośląskie — powiaty — 26 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 26 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

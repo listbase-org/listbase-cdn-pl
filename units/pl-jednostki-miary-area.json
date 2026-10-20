@@ -1,0 +1,178 @@
+{
+  "id": "pl-jednostki-miary-area",
+  "name": "Jednostki miary — kategoria 'area' (13)",
+  "title": "Jednostki miary — kategoria 'area' (13)",
+  "description": "Jednostki miary kategorii 'area' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategoria": "area",
+      "nazwa": "akry",
+      "skrot": "akry",
+      "forma_waska": "akry",
+      "wzorzec": "{0} akra"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategoria": "area",
+      "nazwa": "bu [JP]",
+      "skrot": "bu [JP]",
+      "forma_waska": "bu [JP]",
+      "wzorzec": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategoria": "area",
+      "nazwa": "cho [JP]",
+      "skrot": "cho [JP]",
+      "forma_waska": "cho [JP]",
+      "wzorzec": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategoria": "area",
+      "nazwa": "dunamy",
+      "skrot": "dunamy",
+      "forma_waska": "dunamy",
+      "wzorzec": "{0} dunama"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategoria": "area",
+      "nazwa": "hektary",
+      "skrot": "ha",
+      "forma_waska": "ha",
+      "wzorzec": "{0} hektara"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategoria": "area",
+      "nazwa": "se [JP]",
+      "skrot": "se [JP]",
+      "forma_waska": "se [JP]",
+      "wzorzec": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategoria": "area",
+      "nazwa": "centymetry kwadratowe",
+      "skrot": "cm²",
+      "forma_waska": "cm²",
+      "wzorzec": "{0} centymetra kwadratowego"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategoria": "area",
+      "nazwa": "stopy kwadratowe",
+      "skrot": "stopy kw.",
+      "forma_waska": "ft²",
+      "wzorzec": "{0} stopy kwadratowej"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategoria": "area",
+      "nazwa": "cale kwadratowe",
+      "skrot": "cale kw.",
+      "forma_waska": "in²",
+      "wzorzec": "{0} cala kwadratowego"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategoria": "area",
+      "nazwa": "kilometry kwadratowe",
+      "skrot": "km²",
+      "forma_waska": "km²",
+      "wzorzec": "{0} kilometra kwadratowego"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategoria": "area",
+      "nazwa": "metry kwadratowe",
+      "skrot": "m²",
+      "forma_waska": "m²",
+      "wzorzec": "{0} metra kwadratowego"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategoria": "area",
+      "nazwa": "mile kwadratowe",
+      "skrot": "mile kw.",
+      "forma_waska": "mi²",
+      "wzorzec": "{0} mili kwadratowej"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategoria": "area",
+      "nazwa": "jardy kwadratowe",
+      "skrot": "jardy kw.",
+      "forma_waska": "yd²",
+      "wzorzec": "{0} jarda kwadratowego"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'area' (13) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'area' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 13 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'area' (13) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'area' (13) — 13 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 13 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

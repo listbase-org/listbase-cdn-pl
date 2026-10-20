@@ -1,0 +1,946 @@
+{
+  "id": "pl-dolnoslaskie-cities",
+  "name": "Województwo dolnośląskie — miasta",
+  "title": "Województwo dolnośląskie — miasta",
+  "description": "Lista miast w województwie dolnośląskim (województwo dolnośląskie) — 88 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the dolnośląskie voivodeship — 88 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 76,
+      "name": "Bardo",
+      "slug": "bardo",
+      "name_locative": "Bardzie",
+      "county_id": 24,
+      "county_name": "ząbkowicki",
+      "latitude": 50.50676,
+      "longitude": 16.7402382
+    },
+    {
+      "city_id": 3,
+      "name": "Bielawa",
+      "slug": "bielawa",
+      "name_locative": "Bielawie",
+      "county_id": 2,
+      "county_name": "dzierżoniowski",
+      "latitude": 50.6753898,
+      "longitude": 16.60719264
+    },
+    {
+      "city_id": 45,
+      "name": "Bierutów",
+      "slug": "bierutow",
+      "name_locative": "Bierutowie",
+      "county_id": 14,
+      "county_name": "oleśnicki",
+      "latitude": 51.1252738,
+      "longitude": 17.5400351
+    },
+    {
+      "city_id": 83,
+      "name": "Bogatynia",
+      "slug": "bogatynia",
+      "name_locative": "Bogatyni",
+      "county_id": 25,
+      "county_name": "zgorzelecki",
+      "latitude": 50.9077147,
+      "longitude": 14.9539185
+    },
+    {
+      "city_id": 66,
+      "name": "Boguszów-Gorce",
+      "slug": "boguszow-gorce",
+      "name_locative": "Boguszowie-Gorcach",
+      "county_id": 21,
+      "county_name": "wałbrzyski",
+      "latitude": 50.75525215,
+      "longitude": 16.19636346
+    },
+    {
+      "city_id": 1,
+      "name": "Bolesławiec",
+      "slug": "boleslawiec",
+      "name_locative": "Bolesławcu",
+      "county_id": 1,
+      "county_name": "bolesławiecki",
+      "latitude": 51.26216915,
+      "longitude": 15.55501971
+    },
+    {
+      "city_id": 12,
+      "name": "Bolków",
+      "slug": "bolkow",
+      "name_locative": "Bolkowie",
+      "county_id": 5,
+      "county_name": "jaworski",
+      "latitude": 50.9219695,
+      "longitude": 16.1006519
+    },
+    {
+      "city_id": 71,
+      "name": "Brzeg Dolny",
+      "slug": "brzeg-dolny",
+      "name_locative": "Brzegu Dolnym",
+      "county_id": 22,
+      "county_name": "wołowski",
+      "latitude": 51.2613682,
+      "longitude": 16.7228123
+    },
+    {
+      "city_id": 24,
+      "name": "Bystrzyca Kłodzka",
+      "slug": "bystrzyca-klodzka",
+      "name_locative": "Bystrzycy Kłodzkiej",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.2968684,
+      "longitude": 16.652017
+    },
+    {
+      "city_id": 51,
+      "name": "Chocianów",
+      "slug": "chocianow",
+      "name_locative": "Chocianowie",
+      "county_id": 16,
+      "county_name": "polkowicki",
+      "latitude": 51.4168327,
+      "longitude": 15.8986889
+    },
+    {
+      "city_id": 30,
+      "name": "Chojnów",
+      "slug": "chojnow",
+      "name_locative": "Chojnowie",
+      "county_id": 9,
+      "county_name": "legnicki",
+      "latitude": 51.2722138,
+      "longitude": 15.93938545
+    },
+    {
+      "city_id": 19,
+      "name": "Duszniki-Zdrój",
+      "slug": "duszniki-zdroj",
+      "name_locative": "Dusznikach-Zdroju",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.37034025,
+      "longitude": 16.3784907
+    },
+    {
+      "city_id": 4,
+      "name": "Dzierżoniów",
+      "slug": "dzierzoniow",
+      "name_locative": "Dzierżoniowie",
+      "county_id": 2,
+      "county_name": "dzierżoniowski",
+      "latitude": 50.7291725,
+      "longitude": 16.65675314
+    },
+    {
+      "city_id": 38,
+      "name": "Gryfów Śląski",
+      "slug": "gryfow-slaski",
+      "name_locative": "Gryfowie Śląskim",
+      "county_id": 12,
+      "county_name": "lwówecki",
+      "latitude": 51.0281455,
+      "longitude": 15.4145051
+    },
+    {
+      "city_id": 9,
+      "name": "Góra",
+      "slug": "gora",
+      "name_locative": "Górze",
+      "county_id": 4,
+      "county_name": "górowski",
+      "latitude": 51.6681499,
+      "longitude": 16.5393277
+    },
+    {
+      "city_id": 8,
+      "name": "Głogów",
+      "slug": "glogow",
+      "name_locative": "Głogowie",
+      "county_id": 3,
+      "county_name": "głogowski",
+      "latitude": 51.67019285,
+      "longitude": 16.06140366
+    },
+    {
+      "city_id": 69,
+      "name": "Głuszyca",
+      "slug": "gluszyca",
+      "name_locative": "Głuszycy",
+      "county_id": 21,
+      "county_name": "wałbrzyski",
+      "latitude": 50.6862202,
+      "longitude": 16.3730583
+    },
+    {
+      "city_id": 11,
+      "name": "Jawor",
+      "slug": "jawor",
+      "name_locative": "Jaworze",
+      "county_id": 5,
+      "county_name": "jaworski",
+      "latitude": 51.0677021,
+      "longitude": 16.19761364
+    },
+    {
+      "city_id": 59,
+      "name": "Jaworzyna Śląska",
+      "slug": "jaworzyna-slaska",
+      "name_locative": "Jaworzynie Śląskiej",
+      "county_id": 19,
+      "county_name": "świdnicki",
+      "latitude": 50.9144217,
+      "longitude": 16.4308642
+    },
+    {
+      "city_id": 67,
+      "name": "Jedlina-Zdrój",
+      "slug": "jedlina-zdroj",
+      "name_locative": "Jedlinie-Zdroju",
+      "county_id": 21,
+      "county_name": "wałbrzyski",
+      "latitude": 50.72422805,
+      "longitude": 16.33758096
+    },
+    {
+      "city_id": 50,
+      "name": "Jelcz-Laskowice",
+      "slug": "jelcz-laskowice",
+      "name_locative": "Jelczu-Laskowicach",
+      "county_id": 15,
+      "county_name": "oławski",
+      "latitude": 51.0398306,
+      "longitude": 17.3499638
+    },
+    {
+      "city_id": 77,
+      "name": "Kamieniec Ząbkowicki",
+      "slug": "kamieniec-zabkowicki",
+      "name_locative": "Kamieńcu Ząbkowickim",
+      "county_id": 24,
+      "county_name": "ząbkowicki",
+      "latitude": 50.5229139,
+      "longitude": 16.8736143
+    },
+    {
+      "city_id": 17,
+      "name": "Kamienna Góra",
+      "slug": "kamienna-gora",
+      "name_locative": "Kamiennej Górze",
+      "county_id": 7,
+      "county_name": "kamiennogórski",
+      "latitude": 50.78468925,
+      "longitude": 16.02236307
+    },
+    {
+      "city_id": 13,
+      "name": "Karpacz",
+      "slug": "karpacz",
+      "name_locative": "Karpaczu",
+      "county_id": 6,
+      "county_name": "karkonoski",
+      "latitude": 50.7639983,
+      "longitude": 15.74519811
+    },
+    {
+      "city_id": 14,
+      "name": "Kowary",
+      "slug": "kowary",
+      "name_locative": "Kowarach",
+      "county_id": 6,
+      "county_name": "karkonoski",
+      "latitude": 50.778678,
+      "longitude": 15.83605086
+    },
+    {
+      "city_id": 21,
+      "name": "Kudowa-Zdrój",
+      "slug": "kudowa-zdroj",
+      "name_locative": "Kudowie-Zdroju",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.44578565,
+      "longitude": 16.25414734
+    },
+    {
+      "city_id": 73,
+      "name": "Kąty Wrocławskie",
+      "slug": "katy-wroclawskie",
+      "name_locative": "Kątach Wrocławskich",
+      "county_id": 23,
+      "county_name": "wrocławski",
+      "latitude": 51.0302656,
+      "longitude": 16.7702325
+    },
+    {
+      "city_id": 20,
+      "name": "Kłodzko",
+      "slug": "klodzko",
+      "name_locative": "Kłodzku",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.43371175,
+      "longitude": 16.64224649
+    },
+    {
+      "city_id": 34,
+      "name": "Leśna",
+      "slug": "lesna",
+      "name_locative": "Leśnej",
+      "county_id": 10,
+      "county_name": "lubański",
+      "latitude": 51.0241667,
+      "longitude": 15.2636111
+    },
+    {
+      "city_id": 18,
+      "name": "Lubawka",
+      "slug": "lubawka",
+      "name_locative": "Lubawce",
+      "county_id": 7,
+      "county_name": "kamiennogórski",
+      "latitude": 50.7070882,
+      "longitude": 16.0003894
+    },
+    {
+      "city_id": 32,
+      "name": "Lubań",
+      "slug": "luban",
+      "name_locative": "Lubaniu",
+      "county_id": 10,
+      "county_name": "lubański",
+      "latitude": 51.11471045,
+      "longitude": 15.28115743
+    },
+    {
+      "city_id": 36,
+      "name": "Lubin",
+      "slug": "lubin",
+      "name_locative": "Lubinie",
+      "county_id": 11,
+      "county_name": "lubiński",
+      "latitude": 51.3996783,
+      "longitude": 16.19933794
+    },
+    {
+      "city_id": 39,
+      "name": "Lubomierz",
+      "slug": "lubomierz",
+      "name_locative": "Lubomierzu",
+      "county_id": 12,
+      "county_name": "lwówecki",
+      "latitude": 51.0124569,
+      "longitude": 15.51022
+    },
+    {
+      "city_id": 40,
+      "name": "Lwówek Śląski",
+      "slug": "lwowek-slaski",
+      "name_locative": "Lwówku Śląskim",
+      "county_id": 12,
+      "county_name": "lwówecki",
+      "latitude": 51.1108891,
+      "longitude": 15.5850018
+    },
+    {
+      "city_id": 25,
+      "name": "Lądek-Zdrój",
+      "slug": "ladek-zdroj",
+      "name_locative": "Lądku-Zdroju",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.3458254,
+      "longitude": 16.8725948
+    },
+    {
+      "city_id": 70,
+      "name": "Mieroszów",
+      "slug": "mieroszow",
+      "name_locative": "Mieroszowie",
+      "county_id": 21,
+      "county_name": "wałbrzyski",
+      "latitude": 50.6669858,
+      "longitude": 16.1862044
+    },
+    {
+      "city_id": 43,
+      "name": "Milicz",
+      "slug": "milicz",
+      "name_locative": "Miliczu",
+      "county_id": 13,
+      "county_name": "milicki",
+      "latitude": 51.5319957,
+      "longitude": 17.2752485
+    },
+    {
+      "city_id": 41,
+      "name": "Mirsk",
+      "slug": "mirsk",
+      "name_locative": "Mirsku",
+      "county_id": 12,
+      "county_name": "lwówecki",
+      "latitude": 50.9721836,
+      "longitude": 15.3857926
+    },
+    {
+      "city_id": 46,
+      "name": "Międzybórz",
+      "slug": "miedzyborz",
+      "name_locative": "Międzyborzu",
+      "county_id": 14,
+      "county_name": "oleśnicki",
+      "latitude": 51.397711,
+      "longitude": 17.6650165
+    },
+    {
+      "city_id": 26,
+      "name": "Międzylesie",
+      "slug": "miedzylesie",
+      "name_locative": "Międzylesiu",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.1480131,
+      "longitude": 16.6669348
+    },
+    {
+      "city_id": 7,
+      "name": "Niemcza",
+      "slug": "niemcza",
+      "name_locative": "Niemczy",
+      "county_id": 2,
+      "county_name": "dzierżoniowski",
+      "latitude": 50.7163426,
+      "longitude": 16.8350398
+    },
+    {
+      "city_id": 22,
+      "name": "Nowa Ruda",
+      "slug": "nowa-ruda",
+      "name_locative": "Nowej Rudzie",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.57349525,
+      "longitude": 16.51137808
+    },
+    {
+      "city_id": 2,
+      "name": "Nowogrodziec",
+      "slug": "nowogrodziec",
+      "name_locative": "Nowogrodźcu",
+      "county_id": 1,
+      "county_name": "bolesławiecki",
+      "latitude": 51.1971363,
+      "longitude": 15.3987046
+    },
+    {
+      "city_id": 62,
+      "name": "Oborniki Śląskie",
+      "slug": "oborniki-slaskie",
+      "name_locative": "Obornikach Śląskich",
+      "county_id": 20,
+      "county_name": "trzebnicki",
+      "latitude": 51.3010662,
+      "longitude": 16.9145509
+    },
+    {
+      "city_id": 44,
+      "name": "Oleśnica",
+      "slug": "olesnica",
+      "name_locative": "Oleśnicy",
+      "county_id": 14,
+      "county_name": "oleśnicki",
+      "latitude": 51.2102428,
+      "longitude": 17.38294699
+    },
+    {
+      "city_id": 35,
+      "name": "Olszyna",
+      "slug": "olszyna",
+      "name_locative": "Olszynie",
+      "county_id": 10,
+      "county_name": "lubański",
+      "latitude": 51.0655505,
+      "longitude": 15.3753102
+    },
+    {
+      "city_id": 49,
+      "name": "Oława",
+      "slug": "olawa",
+      "name_locative": "Oławie",
+      "county_id": 15,
+      "county_name": "oławski",
+      "latitude": 50.95709295,
+      "longitude": 17.29026977
+    },
+    {
+      "city_id": 15,
+      "name": "Piechowice",
+      "slug": "piechowice",
+      "name_locative": "Piechowicach",
+      "county_id": 6,
+      "county_name": "karkonoski",
+      "latitude": 50.8277065,
+      "longitude": 15.57653885
+    },
+    {
+      "city_id": 5,
+      "name": "Pieszyce",
+      "slug": "pieszyce",
+      "name_locative": "Pieszycach",
+      "county_id": 2,
+      "county_name": "dzierżoniowski",
+      "latitude": 50.7124412,
+      "longitude": 16.581609
+    },
+    {
+      "city_id": 84,
+      "name": "Pieńsk",
+      "slug": "piensk",
+      "name_locative": "Pieńsku",
+      "county_id": 25,
+      "county_name": "zgorzelecki",
+      "latitude": 51.2457834,
+      "longitude": 15.0449871
+    },
+    {
+      "city_id": 6,
+      "name": "Piława Górna",
+      "slug": "pilawa-gorna",
+      "name_locative": "Piławie Górnej",
+      "county_id": 2,
+      "county_name": "dzierżoniowski",
+      "latitude": 50.68291525,
+      "longitude": 16.75106802
+    },
+    {
+      "city_id": 23,
+      "name": "Polanica-Zdrój",
+      "slug": "polanica-zdroj",
+      "name_locative": "Polanicy-Zdroju",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.39886095,
+      "longitude": 16.50620221
+    },
+    {
+      "city_id": 52,
+      "name": "Polkowice",
+      "slug": "polkowice",
+      "name_locative": "Polkowicach",
+      "county_id": 16,
+      "county_name": "polkowicki",
+      "latitude": 51.5039288,
+      "longitude": 16.0713371
+    },
+    {
+      "city_id": 31,
+      "name": "Prochowice",
+      "slug": "prochowice",
+      "name_locative": "Prochowicach",
+      "county_id": 9,
+      "county_name": "legnicki",
+      "latitude": 51.273422,
+      "longitude": 16.3644321
+    },
+    {
+      "city_id": 63,
+      "name": "Prusice",
+      "slug": "prusice",
+      "name_locative": "Prusicach",
+      "county_id": 20,
+      "county_name": "trzebnicki",
+      "latitude": 51.3707663,
+      "longitude": 16.9626816
+    },
+    {
+      "city_id": 53,
+      "name": "Przemków",
+      "slug": "przemkow",
+      "name_locative": "Przemkowie",
+      "county_id": 16,
+      "county_name": "polkowicki",
+      "latitude": 51.5275418,
+      "longitude": 15.7874473
+    },
+    {
+      "city_id": 27,
+      "name": "Radków",
+      "slug": "radkow",
+      "name_locative": "Radkowie",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.5042182,
+      "longitude": 16.401351
+    },
+    {
+      "city_id": 75,
+      "name": "Siechnice",
+      "slug": "siechnice",
+      "name_locative": "Siechnicach",
+      "county_id": 23,
+      "county_name": "wrocławski",
+      "latitude": 51.0323875,
+      "longitude": 17.1507275
+    },
+    {
+      "city_id": 74,
+      "name": "Sobótka",
+      "slug": "sobotka",
+      "name_locative": "Sobótce",
+      "county_id": 23,
+      "county_name": "wrocławski",
+      "latitude": 50.8990885,
+      "longitude": 16.7445705
+    },
+    {
+      "city_id": 28,
+      "name": "Stronie Śląskie",
+      "slug": "stronie-slaskie",
+      "name_locative": "Stroniu Śląskim",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.2916337,
+      "longitude": 16.8736919
+    },
+    {
+      "city_id": 60,
+      "name": "Strzegom",
+      "slug": "strzegom",
+      "name_locative": "Strzegomiu",
+      "county_id": 19,
+      "county_name": "świdnicki",
+      "latitude": 50.9601066,
+      "longitude": 16.3462134
+    },
+    {
+      "city_id": 54,
+      "name": "Strzelin",
+      "slug": "strzelin",
+      "name_locative": "Strzelinie",
+      "county_id": 17,
+      "county_name": "strzeliński",
+      "latitude": 50.78092,
+      "longitude": 17.0683947
+    },
+    {
+      "city_id": 47,
+      "name": "Syców",
+      "slug": "sycow",
+      "name_locative": "Sycowie",
+      "county_id": 14,
+      "county_name": "oleśnicki",
+      "latitude": 51.30998,
+      "longitude": 17.72354
+    },
+    {
+      "city_id": 68,
+      "name": "Szczawno-Zdrój",
+      "slug": "szczawno-zdroj",
+      "name_locative": "Szczawnie-Zdroju",
+      "county_id": 21,
+      "county_name": "wałbrzyski",
+      "latitude": 50.7951667,
+      "longitude": 16.22327128
+    },
+    {
+      "city_id": 29,
+      "name": "Szczytna",
+      "slug": "szczytna",
+      "name_locative": "Szczytnej",
+      "county_id": 8,
+      "county_name": "kłodzki",
+      "latitude": 50.4169281,
+      "longitude": 16.4408185
+    },
+    {
+      "city_id": 16,
+      "name": "Szklarska Poręba",
+      "slug": "szklarska-poreba",
+      "name_locative": "Szklarskiej Porębie",
+      "county_id": 6,
+      "county_name": "karkonoski",
+      "latitude": 50.81428365,
+      "longitude": 15.45449666
+    },
+    {
+      "city_id": 64,
+      "name": "Trzebnica",
+      "slug": "trzebnica",
+      "name_locative": "Trzebnicy",
+      "county_id": 20,
+      "county_name": "trzebnicki",
+      "latitude": 51.3096424,
+      "longitude": 17.062596
+    },
+    {
+      "city_id": 48,
+      "name": "Twardogóra",
+      "slug": "twardogora",
+      "name_locative": "Twardogórze",
+      "county_id": 14,
+      "county_name": "oleśnicki",
+      "latitude": 51.364557,
+      "longitude": 17.469599
+    },
+    {
+      "city_id": 55,
+      "name": "Wiązów",
+      "slug": "wiazow",
+      "name_locative": "Wiązowie",
+      "county_id": 17,
+      "county_name": "strzeliński",
+      "latitude": 50.8138794,
+      "longitude": 17.2017238
+    },
+    {
+      "city_id": 42,
+      "name": "Wleń",
+      "slug": "wlen",
+      "name_locative": "Wleniu",
+      "county_id": 12,
+      "county_name": "lwówecki",
+      "latitude": 51.0168814,
+      "longitude": 15.6744645
+    },
+    {
+      "city_id": 86,
+      "name": "Wojcieszów",
+      "slug": "wojcieszow",
+      "name_locative": "Wojcieszowie",
+      "county_id": 26,
+      "county_name": "złotoryjski",
+      "latitude": 50.9559192,
+      "longitude": 15.92830076
+    },
+    {
+      "city_id": 72,
+      "name": "Wołów",
+      "slug": "wolow",
+      "name_locative": "Wołowie",
+      "county_id": 22,
+      "county_name": "wołowski",
+      "latitude": 51.3363841,
+      "longitude": 16.6486903
+    },
+    {
+      "city_id": 10,
+      "name": "Wąsosz",
+      "slug": "wasosz",
+      "name_locative": "Wąsoszu",
+      "county_id": 4,
+      "county_name": "górowski",
+      "latitude": 51.5641,
+      "longitude": 16.69307
+    },
+    {
+      "city_id": 85,
+      "name": "Węgliniec",
+      "slug": "wegliniec",
+      "name_locative": "Węglińcu",
+      "county_id": 25,
+      "county_name": "zgorzelecki",
+      "latitude": 51.2871203,
+      "longitude": 15.2241355
+    },
+    {
+      "city_id": 81,
+      "name": "Zawidów",
+      "slug": "zawidow",
+      "name_locative": "Zawidowie",
+      "county_id": 25,
+      "county_name": "zgorzelecki",
+      "latitude": 51.02449745,
+      "longitude": 15.04515006
+    },
+    {
+      "city_id": 82,
+      "name": "Zgorzelec",
+      "slug": "zgorzelec",
+      "name_locative": "Zgorzelcu",
+      "county_id": 25,
+      "county_name": "zgorzelecki",
+      "latitude": 51.15178695,
+      "longitude": 15.01443297
+    },
+    {
+      "city_id": 79,
+      "name": "Ziębice",
+      "slug": "ziebice",
+      "name_locative": "Ziębicach",
+      "county_id": 24,
+      "county_name": "ząbkowicki",
+      "latitude": 50.6007752,
+      "longitude": 17.0405633
+    },
+    {
+      "city_id": 78,
+      "name": "Ząbkowice Śląskie",
+      "slug": "zabkowice-slaskie",
+      "name_locative": "Ząbkowicach Śląskich",
+      "county_id": 24,
+      "county_name": "ząbkowicki",
+      "latitude": 50.5892698,
+      "longitude": 16.8111518
+    },
+    {
+      "city_id": 87,
+      "name": "Złotoryja",
+      "slug": "zlotoryja",
+      "name_locative": "Złotoryi",
+      "county_id": 26,
+      "county_name": "złotoryjski",
+      "latitude": 51.1224089,
+      "longitude": 15.91944763
+    },
+    {
+      "city_id": 80,
+      "name": "Złoty Stok",
+      "slug": "zloty-stok",
+      "name_locative": "Złotym Stoku",
+      "county_id": 24,
+      "county_name": "ząbkowicki",
+      "latitude": 50.445143,
+      "longitude": 16.8765836
+    },
+    {
+      "city_id": 37,
+      "name": "Ścinawa",
+      "slug": "scinawa",
+      "name_locative": "Ścinawie",
+      "county_id": 11,
+      "county_name": "lubiński",
+      "latitude": 51.4165346,
+      "longitude": 16.4259732
+    },
+    {
+      "city_id": 56,
+      "name": "Środa Śląska",
+      "slug": "sroda-slaska",
+      "name_locative": "Środzie Śląskiej",
+      "county_id": 18,
+      "county_name": "średzki",
+      "latitude": 51.1638949,
+      "longitude": 16.5942505
+    },
+    {
+      "city_id": 57,
+      "name": "Świdnica",
+      "slug": "swidnica",
+      "name_locative": "Świdnicy",
+      "county_id": 19,
+      "county_name": "świdnicki",
+      "latitude": 50.8424835,
+      "longitude": 16.4870549
+    },
+    {
+      "city_id": 58,
+      "name": "Świebodzice",
+      "slug": "swiebodzice",
+      "name_locative": "Świebodzicach",
+      "county_id": 19,
+      "county_name": "świdnicki",
+      "latitude": 50.87246455,
+      "longitude": 16.32287835
+    },
+    {
+      "city_id": 33,
+      "name": "Świeradów-Zdrój",
+      "slug": "swieradow-zdroj",
+      "name_locative": "Świeradowie-Zdroju",
+      "county_id": 10,
+      "county_name": "lubański",
+      "latitude": 50.91696915,
+      "longitude": 15.30847493
+    },
+    {
+      "city_id": 88,
+      "name": "Świerzawa",
+      "slug": "swierzawa",
+      "name_locative": "Świerzawie",
+      "county_id": 26,
+      "county_name": "złotoryjski",
+      "latitude": 51.0147404,
+      "longitude": 15.8948997
+    },
+    {
+      "city_id": 61,
+      "name": "Żarów",
+      "slug": "zarow",
+      "name_locative": "Żarowie",
+      "county_id": 19,
+      "county_name": "świdnicki",
+      "latitude": 50.9438416,
+      "longitude": 16.4923538
+    },
+    {
+      "city_id": 65,
+      "name": "Żmigród",
+      "slug": "zmigrod",
+      "name_locative": "Żmigrodzie",
+      "county_id": 20,
+      "county_name": "trzebnicki",
+      "latitude": 51.4717386,
+      "longitude": 16.9082719
+    }
+  ],
+  "meta": {
+    "title": "Województwo dolnośląskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie dolnośląskim (województwo dolnośląskie) — 88 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the dolnośląskie voivodeship — 88 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 88 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo dolnośląskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo dolnośląskie — miasta — 88 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 88 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

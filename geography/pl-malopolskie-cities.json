@@ -1,0 +1,656 @@
+{
+  "id": "pl-malopolskie-cities",
+  "name": "Województwo małopolskie — miasta",
+  "title": "Województwo małopolskie — miasta",
+  "description": "Lista miast w województwie małopolskim (województwo małopolskie) — 59 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the małopolskie voivodeship — 59 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 288,
+      "name": "Alwernia",
+      "slug": "alwernia",
+      "name_locative": "Alwernii",
+      "county_id": 101,
+      "county_name": "chrzanowski",
+      "latitude": 50.0690434,
+      "longitude": 19.5396737
+    },
+    {
+      "city_id": 338,
+      "name": "Andrychów",
+      "slug": "andrychow",
+      "name_locative": "Andrychowie",
+      "county_id": 116,
+      "county_name": "wadowicki",
+      "latitude": 49.8555791,
+      "longitude": 19.3436756
+    },
+    {
+      "city_id": 295,
+      "name": "Biecz",
+      "slug": "biecz",
+      "name_locative": "Bieczu",
+      "county_id": 103,
+      "county_name": "gorlicki",
+      "latitude": 49.7305351,
+      "longitude": 21.249421
+    },
+    {
+      "city_id": 296,
+      "name": "Bobowa",
+      "slug": "bobowa",
+      "name_locative": "Bobowej",
+      "county_id": 103,
+      "county_name": "gorlicki",
+      "latitude": 49.7130028,
+      "longitude": 20.9576054
+    },
+    {
+      "city_id": 284,
+      "name": "Bochnia",
+      "slug": "bochnia",
+      "name_locative": "Bochni",
+      "county_id": 99,
+      "county_name": "bocheński",
+      "latitude": 49.97468425,
+      "longitude": 20.4253292
+    },
+    {
+      "city_id": 286,
+      "name": "Brzesko",
+      "slug": "brzesko",
+      "name_locative": "Brzesku",
+      "county_id": 100,
+      "county_name": "brzeski",
+      "latitude": 49.9678396,
+      "longitude": 20.6068496
+    },
+    {
+      "city_id": 320,
+      "name": "Brzeszcze",
+      "slug": "brzeszcze",
+      "name_locative": "Brzeszczach",
+      "county_id": 111,
+      "county_name": "oświęcimski",
+      "latitude": 49.9819014,
+      "longitude": 19.1528065
+    },
+    {
+      "city_id": 316,
+      "name": "Bukowno",
+      "slug": "bukowno",
+      "name_locative": "Bukownie",
+      "county_id": 110,
+      "county_name": "olkuski",
+      "latitude": 50.2697776,
+      "longitude": 19.4638131
+    },
+    {
+      "city_id": 321,
+      "name": "Chełmek",
+      "slug": "chelmek",
+      "name_locative": "Chełmku",
+      "county_id": 111,
+      "county_name": "oświęcimski",
+      "latitude": 50.1003348,
+      "longitude": 19.2542585
+    },
+    {
+      "city_id": 289,
+      "name": "Chrzanów",
+      "slug": "chrzanow",
+      "name_locative": "Chrzanowie",
+      "county_id": 101,
+      "county_name": "chrzanowski",
+      "latitude": 50.1411926,
+      "longitude": 19.4028502
+    },
+    {
+      "city_id": 330,
+      "name": "Ciężkowice",
+      "slug": "ciezkowice",
+      "name_locative": "Ciężkowicach",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 49.786464,
+      "longitude": 20.9737542
+    },
+    {
+      "city_id": 287,
+      "name": "Czchów",
+      "slug": "czchow",
+      "name_locative": "Czchowie",
+      "county_id": 100,
+      "county_name": "brzeski",
+      "latitude": 49.8339446,
+      "longitude": 20.6731487
+    },
+    {
+      "city_id": 305,
+      "name": "Dobczyce",
+      "slug": "dobczyce",
+      "name_locative": "Dobczycach",
+      "county_id": 107,
+      "county_name": "myślenicki",
+      "latitude": 49.8803432,
+      "longitude": 20.0905415
+    },
+    {
+      "city_id": 292,
+      "name": "Dąbrowa Tarnowska",
+      "slug": "dabrowa-tarnowska",
+      "name_locative": "Dąbrowie Tarnowskiej",
+      "county_id": 102,
+      "county_name": "dąbrowski",
+      "latitude": 50.1743495,
+      "longitude": 20.9850707
+    },
+    {
+      "city_id": 294,
+      "name": "Gorlice",
+      "slug": "gorlice",
+      "name_locative": "Gorlicach",
+      "county_id": 103,
+      "county_name": "gorlicki",
+      "latitude": 49.6663323,
+      "longitude": 21.16348427
+    },
+    {
+      "city_id": 308,
+      "name": "Grybów",
+      "slug": "grybow",
+      "name_locative": "Grybowie",
+      "county_id": 108,
+      "county_name": "nowosądecki",
+      "latitude": 49.61495535,
+      "longitude": 20.94882466
+    },
+    {
+      "city_id": 327,
+      "name": "Jordanów",
+      "slug": "jordanow",
+      "name_locative": "Jordanowie",
+      "county_id": 113,
+      "county_name": "suski",
+      "latitude": 49.6489124,
+      "longitude": 19.83834915
+    },
+    {
+      "city_id": 339,
+      "name": "Kalwaria Zebrzydowska",
+      "slug": "kalwaria-zebrzydowska",
+      "name_locative": "Kalwarii Zebrzydowskiej",
+      "county_id": 116,
+      "county_name": "wadowicki",
+      "latitude": 49.8669482,
+      "longitude": 19.6763089
+    },
+    {
+      "city_id": 324,
+      "name": "Koszyce",
+      "slug": "koszyce",
+      "name_locative": "Koszycach",
+      "county_id": 112,
+      "county_name": "proszowicki",
+      "latitude": 50.1669806,
+      "longitude": 20.5756459
+    },
+    {
+      "city_id": 309,
+      "name": "Krynica-Zdrój",
+      "slug": "krynica-zdroj",
+      "name_locative": "Krynicy-Zdroju",
+      "county_id": 108,
+      "county_name": "nowosądecki",
+      "latitude": 49.4206138,
+      "longitude": 20.9594176
+    },
+    {
+      "city_id": 297,
+      "name": "Krzeszowice",
+      "slug": "krzeszowice",
+      "name_locative": "Krzeszowicach",
+      "county_id": 104,
+      "county_name": "krakowski",
+      "latitude": 50.1350246,
+      "longitude": 19.6320164
+    },
+    {
+      "city_id": 322,
+      "name": "Kęty",
+      "slug": "kety",
+      "name_locative": "Kętach",
+      "county_id": 111,
+      "county_name": "oświęcimski",
+      "latitude": 49.8817723,
+      "longitude": 19.2302036
+    },
+    {
+      "city_id": 290,
+      "name": "Libiąż",
+      "slug": "libiaz",
+      "name_locative": "Libiążu",
+      "county_id": 101,
+      "county_name": "chrzanowski",
+      "latitude": 50.1030516,
+      "longitude": 19.3147486
+    },
+    {
+      "city_id": 302,
+      "name": "Limanowa",
+      "slug": "limanowa",
+      "name_locative": "Limanowej",
+      "county_id": 105,
+      "county_name": "limanowski",
+      "latitude": 49.7149918,
+      "longitude": 20.42307422
+    },
+    {
+      "city_id": 329,
+      "name": "Maków Podhalański",
+      "slug": "makow-podhalanski",
+      "name_locative": "Makowie Podhalańskim",
+      "county_id": 113,
+      "county_name": "suski",
+      "latitude": 49.7298971,
+      "longitude": 19.6768803
+    },
+    {
+      "city_id": 304,
+      "name": "Miechów",
+      "slug": "miechow",
+      "name_locative": "Miechowie",
+      "county_id": 106,
+      "county_name": "miechowski",
+      "latitude": 50.3566016,
+      "longitude": 20.0276912
+    },
+    {
+      "city_id": 303,
+      "name": "Mszana Dolna",
+      "slug": "mszana-dolna",
+      "name_locative": "Mszanie Dolnej",
+      "county_id": 105,
+      "county_name": "limanowski",
+      "latitude": 49.68107815,
+      "longitude": 20.07649907
+    },
+    {
+      "city_id": 310,
+      "name": "Muszyna",
+      "slug": "muszyna",
+      "name_locative": "Muszynie",
+      "county_id": 108,
+      "county_name": "nowosądecki",
+      "latitude": 49.3561684,
+      "longitude": 20.8967477
+    },
+    {
+      "city_id": 306,
+      "name": "Myślenice",
+      "slug": "myslenice",
+      "name_locative": "Myślenicach",
+      "county_id": 107,
+      "county_name": "myślenicki",
+      "latitude": 49.834608,
+      "longitude": 19.9384283
+    },
+    {
+      "city_id": 341,
+      "name": "Niepołomice",
+      "slug": "niepolomice",
+      "name_locative": "Niepołomicach",
+      "county_id": 117,
+      "county_name": "wielicki",
+      "latitude": 50.033182,
+      "longitude": 20.2168012
+    },
+    {
+      "city_id": 325,
+      "name": "Nowe Brzesko",
+      "slug": "nowe-brzesko",
+      "name_locative": "Nowym Brzesku",
+      "county_id": 112,
+      "county_name": "proszowicki",
+      "latitude": 50.1322823,
+      "longitude": 20.3767203
+    },
+    {
+      "city_id": 313,
+      "name": "Nowy Targ",
+      "slug": "nowy-targ",
+      "name_locative": "Nowym Targu",
+      "county_id": 109,
+      "county_name": "nowotarski",
+      "latitude": 49.4892092,
+      "longitude": 20.0263411
+    },
+    {
+      "city_id": 285,
+      "name": "Nowy Wiśnicz",
+      "slug": "nowy-wisnicz",
+      "name_locative": "Nowym Wiśniczu",
+      "county_id": 99,
+      "county_name": "bocheński",
+      "latitude": 49.9152667,
+      "longitude": 20.4621677
+    },
+    {
+      "city_id": 317,
+      "name": "Olkusz",
+      "slug": "olkusz",
+      "name_locative": "Olkuszu",
+      "county_id": 110,
+      "county_name": "olkuski",
+      "latitude": 50.2788158,
+      "longitude": 19.5596307
+    },
+    {
+      "city_id": 319,
+      "name": "Oświęcim",
+      "slug": "oswiecim",
+      "name_locative": "Oświęcimiu",
+      "county_id": 111,
+      "county_name": "oświęcimski",
+      "latitude": 50.0336707,
+      "longitude": 19.26007984
+    },
+    {
+      "city_id": 311,
+      "name": "Piwniczna-Zdrój",
+      "slug": "piwniczna-zdroj",
+      "name_locative": "Piwnicznej-Zdroju",
+      "county_id": 108,
+      "county_name": "nowosądecki",
+      "latitude": 49.4406462,
+      "longitude": 20.7142303
+    },
+    {
+      "city_id": 326,
+      "name": "Proszowice",
+      "slug": "proszowice",
+      "name_locative": "Proszowicach",
+      "county_id": 112,
+      "county_name": "proszowicki",
+      "latitude": 50.1926479,
+      "longitude": 20.2917555
+    },
+    {
+      "city_id": 315,
+      "name": "Rabka-Zdrój",
+      "slug": "rabka-zdroj",
+      "name_locative": "Rabce-Zdroju",
+      "county_id": 109,
+      "county_name": "nowotarski",
+      "latitude": 49.6076663,
+      "longitude": 19.9622575
+    },
+    {
+      "city_id": 331,
+      "name": "Radłów",
+      "slug": "radlow",
+      "name_locative": "Radłowie",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 50.0830887,
+      "longitude": 20.8476617
+    },
+    {
+      "city_id": 332,
+      "name": "Ryglice",
+      "slug": "ryglice",
+      "name_locative": "Ryglicach",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 49.8783327,
+      "longitude": 21.1380371
+    },
+    {
+      "city_id": 299,
+      "name": "Skawina",
+      "slug": "skawina",
+      "name_locative": "Skawinie",
+      "county_id": 104,
+      "county_name": "krakowski",
+      "latitude": 49.9747508,
+      "longitude": 19.8265702
+    },
+    {
+      "city_id": 298,
+      "name": "Skała",
+      "slug": "skala",
+      "name_locative": "Skale",
+      "county_id": 104,
+      "county_name": "krakowski",
+      "latitude": 50.2303769,
+      "longitude": 19.853537
+    },
+    {
+      "city_id": 312,
+      "name": "Stary Sącz",
+      "slug": "stary-sacz",
+      "name_locative": "Starym Sączu",
+      "county_id": 108,
+      "county_name": "nowosądecki",
+      "latitude": 49.5640268,
+      "longitude": 20.6366235
+    },
+    {
+      "city_id": 328,
+      "name": "Sucha Beskidzka",
+      "slug": "sucha-beskidzka",
+      "name_locative": "Suchej Beskidzkiej",
+      "county_id": 113,
+      "county_name": "suski",
+      "latitude": 49.73231525,
+      "longitude": 19.58229896
+    },
+    {
+      "city_id": 307,
+      "name": "Sułkowice",
+      "slug": "sulkowice",
+      "name_locative": "Sułkowicach",
+      "county_id": 107,
+      "county_name": "myślenicki",
+      "latitude": 49.8408265,
+      "longitude": 19.8012137
+    },
+    {
+      "city_id": 314,
+      "name": "Szczawnica",
+      "slug": "szczawnica",
+      "name_locative": "Szczawnicy",
+      "county_id": 109,
+      "county_name": "nowotarski",
+      "latitude": 49.4266299,
+      "longitude": 20.4761439
+    },
+    {
+      "city_id": 293,
+      "name": "Szczucin",
+      "slug": "szczucin",
+      "name_locative": "Szczucinie",
+      "county_id": 102,
+      "county_name": "dąbrowski",
+      "latitude": 50.3090256,
+      "longitude": 21.075161
+    },
+    {
+      "city_id": 300,
+      "name": "Słomniki",
+      "slug": "slomniki",
+      "name_locative": "Słomnikach",
+      "county_id": 104,
+      "county_name": "krakowski",
+      "latitude": 50.2403739,
+      "longitude": 20.0811369
+    },
+    {
+      "city_id": 291,
+      "name": "Trzebinia",
+      "slug": "trzebinia",
+      "name_locative": "Trzebini",
+      "county_id": 101,
+      "county_name": "chrzanowski",
+      "latitude": 50.1597686,
+      "longitude": 19.4709097
+    },
+    {
+      "city_id": 333,
+      "name": "Tuchów",
+      "slug": "tuchow",
+      "name_locative": "Tuchowie",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 49.895219,
+      "longitude": 21.0538362
+    },
+    {
+      "city_id": 340,
+      "name": "Wadowice",
+      "slug": "wadowice",
+      "name_locative": "Wadowicach",
+      "county_id": 116,
+      "county_name": "wadowicki",
+      "latitude": 49.8834484,
+      "longitude": 19.4925345
+    },
+    {
+      "city_id": 342,
+      "name": "Wieliczka",
+      "slug": "wieliczka",
+      "name_locative": "Wieliczce",
+      "county_id": 117,
+      "county_name": "wielicki",
+      "latitude": 49.9823773,
+      "longitude": 20.0602114
+    },
+    {
+      "city_id": 334,
+      "name": "Wojnicz",
+      "slug": "wojnicz",
+      "name_locative": "Wojniczu",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 49.9573496,
+      "longitude": 20.8364048
+    },
+    {
+      "city_id": 318,
+      "name": "Wolbrom",
+      "slug": "wolbrom",
+      "name_locative": "Wolbromiu",
+      "county_id": 110,
+      "county_name": "olkuski",
+      "latitude": 50.3848386,
+      "longitude": 19.7598844
+    },
+    {
+      "city_id": 335,
+      "name": "Zakliczyn",
+      "slug": "zakliczyn",
+      "name_locative": "Zakliczynie",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 49.8564352,
+      "longitude": 20.8086652
+    },
+    {
+      "city_id": 337,
+      "name": "Zakopane",
+      "slug": "zakopane",
+      "name_locative": "Zakopanem",
+      "county_id": 115,
+      "county_name": "tatrzański",
+      "latitude": 49.2757934,
+      "longitude": 19.96928107
+    },
+    {
+      "city_id": 323,
+      "name": "Zator",
+      "slug": "zator",
+      "name_locative": "Zatorze",
+      "county_id": 111,
+      "county_name": "oświęcimski",
+      "latitude": 49.9963053,
+      "longitude": 19.4376782
+    },
+    {
+      "city_id": 301,
+      "name": "Świątniki Górne",
+      "slug": "swiatniki-gorne",
+      "name_locative": "Świątnikach Górnych",
+      "county_id": 104,
+      "county_name": "krakowski",
+      "latitude": 49.9346365,
+      "longitude": 19.9524965
+    },
+    {
+      "city_id": 336,
+      "name": "Żabno",
+      "slug": "zabno",
+      "name_locative": "Żabnie",
+      "county_id": 114,
+      "county_name": "tarnowski",
+      "latitude": 50.1335155,
+      "longitude": 20.8859257
+    }
+  ],
+  "meta": {
+    "title": "Województwo małopolskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie małopolskim (województwo małopolskie) — 59 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the małopolskie voivodeship — 59 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 59 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo małopolskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo małopolskie — miasta — 59 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 59 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

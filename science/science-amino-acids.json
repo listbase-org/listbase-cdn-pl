@@ -1,0 +1,380 @@
+{
+  "id": "science-amino-acids",
+  "name": "Kompleksowy Zbiór Danych o Właściwościach Aminokwasów",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "three_letter",
+      "label": "3-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "one_letter",
+      "label": "1-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "side_chain",
+      "label": "Side Chain (EN)",
+      "type": "string"
+    },
+    {
+      "key": "polarity",
+      "label": "Polarity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "charge_ph7",
+      "label": "Charge at pH 7",
+      "type": "string"
+    },
+    {
+      "key": "molecular_weight",
+      "label": "Molecular Weight (Da)",
+      "type": "number"
+    },
+    {
+      "key": "codons",
+      "label": "Codons",
+      "type": "string"
+    },
+    {
+      "key": "pI",
+      "label": "Isoelectric Point (pI)",
+      "type": "number"
+    },
+    {
+      "key": "hydropathy",
+      "label": "Hydropathy Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Histydyna",
+      "three_letter": "His",
+      "one_letter": "H",
+      "type": "Egzogenny",
+      "side_chain": "Zasadowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Positive",
+      "molecular_weight": 155.16,
+      "codons": "CAU, CAC",
+      "pI": 7.59,
+      "hydropathy": -3.2
+    },
+    {
+      "name": "Izoleucyna",
+      "three_letter": "Ile",
+      "one_letter": "I",
+      "type": "Egzogenny",
+      "side_chain": "Alifatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "AUU, AUC, AUA",
+      "pI": 6.02,
+      "hydropathy": 4.5
+    },
+    {
+      "name": "Leucyna",
+      "three_letter": "Leu",
+      "one_letter": "L",
+      "type": "Egzogenny",
+      "side_chain": "Alifatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "UUA, UUG, CUU, CUC, CUA, CUG",
+      "pI": 5.98,
+      "hydropathy": 3.8
+    },
+    {
+      "name": "Lizyna",
+      "three_letter": "Lys",
+      "one_letter": "K",
+      "type": "Egzogenny",
+      "side_chain": "Zasadowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Positive",
+      "molecular_weight": 146.19,
+      "codons": "AAA, AAG",
+      "pI": 9.74,
+      "hydropathy": -3.9
+    },
+    {
+      "name": "Metionina",
+      "three_letter": "Met",
+      "one_letter": "M",
+      "type": "Egzogenny",
+      "side_chain": "Zawierający siarkę",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 149.21,
+      "codons": "AUG",
+      "pI": 5.74,
+      "hydropathy": 1.9
+    },
+    {
+      "name": "Fenyloalanina",
+      "three_letter": "Phe",
+      "one_letter": "F",
+      "type": "Egzogenny",
+      "side_chain": "Aromatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 165.19,
+      "codons": "UUU, UUC",
+      "pI": 5.48,
+      "hydropathy": 2.8
+    },
+    {
+      "name": "Treonina",
+      "three_letter": "Thr",
+      "one_letter": "T",
+      "type": "Egzogenny",
+      "side_chain": "Hydroksylowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 119.12,
+      "codons": "ACU, ACC, ACA, ACG",
+      "pI": 5.6,
+      "hydropathy": -0.7
+    },
+    {
+      "name": "Tryptofan",
+      "three_letter": "Trp",
+      "one_letter": "W",
+      "type": "Egzogenny",
+      "side_chain": "Aromatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 204.23,
+      "codons": "UGG",
+      "pI": 5.89,
+      "hydropathy": -0.9
+    },
+    {
+      "name": "Walina",
+      "three_letter": "Val",
+      "one_letter": "V",
+      "type": "Egzogenny",
+      "side_chain": "Alifatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 117.15,
+      "codons": "GUU, GUC, GUA, GUG",
+      "pI": 5.96,
+      "hydropathy": 4.2
+    },
+    {
+      "name": "Arginina",
+      "three_letter": "Arg",
+      "one_letter": "R",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Zasadowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Positive",
+      "molecular_weight": 174.2,
+      "codons": "CGU, CGC, CGA, CGG, AGA, AGG",
+      "pI": 10.76,
+      "hydropathy": -4.5
+    },
+    {
+      "name": "Cysteina",
+      "three_letter": "Cys",
+      "one_letter": "C",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Zawierający siarkę",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 121.16,
+      "codons": "UGU, UGC",
+      "pI": 5.07,
+      "hydropathy": 2.5
+    },
+    {
+      "name": "Glutamina",
+      "three_letter": "Gln",
+      "one_letter": "Q",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Amidowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 146.15,
+      "codons": "CAA, CAG",
+      "pI": 5.65,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Glicyna",
+      "three_letter": "Gly",
+      "one_letter": "G",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Alifatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 75.07,
+      "codons": "GGU, GGC, GGA, GGG",
+      "pI": 5.97,
+      "hydropathy": -0.4
+    },
+    {
+      "name": "Prolina",
+      "three_letter": "Pro",
+      "one_letter": "P",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Cykliczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 115.13,
+      "codons": "CCU, CCC, CCA, CCG",
+      "pI": 6.3,
+      "hydropathy": -1.6
+    },
+    {
+      "name": "Tyrozyna",
+      "three_letter": "Tyr",
+      "one_letter": "Y",
+      "type": "Warunkowo egzogenny",
+      "side_chain": "Aromatyczny",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 181.19,
+      "codons": "UAU, UAC",
+      "pI": 5.66,
+      "hydropathy": -1.3
+    },
+    {
+      "name": "Alanina",
+      "three_letter": "Ala",
+      "one_letter": "A",
+      "type": "Endogenny",
+      "side_chain": "Alifatyczny",
+      "polarity": "Niepolarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 89.09,
+      "codons": "GCU, GCC, GCA, GCG",
+      "pI": 6,
+      "hydropathy": 1.8
+    },
+    {
+      "name": "Asparagina",
+      "three_letter": "Asn",
+      "one_letter": "N",
+      "type": "Endogenny",
+      "side_chain": "Amidowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 132.12,
+      "codons": "AAU, AAC",
+      "pI": 5.41,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Kwas asparaginowy",
+      "three_letter": "Asp",
+      "one_letter": "D",
+      "type": "Endogenny",
+      "side_chain": "Kwaśny",
+      "polarity": "Polarny",
+      "charge_ph7": "Negative",
+      "molecular_weight": 133.1,
+      "codons": "GAU, GAC",
+      "pI": 2.77,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Kwas glutaminowy",
+      "three_letter": "Glu",
+      "one_letter": "E",
+      "type": "Endogenny",
+      "side_chain": "Kwaśny",
+      "polarity": "Polarny",
+      "charge_ph7": "Negative",
+      "molecular_weight": 147.13,
+      "codons": "GAA, GAG",
+      "pI": 3.22,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Seryna",
+      "three_letter": "Ser",
+      "one_letter": "S",
+      "type": "Endogenny",
+      "side_chain": "Hydroksylowy",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 105.09,
+      "codons": "UCU, UCC, UCA, UCG, AGU, AGC",
+      "pI": 5.68,
+      "hydropathy": -0.8
+    },
+    {
+      "name": "Selenocysteina",
+      "three_letter": "Sec",
+      "one_letter": "U",
+      "type": "Specjalny",
+      "side_chain": "Zawierający selen",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 168.05,
+      "codons": "UGA (context)",
+      "pI": 5.47,
+      "hydropathy": "-"
+    },
+    {
+      "name": "Pirolizyna",
+      "three_letter": "Pyl",
+      "one_letter": "O",
+      "type": "Specjalny",
+      "side_chain": "Pirolizyna",
+      "polarity": "Polarny",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 255.31,
+      "codons": "UAG (context)",
+      "pI": "-",
+      "hydropathy": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Aminokwasów & Właściwości - Pobierz Za Darmo (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie kompleksową tabelę 22 aminokwasów, w tym kody, typy, polarność, masę cząsteczkową i kodony. Dostępne w Excel, CSV, PDF.",
+    "title": "Kompleksowy Zbiór Danych o Właściwościach Aminokwasów",
+    "description": "Ten zbiór danych zawiera szczegółową tabelę 22 typowych aminokwasów, w tym ich jedno- i trzyznakowe kody, typy, właściwości łańcucha bocznego, polarność, ładunek przy pH 7, masę cząsteczkową, kodony, punkt izoelektryczny (pI) oraz indeks hydrofobowości.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do krytycznych danych biochemicznych dla wszystkich 22 typowych aminokwasów.",
+      "Przeglądaj podstawowe właściwości, takie jak masa cząsteczkowa, polarność i pI, dla badań białek.",
+      "Pobierz informacje o kodonach genetycznych dla każdego aminokwasu do projektów bioinformatycznych.",
+      "Wykorzystaj różnorodne punkty danych, aby wzbogacić badania w biologii i chemii."
+    ],
+    "keywords": [
+      "tabela aminokwasów",
+      "właściwości aminokwasów",
+      "lista kodonów genetycznych",
+      "budulec białek",
+      "dane biochemiczne",
+      "pobierz dane aminokwasów csv"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych SQL lub skryptów Pythona do zastosowań bioinformatycznych i analizy sekwencji genetycznych.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania właściwości aminokwasów do zadań edukacyjnych lub szczegółowych raportów badawczych.",
+      "Wydrukuj wersję **PDF**, aby uzyskać szybki, poręczny przewodnik referencyjny w laboratorium, klasie lub do nauki offline.",
+      "Wykorzystaj ten zbiór danych do tworzenia narzędzi edukacyjnych lub interaktywnych pulpitów nawigacyjnych prezentujących charakterystykę aminokwasów i ich role w białkach."
+    ]
+  },
+  "record_count": 22,
+  "title": "Kompleksowy Zbiór Danych o Właściwościach Aminokwasów"
+}

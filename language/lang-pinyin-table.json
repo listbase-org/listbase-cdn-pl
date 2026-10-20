@@ -1,0 +1,4159 @@
+{
+  "id": "lang-pinyin-table",
+  "name": "Kompleksowa Tabela Sylab Pinyin Chińskich i Przewodnik Wymowy",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pinyin",
+      "label": "拼音",
+      "type": "string"
+    },
+    {
+      "key": "initial",
+      "label": "声母",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "韵母",
+      "type": "string"
+    },
+    {
+      "key": "tone_marks",
+      "label": "声调",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ipa",
+      "label": "国际音标",
+      "type": "string"
+    },
+    {
+      "key": "example_char",
+      "label": "例字",
+      "type": "string"
+    },
+    {
+      "key": "example_meaning",
+      "label": "Example Meaning (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pinyin": "a",
+      "initial": "-",
+      "final": "a",
+      "tone_marks": "ā á ǎ à",
+      "category": "Samogłoska Prosta",
+      "ipa": "/a/",
+      "example_char": "阿",
+      "example_meaning": "przedrostek"
+    },
+    {
+      "pinyin": "o",
+      "initial": "-",
+      "final": "o",
+      "tone_marks": "ō ó ǒ ò",
+      "category": "Samogłoska Prosta",
+      "ipa": "/o/",
+      "example_char": "哦",
+      "example_meaning": "och"
+    },
+    {
+      "pinyin": "e",
+      "initial": "-",
+      "final": "e",
+      "tone_marks": "ē é ě è",
+      "category": "Samogłoska Prosta",
+      "ipa": "/ɤ/",
+      "example_char": "鹅",
+      "example_meaning": "gęś"
+    },
+    {
+      "pinyin": "i",
+      "initial": "-",
+      "final": "i",
+      "tone_marks": "ī í ǐ ì",
+      "category": "Samogłoska Prosta",
+      "ipa": "/i/",
+      "example_char": "衣",
+      "example_meaning": "ubrania"
+    },
+    {
+      "pinyin": "u",
+      "initial": "-",
+      "final": "u",
+      "tone_marks": "ū ú ǔ ù",
+      "category": "Samogłoska Prosta",
+      "ipa": "/u/",
+      "example_char": "乌",
+      "example_meaning": "wrona"
+    },
+    {
+      "pinyin": "ü",
+      "initial": "-",
+      "final": "ü",
+      "tone_marks": "ǖ ǘ ǚ ǜ",
+      "category": "Samogłoska Prosta",
+      "ipa": "/y/",
+      "example_char": "鱼",
+      "example_meaning": "ryba"
+    },
+    {
+      "pinyin": "ai",
+      "initial": "-",
+      "final": "ai",
+      "tone_marks": "āi ái ǎi ài",
+      "category": "Samogłoska Złożona",
+      "ipa": "/ai/",
+      "example_char": "爱",
+      "example_meaning": "miłość"
+    },
+    {
+      "pinyin": "ei",
+      "initial": "-",
+      "final": "ei",
+      "tone_marks": "ēi éi ěi èi",
+      "category": "Samogłoska Złożona",
+      "ipa": "/ei/",
+      "example_char": "欸",
+      "example_meaning": "hej"
+    },
+    {
+      "pinyin": "ao",
+      "initial": "-",
+      "final": "ao",
+      "tone_marks": "āo áo ǎo ào",
+      "category": "Samogłoska Złożona",
+      "ipa": "/au/",
+      "example_char": "奥",
+      "example_meaning": "głęboki"
+    },
+    {
+      "pinyin": "ou",
+      "initial": "-",
+      "final": "ou",
+      "tone_marks": "ōu óu ǒu òu",
+      "category": "Samogłoska Złożona",
+      "ipa": "/ou/",
+      "example_char": "欧",
+      "example_meaning": "Europa"
+    },
+    {
+      "pinyin": "an",
+      "initial": "-",
+      "final": "an",
+      "tone_marks": "ān án ǎn àn",
+      "category": "Samogłoska Nosowa",
+      "ipa": "/an/",
+      "example_char": "安",
+      "example_meaning": "pokój"
+    },
+    {
+      "pinyin": "en",
+      "initial": "-",
+      "final": "en",
+      "tone_marks": "ēn én ěn èn",
+      "category": "Samogłoska Nosowa",
+      "ipa": "/ən/",
+      "example_char": "恩",
+      "example_meaning": "gracja"
+    },
+    {
+      "pinyin": "ang",
+      "initial": "-",
+      "final": "ang",
+      "tone_marks": "āng áng ǎng àng",
+      "category": "Samogłoska Nosowa",
+      "ipa": "/aŋ/",
+      "example_char": "昂",
+      "example_meaning": "wysoki"
+    },
+    {
+      "pinyin": "eng",
+      "initial": "-",
+      "final": "eng",
+      "tone_marks": "ēng éng ěng èng",
+      "category": "Samogłoska Nosowa",
+      "ipa": "/əŋ/",
+      "example_char": "鞥",
+      "example_meaning": "lejce"
+    },
+    {
+      "pinyin": "ong",
+      "initial": "-",
+      "final": "ong",
+      "tone_marks": "ōng óng ǒng òng",
+      "category": "Samogłoska Nosowa",
+      "ipa": "/ʊŋ/",
+      "example_char": "翁",
+      "example_meaning": "starzec"
+    },
+    {
+      "pinyin": "ba",
+      "initial": "b",
+      "final": "a",
+      "tone_marks": "bā bá bǎ bà",
+      "category": "Spółgłoska początkowa B",
+      "ipa": "/pa/",
+      "example_char": "八",
+      "example_meaning": "osiem"
+    },
+    {
+      "pinyin": "bo",
+      "initial": "b",
+      "final": "o",
+      "tone_marks": "bō bó bǒ bò",
+      "category": "Spółgłoska początkowa B",
+      "ipa": "/po/",
+      "example_char": "波",
+      "example_meaning": "fala"
+    },
+    {
+      "pinyin": "bai",
+      "initial": "b",
+      "final": "ai",
+      "tone_marks": "bāi bái bǎi bài",
+      "category": "Spółgłoska początkowa B",
+      "ipa": "/pai/",
+      "example_char": "百",
+      "example_meaning": "sto"
+    },
+    {
+      "pinyin": "bei",
+      "initial": "b",
+      "final": "ei",
+      "tone_marks": "bēi béi běi bèi",
+      "category": "Spółgłoska początkowa B",
+      "ipa": "/pei/",
+      "example_char": "北",
+      "example_meaning": "północ"
+    },
+    {
+      "pinyin": "bao",
+      "initial": "b",
+      "final": "ao",
+      "tone_marks": "bāo báo bǎo bào",
+      "category": "Spółgłoska początkowa B",
+      "ipa": "/pau/",
+      "example_char": "包",
+      "example_meaning": "torba"
+    },
+    {
+      "pinyin": "ban",
+      "initial": "b",
+      "final": "an",
+      "tone_marks": "bān bán bǎn bàn",
+      "category": "Nagłosowa B",
+      "ipa": "/pan/",
+      "example_char": "班",
+      "example_meaning": "klasa"
+    },
+    {
+      "pinyin": "ben",
+      "initial": "b",
+      "final": "en",
+      "tone_marks": "bēn bén běn bèn",
+      "category": "Nagłosowa B",
+      "ipa": "/pən/",
+      "example_char": "本",
+      "example_meaning": "książka"
+    },
+    {
+      "pinyin": "bang",
+      "initial": "b",
+      "final": "ang",
+      "tone_marks": "bāng báng bǎng bàng",
+      "category": "Nagłosowa B",
+      "ipa": "/paŋ/",
+      "example_char": "帮",
+      "example_meaning": "pomoc"
+    },
+    {
+      "pinyin": "beng",
+      "initial": "b",
+      "final": "eng",
+      "tone_marks": "bēng béng běng bèng",
+      "category": "Nagłosowa B",
+      "ipa": "/pəŋ/",
+      "example_char": "崩",
+      "example_meaning": "zawalić się"
+    },
+    {
+      "pinyin": "bi",
+      "initial": "b",
+      "final": "i",
+      "tone_marks": "bī bí bǐ bì",
+      "category": "Nagłosowa B",
+      "ipa": "/pi/",
+      "example_char": "比",
+      "example_meaning": "porównywać"
+    },
+    {
+      "pinyin": "bie",
+      "initial": "b",
+      "final": "ie",
+      "tone_marks": "biē bié biě biè",
+      "category": "Nagłosowa B",
+      "ipa": "/pie/",
+      "example_char": "别",
+      "example_meaning": "nie"
+    },
+    {
+      "pinyin": "biao",
+      "initial": "b",
+      "final": "iao",
+      "tone_marks": "biāo biáo biǎo biào",
+      "category": "Nagłosowa B",
+      "ipa": "/piau/",
+      "example_char": "表",
+      "example_meaning": "stół"
+    },
+    {
+      "pinyin": "bian",
+      "initial": "b",
+      "final": "ian",
+      "tone_marks": "biān bián biǎn biàn",
+      "category": "Nagłosowa B",
+      "ipa": "/pien/",
+      "example_char": "边",
+      "example_meaning": "strona"
+    },
+    {
+      "pinyin": "bin",
+      "initial": "b",
+      "final": "in",
+      "tone_marks": "bīn bín bǐn bìn",
+      "category": "Nagłosowa B",
+      "ipa": "/pin/",
+      "example_char": "宾",
+      "example_meaning": "gość"
+    },
+    {
+      "pinyin": "bing",
+      "initial": "b",
+      "final": "ing",
+      "tone_marks": "bīng bíng bǐng bìng",
+      "category": "Nagłosowa B",
+      "ipa": "/piŋ/",
+      "example_char": "冰",
+      "example_meaning": "lód"
+    },
+    {
+      "pinyin": "bu",
+      "initial": "b",
+      "final": "u",
+      "tone_marks": "bū bú bǔ bù",
+      "category": "Nagłosowa B",
+      "ipa": "/pu/",
+      "example_char": "不",
+      "example_meaning": "nie"
+    },
+    {
+      "pinyin": "pa",
+      "initial": "p",
+      "final": "a",
+      "tone_marks": "pā pá pǎ pà",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰa/",
+      "example_char": "怕",
+      "example_meaning": "strach"
+    },
+    {
+      "pinyin": "po",
+      "initial": "p",
+      "final": "o",
+      "tone_marks": "pō pó pǒ pò",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰo/",
+      "example_char": "坡",
+      "example_meaning": "stok"
+    },
+    {
+      "pinyin": "pai",
+      "initial": "p",
+      "final": "ai",
+      "tone_marks": "pāi pái pǎi pài",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰai/",
+      "example_char": "排",
+      "example_meaning": "rząd"
+    },
+    {
+      "pinyin": "pei",
+      "initial": "p",
+      "final": "ei",
+      "tone_marks": "pēi péi pěi pèi",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰei/",
+      "example_char": "配",
+      "example_meaning": "mecz"
+    },
+    {
+      "pinyin": "pao",
+      "initial": "p",
+      "final": "ao",
+      "tone_marks": "pāo páo pǎo pào",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰau/",
+      "example_char": "跑",
+      "example_meaning": "biegać"
+    },
+    {
+      "pinyin": "pou",
+      "initial": "p",
+      "final": "ou",
+      "tone_marks": "pōu póu pǒu pòu",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰou/",
+      "example_char": "剖",
+      "example_meaning": "ciąć"
+    },
+    {
+      "pinyin": "pan",
+      "initial": "p",
+      "final": "an",
+      "tone_marks": "pān pán pǎn pàn",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰan/",
+      "example_char": "盘",
+      "example_meaning": "talerz"
+    },
+    {
+      "pinyin": "pen",
+      "initial": "p",
+      "final": "en",
+      "tone_marks": "pēn pén pěn pèn",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰən/",
+      "example_char": "喷",
+      "example_meaning": "spray"
+    },
+    {
+      "pinyin": "pang",
+      "initial": "p",
+      "final": "ang",
+      "tone_marks": "pāng páng pǎng pàng",
+      "category": "Nagłosowa P",
+      "ipa": "/pʰaŋ/",
+      "example_char": "胖",
+      "example_meaning": "gruby"
+    },
+    {
+      "pinyin": "peng",
+      "initial": "p",
+      "final": "eng",
+      "tone_marks": "pēng péng pěng pèng",
+      "category": "P-początkowa",
+      "ipa": "/pʰəŋ/",
+      "example_char": "朋",
+      "example_meaning": "przyjaciel"
+    },
+    {
+      "pinyin": "pi",
+      "initial": "p",
+      "final": "i",
+      "tone_marks": "pī pí pǐ pì",
+      "category": "P-początkowa",
+      "ipa": "/pʰi/",
+      "example_char": "皮",
+      "example_meaning": "skóra"
+    },
+    {
+      "pinyin": "pie",
+      "initial": "p",
+      "final": "ie",
+      "tone_marks": "piē pié piě piè",
+      "category": "P-początkowa",
+      "ipa": "/pʰie/",
+      "example_char": "撇",
+      "example_meaning": "zebrać śmietankę"
+    },
+    {
+      "pinyin": "piao",
+      "initial": "p",
+      "final": "iao",
+      "tone_marks": "piāo piáo piǎo piào",
+      "category": "P-początkowa",
+      "ipa": "/pʰiau/",
+      "example_char": "票",
+      "example_meaning": "bilet"
+    },
+    {
+      "pinyin": "pian",
+      "initial": "p",
+      "final": "ian",
+      "tone_marks": "piān pián piǎn piàn",
+      "category": "P-początkowa",
+      "ipa": "/pʰien/",
+      "example_char": "片",
+      "example_meaning": "kawałek"
+    },
+    {
+      "pinyin": "pin",
+      "initial": "p",
+      "final": "in",
+      "tone_marks": "pīn pín pǐn pìn",
+      "category": "P-początkowa",
+      "ipa": "/pʰin/",
+      "example_char": "品",
+      "example_meaning": "produkt"
+    },
+    {
+      "pinyin": "ping",
+      "initial": "p",
+      "final": "ing",
+      "tone_marks": "pīng píng pǐng pìng",
+      "category": "P-początkowa",
+      "ipa": "/pʰiŋ/",
+      "example_char": "平",
+      "example_meaning": "płaski"
+    },
+    {
+      "pinyin": "pu",
+      "initial": "p",
+      "final": "u",
+      "tone_marks": "pū pú pǔ pù",
+      "category": "P-początkowa",
+      "ipa": "/pʰu/",
+      "example_char": "铺",
+      "example_meaning": "sklep"
+    },
+    {
+      "pinyin": "ma",
+      "initial": "m",
+      "final": "a",
+      "tone_marks": "mā má mǎ mà",
+      "category": "M-początkowa",
+      "ipa": "/ma/",
+      "example_char": "妈",
+      "example_meaning": "matka"
+    },
+    {
+      "pinyin": "mo",
+      "initial": "m",
+      "final": "o",
+      "tone_marks": "mō mó mǒ mò",
+      "category": "M-początkowa",
+      "ipa": "/mo/",
+      "example_char": "摸",
+      "example_meaning": "dotyk"
+    },
+    {
+      "pinyin": "me",
+      "initial": "m",
+      "final": "e",
+      "tone_marks": "me",
+      "category": "M-początkowa",
+      "ipa": "/mə/",
+      "example_char": "么",
+      "example_meaning": "co"
+    },
+    {
+      "pinyin": "mai",
+      "initial": "m",
+      "final": "ai",
+      "tone_marks": "māi mái mǎi mài",
+      "category": "M-początkowa",
+      "ipa": "/mai/",
+      "example_char": "买",
+      "example_meaning": "kupić"
+    },
+    {
+      "pinyin": "mei",
+      "initial": "m",
+      "final": "ei",
+      "tone_marks": "mēi méi měi mèi",
+      "category": "M-początkowa",
+      "ipa": "/mei/",
+      "example_char": "美",
+      "example_meaning": "piękny"
+    },
+    {
+      "pinyin": "mao",
+      "initial": "m",
+      "final": "ao",
+      "tone_marks": "māo máo mǎo mào",
+      "category": "M-początkowa",
+      "ipa": "/mau/",
+      "example_char": "猫",
+      "example_meaning": "kot"
+    },
+    {
+      "pinyin": "mou",
+      "initial": "m",
+      "final": "ou",
+      "tone_marks": "mōu móu mǒu mòu",
+      "category": "M-początkowa",
+      "ipa": "/mou/",
+      "example_char": "某",
+      "example_meaning": "pewny"
+    },
+    {
+      "pinyin": "man",
+      "initial": "m",
+      "final": "an",
+      "tone_marks": "mān mán mǎn màn",
+      "category": "M-początkowa",
+      "ipa": "/man/",
+      "example_char": "满",
+      "example_meaning": "pełny"
+    },
+    {
+      "pinyin": "men",
+      "initial": "m",
+      "final": "en",
+      "tone_marks": "mēn mén měn mèn",
+      "category": "M-początkowa",
+      "ipa": "/mən/",
+      "example_char": "门",
+      "example_meaning": "drzwi"
+    },
+    {
+      "pinyin": "mang",
+      "initial": "m",
+      "final": "ang",
+      "tone_marks": "māng máng mǎng màng",
+      "category": "M-początkowa",
+      "ipa": "/maŋ/",
+      "example_char": "忙",
+      "example_meaning": "zajęty"
+    },
+    {
+      "pinyin": "meng",
+      "initial": "m",
+      "final": "eng",
+      "tone_marks": "mēng méng měng mèng",
+      "category": "M-początkowa",
+      "ipa": "/məŋ/",
+      "example_char": "梦",
+      "example_meaning": "sen"
+    },
+    {
+      "pinyin": "mi",
+      "initial": "m",
+      "final": "i",
+      "tone_marks": "mī mí mǐ mì",
+      "category": "M-początkowa",
+      "ipa": "/mi/",
+      "example_char": "米",
+      "example_meaning": "ryż"
+    },
+    {
+      "pinyin": "mie",
+      "initial": "m",
+      "final": "ie",
+      "tone_marks": "miē mié miě miè",
+      "category": "Początkowa M",
+      "ipa": "/mie/",
+      "example_char": "灭",
+      "example_meaning": "gasić"
+    },
+    {
+      "pinyin": "miao",
+      "initial": "m",
+      "final": "iao",
+      "tone_marks": "miāo miáo miǎo miào",
+      "category": "Początkowa M",
+      "ipa": "/miau/",
+      "example_char": "秒",
+      "example_meaning": "drugi"
+    },
+    {
+      "pinyin": "miu",
+      "initial": "m",
+      "final": "iu",
+      "tone_marks": "miū miú miǔ miù",
+      "category": "Początkowa M",
+      "ipa": "/miou/",
+      "example_char": "谬",
+      "example_meaning": "błędny"
+    },
+    {
+      "pinyin": "mian",
+      "initial": "m",
+      "final": "ian",
+      "tone_marks": "miān mián miǎn miàn",
+      "category": "Początkowa M",
+      "ipa": "/mien/",
+      "example_char": "面",
+      "example_meaning": "twarz"
+    },
+    {
+      "pinyin": "min",
+      "initial": "m",
+      "final": "in",
+      "tone_marks": "mīn mín mǐn mìn",
+      "category": "Początkowa M",
+      "ipa": "/min/",
+      "example_char": "民",
+      "example_meaning": "ludzie"
+    },
+    {
+      "pinyin": "ming",
+      "initial": "m",
+      "final": "ing",
+      "tone_marks": "mīng míng mǐng mìng",
+      "category": "Początkowa M",
+      "ipa": "/miŋ/",
+      "example_char": "名",
+      "example_meaning": "imię"
+    },
+    {
+      "pinyin": "mu",
+      "initial": "m",
+      "final": "u",
+      "tone_marks": "mū mú mǔ mù",
+      "category": "Początkowa M",
+      "ipa": "/mu/",
+      "example_char": "木",
+      "example_meaning": "drewno"
+    },
+    {
+      "pinyin": "fa",
+      "initial": "f",
+      "final": "a",
+      "tone_marks": "fā fá fǎ fà",
+      "category": "Początkowa F",
+      "ipa": "/fa/",
+      "example_char": "发",
+      "example_meaning": "wysłać"
+    },
+    {
+      "pinyin": "fo",
+      "initial": "f",
+      "final": "o",
+      "tone_marks": "fō fó fǒ fò",
+      "category": "Początkowa F",
+      "ipa": "/fo/",
+      "example_char": "佛",
+      "example_meaning": "Budda"
+    },
+    {
+      "pinyin": "fei",
+      "initial": "f",
+      "final": "ei",
+      "tone_marks": "fēi féi fěi fèi",
+      "category": "Początkowa F",
+      "ipa": "/fei/",
+      "example_char": "飞",
+      "example_meaning": "latać"
+    },
+    {
+      "pinyin": "fou",
+      "initial": "f",
+      "final": "ou",
+      "tone_marks": "fōu fóu fǒu fòu",
+      "category": "Początkowa F",
+      "ipa": "/fou/",
+      "example_char": "否",
+      "example_meaning": "nie"
+    },
+    {
+      "pinyin": "fan",
+      "initial": "f",
+      "final": "an",
+      "tone_marks": "fān fán fǎn fàn",
+      "category": "Początkowa F",
+      "ipa": "/fan/",
+      "example_char": "饭",
+      "example_meaning": "ryż"
+    },
+    {
+      "pinyin": "fen",
+      "initial": "f",
+      "final": "en",
+      "tone_marks": "fēn fén fěn fèn",
+      "category": "Początkowa F",
+      "ipa": "/fən/",
+      "example_char": "分",
+      "example_meaning": "dzielić"
+    },
+    {
+      "pinyin": "fang",
+      "initial": "f",
+      "final": "ang",
+      "tone_marks": "fāng fáng fǎng fàng",
+      "category": "Początkowa F",
+      "ipa": "/faŋ/",
+      "example_char": "房",
+      "example_meaning": "dom"
+    },
+    {
+      "pinyin": "feng",
+      "initial": "f",
+      "final": "eng",
+      "tone_marks": "fēng féng fěng fèng",
+      "category": "Początkowa F",
+      "ipa": "/fəŋ/",
+      "example_char": "风",
+      "example_meaning": "wiatr"
+    },
+    {
+      "pinyin": "fu",
+      "initial": "f",
+      "final": "u",
+      "tone_marks": "fū fú fǔ fù",
+      "category": "Początkowa F",
+      "ipa": "/fu/",
+      "example_char": "福",
+      "example_meaning": "błogosławieństwo"
+    },
+    {
+      "pinyin": "da",
+      "initial": "d",
+      "final": "a",
+      "tone_marks": "dā dá dǎ dà",
+      "category": "Początkowa D",
+      "ipa": "/ta/",
+      "example_char": "大",
+      "example_meaning": "duży"
+    },
+    {
+      "pinyin": "de",
+      "initial": "d",
+      "final": "e",
+      "tone_marks": "dē dé děi dè",
+      "category": "Początkowa D",
+      "ipa": "/tə/",
+      "example_char": "的",
+      "example_meaning": "z"
+    },
+    {
+      "pinyin": "dai",
+      "initial": "d",
+      "final": "ai",
+      "tone_marks": "dāi dái dǎi dài",
+      "category": "Początkowa D",
+      "ipa": "/tai/",
+      "example_char": "带",
+      "example_meaning": "przynieść"
+    },
+    {
+      "pinyin": "dei",
+      "initial": "d",
+      "final": "ei",
+      "tone_marks": "dēi déi děi dèi",
+      "category": "Początkowa D",
+      "ipa": "/tei/",
+      "example_char": "得",
+      "example_meaning": "musieć"
+    },
+    {
+      "pinyin": "dao",
+      "initial": "d",
+      "final": "ao",
+      "tone_marks": "dāo dáo dǎo dào",
+      "category": "Inicjał D",
+      "ipa": "/tau/",
+      "example_char": "到",
+      "example_meaning": "przybyć"
+    },
+    {
+      "pinyin": "dou",
+      "initial": "d",
+      "final": "ou",
+      "tone_marks": "dōu dóu dǒu dòu",
+      "category": "Inicjał D",
+      "ipa": "/tou/",
+      "example_char": "都",
+      "example_meaning": "wszystko"
+    },
+    {
+      "pinyin": "dan",
+      "initial": "d",
+      "final": "an",
+      "tone_marks": "dān dán dǎn dàn",
+      "category": "Inicjał D",
+      "ipa": "/tan/",
+      "example_char": "但",
+      "example_meaning": "ale"
+    },
+    {
+      "pinyin": "dang",
+      "initial": "d",
+      "final": "ang",
+      "tone_marks": "dāng dáng dǎng dàng",
+      "category": "Inicjał D",
+      "ipa": "/taŋ/",
+      "example_char": "当",
+      "example_meaning": "kiedy"
+    },
+    {
+      "pinyin": "deng",
+      "initial": "d",
+      "final": "eng",
+      "tone_marks": "dēng déng děng dèng",
+      "category": "Inicjał D",
+      "ipa": "/təŋ/",
+      "example_char": "等",
+      "example_meaning": "czekać"
+    },
+    {
+      "pinyin": "dong",
+      "initial": "d",
+      "final": "ong",
+      "tone_marks": "dōng dóng dǒng dòng",
+      "category": "Inicjał D",
+      "ipa": "/tʊŋ/",
+      "example_char": "东",
+      "example_meaning": "wschód"
+    },
+    {
+      "pinyin": "di",
+      "initial": "d",
+      "final": "i",
+      "tone_marks": "dī dí dǐ dì",
+      "category": "Inicjał D",
+      "ipa": "/ti/",
+      "example_char": "地",
+      "example_meaning": "ziemia"
+    },
+    {
+      "pinyin": "die",
+      "initial": "d",
+      "final": "ie",
+      "tone_marks": "diē dié diě diè",
+      "category": "Inicjał D",
+      "ipa": "/tie/",
+      "example_char": "爹",
+      "example_meaning": "tata"
+    },
+    {
+      "pinyin": "diao",
+      "initial": "d",
+      "final": "iao",
+      "tone_marks": "diāo diáo diǎo diào",
+      "category": "Inicjał D",
+      "ipa": "/tiau/",
+      "example_char": "调",
+      "example_meaning": "dostosować"
+    },
+    {
+      "pinyin": "diu",
+      "initial": "d",
+      "final": "iu",
+      "tone_marks": "diū diú diǔ diù",
+      "category": "Inicjał D",
+      "ipa": "/tiou/",
+      "example_char": "丢",
+      "example_meaning": "stracić"
+    },
+    {
+      "pinyin": "dian",
+      "initial": "d",
+      "final": "ian",
+      "tone_marks": "diān dián diǎn diàn",
+      "category": "Inicjał D",
+      "ipa": "/tien/",
+      "example_char": "点",
+      "example_meaning": "punkt"
+    },
+    {
+      "pinyin": "ding",
+      "initial": "d",
+      "final": "ing",
+      "tone_marks": "dīng díng dǐng dìng",
+      "category": "Inicjał D",
+      "ipa": "/tiŋ/",
+      "example_char": "定",
+      "example_meaning": "stały"
+    },
+    {
+      "pinyin": "du",
+      "initial": "d",
+      "final": "u",
+      "tone_marks": "dū dú dǔ dù",
+      "category": "Inicjał D",
+      "ipa": "/tu/",
+      "example_char": "度",
+      "example_meaning": "stopień"
+    },
+    {
+      "pinyin": "duo",
+      "initial": "d",
+      "final": "uo",
+      "tone_marks": "duō duó duǒ duò",
+      "category": "Inicjał D",
+      "ipa": "/tuo/",
+      "example_char": "多",
+      "example_meaning": "wiele"
+    },
+    {
+      "pinyin": "dui",
+      "initial": "d",
+      "final": "ui",
+      "tone_marks": "duī duí duǐ duì",
+      "category": "Inicjał D",
+      "ipa": "/tuei/",
+      "example_char": "对",
+      "example_meaning": "poprawne"
+    },
+    {
+      "pinyin": "duan",
+      "initial": "d",
+      "final": "uan",
+      "tone_marks": "duān duán duǎn duàn",
+      "category": "Inicjał D",
+      "ipa": "/tuan/",
+      "example_char": "短",
+      "example_meaning": "krótki"
+    },
+    {
+      "pinyin": "dun",
+      "initial": "d",
+      "final": "un",
+      "tone_marks": "dūn dún dǔn dùn",
+      "category": "Inicjał D",
+      "ipa": "/tuən/",
+      "example_char": "顿",
+      "example_meaning": "pauza"
+    },
+    {
+      "pinyin": "ta",
+      "initial": "t",
+      "final": "a",
+      "tone_marks": "tā tá tǎ tà",
+      "category": "Inicjał T",
+      "ipa": "/tʰa/",
+      "example_char": "他",
+      "example_meaning": "on"
+    },
+    {
+      "pinyin": "te",
+      "initial": "t",
+      "final": "e",
+      "tone_marks": "tē té tě tè",
+      "category": "Inicjał T",
+      "ipa": "/tʰə/",
+      "example_char": "特",
+      "example_meaning": "specjalny"
+    },
+    {
+      "pinyin": "tai",
+      "initial": "t",
+      "final": "ai",
+      "tone_marks": "tāi tái tǎi tài",
+      "category": "Inicjał T",
+      "ipa": "/tʰai/",
+      "example_char": "太",
+      "example_meaning": "też"
+    },
+    {
+      "pinyin": "tao",
+      "initial": "t",
+      "final": "ao",
+      "tone_marks": "tāo táo tǎo tào",
+      "category": "T-początkowe",
+      "ipa": "/tʰau/",
+      "example_char": "套",
+      "example_meaning": "zestaw"
+    },
+    {
+      "pinyin": "tou",
+      "initial": "t",
+      "final": "ou",
+      "tone_marks": "tōu tóu tǒu tòu",
+      "category": "T-początkowe",
+      "ipa": "/tʰou/",
+      "example_char": "头",
+      "example_meaning": "głowa"
+    },
+    {
+      "pinyin": "tan",
+      "initial": "t",
+      "final": "an",
+      "tone_marks": "tān tán tǎn tàn",
+      "category": "T-początkowe",
+      "ipa": "/tʰan/",
+      "example_char": "谈",
+      "example_meaning": "rozmawiać"
+    },
+    {
+      "pinyin": "tang",
+      "initial": "t",
+      "final": "ang",
+      "tone_marks": "tāng táng tǎng tàng",
+      "category": "T-początkowe",
+      "ipa": "/tʰaŋ/",
+      "example_char": "糖",
+      "example_meaning": "cukier"
+    },
+    {
+      "pinyin": "teng",
+      "initial": "t",
+      "final": "eng",
+      "tone_marks": "tēng téng těng tèng",
+      "category": "T-początkowe",
+      "ipa": "/tʰəŋ/",
+      "example_char": "疼",
+      "example_meaning": "ból"
+    },
+    {
+      "pinyin": "tong",
+      "initial": "t",
+      "final": "ong",
+      "tone_marks": "tōng tóng tǒng tòng",
+      "category": "T-początkowe",
+      "ipa": "/tʰʊŋ/",
+      "example_char": "同",
+      "example_meaning": "taki sam"
+    },
+    {
+      "pinyin": "ti",
+      "initial": "t",
+      "final": "i",
+      "tone_marks": "tī tí tǐ tì",
+      "category": "T-początkowe",
+      "ipa": "/tʰi/",
+      "example_char": "体",
+      "example_meaning": "ciało"
+    },
+    {
+      "pinyin": "tie",
+      "initial": "t",
+      "final": "ie",
+      "tone_marks": "tiē tié tiě tiè",
+      "category": "T-początkowe",
+      "ipa": "/tʰie/",
+      "example_char": "铁",
+      "example_meaning": "żelazo"
+    },
+    {
+      "pinyin": "tiao",
+      "initial": "t",
+      "final": "iao",
+      "tone_marks": "tiāo tiáo tiǎo tiào",
+      "category": "T-początkowe",
+      "ipa": "/tʰiau/",
+      "example_char": "条",
+      "example_meaning": "pasek"
+    },
+    {
+      "pinyin": "tian",
+      "initial": "t",
+      "final": "ian",
+      "tone_marks": "tiān tián tiǎn tiàn",
+      "category": "T-początkowe",
+      "ipa": "/tʰien/",
+      "example_char": "天",
+      "example_meaning": "niebo"
+    },
+    {
+      "pinyin": "ting",
+      "initial": "t",
+      "final": "ing",
+      "tone_marks": "tīng tíng tǐng tìng",
+      "category": "T-początkowe",
+      "ipa": "/tʰiŋ/",
+      "example_char": "听",
+      "example_meaning": "słuchać"
+    },
+    {
+      "pinyin": "tu",
+      "initial": "t",
+      "final": "u",
+      "tone_marks": "tū tú tǔ tù",
+      "category": "T-początkowe",
+      "ipa": "/tʰu/",
+      "example_char": "图",
+      "example_meaning": "obrazek"
+    },
+    {
+      "pinyin": "tuo",
+      "initial": "t",
+      "final": "uo",
+      "tone_marks": "tuō tuó tuǒ tuò",
+      "category": "T-początkowe",
+      "ipa": "/tʰuo/",
+      "example_char": "拖",
+      "example_meaning": "ciągnąć"
+    },
+    {
+      "pinyin": "tui",
+      "initial": "t",
+      "final": "ui",
+      "tone_marks": "tuī tuí tuǐ tuì",
+      "category": "T-początkowe",
+      "ipa": "/tʰuei/",
+      "example_char": "推",
+      "example_meaning": "pchać"
+    },
+    {
+      "pinyin": "tuan",
+      "initial": "t",
+      "final": "uan",
+      "tone_marks": "tuān tuán tuǎn tuàn",
+      "category": "T-początkowe",
+      "ipa": "/tʰuan/",
+      "example_char": "团",
+      "example_meaning": "grupa"
+    },
+    {
+      "pinyin": "tun",
+      "initial": "t",
+      "final": "un",
+      "tone_marks": "tūn tún tǔn tùn",
+      "category": "T-początkowe",
+      "ipa": "/tʰuən/",
+      "example_char": "吞",
+      "example_meaning": "połykać"
+    },
+    {
+      "pinyin": "na",
+      "initial": "n",
+      "final": "a",
+      "tone_marks": "nā ná nǎ nà",
+      "category": "N-początkowe",
+      "ipa": "/na/",
+      "example_char": "那",
+      "example_meaning": "ten"
+    },
+    {
+      "pinyin": "ne",
+      "initial": "n",
+      "final": "e",
+      "tone_marks": "nē né něi nè",
+      "category": "N-początkowe",
+      "ipa": "/nə/",
+      "example_char": "呢",
+      "example_meaning": "cząstka"
+    },
+    {
+      "pinyin": "nai",
+      "initial": "n",
+      "final": "ai",
+      "tone_marks": "nāi nái nǎi nài",
+      "category": "N-początkowe",
+      "ipa": "/nai/",
+      "example_char": "奶",
+      "example_meaning": "mleko"
+    },
+    {
+      "pinyin": "nei",
+      "initial": "n",
+      "final": "ei",
+      "tone_marks": "nēi néi něi nèi",
+      "category": "N-początkowe",
+      "ipa": "/nei/",
+      "example_char": "内",
+      "example_meaning": "w środku"
+    },
+    {
+      "pinyin": "nao",
+      "initial": "n",
+      "final": "ao",
+      "tone_marks": "nāo náo nǎo nào",
+      "category": "Nagłosowe N",
+      "ipa": "/nau/",
+      "example_char": "脑",
+      "example_meaning": "mózg"
+    },
+    {
+      "pinyin": "nou",
+      "initial": "n",
+      "final": "ou",
+      "tone_marks": "nōu nóu nǒu nòu",
+      "category": "Nagłosowe N",
+      "ipa": "/nou/",
+      "example_char": "耨",
+      "example_meaning": "motyka"
+    },
+    {
+      "pinyin": "nan",
+      "initial": "n",
+      "final": "an",
+      "tone_marks": "nān nán nǎn nàn",
+      "category": "Nagłosowe N",
+      "ipa": "/nan/",
+      "example_char": "南",
+      "example_meaning": "południe"
+    },
+    {
+      "pinyin": "nen",
+      "initial": "n",
+      "final": "en",
+      "tone_marks": "nēn nén něn nèn",
+      "category": "Nagłosowe N",
+      "ipa": "/nən/",
+      "example_char": "嫩",
+      "example_meaning": "delikatny"
+    },
+    {
+      "pinyin": "nang",
+      "initial": "n",
+      "final": "ang",
+      "tone_marks": "nāng náng nǎng nàng",
+      "category": "Nagłosowe N",
+      "ipa": "/naŋ/",
+      "example_char": "囊",
+      "example_meaning": "torba"
+    },
+    {
+      "pinyin": "neng",
+      "initial": "n",
+      "final": "eng",
+      "tone_marks": "nēng néng něng nèng",
+      "category": "Nagłosowe N",
+      "ipa": "/nəŋ/",
+      "example_char": "能",
+      "example_meaning": "puszka"
+    },
+    {
+      "pinyin": "nong",
+      "initial": "n",
+      "final": "ong",
+      "tone_marks": "nōng nóng nǒng nòng",
+      "category": "Nagłosowe N",
+      "ipa": "/nʊŋ/",
+      "example_char": "农",
+      "example_meaning": "farma"
+    },
+    {
+      "pinyin": "ni",
+      "initial": "n",
+      "final": "i",
+      "tone_marks": "nī ní nǐ nì",
+      "category": "Nagłosowe N",
+      "ipa": "/ni/",
+      "example_char": "你",
+      "example_meaning": "ty"
+    },
+    {
+      "pinyin": "nie",
+      "initial": "n",
+      "final": "ie",
+      "tone_marks": "niē nié niě niè",
+      "category": "Nagłosowe N",
+      "ipa": "/nie/",
+      "example_char": "捏",
+      "example_meaning": "szczypać"
+    },
+    {
+      "pinyin": "niao",
+      "initial": "n",
+      "final": "iao",
+      "tone_marks": "niāo niáo niǎo niào",
+      "category": "Nagłosowe N",
+      "ipa": "/niau/",
+      "example_char": "鸟",
+      "example_meaning": "ptak"
+    },
+    {
+      "pinyin": "niu",
+      "initial": "n",
+      "final": "iu",
+      "tone_marks": "niū niú niǔ niù",
+      "category": "Nagłosowe N",
+      "ipa": "/niou/",
+      "example_char": "牛",
+      "example_meaning": "krowa"
+    },
+    {
+      "pinyin": "nian",
+      "initial": "n",
+      "final": "ian",
+      "tone_marks": "niān nián niǎn niàn",
+      "category": "Nagłosowe N",
+      "ipa": "/nien/",
+      "example_char": "年",
+      "example_meaning": "rok"
+    },
+    {
+      "pinyin": "nin",
+      "initial": "n",
+      "final": "in",
+      "tone_marks": "nīn nín nǐn nìn",
+      "category": "Nagłosowe N",
+      "ipa": "/nin/",
+      "example_char": "您",
+      "example_meaning": "Pan/Pani"
+    },
+    {
+      "pinyin": "niang",
+      "initial": "n",
+      "final": "iang",
+      "tone_marks": "niāng niáng niǎng niàng",
+      "category": "Nagłosowe N",
+      "ipa": "/niaŋ/",
+      "example_char": "娘",
+      "example_meaning": "matka"
+    },
+    {
+      "pinyin": "ning",
+      "initial": "n",
+      "final": "ing",
+      "tone_marks": "nīng níng nǐng nìng",
+      "category": "Nagłosowe N",
+      "ipa": "/niŋ/",
+      "example_char": "宁",
+      "example_meaning": "pokój"
+    },
+    {
+      "pinyin": "nu",
+      "initial": "n",
+      "final": "u",
+      "tone_marks": "nū nú nǔ nù",
+      "category": "Nagłosowe N",
+      "ipa": "/nu/",
+      "example_char": "女",
+      "example_meaning": "kobieta"
+    },
+    {
+      "pinyin": "nuo",
+      "initial": "n",
+      "final": "uo",
+      "tone_marks": "nuō nuó nuǒ nuò",
+      "category": "Nagłosowe N",
+      "ipa": "/nuo/",
+      "example_char": "诺",
+      "example_meaning": "obietnica"
+    },
+    {
+      "pinyin": "nuan",
+      "initial": "n",
+      "final": "uan",
+      "tone_marks": "nuān nuán nuǎn nuàn",
+      "category": "Nagłosowe N",
+      "ipa": "/nuan/",
+      "example_char": "暖",
+      "example_meaning": "ciepły"
+    },
+    {
+      "pinyin": "nü",
+      "initial": "n",
+      "final": "ü",
+      "tone_marks": "nǖ nǘ nǚ nǜ",
+      "category": "Nagłosowe N",
+      "ipa": "/ny/",
+      "example_char": "女",
+      "example_meaning": "kobieta"
+    },
+    {
+      "pinyin": "nüe",
+      "initial": "n",
+      "final": "üe",
+      "tone_marks": "nüē nüé nüě nüè",
+      "category": "Nagłosowe N",
+      "ipa": "/nye/",
+      "example_char": "虐",
+      "example_meaning": "nadużycie"
+    },
+    {
+      "pinyin": "la",
+      "initial": "l",
+      "final": "a",
+      "tone_marks": "lā lá lǎ là",
+      "category": "Nagłosowe L",
+      "ipa": "/la/",
+      "example_char": "拉",
+      "example_meaning": "ciągnąć"
+    },
+    {
+      "pinyin": "le",
+      "initial": "l",
+      "final": "e",
+      "tone_marks": "lē lé lě lè",
+      "category": "Nagłosowe L",
+      "ipa": "/lə/",
+      "example_char": "了",
+      "example_meaning": "cząstka"
+    },
+    {
+      "pinyin": "lai",
+      "initial": "l",
+      "final": "ai",
+      "tone_marks": "lāi lái lǎi lài",
+      "category": "Nagłosowe L",
+      "ipa": "/lai/",
+      "example_char": "来",
+      "example_meaning": "przyjść"
+    },
+    {
+      "pinyin": "lei",
+      "initial": "l",
+      "final": "ei",
+      "tone_marks": "lēi léi lěi lèi",
+      "category": "Nagłosowe L",
+      "ipa": "/lei/",
+      "example_char": "累",
+      "example_meaning": "zmęczony"
+    },
+    {
+      "pinyin": "lao",
+      "initial": "l",
+      "final": "ao",
+      "tone_marks": "lāo láo lǎo lào",
+      "category": "Nagłosowe L",
+      "ipa": "/lau/",
+      "example_char": "老",
+      "example_meaning": "stary"
+    },
+    {
+      "pinyin": "lou",
+      "initial": "l",
+      "final": "ou",
+      "tone_marks": "lōu lóu lǒu lòu",
+      "category": "Nagłosowe L",
+      "ipa": "/lou/",
+      "example_char": "楼",
+      "example_meaning": "budynek"
+    },
+    {
+      "pinyin": "lan",
+      "initial": "l",
+      "final": "an",
+      "tone_marks": "lān lán lǎn làn",
+      "category": "Nagłosowe L",
+      "ipa": "/lan/",
+      "example_char": "蓝",
+      "example_meaning": "niebieski"
+    },
+    {
+      "pinyin": "lang",
+      "initial": "l",
+      "final": "ang",
+      "tone_marks": "lāng láng lǎng làng",
+      "category": "Nagłosowe L",
+      "ipa": "/laŋ/",
+      "example_char": "浪",
+      "example_meaning": "fala"
+    },
+    {
+      "pinyin": "leng",
+      "initial": "l",
+      "final": "eng",
+      "tone_marks": "lēng léng lěng lèng",
+      "category": "Nagłosowe L",
+      "ipa": "/ləŋ/",
+      "example_char": "冷",
+      "example_meaning": "zimno"
+    },
+    {
+      "pinyin": "long",
+      "initial": "l",
+      "final": "ong",
+      "tone_marks": "lōng lóng lǒng lòng",
+      "category": "Nagłosowe L",
+      "ipa": "/lʊŋ/",
+      "example_char": "龙",
+      "example_meaning": "smok"
+    },
+    {
+      "pinyin": "li",
+      "initial": "l",
+      "final": "i",
+      "tone_marks": "lī lí lǐ lì",
+      "category": "Nagłosowe L",
+      "ipa": "/li/",
+      "example_char": "里",
+      "example_meaning": "w środku"
+    },
+    {
+      "pinyin": "lia",
+      "initial": "l",
+      "final": "ia",
+      "tone_marks": "liā liá liǎ lià",
+      "category": "Nagłosowe L",
+      "ipa": "/lia/",
+      "example_char": "俩",
+      "example_meaning": "dwa"
+    },
+    {
+      "pinyin": "lie",
+      "initial": "l",
+      "final": "ie",
+      "tone_marks": "liē lié liě liè",
+      "category": "Nagłosowe L",
+      "ipa": "/lie/",
+      "example_char": "列",
+      "example_meaning": "rząd"
+    },
+    {
+      "pinyin": "liao",
+      "initial": "l",
+      "final": "iao",
+      "tone_marks": "liāo liáo liǎo liào",
+      "category": "Nagłosowe L",
+      "ipa": "/liau/",
+      "example_char": "了",
+      "example_meaning": "skończyć"
+    },
+    {
+      "pinyin": "liu",
+      "initial": "l",
+      "final": "iu",
+      "tone_marks": "liū liú liǔ liù",
+      "category": "Nagłosowe L",
+      "ipa": "/liou/",
+      "example_char": "六",
+      "example_meaning": "sześć"
+    },
+    {
+      "pinyin": "lian",
+      "initial": "l",
+      "final": "ian",
+      "tone_marks": "liān lián liǎn liàn",
+      "category": "Nagłosowe L",
+      "ipa": "/lien/",
+      "example_char": "联",
+      "example_meaning": "połączyć"
+    },
+    {
+      "pinyin": "lin",
+      "initial": "l",
+      "final": "in",
+      "tone_marks": "līn lín lǐn lìn",
+      "category": "Nagłosowe L",
+      "ipa": "/lin/",
+      "example_char": "林",
+      "example_meaning": "las"
+    },
+    {
+      "pinyin": "liang",
+      "initial": "l",
+      "final": "iang",
+      "tone_marks": "liāng liáng liǎng liàng",
+      "category": "Nagłosowe L",
+      "ipa": "/liaŋ/",
+      "example_char": "两",
+      "example_meaning": "dwa"
+    },
+    {
+      "pinyin": "ling",
+      "initial": "l",
+      "final": "ing",
+      "tone_marks": "līng líng lǐng lìng",
+      "category": "Nagłosowe L",
+      "ipa": "/liŋ/",
+      "example_char": "零",
+      "example_meaning": "zero"
+    },
+    {
+      "pinyin": "lu",
+      "initial": "l",
+      "final": "u",
+      "tone_marks": "lū lú lǔ lù",
+      "category": "Nagłosowe L",
+      "ipa": "/lu/",
+      "example_char": "路",
+      "example_meaning": "droga"
+    },
+    {
+      "pinyin": "luo",
+      "initial": "l",
+      "final": "uo",
+      "tone_marks": "luō luó luǒ luò",
+      "category": "Nagłosowe L",
+      "ipa": "/luo/",
+      "example_char": "落",
+      "example_meaning": "spadać"
+    },
+    {
+      "pinyin": "luan",
+      "initial": "l",
+      "final": "uan",
+      "tone_marks": "luān luán luǎn luàn",
+      "category": "Nagłosowe L",
+      "ipa": "/luan/",
+      "example_char": "乱",
+      "example_meaning": "chaos"
+    },
+    {
+      "pinyin": "lun",
+      "initial": "l",
+      "final": "un",
+      "tone_marks": "lūn lún lǔn lùn",
+      "category": "Nagłosowe L",
+      "ipa": "/luən/",
+      "example_char": "论",
+      "example_meaning": "teoria"
+    },
+    {
+      "pinyin": "lü",
+      "initial": "l",
+      "final": "ü",
+      "tone_marks": "lǖ lǘ lǚ lǜ",
+      "category": "Nagłosowe L",
+      "ipa": "/ly/",
+      "example_char": "绿",
+      "example_meaning": "zielony"
+    },
+    {
+      "pinyin": "lüe",
+      "initial": "l",
+      "final": "üe",
+      "tone_marks": "lüē lüé lüě lüè",
+      "category": "Nagłosowe L",
+      "ipa": "/lye/",
+      "example_char": "略",
+      "example_meaning": "krótki"
+    },
+    {
+      "pinyin": "ga",
+      "initial": "g",
+      "final": "a",
+      "tone_marks": "gā gá gǎ gà",
+      "category": "Nagłosowe G",
+      "ipa": "/ka/",
+      "example_char": "嘎",
+      "example_meaning": "kwa kwa"
+    },
+    {
+      "pinyin": "ge",
+      "initial": "g",
+      "final": "e",
+      "tone_marks": "gē gé gě gè",
+      "category": "Nagłosowe G",
+      "ipa": "/kə/",
+      "example_char": "个",
+      "example_meaning": "klasyfikator"
+    },
+    {
+      "pinyin": "gai",
+      "initial": "g",
+      "final": "ai",
+      "tone_marks": "gāi gái gǎi gài",
+      "category": "Nagłosowe G",
+      "ipa": "/kai/",
+      "example_char": "该",
+      "example_meaning": "powinien"
+    },
+    {
+      "pinyin": "gei",
+      "initial": "g",
+      "final": "ei",
+      "tone_marks": "gēi géi gěi gèi",
+      "category": "Nagłosowe G",
+      "ipa": "/kei/",
+      "example_char": "给",
+      "example_meaning": "dawać"
+    },
+    {
+      "pinyin": "gao",
+      "initial": "g",
+      "final": "ao",
+      "tone_marks": "gāo gáo gǎo gào",
+      "category": "Nagłosowe G",
+      "ipa": "/kau/",
+      "example_char": "高",
+      "example_meaning": "wysoki"
+    },
+    {
+      "pinyin": "gou",
+      "initial": "g",
+      "final": "ou",
+      "tone_marks": "gōu góu gǒu gòu",
+      "category": "Nagłosowe G",
+      "ipa": "/kou/",
+      "example_char": "狗",
+      "example_meaning": "pies"
+    },
+    {
+      "pinyin": "gan",
+      "initial": "g",
+      "final": "an",
+      "tone_marks": "gān gán gǎn gàn",
+      "category": "Nagłosowe G",
+      "ipa": "/kan/",
+      "example_char": "干",
+      "example_meaning": "robić"
+    },
+    {
+      "pinyin": "gen",
+      "initial": "g",
+      "final": "en",
+      "tone_marks": "gēn gén gěn gèn",
+      "category": "Nagłosowe G",
+      "ipa": "/kən/",
+      "example_char": "跟",
+      "example_meaning": "z"
+    },
+    {
+      "pinyin": "gang",
+      "initial": "g",
+      "final": "ang",
+      "tone_marks": "gāng gáng gǎng gàng",
+      "category": "Nagłosowe G",
+      "ipa": "/kaŋ/",
+      "example_char": "刚",
+      "example_meaning": "tylko"
+    },
+    {
+      "pinyin": "geng",
+      "initial": "g",
+      "final": "eng",
+      "tone_marks": "gēng géng gěng gèng",
+      "category": "Nagłosowe G",
+      "ipa": "/kəŋ/",
+      "example_char": "更",
+      "example_meaning": "więcej"
+    },
+    {
+      "pinyin": "gong",
+      "initial": "g",
+      "final": "ong",
+      "tone_marks": "gōng góng gǒng gòng",
+      "category": "Nagłosowe G",
+      "ipa": "/kʊŋ/",
+      "example_char": "工",
+      "example_meaning": "praca"
+    },
+    {
+      "pinyin": "gu",
+      "initial": "g",
+      "final": "u",
+      "tone_marks": "gū gú gǔ gù",
+      "category": "Nagłosowe G",
+      "ipa": "/ku/",
+      "example_char": "古",
+      "example_meaning": "starożytny"
+    },
+    {
+      "pinyin": "gua",
+      "initial": "g",
+      "final": "ua",
+      "tone_marks": "guā guá guǎ guà",
+      "category": "Nagłosowe G",
+      "ipa": "/kua/",
+      "example_char": "瓜",
+      "example_meaning": "melon"
+    },
+    {
+      "pinyin": "guo",
+      "initial": "g",
+      "final": "uo",
+      "tone_marks": "guō guó guǒ guò",
+      "category": "Nagłosowe G",
+      "ipa": "/kuo/",
+      "example_char": "国",
+      "example_meaning": "kraj"
+    },
+    {
+      "pinyin": "guai",
+      "initial": "g",
+      "final": "uai",
+      "tone_marks": "guāi guái guǎi guài",
+      "category": "Nagłosowe G",
+      "ipa": "/kuai/",
+      "example_char": "怪",
+      "example_meaning": "dziwny"
+    },
+    {
+      "pinyin": "gui",
+      "initial": "g",
+      "final": "ui",
+      "tone_marks": "guī guí guǐ guì",
+      "category": "G-początkowe",
+      "ipa": "/kuei/",
+      "example_char": "贵",
+      "example_meaning": "drogi"
+    },
+    {
+      "pinyin": "guan",
+      "initial": "g",
+      "final": "uan",
+      "tone_marks": "guān guán guǎn guàn",
+      "category": "G-początkowe",
+      "ipa": "/kuan/",
+      "example_char": "关",
+      "example_meaning": "blisko"
+    },
+    {
+      "pinyin": "gun",
+      "initial": "g",
+      "final": "un",
+      "tone_marks": "gūn gún gǔn gùn",
+      "category": "G-początkowe",
+      "ipa": "/kuən/",
+      "example_char": "滚",
+      "example_meaning": "rolka"
+    },
+    {
+      "pinyin": "guang",
+      "initial": "g",
+      "final": "uang",
+      "tone_marks": "guāng guáng guǎng guàng",
+      "category": "G-początkowe",
+      "ipa": "/kuaŋ/",
+      "example_char": "光",
+      "example_meaning": "lekki"
+    },
+    {
+      "pinyin": "ka",
+      "initial": "k",
+      "final": "a",
+      "tone_marks": "kā ká kǎ kà",
+      "category": "K-początkowe",
+      "ipa": "/kʰa/",
+      "example_char": "卡",
+      "example_meaning": "karta"
+    },
+    {
+      "pinyin": "ke",
+      "initial": "k",
+      "final": "e",
+      "tone_marks": "kē ké kě kè",
+      "category": "K-początkowe",
+      "ipa": "/kʰə/",
+      "example_char": "可",
+      "example_meaning": "móc"
+    },
+    {
+      "pinyin": "kai",
+      "initial": "k",
+      "final": "ai",
+      "tone_marks": "kāi kái kǎi kài",
+      "category": "K-początkowe",
+      "ipa": "/kʰai/",
+      "example_char": "开",
+      "example_meaning": "otwarty"
+    },
+    {
+      "pinyin": "kao",
+      "initial": "k",
+      "final": "ao",
+      "tone_marks": "kāo káo kǎo kào",
+      "category": "K-początkowe",
+      "ipa": "/kʰau/",
+      "example_char": "考",
+      "example_meaning": "test"
+    },
+    {
+      "pinyin": "kou",
+      "initial": "k",
+      "final": "ou",
+      "tone_marks": "kōu kóu kǒu kòu",
+      "category": "K-początkowe",
+      "ipa": "/kʰou/",
+      "example_char": "口",
+      "example_meaning": "usta"
+    },
+    {
+      "pinyin": "kan",
+      "initial": "k",
+      "final": "an",
+      "tone_marks": "kān kán kǎn kàn",
+      "category": "K-początkowe",
+      "ipa": "/kʰan/",
+      "example_char": "看",
+      "example_meaning": "widzieć"
+    },
+    {
+      "pinyin": "ken",
+      "initial": "k",
+      "final": "en",
+      "tone_marks": "kēn kén kěn kèn",
+      "category": "K-początkowe",
+      "ipa": "/kʰən/",
+      "example_char": "肯",
+      "example_meaning": "chętny"
+    },
+    {
+      "pinyin": "kang",
+      "initial": "k",
+      "final": "ang",
+      "tone_marks": "kāng káng kǎng kàng",
+      "category": "K-początkowe",
+      "ipa": "/kʰaŋ/",
+      "example_char": "康",
+      "example_meaning": "zdrowie"
+    },
+    {
+      "pinyin": "keng",
+      "initial": "k",
+      "final": "eng",
+      "tone_marks": "kēng kéng kěng kèng",
+      "category": "K-początkowe",
+      "ipa": "/kʰəŋ/",
+      "example_char": "坑",
+      "example_meaning": "dół"
+    },
+    {
+      "pinyin": "kong",
+      "initial": "k",
+      "final": "ong",
+      "tone_marks": "kōng kóng kǒng kòng",
+      "category": "K-początkowe",
+      "ipa": "/kʰʊŋ/",
+      "example_char": "空",
+      "example_meaning": "pusty"
+    },
+    {
+      "pinyin": "ku",
+      "initial": "k",
+      "final": "u",
+      "tone_marks": "kū kú kǔ kù",
+      "category": "K-początkowe",
+      "ipa": "/kʰu/",
+      "example_char": "苦",
+      "example_meaning": "gorzki"
+    },
+    {
+      "pinyin": "kua",
+      "initial": "k",
+      "final": "ua",
+      "tone_marks": "kuā kuá kuǎ kuà",
+      "category": "K-początkowe",
+      "ipa": "/kʰua/",
+      "example_char": "夸",
+      "example_meaning": "chwalić się"
+    },
+    {
+      "pinyin": "kuo",
+      "initial": "k",
+      "final": "uo",
+      "tone_marks": "kuō kuó kuǒ kuò",
+      "category": "K-początkowe",
+      "ipa": "/kʰuo/",
+      "example_char": "阔",
+      "example_meaning": "szeroki"
+    },
+    {
+      "pinyin": "kuai",
+      "initial": "k",
+      "final": "uai",
+      "tone_marks": "kuāi kuái kuǎi kuài",
+      "category": "K-początkowe",
+      "ipa": "/kʰuai/",
+      "example_char": "快",
+      "example_meaning": "szybki"
+    },
+    {
+      "pinyin": "kui",
+      "initial": "k",
+      "final": "ui",
+      "tone_marks": "kuī kuí kuǐ kuì",
+      "category": "K-początkowe",
+      "ipa": "/kʰuei/",
+      "example_char": "亏",
+      "example_meaning": "stracić"
+    },
+    {
+      "pinyin": "kuan",
+      "initial": "k",
+      "final": "uan",
+      "tone_marks": "kuān kuán kuǎn kuàn",
+      "category": "K-początkowe",
+      "ipa": "/kʰuan/",
+      "example_char": "宽",
+      "example_meaning": "szeroki"
+    },
+    {
+      "pinyin": "kun",
+      "initial": "k",
+      "final": "un",
+      "tone_marks": "kūn kún kǔn kùn",
+      "category": "K-początkowy",
+      "ipa": "/kʰuən/",
+      "example_char": "困",
+      "example_meaning": "śpiący"
+    },
+    {
+      "pinyin": "kuang",
+      "initial": "k",
+      "final": "uang",
+      "tone_marks": "kuāng kuáng kuǎng kuàng",
+      "category": "K-początkowy",
+      "ipa": "/kʰuaŋ/",
+      "example_char": "狂",
+      "example_meaning": "szalony"
+    },
+    {
+      "pinyin": "ha",
+      "initial": "h",
+      "final": "a",
+      "tone_marks": "hā há hǎ hà",
+      "category": "H-początkowy",
+      "ipa": "/xa/",
+      "example_char": "哈",
+      "example_meaning": "ha"
+    },
+    {
+      "pinyin": "he",
+      "initial": "h",
+      "final": "e",
+      "tone_marks": "hē hé hě hè",
+      "category": "H-początkowy",
+      "ipa": "/xə/",
+      "example_char": "和",
+      "example_meaning": "i"
+    },
+    {
+      "pinyin": "hai",
+      "initial": "h",
+      "final": "ai",
+      "tone_marks": "hāi hái hǎi hài",
+      "category": "H-początkowy",
+      "ipa": "/xai/",
+      "example_char": "海",
+      "example_meaning": "morze"
+    },
+    {
+      "pinyin": "hei",
+      "initial": "h",
+      "final": "ei",
+      "tone_marks": "hēi héi hěi hèi",
+      "category": "H-początkowy",
+      "ipa": "/xei/",
+      "example_char": "黑",
+      "example_meaning": "czarny"
+    },
+    {
+      "pinyin": "hao",
+      "initial": "h",
+      "final": "ao",
+      "tone_marks": "hāo háo hǎo hào",
+      "category": "H-początkowy",
+      "ipa": "/xau/",
+      "example_char": "好",
+      "example_meaning": "dobry"
+    },
+    {
+      "pinyin": "hou",
+      "initial": "h",
+      "final": "ou",
+      "tone_marks": "hōu hóu hǒu hòu",
+      "category": "H-początkowy",
+      "ipa": "/xou/",
+      "example_char": "后",
+      "example_meaning": "po"
+    },
+    {
+      "pinyin": "han",
+      "initial": "h",
+      "final": "an",
+      "tone_marks": "hān hán hǎn hàn",
+      "category": "H-początkowy",
+      "ipa": "/xan/",
+      "example_char": "汉",
+      "example_meaning": "Han"
+    },
+    {
+      "pinyin": "hen",
+      "initial": "h",
+      "final": "en",
+      "tone_marks": "hēn hén hěn hèn",
+      "category": "H-początkowy",
+      "ipa": "/xən/",
+      "example_char": "很",
+      "example_meaning": "bardzo"
+    },
+    {
+      "pinyin": "hang",
+      "initial": "h",
+      "final": "ang",
+      "tone_marks": "hāng háng hǎng hàng",
+      "category": "H-początkowy",
+      "ipa": "/xaŋ/",
+      "example_char": "行",
+      "example_meaning": "rząd"
+    },
+    {
+      "pinyin": "heng",
+      "initial": "h",
+      "final": "eng",
+      "tone_marks": "hēng héng hěng hèng",
+      "category": "H-początkowy",
+      "ipa": "/xəŋ/",
+      "example_char": "横",
+      "example_meaning": "poziomy"
+    },
+    {
+      "pinyin": "hong",
+      "initial": "h",
+      "final": "ong",
+      "tone_marks": "hōng hóng hǒng hòng",
+      "category": "H-początkowy",
+      "ipa": "/xʊŋ/",
+      "example_char": "红",
+      "example_meaning": "czerwony"
+    },
+    {
+      "pinyin": "hu",
+      "initial": "h",
+      "final": "u",
+      "tone_marks": "hū hú hǔ hù",
+      "category": "H-początkowy",
+      "ipa": "/xu/",
+      "example_char": "湖",
+      "example_meaning": "jezioro"
+    },
+    {
+      "pinyin": "hua",
+      "initial": "h",
+      "final": "ua",
+      "tone_marks": "huā huá huǎ huà",
+      "category": "H-początkowy",
+      "ipa": "/xua/",
+      "example_char": "花",
+      "example_meaning": "kwiat"
+    },
+    {
+      "pinyin": "huo",
+      "initial": "h",
+      "final": "uo",
+      "tone_marks": "huō huó huǒ huò",
+      "category": "H-początkowy",
+      "ipa": "/xuo/",
+      "example_char": "火",
+      "example_meaning": "ogień"
+    },
+    {
+      "pinyin": "huai",
+      "initial": "h",
+      "final": "uai",
+      "tone_marks": "huāi huái huǎi huài",
+      "category": "H-początkowy",
+      "ipa": "/xuai/",
+      "example_char": "坏",
+      "example_meaning": "zły"
+    },
+    {
+      "pinyin": "hui",
+      "initial": "h",
+      "final": "ui",
+      "tone_marks": "huī huí huǐ huì",
+      "category": "H-początkowy",
+      "ipa": "/xuei/",
+      "example_char": "会",
+      "example_meaning": "móc"
+    },
+    {
+      "pinyin": "huan",
+      "initial": "h",
+      "final": "uan",
+      "tone_marks": "huān huán huǎn huàn",
+      "category": "H-początkowy",
+      "ipa": "/xuan/",
+      "example_char": "欢",
+      "example_meaning": "szczęśliwy"
+    },
+    {
+      "pinyin": "hun",
+      "initial": "h",
+      "final": "un",
+      "tone_marks": "hūn hún hǔn hùn",
+      "category": "H-początkowy",
+      "ipa": "/xuən/",
+      "example_char": "婚",
+      "example_meaning": "ożenić się"
+    },
+    {
+      "pinyin": "huang",
+      "initial": "h",
+      "final": "uang",
+      "tone_marks": "huāng huáng huǎng huàng",
+      "category": "Początkowa H",
+      "ipa": "/xuaŋ/",
+      "example_char": "黄",
+      "example_meaning": "żółty"
+    },
+    {
+      "pinyin": "ji",
+      "initial": "j",
+      "final": "i",
+      "tone_marks": "jī jí jǐ jì",
+      "category": "Początkowa J",
+      "ipa": "/tɕi/",
+      "example_char": "几",
+      "example_meaning": "ile"
+    },
+    {
+      "pinyin": "jia",
+      "initial": "j",
+      "final": "ia",
+      "tone_marks": "jiā jiá jiǎ jià",
+      "category": "Początkowa J",
+      "ipa": "/tɕia/",
+      "example_char": "家",
+      "example_meaning": "dom"
+    },
+    {
+      "pinyin": "jie",
+      "initial": "j",
+      "final": "ie",
+      "tone_marks": "jiē jié jiě jiè",
+      "category": "Początkowa J",
+      "ipa": "/tɕie/",
+      "example_char": "姐",
+      "example_meaning": "siostra"
+    },
+    {
+      "pinyin": "jiao",
+      "initial": "j",
+      "final": "iao",
+      "tone_marks": "jiāo jiáo jiǎo jiào",
+      "category": "Początkowa J",
+      "ipa": "/tɕiau/",
+      "example_char": "叫",
+      "example_meaning": "wołać"
+    },
+    {
+      "pinyin": "jiu",
+      "initial": "j",
+      "final": "iu",
+      "tone_marks": "jiū jiú jiǔ jiù",
+      "category": "Początkowa J",
+      "ipa": "/tɕiou/",
+      "example_char": "九",
+      "example_meaning": "dziewięć"
+    },
+    {
+      "pinyin": "jian",
+      "initial": "j",
+      "final": "ian",
+      "tone_marks": "jiān jián jiǎn jiàn",
+      "category": "Początkowa J",
+      "ipa": "/tɕien/",
+      "example_char": "见",
+      "example_meaning": "widzieć"
+    },
+    {
+      "pinyin": "jin",
+      "initial": "j",
+      "final": "in",
+      "tone_marks": "jīn jín jǐn jìn",
+      "category": "Początkowa J",
+      "ipa": "/tɕin/",
+      "example_char": "今",
+      "example_meaning": "dzisiaj"
+    },
+    {
+      "pinyin": "jiang",
+      "initial": "j",
+      "final": "iang",
+      "tone_marks": "jiāng jiáng jiǎng jiàng",
+      "category": "Początkowa J",
+      "ipa": "/tɕiaŋ/",
+      "example_char": "江",
+      "example_meaning": "rzeka"
+    },
+    {
+      "pinyin": "jing",
+      "initial": "j",
+      "final": "ing",
+      "tone_marks": "jīng jíng jǐng jìng",
+      "category": "Początkowa J",
+      "ipa": "/tɕiŋ/",
+      "example_char": "经",
+      "example_meaning": "przejść"
+    },
+    {
+      "pinyin": "jiong",
+      "initial": "j",
+      "final": "iong",
+      "tone_marks": "jiōng jióng jiǒng jiòng",
+      "category": "Początkowa J",
+      "ipa": "/tɕyŋ/",
+      "example_char": "窘",
+      "example_meaning": "niezręczny"
+    },
+    {
+      "pinyin": "ju",
+      "initial": "j",
+      "final": "u",
+      "tone_marks": "jū jú jǔ jù",
+      "category": "Początkowa J",
+      "ipa": "/tɕy/",
+      "example_char": "举",
+      "example_meaning": "podnosić"
+    },
+    {
+      "pinyin": "jue",
+      "initial": "j",
+      "final": "ue",
+      "tone_marks": "juē jué juě juè",
+      "category": "Początkowa J",
+      "ipa": "/tɕye/",
+      "example_char": "觉",
+      "example_meaning": "czuć"
+    },
+    {
+      "pinyin": "juan",
+      "initial": "j",
+      "final": "uan",
+      "tone_marks": "juān juán juǎn juàn",
+      "category": "Początkowa J",
+      "ipa": "/tɕyan/",
+      "example_char": "卷",
+      "example_meaning": "toczyć"
+    },
+    {
+      "pinyin": "jun",
+      "initial": "j",
+      "final": "un",
+      "tone_marks": "jūn jún jǔn jùn",
+      "category": "Początkowa J",
+      "ipa": "/tɕyn/",
+      "example_char": "军",
+      "example_meaning": "armia"
+    },
+    {
+      "pinyin": "qi",
+      "initial": "q",
+      "final": "i",
+      "tone_marks": "qī qí qǐ qì",
+      "category": "Początkowa Q",
+      "ipa": "/tɕʰi/",
+      "example_char": "七",
+      "example_meaning": "siedem"
+    },
+    {
+      "pinyin": "qia",
+      "initial": "q",
+      "final": "ia",
+      "tone_marks": "qiā qiá qiǎ qià",
+      "category": "Początkowa Q",
+      "ipa": "/tɕʰia/",
+      "example_char": "恰",
+      "example_meaning": "tylko"
+    },
+    {
+      "pinyin": "qie",
+      "initial": "q",
+      "final": "ie",
+      "tone_marks": "qiē qié qiě qiè",
+      "category": "Początkowa Q",
+      "ipa": "/tɕʰie/",
+      "example_char": "切",
+      "example_meaning": "ciąć"
+    },
+    {
+      "pinyin": "qiao",
+      "initial": "q",
+      "final": "iao",
+      "tone_marks": "qiāo qiáo qiǎo qiào",
+      "category": "Początkowa Q",
+      "ipa": "/tɕʰiau/",
+      "example_char": "桥",
+      "example_meaning": "most"
+    },
+    {
+      "pinyin": "qiu",
+      "initial": "q",
+      "final": "iu",
+      "tone_marks": "qiū qiú qiǔ qiù",
+      "category": "Początkowa Q",
+      "ipa": "/tɕʰiou/",
+      "example_char": "球",
+      "example_meaning": "piłka"
+    },
+    {
+      "pinyin": "qian",
+      "initial": "q",
+      "final": "ian",
+      "tone_marks": "qiān qián qiǎn qiàn",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰien/",
+      "example_char": "千",
+      "example_meaning": "tysiąc"
+    },
+    {
+      "pinyin": "qin",
+      "initial": "q",
+      "final": "in",
+      "tone_marks": "qīn qín qǐn qìn",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰin/",
+      "example_char": "亲",
+      "example_meaning": "rodzic"
+    },
+    {
+      "pinyin": "qiang",
+      "initial": "q",
+      "final": "iang",
+      "tone_marks": "qiāng qiáng qiǎng qiàng",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰiaŋ/",
+      "example_char": "强",
+      "example_meaning": "silny"
+    },
+    {
+      "pinyin": "qing",
+      "initial": "q",
+      "final": "ing",
+      "tone_marks": "qīng qíng qǐng qìng",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰiŋ/",
+      "example_char": "请",
+      "example_meaning": "proszę"
+    },
+    {
+      "pinyin": "qiong",
+      "initial": "q",
+      "final": "iong",
+      "tone_marks": "qiōng qióng qiǒng qiòng",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰyŋ/",
+      "example_char": "穷",
+      "example_meaning": "biedny"
+    },
+    {
+      "pinyin": "qu",
+      "initial": "q",
+      "final": "u",
+      "tone_marks": "qū qú qǔ qù",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰy/",
+      "example_char": "去",
+      "example_meaning": "iść"
+    },
+    {
+      "pinyin": "que",
+      "initial": "q",
+      "final": "ue",
+      "tone_marks": "quē qué quě què",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰye/",
+      "example_char": "却",
+      "example_meaning": "ale"
+    },
+    {
+      "pinyin": "quan",
+      "initial": "q",
+      "final": "uan",
+      "tone_marks": "quān quán quǎn quàn",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰyan/",
+      "example_char": "全",
+      "example_meaning": "wszystkie"
+    },
+    {
+      "pinyin": "qun",
+      "initial": "q",
+      "final": "un",
+      "tone_marks": "qūn qún qǔn qùn",
+      "category": "Q-początkowe",
+      "ipa": "/tɕʰyn/",
+      "example_char": "群",
+      "example_meaning": "grupa"
+    },
+    {
+      "pinyin": "xi",
+      "initial": "x",
+      "final": "i",
+      "tone_marks": "xī xí xǐ xì",
+      "category": "X-początkowe",
+      "ipa": "/ɕi/",
+      "example_char": "西",
+      "example_meaning": "zachód"
+    },
+    {
+      "pinyin": "xia",
+      "initial": "x",
+      "final": "ia",
+      "tone_marks": "xiā xiá xiǎ xià",
+      "category": "X-początkowe",
+      "ipa": "/ɕia/",
+      "example_char": "下",
+      "example_meaning": "dół"
+    },
+    {
+      "pinyin": "xie",
+      "initial": "x",
+      "final": "ie",
+      "tone_marks": "xiē xié xiě xiè",
+      "category": "X-początkowe",
+      "ipa": "/ɕie/",
+      "example_char": "写",
+      "example_meaning": "pisać"
+    },
+    {
+      "pinyin": "xiao",
+      "initial": "x",
+      "final": "iao",
+      "tone_marks": "xiāo xiáo xiǎo xiào",
+      "category": "X-początkowe",
+      "ipa": "/ɕiau/",
+      "example_char": "小",
+      "example_meaning": "mały"
+    },
+    {
+      "pinyin": "xiu",
+      "initial": "x",
+      "final": "iu",
+      "tone_marks": "xiū xiú xiǔ xiù",
+      "category": "X-początkowe",
+      "ipa": "/ɕiou/",
+      "example_char": "休",
+      "example_meaning": "odpoczynek"
+    },
+    {
+      "pinyin": "xian",
+      "initial": "x",
+      "final": "ian",
+      "tone_marks": "xiān xián xiǎn xiàn",
+      "category": "X-początkowe",
+      "ipa": "/ɕien/",
+      "example_char": "先",
+      "example_meaning": "pierwszy"
+    },
+    {
+      "pinyin": "xin",
+      "initial": "x",
+      "final": "in",
+      "tone_marks": "xīn xín xǐn xìn",
+      "category": "X-początkowe",
+      "ipa": "/ɕin/",
+      "example_char": "新",
+      "example_meaning": "nowy"
+    },
+    {
+      "pinyin": "xiang",
+      "initial": "x",
+      "final": "iang",
+      "tone_marks": "xiāng xiáng xiǎng xiàng",
+      "category": "X-początkowe",
+      "ipa": "/ɕiaŋ/",
+      "example_char": "想",
+      "example_meaning": "myśleć"
+    },
+    {
+      "pinyin": "xing",
+      "initial": "x",
+      "final": "ing",
+      "tone_marks": "xīng xíng xǐng xìng",
+      "category": "X-początkowe",
+      "ipa": "/ɕiŋ/",
+      "example_char": "星",
+      "example_meaning": "gwiazda"
+    },
+    {
+      "pinyin": "xiong",
+      "initial": "x",
+      "final": "iong",
+      "tone_marks": "xiōng xióng xiǒng xiòng",
+      "category": "X-początkowe",
+      "ipa": "/ɕyŋ/",
+      "example_char": "熊",
+      "example_meaning": "niedźwiedź"
+    },
+    {
+      "pinyin": "xu",
+      "initial": "x",
+      "final": "u",
+      "tone_marks": "xū xú xǔ xù",
+      "category": "X-początkowe",
+      "ipa": "/ɕy/",
+      "example_char": "许",
+      "example_meaning": "pozwalać"
+    },
+    {
+      "pinyin": "xue",
+      "initial": "x",
+      "final": "ue",
+      "tone_marks": "xuē xué xuě xuè",
+      "category": "Nagłosowe X",
+      "ipa": "/ɕye/",
+      "example_char": "学",
+      "example_meaning": "uczyć się"
+    },
+    {
+      "pinyin": "xuan",
+      "initial": "x",
+      "final": "uan",
+      "tone_marks": "xuān xuán xuǎn xuàn",
+      "category": "Nagłosowe X",
+      "ipa": "/ɕyan/",
+      "example_char": "选",
+      "example_meaning": "wybierać"
+    },
+    {
+      "pinyin": "xun",
+      "initial": "x",
+      "final": "un",
+      "tone_marks": "xūn xún xǔn xùn",
+      "category": "Nagłosowe X",
+      "ipa": "/ɕyn/",
+      "example_char": "训",
+      "example_meaning": "uczyć"
+    },
+    {
+      "pinyin": "zha",
+      "initial": "zh",
+      "final": "a",
+      "tone_marks": "zhā zhá zhǎ zhà",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂa/",
+      "example_char": "扎",
+      "example_meaning": "ukłuć"
+    },
+    {
+      "pinyin": "zhe",
+      "initial": "zh",
+      "final": "e",
+      "tone_marks": "zhē zhé zhě zhè",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂə/",
+      "example_char": "这",
+      "example_meaning": "ten"
+    },
+    {
+      "pinyin": "zhi",
+      "initial": "zh",
+      "final": "i",
+      "tone_marks": "zhī zhí zhǐ zhì",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂɻ/",
+      "example_char": "知",
+      "example_meaning": "wiedzieć"
+    },
+    {
+      "pinyin": "zhai",
+      "initial": "zh",
+      "final": "ai",
+      "tone_marks": "zhāi zhái zhǎi zhài",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂai/",
+      "example_char": "窄",
+      "example_meaning": "wąski"
+    },
+    {
+      "pinyin": "zhao",
+      "initial": "zh",
+      "final": "ao",
+      "tone_marks": "zhāo zháo zhǎo zhào",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂau/",
+      "example_char": "找",
+      "example_meaning": "znaleźć"
+    },
+    {
+      "pinyin": "zhou",
+      "initial": "zh",
+      "final": "ou",
+      "tone_marks": "zhōu zhóu zhǒu zhòu",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂou/",
+      "example_char": "周",
+      "example_meaning": "tydzień"
+    },
+    {
+      "pinyin": "zhan",
+      "initial": "zh",
+      "final": "an",
+      "tone_marks": "zhān zhán zhǎn zhàn",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂan/",
+      "example_char": "站",
+      "example_meaning": "stać"
+    },
+    {
+      "pinyin": "zhen",
+      "initial": "zh",
+      "final": "en",
+      "tone_marks": "zhēn zhén zhěn zhèn",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂən/",
+      "example_char": "真",
+      "example_meaning": "prawdziwy"
+    },
+    {
+      "pinyin": "zhang",
+      "initial": "zh",
+      "final": "ang",
+      "tone_marks": "zhāng zháng zhǎng zhàng",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂaŋ/",
+      "example_char": "张",
+      "example_meaning": "rozciągać"
+    },
+    {
+      "pinyin": "zheng",
+      "initial": "zh",
+      "final": "eng",
+      "tone_marks": "zhēng zhéng zhěng zhèng",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂəŋ/",
+      "example_char": "正",
+      "example_meaning": "poprawny"
+    },
+    {
+      "pinyin": "zhong",
+      "initial": "zh",
+      "final": "ong",
+      "tone_marks": "zhōng zhóng zhǒng zhòng",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂʊŋ/",
+      "example_char": "中",
+      "example_meaning": "środek"
+    },
+    {
+      "pinyin": "zhu",
+      "initial": "zh",
+      "final": "u",
+      "tone_marks": "zhū zhú zhǔ zhù",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂu/",
+      "example_char": "住",
+      "example_meaning": "żyć"
+    },
+    {
+      "pinyin": "zhua",
+      "initial": "zh",
+      "final": "ua",
+      "tone_marks": "zhuā zhuá zhuǎ zhuà",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂua/",
+      "example_char": "抓",
+      "example_meaning": "chwycić"
+    },
+    {
+      "pinyin": "zhuo",
+      "initial": "zh",
+      "final": "uo",
+      "tone_marks": "zhuō zhuó zhuǒ zhuò",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂuo/",
+      "example_char": "桌",
+      "example_meaning": "stół"
+    },
+    {
+      "pinyin": "zhuai",
+      "initial": "zh",
+      "final": "uai",
+      "tone_marks": "zhuāi zhuái zhuǎi zhuài",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂuai/",
+      "example_char": "拽",
+      "example_meaning": "ciągnąć"
+    },
+    {
+      "pinyin": "zhui",
+      "initial": "zh",
+      "final": "ui",
+      "tone_marks": "zhuī zhuí zhuǐ zhuì",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂuei/",
+      "example_char": "追",
+      "example_meaning": "gonić"
+    },
+    {
+      "pinyin": "zhuan",
+      "initial": "zh",
+      "final": "uan",
+      "tone_marks": "zhuān zhuán zhuǎn zhuàn",
+      "category": "Nagłosowe ZH",
+      "ipa": "/ʈʂuan/",
+      "example_char": "转",
+      "example_meaning": "obracać"
+    },
+    {
+      "pinyin": "zhun",
+      "initial": "zh",
+      "final": "un",
+      "tone_marks": "zhūn zhún zhǔn zhùn",
+      "category": "ZH-initial",
+      "ipa": "/ʈʂuən/",
+      "example_char": "准",
+      "example_meaning": "dokładny"
+    },
+    {
+      "pinyin": "zhuang",
+      "initial": "zh",
+      "final": "uang",
+      "tone_marks": "zhuāng zhuáng zhuǎng zhuàng",
+      "category": "ZH-initial",
+      "ipa": "/ʈʂuaŋ/",
+      "example_char": "装",
+      "example_meaning": "instalować"
+    },
+    {
+      "pinyin": "cha",
+      "initial": "ch",
+      "final": "a",
+      "tone_marks": "chā chá chǎ chà",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰa/",
+      "example_char": "茶",
+      "example_meaning": "herbata"
+    },
+    {
+      "pinyin": "che",
+      "initial": "ch",
+      "final": "e",
+      "tone_marks": "chē ché chě chè",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰə/",
+      "example_char": "车",
+      "example_meaning": "samochód"
+    },
+    {
+      "pinyin": "chi",
+      "initial": "ch",
+      "final": "i",
+      "tone_marks": "chī chí chǐ chì",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰɻ/",
+      "example_char": "吃",
+      "example_meaning": "jeść"
+    },
+    {
+      "pinyin": "chai",
+      "initial": "ch",
+      "final": "ai",
+      "tone_marks": "chāi chái chǎi chài",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰai/",
+      "example_char": "拆",
+      "example_meaning": "demontować"
+    },
+    {
+      "pinyin": "chao",
+      "initial": "ch",
+      "final": "ao",
+      "tone_marks": "chāo cháo chǎo chào",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰau/",
+      "example_char": "超",
+      "example_meaning": "super"
+    },
+    {
+      "pinyin": "chou",
+      "initial": "ch",
+      "final": "ou",
+      "tone_marks": "chōu chóu chǒu chòu",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰou/",
+      "example_char": "丑",
+      "example_meaning": "brzydki"
+    },
+    {
+      "pinyin": "chan",
+      "initial": "ch",
+      "final": "an",
+      "tone_marks": "chān chán chǎn chàn",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰan/",
+      "example_char": "产",
+      "example_meaning": "produkować"
+    },
+    {
+      "pinyin": "chen",
+      "initial": "ch",
+      "final": "en",
+      "tone_marks": "chēn chén chěn chèn",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰən/",
+      "example_char": "陈",
+      "example_meaning": "Chen"
+    },
+    {
+      "pinyin": "chang",
+      "initial": "ch",
+      "final": "ang",
+      "tone_marks": "chāng cháng chǎng chàng",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰaŋ/",
+      "example_char": "长",
+      "example_meaning": "długi"
+    },
+    {
+      "pinyin": "cheng",
+      "initial": "ch",
+      "final": "eng",
+      "tone_marks": "chēng chéng chěng chèng",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰəŋ/",
+      "example_char": "成",
+      "example_meaning": "stać się"
+    },
+    {
+      "pinyin": "chong",
+      "initial": "ch",
+      "final": "ong",
+      "tone_marks": "chōng chóng chǒng chòng",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰʊŋ/",
+      "example_char": "冲",
+      "example_meaning": "spieszyć się"
+    },
+    {
+      "pinyin": "chu",
+      "initial": "ch",
+      "final": "u",
+      "tone_marks": "chū chú chǔ chù",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰu/",
+      "example_char": "出",
+      "example_meaning": "wychodzić"
+    },
+    {
+      "pinyin": "chua",
+      "initial": "ch",
+      "final": "ua",
+      "tone_marks": "chuā chuá chuǎ chuà",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰua/",
+      "example_char": "欻",
+      "example_meaning": "nagły"
+    },
+    {
+      "pinyin": "chuo",
+      "initial": "ch",
+      "final": "uo",
+      "tone_marks": "chuō chuó chuǒ chuò",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰuo/",
+      "example_char": "戳",
+      "example_meaning": "szturchać"
+    },
+    {
+      "pinyin": "chuai",
+      "initial": "ch",
+      "final": "uai",
+      "tone_marks": "chuāi chuái chuǎi chuài",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰuai/",
+      "example_char": "揣",
+      "example_meaning": "zgadywać"
+    },
+    {
+      "pinyin": "chui",
+      "initial": "ch",
+      "final": "ui",
+      "tone_marks": "chuī chuí chuǐ chuì",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰuei/",
+      "example_char": "吹",
+      "example_meaning": "dmuchać"
+    },
+    {
+      "pinyin": "chuan",
+      "initial": "ch",
+      "final": "uan",
+      "tone_marks": "chuān chuán chuǎn chuàn",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰuan/",
+      "example_char": "穿",
+      "example_meaning": "nosić"
+    },
+    {
+      "pinyin": "chun",
+      "initial": "ch",
+      "final": "un",
+      "tone_marks": "chūn chún chǔn chùn",
+      "category": "CH-initial",
+      "ipa": "/ʈʂʰuən/",
+      "example_char": "春",
+      "example_meaning": "wiosna"
+    },
+    {
+      "pinyin": "chuang",
+      "initial": "ch",
+      "final": "uang",
+      "tone_marks": "chuāng chuáng chuǎng chuàng",
+      "category": "Nagłosowe CH",
+      "ipa": "/ʈʂʰuaŋ/",
+      "example_char": "窗",
+      "example_meaning": "okno"
+    },
+    {
+      "pinyin": "sha",
+      "initial": "sh",
+      "final": "a",
+      "tone_marks": "shā shá shǎ shà",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂa/",
+      "example_char": "杀",
+      "example_meaning": "zabijać"
+    },
+    {
+      "pinyin": "she",
+      "initial": "sh",
+      "final": "e",
+      "tone_marks": "shē shé shě shè",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂə/",
+      "example_char": "社",
+      "example_meaning": "społeczeństwo"
+    },
+    {
+      "pinyin": "shi",
+      "initial": "sh",
+      "final": "i",
+      "tone_marks": "shī shí shǐ shì",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂɻ/",
+      "example_char": "是",
+      "example_meaning": "jest"
+    },
+    {
+      "pinyin": "shai",
+      "initial": "sh",
+      "final": "ai",
+      "tone_marks": "shāi shái shǎi shài",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂai/",
+      "example_char": "晒",
+      "example_meaning": "słońce"
+    },
+    {
+      "pinyin": "shei",
+      "initial": "sh",
+      "final": "ei",
+      "tone_marks": "shēi shéi shěi shèi",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂei/",
+      "example_char": "谁",
+      "example_meaning": "kto"
+    },
+    {
+      "pinyin": "shao",
+      "initial": "sh",
+      "final": "ao",
+      "tone_marks": "shāo sháo shǎo shào",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂau/",
+      "example_char": "少",
+      "example_meaning": "mało"
+    },
+    {
+      "pinyin": "shou",
+      "initial": "sh",
+      "final": "ou",
+      "tone_marks": "shōu shóu shǒu shòu",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂou/",
+      "example_char": "手",
+      "example_meaning": "ręka"
+    },
+    {
+      "pinyin": "shan",
+      "initial": "sh",
+      "final": "an",
+      "tone_marks": "shān shán shǎn shàn",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂan/",
+      "example_char": "山",
+      "example_meaning": "góra"
+    },
+    {
+      "pinyin": "shen",
+      "initial": "sh",
+      "final": "en",
+      "tone_marks": "shēn shén shěn shèn",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂən/",
+      "example_char": "深",
+      "example_meaning": "głęboki"
+    },
+    {
+      "pinyin": "shang",
+      "initial": "sh",
+      "final": "ang",
+      "tone_marks": "shāng sháng shǎng shàng",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂaŋ/",
+      "example_char": "上",
+      "example_meaning": "w górę"
+    },
+    {
+      "pinyin": "sheng",
+      "initial": "sh",
+      "final": "eng",
+      "tone_marks": "shēng shéng shěng shèng",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂəŋ/",
+      "example_char": "生",
+      "example_meaning": "życie"
+    },
+    {
+      "pinyin": "shu",
+      "initial": "sh",
+      "final": "u",
+      "tone_marks": "shū shú shǔ shù",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂu/",
+      "example_char": "书",
+      "example_meaning": "książka"
+    },
+    {
+      "pinyin": "shua",
+      "initial": "sh",
+      "final": "ua",
+      "tone_marks": "shuā shuá shuǎ shuà",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂua/",
+      "example_char": "刷",
+      "example_meaning": "szczotka"
+    },
+    {
+      "pinyin": "shuo",
+      "initial": "sh",
+      "final": "uo",
+      "tone_marks": "shuō shuó shuǒ shuò",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuo/",
+      "example_char": "说",
+      "example_meaning": "mówić"
+    },
+    {
+      "pinyin": "shuai",
+      "initial": "sh",
+      "final": "uai",
+      "tone_marks": "shuāi shuái shuǎi shuài",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuai/",
+      "example_char": "帅",
+      "example_meaning": "przystojny"
+    },
+    {
+      "pinyin": "shui",
+      "initial": "sh",
+      "final": "ui",
+      "tone_marks": "shuī shuí shuǐ shuì",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuei/",
+      "example_char": "水",
+      "example_meaning": "woda"
+    },
+    {
+      "pinyin": "shuan",
+      "initial": "sh",
+      "final": "uan",
+      "tone_marks": "shuān shuán shuǎn shuàn",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuan/",
+      "example_char": "栓",
+      "example_meaning": "śruba"
+    },
+    {
+      "pinyin": "shun",
+      "initial": "sh",
+      "final": "un",
+      "tone_marks": "shūn shún shǔn shùn",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuən/",
+      "example_char": "顺",
+      "example_meaning": "gładki"
+    },
+    {
+      "pinyin": "shuang",
+      "initial": "sh",
+      "final": "uang",
+      "tone_marks": "shuāng shuáng shuǎng shuàng",
+      "category": "Nagłosowe SH",
+      "ipa": "/ʂuaŋ/",
+      "example_char": "双",
+      "example_meaning": "podwójny"
+    },
+    {
+      "pinyin": "ran",
+      "initial": "r",
+      "final": "an",
+      "tone_marks": "rān rán rǎn ràn",
+      "category": "Nagłos R",
+      "ipa": "/ʐan/",
+      "example_char": "然",
+      "example_meaning": "więc"
+    },
+    {
+      "pinyin": "rang",
+      "initial": "r",
+      "final": "ang",
+      "tone_marks": "rāng ráng rǎng ràng",
+      "category": "Nagłos R",
+      "ipa": "/ʐaŋ/",
+      "example_char": "让",
+      "example_meaning": "pozwolić"
+    },
+    {
+      "pinyin": "rao",
+      "initial": "r",
+      "final": "ao",
+      "tone_marks": "rāo ráo rǎo rào",
+      "category": "Nagłos R",
+      "ipa": "/ʐau/",
+      "example_char": "绕",
+      "example_meaning": "wiatr"
+    },
+    {
+      "pinyin": "re",
+      "initial": "r",
+      "final": "e",
+      "tone_marks": "rē ré rě rè",
+      "category": "Nagłos R",
+      "ipa": "/ʐə/",
+      "example_char": "热",
+      "example_meaning": "gorący"
+    },
+    {
+      "pinyin": "ren",
+      "initial": "r",
+      "final": "en",
+      "tone_marks": "rēn rén rěn rèn",
+      "category": "Nagłos R",
+      "ipa": "/ʐən/",
+      "example_char": "人",
+      "example_meaning": "osoba"
+    },
+    {
+      "pinyin": "reng",
+      "initial": "r",
+      "final": "eng",
+      "tone_marks": "rēng réng rěng rèng",
+      "category": "Nagłos R",
+      "ipa": "/ʐəŋ/",
+      "example_char": "扔",
+      "example_meaning": "rzucać"
+    },
+    {
+      "pinyin": "ri",
+      "initial": "r",
+      "final": "i",
+      "tone_marks": "rī rí rǐ rì",
+      "category": "Nagłos R",
+      "ipa": "/ʐɻ/",
+      "example_char": "日",
+      "example_meaning": "dzień"
+    },
+    {
+      "pinyin": "rong",
+      "initial": "r",
+      "final": "ong",
+      "tone_marks": "rōng róng rǒng ròng",
+      "category": "Nagłos R",
+      "ipa": "/ʐʊŋ/",
+      "example_char": "容",
+      "example_meaning": "zawierać"
+    },
+    {
+      "pinyin": "rou",
+      "initial": "r",
+      "final": "ou",
+      "tone_marks": "rōu róu rǒu ròu",
+      "category": "Nagłos R",
+      "ipa": "/ʐou/",
+      "example_char": "肉",
+      "example_meaning": "mięso"
+    },
+    {
+      "pinyin": "ru",
+      "initial": "r",
+      "final": "u",
+      "tone_marks": "rū rú rǔ rù",
+      "category": "Nagłos R",
+      "ipa": "/ʐu/",
+      "example_char": "如",
+      "example_meaning": "lubić"
+    },
+    {
+      "pinyin": "rua",
+      "initial": "r",
+      "final": "ua",
+      "tone_marks": "ruā ruá ruǎ ruà",
+      "category": "Nagłos R",
+      "ipa": "/ʐua/",
+      "example_char": "挼",
+      "example_meaning": "trzeć"
+    },
+    {
+      "pinyin": "ruo",
+      "initial": "r",
+      "final": "uo",
+      "tone_marks": "ruō ruó ruǒ ruò",
+      "category": "Nagłos R",
+      "ipa": "/ʐuo/",
+      "example_char": "若",
+      "example_meaning": "jeśli"
+    },
+    {
+      "pinyin": "rui",
+      "initial": "r",
+      "final": "ui",
+      "tone_marks": "ruī ruí ruǐ ruì",
+      "category": "Nagłos R",
+      "ipa": "/ʐuei/",
+      "example_char": "瑞",
+      "example_meaning": "szczęśliwy"
+    },
+    {
+      "pinyin": "ruan",
+      "initial": "r",
+      "final": "uan",
+      "tone_marks": "ruān ruán ruǎn ruàn",
+      "category": "Nagłos R",
+      "ipa": "/ʐuan/",
+      "example_char": "软",
+      "example_meaning": "miękki"
+    },
+    {
+      "pinyin": "run",
+      "initial": "r",
+      "final": "un",
+      "tone_marks": "rūn rún rǔn rùn",
+      "category": "Nagłos R",
+      "ipa": "/ʐuən/",
+      "example_char": "润",
+      "example_meaning": "wilgotny"
+    },
+    {
+      "pinyin": "za",
+      "initial": "z",
+      "final": "a",
+      "tone_marks": "zā zá zǎ zà",
+      "category": "Nagłos Z",
+      "ipa": "/tsa/",
+      "example_char": "杂",
+      "example_meaning": "mieszany"
+    },
+    {
+      "pinyin": "ze",
+      "initial": "z",
+      "final": "e",
+      "tone_marks": "zē zé zě zè",
+      "category": "Nagłos Z",
+      "ipa": "/tsə/",
+      "example_char": "则",
+      "example_meaning": "zasada"
+    },
+    {
+      "pinyin": "zi",
+      "initial": "z",
+      "final": "i",
+      "tone_marks": "zī zí zǐ zì",
+      "category": "Nagłos Z",
+      "ipa": "/tsɿ/",
+      "example_char": "字",
+      "example_meaning": "słowo"
+    },
+    {
+      "pinyin": "zai",
+      "initial": "z",
+      "final": "ai",
+      "tone_marks": "zāi zái zǎi zài",
+      "category": "Nagłos Z",
+      "ipa": "/tsai/",
+      "example_char": "在",
+      "example_meaning": "przy"
+    },
+    {
+      "pinyin": "zei",
+      "initial": "z",
+      "final": "ei",
+      "tone_marks": "zēi zéi zěi zèi",
+      "category": "Nagłos Z",
+      "ipa": "/tsei/",
+      "example_char": "贼",
+      "example_meaning": "złodziej"
+    },
+    {
+      "pinyin": "zao",
+      "initial": "z",
+      "final": "ao",
+      "tone_marks": "zāo záo zǎo zào",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsau/",
+      "example_char": "早",
+      "example_meaning": "wcześnie"
+    },
+    {
+      "pinyin": "zou",
+      "initial": "z",
+      "final": "ou",
+      "tone_marks": "zōu zóu zǒu zòu",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsou/",
+      "example_char": "走",
+      "example_meaning": "chodzić"
+    },
+    {
+      "pinyin": "zan",
+      "initial": "z",
+      "final": "an",
+      "tone_marks": "zān zán zǎn zàn",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsan/",
+      "example_char": "赞",
+      "example_meaning": "chwalić"
+    },
+    {
+      "pinyin": "zen",
+      "initial": "z",
+      "final": "en",
+      "tone_marks": "zēn zén zěn zèn",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsən/",
+      "example_char": "怎",
+      "example_meaning": "jak"
+    },
+    {
+      "pinyin": "zang",
+      "initial": "z",
+      "final": "ang",
+      "tone_marks": "zāng záng zǎng zàng",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsaŋ/",
+      "example_char": "脏",
+      "example_meaning": "brudny"
+    },
+    {
+      "pinyin": "zeng",
+      "initial": "z",
+      "final": "eng",
+      "tone_marks": "zēng zéng zěng zèng",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsəŋ/",
+      "example_char": "增",
+      "example_meaning": "zwiększać"
+    },
+    {
+      "pinyin": "zong",
+      "initial": "z",
+      "final": "ong",
+      "tone_marks": "zōng zóng zǒng zòng",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsʊŋ/",
+      "example_char": "总",
+      "example_meaning": "zawsze"
+    },
+    {
+      "pinyin": "zu",
+      "initial": "z",
+      "final": "u",
+      "tone_marks": "zū zú zǔ zù",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsu/",
+      "example_char": "租",
+      "example_meaning": "wynajmować"
+    },
+    {
+      "pinyin": "zuo",
+      "initial": "z",
+      "final": "uo",
+      "tone_marks": "zuō zuó zuǒ zuò",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsuo/",
+      "example_char": "做",
+      "example_meaning": "robić"
+    },
+    {
+      "pinyin": "zui",
+      "initial": "z",
+      "final": "ui",
+      "tone_marks": "zuī zuí zuǐ zuì",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsuei/",
+      "example_char": "最",
+      "example_meaning": "większość"
+    },
+    {
+      "pinyin": "zuan",
+      "initial": "z",
+      "final": "uan",
+      "tone_marks": "zuān zuán zuǎn zuàn",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsuan/",
+      "example_char": "钻",
+      "example_meaning": "wiercić"
+    },
+    {
+      "pinyin": "zun",
+      "initial": "z",
+      "final": "un",
+      "tone_marks": "zūn zún zǔn zùn",
+      "category": "Z-nagłosowa",
+      "ipa": "/tsuən/",
+      "example_char": "尊",
+      "example_meaning": "szanować"
+    },
+    {
+      "pinyin": "ca",
+      "initial": "c",
+      "final": "a",
+      "tone_marks": "cā cá cǎ cà",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰa/",
+      "example_char": "擦",
+      "example_meaning": "wycierać"
+    },
+    {
+      "pinyin": "ce",
+      "initial": "c",
+      "final": "e",
+      "tone_marks": "cē cé cě cè",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰə/",
+      "example_char": "测",
+      "example_meaning": "testować"
+    },
+    {
+      "pinyin": "ci",
+      "initial": "c",
+      "final": "i",
+      "tone_marks": "cī cí cǐ cì",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰɿ/",
+      "example_char": "次",
+      "example_meaning": "czas"
+    },
+    {
+      "pinyin": "cai",
+      "initial": "c",
+      "final": "ai",
+      "tone_marks": "cāi cái cǎi cài",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰai/",
+      "example_char": "才",
+      "example_meaning": "tylko"
+    },
+    {
+      "pinyin": "cao",
+      "initial": "c",
+      "final": "ao",
+      "tone_marks": "cāo cáo cǎo cào",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰau/",
+      "example_char": "草",
+      "example_meaning": "trawa"
+    },
+    {
+      "pinyin": "cou",
+      "initial": "c",
+      "final": "ou",
+      "tone_marks": "cōu cóu cǒu còu",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰou/",
+      "example_char": "凑",
+      "example_meaning": "zbierać"
+    },
+    {
+      "pinyin": "can",
+      "initial": "c",
+      "final": "an",
+      "tone_marks": "cān cán cǎn càn",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰan/",
+      "example_char": "餐",
+      "example_meaning": "posiłek"
+    },
+    {
+      "pinyin": "cen",
+      "initial": "c",
+      "final": "en",
+      "tone_marks": "cēn cén cěn cèn",
+      "category": "C-nagłosowa",
+      "ipa": "/tsʰən/",
+      "example_char": "岑",
+      "example_meaning": "Cen"
+    },
+    {
+      "pinyin": "cang",
+      "initial": "c",
+      "final": "ang",
+      "tone_marks": "cāng cáng cǎng càng",
+      "category": "C-początkowy",
+      "ipa": "/tsʰaŋ/",
+      "example_char": "藏",
+      "example_meaning": "ukrywać"
+    },
+    {
+      "pinyin": "ceng",
+      "initial": "c",
+      "final": "eng",
+      "tone_marks": "cēng céng cěng cèng",
+      "category": "C-początkowy",
+      "ipa": "/tsʰəŋ/",
+      "example_char": "曾",
+      "example_meaning": "kiedyś"
+    },
+    {
+      "pinyin": "cong",
+      "initial": "c",
+      "final": "ong",
+      "tone_marks": "cōng cóng cǒng còng",
+      "category": "C-początkowy",
+      "ipa": "/tsʰʊŋ/",
+      "example_char": "从",
+      "example_meaning": "z"
+    },
+    {
+      "pinyin": "cu",
+      "initial": "c",
+      "final": "u",
+      "tone_marks": "cū cú cǔ cù",
+      "category": "C-początkowy",
+      "ipa": "/tsʰu/",
+      "example_char": "粗",
+      "example_meaning": "gruby"
+    },
+    {
+      "pinyin": "cuo",
+      "initial": "c",
+      "final": "uo",
+      "tone_marks": "cuō cuó cuǒ cuò",
+      "category": "C-początkowy",
+      "ipa": "/tsʰuo/",
+      "example_char": "错",
+      "example_meaning": "błędny"
+    },
+    {
+      "pinyin": "cui",
+      "initial": "c",
+      "final": "ui",
+      "tone_marks": "cuī cuí cuǐ cuì",
+      "category": "C-początkowy",
+      "ipa": "/tsʰuei/",
+      "example_char": "催",
+      "example_meaning": "nalegać"
+    },
+    {
+      "pinyin": "cuan",
+      "initial": "c",
+      "final": "uan",
+      "tone_marks": "cuān cuán cuǎn cuàn",
+      "category": "C-początkowy",
+      "ipa": "/tsʰuan/",
+      "example_char": "窜",
+      "example_meaning": "uciekać"
+    },
+    {
+      "pinyin": "cun",
+      "initial": "c",
+      "final": "un",
+      "tone_marks": "cūn cún cǔn cùn",
+      "category": "C-początkowy",
+      "ipa": "/tsʰuən/",
+      "example_char": "村",
+      "example_meaning": "wioska"
+    },
+    {
+      "pinyin": "sa",
+      "initial": "s",
+      "final": "a",
+      "tone_marks": "sā sá sǎ sà",
+      "category": "S-początkowy",
+      "ipa": "/sa/",
+      "example_char": "撒",
+      "example_meaning": "rozpraszać"
+    },
+    {
+      "pinyin": "se",
+      "initial": "s",
+      "final": "e",
+      "tone_marks": "sē sé sě sè",
+      "category": "S-początkowy",
+      "ipa": "/sə/",
+      "example_char": "色",
+      "example_meaning": "kolor"
+    },
+    {
+      "pinyin": "si",
+      "initial": "s",
+      "final": "i",
+      "tone_marks": "sī sí sǐ sì",
+      "category": "S-początkowy",
+      "ipa": "/sɿ/",
+      "example_char": "四",
+      "example_meaning": "cztery"
+    },
+    {
+      "pinyin": "sai",
+      "initial": "s",
+      "final": "ai",
+      "tone_marks": "sāi sái sǎi sài",
+      "category": "S-początkowy",
+      "ipa": "/sai/",
+      "example_char": "赛",
+      "example_meaning": "wyścig"
+    },
+    {
+      "pinyin": "sao",
+      "initial": "s",
+      "final": "ao",
+      "tone_marks": "sāo sáo sǎo sào",
+      "category": "S-początkowy",
+      "ipa": "/sau/",
+      "example_char": "扫",
+      "example_meaning": "zamiatać"
+    },
+    {
+      "pinyin": "sou",
+      "initial": "s",
+      "final": "ou",
+      "tone_marks": "sōu sóu sǒu sòu",
+      "category": "S-początkowy",
+      "ipa": "/sou/",
+      "example_char": "搜",
+      "example_meaning": "szukać"
+    },
+    {
+      "pinyin": "san",
+      "initial": "s",
+      "final": "an",
+      "tone_marks": "sān sán sǎn sàn",
+      "category": "S-początkowy",
+      "ipa": "/san/",
+      "example_char": "三",
+      "example_meaning": "trzy"
+    },
+    {
+      "pinyin": "sen",
+      "initial": "s",
+      "final": "en",
+      "tone_marks": "sēn sén sěn sèn",
+      "category": "S-początkowy",
+      "ipa": "/sən/",
+      "example_char": "森",
+      "example_meaning": "las"
+    },
+    {
+      "pinyin": "sang",
+      "initial": "s",
+      "final": "ang",
+      "tone_marks": "sāng sáng sǎng sàng",
+      "category": "S-początkowy",
+      "ipa": "/saŋ/",
+      "example_char": "桑",
+      "example_meaning": "morwa"
+    },
+    {
+      "pinyin": "seng",
+      "initial": "s",
+      "final": "eng",
+      "tone_marks": "sēng séng sěng sèng",
+      "category": "S-początkowy",
+      "ipa": "/səŋ/",
+      "example_char": "僧",
+      "example_meaning": "mnich"
+    },
+    {
+      "pinyin": "song",
+      "initial": "s",
+      "final": "ong",
+      "tone_marks": "sōng sóng sǒng sòng",
+      "category": "S-początkowy",
+      "ipa": "/sʊŋ/",
+      "example_char": "送",
+      "example_meaning": "wysyłać"
+    },
+    {
+      "pinyin": "su",
+      "initial": "s",
+      "final": "u",
+      "tone_marks": "sū sú sǔ sù",
+      "category": "S-początkowy",
+      "ipa": "/su/",
+      "example_char": "速",
+      "example_meaning": "prędkość"
+    },
+    {
+      "pinyin": "suo",
+      "initial": "s",
+      "final": "uo",
+      "tone_marks": "suō suó suǒ suò",
+      "category": "Spółgłoska początkowa S",
+      "ipa": "/suo/",
+      "example_char": "所",
+      "example_meaning": "miejsce"
+    },
+    {
+      "pinyin": "sui",
+      "initial": "s",
+      "final": "ui",
+      "tone_marks": "suī suí suǐ suì",
+      "category": "Spółgłoska początkowa S",
+      "ipa": "/suei/",
+      "example_char": "随",
+      "example_meaning": "podążać"
+    },
+    {
+      "pinyin": "suan",
+      "initial": "s",
+      "final": "uan",
+      "tone_marks": "suān suán suǎn suàn",
+      "category": "Spółgłoska początkowa S",
+      "ipa": "/suan/",
+      "example_char": "算",
+      "example_meaning": "liczyć"
+    },
+    {
+      "pinyin": "sun",
+      "initial": "s",
+      "final": "un",
+      "tone_marks": "sūn sún sǔn sùn",
+      "category": "Spółgłoska początkowa S",
+      "ipa": "/suən/",
+      "example_char": "孙",
+      "example_meaning": "wnuk"
+    },
+    {
+      "pinyin": "ya",
+      "initial": "y",
+      "final": "a",
+      "tone_marks": "yā yá yǎ yà",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/ia/",
+      "example_char": "呀",
+      "example_meaning": "ach"
+    },
+    {
+      "pinyin": "ye",
+      "initial": "y",
+      "final": "e",
+      "tone_marks": "yē yé yě yè",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/ie/",
+      "example_char": "也",
+      "example_meaning": "również"
+    },
+    {
+      "pinyin": "yi",
+      "initial": "y",
+      "final": "i",
+      "tone_marks": "yī yí yǐ yì",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/i/",
+      "example_char": "一",
+      "example_meaning": "jeden"
+    },
+    {
+      "pinyin": "yao",
+      "initial": "y",
+      "final": "ao",
+      "tone_marks": "yāo yáo yǎo yào",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/iau/",
+      "example_char": "要",
+      "example_meaning": "chcieć"
+    },
+    {
+      "pinyin": "you",
+      "initial": "y",
+      "final": "ou",
+      "tone_marks": "yōu yóu yǒu yòu",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/iou/",
+      "example_char": "有",
+      "example_meaning": "mieć"
+    },
+    {
+      "pinyin": "yan",
+      "initial": "y",
+      "final": "an",
+      "tone_marks": "yān yán yǎn yàn",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/ien/",
+      "example_char": "眼",
+      "example_meaning": "oko"
+    },
+    {
+      "pinyin": "yin",
+      "initial": "y",
+      "final": "in",
+      "tone_marks": "yīn yín yǐn yìn",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/in/",
+      "example_char": "因",
+      "example_meaning": "ponieważ"
+    },
+    {
+      "pinyin": "yang",
+      "initial": "y",
+      "final": "ang",
+      "tone_marks": "yāng yáng yǎng yàng",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/iaŋ/",
+      "example_char": "阳",
+      "example_meaning": "słońce"
+    },
+    {
+      "pinyin": "ying",
+      "initial": "y",
+      "final": "ing",
+      "tone_marks": "yīng yíng yǐng yìng",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/iŋ/",
+      "example_char": "英",
+      "example_meaning": "bohater"
+    },
+    {
+      "pinyin": "yong",
+      "initial": "y",
+      "final": "ong",
+      "tone_marks": "yōng yóng yǒng yòng",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/yŋ/",
+      "example_char": "用",
+      "example_meaning": "używać"
+    },
+    {
+      "pinyin": "yu",
+      "initial": "y",
+      "final": "u",
+      "tone_marks": "yū yú yǔ yù",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/y/",
+      "example_char": "雨",
+      "example_meaning": "deszcz"
+    },
+    {
+      "pinyin": "yue",
+      "initial": "y",
+      "final": "ue",
+      "tone_marks": "yuē yué yuě yuè",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/ye/",
+      "example_char": "月",
+      "example_meaning": "księżyc"
+    },
+    {
+      "pinyin": "yuan",
+      "initial": "y",
+      "final": "uan",
+      "tone_marks": "yuān yuán yuǎn yuàn",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/yan/",
+      "example_char": "元",
+      "example_meaning": "juan"
+    },
+    {
+      "pinyin": "yun",
+      "initial": "y",
+      "final": "un",
+      "tone_marks": "yūn yún yǔn yùn",
+      "category": "Spółgłoska początkowa Y",
+      "ipa": "/yn/",
+      "example_char": "云",
+      "example_meaning": "chmura"
+    },
+    {
+      "pinyin": "wa",
+      "initial": "w",
+      "final": "a",
+      "tone_marks": "wā wá wǎ wà",
+      "category": "Spółgłoska początkowa W",
+      "ipa": "/ua/",
+      "example_char": "哇",
+      "example_meaning": "wow"
+    },
+    {
+      "pinyin": "wo",
+      "initial": "w",
+      "final": "o",
+      "tone_marks": "wō wó wǒ wò",
+      "category": "Spółgłoska początkowa W",
+      "ipa": "/uo/",
+      "example_char": "我",
+      "example_meaning": "ja"
+    },
+    {
+      "pinyin": "wu",
+      "initial": "w",
+      "final": "u",
+      "tone_marks": "wū wú wǔ wù",
+      "category": "W-początkowe",
+      "ipa": "/u/",
+      "example_char": "五",
+      "example_meaning": "pięć"
+    },
+    {
+      "pinyin": "wai",
+      "initial": "w",
+      "final": "ai",
+      "tone_marks": "wāi wái wǎi wài",
+      "category": "W-początkowe",
+      "ipa": "/uai/",
+      "example_char": "外",
+      "example_meaning": "na zewnątrz"
+    },
+    {
+      "pinyin": "wei",
+      "initial": "w",
+      "final": "ei",
+      "tone_marks": "wēi wéi wěi wèi",
+      "category": "W-początkowe",
+      "ipa": "/uei/",
+      "example_char": "为",
+      "example_meaning": "dla"
+    },
+    {
+      "pinyin": "wan",
+      "initial": "w",
+      "final": "an",
+      "tone_marks": "wān wán wǎn wàn",
+      "category": "W-początkowe",
+      "ipa": "/uan/",
+      "example_char": "万",
+      "example_meaning": "dziesięć tysięcy"
+    },
+    {
+      "pinyin": "wen",
+      "initial": "w",
+      "final": "en",
+      "tone_marks": "wēn wén wěn wèn",
+      "category": "W-początkowe",
+      "ipa": "/uən/",
+      "example_char": "问",
+      "example_meaning": "pytać"
+    },
+    {
+      "pinyin": "wang",
+      "initial": "w",
+      "final": "ang",
+      "tone_marks": "wāng wáng wǎng wàng",
+      "category": "W-początkowe",
+      "ipa": "/uaŋ/",
+      "example_char": "王",
+      "example_meaning": "król"
+    },
+    {
+      "pinyin": "weng",
+      "initial": "w",
+      "final": "eng",
+      "tone_marks": "wēng wéng wěng wèng",
+      "category": "W-początkowe",
+      "ipa": "/uəŋ/",
+      "example_char": "翁",
+      "example_meaning": "starzec"
+    },
+    {
+      "pinyin": "er",
+      "initial": "-",
+      "final": "er",
+      "tone_marks": "ēr ér ěr èr",
+      "category": "Specjalne",
+      "ipa": "/ɐɻ/",
+      "example_char": "二",
+      "example_meaning": "dwa"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Sylab Pinyin Chińskich - Darmowe Pobranie (Excel/CSV/PDF)",
+    "seo_description": "Darmowe pobranie 408 chińskich sylab Pinyin, w tym nagłosów, wygłosów, znaków tonowych, IPA i przykładów. Idealne dla uczących się i programistów. Dostępne w Excel, CSV i PDF.",
+    "title": "Kompleksowa Tabela Sylab Pinyin Chińskich i Przewodnik Wymowy",
+    "description": "Ten zbiór danych zawiera pełną listę 408 unikalnych chińskich sylab Pinyin, szczegółowo opisując ich nagłos, wygłos, znaki tonowe, wymowę IPA oraz przykładowe znaki z ich znaczeniami. Służy jako podstawowe odniesienie do nauki wymowy mandaryńskiej.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 408 podstawowych chińskich sylab Pinyin do nauki mandaryńskiego.",
+      "Przeglądaj szczegółowe komponenty fonetyczne, w tym nagłosy, wygłosy i znaki tonowe.",
+      "Zrozum precyzyjną wymowę IPA dla każdej sylaby Pinyin.",
+      "Wykorzystaj przykładowe znaki i znaczenia do kontekstualizacji wymowy."
+    ],
+    "keywords": [
+      "Pinyin chiński",
+      "tabela Pinyin",
+      "wymowa mandaryńska",
+      "IPA Pinyin",
+      "dane fonetyczne chiński",
+      "Pinyin excel pobierz"
+    ],
+    "use_cases": [
+      "Importuj plik **CSV** do swojej bazy danych lub skryptów Pythona, aby zbudować niestandardową aplikację do nauki Pinyin lub narzędzie do wymowy.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania wzorców Pinyin, tworząc fiszki lub arkusze do nauki dla osób uczących się mandaryńskiego.",
+      "Wydrukuj wersję **PDF** jako fizyczną tabelę referencyjną w klasach lub osobistych miejscach do nauki, wspomagając naukę offline.",
+      "Zintegruj ten kompleksowy zbiór danych z badaniami lingwistycznymi lub platformami edukacyjnymi, aby uzyskać dokładne dane dotyczące wymowy chińskiej."
+    ]
+  },
+  "record_count": 408,
+  "title": "Kompleksowa Tabela Sylab Pinyin Chińskich i Przewodnik Wymowy"
+}

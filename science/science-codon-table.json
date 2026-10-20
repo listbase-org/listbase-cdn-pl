@@ -1,0 +1,581 @@
+{
+  "id": "science-codon-table",
+  "name": "Kompletny Zbiór Danych Tabela Kodonów RNA",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "codon",
+      "label": "Codon (RNA)",
+      "type": "string"
+    },
+    {
+      "key": "amino_acid",
+      "label": "Amino Acid (3-letter)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "1-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "start_stop",
+      "label": "Start/Stop",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codon": "UUU",
+      "amino_acid": "Phe",
+      "abbreviation": "F",
+      "full_name": "Fenyloalanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UUC",
+      "amino_acid": "Phe",
+      "abbreviation": "F",
+      "full_name": "Fenyloalanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UUA",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UUG",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UCU",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UCC",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UCA",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UCG",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UAU",
+      "amino_acid": "Tyr",
+      "abbreviation": "Y",
+      "full_name": "Tyrozyna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UAC",
+      "amino_acid": "Tyr",
+      "abbreviation": "Y",
+      "full_name": "Tyrozyna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UAA",
+      "amino_acid": "Stop",
+      "abbreviation": "*",
+      "full_name": "Stop (Ochra)",
+      "type": "Stop",
+      "start_stop": "Stop"
+    },
+    {
+      "codon": "UAG",
+      "amino_acid": "Stop",
+      "abbreviation": "*",
+      "full_name": "Stop (Bursztyn)",
+      "type": "Stop",
+      "start_stop": "Stop"
+    },
+    {
+      "codon": "UGU",
+      "amino_acid": "Cys",
+      "abbreviation": "C",
+      "full_name": "Cysteina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UGC",
+      "amino_acid": "Cys",
+      "abbreviation": "C",
+      "full_name": "Cysteina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "UGA",
+      "amino_acid": "Stop",
+      "abbreviation": "*",
+      "full_name": "Stop (Opal)",
+      "type": "Stop",
+      "start_stop": "Stop"
+    },
+    {
+      "codon": "UGG",
+      "amino_acid": "Trp",
+      "abbreviation": "W",
+      "full_name": "Tryptofan",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CUU",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CUC",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CUA",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CUG",
+      "amino_acid": "Leu",
+      "abbreviation": "L",
+      "full_name": "Leucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CCU",
+      "amino_acid": "Pro",
+      "abbreviation": "P",
+      "full_name": "Prolina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CCC",
+      "amino_acid": "Pro",
+      "abbreviation": "P",
+      "full_name": "Prolina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CCA",
+      "amino_acid": "Pro",
+      "abbreviation": "P",
+      "full_name": "Prolina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CCG",
+      "amino_acid": "Pro",
+      "abbreviation": "P",
+      "full_name": "Prolina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CAU",
+      "amino_acid": "His",
+      "abbreviation": "H",
+      "full_name": "Histydyna",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CAC",
+      "amino_acid": "His",
+      "abbreviation": "H",
+      "full_name": "Histydyna",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CAA",
+      "amino_acid": "Gln",
+      "abbreviation": "Q",
+      "full_name": "Glutamina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CAG",
+      "amino_acid": "Gln",
+      "abbreviation": "Q",
+      "full_name": "Glutamina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CGU",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CGC",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CGA",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "CGG",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AUU",
+      "amino_acid": "Ile",
+      "abbreviation": "I",
+      "full_name": "Izoleucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AUC",
+      "amino_acid": "Ile",
+      "abbreviation": "I",
+      "full_name": "Izoleucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AUA",
+      "amino_acid": "Ile",
+      "abbreviation": "I",
+      "full_name": "Izoleucyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AUG",
+      "amino_acid": "Met",
+      "abbreviation": "M",
+      "full_name": "Metionina",
+      "type": "Niepolarny",
+      "start_stop": "Start"
+    },
+    {
+      "codon": "ACU",
+      "amino_acid": "Thr",
+      "abbreviation": "T",
+      "full_name": "Treonina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "ACC",
+      "amino_acid": "Thr",
+      "abbreviation": "T",
+      "full_name": "Treonina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "ACA",
+      "amino_acid": "Thr",
+      "abbreviation": "T",
+      "full_name": "Treonina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "ACG",
+      "amino_acid": "Thr",
+      "abbreviation": "T",
+      "full_name": "Treonina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AAU",
+      "amino_acid": "Asn",
+      "abbreviation": "N",
+      "full_name": "Asparagina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AAC",
+      "amino_acid": "Asn",
+      "abbreviation": "N",
+      "full_name": "Asparagina",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AAA",
+      "amino_acid": "Lys",
+      "abbreviation": "K",
+      "full_name": "Lizyna",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AAG",
+      "amino_acid": "Lys",
+      "abbreviation": "K",
+      "full_name": "Lizyna",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AGU",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AGC",
+      "amino_acid": "Ser",
+      "abbreviation": "S",
+      "full_name": "Seryna",
+      "type": "Polarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AGA",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "AGG",
+      "amino_acid": "Arg",
+      "abbreviation": "R",
+      "full_name": "Arginina",
+      "type": "Dodatni",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GUU",
+      "amino_acid": "Val",
+      "abbreviation": "V",
+      "full_name": "Walina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GUC",
+      "amino_acid": "Val",
+      "abbreviation": "V",
+      "full_name": "Walina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GUA",
+      "amino_acid": "Val",
+      "abbreviation": "V",
+      "full_name": "Walina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GUG",
+      "amino_acid": "Val",
+      "abbreviation": "V",
+      "full_name": "Walina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GCU",
+      "amino_acid": "Ala",
+      "abbreviation": "A",
+      "full_name": "Alanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GCC",
+      "amino_acid": "Ala",
+      "abbreviation": "A",
+      "full_name": "Alanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GCA",
+      "amino_acid": "Ala",
+      "abbreviation": "A",
+      "full_name": "Alanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GCG",
+      "amino_acid": "Ala",
+      "abbreviation": "A",
+      "full_name": "Alanina",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GAU",
+      "amino_acid": "Asp",
+      "abbreviation": "D",
+      "full_name": "Kwas Asparaginowy",
+      "type": "Ujemny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GAC",
+      "amino_acid": "Asp",
+      "abbreviation": "D",
+      "full_name": "Kwas Asparaginowy",
+      "type": "Ujemny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GAA",
+      "amino_acid": "Glu",
+      "abbreviation": "E",
+      "full_name": "Kwas Glutaminowy",
+      "type": "Ujemny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GAG",
+      "amino_acid": "Glu",
+      "abbreviation": "E",
+      "full_name": "Kwas Glutaminowy",
+      "type": "Ujemny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GGU",
+      "amino_acid": "Gly",
+      "abbreviation": "G",
+      "full_name": "Glicyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GGC",
+      "amino_acid": "Gly",
+      "abbreviation": "G",
+      "full_name": "Glicyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GGA",
+      "amino_acid": "Gly",
+      "abbreviation": "G",
+      "full_name": "Glicyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    },
+    {
+      "codon": "GGG",
+      "amino_acid": "Gly",
+      "abbreviation": "G",
+      "full_name": "Glicyna",
+      "type": "Niepolarny",
+      "start_stop": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabela Kodonów RNA - Darmowy Download (Excel/CSV/PDF)",
+    "seo_description": "Darmowy download zbioru danych Tabela Kodonów RNA (64 rekordy). Zawiera kodony, aminokwasy i typy. Dostępne w formatach Excel, CSV i PDF do badań i edukacji.",
+    "title": "Kompletny Zbiór Danych Tabela Kodonów RNA",
+    "description": "Ten kompleksowy zbiór danych zawiera listę wszystkich 64 kodonów RNA i odpowiadających im aminokwasów, w tym nazwy 1-literowe, 3-literowe i pełne, wraz z typem aminokwasu oraz wskaźnikami startu/stopu.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do kompletnej listy 64 kodonów RNA i odpowiadających im aminokwasów.",
+      "Przeglądaj szczegółowe informacje, w tym 1-literowe, 3-literowe i pełne nazwy aminokwasów.",
+      "Pobierz kompleksowe dane dotyczące typów aminokwasów (polarne, niepolarne) oraz kodonów startu/stopu.",
+      "Zdobądź ustandaryzowane odniesienie do translacji kodu genetycznego w różnych formatach."
+    ],
+    "keywords": [
+      "tabela kodonów RNA excel",
+      "zbiór danych kodu genetycznego",
+      "tabela kodonów aminokwasów csv",
+      "pobierz kodony RNA",
+      "kodony syntezy białek",
+      "lista kodonów start stop"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swoich skryptów Python lub narzędzi bioinformatycznych, aby zautomatyzować translację kodonów na aminokwasy.",
+      "Użyj pliku **Excel** do łatwego filtrowania, sortowania i analizowania właściwości aminokwasów lub częstości kodonów w środowiskach edukacyjnych.",
+      "Wydrukuj wersję **PDF** jako szybki, poręczny wykres referencyjny w laboratoriach, klasach lub podczas sesji studyjnych.",
+      "Wykorzystaj ten zbiór danych do tworzenia aplikacji edukacyjnych, interaktywnych narzędzi lub projektów badawczych związanych z kodem genetycznym."
+    ]
+  },
+  "record_count": 64,
+  "title": "Kompletny Zbiór Danych Tabela Kodonów RNA"
+}

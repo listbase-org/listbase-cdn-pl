@@ -1,0 +1,526 @@
+{
+  "id": "pl-lubelskie-cities",
+  "name": "Województwo lubelskie — miasta",
+  "title": "Województwo lubelskie — miasta",
+  "description": "Lista miast w województwie lubelskim (województwo lubelskie) — 46 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the lubelskie voivodeship — 46 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_locative",
+      "label": "Name Locative",
+      "type": "string"
+    },
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "county_name",
+      "label": "County Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 160,
+      "name": "Annopol",
+      "slug": "annopol",
+      "name_locative": "Annopolu",
+      "county_id": 52,
+      "county_name": "kraśnicki",
+      "latitude": 50.8851655,
+      "longitude": 21.8550836
+    },
+    {
+      "city_id": 166,
+      "name": "Bełżyce",
+      "slug": "belzyce",
+      "name_locative": "Bełżycach",
+      "county_id": 54,
+      "county_name": "lubelski",
+      "latitude": 51.175063,
+      "longitude": 22.2749995
+    },
+    {
+      "city_id": 147,
+      "name": "Biłgoraj",
+      "slug": "bilgoraj",
+      "name_locative": "Biłgoraju",
+      "county_id": 47,
+      "county_name": "biłgorajski",
+      "latitude": 50.5387145,
+      "longitude": 22.71251795
+    },
+    {
+      "city_id": 167,
+      "name": "Bychawa",
+      "slug": "bychawa",
+      "name_locative": "Bychawie",
+      "county_id": 54,
+      "county_name": "lubelski",
+      "latitude": 51.0152225,
+      "longitude": 22.534535
+    },
+    {
+      "city_id": 179,
+      "name": "Dęblin",
+      "slug": "deblin",
+      "name_locative": "Dęblinie",
+      "county_id": 61,
+      "county_name": "rycki",
+      "latitude": 51.56723175,
+      "longitude": 21.85624404
+    },
+    {
+      "city_id": 148,
+      "name": "Frampol",
+      "slug": "frampol",
+      "name_locative": "Frampolu",
+      "county_id": 47,
+      "county_name": "biłgorajski",
+      "latitude": 50.671832,
+      "longitude": 22.6698666
+    },
+    {
+      "city_id": 149,
+      "name": "Goraj",
+      "slug": "goraj",
+      "name_locative": "Goraju",
+      "county_id": 47,
+      "county_name": "biłgorajski",
+      "latitude": 50.7212294,
+      "longitude": 22.6682146
+    },
+    {
+      "city_id": 155,
+      "name": "Hrubieszów",
+      "slug": "hrubieszow",
+      "name_locative": "Hrubieszowie",
+      "county_id": 49,
+      "county_name": "hrubieszowski",
+      "latitude": 50.80679625,
+      "longitude": 23.88634988
+    },
+    {
+      "city_id": 156,
+      "name": "Janów Lubelski",
+      "slug": "janow-lubelski",
+      "name_locative": "Janowie Lubelskim",
+      "county_id": 50,
+      "county_name": "janowski",
+      "latitude": 50.7065895,
+      "longitude": 22.4110663
+    },
+    {
+      "city_id": 150,
+      "name": "Józefów",
+      "slug": "jozefow",
+      "name_locative": "Józefowie",
+      "county_id": 47,
+      "county_name": "biłgorajski",
+      "latitude": 50.4808298,
+      "longitude": 23.0540591
+    },
+    {
+      "city_id": 171,
+      "name": "Józefów nad Wisłą",
+      "slug": "jozefow-nad-wisla",
+      "name_locative": "Józefowie nad Wisłą",
+      "county_id": 57,
+      "county_name": "opolski",
+      "latitude": 51.0408518,
+      "longitude": 21.8296779
+    },
+    {
+      "city_id": 163,
+      "name": "Kamionka",
+      "slug": "kamionka",
+      "name_locative": "Kamionce",
+      "county_id": 53,
+      "county_name": "lubartowski",
+      "latitude": 51.1055032,
+      "longitude": 21.8815692
+    },
+    {
+      "city_id": 176,
+      "name": "Kazimierz Dolny",
+      "slug": "kazimierz-dolny",
+      "name_locative": "Kazimierzu Dolnym",
+      "county_id": 59,
+      "county_name": "puławski",
+      "latitude": 51.3220058,
+      "longitude": 21.947372
+    },
+    {
+      "city_id": 164,
+      "name": "Kock",
+      "slug": "kock",
+      "name_locative": "Kocku",
+      "county_id": 53,
+      "county_name": "lubartowski",
+      "latitude": 51.6383917,
+      "longitude": 22.4478158
+    },
+    {
+      "city_id": 188,
+      "name": "Krasnobród",
+      "slug": "krasnobrod",
+      "name_locative": "Krasnobrodzie",
+      "county_id": 65,
+      "county_name": "zamojski",
+      "latitude": 50.5460046,
+      "longitude": 23.2115593
+    },
+    {
+      "city_id": 158,
+      "name": "Krasnystaw",
+      "slug": "krasnystaw",
+      "name_locative": "Krasnymstawie",
+      "county_id": 51,
+      "county_name": "krasnostawski",
+      "latitude": 50.99184805,
+      "longitude": 23.165038
+    },
+    {
+      "city_id": 159,
+      "name": "Kraśnik",
+      "slug": "krasnik",
+      "name_locative": "Kraśniku",
+      "county_id": 52,
+      "county_name": "kraśnicki",
+      "latitude": 50.9434932,
+      "longitude": 22.20835267
+    },
+    {
+      "city_id": 162,
+      "name": "Lubartów",
+      "slug": "lubartow",
+      "name_locative": "Lubartowie",
+      "county_id": 53,
+      "county_name": "lubartowski",
+      "latitude": 51.45842245,
+      "longitude": 22.61209358
+    },
+    {
+      "city_id": 184,
+      "name": "Lubycza Królewska",
+      "slug": "lubycza-krolewska",
+      "name_locative": "Lubyczy Królewskiej",
+      "county_id": 63,
+      "county_name": "tomaszowski",
+      "latitude": 50.3411612,
+      "longitude": 23.5196564
+    },
+    {
+      "city_id": 145,
+      "name": "Międzyrzec Podlaski",
+      "slug": "miedzyrzec-podlaski",
+      "name_locative": "Międzyrzecu Podlaskim",
+      "county_id": 46,
+      "county_name": "bialski",
+      "latitude": 51.9816127,
+      "longitude": 22.78672667
+    },
+    {
+      "city_id": 157,
+      "name": "Modliborzyce",
+      "slug": "modliborzyce",
+      "name_locative": "Modliborzycach",
+      "county_id": 50,
+      "county_name": "janowski",
+      "latitude": 50.7534467,
+      "longitude": 22.3291714
+    },
+    {
+      "city_id": 177,
+      "name": "Nałęczów",
+      "slug": "naleczow",
+      "name_locative": "Nałęczowie",
+      "county_id": 59,
+      "county_name": "puławski",
+      "latitude": 51.2876064,
+      "longitude": 22.214792
+    },
+    {
+      "city_id": 172,
+      "name": "Opole Lubelskie",
+      "slug": "opole-lubelskie",
+      "name_locative": "Opolu Lubelskim",
+      "county_id": 57,
+      "county_name": "opolski",
+      "latitude": 51.1475365,
+      "longitude": 21.9664152
+    },
+    {
+      "city_id": 165,
+      "name": "Ostrów Lubelski",
+      "slug": "ostrow-lubelski",
+      "name_locative": "Ostrowie Lubelskim",
+      "county_id": 53,
+      "county_name": "lubartowski",
+      "latitude": 51.4971197,
+      "longitude": 22.8554683
+    },
+    {
+      "city_id": 174,
+      "name": "Parczew",
+      "slug": "parczew",
+      "name_locative": "Parczewie",
+      "county_id": 58,
+      "county_name": "parczewski",
+      "latitude": 51.639,
+      "longitude": 22.9
+    },
+    {
+      "city_id": 182,
+      "name": "Piaski",
+      "slug": "piaski",
+      "name_locative": "Piaskach",
+      "county_id": 62,
+      "county_name": "świdnicki",
+      "latitude": 51.1378115,
+      "longitude": 22.8475225
+    },
+    {
+      "city_id": 173,
+      "name": "Poniatowa",
+      "slug": "poniatowa",
+      "name_locative": "Poniatowej",
+      "county_id": 57,
+      "county_name": "opolski",
+      "latitude": 51.19298,
+      "longitude": 22.06505
+    },
+    {
+      "city_id": 175,
+      "name": "Puławy",
+      "slug": "pulawy",
+      "name_locative": "Puławach",
+      "county_id": 59,
+      "county_name": "puławski",
+      "latitude": 51.4262598,
+      "longitude": 21.9853014
+    },
+    {
+      "city_id": 178,
+      "name": "Radzyń Podlaski",
+      "slug": "radzyn-podlaski",
+      "name_locative": "Radzyniu Podlaskim",
+      "county_id": 60,
+      "county_name": "radzyński",
+      "latitude": 51.77566625,
+      "longitude": 22.62494672
+    },
+    {
+      "city_id": 154,
+      "name": "Rejowiec",
+      "slug": "rejowiec",
+      "name_locative": "Rejowcu",
+      "county_id": 48,
+      "county_name": "chełmski",
+      "latitude": 51.0945453,
+      "longitude": 23.2832851
+    },
+    {
+      "city_id": 152,
+      "name": "Rejowiec Fabryczny",
+      "slug": "rejowiec-fabryczny",
+      "name_locative": "Rejowcu Fabrycznym",
+      "county_id": 48,
+      "county_name": "chełmski",
+      "latitude": 51.1194321,
+      "longitude": 23.24324596
+    },
+    {
+      "city_id": 180,
+      "name": "Ryki",
+      "slug": "ryki",
+      "name_locative": "Rykach",
+      "county_id": 61,
+      "county_name": "rycki",
+      "latitude": 51.6266968,
+      "longitude": 21.935696
+    },
+    {
+      "city_id": 153,
+      "name": "Siedliszcze",
+      "slug": "siedliszcze",
+      "name_locative": "Siedliszczu",
+      "county_id": 48,
+      "county_name": "chełmski",
+      "latitude": 51.1946235,
+      "longitude": 23.1648455
+    },
+    {
+      "city_id": 170,
+      "name": "Stoczek Łukowski",
+      "slug": "stoczek-lukowski",
+      "name_locative": "Stoczku Łukowskim",
+      "county_id": 56,
+      "county_name": "łukowski",
+      "latitude": 51.9567901,
+      "longitude": 21.96159359
+    },
+    {
+      "city_id": 189,
+      "name": "Szczebrzeszyn",
+      "slug": "szczebrzeszyn",
+      "name_locative": "Szczebrzeszynie",
+      "county_id": 65,
+      "county_name": "zamojski",
+      "latitude": 50.6946972,
+      "longitude": 22.9786754
+    },
+    {
+      "city_id": 151,
+      "name": "Tarnogród",
+      "slug": "tarnogrod",
+      "name_locative": "Tarnogrodzie",
+      "county_id": 47,
+      "county_name": "biłgorajski",
+      "latitude": 50.361309,
+      "longitude": 22.7419384
+    },
+    {
+      "city_id": 146,
+      "name": "Terespol",
+      "slug": "terespol",
+      "name_locative": "Terespolu",
+      "county_id": 46,
+      "county_name": "bialski",
+      "latitude": 52.0767199,
+      "longitude": 23.62227364
+    },
+    {
+      "city_id": 183,
+      "name": "Tomaszów Lubelski",
+      "slug": "tomaszow-lubelski",
+      "name_locative": "Tomaszowie Lubelskim",
+      "county_id": 63,
+      "county_name": "tomaszowski",
+      "latitude": 50.44792295,
+      "longitude": 23.42919536
+    },
+    {
+      "city_id": 186,
+      "name": "Tyszowce",
+      "slug": "tyszowce",
+      "name_locative": "Tyszowcach",
+      "county_id": 63,
+      "county_name": "tomaszowski",
+      "latitude": 50.6172008,
+      "longitude": 23.6982172
+    },
+    {
+      "city_id": 161,
+      "name": "Urzędów",
+      "slug": "urzedow",
+      "name_locative": "Urzędowie",
+      "county_id": 52,
+      "county_name": "kraśnicki",
+      "latitude": 50.9939046,
+      "longitude": 22.1435756
+    },
+    {
+      "city_id": 187,
+      "name": "Włodawa",
+      "slug": "wlodawa",
+      "name_locative": "Włodawie",
+      "county_id": 64,
+      "county_name": "włodawski",
+      "latitude": 51.54154425,
+      "longitude": 23.52880188
+    },
+    {
+      "city_id": 190,
+      "name": "Zwierzyniec",
+      "slug": "zwierzyniec",
+      "name_locative": "Zwierzyńcu",
+      "county_id": 65,
+      "county_name": "zamojski",
+      "latitude": 50.6145878,
+      "longitude": 22.9706317
+    },
+    {
+      "city_id": 185,
+      "name": "Łaszczów",
+      "slug": "laszczow",
+      "name_locative": "Łaszczowie",
+      "county_id": 63,
+      "county_name": "tomaszowski",
+      "latitude": 50.532615,
+      "longitude": 23.7263929
+    },
+    {
+      "city_id": 169,
+      "name": "Łuków",
+      "slug": "lukow",
+      "name_locative": "Łukowie",
+      "county_id": 56,
+      "county_name": "łukowski",
+      "latitude": 51.92506405,
+      "longitude": 22.37273044
+    },
+    {
+      "city_id": 168,
+      "name": "Łęczna",
+      "slug": "leczna",
+      "name_locative": "Łęcznej",
+      "county_id": 55,
+      "county_name": "łęczyński",
+      "latitude": 51.3002941,
+      "longitude": 22.886766
+    },
+    {
+      "city_id": 181,
+      "name": "Świdnik",
+      "slug": "swidnik",
+      "name_locative": "Świdniku",
+      "county_id": 62,
+      "county_name": "świdnicki",
+      "latitude": 51.2164934,
+      "longitude": 22.69095582
+    }
+  ],
+  "meta": {
+    "title": "Województwo lubelskie — miasta - Bezpłatne pobieranie",
+    "description": "Lista miast w województwie lubelskim (województwo lubelskie) — 46 pozycji, wraz ze współrzędnymi i przypisaniem do powiatu. Wyłączone są miasta na prawach powiatu (Warszawa, Kraków, Wrocław, …) — znajdują się w zbiorze pl-city-counties. List of cities (miasta) in the lubelskie voivodeship — 46 entries with coordinates and parent powiat. Excludes city-counties (see pl-city-counties). Zawiera 46 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo lubelskie — miasta | ListBase",
+    "seo_description": "Pobierz Województwo lubelskie — miasta — 46 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 46 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "pl-swietokrzyskie-counties",
+  "name": "Województwo świętokrzyskie — powiaty",
+  "title": "Województwo świętokrzyskie — powiaty",
+  "description": "Lista powiatów ziemskich w województwie świętokrzyskim (województwo świętokrzyskie) — 13 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the świętokrzyskie voivodeship — 13 entries. Excludes city-counties (see pl-city-counties).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "county_id",
+      "label": "County Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "county_id": 234,
+      "name": "buski",
+      "slug": "buski"
+    },
+    {
+      "county_id": 235,
+      "name": "jędrzejowski",
+      "slug": "jedrzejowski"
+    },
+    {
+      "county_id": 236,
+      "name": "kazimierski",
+      "slug": "kazimierski"
+    },
+    {
+      "county_id": 237,
+      "name": "kielecki",
+      "slug": "kielecki"
+    },
+    {
+      "county_id": 238,
+      "name": "konecki",
+      "slug": "konecki"
+    },
+    {
+      "county_id": 239,
+      "name": "opatowski",
+      "slug": "opatowski"
+    },
+    {
+      "county_id": 240,
+      "name": "ostrowiecki",
+      "slug": "ostrowiecki"
+    },
+    {
+      "county_id": 241,
+      "name": "pińczowski",
+      "slug": "pinczowski"
+    },
+    {
+      "county_id": 242,
+      "name": "sandomierski",
+      "slug": "sandomierski"
+    },
+    {
+      "county_id": 243,
+      "name": "skarżyski",
+      "slug": "skarzyski"
+    },
+    {
+      "county_id": 244,
+      "name": "starachowicki",
+      "slug": "starachowicki"
+    },
+    {
+      "county_id": 245,
+      "name": "staszowski",
+      "slug": "staszowski"
+    },
+    {
+      "county_id": 246,
+      "name": "włoszczowski",
+      "slug": "wloszczowski"
+    }
+  ],
+  "meta": {
+    "title": "Województwo świętokrzyskie — powiaty - Bezpłatne pobieranie",
+    "description": "Lista powiatów ziemskich w województwie świętokrzyskim (województwo świętokrzyskie) — 13 pozycji. Wyłączone są miasta na prawach powiatu (patrz pl-city-counties). List of rural powiaty in the świętokrzyskie voivodeship — 13 entries. Excludes city-counties (see pl-city-counties). Zawiera 13 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Województwo świętokrzyskie — powiaty | ListBase",
+    "seo_description": "Pobierz Województwo świętokrzyskie — powiaty — 13 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 13 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

@@ -1,0 +1,4786 @@
+{
+  "id": "pl-szpitale",
+  "name": "Polska — szpitale",
+  "title": "Polska — szpitale",
+  "description": "Szpitale w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 949,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Teresa\" Uzdrowiskowy Szpital Kardiologiczny",
+      "latitude": 50.728645,
+      "longitude": 16.345468
+    },
+    {
+      "name": "1 Wojskowy Szpital Kliniczny z Polikliniką SPZOZ w Lublinie Filia w Ełku",
+      "latitude": 53.820685,
+      "longitude": 22.361879
+    },
+    {
+      "name": "10 Wojskowy Szpital Kliniczny z Polikliniką",
+      "latitude": 53.142251,
+      "longitude": 18.013477
+    },
+    {
+      "name": "105. Kresowy Szpital Wojskowy z Przychodnią SP ZOZ w Żarach",
+      "latitude": 51.64291,
+      "longitude": 15.147671
+    },
+    {
+      "name": "107 Szpital Wojskowy z Przychodnią SPZOZ",
+      "latitude": 53.28198,
+      "longitude": 16.459839
+    },
+    {
+      "name": "109 Szpital Wojskowy z Przychodnią SP ZOZ",
+      "latitude": 53.442952,
+      "longitude": 14.540555
+    },
+    {
+      "name": "115 Szpital Wojskowy",
+      "latitude": 54.612064,
+      "longitude": 18.799093
+    },
+    {
+      "name": "116 Szpital Wojskowy z Przychodnią",
+      "latitude": 50.659867,
+      "longitude": 17.895353
+    },
+    {
+      "name": "21 Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny SP ZOZ",
+      "latitude": 50.454208,
+      "longitude": 20.720204
+    },
+    {
+      "name": "22 Wojskowy Szpital Uzrowiskowo-Rehabilitacyjny",
+      "latitude": 52.878199,
+      "longitude": 18.805192
+    },
+    {
+      "name": "23. Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny",
+      "latitude": 50.342206,
+      "longitude": 16.890489
+    },
+    {
+      "name": "5. Wojskowy Szpital Kliniczny z Polikliniką SP ZOZ w Krakowie",
+      "latitude": 50.076836,
+      "longitude": 19.934642
+    },
+    {
+      "name": "6 Szpital Wojskowy z Przychodnią",
+      "latitude": 51.554408,
+      "longitude": 21.856928
+    },
+    {
+      "name": "7 Szpital Marynarki Wojennej",
+      "latitude": 54.393037,
+      "longitude": 18.566292
+    },
+    {
+      "name": "Administracja",
+      "latitude": 53.124401,
+      "longitude": 23.162042
+    },
+    {
+      "name": "Angelius",
+      "latitude": 50.216625,
+      "longitude": 18.984472
+    },
+    {
+      "name": "Arion Szpitale - Zakład Opiekuńczo-Leczniczy w Tarnogrodzie",
+      "latitude": 50.360164,
+      "longitude": 22.743312
+    },
+    {
+      "name": "Arion Szpitale - Zespół Opieki Zdrowotnej w Biłgoraju",
+      "latitude": 50.528785,
+      "longitude": 22.713512
+    },
+    {
+      "name": "Ars Medical",
+      "latitude": 53.152411,
+      "longitude": 16.717577
+    },
+    {
+      "name": "Beskidzki Zespół Leczniczo-Rehabilitacyjny",
+      "latitude": 49.792831,
+      "longitude": 18.946814
+    },
+    {
+      "name": "Beskidzki Zespół Leczniczo-Rehabilitacyjny o. Dzieci i Młodzieży",
+      "latitude": 49.78977,
+      "longitude": 18.953643
+    },
+    {
+      "name": "Beskidzkie Centrum Medyczne",
+      "latitude": 49.785303,
+      "longitude": 19.031495
+    },
+    {
+      "name": "Beskidzkie Centrum Onkologii - Szpital Miejski im. Jana Pawła II",
+      "latitude": 49.820383,
+      "longitude": 19.023519
+    },
+    {
+      "name": "Beskidzkie Centrum Onkologii im. Jana Pawła II",
+      "latitude": 49.824008,
+      "longitude": 19.058089
+    },
+    {
+      "name": "Beskidzkie Centrum Zdrowia Psychicznego",
+      "latitude": 49.776776,
+      "longitude": 19.214847
+    },
+    {
+      "name": "Białostockie Centrum Onkologii im. Marii Skłodowskiej - Curie",
+      "latitude": 53.134593,
+      "longitude": 23.169494
+    },
+    {
+      "name": "Bielskie Centrum Psychiatrii - Olszówka w Bielsku-Białej",
+      "latitude": 49.783321,
+      "longitude": 19.035327
+    },
+    {
+      "name": "Bohumínská městská nemocnice",
+      "latitude": 49.918049,
+      "longitude": 18.337148
+    },
+    {
+      "name": "Bystrzyckie Centrum Zdrowia",
+      "latitude": 50.299911,
+      "longitude": 16.65342
+    },
+    {
+      "name": "Caritas Centrum Medyczno-Charytatywne im. Św. Józefa w Przemyślu",
+      "latitude": 49.775623,
+      "longitude": 22.782136
+    },
+    {
+      "name": "CDT Medicus",
+      "latitude": 51.38346,
+      "longitude": 16.203357
+    },
+    {
+      "name": "Centralny Szpital Kliniczny",
+      "latitude": 51.773965,
+      "longitude": 19.50809
+    },
+    {
+      "name": "Centralny Szpital Kliniczny MON",
+      "latitude": 52.252078,
+      "longitude": 21.089821
+    },
+    {
+      "name": "Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",
+      "latitude": 50.666776,
+      "longitude": 17.928086
+    },
+    {
+      "name": "Centrum Kliniczno-Dydaktyczne Uniwersytetu Medycznego",
+      "latitude": 51.775171,
+      "longitude": 19.505117
+    },
+    {
+      "name": "Centrum Leczenia Ambulatoryjnego nr.2",
+      "latitude": 49.785177,
+      "longitude": 22.775027
+    },
+    {
+      "name": "Centrum Leczenia Dzieci i Młodzieży w Zaborze",
+      "latitude": 51.949309,
+      "longitude": 15.715563
+    },
+    {
+      "name": "Centrum Leczenia Oparzeń",
+      "latitude": 50.304829,
+      "longitude": 19.029425
+    },
+    {
+      "name": "Centrum Medyczne Anmedlife",
+      "latitude": 50.724829,
+      "longitude": 19.435963
+    },
+    {
+      "name": "Centrum Medyczne BCM",
+      "latitude": 52.388136,
+      "longitude": 20.188642
+    },
+    {
+      "name": "Centrum Medyczne Bieńkowski - Klinika Chirurgii Plastycznej",
+      "latitude": 53.121503,
+      "longitude": 18.047872
+    },
+    {
+      "name": "Centrum Medyczne Gizińscy",
+      "latitude": 53.137651,
+      "longitude": 18.018952
+    },
+    {
+      "name": "Centrum Medyczne Grupa Zdrowie - Zakład Opiekuńczo Leczniczy dla osób z zaburzeniami psychicznymi",
+      "latitude": 52.818826,
+      "longitude": 20.04269
+    },
+    {
+      "name": "Centrum Medyczne HCP - Szpitala im. Św. Jana Pawła II",
+      "latitude": 52.383142,
+      "longitude": 16.911794
+    },
+    {
+      "name": "Centrum Medyczne im. Bitwy Warszawskiej 1920 roku",
+      "latitude": 52.414701,
+      "longitude": 21.190096
+    },
+    {
+      "name": "Centrum Medyczne Karpacz",
+      "latitude": 50.780664,
+      "longitude": 15.741035
+    },
+    {
+      "name": "Centrum Medyczne Olmedica w Olecku",
+      "latitude": 54.042297,
+      "longitude": 22.496865
+    },
+    {
+      "name": "Centrum Medyczne Sióstr Elżbietanek",
+      "latitude": 49.752818,
+      "longitude": 18.639741
+    },
+    {
+      "name": "Centrum Medyczne Smoluchowskiego",
+      "latitude": 54.364285,
+      "longitude": 18.617572
+    },
+    {
+      "name": "Centrum Medyczne w Łańcucie",
+      "latitude": 50.065419,
+      "longitude": 22.233345
+    },
+    {
+      "name": "Centrum medyczne w Żegocinie",
+      "latitude": 49.803179,
+      "longitude": 20.420687
+    },
+    {
+      "name": "Centrum Medyczne WAMED",
+      "latitude": 49.951217,
+      "longitude": 20.930363
+    },
+    {
+      "name": "Centrum Onkologii",
+      "latitude": 53.147664,
+      "longitude": 18.112208
+    },
+    {
+      "name": "Centrum Onkologii Instytut imienia Marii Skłodowskiej",
+      "latitude": 50.061635,
+      "longitude": 19.927268
+    },
+    {
+      "name": "Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli",
+      "latitude": 51.257943,
+      "longitude": 22.567921
+    },
+    {
+      "name": "Centrum Opieki Medycznej w Jarosławiu",
+      "latitude": 50.012928,
+      "longitude": 22.693666
+    },
+    {
+      "name": "Centrum Pediatrii",
+      "latitude": 50.273377,
+      "longitude": 19.19818
+    },
+    {
+      "name": "Centrum Psychiatrii w Katowicach imienia doktora Krzysztofa Czumy",
+      "latitude": 50.271377,
+      "longitude": 19.084494
+    },
+    {
+      "name": "Centrum Pulmonologii i Torakochirurgii w Bystrej",
+      "latitude": 49.765246,
+      "longitude": 19.069009
+    },
+    {
+      "name": "Centrum rehabilitacji im. prof. Mieczysława Walczaka",
+      "latitude": 51.902021,
+      "longitude": 16.673879
+    },
+    {
+      "name": "Centrum Terapii Nerwic",
+      "latitude": 50.441466,
+      "longitude": 17.772044
+    },
+    {
+      "name": "Centrum Zdrowia Dziecka",
+      "latitude": 52.206314,
+      "longitude": 21.193486
+    },
+    {
+      "name": "Centrum Zdrowia Psychicznego",
+      "latitude": 50.354934,
+      "longitude": 18.911684
+    },
+    {
+      "name": "Centrum Zdrowia Psychicznego w Słupsku",
+      "latitude": 54.468492,
+      "longitude": 17.044252
+    },
+    {
+      "name": "Centrum Zdrowia Tuchów",
+      "latitude": 49.893105,
+      "longitude": 21.060874
+    },
+    {
+      "name": "Certus",
+      "latitude": 52.392734,
+      "longitude": 16.859659
+    },
+    {
+      "name": "Chorzowskie Centrum Pediatrii i Onkologii im. dr Edwarda Hankego",
+      "latitude": 50.296654,
+      "longitude": 18.948778
+    },
+    {
+      "name": "Contact Med",
+      "latitude": 51.795518,
+      "longitude": 19.44854
+    },
+    {
+      "name": "Dolnośląski Szpital Specjalistyczny im. T. Marciniaka",
+      "latitude": 51.143334,
+      "longitude": 16.908553
+    },
+    {
+      "name": "Dolnośląskie Centrum Chorób Płuc",
+      "latitude": 51.101407,
+      "longitude": 17.005647
+    },
+    {
+      "name": "Dolnośląskie Centrum Chorób Płuc - Oddział Gruźlicy i Chorób Płuc",
+      "latitude": 51.307414,
+      "longitude": 16.891202
+    },
+    {
+      "name": "Dolnośląskie Centrum Onkologii",
+      "latitude": 51.095137,
+      "longitude": 17.017352
+    },
+    {
+      "name": "Dolnośląskie Centrum Rehabilitacji Sp. z o.o. w Kamiennej Górze",
+      "latitude": 50.777475,
+      "longitude": 16.059544
+    },
+    {
+      "name": "Dolnośląskie Centrum Zdrowia Psychicznego",
+      "latitude": 51.1294,
+      "longitude": 17.031152
+    },
+    {
+      "name": "Dolnośląskie Centrum Zdrowia Psychicznego dla Dzieci i Młodzieży (w budowie)",
+      "latitude": 51.399247,
+      "longitude": 16.195625
+    },
+    {
+      "name": "Dom Conolly",
+      "latitude": 52.084864,
+      "longitude": 16.638067
+    },
+    {
+      "name": "Dom Sue Ryder",
+      "latitude": 53.145198,
+      "longitude": 18.111802
+    },
+    {
+      "name": "Domowy Szpital",
+      "latitude": 52.03451,
+      "longitude": 23.110647
+    },
+    {
+      "name": "DR Jaczun",
+      "latitude": 53.028915,
+      "longitude": 18.60643
+    },
+    {
+      "name": "Drawskie Centrum Specjalistyczne",
+      "latitude": 53.525243,
+      "longitude": 15.811141
+    },
+    {
+      "name": "Dziecięcy Szpital Uzdrowiskowy im. dr Markiewicza",
+      "latitude": 52.884562,
+      "longitude": 18.790422
+    },
+    {
+      "name": "Dziecięcy Szpital Uzdrowiskowy „Mieszko”",
+      "latitude": 50.804881,
+      "longitude": 16.255181
+    },
+    {
+      "name": "Euromedic",
+      "latitude": 50.245446,
+      "longitude": 19.012557
+    },
+    {
+      "name": "EuroMediCare",
+      "latitude": 51.14158,
+      "longitude": 16.955958
+    },
+    {
+      "name": "Europejskie Centrum Zdrowia Otwock",
+      "latitude": 52.12155,
+      "longitude": 21.29957
+    },
+    {
+      "name": "FILIA 105. Kresowy Szpital Wojskowy z Przychodnią SPZOZ",
+      "latitude": 51.612358,
+      "longitude": 15.332053
+    },
+    {
+      "name": "Filia Nr 2 Szpital Rehabilitacyjno - Kardiologiczny w Kowanówku",
+      "latitude": 52.683283,
+      "longitude": 16.844504
+    },
+    {
+      "name": "Filia nr 3 Wielkopolskiego Centrum Rehabilitacji",
+      "latitude": 52.478392,
+      "longitude": 16.783824
+    },
+    {
+      "name": "Fizjoterapeuta Poznań | FIZJO FAMILIA | Rehabilitacja, Trening personalny, Masaż",
+      "latitude": 52.411039,
+      "longitude": 16.912085
+    },
+    {
+      "name": "Forrest Ośrodek Leczenia Uzależnień",
+      "latitude": 53.458665,
+      "longitude": 17.524116
+    },
+    {
+      "name": "Gameta",
+      "latitude": 50.781434,
+      "longitude": 20.464692
+    },
+    {
+      "name": "Ginekologiczno-Położniczy Szpital Kliniczny",
+      "latitude": 52.409551,
+      "longitude": 16.896066
+    },
+    {
+      "name": "Górnośląski Ośrodek Kardiologii",
+      "latitude": 50.211457,
+      "longitude": 19.001033
+    },
+    {
+      "name": "Górnośląskie Centrum Rehabilitacji im. gen. Jerzego Ziętka",
+      "latitude": 50.430457,
+      "longitude": 18.806924
+    },
+    {
+      "name": "Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II",
+      "latitude": 50.223506,
+      "longitude": 18.950545
+    },
+    {
+      "name": "Głogowski Szpital Powiatowy",
+      "latitude": 51.655067,
+      "longitude": 16.076487
+    },
+    {
+      "name": "Hospicjum im. Św. Jadwigi",
+      "latitude": 50.056428,
+      "longitude": 22.496955
+    },
+    {
+      "name": "I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji SPSK 1",
+      "latitude": 51.206813,
+      "longitude": 22.588341
+    },
+    {
+      "name": "I Szpital Miejski im. dr. Emanuela Sonnenberga",
+      "latitude": 51.782253,
+      "longitude": 19.525089
+    },
+    {
+      "name": "I Wojskowy Szpital Kliniczny z Polikliniką SPZOZ w Lublinie",
+      "latitude": 51.251011,
+      "longitude": 22.534258
+    },
+    {
+      "name": "Ibis",
+      "latitude": 52.240888,
+      "longitude": 20.980105
+    },
+    {
+      "name": "II Szpital Miejski im. dr Ludwika Rydygiera",
+      "latitude": 51.777456,
+      "longitude": 19.468317
+    },
+    {
+      "name": "III Szpital Miejski im. dr. Karola Jonschera",
+      "latitude": 51.751482,
+      "longitude": 19.483195
+    },
+    {
+      "name": "Instytut Centrum Zdrowia Matki Polki",
+      "latitude": 51.706594,
+      "longitude": 19.479513
+    },
+    {
+      "name": "Instytut Geriatrii, Reumatologii i Rehabilitacji",
+      "latitude": 52.190915,
+      "longitude": 20.994366
+    },
+    {
+      "name": "Instytut Gruźlicy i Chorób Płuc",
+      "latitude": 52.235988,
+      "longitude": 20.966209
+    },
+    {
+      "name": "Instytut Gruźlicy i Chorób Płuc - Oddział Terenowy im. Jana i Ireny Rudników",
+      "latitude": 49.605612,
+      "longitude": 19.968798
+    },
+    {
+      "name": "Instytut Matki i Dziecka",
+      "latitude": 52.226933,
+      "longitude": 20.970302
+    },
+    {
+      "name": "Instytut Medycyny Wsi im. Witolda Chodźki",
+      "latitude": 51.255932,
+      "longitude": 22.563146
+    },
+    {
+      "name": "Instytut Onkologii",
+      "latitude": 52.215169,
+      "longitude": 20.983462
+    },
+    {
+      "name": "Instytut Psychiatrii i Neurologii",
+      "latitude": 52.172153,
+      "longitude": 21.064318
+    },
+    {
+      "name": "IV Wojskowy Szpital Kliniczny",
+      "latitude": 51.074304,
+      "longitude": 17.019999
+    },
+    {
+      "name": "Izba Przyjęć",
+      "latitude": 53.736853,
+      "longitude": 19.206766
+    },
+    {
+      "name": "Izba Przyjęć Oddziału Ginekologiczno-Położniczego",
+      "latitude": 51.653739,
+      "longitude": 17.824867
+    },
+    {
+      "name": "Izba Przyjęć USK nr 1 w Lublinie",
+      "latitude": 51.25174,
+      "longitude": 22.563887
+    },
+    {
+      "name": "Izerskie Centrum Pulmonologii i Chemioterapii „IZER-MED” Oddział przy ul. Szpitalnej 1",
+      "latitude": 50.832597,
+      "longitude": 15.522198
+    },
+    {
+      "name": "Jaworskie Centrum Medyczne",
+      "latitude": 51.046648,
+      "longitude": 16.198881
+    },
+    {
+      "name": "Katowickie Centrum Onkologii",
+      "latitude": 50.255367,
+      "longitude": 19.004956
+    },
+    {
+      "name": "Katowickie Centrum Onkologii Zespół nr 2",
+      "latitude": 50.286225,
+      "longitude": 19.012829
+    },
+    {
+      "name": "Klinika \"Przylądek Nadziei\"",
+      "latitude": 51.074756,
+      "longitude": 17.027194
+    },
+    {
+      "name": "Klinika 2000",
+      "latitude": 50.267196,
+      "longitude": 19.008493
+    },
+    {
+      "name": "Klinika chirurgii onkologicznej SPSK1",
+      "latitude": 51.249879,
+      "longitude": 22.558991
+    },
+    {
+      "name": "Klinika Chorób Zakaźnych Wojewódzkiego Szpitala Zespolonego",
+      "latitude": 50.874895,
+      "longitude": 20.637547
+    },
+    {
+      "name": "Klinika i Szpital Medical Esthetic",
+      "latitude": 52.173313,
+      "longitude": 21.011275
+    },
+    {
+      "name": "Klinika Life-Med Bis",
+      "latitude": 52.067365,
+      "longitude": 20.442196
+    },
+    {
+      "name": "Klinika Ort-Medica Centeum Medyczne",
+      "latitude": 51.627672,
+      "longitude": 17.805602
+    },
+    {
+      "name": "Klinika Pro Bono",
+      "latitude": 52.377147,
+      "longitude": 16.880528
+    },
+    {
+      "name": "Klinika Psychiatrii Pomorskiego Uniwersytetu Medycznego",
+      "latitude": 53.454318,
+      "longitude": 14.533008
+    },
+    {
+      "name": "Klinika św. Łukasza",
+      "latitude": 49.782282,
+      "longitude": 19.067008
+    },
+    {
+      "name": "Klinikum Frankfurt (Oder) - Zweigstelle",
+      "latitude": 52.341358,
+      "longitude": 14.542573
+    },
+    {
+      "name": "Klinikum Oberlausitzer Bergland",
+      "latitude": 50.899295,
+      "longitude": 14.821207
+    },
+    {
+      "name": "Kolejowy Szpital Uzdrowiskowy",
+      "latitude": 52.877971,
+      "longitude": 18.78979
+    },
+    {
+      "name": "Kolejowy Szpital Uzdrowiskowy",
+      "latitude": 52.880864,
+      "longitude": 18.689598
+    },
+    {
+      "name": "Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym",
+      "latitude": 52.398635,
+      "longitude": 19.496743
+    },
+    {
+      "name": "Krakowski Szpital Reumatologii i Rehabilitacji",
+      "latitude": 50.057389,
+      "longitude": 19.91395
+    },
+    {
+      "name": "Krakowski Szpital Specjalistyczny imienia świętego Jana Pawła II",
+      "latitude": 50.089933,
+      "longitude": 19.93589
+    },
+    {
+      "name": "Krakowskie Centrum Rehabilitacji",
+      "latitude": 50.062602,
+      "longitude": 19.867171
+    },
+    {
+      "name": "Krapkowickie Centrum Zdrowia",
+      "latitude": 50.492013,
+      "longitude": 17.971823
+    },
+    {
+      "name": "Krnovská nemocnice",
+      "latitude": 50.095954,
+      "longitude": 17.688042
+    },
+    {
+      "name": "Kujawsko-Pomorskie Centrum Pulmonologii Oddział Smukała",
+      "latitude": 53.185576,
+      "longitude": 17.949174
+    },
+    {
+      "name": "Kujawsko-Pomorskie Centrum Pulmonologii Oddział Smukała",
+      "latitude": 53.185641,
+      "longitude": 17.948196
+    },
+    {
+      "name": "Kujawsko-Pomorskie Centrum Pulmonologii w Bydgoszczy",
+      "latitude": 53.121233,
+      "longitude": 17.983092
+    },
+    {
+      "name": "Kutnowski Szpital Samorządowy Sp. z o.o. im. dr Antoniego Troczewskiego",
+      "latitude": 52.238671,
+      "longitude": 19.37325
+    },
+    {
+      "name": "Leszczyńskie Centrum Medyczne Ventriculus",
+      "latitude": 51.842383,
+      "longitude": 16.569361
+    },
+    {
+      "name": "Lubuski Szpital Specjalistyczny Pulmonologiczno-Kardiologiczny w Torzymiu",
+      "latitude": 52.315498,
+      "longitude": 15.061162
+    },
+    {
+      "name": "Lux Med",
+      "latitude": 52.280783,
+      "longitude": 21.012266
+    },
+    {
+      "name": "Lux Med",
+      "latitude": 54.361902,
+      "longitude": 18.603966
+    },
+    {
+      "name": "Luxmed",
+      "latitude": 52.13828,
+      "longitude": 21.018857
+    },
+    {
+      "name": "Luxmed Onkologia",
+      "latitude": 52.25792,
+      "longitude": 20.960248
+    },
+    {
+      "name": "Magodent Szpital Onkologiczny",
+      "latitude": 52.296438,
+      "longitude": 21.05389
+    },
+    {
+      "name": "Mazowiecki Oddział Wojewódzki NFZ - Delegatura w Radomiu",
+      "latitude": 51.43239,
+      "longitude": 21.16471
+    },
+    {
+      "name": "Mazowiecki Szpital Bródnowski",
+      "latitude": 52.290796,
+      "longitude": 21.045128
+    },
+    {
+      "name": "Mazowiecki Szpital Onkologiczny",
+      "latitude": 52.438558,
+      "longitude": 20.962324
+    },
+    {
+      "name": "Mazowiecki Szpital Specjalistyczny im. dr Józefa Psarskiego w Ostrołęce",
+      "latitude": 53.063282,
+      "longitude": 21.591067
+    },
+    {
+      "name": "Mazowiecki Szpital Specjalistyczny Sp. z.o.o. w Radomiu",
+      "latitude": 51.438196,
+      "longitude": 21.159344
+    },
+    {
+      "name": "Mazowiecki Szpital Wojewódzki Drewnica",
+      "latitude": 52.299134,
+      "longitude": 21.111191
+    },
+    {
+      "name": "Mazowiecki Szpital Wojewódzki w Siedlcach",
+      "latitude": 52.176268,
+      "longitude": 22.291526
+    },
+    {
+      "name": "Mazowieckie Centrum Leczenia Chorób Płuc i Gruźlicy",
+      "latitude": 52.111703,
+      "longitude": 21.295743
+    },
+    {
+      "name": "Mazowieckie Centrum Leczenia Chorób Płuc i Gruźlicy - Oddział I Chorób Płuc i Gruźlicy dla Dzieci",
+      "latitude": 52.121986,
+      "longitude": 21.283823
+    },
+    {
+      "name": "Mazowieckie Centrum Neuropsychiatrii",
+      "latitude": 52.128176,
+      "longitude": 21.236057
+    },
+    {
+      "name": "Mazowieckie Centrum Neuropsychiatrii",
+      "latitude": 52.199282,
+      "longitude": 21.244621
+    },
+    {
+      "name": "Mazowieckie Centrum Rehabilitacji \"Stocer\"",
+      "latitude": 52.082009,
+      "longitude": 21.112989
+    },
+    {
+      "name": "Małopolski Szpital Chorób Płuc i Rehabilitacji im. Edmunda Wojtyły",
+      "latitude": 50.342755,
+      "longitude": 19.615041
+    },
+    {
+      "name": "Małopolski Szpital Chorób Płuc i Rehabilitacji im. Edmunda Wojtyły",
+      "latitude": 50.343257,
+      "longitude": 19.615606
+    },
+    {
+      "name": "Medeor Plus",
+      "latitude": 51.788072,
+      "longitude": 19.446996
+    },
+    {
+      "name": "Medicover",
+      "latitude": 52.154894,
+      "longitude": 21.077786
+    },
+    {
+      "name": "MedPolonia",
+      "latitude": 52.448086,
+      "longitude": 16.907978
+    },
+    {
+      "name": "Miedziowe Centrum Zdrowia SA Szpital",
+      "latitude": 51.408451,
+      "longitude": 16.194895
+    },
+    {
+      "name": "Miejski Szpital Zespolony",
+      "latitude": 50.812834,
+      "longitude": 19.133858
+    },
+    {
+      "name": "Miejski Szpital Zespolony im. dr. Władysława Biegańskiego",
+      "latitude": 50.801399,
+      "longitude": 19.114878
+    },
+    {
+      "name": "Miejski Szpital Zespolony w Olsztynie",
+      "latitude": 53.76992,
+      "longitude": 20.479125
+    },
+    {
+      "name": "Miejski Szpital Zespolony w Olsztynie - Filia",
+      "latitude": 53.798712,
+      "longitude": 20.483163
+    },
+    {
+      "name": "Miejskie Centrum Opieki dla Osób Starszych, Przewlekle Niepełnosprawnych oraz Niesamodzielnych",
+      "latitude": 50.009236,
+      "longitude": 20.006286
+    },
+    {
+      "name": "Milickie Centrum Medyczne",
+      "latitude": 51.516917,
+      "longitude": 17.26074
+    },
+    {
+      "name": "Międzyleski Szpital Specjalistyczny",
+      "latitude": 52.204203,
+      "longitude": 21.183449
+    },
+    {
+      "name": "Międzynarodowe Centrum Słuchu",
+      "latitude": 52.0964,
+      "longitude": 20.822699
+    },
+    {
+      "name": "Mościckie Centrum Medyczne SPZOZ",
+      "latitude": 50.0141,
+      "longitude": 20.91835
+    },
+    {
+      "name": "Naemi-Wilke-Stift",
+      "latitude": 51.945671,
+      "longitude": 14.714278
+    },
+    {
+      "name": "Namysłowskie Centrum Zdrowia SA",
+      "latitude": 51.083396,
+      "longitude": 17.709303
+    },
+    {
+      "name": "Narodowy Instytut Kardiologii",
+      "latitude": 52.218221,
+      "longitude": 21.174246
+    },
+    {
+      "name": "Narodowy Instytut Onkologii",
+      "latitude": 52.14676,
+      "longitude": 21.03249
+    },
+    {
+      "name": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+      "latitude": 50.301875,
+      "longitude": 18.6658
+    },
+    {
+      "name": "Nefrolux",
+      "latitude": 50.304017,
+      "longitude": 19.031078
+    },
+    {
+      "name": "Nemocnice Český Těšín",
+      "latitude": 49.746299,
+      "longitude": 18.610522
+    },
+    {
+      "name": "Neurologia",
+      "latitude": 53.124804,
+      "longitude": 23.162182
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Długoterminowej pw. \"Szpital św. Jerzego\"",
+      "latitude": 53.506377,
+      "longitude": 19.749115
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej \"BHMed\" sp. z o. o.",
+      "latitude": 50.83001,
+      "longitude": 16.511906
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej \"Nowy Szpital\" w Kostrzynie nad Odrą",
+      "latitude": 52.607295,
+      "longitude": 14.640862
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej - Szpital Specjalistyczny im. Prof. E. Michałowskiego",
+      "latitude": 50.25374,
+      "longitude": 19.006245
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej CARE",
+      "latitude": 51.857988,
+      "longitude": 19.421559
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej Esculap Sp. z o.o.",
+      "latitude": 52.321016,
+      "longitude": 21.10474
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej MEDICUS s.c.",
+      "latitude": 50.093687,
+      "longitude": 18.233436
+    },
+    {
+      "name": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. Profesora Zbigniewa Religi w Słubicach sp. z o.o.",
+      "latitude": 52.351654,
+      "longitude": 14.556665
+    },
+    {
+      "name": "Nowodworskie Centrum Medyczne",
+      "latitude": 52.419819,
+      "longitude": 20.72518
+    },
+    {
+      "name": "Nowy Szpital",
+      "latitude": 52.252056,
+      "longitude": 15.534493
+    },
+    {
+      "name": "Nowy Szpital Olkusz",
+      "latitude": 50.269174,
+      "longitude": 19.56941
+    },
+    {
+      "name": "Nowy Szpital w Nakle i Szubinie",
+      "latitude": 53.008063,
+      "longitude": 17.730325
+    },
+    {
+      "name": "Nowy Szpital w Szprotawie sp. z o.o.",
+      "latitude": 51.567161,
+      "longitude": 15.552691
+    },
+    {
+      "name": "Nowy Szpital w Świeciu",
+      "latitude": 53.413434,
+      "longitude": 18.467289
+    },
+    {
+      "name": "Nowy Szpital we Wschowie",
+      "latitude": 51.804708,
+      "longitude": 16.322579
+    },
+    {
+      "name": "NTM - Szpital Specjalistyczny im. Świętej Rodziny w Rudnej Małej",
+      "latitude": 50.104935,
+      "longitude": 21.978983
+    },
+    {
+      "name": "NZOZ \"Prof-Med\" Sp. z o.o.",
+      "latitude": 51.12764,
+      "longitude": 23.47003
+    },
+    {
+      "name": "NZOZ Nowy Szpital w Nakle i Szubinie",
+      "latitude": 53.140074,
+      "longitude": 17.593513
+    },
+    {
+      "name": "NZOZ Poddębickie Centrum Zdrowia",
+      "latitude": 51.888862,
+      "longitude": 18.953766
+    },
+    {
+      "name": "NZOZ Szpital Mazovia",
+      "latitude": 52.142455,
+      "longitude": 21.052409
+    },
+    {
+      "name": "NZOZ Szpital na Siemiradzkiego im. R. Czerwiakowskiego",
+      "latitude": 50.069504,
+      "longitude": 19.932231
+    },
+    {
+      "name": "NZOZ Szpital Powiatowy",
+      "latitude": 50.683524,
+      "longitude": 16.609581
+    },
+    {
+      "name": "NZOZ Szpital pw. Św. Jana Jerozolimskiego w Szczyrzycu",
+      "latitude": 49.781277,
+      "longitude": 20.18984
+    },
+    {
+      "name": "NZOZ Szpital Specjalistyczny im. W. Biegańskiego w Jędrzejowie",
+      "latitude": 50.648976,
+      "longitude": 20.302244
+    },
+    {
+      "name": "NZOZ Zakład Opiekuńczo-Leczniczy i Rehabilitacyjny w Bilczy",
+      "latitude": 50.774409,
+      "longitude": 20.616229
+    },
+    {
+      "name": "Oddział Chirurgii Ogólnej i Chirurgii klatki Piersiowej",
+      "latitude": 53.736638,
+      "longitude": 19.209373
+    },
+    {
+      "name": "Oddział Dzienny Psychiatryczny dla Dzieci i Młodzieży",
+      "latitude": 52.174927,
+      "longitude": 21.064778
+    },
+    {
+      "name": "Oddział Dzienny Psychiatryczny Ogólny Świętokrzyskiego Centrum Psychiatrii w Morawicy",
+      "latitude": 50.854552,
+      "longitude": 20.598546
+    },
+    {
+      "name": "Oddział Leczenia Uzależnień 1, WCN w Kościanie",
+      "latitude": 52.076702,
+      "longitude": 16.62583
+    },
+    {
+      "name": "ODDZIAŁ MEDYCYNY PALIATYWNEJ SZPITALA OGÓLNEGO im. dr Edmunda Wojtyły w Bielsku-Białej",
+      "latitude": 49.82039,
+      "longitude": 19.023753
+    },
+    {
+      "name": "Oddział Opiekuńczo-Leczniczy Psychiatryczny dla mężczyzn w Owińskach",
+      "latitude": 52.510143,
+      "longitude": 16.973128
+    },
+    {
+      "name": "Oddział Psychiatryczny",
+      "latitude": 53.737686,
+      "longitude": 19.205492
+    },
+    {
+      "name": "Oddział Psychiatryczny w Siekowie",
+      "latitude": 52.049798,
+      "longitude": 16.346455
+    },
+    {
+      "name": "Oddział Pulmunologii",
+      "latitude": 53.736758,
+      "longitude": 19.209071
+    },
+    {
+      "name": "Oddział Rehabilitacyjny oraz Pododdział Rehabilitacji Neurologicznej - część szpitala w Krotoszynie",
+      "latitude": 51.825786,
+      "longitude": 17.447774
+    },
+    {
+      "name": "Oddział Zakaźny",
+      "latitude": 53.69307,
+      "longitude": 19.975542
+    },
+    {
+      "name": "Okręgowy Szpital Kolejowy",
+      "latitude": 50.226725,
+      "longitude": 18.959262
+    },
+    {
+      "name": "Opolskie Centrum Onkologii",
+      "latitude": 50.671655,
+      "longitude": 17.93773
+    },
+    {
+      "name": "Opolskie Centrum Rehabilitacji w Korfantowie",
+      "latitude": 50.488215,
+      "longitude": 17.59306
+    },
+    {
+      "name": "Orti Szpital Chirurgii Jednego Dnia w Zimnej Wodzie",
+      "latitude": 49.758752,
+      "longitude": 21.55925
+    },
+    {
+      "name": "Ortopedyczno-Rehabilitacyjny Szpital Kliniczny im. Wiktora Degi",
+      "latitude": 52.389748,
+      "longitude": 16.921528
+    },
+    {
+      "name": "Ośrodek Edukacyjno-Leczniczo-Rehabilitacyjny dla Dzieci Niewidomych i Niedowidzących",
+      "latitude": 49.953618,
+      "longitude": 19.004969
+    },
+    {
+      "name": "Ośrodek Kardiologii Inwazyjnej IKARDIA",
+      "latitude": 51.284385,
+      "longitude": 22.208377
+    },
+    {
+      "name": "Ośrodek Leczniczo-Rehabilitacyjny \"Pałac Kamieniec\" Sp. z o.o.",
+      "latitude": 50.403717,
+      "longitude": 18.710758
+    },
+    {
+      "name": "Ośrodek Pediatryczny im. dr J. Korczaka - Wojewódzki Szpital Specjalistyczny im. M.Kopernika w Łodzi",
+      "latitude": 51.759943,
+      "longitude": 19.48453
+    },
+    {
+      "name": "Ośrodek Rehabilitacji im. prof. dr. Wiktora Degi",
+      "latitude": 51.146449,
+      "longitude": 15.007392
+    },
+    {
+      "name": "Ośrodek Rehabilitacyjno-Reumatologiczny",
+      "latitude": 49.937581,
+      "longitude": 18.979307
+    },
+    {
+      "name": "Ośrodek Szkoleniowo Wypoczynkowy WSPR Szczecin",
+      "latitude": 54.169958,
+      "longitude": 15.553277
+    },
+    {
+      "name": "Ośrodek Terapii Odwykowej Uzależnień",
+      "latitude": 53.037789,
+      "longitude": 18.604755
+    },
+    {
+      "name": "Ośrodek Terapii Uzależnień w Smażynie",
+      "latitude": 54.483305,
+      "longitude": 18.111637
+    },
+    {
+      "name": "Ośrodek Wczesnej Rehabilitacji Kardiologicznej",
+      "latitude": 51.697237,
+      "longitude": 19.452537
+    },
+    {
+      "name": "Pabianickie Centrum Medyczne (szpital powiatowy)",
+      "latitude": 51.652176,
+      "longitude": 19.329967
+    },
+    {
+      "name": "Pabianickie Centrum Psychiatryczne",
+      "latitude": 51.650467,
+      "longitude": 19.329943
+    },
+    {
+      "name": "Pałuckie Centrum Zdrowia Szpital",
+      "latitude": 52.846658,
+      "longitude": 17.716725
+    },
+    {
+      "name": "Państwowy Instytut Medyczny MSWiA",
+      "latitude": 52.19893,
+      "longitude": 20.997202
+    },
+    {
+      "name": "Państwowy Szpital Kliniczny Dzieciątka Jezus",
+      "latitude": 52.22406,
+      "longitude": 20.997779
+    },
+    {
+      "name": "PJ-Med Rehabilitacja",
+      "latitude": 50.974763,
+      "longitude": 15.525323
+    },
+    {
+      "name": "Pleszewskie Centrum Medyczne",
+      "latitude": 51.896885,
+      "longitude": 17.765513
+    },
+    {
+      "name": "Podhalański Szpital Specjalistyczny im. Jana Pawła II w Nowym Targu",
+      "latitude": 49.489845,
+      "longitude": 20.029408
+    },
+    {
+      "name": "Pogotowie, Nocna i Świąteczna Opieka Lekarska",
+      "latitude": 51.787032,
+      "longitude": 14.969305
+    },
+    {
+      "name": "Poliklinika - Szpital MSWiA",
+      "latitude": 51.942072,
+      "longitude": 15.520738
+    },
+    {
+      "name": "Polkowickie Centrum Usług Zdrowotnych",
+      "latitude": 51.507794,
+      "longitude": 16.064858
+    },
+    {
+      "name": "Polsko-Amerykańskie Kliniki Serca Centrum Sercowo-Naczyniowe w Augustowie",
+      "latitude": 53.850929,
+      "longitude": 22.995583
+    },
+    {
+      "name": "Pomorskie Centrum Rehabilitacji - Szpital w Dzierżążnie",
+      "latitude": 54.327976,
+      "longitude": 18.261817
+    },
+    {
+      "name": "Pomorskie Centrum Reumatologiczne",
+      "latitude": 54.446932,
+      "longitude": 18.54054
+    },
+    {
+      "name": "Poradnie specjalistyczne",
+      "latitude": 51.633481,
+      "longitude": 22.911304
+    },
+    {
+      "name": "Powiatowe Centrum Matki i Dziecka",
+      "latitude": 51.400639,
+      "longitude": 19.690209
+    },
+    {
+      "name": "Powiatowe Centrum Medyczne",
+      "latitude": 54.374735,
+      "longitude": 19.829712
+    },
+    {
+      "name": "Powiatowe Centrum Medyczne - Szpital Powiatowy w Wieruszowie",
+      "latitude": 51.294084,
+      "longitude": 18.164461
+    },
+    {
+      "name": "Powiatowe Centrum Medyczne w Grójcu",
+      "latitude": 51.868096,
+      "longitude": 20.868115
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia",
+      "latitude": 51.112011,
+      "longitude": 15.586087
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia",
+      "latitude": 52.662561,
+      "longitude": 19.058903
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia",
+      "latitude": 54.031354,
+      "longitude": 19.022108
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia S.A.",
+      "latitude": 50.96716,
+      "longitude": 18.216726
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia w Opolu Lubelskim",
+      "latitude": 51.151722,
+      "longitude": 21.975298
+    },
+    {
+      "name": "Powiatowe Centrum Zdrowia w Opolu Lubelskim, Szpital Powiatowy w Poniatowej",
+      "latitude": 51.174238,
+      "longitude": 22.074474
+    },
+    {
+      "name": "Powiatowy Szpital Na Wyspie w Żarach",
+      "latitude": 51.643844,
+      "longitude": 15.152489
+    },
+    {
+      "name": "Powiatowy Szpital Pomocy Maltańskiej",
+      "latitude": 53.829148,
+      "longitude": 20.695046
+    },
+    {
+      "name": "Powiatowy Szpital Specjalistyczny w Stalowej Woli",
+      "latitude": 50.563814,
+      "longitude": 22.069589
+    },
+    {
+      "name": "Powiatowy Szpital w Iławie",
+      "latitude": 53.585425,
+      "longitude": 19.566381
+    },
+    {
+      "name": "Powiatowy Zakład Opiekuńczo-Leczniczy",
+      "latitude": 49.979462,
+      "longitude": 19.236521
+    },
+    {
+      "name": "Powiatowy Zespół Szpitali im. Józefa Dietla",
+      "latitude": 51.208529,
+      "longitude": 17.390753
+    },
+    {
+      "name": "Powiatowy Zespół Szpitali Syców",
+      "latitude": 51.302898,
+      "longitude": 17.705395
+    },
+    {
+      "name": "Pro-Medica",
+      "latitude": 53.793845,
+      "longitude": 22.338938
+    },
+    {
+      "name": "Prywatny Szpital Położniczo Ginekologiczny",
+      "latitude": 50.206041,
+      "longitude": 18.98997
+    },
+    {
+      "name": "Przychodnia Rejonowa w Dynowie",
+      "latitude": 49.814507,
+      "longitude": 22.223351
+    },
+    {
+      "name": "Przychodnia Rodzinna na Sadowej",
+      "latitude": 53.051516,
+      "longitude": 18.572236
+    },
+    {
+      "name": "Przyjazny Szpital w Połczynie-Zdroju",
+      "latitude": 53.762975,
+      "longitude": 16.09033
+    },
+    {
+      "name": "Radomski Szpital Specjalistyczny im. dr Tytusa Chałubińskiego - Oddział Rehabilitacji",
+      "latitude": 51.39526,
+      "longitude": 21.168637
+    },
+    {
+      "name": "Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego",
+      "latitude": 51.399085,
+      "longitude": 21.145915
+    },
+    {
+      "name": "Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego - Budynek Specjalistyczny",
+      "latitude": 51.40054,
+      "longitude": 21.145093
+    },
+    {
+      "name": "Radomskie Centrum Onkologii",
+      "latitude": 51.412759,
+      "longitude": 21.11135
+    },
+    {
+      "name": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa",
+      "latitude": 50.25547,
+      "longitude": 19.006888
+    },
+    {
+      "name": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa",
+      "latitude": 51.871885,
+      "longitude": 21.63831
+    },
+    {
+      "name": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa im. dr Konrada Vietha w Radomiu",
+      "latitude": 51.398032,
+      "longitude": 21.137246
+    },
+    {
+      "name": "Regionalne Centrum Medyczne w Białogardzie",
+      "latitude": 54.007038,
+      "longitude": 16.007593
+    },
+    {
+      "name": "Regionalne Centrum Medyczne w Białogardzie (stary szpital)",
+      "latitude": 54.006396,
+      "longitude": 15.97124
+    },
+    {
+      "name": "Regionalne Centrum Onkologii - Zakład Teleradioterapii",
+      "latitude": 52.657747,
+      "longitude": 19.075178
+    },
+    {
+      "name": "Regionalne Centrum Zdrowia",
+      "latitude": 51.400528,
+      "longitude": 16.197314
+    },
+    {
+      "name": "Regionalny Ośrodek Onkologiczny",
+      "latitude": 51.730725,
+      "longitude": 19.456532
+    },
+    {
+      "name": "Regionalny Ośrodek Rehabilitacyjno-Edukacyjny dla Dzieci i Młodzieży",
+      "latitude": 50.035108,
+      "longitude": 22.039864
+    },
+    {
+      "name": "Regionalny Szpital Specjalistyczny im. doktora Władysława Biegańskiego",
+      "latitude": 53.452796,
+      "longitude": 18.785921
+    },
+    {
+      "name": "Regionalny Szpital w Kołobrzegu",
+      "latitude": 54.173934,
+      "longitude": 15.567984
+    },
+    {
+      "name": "Rehabilitacja",
+      "latitude": 51.946031,
+      "longitude": 14.727819
+    },
+    {
+      "name": "Rehabilitacja",
+      "latitude": 53.693216,
+      "longitude": 19.976063
+    },
+    {
+      "name": "Rehabilitační ústav Hrabyně. Pracoviště Chuchelná",
+      "latitude": 49.988888,
+      "longitude": 18.1164
+    },
+    {
+      "name": "Revital Medic",
+      "latitude": 53.023756,
+      "longitude": 18.609101
+    },
+    {
+      "name": "RP Clinic",
+      "latitude": 50.105605,
+      "longitude": 19.982327
+    },
+    {
+      "name": "S-Med Dydnia POZ ośrodek zdrowia",
+      "latitude": 49.656803,
+      "longitude": 22.076502
+    },
+    {
+      "name": "Salus",
+      "latitude": 54.453546,
+      "longitude": 17.029182
+    },
+    {
+      "name": "Salve Szpital",
+      "latitude": 51.803761,
+      "longitude": 19.377659
+    },
+    {
+      "name": "Samodzielne Publiczne Sanatorium Gruźlicy i Chorób Płuc",
+      "latitude": 51.185376,
+      "longitude": 22.069495
+    },
+    {
+      "name": "Samodzielne Publiczne Sanatorium Rehabilitacyjne im. Janusza Korczaka",
+      "latitude": 50.549889,
+      "longitude": 23.196727
+    },
+    {
+      "name": "Samodzielny Ośrodek Rehabilitacyjno-Oświatowy dla Dzieci Niepełnosprawnych",
+      "latitude": 50.283789,
+      "longitude": 18.970779
+    },
+    {
+      "name": "Samodzielny Publiczny Kliniczny Szpital Okulistyczny w Warszawie",
+      "latitude": 52.251313,
+      "longitude": 21.029483
+    },
+    {
+      "name": "Samodzielny Publiczny Psychiatryczny Zakład Opieki Zdrowotnej im. dr. Stanisława Deresza",
+      "latitude": 53.150574,
+      "longitude": 22.983191
+    },
+    {
+      "name": "Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. Jana Pawła II",
+      "latitude": 52.095438,
+      "longitude": 20.616003
+    },
+    {
+      "name": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Lęborku",
+      "latitude": 54.538355,
+      "longitude": 17.751956
+    },
+    {
+      "name": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej „Zdroje”",
+      "latitude": 53.370785,
+      "longitude": 14.642548
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital dla Nerwowo i Psychicznie Chorych",
+      "latitude": 52.449277,
+      "longitude": 15.617896
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Kliniczny im. Prof. Adama Grucy CMKP",
+      "latitude": 52.121325,
+      "longitude": 21.276514
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Kliniczny nr 1 imienia Prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach",
+      "latitude": 50.301147,
+      "longitude": 18.784532
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Kliniczny nr 2 Śląskiego Uniwersytetu Medycznego",
+      "latitude": 50.314369,
+      "longitude": 18.781171
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Kliniczny nr 3 Śląskiego Uniwersytetu Medycznego",
+      "latitude": 50.321065,
+      "longitude": 18.808344
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Rejonowy w Nowogardzie",
+      "latitude": 53.672431,
+      "longitude": 15.110255
+    },
+    {
+      "name": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II",
+      "latitude": 50.71351,
+      "longitude": 23.288746
+    },
+    {
+      "name": "Samodzielny Publiczny Wielospecjalistyczny Zakład Opieki Zdrowotnej w Stargardzie",
+      "latitude": 53.343129,
+      "longitude": 15.037299
+    },
+    {
+      "name": "Samodzielny Publiczny Wojewódzki Szpital Psychiatryczny",
+      "latitude": 50.751438,
+      "longitude": 22.825331
+    },
+    {
+      "name": "Samodzielny Publiczny Wojewódzki Szpital Specjalistyczny w Chełmie",
+      "latitude": 51.150338,
+      "longitude": 23.455192
+    },
+    {
+      "name": "Samodzielny Publiczny Wojewódzki Szpital Zespolony - Zdunowo",
+      "latitude": 53.379401,
+      "longitude": 14.770397
+    },
+    {
+      "name": "Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie",
+      "latitude": 53.453515,
+      "longitude": 14.528144
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+      "latitude": 50.34598,
+      "longitude": 18.210274
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+      "latitude": 50.887876,
+      "longitude": 21.665347
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+      "latitude": 51.616391,
+      "longitude": 20.565012
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej \"Szpital w Łowiczu\"",
+      "latitude": 52.0993,
+      "longitude": 19.928086
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital im. Jana Parnasa",
+      "latitude": 53.659152,
+      "longitude": 17.354323
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital MSWiA w Lublinie",
+      "latitude": 51.227119,
+      "longitude": 22.61326
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Powiatowy",
+      "latitude": 52.658022,
+      "longitude": 17.949226
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Powiatowy im. doktora Kazimierza Hołogi w Nowym Tomyślu",
+      "latitude": 52.316242,
+      "longitude": 16.14089
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Powiatowy im. dr Ludwika Rydygiera w Lubaczowie",
+      "latitude": 50.170891,
+      "longitude": 23.124471
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Powiatowy w Węgrowie",
+      "latitude": 52.405488,
+      "longitude": 22.063618
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Rejonowy im. Henryka Jankowskiego w Przeworsku",
+      "latitude": 50.065003,
+      "longitude": 22.477509
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Specjalistyczny w Puławach",
+      "latitude": 51.421283,
+      "longitude": 21.973314
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital w Kępnie",
+      "latitude": 51.276762,
+      "longitude": 17.984414
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital w Nowym Mieście nad Pilicą",
+      "latitude": 51.616574,
+      "longitude": 20.564795
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Gruźlicy i Chorób Płuc",
+      "latitude": 51.545799,
+      "longitude": 23.46416
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. dr. E.Jelskiego - Przychodnia Rejonowa w Knyszynie - Poradnia ogólna",
+      "latitude": 53.319632,
+      "longitude": 22.921849
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji",
+      "latitude": 51.781618,
+      "longitude": 19.473565
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Katowicach im. sierżanta Grzegorza Załogi",
+      "latitude": 50.245153,
+      "longitude": 19.013668
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW",
+      "latitude": 50.071959,
+      "longitude": 19.912871
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA",
+      "latitude": 50.663303,
+      "longitude": 17.925216
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Koszalinie",
+      "latitude": 54.187201,
+      "longitude": 16.185752
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Szczecinie",
+      "latitude": 53.435235,
+      "longitude": 14.52418
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA z Warmińsko-Mazurskim Centrum Onkologii",
+      "latitude": 53.793989,
+      "longitude": 20.484147
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Nr 1 w Bełżycach",
+      "latitude": 51.177064,
+      "longitude": 22.292866
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Rypin",
+      "latitude": 53.066992,
+      "longitude": 19.416435
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital im. św. Elżbiety",
+      "latitude": 50.258421,
+      "longitude": 19.034039
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bielsku Podlaskim",
+      "latitude": 52.759548,
+      "longitude": 23.202718
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bychawie- Szpital Powiatowy",
+      "latitude": 51.013295,
+      "longitude": 22.537499
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Choszcznie",
+      "latitude": 53.165639,
+      "longitude": 15.412326
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Dąbrowie Białostockiej",
+      "latitude": 53.657955,
+      "longitude": 23.34983
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Garwolinie",
+      "latitude": 51.870454,
+      "longitude": 21.636914
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Grodzisku Wielkopolskim",
+      "latitude": 52.228704,
+      "longitude": 16.36656
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Hajnówce",
+      "latitude": 52.746445,
+      "longitude": 23.610619
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kole",
+      "latitude": 52.184503,
+      "longitude": 18.618692
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Mońkach",
+      "latitude": 53.406293,
+      "longitude": 22.803121
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Myślenicach",
+      "latitude": 49.828918,
+      "longitude": 19.94596
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie",
+      "latitude": 53.123413,
+      "longitude": 20.371022
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nasielsku",
+      "latitude": 52.593663,
+      "longitude": 20.797924
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Siemiatyczach",
+      "latitude": 52.421693,
+      "longitude": 22.863973
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sokółce",
+      "latitude": 53.408065,
+      "longitude": 23.484492
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sulechowie",
+      "latitude": 52.089306,
+      "longitude": 15.622593
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szamotułach",
+      "latitude": 52.610477,
+      "longitude": 16.581296
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łapach",
+      "latitude": 52.98789,
+      "longitude": 22.867735
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łosicach",
+      "latitude": 52.215118,
+      "longitude": 22.707221
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku",
+      "latitude": 51.220406,
+      "longitude": 22.694344
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku",
+      "latitude": 51.220924,
+      "longitude": 22.698096
+    },
+    {
+      "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku",
+      "latitude": 51.221534,
+      "longitude": 22.694532
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Gruźlicy i Chorób Płuc, Szpital Położniczo-Ginekologiczny",
+      "latitude": 53.801578,
+      "longitude": 20.509784
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Gruźlicy i Chorób Płuc, Szpital Położniczo-Ginekologiczny",
+      "latitude": 53.801931,
+      "longitude": 20.509008
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+      "latitude": 50.332138,
+      "longitude": 18.151354
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+      "latitude": 50.692713,
+      "longitude": 22.977499
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+      "latitude": 50.983232,
+      "longitude": 23.163374
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+      "latitude": 52.010751,
+      "longitude": 18.4908
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej - Szpital Latawiec w Świdnicy",
+      "latitude": 50.831623,
+      "longitude": 16.468441
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej - Szpital Specjalistyczny w Sanoku",
+      "latitude": 49.552556,
+      "longitude": 22.198715
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Gostyniu",
+      "latitude": 51.882769,
+      "longitude": 17.01055
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kościanie",
+      "latitude": 52.084689,
+      "longitude": 16.64762
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Tomaszowie Lubelskim",
+      "latitude": 50.442258,
+      "longitude": 23.415613
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Ustrzykach Dolnych",
+      "latitude": 49.434988,
+      "longitude": 22.60372
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej we Włodawie",
+      "latitude": 51.556929,
+      "longitude": 23.554567
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Szpitali Pulmonologiczno - Reumatologicznych",
+      "latitude": 50.803862,
+      "longitude": 17.885325
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+      "latitude": 51.160115,
+      "longitude": 21.657885
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+      "latitude": 51.2259,
+      "longitude": 20.862933
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+      "latitude": 53.02849,
+      "longitude": 20.894355
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital Miejski im. Lecha i Marii Kaczyńskich – Pary Prezydenckiej w Pionkach",
+      "latitude": 51.475305,
+      "longitude": 21.445163
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital Powiatowy w Przysusze",
+      "latitude": 51.359518,
+      "longitude": 20.630323
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital Powiatowy w Żurominie",
+      "latitude": 53.070536,
+      "longitude": 19.919645
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital Rejonowy w Zwoleniu",
+      "latitude": 51.355,
+      "longitude": 21.581008
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital w Iłży",
+      "latitude": 51.16521,
+      "longitude": 21.234108
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Stefana Niewirowicza w Staszowie",
+      "latitude": 50.560794,
+      "longitude": 21.191487
+    },
+    {
+      "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Gryficach",
+      "latitude": 53.922922,
+      "longitude": 15.17593
+    },
+    {
+      "name": "Samodzielny Specjalistyczny Zespół Zakładów Opieki Zdrowotnej w Rudce",
+      "latitude": 52.153813,
+      "longitude": 21.827223
+    },
+    {
+      "name": "Samodzielny Szpital Kliniczny im. prof. Witolda Orłowskiego",
+      "latitude": 52.229653,
+      "longitude": 21.031798
+    },
+    {
+      "name": "Samodzielny Szpital Miejski im. PCK",
+      "latitude": 53.140559,
+      "longitude": 23.171378
+    },
+    {
+      "name": "Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim",
+      "latitude": 51.418487,
+      "longitude": 19.714147
+    },
+    {
+      "name": "Samodzielny Wojewódzki Publiczny Zespół Zakładów Psychiatrycznej Opieki Zdrowotnej im. dr Barbary Borzym",
+      "latitude": 51.356778,
+      "longitude": 21.081713
+    },
+    {
+      "name": "Samodzielny Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych im. Ks. Biskupa Nathana w Branicach",
+      "latitude": 50.053918,
+      "longitude": 17.796234
+    },
+    {
+      "name": "Silesia-Med S.A - Szpital Specjalistyczny w Grzawie",
+      "latitude": 49.967587,
+      "longitude": 19.045682
+    },
+    {
+      "name": "SOR Dziecięcy",
+      "latitude": 51.653491,
+      "longitude": 17.82687
+    },
+    {
+      "name": "SP ZOZ \"Szpital Powiatowy\" w Bochni im Bł. Marty Wieckiej",
+      "latitude": 49.966478,
+      "longitude": 20.421093
+    },
+    {
+      "name": "SP ZOZ Miejski Szpital Zespolony im. dr Tytusa Chałubińskiego",
+      "latitude": 50.807768,
+      "longitude": 19.095127
+    },
+    {
+      "name": "SP ZOZ MSWiA im. Mariana Zyndrama-Kościałkowskiego",
+      "latitude": 53.139309,
+      "longitude": 23.165727
+    },
+    {
+      "name": "SP ZOZ Sanatorium Uzdrowiskowe MSWiA w Sopocie",
+      "latitude": 54.431856,
+      "longitude": 18.584495
+    },
+    {
+      "name": "SP ZOZ Szpital im. Andrzeja Wolańczyka",
+      "latitude": 51.116198,
+      "longitude": 15.909625
+    },
+    {
+      "name": "SP ZOZ Szpital Specjalistyczny MSWiA w Głuchołazach im. św. Jana Pawła II",
+      "latitude": 50.304173,
+      "longitude": 17.385768
+    },
+    {
+      "name": "SP ZOZ w Pajęcznie",
+      "latitude": 51.146946,
+      "longitude": 19.000524
+    },
+    {
+      "name": "SP ZOZ w Wolsztynie",
+      "latitude": 52.116779,
+      "longitude": 16.117671
+    },
+    {
+      "name": "SP ZOZ Zakład Pielęgnacyjno-Opiekuńczy w Jaworznie",
+      "latitude": 50.211782,
+      "longitude": 19.352286
+    },
+    {
+      "name": "Specjalistyczne Centrum Medyczne",
+      "latitude": 50.407561,
+      "longitude": 16.500585
+    },
+    {
+      "name": "Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej",
+      "latitude": 51.808021,
+      "longitude": 19.353991
+    },
+    {
+      "name": "Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej im. prof. Antoniego Kępińskiego w Jarosławiu",
+      "latitude": 50.018763,
+      "longitude": 22.670869
+    },
+    {
+      "name": "Specjalistyczny Szpital Chorób Płuc",
+      "latitude": 50.710261,
+      "longitude": 16.548368
+    },
+    {
+      "name": "Specjalistyczny Szpital Ginekologiczno - Położniczy im. E. Biernackiego",
+      "latitude": 50.771605,
+      "longitude": 16.290103
+    },
+    {
+      "name": "Specjalistyczny Szpital Gruźlicy, Chorób Płuc i Rehabilitacji w Tuszynie",
+      "latitude": 51.600426,
+      "longitude": 19.50236
+    },
+    {
+      "name": "Specjalistyczny Szpital im. dra Alfreda Sokołowskiego",
+      "latitude": 50.775776,
+      "longitude": 16.277428
+    },
+    {
+      "name": "Specjalistyczny Szpital im.dra A. Sokołowskiego",
+      "latitude": 50.80181,
+      "longitude": 16.277527
+    },
+    {
+      "name": "Specjalistyczny Szpital Miejski im. M. Kopernika",
+      "latitude": 53.022644,
+      "longitude": 18.621139
+    },
+    {
+      "name": "Specjalistyczny Szpital Wieloprofilowy",
+      "latitude": 50.210867,
+      "longitude": 18.998486
+    },
+    {
+      "name": "Specjalistyczny Szpital Wojewódzki",
+      "latitude": 52.883455,
+      "longitude": 20.635719
+    },
+    {
+      "name": "Specjalistyczny Zespół Gruźlicy I Chorób Płuc",
+      "latitude": 54.195856,
+      "longitude": 16.175639
+    },
+    {
+      "name": "SPZOZ Państwowy Szpital dla Nerwowo i Psychicznie Chorych",
+      "latitude": 50.105171,
+      "longitude": 18.545365
+    },
+    {
+      "name": "SPZOZ Szpital im. dr. Z. Patryna",
+      "latitude": 51.213144,
+      "longitude": 18.565543
+    },
+    {
+      "name": "SPZOZ w Kępnie, Oddział Leczniczo-Rehabilitacyjny",
+      "latitude": 51.245252,
+      "longitude": 17.971698
+    },
+    {
+      "name": "SPZZOZ im. Marszałka Józefa Piłsudskiego w Płońsku",
+      "latitude": 52.630425,
+      "longitude": 20.37594
+    },
+    {
+      "name": "Stacja dializ BBraun",
+      "latitude": 51.871948,
+      "longitude": 21.636987
+    },
+    {
+      "name": "Stacja Ratownictwa Medycznego",
+      "latitude": 51.143758,
+      "longitude": 23.458192
+    },
+    {
+      "name": "Stare Kliniki",
+      "latitude": 51.110494,
+      "longitude": 17.065297
+    },
+    {
+      "name": "Stobrawskie Centrum Medyczne, Szpital w Pokoju",
+      "latitude": 50.905971,
+      "longitude": 17.83526
+    },
+    {
+      "name": "Sudeckie Centrum Zdrowia Psychicznego",
+      "latitude": 50.864141,
+      "longitude": 15.665743
+    },
+    {
+      "name": "Szpital",
+      "latitude": 54.309436,
+      "longitude": 22.305993
+    },
+    {
+      "name": "Szpital \"Mikulicz\"",
+      "latitude": 50.854009,
+      "longitude": 16.322108
+    },
+    {
+      "name": "Szpital 4Cardia",
+      "latitude": 50.962487,
+      "longitude": 22.164184
+    },
+    {
+      "name": "Szpital Asklepios",
+      "latitude": 50.024831,
+      "longitude": 22.006245
+    },
+    {
+      "name": "Szpital Barlinek",
+      "latitude": 52.998142,
+      "longitude": 15.224378
+    },
+    {
+      "name": "Szpital Barska",
+      "latitude": 52.650349,
+      "longitude": 19.092791
+    },
+    {
+      "name": "Szpital Bielański",
+      "latitude": 52.286736,
+      "longitude": 20.950607
+    },
+    {
+      "name": "Szpital Bukowiec",
+      "latitude": 50.809202,
+      "longitude": 15.838526
+    },
+    {
+      "name": "Szpital Będzin",
+      "latitude": 50.324292,
+      "longitude": 19.131982
+    },
+    {
+      "name": "Szpital Chirurgii Małoinwazjnej i Rekonstrukcyjnej",
+      "latitude": 49.785815,
+      "longitude": 19.030179
+    },
+    {
+      "name": "Szpital Chirurgii Urazowej",
+      "latitude": 50.372117,
+      "longitude": 18.945685
+    },
+    {
+      "name": "Szpital Chorób Płuc",
+      "latitude": 50.151418,
+      "longitude": 18.772868
+    },
+    {
+      "name": "Szpital Chorób Płuc i Opieka Długoterminowa im. św. Jana Pawła II w Górnie",
+      "latitude": 50.284747,
+      "longitude": 22.13077
+    },
+    {
+      "name": "Szpital Chorób Płuc w Orzeszu",
+      "latitude": 50.15164,
+      "longitude": 18.773281
+    },
+    {
+      "name": "Szpital Chorób Płuc w Siewierzu",
+      "latitude": 50.474123,
+      "longitude": 19.239156
+    },
+    {
+      "name": "Szpital Chorób Płuc. im. Św. Józefa w Pilchowicach",
+      "latitude": 50.214559,
+      "longitude": 18.563873
+    },
+    {
+      "name": "Szpital Chorób Wewnętrznych",
+      "latitude": 50.789479,
+      "longitude": 19.173319
+    },
+    {
+      "name": "Szpital Czerniakowski",
+      "latitude": 52.205477,
+      "longitude": 21.037008
+    },
+    {
+      "name": "Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana",
+      "latitude": 53.97911,
+      "longitude": 18.509199
+    },
+    {
+      "name": "Szpital Dziecięcy im. Profesora dr. med. Jana Bogdanowicza",
+      "latitude": 52.234622,
+      "longitude": 21.062369
+    },
+    {
+      "name": "Szpital Dziecięcy Polanki",
+      "latitude": 54.395312,
+      "longitude": 18.562637
+    },
+    {
+      "name": "Szpital ESKULAP",
+      "latitude": 53.177526,
+      "longitude": 18.062463
+    },
+    {
+      "name": "Szpital Geriatryczny im. Jana Pawła II",
+      "latitude": 50.266771,
+      "longitude": 19.092559
+    },
+    {
+      "name": "Szpital Ginekologiczno-Położniczy im. Świętej Rodziny",
+      "latitude": 52.395943,
+      "longitude": 16.894754
+    },
+    {
+      "name": "Szpital Giżycki",
+      "latitude": 54.037475,
+      "longitude": 21.782275
+    },
+    {
+      "name": "Szpital Gorzewo-Kruk",
+      "latitude": 52.469241,
+      "longitude": 19.497254
+    },
+    {
+      "name": "Szpital Grochowski",
+      "latitude": 52.242481,
+      "longitude": 21.078205
+    },
+    {
+      "name": "Szpital Głowno",
+      "latitude": 51.957097,
+      "longitude": 19.733927
+    },
+    {
+      "name": "Szpital im. dr. J. Dietla",
+      "latitude": 49.401031,
+      "longitude": 20.953822
+    },
+    {
+      "name": "Szpital im. dr. n. med. Radzimira Śmigielskiego",
+      "latitude": 52.59375,
+      "longitude": 15.506204
+    },
+    {
+      "name": "Szpital im. Edmunda Biernackiego",
+      "latitude": 53.851086,
+      "longitude": 22.994987
+    },
+    {
+      "name": "Szpital im. Henryka Jordana",
+      "latitude": 51.802492,
+      "longitude": 19.454093
+    },
+    {
+      "name": "Szpital im. Ignacego Mościckiego Lecznica Dzieci i Dorosłych",
+      "latitude": 50.293254,
+      "longitude": 18.949965
+    },
+    {
+      "name": "Szpital im. Jacka Tokarczyka",
+      "latitude": 52.842447,
+      "longitude": 19.15835
+    },
+    {
+      "name": "Szpital im. Jana Bożego",
+      "latitude": 51.215448,
+      "longitude": 22.570055
+    },
+    {
+      "name": "Szpital im. Juliusza Babińskiego w Sierpcu",
+      "latitude": 52.852367,
+      "longitude": 19.675105
+    },
+    {
+      "name": "Szpital im. Mikołaja Kopernika",
+      "latitude": 54.350647,
+      "longitude": 18.63866
+    },
+    {
+      "name": "Szpital im. Mikołaja Kopernika",
+      "latitude": 54.351857,
+      "longitude": 18.635722
+    },
+    {
+      "name": "Szpital im. Prof. Stefana Tytusa Dąbrowskiego w Puszczykowie",
+      "latitude": 52.263512,
+      "longitude": 16.868557
+    },
+    {
+      "name": "Szpital im. Rudolfa Weigla",
+      "latitude": 50.768229,
+      "longitude": 18.970658
+    },
+    {
+      "name": "Szpital im. Zenona Tokarskiego",
+      "latitude": 52.059682,
+      "longitude": 20.440767
+    },
+    {
+      "name": "Szpital im. Św. Jadwigi Śląskiej w Trzebnicy",
+      "latitude": 51.319939,
+      "longitude": 17.058722
+    },
+    {
+      "name": "Szpital im. Świętego Ducha w Rawie Mazowieckiej",
+      "latitude": 51.766095,
+      "longitude": 20.259244
+    },
+    {
+      "name": "Szpital im.Sebastiana Petrycego",
+      "latitude": 50.177269,
+      "longitude": 20.976746
+    },
+    {
+      "name": "Szpital Jednodniowy im. dr. Michała Pawlaka",
+      "latitude": 54.347055,
+      "longitude": 18.509726
+    },
+    {
+      "name": "Szpital Kardiologiczny",
+      "latitude": 49.606969,
+      "longitude": 19.957138
+    },
+    {
+      "name": "Szpital Kielecki imienia św. Aleksandra - ArtMedik",
+      "latitude": 50.87402,
+      "longitude": 20.638401
+    },
+    {
+      "name": "Szpital Kliniczny Dzieciątka Jezus",
+      "latitude": 52.22584,
+      "longitude": 21.002476
+    },
+    {
+      "name": "Szpital Kliniczny im. Andrzeja Mielęckiego",
+      "latitude": 50.254306,
+      "longitude": 19.028552
+    },
+    {
+      "name": "Szpital Kliniczny im. doktora Józefa Babińskiego SP ZOZ",
+      "latitude": 50.003895,
+      "longitude": 19.883448
+    },
+    {
+      "name": "Szpital Kliniczny im. E. Warmińskiego Politechniki Bydgoskiej",
+      "latitude": 53.10194,
+      "longitude": 18.046749
+    },
+    {
+      "name": "Szpital Kliniczny im. Karola Jonschera",
+      "latitude": 52.412129,
+      "longitude": 16.878822
+    },
+    {
+      "name": "Szpital Kliniczny im. ks. Anny Mazowieckiej",
+      "latitude": 52.245192,
+      "longitude": 21.022284
+    },
+    {
+      "name": "Szpital Kliniczny Nr 7 Górnośląskie Centrum Medyczne",
+      "latitude": 50.210619,
+      "longitude": 19.000906
+    },
+    {
+      "name": "Szpital Kliniczny Przemienienia Pańskiego oddział ul. Długa",
+      "latitude": 52.403288,
+      "longitude": 16.936135
+    },
+    {
+      "name": "Szpital Kliniczny Przemienienia Pańskiego oddział ul. Szamarzewskiego",
+      "latitude": 52.413599,
+      "longitude": 16.880221
+    },
+    {
+      "name": "Szpital Kolejowy",
+      "latitude": 49.772603,
+      "longitude": 19.0912
+    },
+    {
+      "name": "Szpital Kolejowy im. Włodzimierza Roeflera",
+      "latitude": 52.174821,
+      "longitude": 20.807662
+    },
+    {
+      "name": "Szpital Matki Bożej Nieustającej Pomocy w Wołominie",
+      "latitude": 52.34636,
+      "longitude": 21.221472
+    },
+    {
+      "name": "Szpital Mazowiecki - Oddział I dzienny foniatryczno-logopedyczny",
+      "latitude": 51.885648,
+      "longitude": 21.626507
+    },
+    {
+      "name": "Szpital Medfemina",
+      "latitude": 51.071393,
+      "longitude": 17.032975
+    },
+    {
+      "name": "Szpital Miejski",
+      "latitude": 50.298267,
+      "longitude": 19.181198
+    },
+    {
+      "name": "Szpital Miejski",
+      "latitude": 50.374645,
+      "longitude": 18.953149
+    },
+    {
+      "name": "Szpital Miejski",
+      "latitude": 52.538602,
+      "longitude": 17.596611
+    },
+    {
+      "name": "Szpital miejski",
+      "latitude": 52.861547,
+      "longitude": 21.086863
+    },
+    {
+      "name": "Szpital Miejski",
+      "latitude": 54.521836,
+      "longitude": 18.541789
+    },
+    {
+      "name": "Szpital Miejski im. Franciszka Raszei",
+      "latitude": 52.413283,
+      "longitude": 16.913453
+    },
+    {
+      "name": "Szpital Miejski im. Jana Garduły w Świnoujściu",
+      "latitude": 53.909791,
+      "longitude": 14.258029
+    },
+    {
+      "name": "Szpital Miejski im. Jana Pawła II",
+      "latitude": 50.048243,
+      "longitude": 22.001725
+    },
+    {
+      "name": "Szpital Miejski im. Jana Pawła II",
+      "latitude": 54.155217,
+      "longitude": 19.425828
+    },
+    {
+      "name": "Szpital Miejski im. Jana Pawła II",
+      "latitude": 54.157385,
+      "longitude": 19.421583
+    },
+    {
+      "name": "Szpital Miejski nr 1 im. Karola Boromeusza",
+      "latitude": 50.239594,
+      "longitude": 19.137846
+    },
+    {
+      "name": "Szpital Miejski nr 2",
+      "latitude": 50.246807,
+      "longitude": 19.133433
+    },
+    {
+      "name": "Szpital Miejski nr 4 w Gliwicach",
+      "latitude": 50.293869,
+      "longitude": 18.651503
+    },
+    {
+      "name": "Szpital Miejski nr.1",
+      "latitude": 50.270305,
+      "longitude": 19.132408
+    },
+    {
+      "name": "Szpital Miejski Pro-Medica",
+      "latitude": 53.793784,
+      "longitude": 22.340402
+    },
+    {
+      "name": "Szpital Miejski Specjalistyczny imienia Gabriela Narutowicza",
+      "latitude": 50.083022,
+      "longitude": 19.939293
+    },
+    {
+      "name": "Szpital Miejski w Miastku",
+      "latitude": 54.011899,
+      "longitude": 16.981974
+    },
+    {
+      "name": "Szpital Miejski w Morągu",
+      "latitude": 53.91526,
+      "longitude": 19.923167
+    },
+    {
+      "name": "Szpital Miejski w Pionkach - Oddział chorób wewnętrznych i rehabilitacji",
+      "latitude": 51.466825,
+      "longitude": 21.434092
+    },
+    {
+      "name": "Szpital miejski w Rabce Zdroju",
+      "latitude": 49.608541,
+      "longitude": 19.970724
+    },
+    {
+      "name": "Szpital Miejski w Rudzie Śląskiej Sp. z o.o",
+      "latitude": 50.274942,
+      "longitude": 18.853829
+    },
+    {
+      "name": "Szpital Miejski w Siedlcach",
+      "latitude": 52.168935,
+      "longitude": 22.286263
+    },
+    {
+      "name": "Szpital Miejski w Siemianowicach Śl.",
+      "latitude": 50.304873,
+      "longitude": 19.034022
+    },
+    {
+      "name": "Szpital Miejski w Tychach",
+      "latitude": 50.11919,
+      "longitude": 18.982283
+    },
+    {
+      "name": "Szpital Miejski w Zabrzu",
+      "latitude": 50.32594,
+      "longitude": 18.826881
+    },
+    {
+      "name": "Szpital Miejski w Żorach",
+      "latitude": 50.035431,
+      "longitude": 18.683635
+    },
+    {
+      "name": "Szpital Międzyrzecki im. Pięciu Św. Braci Międzyrzeckich sp. z o.o.",
+      "latitude": 52.440206,
+      "longitude": 15.58448
+    },
+    {
+      "name": "Szpital Morski im. PCK",
+      "latitude": 54.488854,
+      "longitude": 18.552483
+    },
+    {
+      "name": "Szpital Mrągowski im. Michała Kajki",
+      "latitude": 53.879402,
+      "longitude": 21.302309
+    },
+    {
+      "name": "Szpital MSW",
+      "latitude": 51.124094,
+      "longitude": 17.036506
+    },
+    {
+      "name": "Szpital MSWiA",
+      "latitude": 50.04691,
+      "longitude": 21.982578
+    },
+    {
+      "name": "Szpital MSWiA",
+      "latitude": 54.350576,
+      "longitude": 18.635943
+    },
+    {
+      "name": "Szpital MSWiA w Kielcach",
+      "latitude": 50.860581,
+      "longitude": 20.635599
+    },
+    {
+      "name": "Szpital Murcki",
+      "latitude": 50.197271,
+      "longitude": 19.040034
+    },
+    {
+      "name": "Szpital Na Wyspie",
+      "latitude": 51.793816,
+      "longitude": 14.974638
+    },
+    {
+      "name": "Szpital Neuropsychiatryczny im. prof. Mieczysława Kaczyńskiego",
+      "latitude": 51.204098,
+      "longitude": 22.588341
+    },
+    {
+      "name": "Szpital Nowowiejski",
+      "latitude": 52.2196,
+      "longitude": 21.008113
+    },
+    {
+      "name": "Szpital nr 1",
+      "latitude": 50.31593,
+      "longitude": 17.385562
+    },
+    {
+      "name": "Szpital nr 2",
+      "latitude": 50.30175,
+      "longitude": 17.383123
+    },
+    {
+      "name": "Szpital Obserwacyjno Zakaźny i Hepatologii Zakaźnej",
+      "latitude": 50.353595,
+      "longitude": 18.911726
+    },
+    {
+      "name": "Szpital Ogólny",
+      "latitude": 52.915525,
+      "longitude": 22.522197
+    },
+    {
+      "name": "Szpital Ogólny im. dr Edmunda Wojtyły",
+      "latitude": 49.822162,
+      "longitude": 19.035227
+    },
+    {
+      "name": "Szpital Ogólny im. dr. Witolda Ginela",
+      "latitude": 53.645847,
+      "longitude": 22.470113
+    },
+    {
+      "name": "Szpital ortopedyczny \"Ortopedicum\"",
+      "latitude": 50.063844,
+      "longitude": 19.880367
+    },
+    {
+      "name": "Szpital Ostrów Wielkopolski",
+      "latitude": 51.636088,
+      "longitude": 17.813095
+    },
+    {
+      "name": "Szpital Ostrów Wielkopolski",
+      "latitude": 51.654258,
+      "longitude": 17.825688
+    },
+    {
+      "name": "Szpital Państwowy w Działdowie",
+      "latitude": 53.242117,
+      "longitude": 20.192749
+    },
+    {
+      "name": "Szpital Pediatryczny",
+      "latitude": 49.82045,
+      "longitude": 19.027338
+    },
+    {
+      "name": "Szpital Pediatryczny im. Marii Konopnickiej",
+      "latitude": 51.786206,
+      "longitude": 19.477794
+    },
+    {
+      "name": "Szpital Pod Bukami",
+      "latitude": 49.800662,
+      "longitude": 19.046804
+    },
+    {
+      "name": "Szpital Podolany",
+      "latitude": 52.4587,
+      "longitude": 16.889558
+    },
+    {
+      "name": "Szpital Polski w Sztumie",
+      "latitude": 53.92251,
+      "longitude": 19.026774
+    },
+    {
+      "name": "Szpital Pomnik Chrztu Polski - Szpital Powiatowy w Gnieźnie",
+      "latitude": 52.541039,
+      "longitude": 17.599252
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 49.716037,
+      "longitude": 20.413657
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 49.968765,
+      "longitude": 20.590712
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 50.038975,
+      "longitude": 21.393518
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 50.175073,
+      "longitude": 18.905302
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 50.323367,
+      "longitude": 17.567858
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 50.665264,
+      "longitude": 18.681133
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 50.7289,
+      "longitude": 16.658084
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 51.063866,
+      "longitude": 21.073547
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 51.111466,
+      "longitude": 15.583869
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 51.157876,
+      "longitude": 15.010882
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 51.615142,
+      "longitude": 16.843431
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 52.089394,
+      "longitude": 17.006588
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 52.599507,
+      "longitude": 15.889816
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 52.834234,
+      "longitude": 15.825912
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 53.109212,
+      "longitude": 19.071532
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 53.261696,
+      "longitude": 19.39382
+    },
+    {
+      "name": "Szpital Powiatowy",
+      "latitude": 53.42424,
+      "longitude": 19.58645
+    },
+    {
+      "name": "Szpital Powiatowy \"Zespół Opieki Zdrowotnej\"",
+      "latitude": 50.30641,
+      "longitude": 18.915878
+    },
+    {
+      "name": "Szpital Powiatowy - Oddział internistyczny, gruźlicy i chorób płuc",
+      "latitude": 50.419628,
+      "longitude": 21.752166
+    },
+    {
+      "name": "Szpital Powiatowy - Samodzielny Publiczny Zespół Opieki Zdrowotnej w Lesku",
+      "latitude": 49.474185,
+      "longitude": 22.333104
+    },
+    {
+      "name": "Szpital Powiatowy - Samodzielny Publiczny Zespół Opieki Zdrowotnej w Leżajsku",
+      "latitude": 50.272076,
+      "longitude": 22.401868
+    },
+    {
+      "name": "Szpital Powiatowy im. Aleksandra Majkowskiego w Kartuzach",
+      "latitude": 54.336847,
+      "longitude": 18.197246
+    },
+    {
+      "name": "Szpital Powiatowy im. Alfreda Sokołowskiego w Złotowie",
+      "latitude": 53.354768,
+      "longitude": 17.044123
+    },
+    {
+      "name": "Szpital Powiatowy im. Doktora Edwarda Rittlera w Sejnach",
+      "latitude": 54.114901,
+      "longitude": 23.351418
+    },
+    {
+      "name": "Szpital Powiatowy im. dr Henryka Jordana SPZOZ w Sulęcinie",
+      "latitude": 52.437524,
+      "longitude": 15.115485
+    },
+    {
+      "name": "Szpital Powiatowy im. dr Tytusa Chałubińskiego w Zakopanem",
+      "latitude": 49.304864,
+      "longitude": 19.956217
+    },
+    {
+      "name": "Szpital Powiatowy im. Edmunda Biernackiego w Opocznie",
+      "latitude": 51.379221,
+      "longitude": 20.278638
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Mikulicza w Biskupcu",
+      "latitude": 53.865787,
+      "longitude": 20.957143
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Pawła II w Kolbuszowej",
+      "latitude": 50.242063,
+      "longitude": 21.761998
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Pawła II w Kolbuszowej",
+      "latitude": 50.24407,
+      "longitude": 21.779883
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Pawła II w Trzciance",
+      "latitude": 53.039636,
+      "longitude": 16.464425
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Pawła II w Wadowicach",
+      "latitude": 49.880918,
+      "longitude": 19.492524
+    },
+    {
+      "name": "Szpital Powiatowy im. Jana Pawła II we Włoszczowie",
+      "latitude": 50.846785,
+      "longitude": 19.973555
+    },
+    {
+      "name": "Szpital Powiatowy im. Marcela Nenckiego",
+      "latitude": 51.69913,
+      "longitude": 17.433039
+    },
+    {
+      "name": "Szpital Powiatowy im. Marcelego Nenckiego w Krotoszynie",
+      "latitude": 51.689306,
+      "longitude": 17.437773
+    },
+    {
+      "name": "Szpital Powiatowy im. Marii Skłodowskiej-Curie w Lidzbarku Warmińskim",
+      "latitude": 54.126082,
+      "longitude": 20.590931
+    },
+    {
+      "name": "Szpital Powiatowy im. Polskiego Czerwonego Krzyża",
+      "latitude": 50.519895,
+      "longitude": 22.143168
+    },
+    {
+      "name": "Szpital Powiatowy im. Prałata J. Glowatzkiego w Strzelcach Opolskich",
+      "latitude": 50.515168,
+      "longitude": 18.292215
+    },
+    {
+      "name": "Szpital Powiatowy im. Zbigniewa Koprowskiego",
+      "latitude": 52.403777,
+      "longitude": 22.241204
+    },
+    {
+      "name": "Szpital Powiatowy im. św. Faustyny Kowalskiej",
+      "latitude": 52.059525,
+      "longitude": 19.187676
+    },
+    {
+      "name": "Szpital Powiatowy im. Świętej Jadwigi Królowej w Hrubieszowie",
+      "latitude": 50.801372,
+      "longitude": 23.893436
+    },
+    {
+      "name": "Szpital Powiatowy imienia świętego Maksymiliana",
+      "latitude": 50.040213,
+      "longitude": 19.237037
+    },
+    {
+      "name": "Szpital powiatowy nr 1",
+      "latitude": 50.448299,
+      "longitude": 18.851788
+    },
+    {
+      "name": "Szpital Powiatowy nr 1 w Tarnowskich Górach",
+      "latitude": 50.448035,
+      "longitude": 18.852153
+    },
+    {
+      "name": "Szpital Powiatowy PCM w Wołowie",
+      "latitude": 51.341266,
+      "longitude": 16.640133
+    },
+    {
+      "name": "Szpital Powiatowy Sp. z o.o.",
+      "latitude": 53.187239,
+      "longitude": 18.610549
+    },
+    {
+      "name": "Szpital Powiatowy SPZOZ",
+      "latitude": 52.798845,
+      "longitude": 21.913038
+    },
+    {
+      "name": "Szpital Powiatowy w Aleksandrowie Kujawskim",
+      "latitude": 52.873636,
+      "longitude": 18.697941
+    },
+    {
+      "name": "Szpital Powiatowy w Chmielniku",
+      "latitude": 50.617998,
+      "longitude": 20.749237
+    },
+    {
+      "name": "Szpital Powiatowy w Chodzieży",
+      "latitude": 52.988241,
+      "longitude": 16.915452
+    },
+    {
+      "name": "Szpital Powiatowy w Chrzanowie",
+      "latitude": 50.136852,
+      "longitude": 19.429903
+    },
+    {
+      "name": "Szpital Powiatowy w Gryfinie",
+      "latitude": 53.254894,
+      "longitude": 14.491156
+    },
+    {
+      "name": "Szpital Powiatowy w Głogówku",
+      "latitude": 50.350973,
+      "longitude": 17.870095
+    },
+    {
+      "name": "Szpital Powiatowy w Janowie Lubelskim (SPZZOZ)",
+      "latitude": 50.702844,
+      "longitude": 22.434029
+    },
+    {
+      "name": "Szpital Powiatowy w Jarocinie",
+      "latitude": 51.969565,
+      "longitude": 17.504987
+    },
+    {
+      "name": "Szpital Powiatowy w Kozienicach",
+      "latitude": 51.591759,
+      "longitude": 21.52651
+    },
+    {
+      "name": "Szpital Powiatowy w Kraśniku (SPZOZ)",
+      "latitude": 50.932301,
+      "longitude": 22.22356
+    },
+    {
+      "name": "Szpital Powiatowy w Kętrzynie",
+      "latitude": 54.082673,
+      "longitude": 21.377617
+    },
+    {
+      "name": "Szpital Powiatowy w Kłodzku",
+      "latitude": 50.455922,
+      "longitude": 16.660684
+    },
+    {
+      "name": "Szpital Powiatowy w Lubartowie (SPZOZ)",
+      "latitude": 51.456493,
+      "longitude": 22.619017
+    },
+    {
+      "name": "Szpital Powiatowy w Międzyrzecu Podlaskim",
+      "latitude": 51.984725,
+      "longitude": 22.787445
+    },
+    {
+      "name": "Szpital Powiatowy w Mińsku Mazowieckim",
+      "latitude": 52.173575,
+      "longitude": 21.577067
+    },
+    {
+      "name": "Szpital Powiatowy w Myszkowie",
+      "latitude": 50.57248,
+      "longitude": 19.304897
+    },
+    {
+      "name": "Szpital Powiatowy w Nowej Dębie",
+      "latitude": 50.420331,
+      "longitude": 21.755344
+    },
+    {
+      "name": "Szpital Powiatowy w Obornikach",
+      "latitude": 52.653731,
+      "longitude": 16.816917
+    },
+    {
+      "name": "Szpital Powiatowy w Oleśnie",
+      "latitude": 50.880314,
+      "longitude": 18.411841
+    },
+    {
+      "name": "Szpital Powiatowy w Otwocku",
+      "latitude": 52.097824,
+      "longitude": 21.263242
+    },
+    {
+      "name": "Szpital Powiatowy w Oławie",
+      "latitude": 50.951802,
+      "longitude": 17.284791
+    },
+    {
+      "name": "Szpital Powiatowy w Parczewie (SPZOZ)",
+      "latitude": 51.633642,
+      "longitude": 22.912742
+    },
+    {
+      "name": "Szpital Powiatowy w Piszu",
+      "latitude": 53.62651,
+      "longitude": 21.799187
+    },
+    {
+      "name": "Szpital powiatowy w Pińczowie",
+      "latitude": 50.517481,
+      "longitude": 20.530359
+    },
+    {
+      "name": "Szpital Powiatowy w Pruszkowie",
+      "latitude": 52.159559,
+      "longitude": 20.819736
+    },
+    {
+      "name": "Szpital Powiatowy w Pszczynie",
+      "latitude": 49.97336,
+      "longitude": 18.940704
+    },
+    {
+      "name": "Szpital Powiatowy w Pułtusku Sp. z o.o.",
+      "latitude": 52.694059,
+      "longitude": 21.113948
+    },
+    {
+      "name": "Szpital Powiatowy w Pyrzycach",
+      "latitude": 53.146898,
+      "longitude": 14.896162
+    },
+    {
+      "name": "Szpital Powiatowy w Radzyniu Podlaskim (SPZOZ)",
+      "latitude": 51.770724,
+      "longitude": 22.606929
+    },
+    {
+      "name": "Szpital Powiatowy w Rykach",
+      "latitude": 51.621576,
+      "longitude": 21.92979
+    },
+    {
+      "name": "Szpital Powiatowy w Skarżysku-Kamiennej",
+      "latitude": 51.126209,
+      "longitude": 20.870268
+    },
+    {
+      "name": "Szpital Powiatowy w Strzyżowie",
+      "latitude": 49.869579,
+      "longitude": 21.784096
+    },
+    {
+      "name": "Szpital Powiatowy w Szczytnie",
+      "latitude": 53.557957,
+      "longitude": 20.985608
+    },
+    {
+      "name": "Szpital Powiatowy w Sędziszowie Małopolskim",
+      "latitude": 50.069279,
+      "longitude": 21.700215
+    },
+    {
+      "name": "Szpital Powiatowy w Sławnie",
+      "latitude": 54.368695,
+      "longitude": 16.678238
+    },
+    {
+      "name": "Szpital Powiatowy w Tczewie",
+      "latitude": 54.083198,
+      "longitude": 18.790104
+    },
+    {
+      "name": "Szpital Powiatowy w Trzciance - Oddział w Krzyżu Wielkopolskim",
+      "latitude": 52.883639,
+      "longitude": 16.00613
+    },
+    {
+      "name": "Szpital powiatowy w Więcborku",
+      "latitude": 53.35516,
+      "longitude": 17.491928
+    },
+    {
+      "name": "Szpital Powiatowy w Wodzisławiu Śląskim",
+      "latitude": 50.009253,
+      "longitude": 18.462964
+    },
+    {
+      "name": "Szpital Powiatowy w Wodzisławiu Śląskim Oddział w Rydułtowach",
+      "latitude": 50.059237,
+      "longitude": 18.424743
+    },
+    {
+      "name": "Szpital Powiatowy w Wyrzysku",
+      "latitude": 53.14942,
+      "longitude": 17.272012
+    },
+    {
+      "name": "Szpital Powiatowy w Wyszkowie",
+      "latitude": 52.586254,
+      "longitude": 21.443563
+    },
+    {
+      "name": "Szpital powiatowy w Wągrowcu",
+      "latitude": 52.817738,
+      "longitude": 17.20525
+    },
+    {
+      "name": "Szpital Powiatowy w Węgorzewie",
+      "latitude": 54.206958,
+      "longitude": 21.735699
+    },
+    {
+      "name": "Szpital Powiatowy w Zambrowie",
+      "latitude": 52.988332,
+      "longitude": 22.253532
+    },
+    {
+      "name": "Szpital Powiatowy w Zawierciu",
+      "latitude": 50.481885,
+      "longitude": 19.407731
+    },
+    {
+      "name": "Szpital Powiatowy w Łukowie im. św. Tadeusza (SPZOZ)",
+      "latitude": 51.924298,
+      "longitude": 22.380615
+    },
+    {
+      "name": "Szpital Powiatowy w Łęcznej (SPZOZ)",
+      "latitude": 51.291041,
+      "longitude": 22.878383
+    },
+    {
+      "name": "Szpital Powiatowy we Wrześni",
+      "latitude": 52.324746,
+      "longitude": 17.572628
+    },
+    {
+      "name": "Szpital Powiatowy w Pasłęku",
+      "latitude": 54.062629,
+      "longitude": 19.663504
+    },
+    {
+      "name": "Szpital Powiatowy ZZOZ",
+      "latitude": 51.425977,
+      "longitude": 17.926898
+    },
+    {
+      "name": "Szpital Powiatu Bytowskiego Sp. z o.o.",
+      "latitude": 54.178347,
+      "longitude": 17.485119
+    },
+    {
+      "name": "Szpital Położniczo-Ginekologiczny Medikor",
+      "latitude": 49.61905,
+      "longitude": 20.705819
+    },
+    {
+      "name": "Szpital Południowy",
+      "latitude": 52.146722,
+      "longitude": 21.035167
+    },
+    {
+      "name": "Szpital Praski",
+      "latitude": 52.251176,
+      "longitude": 21.029403
+    },
+    {
+      "name": "Szpital Prywatny Gameta",
+      "latitude": 51.673675,
+      "longitude": 19.479005
+    },
+    {
+      "name": "Szpital psychiatryczny",
+      "latitude": 50.45278,
+      "longitude": 18.523066
+    },
+    {
+      "name": "Szpital Psychiatryczny",
+      "latitude": 54.353014,
+      "longitude": 19.679221
+    },
+    {
+      "name": "Szpital Psychiatryczny MindHealth",
+      "latitude": 52.306794,
+      "longitude": 20.975022
+    },
+    {
+      "name": "Szpital Pucki",
+      "latitude": 54.721223,
+      "longitude": 18.41402
+    },
+    {
+      "name": "Szpital Regionalistyczny w Łasinie",
+      "latitude": 53.518599,
+      "longitude": 19.082997
+    },
+    {
+      "name": "Szpital Rehabilitacyjny",
+      "latitude": 51.464294,
+      "longitude": 16.903122
+    },
+    {
+      "name": "Szpital Rehabilitacyjny",
+      "latitude": 52.069897,
+      "longitude": 21.121645
+    },
+    {
+      "name": "Szpital Rehabilitacyjny Jarcewo",
+      "latitude": 53.735836,
+      "longitude": 17.560842
+    },
+    {
+      "name": "Szpital Rehabilitacyjny Onkologiczno-Hematologiczny dla Dzieci Orlik",
+      "latitude": 50.474592,
+      "longitude": 16.277955
+    },
+    {
+      "name": "Szpital Rejonowy",
+      "latitude": 50.583776,
+      "longitude": 16.496005
+    },
+    {
+      "name": "Szpital Rejonowy im. dr Anki w Krzepicach",
+      "latitude": 50.970395,
+      "longitude": 18.728707
+    },
+    {
+      "name": "Szpital Rejonowy im. dr Jana Gawlika",
+      "latitude": 49.736769,
+      "longitude": 19.604862
+    },
+    {
+      "name": "Szpital Rejonowy im. dr Józefa Rostka",
+      "latitude": 50.101545,
+      "longitude": 18.203882
+    },
+    {
+      "name": "Szpital Rejonowy im.dr Anki",
+      "latitude": 50.970316,
+      "longitude": 18.728686
+    },
+    {
+      "name": "Szpital Rejonowy w Busku - Zdroju",
+      "latitude": 50.467563,
+      "longitude": 20.704684
+    },
+    {
+      "name": "Szpital Rejonowy w Kłobucku",
+      "latitude": 50.906346,
+      "longitude": 18.937212
+    },
+    {
+      "name": "Szpital Reumatologiczno-Rehabilitacyjny",
+      "latitude": 49.938073,
+      "longitude": 18.981526
+    },
+    {
+      "name": "Szpital Reumatologiczny",
+      "latitude": 49.72618,
+      "longitude": 18.821844
+    },
+    {
+      "name": "Szpital Specjalistyczny",
+      "latitude": 50.319922,
+      "longitude": 19.177466
+    },
+    {
+      "name": "Szpital Specjalistyczny",
+      "latitude": 51.166466,
+      "longitude": 16.593987
+    },
+    {
+      "name": "Szpital Specjalistyczny Brzeziny",
+      "latitude": 51.80623,
+      "longitude": 19.755087
+    },
+    {
+      "name": "Szpital Specjalistyczny Centrum Medycznego MAVIT",
+      "latitude": 50.247299,
+      "longitude": 19.079531
+    },
+    {
+      "name": "Szpital Specjalistyczny Chorób Płuc \"Odrodzenie\" im. Klary Jelskiej",
+      "latitude": 49.297439,
+      "longitude": 19.943916
+    },
+    {
+      "name": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu",
+      "latitude": 50.699151,
+      "longitude": 21.751835
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Antoniego Falkiewicza",
+      "latitude": 51.064064,
+      "longitude": 17.080047
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Edmunda Biernackiego",
+      "latitude": 50.28874,
+      "longitude": 21.43804
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Floriana Ceynowy w Wejherowie",
+      "latitude": 54.613659,
+      "longitude": 18.246679
+    },
+    {
+      "name": "Szpital Specjalistyczny im. H. Klimontowicza",
+      "latitude": 49.649004,
+      "longitude": 21.163703
+    },
+    {
+      "name": "Szpital Specjalistyczny im. H. Klimontowicza",
+      "latitude": 49.65103,
+      "longitude": 21.164288
+    },
+    {
+      "name": "Szpital Specjalistyczny im. J. K. Łukowicza",
+      "latitude": 53.711977,
+      "longitude": 17.547415
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego w Nowym Sączu",
+      "latitude": 49.61964,
+      "longitude": 20.699893
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie",
+      "latitude": 50.093089,
+      "longitude": 20.018617
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie sp. z o.o. Zakład Opieki Długoterminowej",
+      "latitude": 49.728512,
+      "longitude": 19.693521
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Stanisława Staszica w Pile",
+      "latitude": 53.12218,
+      "longitude": 16.718442
+    },
+    {
+      "name": "Szpital Specjalistyczny im. Szczeklika",
+      "latitude": 50.016809,
+      "longitude": 20.994776
+    },
+    {
+      "name": "Szpital Specjalistyczny imienia Józefa Dietla",
+      "latitude": 50.063401,
+      "longitude": 19.926982
+    },
+    {
+      "name": "Szpital specjalistyczny imienia Stefana Żeromskiego",
+      "latitude": 50.0657,
+      "longitude": 20.047063
+    },
+    {
+      "name": "Szpital Specjalistyczny MSWiA",
+      "latitude": 52.105489,
+      "longitude": 21.277486
+    },
+    {
+      "name": "Szpital Specjalistyczny nr 1",
+      "latitude": 50.353172,
+      "longitude": 18.922931
+    },
+    {
+      "name": "Szpital Specjalistyczny nr 2 w Bytomiu",
+      "latitude": 50.347549,
+      "longitude": 18.908663
+    },
+    {
+      "name": "Szpital Specjalistyczny Oddział Psychiatryczny",
+      "latitude": 50.319837,
+      "longitude": 19.2137
+    },
+    {
+      "name": "Szpital Specjalistyczny Prabuty",
+      "latitude": 53.737256,
+      "longitude": 19.207933
+    },
+    {
+      "name": "Szpital Specjalistyczny Pro-Familia",
+      "latitude": 50.031089,
+      "longitude": 22.04
+    },
+    {
+      "name": "Szpital Specjalistyczny w Brzozowie - Podkarpacki Ośrodek Onkologiczny im. Księdza Bronisława Markiewicza",
+      "latitude": 49.692378,
+      "longitude": 22.026061
+    },
+    {
+      "name": "Szpital Specjalistyczny w Chorzowie",
+      "latitude": 50.292254,
+      "longitude": 18.952348
+    },
+    {
+      "name": "Szpital Specjalistyczny w Kościerzynie",
+      "latitude": 54.121194,
+      "longitude": 17.950342
+    },
+    {
+      "name": "Szpital Specjalistyczny św. Łukasza w Końskich",
+      "latitude": 51.190582,
+      "longitude": 20.392315
+    },
+    {
+      "name": "Szpital SPZOZ w Bogatynii",
+      "latitude": 50.907101,
+      "longitude": 14.970393
+    },
+    {
+      "name": "Szpital Tucholski",
+      "latitude": 53.589927,
+      "longitude": 17.862088
+    },
+    {
+      "name": "Szpital Uniwersytecki",
+      "latitude": 50.00852,
+      "longitude": 20.00023
+    },
+    {
+      "name": "Szpital Uniwersytecki CM UJ",
+      "latitude": 50.061806,
+      "longitude": 19.951336
+    },
+    {
+      "name": "Szpital Uniwersytecki CM UJ",
+      "latitude": 50.064639,
+      "longitude": 19.956018
+    },
+    {
+      "name": "Szpital Uniwersytecki nr 1 im. dr. A. Jurasza",
+      "latitude": 53.127839,
+      "longitude": 18.032838
+    },
+    {
+      "name": "Szpital Uniwersytecki nr 2 im. dr Jana Biziela",
+      "latitude": 53.115491,
+      "longitude": 18.026556
+    },
+    {
+      "name": "Szpital Uniwersytecki w Zielonej Górze",
+      "latitude": 51.940608,
+      "longitude": 15.521085
+    },
+    {
+      "name": "Szpital Uzdrowiskowo-Rehabilitacyjny Polex",
+      "latitude": 52.876421,
+      "longitude": 18.79417
+    },
+    {
+      "name": "Szpital Uzdrowiskowy dla Dzieci \"Stokrotka\"",
+      "latitude": 49.940046,
+      "longitude": 18.979356
+    },
+    {
+      "name": "Szpital Uzdrowiskowy nr 4 \"Dom Zdrojowy\"",
+      "latitude": 52.875921,
+      "longitude": 18.799917
+    },
+    {
+      "name": "Szpital Vital Medic",
+      "latitude": 50.968771,
+      "longitude": 18.216649
+    },
+    {
+      "name": "Szpital w Dębnie im. Świętej Matki Teresy z Kalkuty",
+      "latitude": 52.731812,
+      "longitude": 14.703245
+    },
+    {
+      "name": "Szpital w Głubczycach",
+      "latitude": 50.203696,
+      "longitude": 17.811578
+    },
+    {
+      "name": "Szpital w Kamieniu Pomorskim Sp. z o.o.",
+      "latitude": 53.969243,
+      "longitude": 14.776864
+    },
+    {
+      "name": "Szpital w Knurowie",
+      "latitude": 50.221659,
+      "longitude": 18.667899
+    },
+    {
+      "name": "Szpital w Kwidzynie",
+      "latitude": 53.727208,
+      "longitude": 18.920801
+    },
+    {
+      "name": "Szpital w Nowym Dworze Gdańskim",
+      "latitude": 54.211482,
+      "longitude": 19.119565
+    },
+    {
+      "name": "Szpital w Ostródzie S.A.",
+      "latitude": 53.692848,
+      "longitude": 19.974535
+    },
+    {
+      "name": "Szpital w Paczkowie im. Św. Jana Pawła II",
+      "latitude": 50.463021,
+      "longitude": 17.002924
+    },
+    {
+      "name": "Szpital w Proszowicach",
+      "latitude": 50.185727,
+      "longitude": 20.299566
+    },
+    {
+      "name": "Szpital w Pyskowicach",
+      "latitude": 50.39935,
+      "longitude": 18.623889
+    },
+    {
+      "name": "Szpital w Radziejowie",
+      "latitude": 52.619083,
+      "longitude": 18.516594
+    },
+    {
+      "name": "Szpital w Szczecinku",
+      "latitude": 53.712605,
+      "longitude": 16.67893
+    },
+    {
+      "name": "Szpital w Słupcy",
+      "latitude": 52.29258,
+      "longitude": 17.872531
+    },
+    {
+      "name": "Szpital w Łasku",
+      "latitude": 51.590395,
+      "longitude": 19.152824
+    },
+    {
+      "name": "Szpital Wielospecjalistyczny",
+      "latitude": 50.288908,
+      "longitude": 18.660443
+    },
+    {
+      "name": "Szpital Wielospecjalistyczny \"Orthos\"",
+      "latitude": 51.018014,
+      "longitude": 17.001033
+    },
+    {
+      "name": "Szpital Wielospecjalistyczny im. dr Ludwika Błażka",
+      "latitude": 52.780907,
+      "longitude": 18.264774
+    },
+    {
+      "name": "Szpital Wielospecjalistyczny im. Stanleya Dudricka",
+      "latitude": 49.978026,
+      "longitude": 19.819078
+    },
+    {
+      "name": "Szpital Wielospecjalistyczny w Jaworznie",
+      "latitude": 50.204721,
+      "longitude": 19.28427
+    },
+    {
+      "name": "Szpital Wojewódzki",
+      "latitude": 50.671178,
+      "longitude": 17.936344
+    },
+    {
+      "name": "Szpital Wojewódzki im. dr. Ludwika Rydygiera w Suwałkach",
+      "latitude": 54.119221,
+      "longitude": 22.925609
+    },
+    {
+      "name": "Szpital Wojewódzki im. Jana Pawła II w Bełchatowie",
+      "latitude": 51.375384,
+      "longitude": 19.351774
+    },
+    {
+      "name": "Szpital Wojewódzki im. Kardynała Stefana Wyszyńskiego w Łomży",
+      "latitude": 53.160026,
+      "longitude": 22.087187
+    },
+    {
+      "name": "Szpital Wojewódzki im. Mikołaja Kopernika w Koszalinie",
+      "latitude": 54.19834,
+      "longitude": 16.214265
+    },
+    {
+      "name": "Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego",
+      "latitude": 51.581914,
+      "longitude": 18.711657
+    },
+    {
+      "name": "Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego",
+      "latitude": 51.599027,
+      "longitude": 18.734115
+    },
+    {
+      "name": "Szpital Wojewódzki im. Świętego Łukasza",
+      "latitude": 50.014313,
+      "longitude": 21.032371
+    },
+    {
+      "name": "Szpital Wojewódzki Nr 2",
+      "latitude": 50.034919,
+      "longitude": 22.037361
+    },
+    {
+      "name": "Szpital Wojewódzki w Bielsku-Białej",
+      "latitude": 49.791628,
+      "longitude": 19.039255
+    },
+    {
+      "name": "Szpital Wojewódzki we Włocławku",
+      "latitude": 52.659354,
+      "longitude": 19.030738
+    },
+    {
+      "name": "Szpital Wojewódzki Zespolony",
+      "latitude": 51.963455,
+      "longitude": 20.152581
+    },
+    {
+      "name": "Szpital Wojskowego Instytutu Medycznego w Legionowie",
+      "latitude": 52.403188,
+      "longitude": 20.950685
+    },
+    {
+      "name": "Szpital Wolski im. doktor Anny Gostyńskiej",
+      "latitude": 52.226044,
+      "longitude": 20.971604
+    },
+    {
+      "name": "Szpital Wysoka Łąka",
+      "latitude": 50.811229,
+      "longitude": 15.842825
+    },
+    {
+      "name": "Szpital Zakonu Bonifratrów św. Jana Bożego",
+      "latitude": 51.717945,
+      "longitude": 19.470669
+    },
+    {
+      "name": "Szpital Zakonu Bonifratrów Świętego Jana Grandego",
+      "latitude": 50.047523,
+      "longitude": 19.945186
+    },
+    {
+      "name": "Szpital Zakonu Bonifratów pw. Aniołów Stróżów",
+      "latitude": 50.268956,
+      "longitude": 19.039817
+    },
+    {
+      "name": "Szpital Zakonu Bonifratów Św. Benedykta Menni",
+      "latitude": 51.879465,
+      "longitude": 17.070239
+    },
+    {
+      "name": "Szpital zakonu oo. Kamilianów",
+      "latitude": 50.43826,
+      "longitude": 18.863165
+    },
+    {
+      "name": "Szpital Śląski",
+      "latitude": 49.745357,
+      "longitude": 18.640265
+    },
+    {
+      "name": "Szpital Średzki",
+      "latitude": 52.227564,
+      "longitude": 17.284957
+    },
+    {
+      "name": "Szpital św. Antoniego",
+      "latitude": 50.587405,
+      "longitude": 16.81726
+    },
+    {
+      "name": "Szpital św. Jana",
+      "latitude": 53.967536,
+      "longitude": 18.508088
+    },
+    {
+      "name": "Szpital św. Józefa w Mikołowie",
+      "latitude": 50.170125,
+      "longitude": 18.908475
+    },
+    {
+      "name": "Szpital św. Leona w Opatowie",
+      "latitude": 50.804678,
+      "longitude": 21.424331
+    },
+    {
+      "name": "Szpital św. Rocha",
+      "latitude": 50.681706,
+      "longitude": 18.219927
+    },
+    {
+      "name": "Szpital św. Wojciecha",
+      "latitude": 52.362278,
+      "longitude": 16.992316
+    },
+    {
+      "name": "Szpital Św. Wojciecha",
+      "latitude": 54.402074,
+      "longitude": 18.613262
+    },
+    {
+      "name": "Szpital św. Łukasza",
+      "latitude": 49.782154,
+      "longitude": 19.067046
+    },
+    {
+      "name": "Szpital Św. Łukasza",
+      "latitude": 53.103497,
+      "longitude": 18.050912
+    },
+    {
+      "name": "Szpital Świętego Rafała w Krakowie",
+      "latitude": 50.010534,
+      "longitude": 19.975387
+    },
+    {
+      "name": "Szpital Świętej Anny w Miechowie",
+      "latitude": 50.353315,
+      "longitude": 20.035077
+    },
+    {
+      "name": "Szpital Świętej Anny w Piasecznie",
+      "latitude": 52.062317,
+      "longitude": 21.025218
+    },
+    {
+      "name": "Szpital Świętej Elżbiety",
+      "latitude": 52.195102,
+      "longitude": 21.021031
+    },
+    {
+      "name": "Szpital Świętej Rodziny",
+      "latitude": 52.204192,
+      "longitude": 21.017675
+    },
+    {
+      "name": "Szpital Świętej Trójcy",
+      "latitude": 52.539741,
+      "longitude": 19.695445
+    },
+    {
+      "name": "Szpital Świętej Zofii",
+      "latitude": 52.240858,
+      "longitude": 20.987031
+    },
+    {
+      "name": "Szpital Żywiec",
+      "latitude": 49.667201,
+      "longitude": 19.22467
+    },
+    {
+      "name": "Szpitalne Centrum Medyczne w Goleniowie",
+      "latitude": 53.569799,
+      "longitude": 14.833599
+    },
+    {
+      "name": "SZPZOZ im. Dzieci Warszawy w Dziekanowie Leśnym",
+      "latitude": 52.34148,
+      "longitude": 20.849527
+    },
+    {
+      "name": "Tomaszowskie Centrum Zdrowia",
+      "latitude": 51.522843,
+      "longitude": 20.006185
+    },
+    {
+      "name": "Ujastek Grupa Neomedic",
+      "latitude": 50.081247,
+      "longitude": 20.068223
+    },
+    {
+      "name": "Uniwersytecki Dziecięcy Szpital Kliniczny im. Ludwika Zamenhofa",
+      "latitude": 53.123659,
+      "longitude": 23.15616
+    },
+    {
+      "name": "Uniwersytecki Szpital Dziecięcy",
+      "latitude": 50.01177,
+      "longitude": 20.000683
+    },
+    {
+      "name": "Uniwersytecki Szpital Dziecięcy",
+      "latitude": 51.259141,
+      "longitude": 22.561623
+    },
+    {
+      "name": "Uniwersytecki Szpital Dziecięcy",
+      "latitude": 51.26036,
+      "longitude": 22.561033
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny",
+      "latitude": 52.40369,
+      "longitude": 16.886839
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny",
+      "latitude": 52.405491,
+      "longitude": 16.902569
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny",
+      "latitude": 53.124262,
+      "longitude": 23.158896
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny",
+      "latitude": 53.773189,
+      "longitude": 20.470277
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny - Oddział",
+      "latitude": 53.109027,
+      "longitude": 23.190121
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina",
+      "latitude": 50.035736,
+      "longitude": 22.007348
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego",
+      "latitude": 51.073286,
+      "longitude": 17.030629
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny im. WAM – Centralny Szpital Weteranów",
+      "latitude": 51.779182,
+      "longitude": 19.467336
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej",
+      "latitude": 51.767552,
+      "longitude": 19.437519
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 1 im. N. Barlickiego. SPZOZ",
+      "latitude": 51.773917,
+      "longitude": 19.483374
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 1 Pomorskiego Uniwersytetu Medycznego",
+      "latitude": 53.448671,
+      "longitude": 14.504249
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 1 PUM",
+      "latitude": 53.546939,
+      "longitude": 14.561578
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 1 w Lublinie",
+      "latitude": 51.251223,
+      "longitude": 22.563064
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 2 Pomorskiego Uniwersytetu Medycznego",
+      "latitude": 53.408695,
+      "longitude": 14.531646
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny nr 2 Uniwersytetu Medycznego w Łodzi",
+      "latitude": 51.759771,
+      "longitude": 19.446643
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny Nr 4 w Lublinie",
+      "latitude": 51.258574,
+      "longitude": 22.563989
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny w Opolu",
+      "latitude": 50.676494,
+      "longitude": 17.976336
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny w Poznaniu",
+      "latitude": 52.403107,
+      "longitude": 16.935857
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny w Radomsku",
+      "latitude": 51.056813,
+      "longitude": 19.459042
+    },
+    {
+      "name": "Uniwersytecki Szpital Kliniczny we Wrocławiu - Oddział w Strzelinie",
+      "latitude": 50.787857,
+      "longitude": 17.069777
+    },
+    {
+      "name": "Uniwersytecki Szpital Ortopedyczno Rehabilitacyjny w Zakopanem",
+      "latitude": 49.286282,
+      "longitude": 19.985108
+    },
+    {
+      "name": "Uniwersyteckie Centrum Kliniczne",
+      "latitude": 54.365991,
+      "longitude": 18.622429
+    },
+    {
+      "name": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+      "latitude": 50.244785,
+      "longitude": 19.016815
+    },
+    {
+      "name": "Uniwersyteckie Centrum Kliniczne im. prof. Kornela Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+      "latitude": 50.223833,
+      "longitude": 18.954527
+    },
+    {
+      "name": "Uniwersyteckie Centrum Kliniczne WUM",
+      "latitude": 52.209049,
+      "longitude": 20.983002
+    },
+    {
+      "name": "Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej",
+      "latitude": 54.4881,
+      "longitude": 18.549169
+    },
+    {
+      "name": "Uzdrowiskowy Instytut Zdrowia",
+      "latitude": 49.721552,
+      "longitude": 18.825411
+    },
+    {
+      "name": "Uzdrowiskowy Szpital Dziecięcy „Olszówka”",
+      "latitude": 49.610665,
+      "longitude": 19.970674
+    },
+    {
+      "name": "VITA LONGA",
+      "latitude": 50.175898,
+      "longitude": 18.969578
+    },
+    {
+      "name": "VITO-MED Sp. z o.o.",
+      "latitude": 50.293914,
+      "longitude": 18.640718
+    },
+    {
+      "name": "Vratislavia Medica",
+      "latitude": 51.1585,
+      "longitude": 17.029806
+    },
+    {
+      "name": "Warszawski Instytut Zdrowia Kobiet",
+      "latitude": 52.2549,
+      "longitude": 20.99151
+    },
+    {
+      "name": "Warszawski Szpital Dla Dzieci",
+      "latitude": 52.237648,
+      "longitude": 21.019211
+    },
+    {
+      "name": "Warszawskie Centrum Opieki Medycznej „Kopernik”",
+      "latitude": 52.317393,
+      "longitude": 21.027834
+    },
+    {
+      "name": "Wielkopolskie Centrum Leczenia Oparzeń",
+      "latitude": 51.653489,
+      "longitude": 17.826099
+    },
+    {
+      "name": "Wielkopolskie Centrum Neuropsychiatryczne imienia Oskara Bielawskiego",
+      "latitude": 52.084404,
+      "longitude": 16.638592
+    },
+    {
+      "name": "Wielkopolskie Centrum Onkologii",
+      "latitude": 52.402121,
+      "longitude": 16.935716
+    },
+    {
+      "name": "Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów",
+      "latitude": 52.412228,
+      "longitude": 16.887544
+    },
+    {
+      "name": "Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów",
+      "latitude": 52.983159,
+      "longitude": 16.901666
+    },
+    {
+      "name": "Wielkpolskie Centrum Pediatrii",
+      "latitude": 52.437405,
+      "longitude": 16.905685
+    },
+    {
+      "name": "Wielospecjalistyczny Ośrodek Zdrowia \"Gryf-Med\"",
+      "latitude": 53.101904,
+      "longitude": 18.05984
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Miejski im. Józefa Strusia",
+      "latitude": 52.390025,
+      "longitude": 16.996453
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Powiatowy im. dr B. Hagera",
+      "latitude": 50.439998,
+      "longitude": 18.805289
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Powiatowy S.A. im. Bronisława Hagera w Tarnowskich Górach",
+      "latitude": 50.446974,
+      "longitude": 18.851291
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli",
+      "latitude": 51.806599,
+      "longitude": 15.68838
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital TOMMED",
+      "latitude": 50.210015,
+      "longitude": 18.977139
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital w Ostrowcu Świętokrzyskim",
+      "latitude": 50.952581,
+      "longitude": 21.362033
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie",
+      "latitude": 52.753603,
+      "longitude": 15.258319
+    },
+    {
+      "name": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie | ZESPÓŁ SZPITALNY ul. DEKERTA",
+      "latitude": 52.760943,
+      "longitude": 15.237032
+    },
+    {
+      "name": "Wielospecjalistyczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Bydgoszczy",
+      "latitude": 53.126183,
+      "longitude": 18.011036
+    },
+    {
+      "name": "Wojewódzka Przychodnia Specjalistyczna",
+      "latitude": 50.870973,
+      "longitude": 20.603086
+    },
+    {
+      "name": "Wojewódzka Przychodnia Zdrowia Psychicznego w Bydgoszczy",
+      "latitude": 53.14109,
+      "longitude": 18.031171
+    },
+    {
+      "name": "Wojewódzka Stacja Ratownictwa Medycznego",
+      "latitude": 51.754673,
+      "longitude": 19.463309
+    },
+    {
+      "name": "Wojewódzki Ośrodek Leczenia Odwykowego",
+      "latitude": 49.959508,
+      "longitude": 18.380098
+    },
+    {
+      "name": "Wojewódzki Ośrodek Profilaktyki i Terapii Uzależnień w Łomży",
+      "latitude": 53.176051,
+      "longitude": 22.068779
+    },
+    {
+      "name": "Wojewódzki Ośrodek Terapii Uzależnień i Współuzależnienia",
+      "latitude": 52.982814,
+      "longitude": 18.686677
+    },
+    {
+      "name": "Wojewódzki Podkarpacki Szpital Psychiatryczny im. prof. Eugeniusza Brzezickiego",
+      "latitude": 49.825994,
+      "longitude": 22.76833
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. św. Ludwika",
+      "latitude": 50.063429,
+      "longitude": 19.950451
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Szpital Dziecięcy w Olsztynie",
+      "latitude": 53.76789,
+      "longitude": 20.495117
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Szpital im. dr. Władysława Biegańskiego",
+      "latitude": 51.800702,
+      "longitude": 19.438419
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Szpital imienia Mikołaja Pirogowa",
+      "latitude": 51.751544,
+      "longitude": 19.454673
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Zespół Neuropsychiatryczny",
+      "latitude": 50.675606,
+      "longitude": 17.940623
+    },
+    {
+      "name": "Wojewódzki Specjalistyczny Zespół Zakładów Opieki Zdrowotnej Chorób Płuc i Gruźlicy",
+      "latitude": 51.69844,
+      "longitude": 18.147345
+    },
+    {
+      "name": "Wojewódzki Szpital Chirurgii Urazowej",
+      "latitude": 52.219297,
+      "longitude": 20.979084
+    },
+    {
+      "name": "Wojewódzki Szpital Chorób Płuc im. dr Alojzego Pawelca",
+      "latitude": 49.997494,
+      "longitude": 18.489556
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych",
+      "latitude": 51.25949,
+      "longitude": 15.586258
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych",
+      "latitude": 51.279695,
+      "longitude": 16.457614
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych",
+      "latitude": 53.407836,
+      "longitude": 18.456075
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych \"Dziekanka\" im. Aleksandra Piotrowskiego",
+      "latitude": 52.531653,
+      "longitude": 17.578332
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Sieniawce",
+      "latitude": 50.891991,
+      "longitude": 14.839572
+    },
+    {
+      "name": "Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Suchowoli",
+      "latitude": 51.703946,
+      "longitude": 22.727109
+    },
+    {
+      "name": "Wojewódzki Szpital Dziecięcy im. J. Brudzińskiego w Bydgoszczy",
+      "latitude": 53.130729,
+      "longitude": 18.026747
+    },
+    {
+      "name": "Wojewódzki Szpital im. Zofii z Zamoyskich Tarnowskiej w Tarnobrzegu",
+      "latitude": 50.567431,
+      "longitude": 21.671461
+    },
+    {
+      "name": "Wojewódzki Szpital im. Św. Ojca Pio w Przemyślu",
+      "latitude": 49.809279,
+      "longitude": 22.783865
+    },
+    {
+      "name": "Wojewódzki Szpital Neuropsychiatryczny im. dr Emila Cyrana",
+      "latitude": 50.665074,
+      "longitude": 18.677788
+    },
+    {
+      "name": "Wojewódzki Szpital Obserwacyjno-Zakaźny",
+      "latitude": 53.121897,
+      "longitude": 18.008974
+    },
+    {
+      "name": "Wojewódzki Szpital Okulistyczny w Krakowie",
+      "latitude": 50.099427,
+      "longitude": 20.063716
+    },
+    {
+      "name": "Wojewódzki Szpital Podkarpacki im. Jana Pawła II w Krośnie",
+      "latitude": 49.684613,
+      "longitude": 21.765783
+    },
+    {
+      "name": "Wojewódzki Szpital Podkarpacki im. Jana Pawła II w Krośnie",
+      "latitude": 49.703037,
+      "longitude": 21.783617
+    },
+    {
+      "name": "Wojewódzki Szpital Psychiatryczny",
+      "latitude": 49.847213,
+      "longitude": 19.347275
+    },
+    {
+      "name": "Wojewódzki Szpital Psychiatryczny im. Tadeusza Bilikiewicza",
+      "latitude": 54.375851,
+      "longitude": 18.576215
+    },
+    {
+      "name": "Wojewódzki Szpital Psychiatryczny w Warcie",
+      "latitude": 51.703955,
+      "longitude": 18.628676
+    },
+    {
+      "name": "Wojewódzki Szpital Psychiatryczny w Warcie",
+      "latitude": 51.704667,
+      "longitude": 18.62718
+    },
+    {
+      "name": "Wojewódzki Szpital Psychiatryczny w Złotoryi",
+      "latitude": 51.122259,
+      "longitude": 15.90792
+    },
+    {
+      "name": "Wojewódzki Szpital Rehabilitacyjny dla Dzieci",
+      "latitude": 49.947139,
+      "longitude": 18.571991
+    },
+    {
+      "name": "Wojewódzki Szpital Rehabilitacyjny dla Dzieci w Ameryce",
+      "latitude": 53.617117,
+      "longitude": 20.317383
+    },
+    {
+      "name": "Wojewódzki Szpital Rehabilitacyjny im. dr. S. Jasińskiego w Zakopanem",
+      "latitude": 49.312168,
+      "longitude": 19.960633
+    },
+    {
+      "name": "Wojewódzki Szpital Rehabilitacyjny w Górowie Iławeckim",
+      "latitude": 54.284331,
+      "longitude": 20.497526
+    },
+    {
+      "name": "Wojewódzki Szpital Rehabilitacyjny w Janowicach Wielkich",
+      "latitude": 50.891626,
+      "longitude": 15.927504
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych",
+      "latitude": 52.145812,
+      "longitude": 15.406109
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka",
+      "latitude": 54.451527,
+      "longitude": 17.062228
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka w Ustce - Oddział Rehabilitacji i Opieki Długoterminowej w Ustce",
+      "latitude": 54.586253,
+      "longitude": 16.86299
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Jerzego Gromkowskiego",
+      "latitude": 51.143069,
+      "longitude": 17.066109
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Kardynała Stefana Wyszyńskiego SPZOZ w Lublinie",
+      "latitude": 51.256252,
+      "longitude": 22.567121
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Kardynała Stefana Wyszyńskiego SPZOZ w Lublinie",
+      "latitude": 51.256717,
+      "longitude": 22.572408
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. M. Kopernika",
+      "latitude": 51.731081,
+      "longitude": 19.457072
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Marii Skłodowskiej – Curie",
+      "latitude": 51.862312,
+      "longitude": 19.389977
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Najświętszej Maryi Panny",
+      "latitude": 50.830207,
+      "longitude": 19.091275
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. Stefana Wyszyńskiego",
+      "latitude": 51.2393,
+      "longitude": 22.503962
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze",
+      "latitude": 50.822112,
+      "longitude": 20.488657
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny nr 1",
+      "latitude": 50.113429,
+      "longitude": 19.007348
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny nr 2",
+      "latitude": 49.945631,
+      "longitude": 18.583457
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny im. J. Korczaka",
+      "latitude": 49.960358,
+      "longitude": 18.573606
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny nr 3",
+      "latitude": 50.111732,
+      "longitude": 18.521419
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny nr 4",
+      "latitude": 50.354769,
+      "longitude": 18.912764
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny nr 5",
+      "latitude": 50.303102,
+      "longitude": 19.122786
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny Oddział Zamiejscowy",
+      "latitude": 51.157254,
+      "longitude": 17.03425
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny w Białej Podlaskiej",
+      "latitude": 52.046567,
+      "longitude": 23.112178
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny w Legnicy",
+      "latitude": 51.209639,
+      "longitude": 16.216499
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny w Olsztynie",
+      "latitude": 53.768781,
+      "longitude": 20.492786
+    },
+    {
+      "name": "Wojewódzki Szpital Specjalistyczny we Wrocławiu",
+      "latitude": 51.148241,
+      "longitude": 17.045287
+    },
+    {
+      "name": "Wojewódzki Szpital Wielospecjalistyczny im. dr Jana Jonstona w Lesznie",
+      "latitude": 51.840005,
+      "longitude": 16.607508
+    },
+    {
+      "name": "Wojewódzki Szpital Zakaźny",
+      "latitude": 52.233968,
+      "longitude": 20.971566
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony",
+      "latitude": 50.873736,
+      "longitude": 20.601377
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony",
+      "latitude": 52.440613,
+      "longitude": 16.905886
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony",
+      "latitude": 53.020262,
+      "longitude": 18.609935
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony",
+      "latitude": 54.178095,
+      "longitude": 19.431922
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. dr. Romana Ostrzyckiego",
+      "latitude": 52.22637,
+      "longitude": 18.264609
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. dr. Romana Ostrzyckiego w Koninie",
+      "latitude": 52.194713,
+      "longitude": 18.239547
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego",
+      "latitude": 53.124385,
+      "longitude": 23.162213
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego",
+      "latitude": 53.125522,
+      "longitude": 23.163827
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. L. Rydygiera",
+      "latitude": 53.027716,
+      "longitude": 18.582485
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Ludwika Perzyny",
+      "latitude": 51.765141,
+      "longitude": 18.06686
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Ludwika Perzyny",
+      "latitude": 51.769627,
+      "longitude": 18.100587
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Ludwika Rydygiera - Szpital Dziecięcy w Toruniu",
+      "latitude": 53.02188,
+      "longitude": 18.692387
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. Marcina Kacprzaka w Płocku",
+      "latitude": 52.557269,
+      "longitude": 19.654186
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony im. prof. dr. Witolda Orłowskiego w Częstochowie",
+      "latitude": 50.830015,
+      "longitude": 19.112703
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony w Kielcach",
+      "latitude": 50.870064,
+      "longitude": 20.635789
+    },
+    {
+      "name": "Wojewódzki Szpital Zespolony – Szpital Psychiatryczny",
+      "latitude": 53.012271,
+      "longitude": 18.591623
+    },
+    {
+      "name": "Wojewódzki Zakład Opieki Psychiatrycznej w Sokołówce",
+      "latitude": 51.820926,
+      "longitude": 18.307709
+    },
+    {
+      "name": "Wojewódzki Zespół Lecznictwa Psychiatrycznego",
+      "latitude": 53.794972,
+      "longitude": 20.483493
+    },
+    {
+      "name": "Wojewódzki Zespół Zakładów Opieki Zdrowotnej – Centrum Leczenia Chorób Płuc i Rehabilitacji im. błogosławionego ojca Rafała Chylińskiego",
+      "latitude": 51.848154,
+      "longitude": 19.476642
+    },
+    {
+      "name": "Wojewódzkie Centrum Pediatrii Kubalonka",
+      "latitude": 49.601456,
+      "longitude": 18.901514
+    },
+    {
+      "name": "Wojewódzkie Centrum Psychiatrii Długoterminowej",
+      "latitude": 50.29066,
+      "longitude": 16.878351
+    },
+    {
+      "name": "Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej",
+      "latitude": 50.913096,
+      "longitude": 15.765052
+    },
+    {
+      "name": "Wojskowy Instytut Medycyny Lotniczej",
+      "latitude": 52.262002,
+      "longitude": 20.963681
+    },
+    {
+      "name": "WOPR",
+      "latitude": 51.443976,
+      "longitude": 19.923776
+    },
+    {
+      "name": "WSS im. M. Pirogowa. Ośrodek Szpitalny im. M. Madurowicza",
+      "latitude": 51.753092,
+      "longitude": 19.424329
+    },
+    {
+      "name": "WSZPZO im. prof. Eugeniusza Wilczkowskiego",
+      "latitude": 52.399713,
+      "longitude": 19.498124
+    },
+    {
+      "name": "WSZPZO im. prof. Eugeniusza Wilczkowskiego",
+      "latitude": 52.399813,
+      "longitude": 19.499471
+    },
+    {
+      "name": "Zachodnie Centrum Medyczne sp. z o.o.",
+      "latitude": 51.945564,
+      "longitude": 14.726785
+    },
+    {
+      "name": "Zachodnie Centrum Medyczne sp. z o.o.",
+      "latitude": 52.05697,
+      "longitude": 15.098456
+    },
+    {
+      "name": "Zachodniopomorskie Centrum Onkologii",
+      "latitude": 53.46892,
+      "longitude": 14.59414
+    },
+    {
+      "name": "Zagłębiowski Szpital Kliniczny",
+      "latitude": 50.326941,
+      "longitude": 19.075853
+    },
+    {
+      "name": "Zakład Opieki Zdrowotnej",
+      "latitude": 50.810381,
+      "longitude": 15.762291
+    },
+    {
+      "name": "Zakład Opieki Zdrowotnej MSWiA im. prof. Ludwika Bierkowskiego",
+      "latitude": 52.436285,
+      "longitude": 16.905208
+    },
+    {
+      "name": "Zakład Opiekuńczo Lecniczy - Hospicjum",
+      "latitude": 54.085291,
+      "longitude": 18.798358
+    },
+    {
+      "name": "Zakład Opiekuńczo Leczniczy",
+      "latitude": 50.856615,
+      "longitude": 17.478869
+    },
+    {
+      "name": "Zakład Opiekuńczo-Leczniczy",
+      "latitude": 50.305863,
+      "longitude": 17.383955
+    },
+    {
+      "name": "Zakład Opiekuńczo-Leczniczy",
+      "latitude": 51.161564,
+      "longitude": 14.994509
+    },
+    {
+      "name": "Zakład Opiekuńczo-Leczniczy",
+      "latitude": 51.317595,
+      "longitude": 20.68644
+    },
+    {
+      "name": "Zakład Opiekuńczo-Leczniczy",
+      "latitude": 52.529024,
+      "longitude": 17.573858
+    },
+    {
+      "name": "Zakład Opiekuńczo-Leczniczy",
+      "latitude": 52.626997,
+      "longitude": 18.173782
+    },
+    {
+      "name": "Zakład Pielęgnacyjno - Opiekuńczy imienia świętego Józefa w Pleszewie",
+      "latitude": 51.898603,
+      "longitude": 17.785973
+    },
+    {
+      "name": "Zakład Pielęgnacyjno-Opiekuńczy w Żołyni",
+      "latitude": 50.165768,
+      "longitude": 22.306382
+    },
+    {
+      "name": "Zamojski Szpital Niepubliczny",
+      "latitude": 50.723983,
+      "longitude": 23.25481
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej ,,Szpitala Powiatowego” w Sochaczewie",
+      "latitude": 52.238395,
+      "longitude": 20.227862
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej - Szpital im. Świętej Elżbiety w Białej",
+      "latitude": 50.387155,
+      "longitude": 17.662001
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej Nr 2 w Rzeszowie - lZakład Opieki Długoterminowej i Paliacji w Błażowej",
+      "latitude": 49.883179,
+      "longitude": 22.101152
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej Szpital Psychiatryczny",
+      "latitude": 50.058666,
+      "longitude": 21.368667
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej w Bolesławcu",
+      "latitude": 51.254917,
+      "longitude": 15.567698
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej w Chełmnie, Szpital Rejonowy im. L. Rydygiera",
+      "latitude": 53.34478,
+      "longitude": 18.420848
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej w Nidzicy",
+      "latitude": 53.35986,
+      "longitude": 20.43298
+    },
+    {
+      "name": "Zespół Opieki Zdrowotnej w Nysie",
+      "latitude": 50.470819,
+      "longitude": 17.328178
+    },
+    {
+      "name": "Zespół Publicznych Zakładów Opieki Zdrowotnej w Zawoni",
+      "latitude": 51.315071,
+      "longitude": 17.19494
+    },
+    {
+      "name": "Zespół sanatoryjno-Szpitalny \"Gwarek\"",
+      "latitude": 49.939076,
+      "longitude": 18.979901
+    },
+    {
+      "name": "Zespół Szpitali Miejskich w Chorzowie",
+      "latitude": 50.291993,
+      "longitude": 18.943322
+    },
+    {
+      "name": "Zespół Zakładów Opieki Zdrowotnej - Szpital Powiatowy w Czarnkowie",
+      "latitude": 52.897475,
+      "longitude": 16.5571
+    },
+    {
+      "name": "ZOZ Oddział II Wewnętrzny",
+      "latitude": 51.099845,
+      "longitude": 20.8701
+    },
+    {
+      "name": "Łużyckie Centrum Medyczne",
+      "latitude": 51.11642,
+      "longitude": 15.271712
+    },
+    {
+      "name": "Śląskie Centrum Chorób Serca",
+      "latitude": 50.314798,
+      "longitude": 18.779984
+    },
+    {
+      "name": "Śląskie Centrum Rehabilitacji",
+      "latitude": 49.718086,
+      "longitude": 18.828492
+    },
+    {
+      "name": "Środkowopomorskie Centrum Zdrowia Psychicznego - MEDiSON",
+      "latitude": 54.171597,
+      "longitude": 16.188186
+    },
+    {
+      "name": "Świętokrzyskie Centrum Matki i Noworodka",
+      "latitude": 50.861812,
+      "longitude": 20.636407
+    },
+    {
+      "name": "Świętokrzyskie Centrum Onkologii",
+      "latitude": 50.871159,
+      "longitude": 20.599441
+    },
+    {
+      "name": "Świętokrzyskie Centrum Psychiatrii w Morawicy",
+      "latitude": 50.74713,
+      "longitude": 20.624215
+    },
+    {
+      "name": "Świętokrzyskie Centrum Ratownictwa Medycznego i Transportu Sanitarnego",
+      "latitude": 51.12521,
+      "longitude": 20.8684
+    },
+    {
+      "name": "Świętokrzyskie Centrum Rehabilitacji w Czarnieckiej Górze",
+      "latitude": 51.136698,
+      "longitude": 20.529382
+    },
+    {
+      "name": "Żagiel Med Szpital",
+      "latitude": 51.225838,
+      "longitude": 22.595042
+    },
+    {
+      "name": "Гарадская бальніца №2",
+      "latitude": 52.103727,
+      "longitude": 23.643777
+    },
+    {
+      "name": "Психо-неврологічний диспансер",
+      "latitude": 49.73399,
+      "longitude": 22.888937
+    },
+    {
+      "name": "ФАП",
+      "latitude": 51.993725,
+      "longitude": 23.700572
+    }
+  ],
+  "meta": {
+    "title": "Polska — szpitale - Bezpłatne pobieranie",
+    "description": "Szpitale w Polsce (OpenStreetMap) Zawiera 949 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — szpitale | ListBase",
+    "seo_description": "Pobierz Polska — szpitale — 949 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 949 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

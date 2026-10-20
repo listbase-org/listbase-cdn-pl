@@ -1,0 +1,1621 @@
+{
+  "id": "pl-agencje-zatrudnienia",
+  "name": "Polska — agencje zatrudnienia",
+  "title": "Polska — agencje zatrudnienia",
+  "description": "Agencje zatrudnienia w Polsce (OpenStreetMap)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 316,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Akcja Job\" Agencja pracy",
+      "latitude": 50.0574,
+      "longitude": 21.986887
+    },
+    {
+      "name": "A.C.A. Abroad Career Agency",
+      "latitude": 50.257065,
+      "longitude": 19.028332
+    },
+    {
+      "name": "AA EuroGroup",
+      "latitude": 53.011451,
+      "longitude": 18.607664
+    },
+    {
+      "name": "AAEuro",
+      "latitude": 53.01954,
+      "longitude": 18.640803
+    },
+    {
+      "name": "AB Job Service",
+      "latitude": 50.878496,
+      "longitude": 20.628031
+    },
+    {
+      "name": "AB Job Service",
+      "latitude": 51.246552,
+      "longitude": 22.5587
+    },
+    {
+      "name": "AB MN Holandia",
+      "latitude": 50.038646,
+      "longitude": 22.002164
+    },
+    {
+      "name": "Adecco",
+      "latitude": 50.125667,
+      "longitude": 18.98146
+    },
+    {
+      "name": "Adecco",
+      "latitude": 50.260561,
+      "longitude": 19.023948
+    },
+    {
+      "name": "Adecco",
+      "latitude": 51.24669,
+      "longitude": 22.559148
+    },
+    {
+      "name": "Adecco",
+      "latitude": 52.230253,
+      "longitude": 20.994085
+    },
+    {
+      "name": "Adecco",
+      "latitude": 52.23458,
+      "longitude": 20.997045
+    },
+    {
+      "name": "Adecco",
+      "latitude": 52.730394,
+      "longitude": 15.23972
+    },
+    {
+      "name": "Adecco Poland Sp. z o.o.",
+      "latitude": 51.659788,
+      "longitude": 17.811084
+    },
+    {
+      "name": "Agencja pracy Main Job",
+      "latitude": 52.737819,
+      "longitude": 15.233182
+    },
+    {
+      "name": "Agencja Pracy Tymczasowej Eurocare",
+      "latitude": 51.11845,
+      "longitude": 17.027645
+    },
+    {
+      "name": "Agencja Pracy Tymczasowej Graser",
+      "latitude": 53.125259,
+      "longitude": 18.008816
+    },
+    {
+      "name": "Agencja Zatrudnienia",
+      "latitude": 50.875477,
+      "longitude": 18.42333
+    },
+    {
+      "name": "Agentur für Arbeit",
+      "latitude": 51.153807,
+      "longitude": 14.989596
+    },
+    {
+      "name": "Agentur für Arbeit",
+      "latitude": 51.953855,
+      "longitude": 14.711107
+    },
+    {
+      "name": "Agentur für Arbeit",
+      "latitude": 52.340509,
+      "longitude": 14.553257
+    },
+    {
+      "name": "Akcja Job",
+      "latitude": 50.254756,
+      "longitude": 19.012957
+    },
+    {
+      "name": "Alarm Cobra System",
+      "latitude": 51.391467,
+      "longitude": 21.135633
+    },
+    {
+      "name": "AMAZON",
+      "latitude": 53.437013,
+      "longitude": 14.544049
+    },
+    {
+      "name": "Amia",
+      "latitude": 54.518543,
+      "longitude": 18.53515
+    },
+    {
+      "name": "Amlux",
+      "latitude": 52.211323,
+      "longitude": 20.977504
+    },
+    {
+      "name": "Ar-Mar",
+      "latitude": 50.2953,
+      "longitude": 19.134147
+    },
+    {
+      "name": "Asmo Solutions",
+      "latitude": 52.182556,
+      "longitude": 20.966004
+    },
+    {
+      "name": "Associate",
+      "latitude": 51.039931,
+      "longitude": 16.753691
+    },
+    {
+      "name": "Atri Group sp. z o.o.",
+      "latitude": 53.014216,
+      "longitude": 18.577501
+    },
+    {
+      "name": "Avn",
+      "latitude": 53.011359,
+      "longitude": 18.617734
+    },
+    {
+      "name": "Avoria Opiekunki",
+      "latitude": 50.293809,
+      "longitude": 18.949391
+    },
+    {
+      "name": "Axell Employment",
+      "latitude": 50.323228,
+      "longitude": 19.183486
+    },
+    {
+      "name": "Baltimex",
+      "latitude": 53.443428,
+      "longitude": 14.544146
+    },
+    {
+      "name": "BestHill Work",
+      "latitude": 50.062825,
+      "longitude": 21.247596
+    },
+    {
+      "name": "Bratniak",
+      "latitude": 53.422748,
+      "longitude": 14.541719
+    },
+    {
+      "name": "CareWork",
+      "latitude": 50.298032,
+      "longitude": 18.672895
+    },
+    {
+      "name": "Carework",
+      "latitude": 51.80593,
+      "longitude": 16.316128
+    },
+    {
+      "name": "CareWork",
+      "latitude": 52.394178,
+      "longitude": 16.898458
+    },
+    {
+      "name": "Carrière",
+      "latitude": 51.098678,
+      "longitude": 17.025585
+    },
+    {
+      "name": "Cech Rzemiosł Różnych w Brodnicy",
+      "latitude": 53.259001,
+      "longitude": 19.401844
+    },
+    {
+      "name": "Cech Rzemiósł Różnych",
+      "latitude": 51.366778,
+      "longitude": 17.464666
+    },
+    {
+      "name": "Centrum Aktywizacji Zawodowej",
+      "latitude": 49.293222,
+      "longitude": 19.944602
+    },
+    {
+      "name": "Centrum Aktywizacji Zawodowej",
+      "latitude": 50.483498,
+      "longitude": 17.331143
+    },
+    {
+      "name": "Centrum Aktywizacji Zawodowej",
+      "latitude": 51.075289,
+      "longitude": 17.722837
+    },
+    {
+      "name": "Centrum Aktywizacji Zawodowej",
+      "latitude": 53.111634,
+      "longitude": 20.376306
+    },
+    {
+      "name": "Centrum Aktywizacji Zawodowej Powiatowego Urzędu Pracy w Gliwicach",
+      "latitude": 50.295005,
+      "longitude": 18.666254
+    },
+    {
+      "name": "Centrum Rozwoju Talentów",
+      "latitude": 54.403359,
+      "longitude": 18.571597
+    },
+    {
+      "name": "Ceres",
+      "latitude": 50.29997,
+      "longitude": 18.677039
+    },
+    {
+      "name": "Clar System",
+      "latitude": 52.416385,
+      "longitude": 16.894877
+    },
+    {
+      "name": "Clyde Marine Recruitment",
+      "latitude": 54.515252,
+      "longitude": 18.54035
+    },
+    {
+      "name": "Contrain Agencja Pracy",
+      "latitude": 51.07106,
+      "longitude": 19.436533
+    },
+    {
+      "name": "Covebo",
+      "latitude": 50.039051,
+      "longitude": 22.012612
+    },
+    {
+      "name": "Covebo",
+      "latitude": 50.261879,
+      "longitude": 19.012212
+    },
+    {
+      "name": "Covebo",
+      "latitude": 50.668514,
+      "longitude": 17.923036
+    },
+    {
+      "name": "CoWork Polska S.A. - Wirtualne Biuro",
+      "latitude": 52.223636,
+      "longitude": 21.019056
+    },
+    {
+      "name": "Dak",
+      "latitude": 50.259738,
+      "longitude": 19.017321
+    },
+    {
+      "name": "DIM service",
+      "latitude": 52.850378,
+      "longitude": 16.52241
+    },
+    {
+      "name": "Dobies Grenda Must",
+      "latitude": 53.006791,
+      "longitude": 18.695695
+    },
+    {
+      "name": "Domino HR",
+      "latitude": 50.25911,
+      "longitude": 19.02498
+    },
+    {
+      "name": "Dungito Sp. z o. o.",
+      "latitude": 52.182575,
+      "longitude": 20.965935
+    },
+    {
+      "name": "DX partner",
+      "latitude": 53.027265,
+      "longitude": 18.590888
+    },
+    {
+      "name": "E&A",
+      "latitude": 53.011966,
+      "longitude": 18.603351
+    },
+    {
+      "name": "e-work",
+      "latitude": 50.261687,
+      "longitude": 19.013293
+    },
+    {
+      "name": "EFEKT - Agencja zatrudnienia",
+      "latitude": 52.8783,
+      "longitude": 15.527519
+    },
+    {
+      "name": "Eigenbetrieb Jobcenter",
+      "latitude": 51.958289,
+      "longitude": 14.708681
+    },
+    {
+      "name": "Eigenbetrieb Jobcenter Spree-Neiße",
+      "latitude": 51.750798,
+      "longitude": 14.656719
+    },
+    {
+      "name": "ETS",
+      "latitude": 50.293293,
+      "longitude": 18.668574
+    },
+    {
+      "name": "Eurokadra",
+      "latitude": 53.439816,
+      "longitude": 14.480685
+    },
+    {
+      "name": "Eurokontakt",
+      "latitude": 50.255266,
+      "longitude": 19.015721
+    },
+    {
+      "name": "EWL Group",
+      "latitude": 54.381641,
+      "longitude": 18.599338
+    },
+    {
+      "name": "FallWork",
+      "latitude": 52.40596,
+      "longitude": 16.927117
+    },
+    {
+      "name": "FallWork",
+      "latitude": 54.378391,
+      "longitude": 18.605604
+    },
+    {
+      "name": "Fast Service",
+      "latitude": 52.223355,
+      "longitude": 20.237495
+    },
+    {
+      "name": "Filia Powiatowego Urzędu Pracy w Skaryszewie",
+      "latitude": 51.311845,
+      "longitude": 21.251894
+    },
+    {
+      "name": "Firma Kryst",
+      "latitude": 50.042897,
+      "longitude": 18.687594
+    },
+    {
+      "name": "FIWA Polska",
+      "latitude": 50.324723,
+      "longitude": 19.183038
+    },
+    {
+      "name": "Flame",
+      "latitude": 53.015357,
+      "longitude": 18.612076
+    },
+    {
+      "name": "Flame Jobs",
+      "latitude": 53.121673,
+      "longitude": 17.999257
+    },
+    {
+      "name": "Fulljob",
+      "latitude": 52.406008,
+      "longitude": 16.925717
+    },
+    {
+      "name": "Fundacja Różnosprawni",
+      "latitude": 50.339679,
+      "longitude": 18.137408
+    },
+    {
+      "name": "German Polish Job Center",
+      "latitude": 50.259303,
+      "longitude": 19.020109
+    },
+    {
+      "name": "Gi Group",
+      "latitude": 50.261897,
+      "longitude": 19.012168
+    },
+    {
+      "name": "GI Group",
+      "latitude": 54.387907,
+      "longitude": 18.589508
+    },
+    {
+      "name": "Good Job",
+      "latitude": 50.004381,
+      "longitude": 18.46467
+    },
+    {
+      "name": "Good Job",
+      "latitude": 51.117871,
+      "longitude": 17.041769
+    },
+    {
+      "name": "Good Job",
+      "latitude": 52.193781,
+      "longitude": 21.007169
+    },
+    {
+      "name": "Good Point",
+      "latitude": 54.467016,
+      "longitude": 17.025794
+    },
+    {
+      "name": "gowork.pl",
+      "latitude": 53.42384,
+      "longitude": 14.548728
+    },
+    {
+      "name": "Grant-tor",
+      "latitude": 53.035812,
+      "longitude": 18.672969
+    },
+    {
+      "name": "Grupa No Problem",
+      "latitude": 54.401687,
+      "longitude": 18.579169
+    },
+    {
+      "name": "Herzog",
+      "latitude": 50.086039,
+      "longitude": 18.211264
+    },
+    {
+      "name": "Hoffmann",
+      "latitude": 52.348525,
+      "longitude": 14.559355
+    },
+    {
+      "name": "Holland Contracting",
+      "latitude": 50.295196,
+      "longitude": 18.668748
+    },
+    {
+      "name": "HR Europa",
+      "latitude": 52.739101,
+      "longitude": 15.231938
+    },
+    {
+      "name": "HR WORK FORCE sp. z o.o.",
+      "latitude": 51.110059,
+      "longitude": 17.039219
+    },
+    {
+      "name": "Human & Hunter",
+      "latitude": 50.257131,
+      "longitude": 19.028289
+    },
+    {
+      "name": "IC Team Personaldienste",
+      "latitude": 50.896652,
+      "longitude": 14.810529
+    },
+    {
+      "name": "In Person",
+      "latitude": 50.090659,
+      "longitude": 18.219186
+    },
+    {
+      "name": "Intensive Work",
+      "latitude": 50.306051,
+      "longitude": 21.459356
+    },
+    {
+      "name": "Inwest-Park",
+      "latitude": 53.154838,
+      "longitude": 16.744685
+    },
+    {
+      "name": "Job",
+      "latitude": 53.818713,
+      "longitude": 22.349411
+    },
+    {
+      "name": "Job Expert",
+      "latitude": 51.027336,
+      "longitude": 18.422901
+    },
+    {
+      "name": "Job Impulse",
+      "latitude": 50.262509,
+      "longitude": 19.015631
+    },
+    {
+      "name": "Job-Target",
+      "latitude": 54.378946,
+      "longitude": 18.617793
+    },
+    {
+      "name": "Jobcenter",
+      "latitude": 52.340324,
+      "longitude": 14.553705
+    },
+    {
+      "name": "JobHouse",
+      "latitude": 54.376324,
+      "longitude": 18.613756
+    },
+    {
+      "name": "Jobman.pl",
+      "latitude": 53.42387,
+      "longitude": 14.54874
+    },
+    {
+      "name": "Jobs Plus",
+      "latitude": 50.034513,
+      "longitude": 19.941074
+    },
+    {
+      "name": "JPWork",
+      "latitude": 52.651394,
+      "longitude": 16.081389
+    },
+    {
+      "name": "Juam Corporate Services",
+      "latitude": 52.228554,
+      "longitude": 21.0051
+    },
+    {
+      "name": "Kadry Agencja Pracy Tymczasowej",
+      "latitude": 51.083612,
+      "longitude": 17.038203
+    },
+    {
+      "name": "Kadry Serwis Sp. z o. o.",
+      "latitude": 53.438995,
+      "longitude": 14.57416
+    },
+    {
+      "name": "Kirsch",
+      "latitude": 50.090885,
+      "longitude": 18.22163
+    },
+    {
+      "name": "Komisja Zakładowa OZZ Inicjatywa Pracodawcza",
+      "latitude": 53.018487,
+      "longitude": 18.57101
+    },
+    {
+      "name": "KS Service",
+      "latitude": 53.422979,
+      "longitude": 14.557717
+    },
+    {
+      "name": "Lausitzer Personalmanagement UG",
+      "latitude": 51.947551,
+      "longitude": 14.70939
+    },
+    {
+      "name": "Leasing Team",
+      "latitude": 51.397841,
+      "longitude": 21.154172
+    },
+    {
+      "name": "LepszaPraca",
+      "latitude": 50.257337,
+      "longitude": 19.025621
+    },
+    {
+      "name": "Lider",
+      "latitude": 50.289416,
+      "longitude": 18.673541
+    },
+    {
+      "name": "Lobo Human Resources",
+      "latitude": 54.518541,
+      "longitude": 18.535042
+    },
+    {
+      "name": "Logart",
+      "latitude": 52.232655,
+      "longitude": 21.021621
+    },
+    {
+      "name": "m-serwis",
+      "latitude": 52.410279,
+      "longitude": 16.910648
+    },
+    {
+      "name": "Mangold Group",
+      "latitude": 54.515227,
+      "longitude": 18.540332
+    },
+    {
+      "name": "Manpower",
+      "latitude": 50.860878,
+      "longitude": 17.470184
+    },
+    {
+      "name": "Manpower",
+      "latitude": 53.011468,
+      "longitude": 18.618153
+    },
+    {
+      "name": "Mazowiecka Wojewódzka Komenda Ochotniczych Hufców Pracy",
+      "latitude": 52.2026,
+      "longitude": 21.049135
+    },
+    {
+      "name": "MB Partner",
+      "latitude": 54.380492,
+      "longitude": 18.606276
+    },
+    {
+      "name": "Medkariera",
+      "latitude": 52.233377,
+      "longitude": 20.963895
+    },
+    {
+      "name": "Metaal Flex Poland",
+      "latitude": 50.333064,
+      "longitude": 18.14691
+    },
+    {
+      "name": "MG Agencja Pracy",
+      "latitude": 49.994011,
+      "longitude": 19.946963
+    },
+    {
+      "name": "Miejski Ośrodek Pomocy Rodzinie",
+      "latitude": 53.015378,
+      "longitude": 18.569596
+    },
+    {
+      "name": "Miejski Urząd Pracy w Olsztynie",
+      "latitude": 53.769266,
+      "longitude": 20.512191
+    },
+    {
+      "name": "Miejski Urząd Pracy w Płocku",
+      "latitude": 52.545376,
+      "longitude": 19.704251
+    },
+    {
+      "name": "MSJobs",
+      "latitude": 52.229263,
+      "longitude": 20.240215
+    },
+    {
+      "name": "Multitask",
+      "latitude": 50.861469,
+      "longitude": 17.468718
+    },
+    {
+      "name": "Młodzieżowe Centrum Kariery",
+      "latitude": 49.694319,
+      "longitude": 22.018489
+    },
+    {
+      "name": "Młodzieżowe Centrum Kariery w Pszowie",
+      "latitude": 50.040512,
+      "longitude": 18.395172
+    },
+    {
+      "name": "niden",
+      "latitude": 51.124171,
+      "longitude": 16.989065
+    },
+    {
+      "name": "Ochotnicze Hufce Pracy",
+      "latitude": 49.86132,
+      "longitude": 19.350045
+    },
+    {
+      "name": "Ochotnicze Hufce Pracy",
+      "latitude": 51.842336,
+      "longitude": 16.560463
+    },
+    {
+      "name": "Ochotnicze Hufce Pracy",
+      "latitude": 52.175574,
+      "longitude": 21.02025
+    },
+    {
+      "name": "OHP",
+      "latitude": 51.639592,
+      "longitude": 22.901268
+    },
+    {
+      "name": "Orienta",
+      "latitude": 52.232512,
+      "longitude": 20.987819
+    },
+    {
+      "name": "OTTO Work Force",
+      "latitude": 54.519591,
+      "longitude": 18.534628
+    },
+    {
+      "name": "OTTO Workforce",
+      "latitude": 50.067125,
+      "longitude": 19.951895
+    },
+    {
+      "name": "Otto Workforce",
+      "latitude": 51.098486,
+      "longitude": 17.032786
+    },
+    {
+      "name": "Pajmon Centrum Pracy Tymczasowej",
+      "latitude": 50.086107,
+      "longitude": 18.530193
+    },
+    {
+      "name": "Personal-Technic",
+      "latitude": 49.696734,
+      "longitude": 21.748532
+    },
+    {
+      "name": "Personnel Solutions",
+      "latitude": 50.261772,
+      "longitude": 19.012175
+    },
+    {
+      "name": "Phoenix workout",
+      "latitude": 50.299214,
+      "longitude": 18.675744
+    },
+    {
+      "name": "Pieczarkarnia Wierzbno",
+      "latitude": 52.301025,
+      "longitude": 21.853019
+    },
+    {
+      "name": "Poland work",
+      "latitude": 53.02469,
+      "longitude": 18.619672
+    },
+    {
+      "name": "Pollux",
+      "latitude": 50.844428,
+      "longitude": 16.48998
+    },
+    {
+      "name": "Pollux",
+      "latitude": 50.850015,
+      "longitude": 16.496217
+    },
+    {
+      "name": "Polski Komitet Pomocy Społecznej",
+      "latitude": 53.014815,
+      "longitude": 18.570303
+    },
+    {
+      "name": "Pomorska Platforma Pracy",
+      "latitude": 54.349667,
+      "longitude": 18.607779
+    },
+    {
+      "name": "PowerJobs",
+      "latitude": 50.261797,
+      "longitude": 19.013023
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.293402,
+      "longitude": 19.944023
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.746823,
+      "longitude": 18.635145
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.861433,
+      "longitude": 19.349717
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.882097,
+      "longitude": 20.098605
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.91158,
+      "longitude": 19.004719
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 49.953282,
+      "longitude": 18.595008
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.003018,
+      "longitude": 18.469308
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.055198,
+      "longitude": 21.423956
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.301836,
+      "longitude": 18.788143
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.308807,
+      "longitude": 18.934761
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.356335,
+      "longitude": 20.021904
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.483389,
+      "longitude": 17.331322
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.528188,
+      "longitude": 22.717182
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.683382,
+      "longitude": 17.950364
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 50.781722,
+      "longitude": 16.028323
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.065588,
+      "longitude": 19.447829
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.07567,
+      "longitude": 17.722899
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.118024,
+      "longitude": 15.291754
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.151957,
+      "longitude": 15.007762
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.174557,
+      "longitude": 22.282612
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.29578,
+      "longitude": 18.15727
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.335167,
+      "longitude": 16.649337
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.369016,
+      "longitude": 19.369985
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.391001,
+      "longitude": 20.287845
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.415823,
+      "longitude": 21.971732
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.616098,
+      "longitude": 15.314273
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.639546,
+      "longitude": 15.145198
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.648476,
+      "longitude": 17.811106
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.662072,
+      "longitude": 16.098797
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.751174,
+      "longitude": 18.081368
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.781176,
+      "longitude": 22.615773
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.808475,
+      "longitude": 15.704256
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.892916,
+      "longitude": 17.788062
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.951267,
+      "longitude": 14.722163
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 51.958948,
+      "longitude": 15.495243
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.05571,
+      "longitude": 15.103983
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.102426,
+      "longitude": 19.932398
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.200547,
+      "longitude": 18.640215
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.249153,
+      "longitude": 15.537012
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.326935,
+      "longitude": 17.576859
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.350409,
+      "longitude": 14.558125
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.354391,
+      "longitude": 14.566129
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.392921,
+      "longitude": 16.917248
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.451229,
+      "longitude": 15.117189
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.887972,
+      "longitude": 20.597053
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 52.917279,
+      "longitude": 16.185996
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.021897,
+      "longitude": 20.884203
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.067005,
+      "longitude": 19.901975
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.111594,
+      "longitude": 20.376039
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.118673,
+      "longitude": 18.082351
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.146166,
+      "longitude": 14.883802
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.185504,
+      "longitude": 18.601272
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.437264,
+      "longitude": 14.533794
+    },
+    {
+      "name": "Powiatowy Urząd Pracy",
+      "latitude": 53.52903,
+      "longitude": 15.802145
+    },
+    {
+      "name": "Powiatowy Urząd Pracy - Filia Drezdenko",
+      "latitude": 52.842143,
+      "longitude": 15.832289
+    },
+    {
+      "name": "Powiatowy Urząd Pracy Filia Kęty",
+      "latitude": 49.874892,
+      "longitude": 19.220088
+    },
+    {
+      "name": "Powiatowy Urząd Pracy Filia w Bierutowie",
+      "latitude": 51.125471,
+      "longitude": 17.539678
+    },
+    {
+      "name": "Powiatowy Urząd Pracy filia w Pionkach",
+      "latitude": 51.476244,
+      "longitude": 21.439674
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Augustowie",
+      "latitude": 53.83908,
+      "longitude": 22.977687
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Białymstoku. Filia w Łapach",
+      "latitude": 52.990026,
+      "longitude": 22.875807
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Bielsku Podlaskim",
+      "latitude": 52.770327,
+      "longitude": 23.185569
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Chrzanowie",
+      "latitude": 50.14219,
+      "longitude": 19.400808
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Czarnkowie",
+      "latitude": 52.910176,
+      "longitude": 16.571567
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Drawsku Pomorskim Filia w Złocieńcu",
+      "latitude": 53.527488,
+      "longitude": 16.013929
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Dąbrowie Tarnowskiej",
+      "latitude": 50.169495,
+      "longitude": 20.984152
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Gorzowie Wlkp. - Filia w Witnicy",
+      "latitude": 52.682055,
+      "longitude": 14.884195
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Jarocinie",
+      "latitude": 51.967113,
+      "longitude": 17.488812
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Jaworznie",
+      "latitude": 50.209331,
+      "longitude": 19.272784
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Jaśle",
+      "latitude": 49.7476,
+      "longitude": 21.474018
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Kielcach",
+      "latitude": 50.883285,
+      "longitude": 20.606
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Kolbuszowej",
+      "latitude": 50.238743,
+      "longitude": 21.771691
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Koninie",
+      "latitude": 52.238827,
+      "longitude": 18.236159
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Krotoszynie",
+      "latitude": 51.692963,
+      "longitude": 17.427031
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Lesku",
+      "latitude": 49.470421,
+      "longitude": 22.330423
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Lesznie",
+      "latitude": 51.848841,
+      "longitude": 16.569441
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Oleśnicy Filia w Twardogórze",
+      "latitude": 51.368817,
+      "longitude": 17.467034
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Ostrowcu Świętokrzyskim",
+      "latitude": 50.930128,
+      "longitude": 21.385092
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Pile",
+      "latitude": 53.156617,
+      "longitude": 16.737265
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Przeworsku",
+      "latitude": 50.0594,
+      "longitude": 22.492505
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Rawiczu",
+      "latitude": 51.60866,
+      "longitude": 16.873458
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Rudzie Śląskiej",
+      "latitude": 50.316597,
+      "longitude": 18.853158
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Rybniku, Lokalny Punkt Informacyjno-konsultacyjny",
+      "latitude": 50.153039,
+      "longitude": 18.668809
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Sochaczewie",
+      "latitude": 52.225674,
+      "longitude": 20.250995
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Słomnikach",
+      "latitude": 50.24607,
+      "longitude": 20.084443
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Słupcy",
+      "latitude": 52.291384,
+      "longitude": 17.857646
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Słupsku",
+      "latitude": 54.47352,
+      "longitude": 17.015642
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Tczewie",
+      "latitude": 54.101354,
+      "longitude": 18.780289
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Tomaszowie Lubelskim",
+      "latitude": 50.449916,
+      "longitude": 23.418731
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Turku",
+      "latitude": 52.019798,
+      "longitude": 18.486247
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Wadowicach",
+      "latitude": 49.883354,
+      "longitude": 19.485487
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Wałczu",
+      "latitude": 53.275171,
+      "longitude": 16.479177
+    },
+    {
+      "name": "Powiatowy Urząd Pracy w Wieliczce",
+      "latitude": 49.985286,
+      "longitude": 20.063967
+    },
+    {
+      "name": "Powiatowy Urząd Pracy we Włodawie",
+      "latitude": 51.54528,
+      "longitude": 23.557137
+    },
+    {
+      "name": "Praca dla Seniorek i Seniorów",
+      "latitude": 54.375472,
+      "longitude": 18.61468
+    },
+    {
+      "name": "Prima Job Center",
+      "latitude": 50.288835,
+      "longitude": 18.87455
+    },
+    {
+      "name": "Promedica24",
+      "latitude": 54.377986,
+      "longitude": 18.604913
+    },
+    {
+      "name": "Promedica24",
+      "latitude": 54.467067,
+      "longitude": 17.024435
+    },
+    {
+      "name": "ProSenior24.pl",
+      "latitude": 50.257664,
+      "longitude": 19.025271
+    },
+    {
+      "name": "Prosperus",
+      "latitude": 53.014193,
+      "longitude": 18.577558
+    },
+    {
+      "name": "PTT Job",
+      "latitude": 50.257721,
+      "longitude": 19.038989
+    },
+    {
+      "name": "Punkt Powiatowego Urzędu Pracy w Barlinku",
+      "latitude": 52.995931,
+      "longitude": 15.220012
+    },
+    {
+      "name": "randstad",
+      "latitude": 49.826667,
+      "longitude": 19.047048
+    },
+    {
+      "name": "Randstad",
+      "latitude": 50.031179,
+      "longitude": 20.219917
+    },
+    {
+      "name": "Randstad",
+      "latitude": 50.117483,
+      "longitude": 18.990306
+    },
+    {
+      "name": "Randstad",
+      "latitude": 50.258616,
+      "longitude": 19.019527
+    },
+    {
+      "name": "Randstad",
+      "latitude": 50.264315,
+      "longitude": 19.020732
+    },
+    {
+      "name": "Randstad",
+      "latitude": 51.100066,
+      "longitude": 17.031127
+    },
+    {
+      "name": "Randstad",
+      "latitude": 52.228849,
+      "longitude": 20.24231
+    },
+    {
+      "name": "Randstad",
+      "latitude": 52.247853,
+      "longitude": 21.050846
+    },
+    {
+      "name": "Randstad",
+      "latitude": 53.012812,
+      "longitude": 18.606792
+    },
+    {
+      "name": "Randstad",
+      "latitude": 53.127027,
+      "longitude": 18.010042
+    },
+    {
+      "name": "Randstad",
+      "latitude": 54.518765,
+      "longitude": 18.535284
+    },
+    {
+      "name": "Randstadt",
+      "latitude": 51.213496,
+      "longitude": 16.164213
+    },
+    {
+      "name": "Randstat",
+      "latitude": 50.872723,
+      "longitude": 20.629534
+    },
+    {
+      "name": "Recrew HR",
+      "latitude": 54.379723,
+      "longitude": 18.605197
+    },
+    {
+      "name": "Remedy",
+      "latitude": 53.025102,
+      "longitude": 18.625026
+    },
+    {
+      "name": "Rentop",
+      "latitude": 52.710957,
+      "longitude": 16.374435
+    },
+    {
+      "name": "Rosinke Personalservice",
+      "latitude": 52.337933,
+      "longitude": 14.540809
+    },
+    {
+      "name": "Royal Job",
+      "latitude": 50.092921,
+      "longitude": 18.218327
+    },
+    {
+      "name": "Savoir agencja pracy tymczasowej",
+      "latitude": 53.033279,
+      "longitude": 18.61218
+    },
+    {
+      "name": "Sep Peeters Polska",
+      "latitude": 50.083721,
+      "longitude": 18.210984
+    },
+    {
+      "name": "SGP Group Katowice",
+      "latitude": 50.257091,
+      "longitude": 19.028281
+    },
+    {
+      "name": "Sierobi",
+      "latitude": 54.377215,
+      "longitude": 18.609003
+    },
+    {
+      "name": "Solcom Bayard",
+      "latitude": 52.416371,
+      "longitude": 16.894874
+    },
+    {
+      "name": "Special Works",
+      "latitude": 50.258535,
+      "longitude": 19.015366
+    },
+    {
+      "name": "Społeczna Agencja Pośrednictwa - Fundacja Studio M6",
+      "latitude": 53.011997,
+      "longitude": 18.577248
+    },
+    {
+      "name": "SPWork",
+      "latitude": 52.466972,
+      "longitude": 16.672197
+    },
+    {
+      "name": "SQS Holding",
+      "latitude": 50.080014,
+      "longitude": 19.874952
+    },
+    {
+      "name": "Sui Nid",
+      "latitude": 50.067948,
+      "longitude": 19.950037
+    },
+    {
+      "name": "Szkoła Językowa",
+      "latitude": 50.969001,
+      "longitude": 15.383054
+    },
+    {
+      "name": "Techniczni sp. z o. o.",
+      "latitude": 53.015848,
+      "longitude": 18.552725
+    },
+    {
+      "name": "tempton",
+      "latitude": 52.347518,
+      "longitude": 14.551629
+    },
+    {
+      "name": "Timing",
+      "latitude": 50.668892,
+      "longitude": 17.92156
+    },
+    {
+      "name": "Toruńskie Centrum Usług Społecznych",
+      "latitude": 53.016902,
+      "longitude": 18.570333
+    },
+    {
+      "name": "Toruńskie Inspiracje",
+      "latitude": 53.010667,
+      "longitude": 18.60227
+    },
+    {
+      "name": "UNION MONTAGE",
+      "latitude": 50.090184,
+      "longitude": 18.216237
+    },
+    {
+      "name": "Urząd Pracy",
+      "latitude": 53.77479,
+      "longitude": 15.4087
+    },
+    {
+      "name": "Urząd Pracy",
+      "latitude": 53.829201,
+      "longitude": 22.371538
+    },
+    {
+      "name": "Urząd Pracy m.st. Warszawy",
+      "latitude": 52.225047,
+      "longitude": 21.014097
+    },
+    {
+      "name": "Urząd Pracy m.st. Warszawy",
+      "latitude": 52.240185,
+      "longitude": 20.970547
+    },
+    {
+      "name": "Urząd Pracy Powiatu Krakowskiego",
+      "latitude": 50.153278,
+      "longitude": 19.858113
+    },
+    {
+      "name": "Urząd Pracy Powiatu Krakowskiego Filia w Skawinie",
+      "latitude": 49.970829,
+      "longitude": 19.835415
+    },
+    {
+      "name": "Veritas",
+      "latitude": 50.096612,
+      "longitude": 18.541956
+    },
+    {
+      "name": "Veritas",
+      "latitude": 50.860793,
+      "longitude": 17.467946
+    },
+    {
+      "name": "Vipol",
+      "latitude": 52.237634,
+      "longitude": 21.079441
+    },
+    {
+      "name": "Vista HR",
+      "latitude": 50.258602,
+      "longitude": 19.022892
+    },
+    {
+      "name": "Vuurin",
+      "latitude": 50.516772,
+      "longitude": 22.146692
+    },
+    {
+      "name": "WaKaT",
+      "latitude": 53.017466,
+      "longitude": 18.601492
+    },
+    {
+      "name": "Wojewódzka Usługowa Spółdzielnia Inwalidów",
+      "latitude": 53.413238,
+      "longitude": 14.545063
+    },
+    {
+      "name": "Wojewódzki Urząd Pracy",
+      "latitude": 51.945228,
+      "longitude": 15.519468
+    },
+    {
+      "name": "Wojewódzki Urząd Pracy",
+      "latitude": 52.411674,
+      "longitude": 16.94135
+    },
+    {
+      "name": "Wojewódzki Urząd Pracy w Gdańsku Oddział Zamiejscowy w Słupsku",
+      "latitude": 54.460775,
+      "longitude": 17.030078
+    },
+    {
+      "name": "Wojewódzki Urząd Pracy w Katowicach",
+      "latitude": 50.253428,
+      "longitude": 19.016794
+    },
+    {
+      "name": "Wojewódzki Urząd Pracy w Kielcach",
+      "latitude": 50.899985,
+      "longitude": 20.635894
+    },
+    {
+      "name": "WORTEX Sp. z o.o.",
+      "latitude": 50.712637,
+      "longitude": 23.267186
+    },
+    {
+      "name": "Znoydzem",
+      "latitude": 52.159578,
+      "longitude": 21.082845
+    },
+    {
+      "name": "Úřad Práce Karviná, pobočka Český Těšín",
+      "latitude": 49.749464,
+      "longitude": 18.625198
+    },
+    {
+      "name": "Śląska Wojewódzka Komenda Ochotniczych Hufców Pracy",
+      "latitude": 50.269019,
+      "longitude": 19.022336
+    }
+  ],
+  "meta": {
+    "title": "Polska — agencje zatrudnienia - Bezpłatne pobieranie",
+    "description": "Agencje zatrudnienia w Polsce (OpenStreetMap) Zawiera 316 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Polska — agencje zatrudnienia | ListBase",
+    "seo_description": "Pobierz Polska — agencje zatrudnienia — 316 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 316 rekordów / 3 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

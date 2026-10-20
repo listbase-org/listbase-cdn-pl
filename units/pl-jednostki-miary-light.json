@@ -1,0 +1,97 @@
+{
+  "id": "pl-jednostki-miary-light",
+  "name": "Jednostki miary — kategoria 'light' (4)",
+  "title": "Jednostki miary — kategoria 'light' (4)",
+  "description": "Jednostki miary kategorii 'light' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategoria": "light",
+      "nazwa": "kandela",
+      "skrot": "cd",
+      "forma_waska": "cd",
+      "wzorzec": "{0} kandeli"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategoria": "light",
+      "nazwa": "lumen",
+      "skrot": "lm",
+      "forma_waska": "lm",
+      "wzorzec": "{0} lumena"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategoria": "light",
+      "nazwa": "luksy",
+      "skrot": "lx",
+      "forma_waska": "lx",
+      "wzorzec": "{0} luksu"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategoria": "light",
+      "nazwa": "jasności Słońca",
+      "skrot": "L☉",
+      "forma_waska": "L☉",
+      "wzorzec": "{0} jasności Słońca"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'light' (4) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'light' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 4 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'light' (4) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'light' (4) — 4 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 4 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

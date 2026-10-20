@@ -1,0 +1,428 @@
+{
+  "id": "tech-http-codes",
+  "name": "HTTP Status Codes Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Status Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Status Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 100,
+      "name": "Kontynuuj",
+      "category": "Informacyjne",
+      "description": "Serwer otrzymał nagłówki żądania, a klient powinien kontynuować wysyłanie treści żądania."
+    },
+    {
+      "code": 101,
+      "name": "Przełączanie Protokolów",
+      "category": "Informacyjne",
+      "description": "Żądający poprosił serwer o przełączenie protokołów, a serwer wyraził na to zgodę."
+    },
+    {
+      "code": 102,
+      "name": "Przetwarzanie",
+      "category": "Informacyjne",
+      "description": "Serwer otrzymał i przetwarza żądanie, ale żadna odpowiedź nie jest jeszcze dostępna."
+    },
+    {
+      "code": 103,
+      "name": "Wczesne Wskazówki",
+      "category": "Informacyjne",
+      "description": "Używane do zwracania niektórych nagłówków odpowiedzi przed ostateczną wiadomością HTTP."
+    },
+    {
+      "code": 200,
+      "name": "OK",
+      "category": "Sukces",
+      "description": "Żądanie zakończyło się sukcesem. Znaczenie zależy od użytej metody HTTP."
+    },
+    {
+      "code": 201,
+      "name": "Utworzono",
+      "category": "Sukces",
+      "description": "Żądanie zakończyło się sukcesem i w rezultacie został utworzony nowy zasób."
+    },
+    {
+      "code": 202,
+      "name": "Zaakceptowano",
+      "category": "Sukces",
+      "description": "Żądanie zostało odebrane, ale nie zostało jeszcze przetworzone."
+    },
+    {
+      "code": 203,
+      "name": "Informacje Niewiarygodne",
+      "category": "Sukces",
+      "description": "Zwrócone metadane nie są dokładnie takie same, jak dostępne z serwera źródłowego."
+    },
+    {
+      "code": 204,
+      "name": "Brak Zawartości",
+      "category": "Sukces",
+      "description": "Brak zawartości do wysłania dla tego żądania, ale nagłówki mogą być przydatne."
+    },
+    {
+      "code": 205,
+      "name": "Zresetuj Zawartość",
+      "category": "Sukces",
+      "description": "Nakazuje agentowi użytkownika zresetowanie dokumentu, który wysłał to żądanie."
+    },
+    {
+      "code": 206,
+      "name": "Częściowa Zawartość",
+      "category": "Sukces",
+      "description": "Używane, gdy nagłówek Range jest wysyłany od klienta w celu żądania tylko części zasobu."
+    },
+    {
+      "code": 207,
+      "name": "Wiele Statusów",
+      "category": "Sukces",
+      "description": "Przekazuje informacje o wielu zasobach, w sytuacjach, gdy wiele kodów statusu może być odpowiednich."
+    },
+    {
+      "code": 208,
+      "name": "Już Zgłoszono",
+      "category": "Sukces",
+      "description": "Używane w odpowiedzi DAV: propstat, aby uniknąć wielokrotnego wyliczania wewnętrznych członków."
+    },
+    {
+      "code": 226,
+      "name": "Użyto IM",
+      "category": "Sukces",
+      "description": "Serwer zrealizował żądanie GET, a odpowiedź jest reprezentacją wyniku."
+    },
+    {
+      "code": 300,
+      "name": "Wiele Wyborów",
+      "category": "Przekierowanie",
+      "description": "Żądanie ma więcej niż jedną możliwą odpowiedź. Agent użytkownika powinien wybrać jedną z nich."
+    },
+    {
+      "code": 301,
+      "name": "Przeniesiono Na Stałe",
+      "category": "Przekierowanie",
+      "description": "Adres URL żądanego zasobu został zmieniony na stałe. Nowy adres URL jest podany w odpowiedzi."
+    },
+    {
+      "code": 302,
+      "name": "Znaleziono",
+      "category": "Przekierowanie",
+      "description": "URI żądanego zasobu zostało tymczasowo zmienione. Dalsze zmiany mogą być wprowadzone w przyszłości."
+    },
+    {
+      "code": 303,
+      "name": "Zobacz Inne",
+      "category": "Przekierowanie",
+      "description": "Serwer wysłał tę odpowiedź, aby skierować klienta do pobrania żądanego zasobu pod innym URI za pomocą żądania GET."
+    },
+    {
+      "code": 304,
+      "name": "Nie Zmodyfikowano",
+      "category": "Przekierowanie",
+      "description": "Używane do celów buforowania. Informuje klienta, że odpowiedź nie została zmodyfikowana."
+    },
+    {
+      "code": 305,
+      "name": "Użyj Proxy",
+      "category": "Przekierowanie",
+      "description": "Przestarzałe. Zostało zdefiniowane w celu wskazania, że żądana odpowiedź musi być dostępna przez serwer proxy."
+    },
+    {
+      "code": 307,
+      "name": "Tymczasowe przekierowanie",
+      "category": "Przekierowanie",
+      "description": "Serwer wysyła tę odpowiedź, aby skierować klienta do pobrania żądanego zasobu pod innym URI przy użyciu tej samej metody."
+    },
+    {
+      "code": 308,
+      "name": "Stałe przekierowanie",
+      "category": "Przekierowanie",
+      "description": "Zasób znajduje się teraz na stałe pod innym URI, określonym w nagłówku Location."
+    },
+    {
+      "code": 400,
+      "name": "Złe żądanie",
+      "category": "Błąd klienta",
+      "description": "Serwer nie może lub nie będzie przetwarzał żądania z powodu czegoś, co jest postrzegane jako błąd klienta."
+    },
+    {
+      "code": 401,
+      "name": "Nieautoryzowane",
+      "category": "Błąd klienta",
+      "description": "Klient musi się uwierzytelnić, aby otrzymać żądaną odpowiedź."
+    },
+    {
+      "code": 402,
+      "name": "Wymagana płatność",
+      "category": "Błąd klienta",
+      "description": "Zarezerwowane do przyszłego użytku. Pierwotnym celem były systemy płatności cyfrowych."
+    },
+    {
+      "code": 403,
+      "name": "Zabronione",
+      "category": "Błąd klienta",
+      "description": "Klient nie ma praw dostępu do treści; serwer odmawia dostarczenia żądanego zasobu."
+    },
+    {
+      "code": 404,
+      "name": "Nie znaleziono",
+      "category": "Błąd klienta",
+      "description": "Serwer nie może znaleźć żądanego zasobu. Może to również oznaczać, że punkt końcowy jest prawidłowy, ale zasób nie istnieje."
+    },
+    {
+      "code": 405,
+      "name": "Metoda niedozwolona",
+      "category": "Błąd klienta",
+      "description": "Metoda żądania jest znana serwerowi, ale nie jest obsługiwana przez zasób docelowy."
+    },
+    {
+      "code": 406,
+      "name": "Nie do przyjęcia",
+      "category": "Błąd klienta",
+      "description": "Serwer nie może wygenerować odpowiedzi zgodnej z listą akceptowalnych wartości zdefiniowanych w nagłówkach żądania."
+    },
+    {
+      "code": 407,
+      "name": "Wymagane uwierzytelnienie proxy",
+      "category": "Błąd klienta",
+      "description": "Podobnie jak 401 Nieautoryzowane, ale uwierzytelnienie musi być wykonane przez proxy."
+    },
+    {
+      "code": 408,
+      "name": "Przekroczenie czasu żądania",
+      "category": "Błąd klienta",
+      "description": "Serwer chciałby zamknąć to nieużywane połączenie."
+    },
+    {
+      "code": 409,
+      "name": "Konflikt",
+      "category": "Błąd klienta",
+      "description": "Ta odpowiedź jest wysyłana, gdy żądanie koliduje z bieżącym stanem serwera."
+    },
+    {
+      "code": 410,
+      "name": "Zniknięto",
+      "category": "Błąd klienta",
+      "description": "Żądana treść została trwale usunięta z serwera, bez adresu przekierowania."
+    },
+    {
+      "code": 411,
+      "name": "Wymagana długość",
+      "category": "Błąd klienta",
+      "description": "Serwer odrzucił żądanie, ponieważ pole nagłówka Content-Length nie jest zdefiniowane, a serwer go wymaga."
+    },
+    {
+      "code": 412,
+      "name": "Warunek wstępny nieudany",
+      "category": "Błąd klienta",
+      "description": "Klient wskazał w swoich nagłówkach warunki wstępne, których serwer nie spełnia."
+    },
+    {
+      "code": 413,
+      "name": "Zbyt duży ładunek",
+      "category": "Błąd klienta",
+      "description": "Encja żądania jest większa niż limity zdefiniowane przez serwer."
+    },
+    {
+      "code": 414,
+      "name": "URI zbyt długie",
+      "category": "Błąd klienta",
+      "description": "URI żądane przez klienta jest dłuższe niż serwer jest w stanie zinterpretować."
+    },
+    {
+      "code": 415,
+      "name": "Nieobsługiwany typ nośnika",
+      "category": "Błąd klienta",
+      "description": "Format mediów żądanych danych nie jest obsługiwany przez serwer."
+    },
+    {
+      "code": 416,
+      "name": "Zakres niemożliwy do spełnienia",
+      "category": "Błąd klienta",
+      "description": "Zakres określony przez pole nagłówka Range w żądaniu nie może zostać spełniony."
+    },
+    {
+      "code": 417,
+      "name": "Oczekiwanie nieudane",
+      "category": "Błąd klienta",
+      "description": "Oczekiwanie wskazane przez pole nagłówka żądania Expect nie może zostać spełnione przez serwer."
+    },
+    {
+      "code": 418,
+      "name": "Jestem czajniczkiem",
+      "category": "Błąd Klienta",
+      "description": "Serwer odmawia próby zaparzenia kawy w czajniczku."
+    },
+    {
+      "code": 421,
+      "name": "Błędnie Skierowane Żądanie",
+      "category": "Błąd Klienta",
+      "description": "Żądanie zostało skierowane do serwera, który nie jest w stanie wygenerować odpowiedzi."
+    },
+    {
+      "code": 422,
+      "name": "Niewykonalna Jednostka",
+      "category": "Błąd Klienta",
+      "description": "Żądanie było poprawnie sformułowane, ale nie mogło zostać wykonane z powodu błędów semantycznych."
+    },
+    {
+      "code": 423,
+      "name": "Zablokowano",
+      "category": "Błąd Klienta",
+      "description": "Dostępny zasób jest zablokowany."
+    },
+    {
+      "code": 424,
+      "name": "Nieudana Zależność",
+      "category": "Błąd Klienta",
+      "description": "Żądanie nie powiodło się z powodu niepowodzenia poprzedniego żądania."
+    },
+    {
+      "code": 425,
+      "name": "Za Wcześnie",
+      "category": "Błąd Klienta",
+      "description": "Wskazuje, że serwer nie chce ryzykować przetwarzania żądania, które może zostać ponownie odtworzone."
+    },
+    {
+      "code": 426,
+      "name": "Wymagana Aktualizacja",
+      "category": "Błąd Klienta",
+      "description": "Serwer odmawia wykonania żądania przy użyciu bieżącego protokołu, ale może je wykonać po zaktualizowaniu przez klienta."
+    },
+    {
+      "code": 428,
+      "name": "Wymagany Warunek Wstępny",
+      "category": "Błąd Klienta",
+      "description": "Serwer źródłowy wymaga, aby żądanie było warunkowe."
+    },
+    {
+      "code": 429,
+      "name": "Zbyt Wiele Żądań",
+      "category": "Błąd Klienta",
+      "description": "Użytkownik wysłał zbyt wiele żądań w określonym czasie (ograniczenie liczby żądań)."
+    },
+    {
+      "code": 431,
+      "name": "Pola Nagłówka Żądania Zbyt Duże",
+      "category": "Błąd Klienta",
+      "description": "Serwer nie chce przetwarzać żądania, ponieważ jego pola nagłówka są zbyt duże."
+    },
+    {
+      "code": 451,
+      "name": "Niedostępne Z Powodów Prawnych",
+      "category": "Błąd Klienta",
+      "description": "Agent użytkownika zażądał zasobu, który nie może być legalnie dostarczony."
+    },
+    {
+      "code": 500,
+      "name": "Wewnętrzny Błąd Serwera",
+      "category": "Błąd Serwera",
+      "description": "Serwer napotkał sytuację, której nie wie, jak obsłużyć."
+    },
+    {
+      "code": 501,
+      "name": "Niezaimplementowano",
+      "category": "Błąd Serwera",
+      "description": "Metoda żądania nie jest obsługiwana przez serwer i nie może zostać obsłużona."
+    },
+    {
+      "code": 502,
+      "name": "Zła Brama",
+      "category": "Błąd Serwera",
+      "description": "Serwer, działając jako brama, otrzymał nieprawidłową odpowiedź potrzebną do obsłużenia żądania."
+    },
+    {
+      "code": 503,
+      "name": "Usługa Niedostępna",
+      "category": "Błąd Serwera",
+      "description": "Serwer nie jest gotowy do obsłużenia żądania. Typowe przyczyny to konserwacja lub przeciążenie."
+    },
+    {
+      "code": 504,
+      "name": "Przekroczenie Czasu Bramy",
+      "category": "Błąd Serwera",
+      "description": "Serwer działa jako brama i nie może uzyskać odpowiedzi na czas."
+    },
+    {
+      "code": 505,
+      "name": "Wersja HTTP Nieobsługiwana",
+      "category": "Błąd Serwera",
+      "description": "Wersja HTTP użyta w żądaniu nie jest obsługiwana przez serwer."
+    },
+    {
+      "code": 506,
+      "name": "Wariant Również Negocjuje",
+      "category": "Błąd Serwera",
+      "description": "Serwer ma wewnętrzny błąd konfiguracji."
+    },
+    {
+      "code": 507,
+      "name": "Niewystarczająca Pamięć",
+      "category": "Błąd Serwera",
+      "description": "Serwer nie jest w stanie przechowywać reprezentacji potrzebnej do ukończenia żądania."
+    },
+    {
+      "code": 508,
+      "name": "Wykryto Pętlę",
+      "category": "Błąd Serwera",
+      "description": "Serwer wykrył nieskończoną pętlę podczas przetwarzania żądania."
+    },
+    {
+      "code": 510,
+      "name": "Nie Rozszerzono",
+      "category": "Błąd Serwera",
+      "description": "Wymagane są dalsze rozszerzenia żądania, aby serwer mógł je spełnić."
+    },
+    {
+      "code": 511,
+      "name": "Wymagana Autoryzacja Sieciowa",
+      "category": "Błąd Serwera",
+      "description": "Wskazuje, że klient musi się uwierzytelnić, aby uzyskać dostęp do sieci."
+    }
+  ],
+  "meta": {
+    "seo_title": "HTTP Status Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download HTTP Status Codes with 62 records. Available in Excel, CSV, and PDF formats.",
+    "title": "HTTP Status Codes Dataset",
+    "description": "HTTP Status Codes containing 62 records.",
+    "key_takeaways": [
+      "Access 62 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "http status codes excel",
+      "http status codes csv download",
+      "http status codes data",
+      "http status codes list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 62,
+  "title": "HTTP Status Codes Dataset"
+}

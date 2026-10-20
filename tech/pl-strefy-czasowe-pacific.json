@@ -1,0 +1,152 @@
+{
+  "id": "pl-strefy-czasowe-pacific",
+  "name": "Strefy czasowe — Pacific (12)",
+  "title": "Strefy czasowe — Pacific (12)",
+  "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Pacific/', z nazwami po polsku.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_standardowa",
+      "label": "Nazwa Standardowa",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_letnia",
+      "label": "Nazwa Letnia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Bougainville",
+      "region": "Pacific",
+      "miasto": "Wyspa Bougainville’a",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "miasto": "Wyspa Wielkanocna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "miasto": "Kanton",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Fiji",
+      "region": "Pacific",
+      "miasto": "Fidżi",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "miasto": "Galápagos",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Gambier",
+      "region": "Pacific",
+      "miasto": "Wyspy Gambiera",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "miasto": "Honolulu",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Marquesas",
+      "region": "Pacific",
+      "miasto": "Markizy",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "miasto": "Numea",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "miasto": "Pohnpei",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "miasto": "Chuuk",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "miasto": "Wallis & Futuna",
+      "nazwa_standardowa": "",
+      "nazwa_letnia": ""
+    }
+  ],
+  "meta": {
+    "title": "Strefy czasowe — Pacific (12) - Bezpłatne pobieranie",
+    "description": "Strefy czasowe, których identyfikator IANA zaczyna się od 'Pacific/', z nazwami po polsku. Zawiera 12 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Strefy czasowe — Pacific (12) | ListBase",
+    "seo_description": "Pobierz Strefy czasowe — Pacific (12) — 12 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 12 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

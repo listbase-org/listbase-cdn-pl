@@ -1,0 +1,340 @@
+{
+  "id": "pl-jednostki-miary-length",
+  "name": "Jednostki miary — kategoria 'length' (31)",
+  "title": "Jednostki miary — kategoria 'length' (31)",
+  "description": "Jednostki miary kategorii 'length' z lokalizacji pl w CLDR, z nazwami po polsku.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategoria": "length",
+      "nazwa": "jednostki astronomiczne",
+      "skrot": "j.a.",
+      "forma_waska": "j.a.",
+      "wzorzec": "{0} jednostki astronomicznej"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategoria": "length",
+      "nazwa": "centymetry",
+      "skrot": "cm",
+      "forma_waska": "cm",
+      "wzorzec": "{0} centymetra"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategoria": "length",
+      "nazwa": "chain",
+      "skrot": "chain",
+      "forma_waska": "chain",
+      "wzorzec": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategoria": "length",
+      "nazwa": "decymetry",
+      "skrot": "dm",
+      "forma_waska": "dm",
+      "wzorzec": "{0} decymetra"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategoria": "length",
+      "nazwa": "promień Ziemi",
+      "skrot": "R⊕",
+      "forma_waska": "R⊕",
+      "wzorzec": "{0} promienia Ziemi"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategoria": "length",
+      "nazwa": "sążnie",
+      "skrot": "fm",
+      "forma_waska": "fm",
+      "wzorzec": "{0} sążnia"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategoria": "length",
+      "nazwa": "stopy",
+      "skrot": "stopy",
+      "forma_waska": "ft",
+      "wzorzec": "{0} stopy"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategoria": "length",
+      "nazwa": "furlongi",
+      "skrot": "fur",
+      "forma_waska": "fur",
+      "wzorzec": "{0} furlonga"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategoria": "length",
+      "nazwa": "cale",
+      "skrot": "cale",
+      "forma_waska": "cale",
+      "wzorzec": "{0} cala"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategoria": "length",
+      "nazwa": "jo [JP]",
+      "skrot": "jo [JP]",
+      "forma_waska": "jo [JP]",
+      "wzorzec": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategoria": "length",
+      "nazwa": "ken [JP]",
+      "skrot": "ken [JP]",
+      "forma_waska": "ken [JP]",
+      "wzorzec": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategoria": "length",
+      "nazwa": "kilometry",
+      "skrot": "km",
+      "forma_waska": "km",
+      "wzorzec": "{0} kilometra"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategoria": "length",
+      "nazwa": "lata świetlne",
+      "skrot": "ly",
+      "forma_waska": "ly",
+      "wzorzec": "{0} roku świetlnego"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategoria": "length",
+      "nazwa": "metry",
+      "skrot": "m",
+      "forma_waska": "m",
+      "wzorzec": "{0} metra"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategoria": "length",
+      "nazwa": "mikrometry",
+      "skrot": "μm",
+      "forma_waska": "μm",
+      "wzorzec": "{0} mikrometra"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategoria": "length",
+      "nazwa": "mile",
+      "skrot": "mile",
+      "forma_waska": "mile",
+      "wzorzec": "{0} mili"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategoria": "length",
+      "nazwa": "mila skandynawska",
+      "skrot": "smi",
+      "forma_waska": "smi",
+      "wzorzec": "{0} mili skandynawskiej"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategoria": "length",
+      "nazwa": "milimetry",
+      "skrot": "mm",
+      "forma_waska": "mm",
+      "wzorzec": "{0} milimetra"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategoria": "length",
+      "nazwa": "nanometry",
+      "skrot": "nm",
+      "forma_waska": "nm",
+      "wzorzec": "{0} nanometra"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategoria": "length",
+      "nazwa": "mile morskie",
+      "skrot": "Mm",
+      "forma_waska": "Mm",
+      "wzorzec": "{0} mili morskiej"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategoria": "length",
+      "nazwa": "parseki",
+      "skrot": "pc",
+      "forma_waska": "pc",
+      "wzorzec": "{0} parseka"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategoria": "length",
+      "nazwa": "pikometry",
+      "skrot": "pm",
+      "forma_waska": "pm",
+      "wzorzec": "{0} pikometra"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategoria": "length",
+      "nazwa": "punkty",
+      "skrot": "pkt.",
+      "forma_waska": "pkt.",
+      "wzorzec": "{0} punktu"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategoria": "length",
+      "nazwa": "ri [JP]",
+      "skrot": "ri [JP]",
+      "forma_waska": "ri [JP]",
+      "wzorzec": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategoria": "length",
+      "nazwa": "rin [JP]",
+      "skrot": "rin [JP]",
+      "forma_waska": "rin [JP]",
+      "wzorzec": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategoria": "length",
+      "nazwa": "rod",
+      "skrot": "rod",
+      "forma_waska": "rod",
+      "wzorzec": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategoria": "length",
+      "nazwa": "shaku [cloth, JP]",
+      "skrot": "shaku [cloth, JP]",
+      "forma_waska": "shaku [cloth, JP]",
+      "wzorzec": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategoria": "length",
+      "nazwa": "shaku [JP]",
+      "skrot": "shaku [JP]",
+      "forma_waska": "shaku [JP]",
+      "wzorzec": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategoria": "length",
+      "nazwa": "promienie Słońca",
+      "skrot": "R☉",
+      "forma_waska": "R☉",
+      "wzorzec": "{0} promienia Słońca"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategoria": "length",
+      "nazwa": "sun [JP]",
+      "skrot": "sun [JP]",
+      "forma_waska": "sun [JP]",
+      "wzorzec": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategoria": "length",
+      "nazwa": "jardy",
+      "skrot": "yd",
+      "forma_waska": "yd",
+      "wzorzec": "{0} jarda"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — kategoria 'length' (31) - Bezpłatne pobieranie",
+    "description": "Jednostki miary kategorii 'length' z lokalizacji pl w CLDR, z nazwami po polsku. Zawiera 31 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — kategoria 'length' (31) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — kategoria 'length' (31) — 31 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 31 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

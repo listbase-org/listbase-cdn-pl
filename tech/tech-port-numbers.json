@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Zestaw Danych Powszechnych Numerów Portów Sieciowych i Usług",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "Dane FTP",
+      "category": "Transfer Plików",
+      "description": "Protokół Transferu Plików - transfer danych"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "Sterowanie FTP",
+      "category": "Transfer Plików",
+      "description": "Protokół Transferu Plików - polecenia/sterowanie"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Zdalny Dostęp",
+      "description": "Secure Shell - szyfrowane zdalne logowanie"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Zdalny Dostęp",
+      "description": "Telnet - nieszyfrowane zdalne logowanie (przestarzałe)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "E-mail",
+      "description": "Simple Mail Transfer Protocol - wysyłanie wiadomości e-mail"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Sieć",
+      "description": "System Nazw Domen - rozpoznawanie nazw hostów"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "Serwer DHCP",
+      "category": "Sieć",
+      "description": "Dynamic Host Configuration Protocol - serwer"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "Klient DHCP",
+      "category": "Sieć",
+      "description": "Dynamic Host Configuration Protocol - klient"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "Transfer Plików",
+      "description": "Trivial File Transfer Protocol"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Sieć Web",
+      "description": "Hypertext Transfer Protocol - ruch sieciowy"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "E-mail",
+      "description": "Post Office Protocol v3 - odbieranie wiadomości e-mail"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "Wiadomości",
+      "description": "Network News Transfer Protocol"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Sieć",
+      "description": "Network Time Protocol - synchronizacja czasu"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Microsoft RPC Endpoint Mapper"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "Usługa Nazw NetBIOS"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "Usługa Datagram NetBIOS"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "Usługa Sesji NetBIOS"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "E-mail",
+      "description": "Internet Message Access Protocol"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Sieć",
+      "description": "Simple Network Management Protocol"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Sieć",
+      "description": "SNMP Trap - powiadomienia"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Sieć",
+      "description": "Protokół Border Gateway - routing"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Czat",
+      "description": "Internet Relay Chat"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Katalog",
+      "description": "Lekki Protokół Dostępu do Katalogów"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Internet",
+      "description": "HTTP Secure - szyfrowany ruch sieciowy"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "Udostępnianie plików",
+      "description": "Server Message Block - udostępnianie plików Windows"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "E-mail",
+      "description": "SMTP przez SSL (przestarzałe, użyj 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Wymiana Kluczy Internetowych - IPsec VPN"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Logowanie",
+      "description": "Protokół Logowania Systemu"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "Drukowanie",
+      "description": "Line Printer Daemon - drukowanie"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Sieć",
+      "description": "Protokół Informacji o Routingu"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "Klient DHCPv6",
+      "category": "Sieć",
+      "description": "DHCP dla IPv6 - klient"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "Serwer DHCPv6",
+      "category": "Sieć",
+      "description": "DHCP dla IPv6 - serwer"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "Wysyłanie poczty SMTP",
+      "category": "E-mail",
+      "description": "Wysyłanie poczty (preferowane do wysyłania)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Katalog",
+      "description": "LDAP przez SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "E-mail",
+      "description": "IMAP przez SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "E-mail",
+      "description": "POP3 przez SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proxy",
+      "description": "Protokół proxy SOCKS"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "Domyślny port OpenVPN"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Baza danych",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "Przeglądarka MSSQL",
+      "category": "Baza danych",
+      "description": "Usługa Przeglądarki SQL Server"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Baza Danych",
+      "description": "Nasłuchiwacz bazy danych Oracle"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Protokół tunelowania punkt-punkt"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Protokół transportu telemetrii z kolejkowaniem wiadomości"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "Udostępnianie Plików",
+      "description": "Sieciowy System Plików"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Hosting stron WWW",
+      "description": "Domyślny port cPanel"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Hosting stron WWW",
+      "description": "cPanel przez SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Rozproszone",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Kontenery",
+      "description": "Docker REST API (niezaszyfrowane)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Kontenery",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Rozwój",
+      "description": "Serwer deweloperski Node.js/React/Rails"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Baza Danych",
+      "description": "Baza danych MySQL/MariaDB"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Zdalny Dostęp",
+      "description": "Protokół pulpitu zdalnego (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Alternatywny port HTTPS"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Rozwój",
+      "description": "Python Flask / wykrywanie UPnP"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Baza Danych",
+      "description": "Baza danych PostgreSQL"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Wiadomości",
+      "description": "Domyślny port RabbitMQ"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Zdalny Dostęp",
+      "description": "Wirtualne obliczenia sieciowe"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Baza Danych",
+      "description": "Baza danych Redis in-memory"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Kontenery",
+      "description": "Serwer API Kubernetes"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Czat",
+      "description": "Domyślny port IRC"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "Alternatywny HTTP",
+      "category": "Rozwój",
+      "description": "Alternatywny HTTP / Rozwój Django"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "Proxy HTTP",
+      "category": "Web",
+      "description": "Proxy HTTP / alternatywny HTTP"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "Alternatywny HTTPS",
+      "category": "Web",
+      "description": "Alternatywny port HTTPS"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Rozwój",
+      "description": "Domyślny Jupyter Notebook"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "Menedżer procesów PHP FastCGI"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "Monitorowanie",
+      "description": "Serwer metryk Prometheus"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Wiadomości",
+      "description": "Broker Apache Kafka"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Wyszukiwanie",
+      "description": "API REST Elasticsearch"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Wyszukiwanie",
+      "description": "Komunikacja węzłów Elasticsearch"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Buforowanie",
+      "description": "System buforowania Memcached"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Baza danych",
+      "description": "Baza danych MongoDB"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Shard",
+      "category": "Baza danych",
+      "description": "Serwer shardów MongoDB"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "Konfiguracja MongoDB",
+      "category": "Baza danych",
+      "description": "Serwer konfiguracji MongoDB"
+    }
+  ],
+  "meta": {
+    "seo_title": "Lista Powszechnych Portów Sieciowych - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatny zestaw danych 73 powszechnych portów sieciowych (TCP/UDP), usług i protokołów. Dostępny w formatach Excel, CSV i PDF dla administratorów, programistów i studentów.",
+    "title": "Zestaw Danych Powszechnych Numerów Portów Sieciowych i Usług",
+    "description": "Ten zestaw danych zawiera kompleksową listę 73 powszechnych numerów portów sieciowych, w tym ich powiązane protokoły (TCP/UDP), usługi, kategorie i opisy. Idealny dla profesjonalistów sieciowych, programistów i studentów.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do wyselekcjonowanej listy 73 kluczowych numerów portów sieciowych TCP/UDP i usług.",
+      "Przeglądaj szczegółowe opisy i kategorie dla popularnych protokołów sieciowych.",
+      "Pobierz dane numerów portów natychmiast w formatach Excel, CSV lub PDF.",
+      "Wykorzystaj te dane do audytów bezpieczeństwa sieci, konfiguracji i nauki."
+    ],
+    "keywords": [
+      "lista portów sieciowych",
+      "numery portów tcp udp",
+      "zestaw danych usług sieciowych",
+      "pobierz porty excel csv",
+      "protokoły sieciowe",
+      "darmowe dane portów"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej bazy danych SQL lub użyj ze skryptami Python do automatyzacji i analizy sieci.",
+      "Użyj pliku **Excel** do filtrowania, sortowania i analizowania danych portów, tworząc raporty lub arkusze referencyjne dla administracji sieciowej.",
+      "Wydrukuj wersję **PDF** do szybkiego dostępu offline, materiałów dydaktycznych w klasie lub wewnętrznej dokumentacji sieciowej.",
+      "Odwołaj się do tego zestawu danych, aby szybko zidentyfikować nieznany ruch sieciowy, skonfigurować zapory ogniowe lub rozwiązać problemy z łącznością."
+    ]
+  },
+  "record_count": 73,
+  "title": "Zestaw Danych Powszechnych Numerów Portów Sieciowych i Usług"
+}

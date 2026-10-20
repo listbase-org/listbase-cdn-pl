@@ -1,0 +1,426 @@
+{
+  "id": "pl-opolskie-miasta",
+  "name": "Miasta w województwie opolskie",
+  "title": "Miasta w województwie opolskie",
+  "description": "Cities and towns (miasta) in Opolskie Voivodeship, Poland, with powiat, gmina and coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "492",
+      "name": "Baborów",
+      "type": "city",
+      "province": "opolskie",
+      "district": "głubczycki",
+      "commune": "Baborów-gmina miejsko-wiejska",
+      "latitude": 50.1567,
+      "longitude": 17.9858
+    },
+    {
+      "id": "1115",
+      "name": "Biała",
+      "type": "city",
+      "province": "opolskie",
+      "district": "prudnicki",
+      "commune": "Biała-gmina miejsko-wiejska",
+      "latitude": 50.3853,
+      "longitude": 17.6597
+    },
+    {
+      "id": "3035",
+      "name": "Brzeg",
+      "type": "city",
+      "province": "opolskie",
+      "district": "brzeski",
+      "commune": "Brzeg-gmina miejska",
+      "latitude": 50.8617,
+      "longitude": 17.47
+    },
+    {
+      "id": "3859",
+      "name": "Byczyna",
+      "type": "city",
+      "province": "opolskie",
+      "district": "kluczborski",
+      "commune": "Byczyna-gmina miejsko-wiejska",
+      "latitude": 51.1142,
+      "longitude": 18.2142
+    },
+    {
+      "id": "6833",
+      "name": "Dobrodzień",
+      "type": "city",
+      "province": "opolskie",
+      "district": "oleski",
+      "commune": "Dobrodzień-gmina miejsko-wiejska",
+      "latitude": 50.7286,
+      "longitude": 18.4433
+    },
+    {
+      "id": "8791",
+      "name": "Głogówek",
+      "type": "city",
+      "province": "opolskie",
+      "district": "prudnicki",
+      "commune": "Głogówek-gmina miejsko-wiejska",
+      "latitude": 50.3533,
+      "longitude": 17.8644
+    },
+    {
+      "id": "8828",
+      "name": "Głubczyce",
+      "type": "city",
+      "province": "opolskie",
+      "district": "głubczycki",
+      "commune": "Głubczyce-gmina miejsko-wiejska",
+      "latitude": 50.2,
+      "longitude": 17.8303
+    },
+    {
+      "id": "8832",
+      "name": "Głuchołazy",
+      "type": "city",
+      "province": "opolskie",
+      "district": "nyski",
+      "commune": "Głuchołazy-gmina miejsko-wiejska",
+      "latitude": 50.315,
+      "longitude": 17.3833
+    },
+    {
+      "id": "9019",
+      "name": "Gogolin",
+      "type": "city",
+      "province": "opolskie",
+      "district": "krapkowicki",
+      "commune": "Gogolin-gmina miejsko-wiejska",
+      "latitude": 50.4917,
+      "longitude": 18.0222
+    },
+    {
+      "id": "9319",
+      "name": "Gorzów Śląski",
+      "type": "city",
+      "province": "opolskie",
+      "district": "oleski",
+      "commune": "Gorzów Śląski-gmina miejsko-wiejska",
+      "latitude": 51.0281,
+      "longitude": 18.4222
+    },
+    {
+      "id": "10144",
+      "name": "Grodków",
+      "type": "city",
+      "province": "opolskie",
+      "district": "brzeski",
+      "commune": "Grodków-gmina miejsko-wiejska",
+      "latitude": 50.6986,
+      "longitude": 17.3853
+    },
+    {
+      "id": "13900",
+      "name": "Kędzierzyn-Koźle",
+      "type": "city",
+      "province": "opolskie",
+      "district": "kędzierzyńsko-kozielski",
+      "commune": "Kędzierzyn-Koźle-gmina miejska",
+      "latitude": 50.3442,
+      "longitude": 18.2072
+    },
+    {
+      "id": "14124",
+      "name": "Kietrz",
+      "type": "city",
+      "province": "opolskie",
+      "district": "głubczycki",
+      "commune": "Kietrz-gmina miejsko-wiejska",
+      "latitude": 50.0797,
+      "longitude": 18.0022
+    },
+    {
+      "id": "14411",
+      "name": "Kluczbork",
+      "type": "city",
+      "province": "opolskie",
+      "district": "kluczborski",
+      "commune": "Kluczbork-gmina miejsko-wiejska",
+      "latitude": 50.9731,
+      "longitude": 18.2144
+    },
+    {
+      "id": "14872",
+      "name": "Kolonowskie",
+      "type": "city",
+      "province": "opolskie",
+      "district": "strzelecki",
+      "commune": "Kolonowskie-gmina miejsko-wiejska",
+      "latitude": 50.6533,
+      "longitude": 18.3842
+    },
+    {
+      "id": "15355",
+      "name": "Korfantów",
+      "type": "city",
+      "province": "opolskie",
+      "district": "nyski",
+      "commune": "Korfantów-gmina miejsko-wiejska",
+      "latitude": 50.4881,
+      "longitude": 17.5956
+    },
+    {
+      "id": "16142",
+      "name": "Krapkowice",
+      "type": "city",
+      "province": "opolskie",
+      "district": "krapkowicki",
+      "commune": "Krapkowice-gmina miejsko-wiejska",
+      "latitude": 50.4747,
+      "longitude": 17.9672
+    },
+    {
+      "id": "17910",
+      "name": "Leśnica",
+      "type": "city",
+      "province": "opolskie",
+      "district": "strzelecki",
+      "commune": "Leśnica-gmina miejsko-wiejska",
+      "latitude": 50.4286,
+      "longitude": 18.1831
+    },
+    {
+      "id": "17967",
+      "name": "Lewin Brzeski",
+      "type": "city",
+      "province": "opolskie",
+      "district": "brzeski",
+      "commune": "Lewin Brzeski-gmina miejsko-wiejska",
+      "latitude": 50.7553,
+      "longitude": 17.6161
+    },
+    {
+      "id": "22629",
+      "name": "Namysłów",
+      "type": "city",
+      "province": "opolskie",
+      "district": "namysłowski",
+      "commune": "Namysłów-gmina miejsko-wiejska",
+      "latitude": 51.0767,
+      "longitude": 17.7172
+    },
+    {
+      "id": "22983",
+      "name": "Niemodlin",
+      "type": "city",
+      "province": "opolskie",
+      "district": "opolski",
+      "commune": "Niemodlin-gmina miejsko-wiejska",
+      "latitude": 50.6422,
+      "longitude": 17.6194
+    },
+    {
+      "id": "24315",
+      "name": "Nysa",
+      "type": "city",
+      "province": "opolskie",
+      "district": "nyski",
+      "commune": "Nysa-gmina miejsko-wiejska",
+      "latitude": 50.4736,
+      "longitude": 17.3328
+    },
+    {
+      "id": "24674",
+      "name": "Olesno",
+      "type": "city",
+      "province": "opolskie",
+      "district": "oleski",
+      "commune": "Olesno-gmina miejsko-wiejska",
+      "latitude": 50.8767,
+      "longitude": 18.4217
+    },
+    {
+      "id": "24942",
+      "name": "Opole",
+      "type": "city",
+      "province": "opolskie",
+      "district": "Opole",
+      "commune": "Opole-gmina miejska",
+      "latitude": 50.6686,
+      "longitude": 17.9222
+    },
+    {
+      "id": "25597",
+      "name": "Otmuchów",
+      "type": "city",
+      "province": "opolskie",
+      "district": "nyski",
+      "commune": "Otmuchów-gmina miejsko-wiejska",
+      "latitude": 50.4653,
+      "longitude": 17.1725
+    },
+    {
+      "id": "25660",
+      "name": "Ozimek",
+      "type": "city",
+      "province": "opolskie",
+      "district": "opolski",
+      "commune": "Ozimek-gmina miejsko-wiejska",
+      "latitude": 50.6789,
+      "longitude": 18.2136
+    },
+    {
+      "id": "25706",
+      "name": "Paczków",
+      "type": "city",
+      "province": "opolskie",
+      "district": "nyski",
+      "commune": "Paczków-gmina miejsko-wiejska",
+      "latitude": 50.4642,
+      "longitude": 17.0064
+    },
+    {
+      "id": "28233",
+      "name": "Praszka",
+      "type": "city",
+      "province": "opolskie",
+      "district": "oleski",
+      "commune": "Praszka-gmina miejsko-wiejska",
+      "latitude": 51.0539,
+      "longitude": 18.4531
+    },
+    {
+      "id": "28344",
+      "name": "Prószków",
+      "type": "city",
+      "province": "opolskie",
+      "district": "opolski",
+      "commune": "Prószków-gmina miejsko-wiejska",
+      "latitude": 50.5767,
+      "longitude": 17.8714
+    },
+    {
+      "id": "28351",
+      "name": "Prudnik",
+      "type": "city",
+      "province": "opolskie",
+      "district": "prudnicki",
+      "commune": "Prudnik-gmina miejsko-wiejska",
+      "latitude": 50.3214,
+      "longitude": 17.5806
+    },
+    {
+      "id": "34786",
+      "name": "Strzelce Opolskie",
+      "type": "city",
+      "province": "opolskie",
+      "district": "strzelecki",
+      "commune": "Strzelce Opolskie-gmina miejsko-wiejska",
+      "latitude": 50.5111,
+      "longitude": 18.3006
+    },
+    {
+      "id": "37438",
+      "name": "Tułowice",
+      "type": "city",
+      "province": "opolskie",
+      "district": "opolski",
+      "commune": "Tułowice-gmina wiejska",
+      "latitude": 50.5936,
+      "longitude": 17.6544
+    },
+    {
+      "id": "37766",
+      "name": "Ujazd",
+      "type": "city",
+      "province": "opolskie",
+      "district": "strzelecki",
+      "commune": "Ujazd-gmina miejsko-wiejska",
+      "latitude": 50.3894,
+      "longitude": 18.35
+    },
+    {
+      "id": "40260",
+      "name": "Wołczyn",
+      "type": "city",
+      "province": "opolskie",
+      "district": "kluczborski",
+      "commune": "Wołczyn-gmina miejsko-wiejska",
+      "latitude": 51.0181,
+      "longitude": 18.05
+    },
+    {
+      "id": "42288",
+      "name": "Zawadzkie",
+      "type": "city",
+      "province": "opolskie",
+      "district": "strzelecki",
+      "commune": "Zawadzkie-gmina miejsko-wiejska",
+      "latitude": 50.6061,
+      "longitude": 18.4825
+    },
+    {
+      "id": "42534",
+      "name": "Zdzieszowice",
+      "type": "city",
+      "province": "opolskie",
+      "district": "krapkowicki",
+      "commune": "Zdzieszowice-gmina miejsko-wiejska",
+      "latitude": 50.4244,
+      "longitude": 18.125
+    }
+  ],
+  "meta": {
+    "title": "Miasta w województwie opolskie - Bezpłatne pobieranie",
+    "description": "Cities and towns (miasta) in Opolskie Voivodeship, Poland, with powiat, gmina and coordinates. Zawiera 36 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Miasta w województwie opolskie | ListBase",
+    "seo_description": "Pobierz Miasta w województwie opolskie — 36 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 36 rekordów / 8 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

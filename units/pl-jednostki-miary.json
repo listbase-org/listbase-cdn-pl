@@ -1,0 +1,2131 @@
+{
+  "id": "pl-jednostki-miary",
+  "name": "Jednostki miary — nazwy po polsku (CLDR)",
+  "title": "Jednostki miary — nazwy po polsku (CLDR)",
+  "description": "Lista jednostek miary z lokalizacji pl w CLDR — z pełną nazwą (nazwa), skrótem (skrot), formą wąską (forma_waska) i wzorcem wyświetlania (wzorzec).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 230,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    },
+    {
+      "key": "forma_waska",
+      "label": "Forma Waska",
+      "type": "string"
+    },
+    {
+      "key": "wzorzec",
+      "label": "Wzorzec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategoria": "acceleration",
+      "nazwa": "przyspieszenie ziemskie",
+      "skrot": "G",
+      "forma_waska": "G",
+      "wzorzec": "{0} przyspieszenia ziemskiego"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategoria": "acceleration",
+      "nazwa": "metry na sekundę do kwadratu",
+      "skrot": "m/s²",
+      "forma_waska": "m/s²",
+      "wzorzec": "{0} metra na sekundę do kwadratu"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategoria": "angle",
+      "nazwa": "minuty kątowe",
+      "skrot": "minuty",
+      "forma_waska": "minuty",
+      "wzorzec": "{0} minuty kątowej"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategoria": "angle",
+      "nazwa": "sekundy kątowe",
+      "skrot": "sekundy",
+      "forma_waska": "sekundy",
+      "wzorzec": "{0} sekundy kątowej"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategoria": "angle",
+      "nazwa": "stopnie",
+      "skrot": "stopnie",
+      "forma_waska": "stopnie",
+      "wzorzec": "{0} stopnia"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategoria": "angle",
+      "nazwa": "radiany",
+      "skrot": "rad",
+      "forma_waska": "rad",
+      "wzorzec": "{0} radiana"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategoria": "angle",
+      "nazwa": "obrót",
+      "skrot": "obr.",
+      "forma_waska": "obr.",
+      "wzorzec": "{0} obrotu"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategoria": "angle",
+      "nazwa": "steradiany",
+      "skrot": "sr",
+      "forma_waska": "sr",
+      "wzorzec": "{0} sr"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategoria": "area",
+      "nazwa": "akry",
+      "skrot": "akry",
+      "forma_waska": "akry",
+      "wzorzec": "{0} akra"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategoria": "area",
+      "nazwa": "bu [JP]",
+      "skrot": "bu [JP]",
+      "forma_waska": "bu [JP]",
+      "wzorzec": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategoria": "area",
+      "nazwa": "cho [JP]",
+      "skrot": "cho [JP]",
+      "forma_waska": "cho [JP]",
+      "wzorzec": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategoria": "area",
+      "nazwa": "dunamy",
+      "skrot": "dunamy",
+      "forma_waska": "dunamy",
+      "wzorzec": "{0} dunama"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategoria": "area",
+      "nazwa": "hektary",
+      "skrot": "ha",
+      "forma_waska": "ha",
+      "wzorzec": "{0} hektara"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategoria": "area",
+      "nazwa": "se [JP]",
+      "skrot": "se [JP]",
+      "forma_waska": "se [JP]",
+      "wzorzec": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategoria": "area",
+      "nazwa": "centymetry kwadratowe",
+      "skrot": "cm²",
+      "forma_waska": "cm²",
+      "wzorzec": "{0} centymetra kwadratowego"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategoria": "area",
+      "nazwa": "stopy kwadratowe",
+      "skrot": "stopy kw.",
+      "forma_waska": "ft²",
+      "wzorzec": "{0} stopy kwadratowej"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategoria": "area",
+      "nazwa": "cale kwadratowe",
+      "skrot": "cale kw.",
+      "forma_waska": "in²",
+      "wzorzec": "{0} cala kwadratowego"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategoria": "area",
+      "nazwa": "kilometry kwadratowe",
+      "skrot": "km²",
+      "forma_waska": "km²",
+      "wzorzec": "{0} kilometra kwadratowego"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategoria": "area",
+      "nazwa": "metry kwadratowe",
+      "skrot": "m²",
+      "forma_waska": "m²",
+      "wzorzec": "{0} metra kwadratowego"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategoria": "area",
+      "nazwa": "mile kwadratowe",
+      "skrot": "mile kw.",
+      "forma_waska": "mi²",
+      "wzorzec": "{0} mili kwadratowej"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategoria": "area",
+      "nazwa": "jardy kwadratowe",
+      "skrot": "jardy kw.",
+      "forma_waska": "yd²",
+      "wzorzec": "{0} jarda kwadratowego"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategoria": "concentr",
+      "nazwa": "sztuki",
+      "skrot": "szt.",
+      "forma_waska": "szt.",
+      "wzorzec": "{0} sztuki"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategoria": "concentr",
+      "nazwa": "karaty",
+      "skrot": "karaty",
+      "forma_waska": "karaty",
+      "wzorzec": "{0} karata"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategoria": "concentr",
+      "nazwa": "katale",
+      "skrot": "kat",
+      "forma_waska": "kat",
+      "wzorzec": "{0} katala"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoria": "concentr",
+      "nazwa": "miligramy na decylitr",
+      "skrot": "mg/dl",
+      "forma_waska": "mg/dl",
+      "wzorzec": "{0} miligrama na decylitr"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoria": "concentr",
+      "nazwa": "milimole na litr",
+      "skrot": "mmol/l",
+      "forma_waska": "mmol/l",
+      "wzorzec": "{0} milimola na litr"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategoria": "concentr",
+      "nazwa": "mol",
+      "skrot": "mol",
+      "forma_waska": "mol",
+      "wzorzec": "{0} mola"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategoria": "concentr",
+      "nazwa": "glukozy",
+      "skrot": "Glc",
+      "forma_waska": "Glc",
+      "wzorzec": "{0} Glc"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategoria": "concentr",
+      "nazwa": "części",
+      "skrot": "część",
+      "forma_waska": "część",
+      "wzorzec": "{0} części"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategoria": "concentr",
+      "nazwa": "części na milion",
+      "skrot": "ppm",
+      "forma_waska": "ppm",
+      "wzorzec": "{0} części na milion"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategoria": "concentr",
+      "nazwa": "części na miliard",
+      "skrot": "ppb",
+      "forma_waska": "ppb",
+      "wzorzec": "{0} części na miliard"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategoria": "concentr",
+      "nazwa": "procent",
+      "skrot": "%",
+      "forma_waska": "%",
+      "wzorzec": "{0} procent"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategoria": "concentr",
+      "nazwa": "promil",
+      "skrot": "‰",
+      "forma_waska": "‰",
+      "wzorzec": "{0} promila"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategoria": "concentr",
+      "nazwa": "punkt bazowy",
+      "skrot": "‱",
+      "forma_waska": "‱",
+      "wzorzec": "{0} punktu bazowego"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoria": "consumption",
+      "nazwa": "litry na 100 kilometrów",
+      "skrot": "l/100 km",
+      "forma_waska": "l/100 km",
+      "wzorzec": "{0} litra na 100 kilometrów"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoria": "consumption",
+      "nazwa": "litry na kilometr",
+      "skrot": "l/km",
+      "forma_waska": "l/km",
+      "wzorzec": "{0} litra na kilometr"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoria": "consumption",
+      "nazwa": "mile na galon",
+      "skrot": "mpg",
+      "forma_waska": "mpg",
+      "wzorzec": "{0} mili na galon"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoria": "consumption",
+      "nazwa": "mile na galon angielski",
+      "skrot": "mile/gal ang.",
+      "forma_waska": "mile/gal ang.",
+      "wzorzec": "{0} mili na galon angielski"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategoria": "digital",
+      "nazwa": "bity",
+      "skrot": "b",
+      "forma_waska": "b",
+      "wzorzec": "{0} bita"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategoria": "digital",
+      "nazwa": "bajty",
+      "skrot": "B",
+      "forma_waska": "B",
+      "wzorzec": "{0} bajta"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategoria": "digital",
+      "nazwa": "gigabity",
+      "skrot": "Gb",
+      "forma_waska": "Gb",
+      "wzorzec": "{0} gigabita"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategoria": "digital",
+      "nazwa": "gigabajty",
+      "skrot": "GB",
+      "forma_waska": "GB",
+      "wzorzec": "{0} gigabajta"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategoria": "digital",
+      "nazwa": "kilobity",
+      "skrot": "kb",
+      "forma_waska": "kb",
+      "wzorzec": "{0} kilobita"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategoria": "digital",
+      "nazwa": "kilobajty",
+      "skrot": "kB",
+      "forma_waska": "kB",
+      "wzorzec": "{0} kilobajta"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategoria": "digital",
+      "nazwa": "megabity",
+      "skrot": "Mb",
+      "forma_waska": "Mb",
+      "wzorzec": "{0} megabita"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategoria": "digital",
+      "nazwa": "megabajty",
+      "skrot": "MB",
+      "forma_waska": "MB",
+      "wzorzec": "{0} megabajta"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategoria": "digital",
+      "nazwa": "petabajty",
+      "skrot": "PB",
+      "forma_waska": "PB",
+      "wzorzec": "{0} petabajta"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategoria": "digital",
+      "nazwa": "terabity",
+      "skrot": "Tb",
+      "forma_waska": "Tb",
+      "wzorzec": "{0} terabita"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategoria": "digital",
+      "nazwa": "terabajty",
+      "skrot": "TB",
+      "forma_waska": "TB",
+      "wzorzec": "{0} terabajta"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategoria": "duration",
+      "nazwa": "wieki",
+      "skrot": "w.",
+      "forma_waska": "w.",
+      "wzorzec": "{0} wieku"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategoria": "duration",
+      "nazwa": "dzień",
+      "skrot": "dzień",
+      "forma_waska": "dzień",
+      "wzorzec": "{0} dnia"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategoria": "duration",
+      "nazwa": "dekady",
+      "skrot": "dek",
+      "forma_waska": "dek",
+      "wzorzec": "{0} dekady"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategoria": "duration",
+      "nazwa": "fortnight",
+      "skrot": "fortnight",
+      "forma_waska": "fortnight",
+      "wzorzec": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategoria": "duration",
+      "nazwa": "godziny",
+      "skrot": "godz.",
+      "forma_waska": "h",
+      "wzorzec": "{0} godziny"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategoria": "duration",
+      "nazwa": "mikrosekundy",
+      "skrot": "μs",
+      "forma_waska": "μs",
+      "wzorzec": "{0} mikrosekundy"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategoria": "duration",
+      "nazwa": "milisekundy",
+      "skrot": "ms",
+      "forma_waska": "ms",
+      "wzorzec": "{0} milisekundy"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategoria": "duration",
+      "nazwa": "minuty",
+      "skrot": "min",
+      "forma_waska": "min",
+      "wzorzec": "{0} minuty"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategoria": "duration",
+      "nazwa": "miesiące",
+      "skrot": "miesiące",
+      "forma_waska": "m-c",
+      "wzorzec": "{0} miesiąca"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategoria": "duration",
+      "nazwa": "nanosekundy",
+      "skrot": "ns",
+      "forma_waska": "ns",
+      "wzorzec": "{0} nanosekundy"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategoria": "duration",
+      "nazwa": "noce",
+      "skrot": "noce",
+      "forma_waska": "noce",
+      "wzorzec": "{0} nocy"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategoria": "duration",
+      "nazwa": "kwartały",
+      "skrot": "kw.",
+      "forma_waska": "kw.",
+      "wzorzec": "{0} kwartału"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategoria": "duration",
+      "nazwa": "sekundy",
+      "skrot": "sek.",
+      "forma_waska": "s",
+      "wzorzec": "{0} sekundy"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategoria": "duration",
+      "nazwa": "tygodnie",
+      "skrot": "tyg.",
+      "forma_waska": "tydz.",
+      "wzorzec": "{0} tygodnia"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategoria": "duration",
+      "nazwa": "lata",
+      "skrot": "lata",
+      "forma_waska": "r.",
+      "wzorzec": "{0} roku"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategoria": "electric",
+      "nazwa": "ampery",
+      "skrot": "A",
+      "forma_waska": "A",
+      "wzorzec": "{0} ampera"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategoria": "electric",
+      "nazwa": "kulomby",
+      "skrot": "C",
+      "forma_waska": "C",
+      "wzorzec": "{0} kulomba"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategoria": "electric",
+      "nazwa": "farady",
+      "skrot": "F",
+      "forma_waska": "F",
+      "wzorzec": "{0} farada"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategoria": "electric",
+      "nazwa": "henry",
+      "skrot": "H",
+      "forma_waska": "H",
+      "wzorzec": "{0} henra"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategoria": "electric",
+      "nazwa": "miliampery",
+      "skrot": "mA",
+      "forma_waska": "mA",
+      "wzorzec": "{0} miliampera"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategoria": "electric",
+      "nazwa": "omy",
+      "skrot": "Ω",
+      "forma_waska": "Ω",
+      "wzorzec": "{0} oma"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategoria": "electric",
+      "nazwa": "siemensy",
+      "skrot": "S",
+      "forma_waska": "S",
+      "wzorzec": "{0} siemensa"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategoria": "electric",
+      "nazwa": "wolty",
+      "skrot": "V",
+      "forma_waska": "V",
+      "wzorzec": "{0} wolta"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategoria": "energy",
+      "nazwa": "bekerele",
+      "skrot": "Bq",
+      "forma_waska": "Bq",
+      "wzorzec": "{0} bekerela"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategoria": "energy",
+      "nazwa": "brytyjska jednostka ciepła",
+      "skrot": "BTU",
+      "forma_waska": "BTU",
+      "wzorzec": "{0} brytyjskiej jednostki ciepła"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategoria": "energy",
+      "nazwa": "BTU-IT",
+      "skrot": "BTU-IT",
+      "forma_waska": "BTU-IT",
+      "wzorzec": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategoria": "energy",
+      "nazwa": "kalorie",
+      "skrot": "cal",
+      "forma_waska": "cal",
+      "wzorzec": "{0} kalorii"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategoria": "energy",
+      "nazwa": "kalorie [IT]",
+      "skrot": "cal [IT]",
+      "forma_waska": "cal [IT]",
+      "wzorzec": "{0} kalorii [IT]"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategoria": "energy",
+      "nazwa": "elektronowolty",
+      "skrot": "elektronowolt",
+      "forma_waska": "eV",
+      "wzorzec": "{0} elektronowolta"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategoria": "energy",
+      "nazwa": "kalorie",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} kalorii"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategoria": "energy",
+      "nazwa": "greje",
+      "skrot": "Gy",
+      "forma_waska": "Gy",
+      "wzorzec": "{0} greja"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategoria": "energy",
+      "nazwa": "dżule",
+      "skrot": "J",
+      "forma_waska": "J",
+      "wzorzec": "{0} dżula"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategoria": "energy",
+      "nazwa": "kilokalorie",
+      "skrot": "kcal",
+      "forma_waska": "kcal",
+      "wzorzec": "{0} kilokalorii"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategoria": "energy",
+      "nazwa": "kilodżule",
+      "skrot": "kJ",
+      "forma_waska": "kJ",
+      "wzorzec": "{0} kilodżula"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategoria": "energy",
+      "nazwa": "kilowatogodziny",
+      "skrot": "kWh",
+      "forma_waska": "kWh",
+      "wzorzec": "{0} kilowatogodziny"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategoria": "energy",
+      "nazwa": "siwerty",
+      "skrot": "Sv",
+      "forma_waska": "Sv",
+      "wzorzec": "{0} siwerta"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategoria": "energy",
+      "nazwa": "thermy amerykańskie",
+      "skrot": "thermy amer.",
+      "forma_waska": "thermy amer.",
+      "wzorzec": "{0} therma amerykańskiego"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategoria": "force",
+      "nazwa": "kilogramy-siła",
+      "skrot": "kgf",
+      "forma_waska": "kgf",
+      "wzorzec": "{0} kilograma-siła"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoria": "force",
+      "nazwa": "kilowatogodziny na 100 km",
+      "skrot": "kWh/100km",
+      "forma_waska": "kWh/100km",
+      "wzorzec": "{0} kilowatogodziny na 100 km"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategoria": "force",
+      "nazwa": "niutony",
+      "skrot": "N",
+      "forma_waska": "N",
+      "wzorzec": "{0} niutona"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategoria": "force",
+      "nazwa": "funt-siła",
+      "skrot": "funt-siła",
+      "forma_waska": "lbf",
+      "wzorzec": "{0} funta-siły"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategoria": "frequency",
+      "nazwa": "gigaherce",
+      "skrot": "GHz",
+      "forma_waska": "GHz",
+      "wzorzec": "{0} gigaherca"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategoria": "frequency",
+      "nazwa": "herce",
+      "skrot": "Hz",
+      "forma_waska": "Hz",
+      "wzorzec": "{0} herca"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategoria": "frequency",
+      "nazwa": "kiloherce",
+      "skrot": "kHz",
+      "forma_waska": "kHz",
+      "wzorzec": "{0} kiloherca"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategoria": "frequency",
+      "nazwa": "megaherce",
+      "skrot": "MHz",
+      "forma_waska": "MHz",
+      "wzorzec": "{0} megaherca"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoria": "graphics",
+      "nazwa": "punkty na centymetr",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} punktu na centymetr"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-inch",
+      "kategoria": "graphics",
+      "nazwa": "punkty na cal",
+      "skrot": "",
+      "forma_waska": "",
+      "wzorzec": "{0} punktu na cal"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-em",
+      "kategoria": "graphics",
+      "nazwa": "firety",
+      "skrot": "firet",
+      "forma_waska": "firet",
+      "wzorzec": "{0} firetu"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-megapixel",
+      "kategoria": "graphics",
+      "nazwa": "megapiksele",
+      "skrot": "MP",
+      "forma_waska": "MP",
+      "wzorzec": "{0} megapiksela"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-pixel",
+      "kategoria": "graphics",
+      "nazwa": "piksele",
+      "skrot": "px",
+      "forma_waska": "px",
+      "wzorzec": "{0} piksela"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoria": "graphics",
+      "nazwa": "piksele na centymetr",
+      "skrot": "ppcm",
+      "forma_waska": "ppcm",
+      "wzorzec": "{0} piksela na centymetr"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoria": "graphics",
+      "nazwa": "piksele na cal",
+      "skrot": "ppi",
+      "forma_waska": "ppi",
+      "wzorzec": "{0} piksela na cal"
+    },
+    {
+      "id": 102,
+      "unit_code": "length-astronomical-unit",
+      "kategoria": "length",
+      "nazwa": "jednostki astronomiczne",
+      "skrot": "j.a.",
+      "forma_waska": "j.a.",
+      "wzorzec": "{0} jednostki astronomicznej"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-centimeter",
+      "kategoria": "length",
+      "nazwa": "centymetry",
+      "skrot": "cm",
+      "forma_waska": "cm",
+      "wzorzec": "{0} centymetra"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-chain",
+      "kategoria": "length",
+      "nazwa": "chain",
+      "skrot": "chain",
+      "forma_waska": "chain",
+      "wzorzec": "{0} chain"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-decimeter",
+      "kategoria": "length",
+      "nazwa": "decymetry",
+      "skrot": "dm",
+      "forma_waska": "dm",
+      "wzorzec": "{0} decymetra"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-earth-radius",
+      "kategoria": "length",
+      "nazwa": "promień Ziemi",
+      "skrot": "R⊕",
+      "forma_waska": "R⊕",
+      "wzorzec": "{0} promienia Ziemi"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-fathom",
+      "kategoria": "length",
+      "nazwa": "sążnie",
+      "skrot": "fm",
+      "forma_waska": "fm",
+      "wzorzec": "{0} sążnia"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-foot",
+      "kategoria": "length",
+      "nazwa": "stopy",
+      "skrot": "stopy",
+      "forma_waska": "ft",
+      "wzorzec": "{0} stopy"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-furlong",
+      "kategoria": "length",
+      "nazwa": "furlongi",
+      "skrot": "fur",
+      "forma_waska": "fur",
+      "wzorzec": "{0} furlonga"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-inch",
+      "kategoria": "length",
+      "nazwa": "cale",
+      "skrot": "cale",
+      "forma_waska": "cale",
+      "wzorzec": "{0} cala"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-jo-jp",
+      "kategoria": "length",
+      "nazwa": "jo [JP]",
+      "skrot": "jo [JP]",
+      "forma_waska": "jo [JP]",
+      "wzorzec": "{0} jo [JP]"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-ken",
+      "kategoria": "length",
+      "nazwa": "ken [JP]",
+      "skrot": "ken [JP]",
+      "forma_waska": "ken [JP]",
+      "wzorzec": "{0} ken [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-kilometer",
+      "kategoria": "length",
+      "nazwa": "kilometry",
+      "skrot": "km",
+      "forma_waska": "km",
+      "wzorzec": "{0} kilometra"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-light-year",
+      "kategoria": "length",
+      "nazwa": "lata świetlne",
+      "skrot": "ly",
+      "forma_waska": "ly",
+      "wzorzec": "{0} roku świetlnego"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-meter",
+      "kategoria": "length",
+      "nazwa": "metry",
+      "skrot": "m",
+      "forma_waska": "m",
+      "wzorzec": "{0} metra"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-micrometer",
+      "kategoria": "length",
+      "nazwa": "mikrometry",
+      "skrot": "μm",
+      "forma_waska": "μm",
+      "wzorzec": "{0} mikrometra"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-mile",
+      "kategoria": "length",
+      "nazwa": "mile",
+      "skrot": "mile",
+      "forma_waska": "mile",
+      "wzorzec": "{0} mili"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile-scandinavian",
+      "kategoria": "length",
+      "nazwa": "mila skandynawska",
+      "skrot": "smi",
+      "forma_waska": "smi",
+      "wzorzec": "{0} mili skandynawskiej"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-millimeter",
+      "kategoria": "length",
+      "nazwa": "milimetry",
+      "skrot": "mm",
+      "forma_waska": "mm",
+      "wzorzec": "{0} milimetra"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-nanometer",
+      "kategoria": "length",
+      "nazwa": "nanometry",
+      "skrot": "nm",
+      "forma_waska": "nm",
+      "wzorzec": "{0} nanometra"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nautical-mile",
+      "kategoria": "length",
+      "nazwa": "mile morskie",
+      "skrot": "Mm",
+      "forma_waska": "Mm",
+      "wzorzec": "{0} mili morskiej"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-parsec",
+      "kategoria": "length",
+      "nazwa": "parseki",
+      "skrot": "pc",
+      "forma_waska": "pc",
+      "wzorzec": "{0} parseka"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-picometer",
+      "kategoria": "length",
+      "nazwa": "pikometry",
+      "skrot": "pm",
+      "forma_waska": "pm",
+      "wzorzec": "{0} pikometra"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-point",
+      "kategoria": "length",
+      "nazwa": "punkty",
+      "skrot": "pkt.",
+      "forma_waska": "pkt.",
+      "wzorzec": "{0} punktu"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-ri-jp",
+      "kategoria": "length",
+      "nazwa": "ri [JP]",
+      "skrot": "ri [JP]",
+      "forma_waska": "ri [JP]",
+      "wzorzec": "{0} ri [JP]"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-rin",
+      "kategoria": "length",
+      "nazwa": "rin [JP]",
+      "skrot": "rin [JP]",
+      "forma_waska": "rin [JP]",
+      "wzorzec": "{0} rin [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rod",
+      "kategoria": "length",
+      "nazwa": "rod",
+      "skrot": "rod",
+      "forma_waska": "rod",
+      "wzorzec": "{0} rod"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-shaku-cloth",
+      "kategoria": "length",
+      "nazwa": "shaku [cloth, JP]",
+      "skrot": "shaku [cloth, JP]",
+      "forma_waska": "shaku [cloth, JP]",
+      "wzorzec": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-length",
+      "kategoria": "length",
+      "nazwa": "shaku [JP]",
+      "skrot": "shaku [JP]",
+      "forma_waska": "shaku [JP]",
+      "wzorzec": "{0} shaku [JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-solar-radius",
+      "kategoria": "length",
+      "nazwa": "promienie Słońca",
+      "skrot": "R☉",
+      "forma_waska": "R☉",
+      "wzorzec": "{0} promienia Słońca"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-sun",
+      "kategoria": "length",
+      "nazwa": "sun [JP]",
+      "skrot": "sun [JP]",
+      "forma_waska": "sun [JP]",
+      "wzorzec": "{0} sun [JP]"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-yard",
+      "kategoria": "length",
+      "nazwa": "jardy",
+      "skrot": "yd",
+      "forma_waska": "yd",
+      "wzorzec": "{0} jarda"
+    },
+    {
+      "id": 133,
+      "unit_code": "light-candela",
+      "kategoria": "light",
+      "nazwa": "kandela",
+      "skrot": "cd",
+      "forma_waska": "cd",
+      "wzorzec": "{0} kandeli"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-lumen",
+      "kategoria": "light",
+      "nazwa": "lumen",
+      "skrot": "lm",
+      "forma_waska": "lm",
+      "wzorzec": "{0} lumena"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lux",
+      "kategoria": "light",
+      "nazwa": "luksy",
+      "skrot": "lx",
+      "forma_waska": "lx",
+      "wzorzec": "{0} luksu"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-solar-luminosity",
+      "kategoria": "light",
+      "nazwa": "jasności Słońca",
+      "skrot": "L☉",
+      "forma_waska": "L☉",
+      "wzorzec": "{0} jasności Słońca"
+    },
+    {
+      "id": 137,
+      "unit_code": "magnetic-tesla",
+      "kategoria": "magnetic",
+      "nazwa": "tesle",
+      "skrot": "T",
+      "forma_waska": "T",
+      "wzorzec": "{0} tesli"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-weber",
+      "kategoria": "magnetic",
+      "nazwa": "webery",
+      "skrot": "Wb",
+      "forma_waska": "Wb",
+      "wzorzec": "{0} webera"
+    },
+    {
+      "id": 139,
+      "unit_code": "mass-carat",
+      "kategoria": "mass",
+      "nazwa": "karaty",
+      "skrot": "karaty",
+      "forma_waska": "kt",
+      "wzorzec": "{0} karata"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-dalton",
+      "kategoria": "mass",
+      "nazwa": "jednostki masy atomowej",
+      "skrot": "Da",
+      "forma_waska": "Da",
+      "wzorzec": "{0} jednostki masy atomowej"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-earth-mass",
+      "kategoria": "mass",
+      "nazwa": "masy Ziemi",
+      "skrot": "M⊕",
+      "forma_waska": "M⊕",
+      "wzorzec": "{0} masy Ziemi"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-fun",
+      "kategoria": "mass",
+      "nazwa": "fun [JP]",
+      "skrot": "fun [JP]",
+      "forma_waska": "fun [JP]",
+      "wzorzec": "{0} fun [JP]"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-grain",
+      "kategoria": "mass",
+      "nazwa": "grany",
+      "skrot": "gr",
+      "forma_waska": "gr",
+      "wzorzec": "{0} grana"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-gram",
+      "kategoria": "mass",
+      "nazwa": "gramy",
+      "skrot": "g",
+      "forma_waska": "g",
+      "wzorzec": "{0} grama"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-kilogram",
+      "kategoria": "mass",
+      "nazwa": "kilogramy",
+      "skrot": "kg",
+      "forma_waska": "kg",
+      "wzorzec": "{0} kilograma"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-microgram",
+      "kategoria": "mass",
+      "nazwa": "mikrogramy",
+      "skrot": "μg",
+      "forma_waska": "μg",
+      "wzorzec": "{0} mikrograma"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-milligram",
+      "kategoria": "mass",
+      "nazwa": "miligramy",
+      "skrot": "mg",
+      "forma_waska": "mg",
+      "wzorzec": "{0} miligrama"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-ounce",
+      "kategoria": "mass",
+      "nazwa": "uncje",
+      "skrot": "oz",
+      "forma_waska": "oz",
+      "wzorzec": "{0} uncji"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce-troy",
+      "kategoria": "mass",
+      "nazwa": "uncja trojańska",
+      "skrot": "oz t",
+      "forma_waska": "oz t",
+      "wzorzec": "{0} uncji trojańskiej"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-pound",
+      "kategoria": "mass",
+      "nazwa": "funty",
+      "skrot": "funty",
+      "forma_waska": "lb",
+      "wzorzec": "{0} funta"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-slug",
+      "kategoria": "mass",
+      "nazwa": "slug",
+      "skrot": "slug",
+      "forma_waska": "slug",
+      "wzorzec": "{0} slug"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-solar-mass",
+      "kategoria": "mass",
+      "nazwa": "masy Słońca",
+      "skrot": "M☉",
+      "forma_waska": "M☉",
+      "wzorzec": "{0} masy Słońca"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-stone",
+      "kategoria": "mass",
+      "nazwa": "kamień",
+      "skrot": "st",
+      "forma_waska": "st",
+      "wzorzec": "{0} kamienia"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-ton",
+      "kategoria": "mass",
+      "nazwa": "krótkie tony",
+      "skrot": "krótkie tony",
+      "forma_waska": "krótkie tony",
+      "wzorzec": "{0} krótkiej tony"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-tonne",
+      "kategoria": "mass",
+      "nazwa": "tony",
+      "skrot": "t",
+      "forma_waska": "t",
+      "wzorzec": "{0} tony"
+    },
+    {
+      "id": 156,
+      "unit_code": "power-gigawatt",
+      "kategoria": "power",
+      "nazwa": "gigawaty",
+      "skrot": "GW",
+      "forma_waska": "GW",
+      "wzorzec": "{0} gigawata"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-horsepower",
+      "kategoria": "power",
+      "nazwa": "konie mechaniczne",
+      "skrot": "KM",
+      "forma_waska": "KM",
+      "wzorzec": "{0} konia mechanicznego"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-kilowatt",
+      "kategoria": "power",
+      "nazwa": "kilowaty",
+      "skrot": "kW",
+      "forma_waska": "kW",
+      "wzorzec": "{0} kilowata"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-megawatt",
+      "kategoria": "power",
+      "nazwa": "megawaty",
+      "skrot": "MW",
+      "forma_waska": "MW",
+      "wzorzec": "{0} megawata"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-milliwatt",
+      "kategoria": "power",
+      "nazwa": "miliwaty",
+      "skrot": "mW",
+      "forma_waska": "mW",
+      "wzorzec": "{0} miliwata"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-watt",
+      "kategoria": "power",
+      "nazwa": "waty",
+      "skrot": "waty",
+      "forma_waska": "waty",
+      "wzorzec": "{0} wata"
+    },
+    {
+      "id": 162,
+      "unit_code": "pressure-atmosphere",
+      "kategoria": "pressure",
+      "nazwa": "atmosfery",
+      "skrot": "atm",
+      "forma_waska": "atm",
+      "wzorzec": "{0} atmosfery"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-bar",
+      "kategoria": "pressure",
+      "nazwa": "bary",
+      "skrot": "bar",
+      "forma_waska": "bar",
+      "wzorzec": "{0} bara"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategoria": "pressure",
+      "nazwa": "gas E",
+      "skrot": "gas E",
+      "forma_waska": "gas E",
+      "wzorzec": "{0} gas E"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-hectopascal",
+      "kategoria": "pressure",
+      "nazwa": "hektopaskale",
+      "skrot": "hPa",
+      "forma_waska": "hPa",
+      "wzorzec": "{0} hektopaskala"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-inch-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "cale słupa rtęci",
+      "skrot": "inHg",
+      "forma_waska": "inHg",
+      "wzorzec": "{0} cala słupa rtęci"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-kilopascal",
+      "kategoria": "pressure",
+      "nazwa": "kilopaskale",
+      "skrot": "kPa",
+      "forma_waska": "kPa",
+      "wzorzec": "{0} kilopaskala"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-megapascal",
+      "kategoria": "pressure",
+      "nazwa": "megapaskale",
+      "skrot": "MPa",
+      "forma_waska": "MPa",
+      "wzorzec": "{0} megapaskala"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-millibar",
+      "kategoria": "pressure",
+      "nazwa": "milibary",
+      "skrot": "mbar",
+      "forma_waska": "mbar",
+      "wzorzec": "{0} milibara"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "milimetry słupa rtęci",
+      "skrot": "mmHg",
+      "forma_waska": "mmHg",
+      "wzorzec": "{0} milimetra słupa rtęci"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-ofhg",
+      "kategoria": "pressure",
+      "nazwa": "słupa rtęci",
+      "skrot": "Hg",
+      "forma_waska": "Hg",
+      "wzorzec": "{0} słupa rtęci"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-pascal",
+      "kategoria": "pressure",
+      "nazwa": "paskale",
+      "skrot": "Pa",
+      "forma_waska": "Pa",
+      "wzorzec": "{0} paskala"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoria": "pressure",
+      "nazwa": "funty na cal kwadratowy",
+      "skrot": "psi",
+      "forma_waska": "psi",
+      "wzorzec": "{0} funta na cal kwadratowy"
+    },
+    {
+      "id": 174,
+      "unit_code": "speed-beaufort",
+      "kategoria": "speed",
+      "nazwa": "Beaufort",
+      "skrot": "Bft",
+      "forma_waska": "Bft",
+      "wzorzec": "{0} w skali Beauforta"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoria": "speed",
+      "nazwa": "kilometry na godzinę",
+      "skrot": "km/godz.",
+      "forma_waska": "km/h",
+      "wzorzec": "{0} kilometra na godzinę"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-knot",
+      "kategoria": "speed",
+      "nazwa": "węzeł",
+      "skrot": "w.",
+      "forma_waska": "w.",
+      "wzorzec": "{0} węzła"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-light-speed",
+      "kategoria": "speed",
+      "nazwa": "światło",
+      "skrot": "św.",
+      "forma_waska": "św.",
+      "wzorzec": "{0} światła"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-meter-per-second",
+      "kategoria": "speed",
+      "nazwa": "metry na sekundę",
+      "skrot": "m/s",
+      "forma_waska": "m/s",
+      "wzorzec": "{0} metra na sekundę"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-mile-per-hour",
+      "kategoria": "speed",
+      "nazwa": "mile na godzinę",
+      "skrot": "mile/h",
+      "forma_waska": "mph",
+      "wzorzec": "{0} mili na godzinę"
+    },
+    {
+      "id": 180,
+      "unit_code": "temperature-celsius",
+      "kategoria": "temperature",
+      "nazwa": "stopnie Celsjusza",
+      "skrot": "°C",
+      "forma_waska": "°C",
+      "wzorzec": "{0} stopnia Celsjusza"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-fahrenheit",
+      "kategoria": "temperature",
+      "nazwa": "stopnie Fahrenheita",
+      "skrot": "°F",
+      "forma_waska": "°F",
+      "wzorzec": "{0} stopnia Fahrenheita"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-generic",
+      "kategoria": "temperature",
+      "nazwa": "stopnie",
+      "skrot": "°",
+      "forma_waska": "°",
+      "wzorzec": "{0} stopnia"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-kelvin",
+      "kategoria": "temperature",
+      "nazwa": "kelwiny",
+      "skrot": "K",
+      "forma_waska": "K",
+      "wzorzec": "{0} kelwina"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-rankine",
+      "kategoria": "temperature",
+      "nazwa": "°R",
+      "skrot": "°R",
+      "forma_waska": "°R",
+      "wzorzec": "{0} °R"
+    },
+    {
+      "id": 185,
+      "unit_code": "torque-newton-meter",
+      "kategoria": "torque",
+      "nazwa": "niutonometry",
+      "skrot": "N⋅m",
+      "forma_waska": "N⋅m",
+      "wzorzec": "{0} niutonometra"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-pound-force-foot",
+      "kategoria": "torque",
+      "nazwa": "stopofunty",
+      "skrot": "lbf⋅ft",
+      "forma_waska": "lbf⋅ft",
+      "wzorzec": "{0} stopofunta"
+    },
+    {
+      "id": 187,
+      "unit_code": "volume-acre-foot",
+      "kategoria": "volume",
+      "nazwa": "akrostopy",
+      "skrot": "akrostopy",
+      "forma_waska": "akrostopy",
+      "wzorzec": "{0} akrostopy"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-barrel",
+      "kategoria": "volume",
+      "nazwa": "baryłki",
+      "skrot": "baryłki",
+      "forma_waska": "bbl",
+      "wzorzec": "{0} baryłki"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-bushel",
+      "kategoria": "volume",
+      "nazwa": "buszle",
+      "skrot": "bu",
+      "forma_waska": "bu",
+      "wzorzec": "{0} buszla"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-centiliter",
+      "kategoria": "volume",
+      "nazwa": "centylitry",
+      "skrot": "cl",
+      "forma_waska": "cl",
+      "wzorzec": "{0} centylitra"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-cubic-centimeter",
+      "kategoria": "volume",
+      "nazwa": "centymetry sześcienne",
+      "skrot": "cm³",
+      "forma_waska": "cm³",
+      "wzorzec": "{0} centymetra sześciennego"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-foot",
+      "kategoria": "volume",
+      "nazwa": "stopy sześcienne",
+      "skrot": "stopy sześc.",
+      "forma_waska": "ft³",
+      "wzorzec": "{0} stopy sześciennej"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-inch",
+      "kategoria": "volume",
+      "nazwa": "cale sześcienne",
+      "skrot": "cale sześc.",
+      "forma_waska": "in³",
+      "wzorzec": "{0} cala sześciennego"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-kilometer",
+      "kategoria": "volume",
+      "nazwa": "kilometry sześcienne",
+      "skrot": "km³",
+      "forma_waska": "km³",
+      "wzorzec": "{0} kilometra sześciennego"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-meter",
+      "kategoria": "volume",
+      "nazwa": "metry sześcienne",
+      "skrot": "m³",
+      "forma_waska": "m³",
+      "wzorzec": "{0} metra sześciennego"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-mile",
+      "kategoria": "volume",
+      "nazwa": "mile sześcienne",
+      "skrot": "mile sześc.",
+      "forma_waska": "mi³",
+      "wzorzec": "{0} mili sześciennej"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-yard",
+      "kategoria": "volume",
+      "nazwa": "jardy sześcienne",
+      "skrot": "jardy sześc.",
+      "forma_waska": "yd³",
+      "wzorzec": "{0} jarda sześciennego"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cup",
+      "kategoria": "volume",
+      "nazwa": "ćwierćkwarty amerykańske",
+      "skrot": "ćwierćkwarty am.",
+      "forma_waska": "ćwierćkwarty am.",
+      "wzorzec": "{0} ćwierćkwarty amerykańskiej"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup-imperial",
+      "kategoria": "volume",
+      "nazwa": "cup Imp.",
+      "skrot": "cup Imp.",
+      "forma_waska": "cup Imp.",
+      "wzorzec": "{0} cup Imp."
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-jp",
+      "kategoria": "volume",
+      "nazwa": "cup [JP]",
+      "skrot": "cup [JP]",
+      "forma_waska": "cup [JP]",
+      "wzorzec": "{0} cup [JP]"
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-metric",
+      "kategoria": "volume",
+      "nazwa": "ćwierćkwarty metryczne",
+      "skrot": "ćwierćkwarty metr.",
+      "forma_waska": "ćwierćkwarty metr.",
+      "wzorzec": "{0} ćwierćkwarty metrycznej"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-deciliter",
+      "kategoria": "volume",
+      "nazwa": "decylitry",
+      "skrot": "dl",
+      "forma_waska": "dl",
+      "wzorzec": "{0} decylitra"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-dessert-spoon",
+      "kategoria": "volume",
+      "nazwa": "łyżki deserowe",
+      "skrot": "ł. deser.",
+      "forma_waska": "ł. deser.",
+      "wzorzec": "{0} łyżki deserowej"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoria": "volume",
+      "nazwa": "imperialna łyżeczka deserowa",
+      "skrot": "ł. deser. ang.",
+      "forma_waska": "ł. deser. ang.",
+      "wzorzec": "{0} imperialnej łyżeczki deserowej"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dram",
+      "kategoria": "volume",
+      "nazwa": "drachmy płynu",
+      "skrot": "drachmy",
+      "forma_waska": "drachmy",
+      "wzorzec": "{0} drachmy płynu"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-drop",
+      "kategoria": "volume",
+      "nazwa": "krople",
+      "skrot": "krople",
+      "forma_waska": "krople",
+      "wzorzec": "{0} kropli"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-fluid-ounce",
+      "kategoria": "volume",
+      "nazwa": "uncje płynu amerykańskie",
+      "skrot": "fl oz am.",
+      "forma_waska": "fl oz am.",
+      "wzorzec": "{0} uncji płynu amerykańskiej"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoria": "volume",
+      "nazwa": "uncje płynu angielskie",
+      "skrot": "fl oz ang.",
+      "forma_waska": "fl oz ang.",
+      "wzorzec": "{0} uncji płynu angielskiej"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategoria": "volume",
+      "nazwa": "fl oz m.",
+      "skrot": "fl oz m.",
+      "forma_waska": "fl oz m.",
+      "wzorzec": "{0} fl oz m."
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-gallon",
+      "kategoria": "volume",
+      "nazwa": "galony amerykańskie",
+      "skrot": "gal am.",
+      "forma_waska": "gal am.",
+      "wzorzec": "{0} galona amerykańskiego"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon-imperial",
+      "kategoria": "volume",
+      "nazwa": "galony angielskie",
+      "skrot": "gal ang.",
+      "forma_waska": "gal ang.",
+      "wzorzec": "{0} galona angielskiego"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-hectoliter",
+      "kategoria": "volume",
+      "nazwa": "hektolitry",
+      "skrot": "hl",
+      "forma_waska": "hl",
+      "wzorzec": "{0} hektolitra"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-jigger",
+      "kategoria": "volume",
+      "nazwa": "jiggery",
+      "skrot": "jiggery",
+      "forma_waska": "jiggery",
+      "wzorzec": "{0} jiggera"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-koku",
+      "kategoria": "volume",
+      "nazwa": "koku [JP]",
+      "skrot": "koku [JP]",
+      "forma_waska": "koku [JP]",
+      "wzorzec": "{0} koku [JP]"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-kosaji",
+      "kategoria": "volume",
+      "nazwa": "kosaji [JP]",
+      "skrot": "kosaji [JP]",
+      "forma_waska": "kosaji [JP]",
+      "wzorzec": "{0} kosaji [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-liter",
+      "kategoria": "volume",
+      "nazwa": "litry",
+      "skrot": "litry",
+      "forma_waska": "l",
+      "wzorzec": "{0} litra"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-megaliter",
+      "kategoria": "volume",
+      "nazwa": "megalitry",
+      "skrot": "Ml",
+      "forma_waska": "Ml",
+      "wzorzec": "{0} megalitra"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-milliliter",
+      "kategoria": "volume",
+      "nazwa": "mililitry",
+      "skrot": "ml",
+      "forma_waska": "ml",
+      "wzorzec": "{0} mililitra"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-osaji",
+      "kategoria": "volume",
+      "nazwa": "osaji [JP]",
+      "skrot": "osaji [JP]",
+      "forma_waska": "osaji [JP]",
+      "wzorzec": "{0} osaji [JP]"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-pinch",
+      "kategoria": "volume",
+      "nazwa": "szczypty",
+      "skrot": "szcz.",
+      "forma_waska": "szcz.",
+      "wzorzec": "{0} szczypty"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pint",
+      "kategoria": "volume",
+      "nazwa": "półkwarty amerykańskie",
+      "skrot": "półkwarty am.",
+      "forma_waska": "półkwarty am.",
+      "wzorzec": "{0} półkwarty amerykańskiej"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint-imperial",
+      "kategoria": "volume",
+      "nazwa": "pint Imp.",
+      "skrot": "pint Imp.",
+      "forma_waska": "pint Imp.",
+      "wzorzec": "{0} pt Imp."
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-metric",
+      "kategoria": "volume",
+      "nazwa": "półkwarty metryczne",
+      "skrot": "półkwarty metr.",
+      "forma_waska": "półkwarty metr.",
+      "wzorzec": "{0} półkwarty metrycznej"
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-quart",
+      "kategoria": "volume",
+      "nazwa": "kwarty amerykańskie",
+      "skrot": "kwarty am.",
+      "forma_waska": "kwarty am.",
+      "wzorzec": "{0} kwarty amerykańskiej"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart-imperial",
+      "kategoria": "volume",
+      "nazwa": "kwarty angielskie",
+      "skrot": "kwarty ang.",
+      "forma_waska": "kwarty ang.",
+      "wzorzec": "{0} kwarty angielskiej"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-sai",
+      "kategoria": "volume",
+      "nazwa": "sai [JP]",
+      "skrot": "sai [JP]",
+      "forma_waska": "sai [JP]",
+      "wzorzec": "{0} sai [JP]"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-shaku",
+      "kategoria": "volume",
+      "nazwa": "shaku [vol, JP]",
+      "skrot": "shaku [vol, JP]",
+      "forma_waska": "shaku [vol, JP]",
+      "wzorzec": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-tablespoon",
+      "kategoria": "volume",
+      "nazwa": "łyżki stołowe",
+      "skrot": "ł. stoł.",
+      "forma_waska": "ł. stoł.",
+      "wzorzec": "{0} łyżki stołowej"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-teaspoon",
+      "kategoria": "volume",
+      "nazwa": "łyżeczki",
+      "skrot": "łyżeczki",
+      "forma_waska": "łyżeczki",
+      "wzorzec": "{0} łyżeczki"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-to-jp",
+      "kategoria": "volume",
+      "nazwa": "to [JP]",
+      "skrot": "to [JP]",
+      "forma_waska": "to [JP]",
+      "wzorzec": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Jednostki miary — nazwy po polsku (CLDR) - Bezpłatne pobieranie",
+    "description": "Lista jednostek miary z lokalizacji pl w CLDR — z pełną nazwą (nazwa), skrótem (skrot), formą wąską (forma_waska) i wzorcem wyświetlania (wzorzec). Zawiera 230 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Jednostki miary — nazwy po polsku (CLDR) | ListBase",
+    "seo_description": "Pobierz Jednostki miary — nazwy po polsku (CLDR) — 230 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 230 rekordów / 7 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

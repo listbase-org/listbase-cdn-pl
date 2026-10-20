@@ -1,0 +1,268 @@
+{
+  "id": "pl-brunatnoweglowe-elektrownie",
+  "name": "Elektrownie na węgiel brunatny w Polsce",
+  "title": "Elektrownie na węgiel brunatny w Polsce",
+  "description": "Elektrownie na węgiel brunatny w Polsce. All 7 lignite (brown coal) power generation/storage units in Poland carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of pl-elektrownie (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 589,
+      "name": "Patnow",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Poland",
+      "capacity_mw": 1718,
+      "efficiency": "",
+      "date_in": 1967,
+      "date_retrofit": "",
+      "date_out": 2026,
+      "lat": 52.302,
+      "lon": 18.237,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-252-1, BEYOND-PL-90-1, BEYOND-PL-90-2, BEYOND-PL-90-3, BEYOND-PL-90-4, BEYOND-PL-90-5, BEYOND-PL-90-6; ENTSOE: 19W000000000142A, 19W000000000149X; GEM: G100000107859, G100000107860, G100000107861, G100000107862, G100000107863, G100000107864, G100000107865; GEO: GEO-40612, GEO-40613; OPSD: OEU-371, OEU-372, OEU-373, OEU-374, OEU-375, OEU-376, OEU-377"
+    },
+    {
+      "id": 595,
+      "name": "Turow",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Poland",
+      "capacity_mw": 2754,
+      "efficiency": "",
+      "date_in": 1962,
+      "date_retrofit": 1995,
+      "date_out": 2013,
+      "lat": 50.947798181818186,
+      "lon": 14.911831818181817,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-13-1, BEYOND-PL-13-10, BEYOND-PL-13-2, BEYOND-PL-13-3, BEYOND-PL-13-4, BEYOND-PL-13-5, BEYOND-PL-13-6, BEYOND-PL-13-7, BEYOND-PL-13-8, BEYOND-PL-13-9; ENTSOE: 19W000000000199I; GEM: G100000110370, G100000110371, G100000110372, G100000110373, G100000110374, G100000110375, G100000110376, G100000110377, G100000110378, G100000110379, G100000110380; GEO: GEO-40597; OPSD: OEU-407, OEU-408, OEU-409, OEU-410, OEU-411, OEU-412"
+    },
+    {
+      "id": 617,
+      "name": "Belchatow Phase",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Poland",
+      "capacity_mw": 5400,
+      "efficiency": "",
+      "date_in": 1981,
+      "date_retrofit": 1997,
+      "date_out": 2036,
+      "lat": 51.266389,
+      "lon": 19.330556,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-6-1, BEYOND-PL-6-10, BEYOND-PL-6-11, BEYOND-PL-6-12, BEYOND-PL-6-13, BEYOND-PL-6-2, BEYOND-PL-6-3, BEYOND-PL-6-4, BEYOND-PL-6-5, BEYOND-PL-6-6, BEYOND-PL-6-7, BEYOND-PL-6-8, BEYOND-PL-6-9; ENTSOE: 19W000000000016F; GEM: G100000100722, G100000100724, G100000100725, G100000100726, G100000100727, G100000100728, G100000100729, G100000100730, G100000100731, G100000100732, G100000100733, G100000100734, G100000100735; GEO: GEO-40629, GEO-40631; OPSD: OEU-313, OEU-314, OEU-315, OEU-316, OEU-317, OEU-318, OEU-319, OEU-320, OEU-321, OEU-322, OEU-323, OEU-324"
+    },
+    {
+      "id": 1062,
+      "name": "Konin",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Poland",
+      "capacity_mw": 165,
+      "efficiency": "",
+      "date_in": 1958,
+      "date_retrofit": "",
+      "date_out": 2022,
+      "lat": 52.283657,
+      "lon": 18.269475,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-91-1, BEYOND-PL-91-2, BEYOND-PL-91-4, BEYOND-PL-91-5; ENTSOE: 19W000000000094W; GEM: G100000105845, G100000105846, G100000105847; GEO: GEO-40614"
+    },
+    {
+      "id": 2718,
+      "name": "Adamow",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Poland",
+      "capacity_mw": 600,
+      "efficiency": "",
+      "date_in": 1964,
+      "date_retrofit": "",
+      "date_out": 2017,
+      "lat": 52.012307,
+      "lon": 18.546212,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-214-1, BEYOND-PL-214-2, BEYOND-PL-214-3, BEYOND-PL-214-4, BEYOND-PL-214-5; GEM: G100000100025, G100000100026, G100000100027, G100000100028, G100000100029; GEO: GEO-40611"
+    },
+    {
+      "id": 16794,
+      "name": "Kozienice",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "",
+      "country": "Poland",
+      "capacity_mw": 1075,
+      "efficiency": "",
+      "date_in": 2017,
+      "date_retrofit": "",
+      "date_out": 2048,
+      "lat": 51.58293,
+      "lon": 21.54779,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001000616"
+    },
+    {
+      "id": 165506,
+      "name": "Zgierz",
+      "fueltype": "Lignite",
+      "technology": "",
+      "set": "CHP",
+      "country": "Poland",
+      "capacity_mw": 17,
+      "efficiency": "",
+      "date_in": 1967,
+      "date_retrofit": "",
+      "date_out": 2015,
+      "lat": 51.8411,
+      "lon": 19.3944,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-PL-245-1"
+    }
+  ],
+  "meta": {
+    "title": "Elektrownie na węgiel brunatny w Polsce - Bezpłatne pobieranie",
+    "description": "Elektrownie na węgiel brunatny w Polsce. All 7 lignite (brown coal) power generation/storage units in Poland carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of pl-elektrownie (zero derivation). Zawiera 7 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Elektrownie na węgiel brunatny w Polsce | ListBase",
+    "seo_description": "Pobierz Elektrownie na węgiel brunatny w Polsce — 7 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 7 rekordów / 19 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}

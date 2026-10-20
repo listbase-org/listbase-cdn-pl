@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "Zbiór Danych Popularnych Symboli Unicode i Encji HTML",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "Strzałka w lewo",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "Strzałka w prawo",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "Strzałka w górę",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "Strzałka w dół",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "Strzałka lewo-prawo",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "Strzałka góra-dół",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "Podwójna strzałka w lewo",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "Podwójna strzałka w prawo",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "Podwójna strzałka w górę",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "Podwójna strzałka w dół",
+      "category": "Strzałki"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "Znak plus-minus",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "Znak mnożenia",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "Znak dzielenia",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "Różne od",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "Prawie równe",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "Mniejsze lub równe",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "Większe lub równe",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "Nieskończoność",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "Pierwiastek kwadratowy",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "Sumowanie N-arne",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "Iloczyn n-arny",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "Całka",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "Różniczka cząstkowa",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "Nabla",
+      "category": "Operatory matematyczne"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "Mała litera grecka alfa",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "Mała litera grecka beta",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "Mała litera grecka gamma",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "Mała litera grecka delta",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "Mała litera grecka pi",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "Mała litera grecka sigma",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "Mała litera grecka theta",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "Mała litera grecka lambda",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "Mała litera grecka mi",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "Wielka litera grecka omega",
+      "category": "Litery greckie"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "Znak dolara",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "Znak euro",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "Znak funta",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "Znak jena",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "Znak wona",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "Znak rupii indyjskiej",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "Znak bata tajskiego",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "Znak Bitcoina",
+      "category": "Waluta"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "Znak praw autorskich",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "Znak zarejestrowany",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "Znak towarowy",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "Znak stopnia",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "Punktor",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "Wielokropek poziomy",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "Znak sztyletu",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "Znak podwójnego sztyletu",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "Znak sekcji",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "Znak akapitu",
+      "category": "Typografia"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "Znak wyboru",
+      "category": "Status"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "Znak X na karcie do głosowania",
+      "category": "Status"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "Gruby znak wyboru",
+      "category": "Status"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "Gruby znak X na karcie do głosowania",
+      "category": "Status"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "Czarna gwiazda",
+      "category": "Status"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "Biała gwiazda",
+      "category": "Status"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "Czarny symbol serca",
+      "category": "Status"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "Czarny symbol karo",
+      "category": "Status"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "Czarny Trefl",
+      "category": "Status"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "Czarny Pik",
+      "category": "Status"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "Ułamek zwykły jedna druga",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "Ułamek zwykły jedna trzecia",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "Ułamek zwykły jedna czwarta",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "Ułamek zwykły trzy czwarte",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "Ułamek zwykły jedna ósma",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "Indeks górny dwa",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "Indeks górny trzy",
+      "category": "Ułamki"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "Indeks górny jeden",
+      "category": "Ułamki"
+    }
+  ],
+  "meta": {
+    "seo_title": "Popularne Symbole Unicode - Pobierz Bezpłatnie (Excel/CSV/PDF)",
+    "seo_description": "Pobierz bezpłatnie 70 popularnych symboli Unicode z punktami kodowymi, encjami HTML i kategoriami. Dostępne w formatach Excel, CSV i PDF do różnych zastosowań.",
+    "title": "Zbiór Danych Popularnych Symboli Unicode i Encji HTML",
+    "description": "Ten zbiór danych zawiera wyselekcjonowaną listę 70 popularnych symboli Unicode, wraz z ich punktami kodowymi, encjami HTML, nazwami i kategoriami, dla łatwego odniesienia.",
+    "key_takeaways": [
+      "Uzyskaj dostęp do 70 podstawowych symboli Unicode, ich punktów kodowych i encji HTML.",
+      "Przeglądaj różne kategorie symboli, takie jak Strzałki, Operatory Matematyczne i inne.",
+      "Pobierz gotowe dane do tworzenia stron internetowych, przetwarzania tekstu i projektów graficznych.",
+      "Wykorzystaj symbole do ulepszenia treści cyfrowych i internacjonalizacji."
+    ],
+    "keywords": [
+      "symbole unicode lista",
+      "encje html csv",
+      "punkty kodowe excel",
+      "znaki specjalne pobierz",
+      "symbole tekstowe pdf",
+      "popularne unicode"
+    ],
+    "use_cases": [
+      "Zaimportuj plik **CSV** do swojej aplikacji internetowej lub bazy danych, aby dynamicznie wyświetlać symbole na podstawie danych wejściowych użytkownika lub kategorii.",
+      "Użyj pliku **Excel** do szybko filtrować i znajdować konkretne symbole lub encje HTML do projektów tworzenia treści lub projektowania.",
+      "Wydrukuj wersję **PDF**, aby mieć pod ręką wygodny przewodnik offline po popularnych symbolach Unicode i ich szczegółach.",
+      "Korzystaj ze zbioru danych, aby zapewnić prawidłowe wyświetlanie znaków specjalnych na różnych platformach i dla międzynarodowej publiczności."
+    ]
+  },
+  "record_count": 70,
+  "title": "Zbiór Danych Popularnych Symboli Unicode i Encji HTML"
+}

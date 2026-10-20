@@ -1,0 +1,648 @@
+{
+  "id": "pl-miesiace-kalendarze",
+  "name": "Nazwy miesięcy według kalendarza (CLDR polski)",
+  "title": "Nazwy miesięcy według kalendarza (CLDR polski)",
+  "description": "Nazwy miesięcy sześciu kalendarzy (gregoriański, buddyjski, chiński, dangi, hebrajski, islamski) — w lokalizacji pl w CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalendarz",
+      "label": "Kalendarz",
+      "type": "string"
+    },
+    {
+      "key": "miesiac_code",
+      "label": "Miesiac Code",
+      "type": "number"
+    },
+    {
+      "key": "miesiac_num",
+      "label": "Miesiac Num",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "skrot",
+      "label": "Skrot",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalendarz": "gregorian",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "stycznia",
+      "skrot": "sty"
+    },
+    {
+      "id": 2,
+      "kalendarz": "gregorian",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "lutego",
+      "skrot": "lut"
+    },
+    {
+      "id": 3,
+      "kalendarz": "gregorian",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "marca",
+      "skrot": "mar"
+    },
+    {
+      "id": 4,
+      "kalendarz": "gregorian",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "kwietnia",
+      "skrot": "kwi"
+    },
+    {
+      "id": 5,
+      "kalendarz": "gregorian",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "maja",
+      "skrot": "maj"
+    },
+    {
+      "id": 6,
+      "kalendarz": "gregorian",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "czerwca",
+      "skrot": "cze"
+    },
+    {
+      "id": 7,
+      "kalendarz": "gregorian",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "lipca",
+      "skrot": "lip"
+    },
+    {
+      "id": 8,
+      "kalendarz": "gregorian",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "sierpnia",
+      "skrot": "sie"
+    },
+    {
+      "id": 9,
+      "kalendarz": "gregorian",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "września",
+      "skrot": "wrz"
+    },
+    {
+      "id": 10,
+      "kalendarz": "gregorian",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "października",
+      "skrot": "paź"
+    },
+    {
+      "id": 11,
+      "kalendarz": "gregorian",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "listopada",
+      "skrot": "lis"
+    },
+    {
+      "id": 12,
+      "kalendarz": "gregorian",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "grudnia",
+      "skrot": "gru"
+    },
+    {
+      "id": 13,
+      "kalendarz": "buddhist",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "stycznia",
+      "skrot": "sty"
+    },
+    {
+      "id": 14,
+      "kalendarz": "buddhist",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "lutego",
+      "skrot": "lut"
+    },
+    {
+      "id": 15,
+      "kalendarz": "buddhist",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "marca",
+      "skrot": "mar"
+    },
+    {
+      "id": 16,
+      "kalendarz": "buddhist",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "kwietnia",
+      "skrot": "kwi"
+    },
+    {
+      "id": 17,
+      "kalendarz": "buddhist",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "maja",
+      "skrot": "maj"
+    },
+    {
+      "id": 18,
+      "kalendarz": "buddhist",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "czerwca",
+      "skrot": "cze"
+    },
+    {
+      "id": 19,
+      "kalendarz": "buddhist",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "lipca",
+      "skrot": "lip"
+    },
+    {
+      "id": 20,
+      "kalendarz": "buddhist",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "sierpnia",
+      "skrot": "sie"
+    },
+    {
+      "id": 21,
+      "kalendarz": "buddhist",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "września",
+      "skrot": "wrz"
+    },
+    {
+      "id": 22,
+      "kalendarz": "buddhist",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "października",
+      "skrot": "paź"
+    },
+    {
+      "id": 23,
+      "kalendarz": "buddhist",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "listopada",
+      "skrot": "lis"
+    },
+    {
+      "id": 24,
+      "kalendarz": "buddhist",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "grudnia",
+      "skrot": "gru"
+    },
+    {
+      "id": 25,
+      "kalendarz": "chinese",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "M01",
+      "skrot": "1"
+    },
+    {
+      "id": 26,
+      "kalendarz": "chinese",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "M02",
+      "skrot": "2"
+    },
+    {
+      "id": 27,
+      "kalendarz": "chinese",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "M03",
+      "skrot": "3"
+    },
+    {
+      "id": 28,
+      "kalendarz": "chinese",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "M04",
+      "skrot": "4"
+    },
+    {
+      "id": 29,
+      "kalendarz": "chinese",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "M05",
+      "skrot": "5"
+    },
+    {
+      "id": 30,
+      "kalendarz": "chinese",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "M06",
+      "skrot": "6"
+    },
+    {
+      "id": 31,
+      "kalendarz": "chinese",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "M07",
+      "skrot": "7"
+    },
+    {
+      "id": 32,
+      "kalendarz": "chinese",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "M08",
+      "skrot": "8"
+    },
+    {
+      "id": 33,
+      "kalendarz": "chinese",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "M09",
+      "skrot": "9"
+    },
+    {
+      "id": 34,
+      "kalendarz": "chinese",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "M10",
+      "skrot": "10"
+    },
+    {
+      "id": 35,
+      "kalendarz": "chinese",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "M11",
+      "skrot": "11"
+    },
+    {
+      "id": 36,
+      "kalendarz": "chinese",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "M12",
+      "skrot": "12"
+    },
+    {
+      "id": 37,
+      "kalendarz": "dangi",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "M01",
+      "skrot": "1"
+    },
+    {
+      "id": 38,
+      "kalendarz": "dangi",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "M02",
+      "skrot": "2"
+    },
+    {
+      "id": 39,
+      "kalendarz": "dangi",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "M03",
+      "skrot": "3"
+    },
+    {
+      "id": 40,
+      "kalendarz": "dangi",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "M04",
+      "skrot": "4"
+    },
+    {
+      "id": 41,
+      "kalendarz": "dangi",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "M05",
+      "skrot": "5"
+    },
+    {
+      "id": 42,
+      "kalendarz": "dangi",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "M06",
+      "skrot": "6"
+    },
+    {
+      "id": 43,
+      "kalendarz": "dangi",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "M07",
+      "skrot": "7"
+    },
+    {
+      "id": 44,
+      "kalendarz": "dangi",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "M08",
+      "skrot": "8"
+    },
+    {
+      "id": 45,
+      "kalendarz": "dangi",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "M09",
+      "skrot": "9"
+    },
+    {
+      "id": 46,
+      "kalendarz": "dangi",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "M10",
+      "skrot": "10"
+    },
+    {
+      "id": 47,
+      "kalendarz": "dangi",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "M11",
+      "skrot": "11"
+    },
+    {
+      "id": 48,
+      "kalendarz": "dangi",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "M12",
+      "skrot": "12"
+    },
+    {
+      "id": 49,
+      "kalendarz": "hebrew",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "Tiszri",
+      "skrot": "Tiszri"
+    },
+    {
+      "id": 50,
+      "kalendarz": "hebrew",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "Cheszwan",
+      "skrot": "Cheszwan"
+    },
+    {
+      "id": 51,
+      "kalendarz": "hebrew",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "Kislew",
+      "skrot": "Kislew"
+    },
+    {
+      "id": 52,
+      "kalendarz": "hebrew",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "Tewet",
+      "skrot": "Tewet"
+    },
+    {
+      "id": 53,
+      "kalendarz": "hebrew",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "Szwat",
+      "skrot": "Szwat"
+    },
+    {
+      "id": 54,
+      "kalendarz": "hebrew",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "Adar I",
+      "skrot": "Adar I"
+    },
+    {
+      "id": 55,
+      "kalendarz": "hebrew",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "Adar",
+      "skrot": "Adar"
+    },
+    {
+      "id": 56,
+      "kalendarz": "hebrew",
+      "miesiac_code": "7-yeartype-leap",
+      "miesiac_num": "",
+      "nazwa": "Adar II",
+      "skrot": "Adar II"
+    },
+    {
+      "id": 57,
+      "kalendarz": "hebrew",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "Nisan",
+      "skrot": "Nisan"
+    },
+    {
+      "id": 58,
+      "kalendarz": "hebrew",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "Ijar",
+      "skrot": "Ijar"
+    },
+    {
+      "id": 59,
+      "kalendarz": "hebrew",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "Siwan",
+      "skrot": "Siwan"
+    },
+    {
+      "id": 60,
+      "kalendarz": "hebrew",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "Tamuz",
+      "skrot": "Tamuz"
+    },
+    {
+      "id": 61,
+      "kalendarz": "hebrew",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "Aw",
+      "skrot": "Aw"
+    },
+    {
+      "id": 62,
+      "kalendarz": "hebrew",
+      "miesiac_code": "13",
+      "miesiac_num": 13,
+      "nazwa": "Elul",
+      "skrot": "Elul"
+    },
+    {
+      "id": 63,
+      "kalendarz": "islamic",
+      "miesiac_code": "1",
+      "miesiac_num": 1,
+      "nazwa": "Muharram",
+      "skrot": "Muh."
+    },
+    {
+      "id": 64,
+      "kalendarz": "islamic",
+      "miesiac_code": "2",
+      "miesiac_num": 2,
+      "nazwa": "Safar",
+      "skrot": "Saf."
+    },
+    {
+      "id": 65,
+      "kalendarz": "islamic",
+      "miesiac_code": "3",
+      "miesiac_num": 3,
+      "nazwa": "Rabiʻ I",
+      "skrot": "Rab. I"
+    },
+    {
+      "id": 66,
+      "kalendarz": "islamic",
+      "miesiac_code": "4",
+      "miesiac_num": 4,
+      "nazwa": "Rabiʻ II",
+      "skrot": "Rab. II"
+    },
+    {
+      "id": 67,
+      "kalendarz": "islamic",
+      "miesiac_code": "5",
+      "miesiac_num": 5,
+      "nazwa": "Dżumada I",
+      "skrot": "Dżu. I"
+    },
+    {
+      "id": 68,
+      "kalendarz": "islamic",
+      "miesiac_code": "6",
+      "miesiac_num": 6,
+      "nazwa": "Dżumada II",
+      "skrot": "Dżu. II"
+    },
+    {
+      "id": 69,
+      "kalendarz": "islamic",
+      "miesiac_code": "7",
+      "miesiac_num": 7,
+      "nazwa": "Radżab",
+      "skrot": "Ra."
+    },
+    {
+      "id": 70,
+      "kalendarz": "islamic",
+      "miesiac_code": "8",
+      "miesiac_num": 8,
+      "nazwa": "Szaban",
+      "skrot": "Sza."
+    },
+    {
+      "id": 71,
+      "kalendarz": "islamic",
+      "miesiac_code": "9",
+      "miesiac_num": 9,
+      "nazwa": "Ramadan",
+      "skrot": "Ram."
+    },
+    {
+      "id": 72,
+      "kalendarz": "islamic",
+      "miesiac_code": "10",
+      "miesiac_num": 10,
+      "nazwa": "Szawwal",
+      "skrot": "Szaw."
+    },
+    {
+      "id": 73,
+      "kalendarz": "islamic",
+      "miesiac_code": "11",
+      "miesiac_num": 11,
+      "nazwa": "Zu al-kada",
+      "skrot": "Zu al-k."
+    },
+    {
+      "id": 74,
+      "kalendarz": "islamic",
+      "miesiac_code": "12",
+      "miesiac_num": 12,
+      "nazwa": "Zu al-hidżdża",
+      "skrot": "Zu al-h."
+    }
+  ],
+  "meta": {
+    "title": "Nazwy miesięcy według kalendarza (CLDR polski) - Bezpłatne pobieranie",
+    "description": "Nazwy miesięcy sześciu kalendarzy (gregoriański, buddyjski, chiński, dangi, hebrajski, islamski) — w lokalizacji pl w CLDR. Zawiera 74 rekordów. Pobierz w formatach Excel, CSV, PDF.",
+    "seo_title": "Nazwy miesięcy według kalendarza (CLDR polski) | ListBase",
+    "seo_description": "Pobierz Nazwy miesięcy według kalendarza (CLDR polski) — 74 rekordów. Dostępne w formatach Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Zawiera 74 rekordów / 6 pól",
+      "Bezpłatne pobieranie w formatach Excel, CSV i PDF",
+      "Źródło danych: open data"
+    ]
+  }
+}
