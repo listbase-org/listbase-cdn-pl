@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:04.846Z",
-  "total_datasets": 483,
-  "total_records": 1089924,
+  "generated": "2026-10-27T02:28:07.287Z",
+  "total_datasets": 484,
+  "total_records": 1089959,
   "categories": [
     {
       "id": "agriculture",
@@ -43,6 +43,10 @@
     {
       "id": "language",
       "dataset_count": 6
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -3328,6 +3332,33 @@
         "xlsx": {
           "name": "pl-systemy-pisma_PL.xlsx",
           "size": 10696
+        }
+      }
+    },
+    {
+      "id": "pl-ministrowie-sprawiedliwosci",
+      "name": "Ministrowie sprawiedliwości w Polsce",
+      "category": "law",
+      "record_count": 35,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ministerstwo_Sprawiedliwości_(Polska)",
+      "updated": "2026-10",
+      "size": 11255,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-sprawiedliwosci_PL.csv",
+          "size": 4342
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-sprawiedliwosci_PL.xlsx",
+          "size": 9028
         }
       }
     },
