@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:27:57.099Z",
-  "total_datasets": 480,
-  "total_records": 1089618,
+  "generated": "2026-10-27T02:27:59.596Z",
+  "total_datasets": 481,
+  "total_records": 1089845,
   "categories": [
     {
       "id": "culture",
@@ -47,6 +47,10 @@
     {
       "id": "music",
       "dataset_count": 3
+    },
+    {
+      "id": "politics",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -3432,6 +3436,33 @@
         "xlsx": {
           "name": "pl-eurowizja_PL.xlsx",
           "size": 8662
+        }
+      }
+    },
+    {
+      "id": "pl-marszalkowie-sejmu",
+      "name": "Marszałkowie Sejmu",
+      "category": "politics",
+      "record_count": 227,
+      "columns": [
+        "nr",
+        "marszalek",
+        "od",
+        "do",
+        "ugrupowanie",
+        "kadencja"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Marszałkowie_Sejmu_Rzeczypospolitej",
+      "updated": "2026-10",
+      "size": 46482,
+      "files": {
+        "csv": {
+          "name": "pl-marszalkowie-sejmu_PL.csv",
+          "size": 19463
+        },
+        "xlsx": {
+          "name": "pl-marszalkowie-sejmu_PL.xlsx",
+          "size": 17683
         }
       }
     },
