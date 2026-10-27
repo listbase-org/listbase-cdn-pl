@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:34.217Z",
-  "total_datasets": 495,
-  "total_records": 1090561,
+  "generated": "2026-10-27T02:28:36.728Z",
+  "total_datasets": 496,
+  "total_records": 1090609,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -12965,6 +12965,33 @@
         "xlsx": {
           "name": "pl-punkty-informacji-turystycznej_PL.xlsx",
           "size": 692289
+        }
+      }
+    },
+    {
+      "id": "pl-uzdrowiska",
+      "name": "Uzdrowiska w Polsce",
+      "category": "tourism",
+      "record_count": 48,
+      "columns": [
+        "nazwa",
+        "gmina",
+        "wojewodztwo",
+        "rok_uznania",
+        "uwagi",
+        "rodzaj"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_uzdrowisk_w_Polsce",
+      "updated": "2026-10",
+      "size": 12772,
+      "files": {
+        "csv": {
+          "name": "pl-uzdrowiska_PL.csv",
+          "size": 5471
+        },
+        "xlsx": {
+          "name": "pl-uzdrowiska_PL.xlsx",
+          "size": 9082
         }
       }
     },

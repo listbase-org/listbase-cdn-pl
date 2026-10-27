@@ -1,0 +1,440 @@
+{
+  "id": "pl-uzdrowiska",
+  "name": "Uzdrowiska w Polsce",
+  "title": "Uzdrowiska w Polsce",
+  "description": "Lista statutowych uzdrowisk w Polsce z gminą, województwem, rokiem uznania i rodzajem uzdrowiska.",
+  "category": "tourism",
+  "source": "https://pl.wikipedia.org/wiki/Lista_uzdrowisk_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_uzdrowisk_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "gmina",
+      "label": "Gmina",
+      "type": "string"
+    },
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "rok_uznania",
+      "label": "Rok Uznania",
+      "type": "number"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    },
+    {
+      "key": "rodzaj",
+      "label": "Rodzaj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Augustów",
+      "gmina": "Augustów",
+      "wojewodztwo": "woj. podlaskie",
+      "rok_uznania": 1993,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Busko-Zdrój",
+      "gmina": "Busko-Zdrój",
+      "wojewodztwo": "woj. świętokrzyskie",
+      "rok_uznania": 1922,
+      "uwagi": "w 1922 r. jako uzdrowisko państwowe zostało uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Ciechocinek",
+      "gmina": "Ciechocinek",
+      "wojewodztwo": "woj. kujawsko-pomorskie",
+      "rok_uznania": 1922,
+      "uwagi": "w 1922 r. jako uzdrowisko państwowe zostało uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Cieplice Śląskie-Zdrój",
+      "gmina": "Jelenia Góra",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Czerniawa-Zdrój",
+      "gmina": "Świeradów-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Dąbki",
+      "gmina": "Darłowo (gmina wiejska)",
+      "wojewodztwo": "woj. zachodniopomorskie",
+      "rok_uznania": 2007,
+      "uwagi": "Granice obszaru „Uzdrowiska Dąbki”, obejmują sołectwa: Dąbki , Bobolin , Bukowo Morskie , Porzecze , Żukowo Morskie",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Długopole-Zdrój",
+      "gmina": "Bystrzyca Kłodzka",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Duszniki-Zdrój",
+      "gmina": "Duszniki-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Goczałkowice-Zdrój",
+      "gmina": "Goczałkowice-Zdrój",
+      "wojewodztwo": "woj. śląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Gołdap",
+      "gmina": "Gołdap",
+      "wojewodztwo": "woj. warmińsko-mazurskie",
+      "rok_uznania": 2000,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Horyniec-Zdrój",
+      "gmina": "Horyniec-Zdrój",
+      "wojewodztwo": "woj. podkarpackie",
+      "rok_uznania": 1938,
+      "uwagi": "w 1938 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Inowrocław",
+      "gmina": "Inowrocław",
+      "wojewodztwo": "woj. kujawsko-pomorskie",
+      "rok_uznania": 1922,
+      "uwagi": "w 1922 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Iwonicz-Zdrój",
+      "gmina": "Iwonicz-Zdrój",
+      "wojewodztwo": "woj. podkarpackie",
+      "rok_uznania": 1928,
+      "uwagi": "w 1928 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Jedlina-Zdrój",
+      "gmina": "Jedlina-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Kamień Pomorski",
+      "gmina": "Kamień Pomorski",
+      "wojewodztwo": "woj. zachodniopomorskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Kołobrzeg",
+      "gmina": "Kołobrzeg (gmina miejska)",
+      "wojewodztwo": "woj. zachodniopomorskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Konstancin-Jeziorna",
+      "gmina": "Konstancin-Jeziorna",
+      "wojewodztwo": "woj. mazowieckie",
+      "rok_uznania": 1917,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Krasnobród",
+      "gmina": "Krasnobród",
+      "wojewodztwo": "woj. lubelskie",
+      "rok_uznania": 2002,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Krynica-Zdrój",
+      "gmina": "Krynica-Zdrój",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 1922,
+      "uwagi": "w 1922 r. jako uzdrowisko państwowe zostało uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Kudowa-Zdrój",
+      "gmina": "Kudowa-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Latoszyn",
+      "gmina": "Dębica",
+      "wojewodztwo": "woj. podkarpackie",
+      "rok_uznania": 2022,
+      "uwagi": "Granice „Uzdrowiska Latoszyn” obejmują sołectwa Latoszyn i Podgrodzie",
+      "rodzaj": ""
+    },
+    {
+      "nazwa": "Lądek-Zdrój",
+      "gmina": "Lądek-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Lidzbark Warmiński",
+      "gmina": "Lidzbark Warmiński (gmina miejska) i Lidzbark Warmiński (gmina wiejska)",
+      "wojewodztwo": "woj. warmińsko-mazurskie",
+      "rok_uznania": 2026,
+      "uwagi": "Granice „Uzdrowiska Lidzbark Warmiński” obejmują Osiedle Uzdrowiskowe na terenie Lidzbarka Warmińskiego wraz z sołectwami: Medyny i Łabno",
+      "rodzaj": ""
+    },
+    {
+      "nazwa": "Muszyna",
+      "gmina": "Muszyna",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Nałęczów",
+      "gmina": "Nałęczów",
+      "wojewodztwo": "woj. lubelskie",
+      "rok_uznania": 1928,
+      "uwagi": "w 1928 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Piwniczna-Zdrój",
+      "gmina": "Piwniczna-Zdrój",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Polanica-Zdrój",
+      "gmina": "Polanica-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Polańczyk",
+      "gmina": "Solina",
+      "wojewodztwo": "woj. podkarpackie",
+      "rok_uznania": 1999,
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Połczyn-Zdrój",
+      "gmina": "Połczyn-Zdrój",
+      "wojewodztwo": "woj. zachodniopomorskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Przerzeczyn-Zdrój",
+      "gmina": "Niemcza",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": 1997,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Rabka-Zdrój",
+      "gmina": "Rabka-Zdrój",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 1924,
+      "uwagi": "w 1924 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Rymanów-Zdrój",
+      "gmina": "Rymanów",
+      "wojewodztwo": "woj. podkarpackie",
+      "rok_uznania": 1928,
+      "uwagi": "w 1928 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Solec-Zdrój",
+      "gmina": "Solec-Zdrój",
+      "wojewodztwo": "woj. świętokrzyskie",
+      "rok_uznania": 1928,
+      "uwagi": "w 1928 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Sopot",
+      "gmina": "Sopot",
+      "wojewodztwo": "woj. pomorskie",
+      "rok_uznania": 1999,
+      "uwagi": "–",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Supraśl",
+      "gmina": "Supraśl",
+      "wojewodztwo": "woj. podlaskie",
+      "rok_uznania": 2002,
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Swoszowice",
+      "gmina": "Kraków",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 1928,
+      "uwagi": "w 1928 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Szczawnica",
+      "gmina": "Szczawnica",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 1924,
+      "uwagi": "w 1924 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Szczawno-Zdrój",
+      "gmina": "Szczawno-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Świeradów-Zdrój",
+      "gmina": "Świeradów-Zdrój",
+      "wojewodztwo": "woj. dolnośląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Świnoujście",
+      "gmina": "Świnoujście",
+      "wojewodztwo": "woj. zachodniopomorskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Uniejów",
+      "gmina": "Uniejów",
+      "wojewodztwo": "woj. łódzkie",
+      "rok_uznania": 2012,
+      "uwagi": "Granice „Uzdrowiska Uniejów” obejmują miasto Uniejów i sołectwa: Człopy , Spycimierz , Spycimierz-Kolonia , Zieleń",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Ustka",
+      "gmina": "Ustka (gmina miejska)",
+      "wojewodztwo": "woj. pomorskie",
+      "rok_uznania": 1987,
+      "uwagi": "–",
+      "rodzaj": "nadmorskie"
+    },
+    {
+      "nazwa": "Ustroń",
+      "gmina": "Ustroń",
+      "wojewodztwo": "woj. śląskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Wapienne",
+      "gmina": "Sękowa",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "podgórskie"
+    },
+    {
+      "nazwa": "Wieniec-Zdrój",
+      "gmina": "Brześć Kujawski",
+      "wojewodztwo": "woj. kujawsko-pomorskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "nizinne"
+    },
+    {
+      "nazwa": "Wysowa-Zdrój",
+      "gmina": "Uście Gorlickie",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": "",
+      "uwagi": "–",
+      "rodzaj": "górskie"
+    },
+    {
+      "nazwa": "Złockie",
+      "gmina": "Muszyna",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 2022,
+      "uwagi": "Granice „Uzdrowiska Złockie” obejmują sołectwa Złockie , Szczawnik oraz Jastrzębik",
+      "rodzaj": ""
+    },
+    {
+      "nazwa": "Żegiestów-Zdrój",
+      "gmina": "Muszyna",
+      "wojewodztwo": "woj. małopolskie",
+      "rok_uznania": 1924,
+      "uwagi": "w 1924 r. uznane za uzdrowisko posiadające charakter użyteczności publicznej; strefy ochrony uzdrowiskowej obejmują części Żegiestowa: Żegiestów-Zdrój , Łopata Polska",
+      "rodzaj": "górskie"
+    }
+  ],
+  "meta": {
+    "title": "Uzdrowiska w Polsce - Free Download",
+    "description": "Lista statutowych uzdrowisk w Polsce z gminą, województwem, rokiem uznania i rodzajem uzdrowiska. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uzdrowiska w Polsce | ListBase",
+    "seo_description": "Download Uzdrowiska w Polsce — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_uzdrowisk_w_Polsce"
+    ]
+  }
+}
