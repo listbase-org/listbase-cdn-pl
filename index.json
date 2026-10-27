@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:43.960Z",
-  "total_datasets": 499,
-  "total_records": 1090671,
+  "generated": "2026-10-27T02:28:46.512Z",
+  "total_datasets": 500,
+  "total_records": 1090694,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -286,6 +286,33 @@
         "xlsx": {
           "name": "pl-najwieksze-przedsiebiorstwa-2012_PL.xlsx",
           "size": 7926
+        }
+      }
+    },
+    {
+      "id": "pl-wzrost-gospodarczy-pkb",
+      "name": "Wzrost gospodarczy Polski (PKB) kwartalnie",
+      "category": "economy",
+      "record_count": 23,
+      "columns": [
+        "rok",
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "ogolem"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+      "updated": "2026-10",
+      "size": 4369,
+      "files": {
+        "csv": {
+          "name": "pl-wzrost-gospodarczy-pkb_PL.csv",
+          "size": 861
+        },
+        "xlsx": {
+          "name": "pl-wzrost-gospodarczy-pkb_PL.xlsx",
+          "size": 7403
         }
       }
     },
