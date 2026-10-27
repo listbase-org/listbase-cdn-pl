@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:14.777Z",
-  "total_datasets": 487,
-  "total_records": 1090145,
+  "generated": "2026-10-27T02:28:17.346Z",
+  "total_datasets": 488,
+  "total_records": 1090165,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -391,6 +391,31 @@
         "xlsx": {
           "name": "pl-ksiegarnie_PL.xlsx",
           "size": 44883
+        }
+      }
+    },
+    {
+      "id": "pl-polskie-filmy-najwieksza-widownia",
+      "name": "Polskie filmy z największą liczbą widzów",
+      "category": "entertainment",
+      "record_count": 20,
+      "columns": [
+        "lp",
+        "tytul",
+        "rok",
+        "widzowie"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+      "updated": "2026-10",
+      "size": 3798,
+      "files": {
+        "csv": {
+          "name": "pl-polskie-filmy-najwieksza-widownia_PL.csv",
+          "size": 857
+        },
+        "xlsx": {
+          "name": "pl-polskie-filmy-najwieksza-widownia_PL.xlsx",
+          "size": 7526
         }
       }
     },

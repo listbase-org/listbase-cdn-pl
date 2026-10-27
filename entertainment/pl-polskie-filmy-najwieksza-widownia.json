@@ -1,0 +1,166 @@
+{
+  "id": "pl-polskie-filmy-najwieksza-widownia",
+  "name": "Polskie filmy z największą liczbą widzów",
+  "title": "Polskie filmy z największą liczbą widzów",
+  "description": "Polskie filmy z największą widownią w kinach w Polsce.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "tytul",
+      "label": "Tytul",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "widzowie",
+      "label": "Widzowie",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "tytul": "Krzyżacy",
+      "rok": 1960,
+      "widzowie": 32315695
+    },
+    {
+      "lp": "2.",
+      "tytul": "W pustyni i w puszczy",
+      "rok": 1973,
+      "widzowie": 30989874
+    },
+    {
+      "lp": "3.",
+      "tytul": "Potop",
+      "rok": 1974,
+      "widzowie": 27615921
+    },
+    {
+      "lp": "4.",
+      "tytul": "Noce i dnie",
+      "rok": 1975,
+      "widzowie": 22350921
+    },
+    {
+      "lp": "5.",
+      "tytul": "Zakazane piosenki",
+      "rok": 1946,
+      "widzowie": 15235445
+    },
+    {
+      "lp": "6.",
+      "tytul": "Akademia pana Kleksa",
+      "rok": 1983,
+      "widzowie": 14094014
+    },
+    {
+      "lp": "7.",
+      "tytul": "Seksmisja",
+      "rok": 1983,
+      "widzowie": 11164329
+    },
+    {
+      "lp": "8.",
+      "tytul": "Pan Wołodyjowski",
+      "rok": 1968,
+      "widzowie": 10934145
+    },
+    {
+      "lp": "9.",
+      "tytul": "Trędowata",
+      "rok": 1976,
+      "widzowie": 9834145
+    },
+    {
+      "lp": "10.",
+      "tytul": "Faraon",
+      "rok": 1966,
+      "widzowie": 9453934
+    },
+    {
+      "lp": "11.",
+      "tytul": "Kochaj albo rzuć",
+      "rok": 1977,
+      "widzowie": 9384135
+    },
+    {
+      "lp": "12.",
+      "tytul": "Skarb",
+      "rok": 1949,
+      "widzowie": 9312596
+    },
+    {
+      "lp": "13.",
+      "tytul": "Nie ma mocnych",
+      "rok": 1974,
+      "widzowie": 8695942
+    },
+    {
+      "lp": "14.",
+      "tytul": "Podróże pana Kleksa",
+      "rok": 1985,
+      "widzowie": 8678791
+    },
+    {
+      "lp": "15.",
+      "tytul": "Jak rozpętałem II wojnę światową",
+      "rok": 1969,
+      "widzowie": 8485163
+    },
+    {
+      "lp": "16.",
+      "tytul": "Wielka podróż Bolka i Lolka",
+      "rok": 1977,
+      "widzowie": 8442005
+    },
+    {
+      "lp": "17.",
+      "tytul": "Awantura o Basię",
+      "rok": 1959,
+      "widzowie": 8234616
+    },
+    {
+      "lp": "18.",
+      "tytul": "Ulica graniczna",
+      "rok": 1948,
+      "widzowie": 8012859
+    },
+    {
+      "lp": "19.",
+      "tytul": "Czarci żleb",
+      "rok": 1949,
+      "widzowie": 8012748
+    },
+    {
+      "lp": "20.",
+      "tytul": "Dzieje grzechu",
+      "rok": 1975,
+      "widzowie": 7972988
+    }
+  ],
+  "meta": {
+    "title": "Polskie filmy z największą liczbą widzów - Free Download",
+    "description": "Polskie filmy z największą widownią w kinach w Polsce. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Polskie filmy z największą liczbą widzów | ListBase",
+    "seo_description": "Download Polskie filmy z największą liczbą widzów — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce"
+    ]
+  }
+}
