@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:27:59.596Z",
-  "total_datasets": 481,
-  "total_records": 1089845,
+  "generated": "2026-10-27T02:28:02.084Z",
+  "total_datasets": 482,
+  "total_records": 1089885,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -841,6 +841,33 @@
         "xlsx": {
           "name": "pl-gazowe-elektrownie_PL.xlsx",
           "size": 9685
+        }
+      }
+    },
+    {
+      "id": "pl-ministrowie-finansow",
+      "name": "Ministrowie finansów w Polsce",
+      "category": "finance",
+      "record_count": 40,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ministrowie_skarbu_i_ministrowie_finansów_Polski",
+      "updated": "2026-10",
+      "size": 11435,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-finansow_PL.csv",
+          "size": 3888
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-finansow_PL.xlsx",
+          "size": 8913
         }
       }
     },

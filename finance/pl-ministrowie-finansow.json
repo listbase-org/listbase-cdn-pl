@@ -1,0 +1,376 @@
+{
+  "id": "pl-ministrowie-finansow",
+  "name": "Ministrowie finansów w Polsce",
+  "title": "Ministrowie finansów w Polsce",
+  "description": "Ministrowie finansów III Rzeczypospolitej i PRL: daty urzędowania i rząd.",
+  "category": "finance",
+  "source": "https://pl.wikipedia.org/wiki/Ministrowie_skarbu_i_ministrowie_finansów_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Ministrowie_skarbu_i_ministrowie_finansów_Polski",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania",
+      "label": "Dlugosc Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Leszek Balcerowicz",
+      "objecie_urzedu": "12 IX 1989",
+      "zlozenie_urzedu": "23 XII 1991",
+      "dlugosc_urzedowania": "832 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Leszek Balcerowicz",
+      "objecie_urzedu": "12 IX 1989",
+      "zlozenie_urzedu": "23 XII 1991",
+      "dlugosc_urzedowania": "832 dni",
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Karol Lutkowski",
+      "objecie_urzedu": "23 XII 1991",
+      "zlozenie_urzedu": "28 II 1992",
+      "dlugosc_urzedowania": "67 dni",
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Andrzej Olechowski",
+      "objecie_urzedu": "28 II 1992",
+      "zlozenie_urzedu": "5 VI 1992",
+      "dlugosc_urzedowania": "98 dni",
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Jerzy Osiatyński ( UD )",
+      "objecie_urzedu": "11 VII 1992",
+      "zlozenie_urzedu": "26 X 1993",
+      "dlugosc_urzedowania": "472 dni",
+      "rzad": "Rząd Hanny Suchockiej"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Marek Borowski ( SdRP )",
+      "objecie_urzedu": "26 X 1993",
+      "zlozenie_urzedu": "8 II 1994",
+      "dlugosc_urzedowania": "105 dni",
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Grzegorz Kołodko",
+      "objecie_urzedu": "28 IV 1994",
+      "zlozenie_urzedu": "4 II 1997",
+      "dlugosc_urzedowania": "1013 dni",
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Grzegorz Kołodko",
+      "objecie_urzedu": "28 IV 1994",
+      "zlozenie_urzedu": "4 II 1997",
+      "dlugosc_urzedowania": "1013 dni",
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Grzegorz Kołodko",
+      "objecie_urzedu": "28 IV 1994",
+      "zlozenie_urzedu": "4 II 1997",
+      "dlugosc_urzedowania": "1013 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Marek Belka",
+      "objecie_urzedu": "4 II 1997",
+      "zlozenie_urzedu": "31 X 1997",
+      "dlugosc_urzedowania": "269 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Leszek Balcerowicz ( UW )",
+      "objecie_urzedu": "31 X 1997",
+      "zlozenie_urzedu": "8 VI 2000",
+      "dlugosc_urzedowania": "951 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Jarosław Bauc ( AWS )",
+      "objecie_urzedu": "12 VI 2000",
+      "zlozenie_urzedu": "28 VIII 2001",
+      "dlugosc_urzedowania": "442 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Halina Wasilewska-Trenkner",
+      "objecie_urzedu": "28 VIII 2001",
+      "zlozenie_urzedu": "19 X 2001",
+      "dlugosc_urzedowania": "52 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "(7.)",
+      "imie_i_nazwisko": "Marek Belka ( SLD )",
+      "objecie_urzedu": "19 X 2001",
+      "zlozenie_urzedu": "6 VII 2002",
+      "dlugosc_urzedowania": "260 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "(6.)",
+      "imie_i_nazwisko": "Grzegorz Kołodko",
+      "objecie_urzedu": "6 VII 2002",
+      "zlozenie_urzedu": "16 VI 2003",
+      "dlugosc_urzedowania": "345 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Andrzej Raczko",
+      "objecie_urzedu": "16 VI 2003",
+      "zlozenie_urzedu": "21 VII 2004",
+      "dlugosc_urzedowania": "401 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Andrzej Raczko",
+      "objecie_urzedu": "16 VI 2003",
+      "zlozenie_urzedu": "21 VII 2004",
+      "dlugosc_urzedowania": "401 dni",
+      "rzad": "Pierwszy rząd Marka Belki"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Andrzej Raczko",
+      "objecie_urzedu": "16 VI 2003",
+      "zlozenie_urzedu": "21 VII 2004",
+      "dlugosc_urzedowania": "401 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Mirosław Gronicki",
+      "objecie_urzedu": "21 VII 2004",
+      "zlozenie_urzedu": "31 X 2005",
+      "dlugosc_urzedowania": "467 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Teresa Lubińska",
+      "objecie_urzedu": "31 X 2005",
+      "zlozenie_urzedu": "7 I 2006",
+      "dlugosc_urzedowania": "68 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Zyta Gilowska",
+      "objecie_urzedu": "7 I 2006",
+      "zlozenie_urzedu": "24 VI 2006",
+      "dlugosc_urzedowania": "168 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Paweł Wojciechowski",
+      "objecie_urzedu": "24 VI 2006",
+      "zlozenie_urzedu": "14 VII 2006",
+      "dlugosc_urzedowania": "20 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Stanisław Kluza",
+      "objecie_urzedu": "14 VII 2006",
+      "zlozenie_urzedu": "22 IX 2006",
+      "dlugosc_urzedowania": "70 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Zyta Gilowska",
+      "objecie_urzedu": "22 IX 2006",
+      "zlozenie_urzedu": "7 IX 2007",
+      "dlugosc_urzedowania": "350 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Zyta Gilowska",
+      "objecie_urzedu": "10 IX 2007",
+      "zlozenie_urzedu": "16 XI 2007",
+      "dlugosc_urzedowania": "67 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Jan Vincent-Rostowski ( PO ) (ur. 1951)",
+      "objecie_urzedu": "16 XI 2007",
+      "zlozenie_urzedu": "27 XI 2013",
+      "dlugosc_urzedowania": "2203 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Jan Vincent-Rostowski ( PO ) (ur. 1951)",
+      "objecie_urzedu": "16 XI 2007",
+      "zlozenie_urzedu": "27 XI 2013",
+      "dlugosc_urzedowania": "2203 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Mateusz Szczurek",
+      "objecie_urzedu": "27 XI 2013",
+      "zlozenie_urzedu": "16 XI 2015",
+      "dlugosc_urzedowania": "719 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Mateusz Szczurek",
+      "objecie_urzedu": "27 XI 2013",
+      "zlozenie_urzedu": "16 XI 2015",
+      "dlugosc_urzedowania": "719 dni",
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Paweł Szałamacha",
+      "objecie_urzedu": "16 XI 2015",
+      "zlozenie_urzedu": "28 IX 2016",
+      "dlugosc_urzedowania": "317 dni",
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS ) (ur. 1968)",
+      "objecie_urzedu": "28 IX 2016",
+      "zlozenie_urzedu": "9 I 2018",
+      "dlugosc_urzedowania": "468 dni",
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS ) (ur. 1968)",
+      "objecie_urzedu": "28 IX 2016",
+      "zlozenie_urzedu": "9 I 2018",
+      "dlugosc_urzedowania": "468 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Teresa Czerwińska",
+      "objecie_urzedu": "9 I 2018",
+      "zlozenie_urzedu": "4 VI 2019",
+      "dlugosc_urzedowania": "511 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "21.",
+      "imie_i_nazwisko": "Marian Banaś",
+      "objecie_urzedu": "4 VI 2019",
+      "zlozenie_urzedu": "30 VIII 2019",
+      "dlugosc_urzedowania": "88 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "22.",
+      "imie_i_nazwisko": "Jerzy Kwieciński",
+      "objecie_urzedu": "20 IX 2019",
+      "zlozenie_urzedu": "15 XI 2019",
+      "dlugosc_urzedowania": "56 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "23.",
+      "imie_i_nazwisko": "Tadeusz Kościński",
+      "objecie_urzedu": "15 XI 2019",
+      "zlozenie_urzedu": "9 II 2022",
+      "dlugosc_urzedowania": "817 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "(19.)",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS )",
+      "objecie_urzedu": "10 II 2022",
+      "zlozenie_urzedu": "26 IV 2022",
+      "dlugosc_urzedowania": "75 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "24.",
+      "imie_i_nazwisko": "Magdalena Rzeczkowska",
+      "objecie_urzedu": "26 IV 2022",
+      "zlozenie_urzedu": "27 XI 2023",
+      "dlugosc_urzedowania": "580 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "25.",
+      "imie_i_nazwisko": "Andrzej Kosztowniak ( PiS ) (ur. 1976)",
+      "objecie_urzedu": "27 XI 2023",
+      "zlozenie_urzedu": "13 XII 2023",
+      "dlugosc_urzedowania": "16 dni",
+      "rzad": "Trzeci rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "26.",
+      "imie_i_nazwisko": "Andrzej Domański ( KO ) (ur. 1981)",
+      "objecie_urzedu": "13 XII 2023",
+      "zlozenie_urzedu": "nadal",
+      "dlugosc_urzedowania": "1049 dni",
+      "rzad": "Trzeci rząd Donalda Tuska"
+    }
+  ],
+  "meta": {
+    "title": "Ministrowie finansów w Polsce - Free Download",
+    "description": "Ministrowie finansów III Rzeczypospolitej i PRL: daty urzędowania i rząd. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministrowie finansów w Polsce | ListBase",
+    "seo_description": "Download Ministrowie finansów w Polsce — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Ministrowie_skarbu_i_ministrowie_finansów_Polski"
+    ]
+  }
+}
