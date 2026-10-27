@@ -1,0 +1,226 @@
+{
+  "id": "pl-najwieksze-przedsiebiorstwa-2012",
+  "name": "Największe polskie przedsiębiorstwa (2012)",
+  "title": "Największe polskie przedsiębiorstwa (2012)",
+  "description": "Największe przedsiębiorstwa w Polsce według przychodów ze sprzedaży w 2012 r. (tys. zł).",
+  "category": "economy",
+  "source": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "pozycja",
+      "label": "Pozycja",
+      "type": "number"
+    },
+    {
+      "key": "firma",
+      "label": "Firma",
+      "type": "string"
+    },
+    {
+      "key": "branza",
+      "label": "Branza",
+      "type": "string"
+    },
+    {
+      "key": "siedziba",
+      "label": "Siedziba",
+      "type": "string"
+    },
+    {
+      "key": "przychod_tys_zl",
+      "label": "Przychod Tys Zl",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pozycja": 1,
+      "firma": "Orlen",
+      "branza": "surowce i paliwa",
+      "siedziba": "Płock",
+      "przychod_tys_zl": 88348971
+    },
+    {
+      "pozycja": 2,
+      "firma": "Grupa Lotos",
+      "branza": "surowce i paliwa",
+      "siedziba": "Gdańsk",
+      "przychod_tys_zl": 33111000
+    },
+    {
+      "pozycja": 3,
+      "firma": "PGE Polska Grupa Energetyczna",
+      "branza": "energetyka",
+      "siedziba": "Lublin",
+      "przychod_tys_zl": 30556814
+    },
+    {
+      "pozycja": 4,
+      "firma": "Jeronimo Martins Dystrybucja SA",
+      "branza": "handel detaliczny",
+      "siedziba": "Kostrzyn",
+      "przychod_tys_zl": 28907849
+    },
+    {
+      "pozycja": 5,
+      "firma": "PGNiG",
+      "branza": "energetyka",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 28730000
+    },
+    {
+      "pozycja": 6,
+      "firma": "Tauron Polska Energia",
+      "branza": "energetyka",
+      "siedziba": "Katowice",
+      "przychod_tys_zl": 24741257
+    },
+    {
+      "pozycja": 7,
+      "firma": "KGHM",
+      "branza": "górnictwo",
+      "siedziba": "Lubin",
+      "przychod_tys_zl": 21337870
+    },
+    {
+      "pozycja": 8,
+      "firma": "Eurocash",
+      "branza": "handel",
+      "siedziba": "Komorniki",
+      "przychod_tys_zl": 16575781
+    },
+    {
+      "pozycja": 9,
+      "firma": "Metro Group Polska",
+      "branza": "handel",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 14960000
+    },
+    {
+      "pozycja": 10,
+      "firma": "Telekomunikacja Polska",
+      "branza": "telekomunikacja",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 14147000
+    },
+    {
+      "pozycja": 11,
+      "firma": "FCA Poland",
+      "branza": "motoryzacja",
+      "siedziba": "Bielsko-Biała",
+      "przychod_tys_zl": 14113720
+    },
+    {
+      "pozycja": 12,
+      "firma": "BP Polska",
+      "branza": "surowce i paliwa",
+      "siedziba": "Kraków",
+      "przychod_tys_zl": 13458535
+    },
+    {
+      "pozycja": 13,
+      "firma": "Energa",
+      "branza": "energetyka",
+      "siedziba": "Gdańsk",
+      "przychod_tys_zl": 11176799
+    },
+    {
+      "pozycja": 14,
+      "firma": "Kompania Węglowa",
+      "branza": "surowce i paliwa",
+      "siedziba": "Katowice",
+      "przychod_tys_zl": 10720643
+    },
+    {
+      "pozycja": 15,
+      "firma": "Enea",
+      "branza": "energetyka",
+      "siedziba": "Poznań",
+      "przychod_tys_zl": 10096032
+    },
+    {
+      "pozycja": 16,
+      "firma": "Philip Morris",
+      "branza": "przemysł spożywczy",
+      "siedziba": "Kraków",
+      "przychod_tys_zl": 9505821
+    },
+    {
+      "pozycja": 17,
+      "firma": "Volkswagen Poznań",
+      "branza": "motoryzacja",
+      "siedziba": "Poznań",
+      "przychod_tys_zl": 9141283
+    },
+    {
+      "pozycja": 18,
+      "firma": "Orlen Paliwa Sp. z o.o.",
+      "branza": "surowce i paliwa",
+      "siedziba": "Płock",
+      "przychod_tys_zl": 9033353
+    },
+    {
+      "pozycja": 19,
+      "firma": "Jastrzębska Spółka Węglowa",
+      "branza": "surowce i paliwa",
+      "siedziba": "Jastrzębie-Zdrój",
+      "przychod_tys_zl": 8820956
+    },
+    {
+      "pozycja": 20,
+      "firma": "Lidl",
+      "branza": "handel",
+      "siedziba": "Jankowice",
+      "przychod_tys_zl": 8500000
+    },
+    {
+      "pozycja": 21,
+      "firma": "Lasy Państwowe",
+      "branza": "gospodarka leśna",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 7835542
+    },
+    {
+      "pozycja": 22,
+      "firma": "Carrefour",
+      "branza": "handel",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 7570665
+    },
+    {
+      "pozycja": 23,
+      "firma": "Shell",
+      "branza": "surowce i paliwa",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 7416979
+    },
+    {
+      "pozycja": 24,
+      "firma": "GK Polkomtel",
+      "branza": "telekomunikacja",
+      "siedziba": "Warszawa",
+      "przychod_tys_zl": 7113000
+    },
+    {
+      "pozycja": 25,
+      "firma": "Grupa Azoty",
+      "branza": "przemysł chemiczny",
+      "siedziba": "Tarnów",
+      "przychod_tys_zl": 7098735
+    }
+  ],
+  "meta": {
+    "title": "Największe polskie przedsiębiorstwa (2012) - Free Download",
+    "description": "Największe przedsiębiorstwa w Polsce według przychodów ze sprzedaży w 2012 r. (tys. zł). Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Największe polskie przedsiębiorstwa (2012) | ListBase",
+    "seo_description": "Download Największe polskie przedsiębiorstwa (2012) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Gospodarka_Polski"
+    ]
+  }
+}

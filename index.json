@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:12.281Z",
-  "total_datasets": 486,
-  "total_records": 1090120,
+  "generated": "2026-10-27T02:28:14.777Z",
+  "total_datasets": 487,
+  "total_records": 1090145,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 4
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -232,6 +236,32 @@
         "xlsx": {
           "name": "pl-sklepy-z-artykulami-plastycznymi_PL.xlsx",
           "size": 15788
+        }
+      }
+    },
+    {
+      "id": "pl-najwieksze-przedsiebiorstwa-2012",
+      "name": "Największe polskie przedsiębiorstwa (2012)",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "pozycja",
+        "firma",
+        "branza",
+        "siedziba",
+        "przychod_tys_zl"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+      "updated": "2026-10",
+      "size": 5719,
+      "files": {
+        "csv": {
+          "name": "pl-najwieksze-przedsiebiorstwa-2012_PL.csv",
+          "size": 1527
+        },
+        "xlsx": {
+          "name": "pl-najwieksze-przedsiebiorstwa-2012_PL.xlsx",
+          "size": 7926
         }
       }
     },
