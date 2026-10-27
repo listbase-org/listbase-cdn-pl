@@ -1,0 +1,356 @@
+{
+  "id": "pl-eurowizja",
+  "name": "Polska w Konkursie Piosenki Eurowizji",
+  "title": "Polska w Konkursie Piosenki Eurowizji",
+  "description": "Reprezentanci Polski w Konkursie Piosenki Eurowizji od 1994 r.: wykonawca, piosenka, język i wyniki.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Polska_w_Konkursie_Piosenki_Eurowizji",
+  "source_url": "https://pl.wikipedia.org/wiki/Polska_w_Konkursie_Piosenki_Eurowizji",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "wykonawca",
+      "label": "Wykonawca",
+      "type": "string"
+    },
+    {
+      "key": "piosenka",
+      "label": "Piosenka",
+      "type": "string"
+    },
+    {
+      "key": "jezyk",
+      "label": "Jezyk",
+      "type": "string"
+    },
+    {
+      "key": "final_miejsce",
+      "label": "Final Miejsce",
+      "type": "number"
+    },
+    {
+      "key": "final_punkty",
+      "label": "Final Punkty",
+      "type": "number"
+    },
+    {
+      "key": "polfinal_miejsce",
+      "label": "Polfinal Miejsce",
+      "type": "string"
+    },
+    {
+      "key": "polfinal_punkty",
+      "label": "Polfinal Punkty",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1994,
+      "wykonawca": "Edyta Górniak",
+      "piosenka": "„ To nie ja! ”",
+      "jezyk": "polski",
+      "final_miejsce": 2,
+      "final_punkty": 166,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 1995,
+      "wykonawca": "Justyna Steczkowska",
+      "piosenka": "„ Sama ”",
+      "jezyk": "polski",
+      "final_miejsce": 18,
+      "final_punkty": 15,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 1996,
+      "wykonawca": "Kasia Kowalska",
+      "piosenka": "„ Chcę znać swój grzech... ”",
+      "jezyk": "polski",
+      "final_miejsce": 15,
+      "final_punkty": 31,
+      "polfinal_miejsce": 15,
+      "polfinal_punkty": 42
+    },
+    {
+      "rok": 1997,
+      "wykonawca": "Anna Maria Jopek",
+      "piosenka": "„ Ale jestem ”",
+      "jezyk": "polski",
+      "final_miejsce": 11,
+      "final_punkty": 54,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 1998,
+      "wykonawca": "Sixteen",
+      "piosenka": "„ To takie proste ”",
+      "jezyk": "polski",
+      "final_miejsce": 17,
+      "final_punkty": 19,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 1999,
+      "wykonawca": "Mietek Szcześniak",
+      "piosenka": "„ Przytul mnie mocno ”",
+      "jezyk": "polski",
+      "final_miejsce": 18,
+      "final_punkty": 17,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 2001,
+      "wykonawca": "Andrzej Piaseczny",
+      "piosenka": "„ 2 Long ”",
+      "jezyk": "angielski",
+      "final_miejsce": 20,
+      "final_punkty": 11,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 2003,
+      "wykonawca": "Ich Troje",
+      "piosenka": "„ Keine Grenzen – Żadnych granic ”",
+      "jezyk": "polski, niemiecki , rosyjski",
+      "final_miejsce": 7,
+      "final_punkty": 90,
+      "polfinal_miejsce": "Brak rundy półfinałowej",
+      "polfinal_punkty": "Brak rundy półfinałowej"
+    },
+    {
+      "rok": 2004,
+      "wykonawca": "Blue Café",
+      "piosenka": "„ Love Song ”",
+      "jezyk": "angielski, hiszpański",
+      "final_miejsce": 17,
+      "final_punkty": 27,
+      "polfinal_miejsce": "Top 11",
+      "polfinal_punkty": "Top 11"
+    },
+    {
+      "rok": 2005,
+      "wykonawca": "Ivan i Delfin",
+      "piosenka": "„ Czarna dziewczyna ”",
+      "jezyk": "polski, rosyjski, ukraiński",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 11,
+      "polfinal_punkty": 81
+    },
+    {
+      "rok": 2006,
+      "wykonawca": "Ich Troje feat. Real McCoy",
+      "piosenka": "„ Follow My Heart ”",
+      "jezyk": "polski, angielski, niemiecki, rosyjski, hiszpański, migowy",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 11,
+      "polfinal_punkty": 70
+    },
+    {
+      "rok": 2007,
+      "wykonawca": "The Jet Set",
+      "piosenka": "„ Time to Party ”",
+      "jezyk": "angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 14,
+      "polfinal_punkty": 75
+    },
+    {
+      "rok": 2008,
+      "wykonawca": "Isis Gee",
+      "piosenka": "„ For Life ”",
+      "jezyk": "angielski",
+      "final_miejsce": 24,
+      "final_punkty": 14,
+      "polfinal_miejsce": 10,
+      "polfinal_punkty": 42
+    },
+    {
+      "rok": 2009,
+      "wykonawca": "Lidia Kopania",
+      "piosenka": "„ I Don’t Wanna Leave ”",
+      "jezyk": "angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 12,
+      "polfinal_punkty": 43
+    },
+    {
+      "rok": 2010,
+      "wykonawca": "Marcin Mroziński",
+      "piosenka": "„ Legenda ”",
+      "jezyk": "polski , angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 13,
+      "polfinal_punkty": 44
+    },
+    {
+      "rok": 2011,
+      "wykonawca": "Magdalena Tul",
+      "piosenka": "„ Jestem ”",
+      "jezyk": "polski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 19,
+      "polfinal_punkty": 18
+    },
+    {
+      "rok": 2014,
+      "wykonawca": "Donatan i Cleo",
+      "piosenka": "„ My Słowianie – We Are Slavic ”",
+      "jezyk": "polski , angielski",
+      "final_miejsce": 14,
+      "final_punkty": 62,
+      "polfinal_miejsce": 8,
+      "polfinal_punkty": 70
+    },
+    {
+      "rok": 2015,
+      "wykonawca": "Monika Kuszyńska",
+      "piosenka": "„ In the Name of Love ”",
+      "jezyk": "angielski",
+      "final_miejsce": 23,
+      "final_punkty": 10,
+      "polfinal_miejsce": 8,
+      "polfinal_punkty": 57
+    },
+    {
+      "rok": 2016,
+      "wykonawca": "Michał Szpak",
+      "piosenka": "„ Color of Your Life ”",
+      "jezyk": "angielski",
+      "final_miejsce": 8,
+      "final_punkty": 229,
+      "polfinal_miejsce": 6,
+      "polfinal_punkty": 151
+    },
+    {
+      "rok": 2017,
+      "wykonawca": "Kasia Moś",
+      "piosenka": "„ Flashlight ”",
+      "jezyk": "angielski",
+      "final_miejsce": 22,
+      "final_punkty": 64,
+      "polfinal_miejsce": 9,
+      "polfinal_punkty": 119
+    },
+    {
+      "rok": 2018,
+      "wykonawca": "Gromee feat. Lukas Meijer",
+      "piosenka": "„ Light Me Up ”",
+      "jezyk": "angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 14,
+      "polfinal_punkty": 81
+    },
+    {
+      "rok": 2019,
+      "wykonawca": "Tulia",
+      "piosenka": "„ Fire of Love (Pali się) ”",
+      "jezyk": "polski , angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 11,
+      "polfinal_punkty": 120
+    },
+    {
+      "rok": 2020,
+      "wykonawca": "Alicja Szemplińska",
+      "piosenka": "„ Empires ”",
+      "jezyk": "angielski",
+      "final_miejsce": "Konkurs odwołany",
+      "final_punkty": "Konkurs odwołany",
+      "polfinal_miejsce": "Konkurs odwołany",
+      "polfinal_punkty": "Konkurs odwołany"
+    },
+    {
+      "rok": 2021,
+      "wykonawca": "Rafał Brzozowski",
+      "piosenka": "„ The Ride ”",
+      "jezyk": "angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 14,
+      "polfinal_punkty": 35
+    },
+    {
+      "rok": 2022,
+      "wykonawca": "Krystian Ochman",
+      "piosenka": "„ River ”",
+      "jezyk": "angielski",
+      "final_miejsce": 12,
+      "final_punkty": 151,
+      "polfinal_miejsce": 6,
+      "polfinal_punkty": 198
+    },
+    {
+      "rok": 2023,
+      "wykonawca": "Blanka Stajkow",
+      "piosenka": "„ Solo ”",
+      "jezyk": "angielski",
+      "final_miejsce": 19,
+      "final_punkty": 93,
+      "polfinal_miejsce": 3,
+      "polfinal_punkty": 124
+    },
+    {
+      "rok": 2024,
+      "wykonawca": "Luna",
+      "piosenka": "„ The Tower ”",
+      "jezyk": "angielski",
+      "final_miejsce": "–",
+      "final_punkty": "–",
+      "polfinal_miejsce": 12,
+      "polfinal_punkty": 35
+    },
+    {
+      "rok": 2025,
+      "wykonawca": "Justyna Steczkowska",
+      "piosenka": "„ Gaja ”",
+      "jezyk": "polski , angielski",
+      "final_miejsce": 14,
+      "final_punkty": 156,
+      "polfinal_miejsce": 7,
+      "polfinal_punkty": 85
+    },
+    {
+      "rok": 2026,
+      "wykonawca": "Alicja Szemplińska",
+      "piosenka": "„ Pray ”",
+      "jezyk": "angielski",
+      "final_miejsce": 12,
+      "final_punkty": 150,
+      "polfinal_miejsce": 2,
+      "polfinal_punkty": 247
+    }
+  ],
+  "meta": {
+    "title": "Polska w Konkursie Piosenki Eurowizji - Free Download",
+    "description": "Reprezentanci Polski w Konkursie Piosenki Eurowizji od 1994 r.: wykonawca, piosenka, język i wyniki. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Polska w Konkursie Piosenki Eurowizji | ListBase",
+    "seo_description": "Download Polska w Konkursie Piosenki Eurowizji — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Polska_w_Konkursie_Piosenki_Eurowizji"
+    ]
+  }
+}
