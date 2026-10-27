@@ -1,0 +1,1776 @@
+{
+  "id": "pl-premierzy",
+  "name": "Premierzy Polski",
+  "title": "Premierzy Polski",
+  "description": "Lista premierów Polski (prezesów Rady Ministrów) od Księstwa Warszawskiego do dziś: daty urzędowania, rząd i głowa państwa.",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Premierzy_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Premierzy_Polski",
+  "updated": "2026-10",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania",
+      "label": "Dlugosc Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    },
+    {
+      "key": "kadencja_sejmu",
+      "label": "Kadencja Sejmu",
+      "type": "string"
+    },
+    {
+      "key": "glowa_panstwa",
+      "label": "Glowa Panstwa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Stanisław Małachowski (1736–1809)",
+      "objecie_urzedu": "3 października 1807",
+      "zlozenie_urzedu": "14 grudnia 1807",
+      "dlugosc_urzedowania": "72 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Fryderyk August III Wettyn"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Ludwik Szymon Gutakowski (1738–1811)",
+      "objecie_urzedu": "14 grudnia 1807",
+      "zlozenie_urzedu": "23 marca 1809",
+      "dlugosc_urzedowania": "465 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Fryderyk August III Wettyn"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Stanisław Kostka Potocki (1755–1821)",
+      "objecie_urzedu": "23 marca 1809",
+      "zlozenie_urzedu": "16 czerwca 1815 (faktycznie maj 1813)",
+      "dlugosc_urzedowania": "2276 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Fryderyk August III Wettyn"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Adam Jerzy Czartoryski (1770–1861) Wiceprezes Rządu Tymczasowego",
+      "objecie_urzedu": "16 czerwca 1815",
+      "zlozenie_urzedu": "24 grudnia 1815",
+      "dlugosc_urzedowania": "191 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Aleksander I (II)"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Józef Zajączek (1752–1826) z urzędu jako namiestnik króla",
+      "objecie_urzedu": "25 grudnia 1815",
+      "zlozenie_urzedu": "28 lipca 1826",
+      "dlugosc_urzedowania": "3868 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Aleksander I (II)"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Walenty Faustyn Sobolewski (1765–1831)",
+      "objecie_urzedu": "28 lipca 1826",
+      "zlozenie_urzedu": "3 grudnia 1830",
+      "dlugosc_urzedowania": "1589 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Mikołaj"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Adam Jerzy Czartoryski (1770–1861)",
+      "objecie_urzedu": "3 grudnia 1830",
+      "zlozenie_urzedu": "17 sierpnia 1831",
+      "dlugosc_urzedowania": "257 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Józef Chłopicki (1771–1854) dyktator",
+      "objecie_urzedu": "5 grudnia 1830",
+      "zlozenie_urzedu": "17 stycznia 1831",
+      "dlugosc_urzedowania": "43 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Jan Krukowiecki (1772–1850)",
+      "objecie_urzedu": "17 sierpnia 1831",
+      "zlozenie_urzedu": "7 września 1831",
+      "dlugosc_urzedowania": "21 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Bonawentura Niemojowski (1787–1835)",
+      "objecie_urzedu": "8 września 1831",
+      "zlozenie_urzedu": "23 września 1831",
+      "dlugosc_urzedowania": "17 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Jan Nepomucen Umiński (1778–1851)",
+      "objecie_urzedu": "23 września 1831",
+      "zlozenie_urzedu": "23 września 1831",
+      "dlugosc_urzedowania": "kilka godzin",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Maciej Rybiński (1784–1874)",
+      "objecie_urzedu": "25 września 1831",
+      "zlozenie_urzedu": "9 października 1831",
+      "dlugosc_urzedowania": "14 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Jan Tyssowski , członek triumwiratu Rządu Narodowego Rzeczypospolitej Polskiej",
+      "objecie_urzedu": "22 lutego 1846",
+      "zlozenie_urzedu": "24 lutego 1846",
+      "dlugosc_urzedowania": "2 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Ludwik Gorzkowski , członek triumwiratu Rządu Narodowego Rzeczypospolitej Polskiej",
+      "objecie_urzedu": "22 lutego 1846",
+      "zlozenie_urzedu": "24 lutego 1846",
+      "dlugosc_urzedowania": "2 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Aleksander Grzegorzewski , członek triumwiratu Rządu Narodowego Rzeczypospolitej Polskiej",
+      "objecie_urzedu": "22 lutego 1846",
+      "zlozenie_urzedu": "24 lutego 1846",
+      "dlugosc_urzedowania": "2 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Jan Tyssowski , dyktator",
+      "objecie_urzedu": "24 lutego 1846",
+      "zlozenie_urzedu": "3 marca 1846",
+      "dlugosc_urzedowania": "7 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Gustaw Potworowski",
+      "objecie_urzedu": "20 marca 1848",
+      "zlozenie_urzedu": "9 maja 1848",
+      "dlugosc_urzedowania": "50 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Stefan Bobrowski , przewodniczący Komisji Wykonawczej (Tymczasowego) Rządu Narodowego",
+      "objecie_urzedu": "21 stycznia 1863",
+      "zlozenie_urzedu": "17 lutego 1863",
+      "dlugosc_urzedowania": "27 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Ludwik Mierosławski , dyktator",
+      "objecie_urzedu": "17 lutego 1863",
+      "zlozenie_urzedu": "11 marca 1863",
+      "dlugosc_urzedowania": "22 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Marian Langiewicz , dyktator",
+      "objecie_urzedu": "11 marca 1863",
+      "zlozenie_urzedu": "18 marca 1863",
+      "dlugosc_urzedowania": "7 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Stefan Bobrowski , przewodniczący Tymczasowego Rządu Narodowego",
+      "objecie_urzedu": "21 marca 1863",
+      "zlozenie_urzedu": "12 kwietnia 1863",
+      "dlugosc_urzedowania": "22 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Agaton Giller , przewodniczący Tymczasowego Rządu Narodowego (od 10 maja 1863 przewodniczący Rządu Narodowego)",
+      "objecie_urzedu": "12 kwietnia 1863",
+      "zlozenie_urzedu": "23 maja 1863",
+      "dlugosc_urzedowania": "41 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Franciszek Dobrowolski , przewodniczący Rządu Narodowego",
+      "objecie_urzedu": "23 maja 1863",
+      "zlozenie_urzedu": "9 czerwca 1863",
+      "dlugosc_urzedowania": "17 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Piotr Kobylański , przewodniczący Rządu Narodowego",
+      "objecie_urzedu": "9 czerwca 1863",
+      "zlozenie_urzedu": "10 czerwca 1863",
+      "dlugosc_urzedowania": "1 dzień",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Karol Majewski , przewodniczący Rządu Narodowego",
+      "objecie_urzedu": "14 czerwca 1863",
+      "zlozenie_urzedu": "17 września 1863",
+      "dlugosc_urzedowania": "95 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Franciszek Dobrowolski , przewodniczący Rządu Narodowego",
+      "objecie_urzedu": "17 września 1863",
+      "zlozenie_urzedu": "17 października 1863",
+      "dlugosc_urzedowania": "30 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Romuald Traugutt , dyktator Rządu Narodowego",
+      "objecie_urzedu": "17 października 1863",
+      "zlozenie_urzedu": "10 kwietnia 1864",
+      "dlugosc_urzedowania": "176 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Bronisław Brzeziński , przewodniczący Rządu Narodowego",
+      "objecie_urzedu": "20 kwietnia 1864",
+      "zlozenie_urzedu": "październik 1864",
+      "dlugosc_urzedowania": "bd.",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Józef Mikułowski-Pomorski przewodniczący Komisji Przejściowej, pełniący obowiązki marszałka koronnego",
+      "objecie_urzedu": "30 sierpnia 1917",
+      "zlozenie_urzedu": "13 grudnia 1917",
+      "dlugosc_urzedowania": "105 dni",
+      "rzad": "Komisja Przejściowa",
+      "kadencja_sejmu": "stan przed zwołaniem Rady Stanu",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Jan Kucharzewski ( dwukrotnie )",
+      "objecie_urzedu": "26 listopada 1917",
+      "zlozenie_urzedu": "27 lutego 1918",
+      "dlugosc_urzedowania": "93 dni",
+      "rzad": "rząd Jana Kucharzewskiego",
+      "kadencja_sejmu": "stan przed zwołaniem Rady Stanu",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Jan Kucharzewski ( dwukrotnie )",
+      "objecie_urzedu": "2 października 1918",
+      "zlozenie_urzedu": "9 października 1918",
+      "dlugosc_urzedowania": "7 dni",
+      "rzad": "rząd Jana Kucharzewskiego",
+      "kadencja_sejmu": "stan przed zwołaniem Rady Stanu",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Antoni Ponikowski kierownik ministrów",
+      "objecie_urzedu": "27 lutego 1918",
+      "zlozenie_urzedu": "4 kwietnia 1918",
+      "dlugosc_urzedowania": "36 dni",
+      "rzad": "prowizorium rządowe Antoniego Ponikowskiego",
+      "kadencja_sejmu": "stan przed zwołaniem Rady Stanu",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Jan Kanty Steczkowski",
+      "objecie_urzedu": "4 kwietnia 1918",
+      "zlozenie_urzedu": "2 października 1918",
+      "dlugosc_urzedowania": "181 dni",
+      "rzad": "rząd Jana Kantego Steczkowskiego",
+      "kadencja_sejmu": "Rada Stanu – stan przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Bohdan Broniewski pełniący obowiązki",
+      "objecie_urzedu": "10 października 1918",
+      "zlozenie_urzedu": "23 października 1918",
+      "dlugosc_urzedowania": "13 dni",
+      "rzad": "rząd Jana Kantego Steczkowskiego",
+      "kadencja_sejmu": "Rada Stanu – stan przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Józef Świeżyński",
+      "objecie_urzedu": "23 października 1918",
+      "zlozenie_urzedu": "3 listopada 1918",
+      "dlugosc_urzedowania": "11 dni",
+      "rzad": "rząd Józefa Świeżyńskiego",
+      "kadencja_sejmu": "Rada Stanu – stan przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Władysław Wróblewski kierownik ministrów",
+      "objecie_urzedu": "3 listopada 1918",
+      "zlozenie_urzedu": "14 listopada 1918",
+      "dlugosc_urzedowania": "11 dni",
+      "rzad": "prowizorium rządowe Władysława Wróblewskiego",
+      "kadencja_sejmu": "Rada Stanu – stan przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rada Regencyjna"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Ignacy Daszyński",
+      "objecie_urzedu": "7 listopada 1918",
+      "zlozenie_urzedu": "11 listopada 1918",
+      "dlugosc_urzedowania": "4 dni",
+      "rzad": "Tymczasowy Rząd Ludowy Republiki Polskiej",
+      "kadencja_sejmu": "przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rząd utworzony w opozycji do Rady Regencyjnej. Od 14 listopada 1918 r. władzę zwierzchnią sprawował Naczelny Dowódca Wojska Polskiego Józef Piłsudski."
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Stanisław Thugutt zastępował premiera w Lublinie, od 12 listopada w stanie dymisji rządu",
+      "objecie_urzedu": "11 listopada 1918",
+      "zlozenie_urzedu": "17 listopada 1918",
+      "dlugosc_urzedowania": "6 dni",
+      "rzad": "Tymczasowy Rząd Ludowy Republiki Polskiej",
+      "kadencja_sejmu": "przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Rząd utworzony w opozycji do Rady Regencyjnej. Od 14 listopada 1918 r. władzę zwierzchnią sprawował Naczelny Dowódca Wojska Polskiego Józef Piłsudski."
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Ignacy Daszyński",
+      "objecie_urzedu": "14 listopada 1918",
+      "zlozenie_urzedu": "17 listopada 1918",
+      "dlugosc_urzedowania": "3 dni",
+      "rzad": "Rząd Ignacego Daszyńskiego",
+      "kadencja_sejmu": "przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Jędrzej Moraczewski",
+      "objecie_urzedu": "17 listopada 1918",
+      "zlozenie_urzedu": "16 stycznia 1919",
+      "dlugosc_urzedowania": "60 dni",
+      "rzad": "Rząd Jędrzeja Moraczewskiego",
+      "kadencja_sejmu": "przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Ignacy Jan Paderewski",
+      "objecie_urzedu": "16 stycznia 1919",
+      "zlozenie_urzedu": "9 grudnia 1919",
+      "dlugosc_urzedowania": "325 dni",
+      "rzad": "Rząd Ignacego Jana Paderewskiego",
+      "kadencja_sejmu": "przed zwołaniem Sejmu Ustawodawczego",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Ignacy Jan Paderewski",
+      "objecie_urzedu": "16 stycznia 1919",
+      "zlozenie_urzedu": "9 grudnia 1919",
+      "dlugosc_urzedowania": "325 dni",
+      "rzad": "Rząd Ignacego Jana Paderewskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Leopold Skulski",
+      "objecie_urzedu": "13 grudnia 1919",
+      "zlozenie_urzedu": "9 czerwca 1920",
+      "dlugosc_urzedowania": "179 dni",
+      "rzad": "Rząd Leopolda Skulskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Wincenty Witos Nie utworzył rządu",
+      "objecie_urzedu": "10 czerwca 1920",
+      "zlozenie_urzedu": "23 czerwca 1920",
+      "dlugosc_urzedowania": "13 dni",
+      "rzad": "–",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Władysław Grabski",
+      "objecie_urzedu": "27 czerwca 1920",
+      "zlozenie_urzedu": "24 lipca 1920",
+      "dlugosc_urzedowania": "27 dni",
+      "rzad": "Pierwszy rząd Władysława Grabskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Wincenty Witos",
+      "objecie_urzedu": "24 lipca 1920",
+      "zlozenie_urzedu": "13 września 1921",
+      "dlugosc_urzedowania": "416 dni",
+      "rzad": "Pierwszy rząd Wincentego Witosa",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Antoni Ponikowski ( dwukrotnie )",
+      "objecie_urzedu": "19 września 1921",
+      "zlozenie_urzedu": "5 marca 1922",
+      "dlugosc_urzedowania": "167 dni",
+      "rzad": "Pierwszy rząd Antoniego Ponikowskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Antoni Ponikowski ( dwukrotnie )",
+      "objecie_urzedu": "10 marca 1922",
+      "zlozenie_urzedu": "6 czerwca 1922",
+      "dlugosc_urzedowania": "88 dni",
+      "rzad": "Drugi rząd Antoniego Ponikowskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Artur Śliwiński",
+      "objecie_urzedu": "28 czerwca 1922",
+      "zlozenie_urzedu": "7 lipca 1922",
+      "dlugosc_urzedowania": "9 dni",
+      "rzad": "Rząd Artura Śliwińskiego",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Julian Nowak",
+      "objecie_urzedu": "31 lipca 1922",
+      "zlozenie_urzedu": "14 grudnia 1922",
+      "dlugosc_urzedowania": "136 dni",
+      "rzad": "Rząd Juliana Nowaka",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Julian Nowak",
+      "objecie_urzedu": "31 lipca 1922",
+      "zlozenie_urzedu": "14 grudnia 1922",
+      "dlugosc_urzedowania": "136 dni",
+      "rzad": "Rząd Juliana Nowaka",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Józef Piłsudski"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Julian Nowak",
+      "objecie_urzedu": "31 lipca 1922",
+      "zlozenie_urzedu": "14 grudnia 1922",
+      "dlugosc_urzedowania": "136 dni",
+      "rzad": "Rząd Juliana Nowaka",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Gabriel Narutowicz"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Władysław Sikorski",
+      "objecie_urzedu": "16 grudnia 1922",
+      "zlozenie_urzedu": "26 maja 1923",
+      "dlugosc_urzedowania": "161 dni",
+      "rzad": "Pierwszy rząd Władysława Sikorskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Maciej Rataj ( p.o. )"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Władysław Sikorski",
+      "objecie_urzedu": "16 grudnia 1922",
+      "zlozenie_urzedu": "26 maja 1923",
+      "dlugosc_urzedowania": "161 dni",
+      "rzad": "Pierwszy rząd Władysława Sikorskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Stanisław Wojciechowski"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Wincenty Witos Ponownie",
+      "objecie_urzedu": "28 maja 1923",
+      "zlozenie_urzedu": "14 grudnia 1923",
+      "dlugosc_urzedowania": "200 dni",
+      "rzad": "Drugi rząd Wincentego Witosa",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Stanisław Wojciechowski"
+    },
+    {
+      "lp": "(6.)",
+      "imie_i_nazwisko": "Władysław Grabski Ponownie",
+      "objecie_urzedu": "19 grudnia 1923",
+      "zlozenie_urzedu": "14 listopada 1925",
+      "dlugosc_urzedowania": "696 dni",
+      "rzad": "Drugi rząd Władysława Grabskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Stanisław Wojciechowski"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Aleksander Skrzyński",
+      "objecie_urzedu": "20 listopada 1925",
+      "zlozenie_urzedu": "5 maja 1926",
+      "dlugosc_urzedowania": "166 dni",
+      "rzad": "Rząd Aleksandra Skrzyńskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Stanisław Wojciechowski"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Wincenty Witos Ponownie",
+      "objecie_urzedu": "10 maja 1926",
+      "zlozenie_urzedu": "14 maja 1926",
+      "dlugosc_urzedowania": "4 dni",
+      "rzad": "Trzeci rząd Wincentego Witosa",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Stanisław Wojciechowski"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Kazimierz Bartel ( trzykrotnie )",
+      "objecie_urzedu": "15 maja 1926",
+      "zlozenie_urzedu": "4 czerwca 1926",
+      "dlugosc_urzedowania": "20 dni",
+      "rzad": "Pierwszy rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Maciej Rataj ( p.o. )"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Kazimierz Bartel ( trzykrotnie )",
+      "objecie_urzedu": "15 maja 1926",
+      "zlozenie_urzedu": "4 czerwca 1926",
+      "dlugosc_urzedowania": "20 dni",
+      "rzad": "Pierwszy rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Kazimierz Bartel ( trzykrotnie )",
+      "objecie_urzedu": "8 czerwca 1926",
+      "zlozenie_urzedu": "24 września 1926",
+      "dlugosc_urzedowania": "108 dni",
+      "rzad": "Drugi rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Kazimierz Bartel ( trzykrotnie )",
+      "objecie_urzedu": "27 września 1926",
+      "zlozenie_urzedu": "30 września 1926",
+      "dlugosc_urzedowania": "3 dni",
+      "rzad": "Trzeci rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Józef Piłsudski",
+      "objecie_urzedu": "2 października 1926",
+      "zlozenie_urzedu": "27 czerwca 1928",
+      "dlugosc_urzedowania": "634 dni",
+      "rzad": "Pierwszy rząd Józefa Piłsudskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Józef Piłsudski",
+      "objecie_urzedu": "2 października 1926",
+      "zlozenie_urzedu": "27 czerwca 1928",
+      "dlugosc_urzedowania": "634 dni",
+      "rzad": "Pierwszy rząd Józefa Piłsudskiego",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(12.)",
+      "imie_i_nazwisko": "Kazimierz Bartel Ponownie",
+      "objecie_urzedu": "27 czerwca 1928",
+      "zlozenie_urzedu": "13 kwietnia 1929",
+      "dlugosc_urzedowania": "290 dni",
+      "rzad": "Czwarty rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Kazimierz Świtalski",
+      "objecie_urzedu": "14 kwietnia 1929",
+      "zlozenie_urzedu": "7 grudnia 1929",
+      "dlugosc_urzedowania": "237 dni",
+      "rzad": "Rząd Kazimierza Świtalskiego",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(12.)",
+      "imie_i_nazwisko": "Kazimierz Bartel Ponownie",
+      "objecie_urzedu": "29 grudnia 1929",
+      "zlozenie_urzedu": "15 marca 1930",
+      "dlugosc_urzedowania": "76 dni",
+      "rzad": "Piąty rząd Kazimierza Bartla",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Walery Sławek",
+      "objecie_urzedu": "29 marca 1930",
+      "zlozenie_urzedu": "23 sierpnia 1930",
+      "dlugosc_urzedowania": "147 dni",
+      "rzad": "Pierwszy rząd Walerego Sławka",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Józef Piłsudski Ponownie",
+      "objecie_urzedu": "25 sierpnia 1930",
+      "zlozenie_urzedu": "4 grudnia 1930",
+      "dlugosc_urzedowania": "101 dni",
+      "rzad": "Drugi rząd Józefa Piłsudskiego",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Józef Piłsudski Ponownie",
+      "objecie_urzedu": "25 sierpnia 1930",
+      "zlozenie_urzedu": "4 grudnia 1930",
+      "dlugosc_urzedowania": "101 dni",
+      "rzad": "Drugi rząd Józefa Piłsudskiego",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(15.)",
+      "imie_i_nazwisko": "Walery Sławek Ponownie",
+      "objecie_urzedu": "4 grudnia 1930",
+      "zlozenie_urzedu": "26 maja 1931",
+      "dlugosc_urzedowania": "173 dni",
+      "rzad": "Drugi rząd Walerego Sławka",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Aleksander Prystor",
+      "objecie_urzedu": "27 maja 1931",
+      "zlozenie_urzedu": "9 maja 1933",
+      "dlugosc_urzedowania": "713 dni",
+      "rzad": "Rząd Aleksandra Prystora",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Janusz Jędrzejewicz",
+      "objecie_urzedu": "10 maja 1933",
+      "zlozenie_urzedu": "13 maja 1934",
+      "dlugosc_urzedowania": "368 dni",
+      "rzad": "Rząd Janusza Jędrzejewicza",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Leon Kozłowski",
+      "objecie_urzedu": "15 maja 1934",
+      "zlozenie_urzedu": "28 marca 1935",
+      "dlugosc_urzedowania": "317 dni",
+      "rzad": "Rząd Leona Kozłowskiego",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "(15.)",
+      "imie_i_nazwisko": "Walery Sławek Ponownie",
+      "objecie_urzedu": "28 marca 1935",
+      "zlozenie_urzedu": "12 października 1935",
+      "dlugosc_urzedowania": "198 dni",
+      "rzad": "Trzeci rząd Walerego Sławka",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Marian Zyndram-Kościałkowski",
+      "objecie_urzedu": "13 października 1935",
+      "zlozenie_urzedu": "15 maja 1936",
+      "dlugosc_urzedowania": "215 dni",
+      "rzad": "Rząd Mariana Zyndrama-Kościałkowskiego",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Felicjan Sławoj Składkowski",
+      "objecie_urzedu": "15 maja 1936",
+      "zlozenie_urzedu": "30 września 1939",
+      "dlugosc_urzedowania": "1233 dni",
+      "rzad": "Rząd Felicjana Sławoja Składkowskiego",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Felicjan Sławoj Składkowski",
+      "objecie_urzedu": "15 maja 1936",
+      "zlozenie_urzedu": "30 września 1939",
+      "dlugosc_urzedowania": "1233 dni",
+      "rzad": "Rząd Felicjana Sławoja Składkowskiego",
+      "kadencja_sejmu": "Sejm RP IV kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Felicjan Sławoj Składkowski",
+      "objecie_urzedu": "15 maja 1936",
+      "zlozenie_urzedu": "30 września 1939",
+      "dlugosc_urzedowania": "1233 dni",
+      "rzad": "Rząd Felicjana Sławoja Składkowskiego",
+      "kadencja_sejmu": "Sejm RP V kadencji",
+      "glowa_panstwa": "Ignacy Mościcki"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Władysław Sikorski",
+      "objecie_urzedu": "30 września 1939",
+      "zlozenie_urzedu": "18 lipca 1940",
+      "dlugosc_urzedowania": "292 dni",
+      "rzad": "Drugi rząd Władysława Sikorskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Władysław Raczkiewicz"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "August Zaleski",
+      "objecie_urzedu": "18 lipca 1940",
+      "zlozenie_urzedu": "20 lipca 1940",
+      "dlugosc_urzedowania": "2 dni",
+      "rzad": "Nie utworzył rządu",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Władysław Raczkiewicz"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Władysław Sikorski",
+      "objecie_urzedu": "20 lipca 1940",
+      "zlozenie_urzedu": "4 lipca 1943",
+      "dlugosc_urzedowania": "1079 dni",
+      "rzad": "Trzeci rząd Władysława Sikorskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Władysław Raczkiewicz"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Stanisław Mikołajczyk",
+      "objecie_urzedu": "14 lipca 1943",
+      "zlozenie_urzedu": "24 listopada 1944",
+      "dlugosc_urzedowania": "499 dni",
+      "rzad": "Rząd Stanisława Mikołajczyka",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Władysław Raczkiewicz"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Tomasz Arciszewski",
+      "objecie_urzedu": "29 listopada 1944",
+      "zlozenie_urzedu": "2 lipca 1947 / 5 lipca 1945",
+      "dlugosc_urzedowania": "945 dni / 218 dni",
+      "rzad": "Rząd Tomasza Arciszewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Władysław Raczkiewicz"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Tomasz Arciszewski",
+      "objecie_urzedu": "29 listopada 1944",
+      "zlozenie_urzedu": "2 lipca 1947 / 5 lipca 1945",
+      "dlugosc_urzedowania": "945 dni / 218 dni",
+      "rzad": "Rząd Tomasza Arciszewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Tadeusz Bór-Komorowski",
+      "objecie_urzedu": "2 lipca 1947",
+      "zlozenie_urzedu": "10 lutego 1949",
+      "dlugosc_urzedowania": "589 dni",
+      "rzad": "Rząd Tadeusza Komorowskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Tadeusz Tomaszewski",
+      "objecie_urzedu": "7 kwietnia 1949",
+      "zlozenie_urzedu": "25 września 1950",
+      "dlugosc_urzedowania": "536 dni",
+      "rzad": "Rząd Tadeusza Tomaszewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Roman Odzierzyński",
+      "objecie_urzedu": "25 września 1950",
+      "zlozenie_urzedu": "8 grudnia 1953",
+      "dlugosc_urzedowania": "1170 dni",
+      "rzad": "Rząd Romana Odzierzyńskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Jerzy Hryniewski",
+      "objecie_urzedu": "18 stycznia 1954",
+      "zlozenie_urzedu": "13 maja 1954",
+      "dlugosc_urzedowania": "115 dni",
+      "rzad": "Rząd Jerzego Hryniewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Stanisław Cat-Mackiewicz",
+      "objecie_urzedu": "8 czerwca 1954",
+      "zlozenie_urzedu": "21 czerwca 1955",
+      "dlugosc_urzedowania": "378 dni",
+      "rzad": "Rząd Stanisława Mackiewicza",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Hugon Hanke",
+      "objecie_urzedu": "8 sierpnia 1955",
+      "zlozenie_urzedu": "10 września 1955",
+      "dlugosc_urzedowania": "33 dni",
+      "rzad": "Rząd Hugona Hankego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Antoni Pająk",
+      "objecie_urzedu": "10 września 1955",
+      "zlozenie_urzedu": "14 czerwca 1965",
+      "dlugosc_urzedowania": "3565 dni",
+      "rzad": "Pierwszy rząd Antoniego Pająka",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Antoni Pająk",
+      "objecie_urzedu": "10 września 1955",
+      "zlozenie_urzedu": "14 czerwca 1965",
+      "dlugosc_urzedowania": "3565 dni",
+      "rzad": "Drugi rząd Antoniego Pająka",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Antoni Pająk",
+      "objecie_urzedu": "10 września 1955",
+      "zlozenie_urzedu": "14 czerwca 1965",
+      "dlugosc_urzedowania": "3565 dni",
+      "rzad": "Trzeci rząd Antoniego Pająka",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Aleksander Zawisza",
+      "objecie_urzedu": "25 czerwca 1965",
+      "zlozenie_urzedu": "9 czerwca 1970",
+      "dlugosc_urzedowania": "1810 dni",
+      "rzad": "Rząd Aleksandra Zawiszy",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Zygmunt Muchniewski",
+      "objecie_urzedu": "20 lipca 1970",
+      "zlozenie_urzedu": "13 lipca 1972",
+      "dlugosc_urzedowania": "724 dni",
+      "rzad": "Rząd Zygmunta Muchniewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "August Zaleski (od 1954 równolegle z tymczasowo utworzoną Radą Trzech w związku ze złamaniem przez niego konstytucji)"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Zygmunt Muchniewski",
+      "objecie_urzedu": "20 lipca 1970",
+      "zlozenie_urzedu": "13 lipca 1972",
+      "dlugosc_urzedowania": "724 dni",
+      "rzad": "Rząd Zygmunta Muchniewskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Ostrowski"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Alfred Urbański",
+      "objecie_urzedu": "18 lipca 1972",
+      "zlozenie_urzedu": "15 lipca 1976",
+      "dlugosc_urzedowania": "1458 dni",
+      "rzad": "Pierwszy rząd Alfreda Urbańskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Ostrowski"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Alfred Urbański",
+      "objecie_urzedu": "18 lipca 1972",
+      "zlozenie_urzedu": "15 lipca 1976",
+      "dlugosc_urzedowania": "1458 dni",
+      "rzad": "Drugi rząd Alfreda Urbańskiego",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Ostrowski"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Kazimierz Sabbat",
+      "objecie_urzedu": "5 sierpnia 1976",
+      "zlozenie_urzedu": "8 kwietnia 1986",
+      "dlugosc_urzedowania": "3533 dni",
+      "rzad": "Pierwszy rząd Kazimierza Sabbata",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Ostrowski"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Kazimierz Sabbat",
+      "objecie_urzedu": "5 sierpnia 1976",
+      "zlozenie_urzedu": "8 kwietnia 1986",
+      "dlugosc_urzedowania": "3533 dni",
+      "rzad": "Drugi rząd Kazimierza Sabbata",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Ostrowski"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Kazimierz Sabbat",
+      "objecie_urzedu": "5 sierpnia 1976",
+      "zlozenie_urzedu": "8 kwietnia 1986",
+      "dlugosc_urzedowania": "3533 dni",
+      "rzad": "Trzeci rząd Kazimierza Sabbata",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Edward Bernard Raczyński"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Kazimierz Sabbat",
+      "objecie_urzedu": "5 sierpnia 1976",
+      "zlozenie_urzedu": "8 kwietnia 1986",
+      "dlugosc_urzedowania": "3533 dni",
+      "rzad": "Czwarty rząd Kazimierza Sabbata",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Edward Bernard Raczyński"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Edward Szczepanik",
+      "objecie_urzedu": "8 kwietnia 1986",
+      "zlozenie_urzedu": "22 grudnia 1990",
+      "dlugosc_urzedowania": "1719 dni",
+      "rzad": "Pierwszy rząd Edwarda Szczepanika",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Kazimierz Sabbat"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Edward Szczepanik",
+      "objecie_urzedu": "8 kwietnia 1986",
+      "zlozenie_urzedu": "22 grudnia 1990",
+      "dlugosc_urzedowania": "1719 dni",
+      "rzad": "Pierwszy rząd Edwarda Szczepanika",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Ryszard Kaczorowski"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Edward Szczepanik",
+      "objecie_urzedu": "8 kwietnia 1986",
+      "zlozenie_urzedu": "22 grudnia 1990",
+      "dlugosc_urzedowania": "1719 dni",
+      "rzad": "Drugi rząd Edwarda Szczepanika",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Ryszard Kaczorowski"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Roman Odzierzyński (1892–1975) (bezpartyjny)",
+      "objecie_urzedu": "27 sierpnia 1954",
+      "zlozenie_urzedu": "29 lutego 1956",
+      "dlugosc_urzedowania": "551 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Tomasz Arciszewski (do 1955), Edward Bernard Raczyński , Władysław Anders"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Adam Ciołkosz (1901–1978) ( PPS )",
+      "objecie_urzedu": "29 lutego 1956",
+      "zlozenie_urzedu": "14 marca 1959",
+      "dlugosc_urzedowania": "1109 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Tadeusz Bór-Komorowski (1956-1966), Edward Bernard Raczyński , Władysław Anders"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Witold Czerwiński (1901–1982) (bezpartyjny)",
+      "objecie_urzedu": "14 marca 1959",
+      "zlozenie_urzedu": "15 stycznia 1963",
+      "dlugosc_urzedowania": "1403 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Tadeusz Bór-Komorowski (1956-1966), Edward Bernard Raczyński , Władysław Anders"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Adam Ciołkosz (1901–1978) ( PPS )",
+      "objecie_urzedu": "15 stycznia 1963",
+      "zlozenie_urzedu": "19 grudnia 1966",
+      "dlugosc_urzedowania": "1434 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Tadeusz Bór-Komorowski (1956-1966), Edward Bernard Raczyński , Władysław Anders"
+    },
+    {
+      "lp": "p.o.",
+      "imie_i_nazwisko": "Jan Starzewski (1895–1973) ( LNP )",
+      "objecie_urzedu": "19 grudnia 1966",
+      "zlozenie_urzedu": "15 marca 1967",
+      "dlugosc_urzedowania": "86 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Roman Odzierzyński , Edward Bernard Raczyński , Władysław Anders"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Kazimierz Sabbat (1913–1989) (bezpartyjny)",
+      "objecie_urzedu": "15 marca 1967",
+      "zlozenie_urzedu": "8 lipca 1972",
+      "dlugosc_urzedowania": "1942 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Roman Odzierzyński (do 1968), Edward Bernard Raczyński , Władysław Anders (do 1970),"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Kazimierz Sabbat (1913–1989) (bezpartyjny)",
+      "objecie_urzedu": "15 marca 1967",
+      "zlozenie_urzedu": "8 lipca 1972",
+      "dlugosc_urzedowania": "1942 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Stanisław Mglej (1968-1969), Edward Bernard Raczyński , Władysław Anders (do 1970),"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Kazimierz Sabbat (1913–1989) (bezpartyjny)",
+      "objecie_urzedu": "15 marca 1967",
+      "zlozenie_urzedu": "8 lipca 1972",
+      "dlugosc_urzedowania": "1942 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Alfred Urbański (od 1969), Edward Bernard Raczyński , Władysław Anders (do 1970)"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Kazimierz Sabbat (1913–1989) (bezpartyjny)",
+      "objecie_urzedu": "15 marca 1967",
+      "zlozenie_urzedu": "8 lipca 1972",
+      "dlugosc_urzedowania": "1942 dni",
+      "rzad": "",
+      "kadencja_sejmu": "",
+      "glowa_panstwa": "Alfred Urbański (od 1969), Edward Bernard Raczyński , Stanisław Kopański (od 1970)"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Edward Osóbka-Morawski ( PPS ) (1909–1997)",
+      "objecie_urzedu": "21 lipca 1944",
+      "zlozenie_urzedu": "31 grudnia 1944",
+      "dlugosc_urzedowania": "929 dni",
+      "rzad": "Polski Komitet Wyzwolenia Narodowego",
+      "kadencja_sejmu": "Krajowa Rada Narodowa",
+      "glowa_panstwa": "Urząd opróżniony"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Edward Osóbka-Morawski ( PPS ) (1909–1997)",
+      "objecie_urzedu": "31 grudnia 1944",
+      "zlozenie_urzedu": "28 czerwca 1945",
+      "dlugosc_urzedowania": "929 dni",
+      "rzad": "Rząd Tymczasowy",
+      "kadencja_sejmu": "Krajowa Rada Narodowa",
+      "glowa_panstwa": "Urząd opróżniony"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Edward Osóbka-Morawski ( PPS ) (1909–1997)",
+      "objecie_urzedu": "28 czerwca 1945",
+      "zlozenie_urzedu": "5 lutego 1947",
+      "dlugosc_urzedowania": "929 dni",
+      "rzad": "Tymczasowy Rząd Jedności Narodowej",
+      "kadencja_sejmu": "Krajowa Rada Narodowa",
+      "glowa_panstwa": "Urząd opróżniony"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Edward Osóbka-Morawski ( PPS ) (1909–1997)",
+      "objecie_urzedu": "28 czerwca 1945",
+      "zlozenie_urzedu": "5 lutego 1947",
+      "dlugosc_urzedowania": "929 dni",
+      "rzad": "Tymczasowy Rząd Jedności Narodowej",
+      "kadencja_sejmu": "Krajowa Rada Narodowa",
+      "glowa_panstwa": "Bolesław Bierut (1947–1952)"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PPS , od 15 grudnia 1948 PZPR ) (1911–1989)",
+      "objecie_urzedu": "5 lutego 1947",
+      "zlozenie_urzedu": "20 listopada 1952",
+      "dlugosc_urzedowania": "2115 dni",
+      "rzad": "Pierwszy rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Bolesław Bierut (1947–1952)"
+    },
+    {
+      "lp": "",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PPS , od 15 grudnia 1948 PZPR ) (1911–1989)",
+      "objecie_urzedu": "5 lutego 1947",
+      "zlozenie_urzedu": "20 listopada 1952",
+      "dlugosc_urzedowania": "2115 dni",
+      "rzad": "Pierwszy rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm Ustawodawczy",
+      "glowa_panstwa": "Bolesław Bierut (1947–1952)"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Bolesław Bierut ( PZPR ) (1892–1956)",
+      "objecie_urzedu": "20 listopada 1952",
+      "zlozenie_urzedu": "18 marca 1954",
+      "dlugosc_urzedowania": "483 dni",
+      "rzad": "Rząd Bolesława Bieruta i Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL I kadencji",
+      "glowa_panstwa": "Aleksander Zawadzki (1952–1964)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "18 marca 1954",
+      "zlozenie_urzedu": "20 lutego 1957",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Rząd Bolesława Bieruta i Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL I kadencji",
+      "glowa_panstwa": "Aleksander Zawadzki (1952–1964)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "20 lutego 1957",
+      "zlozenie_urzedu": "15 maja 1961",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Drugi rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL II kadencji",
+      "glowa_panstwa": "Aleksander Zawadzki (1952–1964)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "15 maja 1961",
+      "zlozenie_urzedu": "24 czerwca 1965",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Trzeci rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL III kadencji",
+      "glowa_panstwa": "Aleksander Zawadzki (1952–1964)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "15 maja 1961",
+      "zlozenie_urzedu": "24 czerwca 1965",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Trzeci rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL III kadencji",
+      "glowa_panstwa": "Urząd opróżniony"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "15 maja 1961",
+      "zlozenie_urzedu": "24 czerwca 1965",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Trzeci rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL III kadencji",
+      "glowa_panstwa": "Edward Ochab (1964–1968)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "24 czerwca 1965",
+      "zlozenie_urzedu": "27 czerwca 1969",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Czwarty rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL IV kadencji",
+      "glowa_panstwa": "Edward Ochab (1964–1968)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "24 czerwca 1965",
+      "zlozenie_urzedu": "27 czerwca 1969",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Czwarty rząd Józefa Cyrankiewicza",
+      "kadencja_sejmu": "Sejm PRL IV kadencji",
+      "glowa_panstwa": "Marian Spychalski (1968–1970)"
+    },
+    {
+      "lp": "(2.)",
+      "imie_i_nazwisko": "Józef Cyrankiewicz ( PZPR ) (1911–1989)",
+      "objecie_urzedu": "27 czerwca 1969",
+      "zlozenie_urzedu": "23 grudnia 1970",
+      "dlugosc_urzedowania": "6124 dni",
+      "rzad": "Rząd Józefa Cyrankiewicza i Piotra Jaroszewicza",
+      "kadencja_sejmu": "Sejm PRL V kadencji",
+      "glowa_panstwa": "Marian Spychalski (1968–1970)"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Piotr Jaroszewicz ( PZPR ) (1909–1992)",
+      "objecie_urzedu": "23 grudnia 1970",
+      "zlozenie_urzedu": "28 marca 1972",
+      "dlugosc_urzedowania": "3344 dni",
+      "rzad": "Rząd Józefa Cyrankiewicza i Piotra Jaroszewicza",
+      "kadencja_sejmu": "Sejm PRL V kadencji",
+      "glowa_panstwa": "Józef Cyrankiewicz (1970–1972)"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Piotr Jaroszewicz ( PZPR ) (1909–1992)",
+      "objecie_urzedu": "28 marca 1972",
+      "zlozenie_urzedu": "25 marca 1976",
+      "dlugosc_urzedowania": "3344 dni",
+      "rzad": "Rząd Piotra Jaroszewicza",
+      "kadencja_sejmu": "Sejm PRL VI kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Piotr Jaroszewicz ( PZPR ) (1909–1992)",
+      "objecie_urzedu": "25 marca 1976",
+      "zlozenie_urzedu": "18 lutego 1980",
+      "dlugosc_urzedowania": "3344 dni",
+      "rzad": "Rząd Piotra Jaroszewicza i Edwarda Babiucha",
+      "kadencja_sejmu": "Sejm PRL VII kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Edward Babiuch ( PZPR ) (1927–2021)",
+      "objecie_urzedu": "18 lutego 1980",
+      "zlozenie_urzedu": "2 kwietnia 1980",
+      "dlugosc_urzedowania": "144 dni",
+      "rzad": "Rząd Piotra Jaroszewicza i Edwarda Babiucha",
+      "kadencja_sejmu": "Sejm PRL VII kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Edward Babiuch ( PZPR ) (1927–2021)",
+      "objecie_urzedu": "2 kwietnia 1980",
+      "zlozenie_urzedu": "24 sierpnia 1980",
+      "dlugosc_urzedowania": "144 dni",
+      "rzad": "Rząd Edwarda Babiucha, Józefa Pińkowskiego i Wojciecha Jaruzelskiego",
+      "kadencja_sejmu": "Sejm PRL VIII kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Józef Pińkowski ( PZPR ) (1929–2000)",
+      "objecie_urzedu": "5 września 1980",
+      "zlozenie_urzedu": "11 lutego 1981",
+      "dlugosc_urzedowania": "171 dni",
+      "rzad": "Rząd Edwarda Babiucha, Józefa Pińkowskiego i Wojciecha Jaruzelskiego",
+      "kadencja_sejmu": "Sejm PRL VIII kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Wojciech Jaruzelski ( PZPR ) (1923–2014)",
+      "objecie_urzedu": "11 lutego 1981",
+      "zlozenie_urzedu": "6 listopada 1985",
+      "dlugosc_urzedowania": "1729 dni",
+      "rzad": "Rząd Edwarda Babiucha, Józefa Pińkowskiego i Wojciecha Jaruzelskiego",
+      "kadencja_sejmu": "Sejm PRL VIII kadencji",
+      "glowa_panstwa": "Henryk Jabłoński (1972–1985)"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Zbigniew Messner ( PZPR ) (1929–2014)",
+      "objecie_urzedu": "6 listopada 1985",
+      "zlozenie_urzedu": "27 września 1988",
+      "dlugosc_urzedowania": "1117 dni",
+      "rzad": "Rząd Zbigniewa Messnera",
+      "kadencja_sejmu": "Sejm PRL IX kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1985–1990)"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Mieczysław Rakowski ( PZPR ) (1926–2008)",
+      "objecie_urzedu": "27 września 1988",
+      "zlozenie_urzedu": "2 sierpnia 1989",
+      "dlugosc_urzedowania": "309 dni",
+      "rzad": "Rząd Mieczysława Rakowskiego",
+      "kadencja_sejmu": "Sejm PRL IX kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1985–1990)"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Czesław Kiszczak ( PZPR ) (1925–2015)",
+      "objecie_urzedu": "2 sierpnia 1989",
+      "zlozenie_urzedu": "24 sierpnia 1989",
+      "dlugosc_urzedowania": "22 dni",
+      "rzad": "Nie utworzył rządu",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1985–1990)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Tadeusz Mazowiecki ( KO „S” , od 2 grudnia 1990 UD ) (1927–2013)",
+      "objecie_urzedu": "24 sierpnia 1989",
+      "zlozenie_urzedu": "4 stycznia 1991",
+      "dlugosc_urzedowania": "498 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1985–1990)"
+    },
+    {
+      "lp": "",
+      "imie_i_nazwisko": "Tadeusz Mazowiecki ( KO „S” , od 2 grudnia 1990 UD ) (1927–2013)",
+      "objecie_urzedu": "24 sierpnia 1989",
+      "zlozenie_urzedu": "4 stycznia 1991",
+      "dlugosc_urzedowania": "498 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1985–1990)"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Tadeusz Mazowiecki ( KO „S” , od 2 grudnia 1990 UD ) (1927–2013)",
+      "objecie_urzedu": "24 sierpnia 1989",
+      "zlozenie_urzedu": "4 stycznia 1991",
+      "dlugosc_urzedowania": "498 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Wojciech Jaruzelski (1989–1990)"
+    },
+    {
+      "lp": "",
+      "imie_i_nazwisko": "Tadeusz Mazowiecki ( KO „S” , od 2 grudnia 1990 UD ) (1927–2013)",
+      "objecie_urzedu": "24 sierpnia 1989",
+      "zlozenie_urzedu": "4 stycznia 1991",
+      "dlugosc_urzedowania": "498 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Jan Krzysztof Bielecki ( KLD ) (ur. 1951)",
+      "objecie_urzedu": "4 stycznia 1991",
+      "zlozenie_urzedu": "6 grudnia 1991",
+      "dlugosc_urzedowania": "336 dni",
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego",
+      "kadencja_sejmu": "Sejm PRL X kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Jan Olszewski ( PC ) (1930–2019)",
+      "objecie_urzedu": "6 grudnia 1991",
+      "zlozenie_urzedu": "5 czerwca 1992",
+      "dlugosc_urzedowania": "182 dni",
+      "rzad": "Rząd Jana Olszewskiego",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Waldemar Pawlak ( PSL ) (ur. 1959)",
+      "objecie_urzedu": "5 czerwca 1992",
+      "zlozenie_urzedu": "10 lipca 1992",
+      "dlugosc_urzedowania": "35 dni",
+      "rzad": "Nie utworzył rządu",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Hanna Suchocka ( UD ) (ur. 1946)",
+      "objecie_urzedu": "10 lipca 1992",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania": "472 dni",
+      "rzad": "Rząd Hanny Suchockiej",
+      "kadencja_sejmu": "Sejm RP I kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "(4.)",
+      "imie_i_nazwisko": "Waldemar Pawlak ( PSL ) (ur. 1959)",
+      "objecie_urzedu": "26 października 1993",
+      "zlozenie_urzedu": "7 marca 1995",
+      "dlugosc_urzedowania": "496 dni",
+      "rzad": "Rząd Waldemara Pawlaka",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Józef Oleksy ( SdRP , koalicja SLD ) (1946–2015)",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "7 lutego 1996",
+      "dlugosc_urzedowania": "337 dni",
+      "rzad": "Rząd Józefa Oleksego",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Lech Wałęsa (1990–1995)"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Józef Oleksy ( SdRP , koalicja SLD ) (1946–2015)",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "7 lutego 1996",
+      "dlugosc_urzedowania": "337 dni",
+      "rzad": "Rząd Józefa Oleksego",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Włodzimierz Cimoszewicz (bezpartyjny, związany z partią SdRP , należący do koalicji SLD ) (ur. 1950)",
+      "objecie_urzedu": "7 lutego 1996",
+      "zlozenie_urzedu": "31 października 1997",
+      "dlugosc_urzedowania": "632 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza",
+      "kadencja_sejmu": "Sejm RP II kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Jerzy Buzek (koalicja AWS , partia RS AWS ) (ur. 1940)",
+      "objecie_urzedu": "31 października 1997",
+      "zlozenie_urzedu": "19 października 2001",
+      "dlugosc_urzedowania": "1449 dni",
+      "rzad": "Rząd Jerzego Buzka",
+      "kadencja_sejmu": "Sejm RP III kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Leszek Miller ( SLD ) (ur. 1946)",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "2 maja 2004",
+      "dlugosc_urzedowania": "926 dni",
+      "rzad": "Rząd Leszka Millera",
+      "kadencja_sejmu": "Sejm RP IV kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Marek Belka ( SLD ) (ur. 1952)",
+      "objecie_urzedu": "2 maja 2004",
+      "zlozenie_urzedu": "11 czerwca 2004",
+      "dlugosc_urzedowania": "547 dni",
+      "rzad": "Pierwszy rząd Marka Belki",
+      "kadencja_sejmu": "Sejm RP IV kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Marek Belka ( SLD ) (ur. 1952)",
+      "objecie_urzedu": "11 czerwca 2004",
+      "zlozenie_urzedu": "31 października 2005",
+      "dlugosc_urzedowania": "547 dni",
+      "rzad": "Drugi rząd Marka Belki",
+      "kadencja_sejmu": "Sejm RP IV kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Kazimierz Marcinkiewicz ( PiS ) (ur. 1959)",
+      "objecie_urzedu": "31 października 2005",
+      "zlozenie_urzedu": "14 lipca 2006",
+      "dlugosc_urzedowania": "256 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza",
+      "kadencja_sejmu": "Sejm RP V kadencji",
+      "glowa_panstwa": "Aleksander Kwaśniewski (1995–2005)"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Kazimierz Marcinkiewicz ( PiS ) (ur. 1959)",
+      "objecie_urzedu": "31 października 2005",
+      "zlozenie_urzedu": "14 lipca 2006",
+      "dlugosc_urzedowania": "256 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza",
+      "kadencja_sejmu": "Sejm RP V kadencji",
+      "glowa_panstwa": "Lech Kaczyński (2005–2010)"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Jarosław Kaczyński ( PiS ) (ur. 1949)",
+      "objecie_urzedu": "14 lipca 2006",
+      "zlozenie_urzedu": "16 listopada 2007",
+      "dlugosc_urzedowania": "490 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego",
+      "kadencja_sejmu": "Sejm RP V kadencji",
+      "glowa_panstwa": "Lech Kaczyński (2005–2010)"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Donald Tusk ( PO ) (ur. 1957)",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "18 listopada 2011",
+      "dlugosc_urzedowania": "2502 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP VI kadencji",
+      "glowa_panstwa": "Lech Kaczyński (2005–2010)"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Donald Tusk ( PO ) (ur. 1957)",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "18 listopada 2011",
+      "dlugosc_urzedowania": "2502 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP VI kadencji",
+      "glowa_panstwa": "Urząd opróżniony"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Donald Tusk ( PO ) (ur. 1957)",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "18 listopada 2011",
+      "dlugosc_urzedowania": "2502 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP VI kadencji",
+      "glowa_panstwa": "Bronisław Komorowski (2010–2015)"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Donald Tusk ( PO ) (ur. 1957)",
+      "objecie_urzedu": "18 listopada 2011",
+      "zlozenie_urzedu": "22 września 2014",
+      "dlugosc_urzedowania": "2502 dni",
+      "rzad": "Drugi rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP VII kadencji",
+      "glowa_panstwa": "Bronisław Komorowski (2010–2015)"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Ewa Kopacz ( PO ) (ur. 1956)",
+      "objecie_urzedu": "22 września 2014",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania": "420 dni",
+      "rzad": "Rząd Ewy Kopacz",
+      "kadencja_sejmu": "Sejm RP VII kadencji",
+      "glowa_panstwa": "Bronisław Komorowski (2010–2015)"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Ewa Kopacz ( PO ) (ur. 1956)",
+      "objecie_urzedu": "22 września 2014",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania": "420 dni",
+      "rzad": "Rząd Ewy Kopacz",
+      "kadencja_sejmu": "Sejm RP VII kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Beata Szydło ( PiS ) (ur. 1963)",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "11 grudnia 2017",
+      "dlugosc_urzedowania": "756 dni",
+      "rzad": "Rząd Beaty Szydło",
+      "kadencja_sejmu": "Sejm RP VIII kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS ) (ur. 1968)",
+      "objecie_urzedu": "11 grudnia 2017",
+      "zlozenie_urzedu": "15 listopada 2019",
+      "dlugosc_urzedowania": "2193 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego",
+      "kadencja_sejmu": "Sejm RP VIII kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS ) (ur. 1968)",
+      "objecie_urzedu": "15 listopada 2019",
+      "zlozenie_urzedu": "27 listopada 2023",
+      "dlugosc_urzedowania": "2193 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego",
+      "kadencja_sejmu": "Sejm RP IX kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Mateusz Morawiecki ( PiS ) (ur. 1968)",
+      "objecie_urzedu": "27 listopada 2023",
+      "zlozenie_urzedu": "13 grudnia 2023",
+      "dlugosc_urzedowania": "2193 dni",
+      "rzad": "Trzeci rząd Mateusza Morawieckiego",
+      "kadencja_sejmu": "Sejm RP X kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Donald Tusk ( PO , od 25 października 2025 KO ) (ur. 1957)",
+      "objecie_urzedu": "13 grudnia 2023",
+      "zlozenie_urzedu": "",
+      "dlugosc_urzedowania": "1049 dni",
+      "rzad": "Trzeci rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP X kadencji",
+      "glowa_panstwa": "Andrzej Duda (2015–2025)"
+    },
+    {
+      "lp": "(13.)",
+      "imie_i_nazwisko": "Donald Tusk ( PO , od 25 października 2025 KO ) (ur. 1957)",
+      "objecie_urzedu": "13 grudnia 2023",
+      "zlozenie_urzedu": "",
+      "dlugosc_urzedowania": "1049 dni",
+      "rzad": "Trzeci rząd Donalda Tuska",
+      "kadencja_sejmu": "Sejm RP X kadencji",
+      "glowa_panstwa": "Karol Nawrocki (od 2025)"
+    }
+  ],
+  "meta": {
+    "title": "Premierzy Polski - Free Download",
+    "description": "Lista premierów Polski (prezesów Rady Ministrów) od Księstwa Warszawskiego do dziś: daty urzędowania, rząd i głowa państwa. Contains 171 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premierzy Polski | ListBase",
+    "seo_description": "Download Premierzy Polski — 171 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 171 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Premierzy_Polski"
+    ]
+  }
+}

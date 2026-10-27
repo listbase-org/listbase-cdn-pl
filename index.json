@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:17.346Z",
-  "total_datasets": 488,
-  "total_records": 1090165,
+  "generated": "2026-10-27T02:28:19.833Z",
+  "total_datasets": 489,
+  "total_records": 1090336,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -3634,6 +3634,35 @@
         "xlsx": {
           "name": "pl-marszalkowie-sejmu_PL.xlsx",
           "size": 17683
+        }
+      }
+    },
+    {
+      "id": "pl-premierzy",
+      "name": "Premierzy Polski",
+      "category": "politics",
+      "record_count": 171,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania",
+        "rzad",
+        "kadencja_sejmu",
+        "glowa_panstwa"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Premierzy_Polski",
+      "updated": "2026-10",
+      "size": 64450,
+      "files": {
+        "csv": {
+          "name": "pl-premierzy_PL.csv",
+          "size": 29165
+        },
+        "xlsx": {
+          "name": "pl-premierzy_PL.xlsx",
+          "size": 17250
         }
       }
     },
