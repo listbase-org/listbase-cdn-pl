@@ -1,0 +1,392 @@
+{
+  "id": "pl-prezydenci",
+  "name": "Prezydenci Polski",
+  "title": "Prezydenci Polski",
+  "description": "Lista prezydentów Polski (II RP, na uchodźstwie, PRL i III RP) z okresem sprawowania urzędu i przynależnością partyjną.",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Lista_prezydentów_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_prezydentów_Polski",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "przynaleznosc",
+      "label": "Przynaleznosc",
+      "type": "string"
+    },
+    {
+      "key": "elekcja",
+      "label": "Elekcja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Gabriel Narutowicz",
+      "od": "11 grudnia 1922",
+      "do": "16 grudnia 1922",
+      "przynaleznosc": "bezpartyjny, zgłoszony przez Polskie Stronnictwo Ludowe „Wyzwolenie”",
+      "elekcja": "1922 (I)"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Maciej Rataj",
+      "od": "16 grudnia 1922",
+      "do": "20 grudnia 1922",
+      "przynaleznosc": "Polskie Stronnictwo Ludowe „Piast”",
+      "elekcja": "–"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Stanisław Wojciechowski",
+      "od": "20 grudnia 1922",
+      "do": "14 maja 1926",
+      "przynaleznosc": "Polskie Stronnictwo Ludowe „Piast”",
+      "elekcja": "1922 (II)"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Maciej Rataj",
+      "od": "15 maja 1926",
+      "do": "4 czerwca 1926",
+      "przynaleznosc": "Polskie Stronnictwo Ludowe „Piast”",
+      "elekcja": "–"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Józef Piłsudski",
+      "od": "wybrany, odmówił objęcia urzędu",
+      "do": "wybrany, odmówił objęcia urzędu",
+      "przynaleznosc": "bezpartyjny, popierany i związany z obozem PPS",
+      "elekcja": "1926 (I)"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Ignacy Mościcki",
+      "od": "4 czerwca 1926",
+      "do": "30 września 1939",
+      "przynaleznosc": "bezpartyjny, związany z sanacją",
+      "elekcja": "1926 (II) 1933"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Edward Śmigły-Rydz",
+      "od": "1 września 1939",
+      "do": "25 września 1939",
+      "przynaleznosc": "Obóz Zjednoczenia Narodowego",
+      "elekcja": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Bolesław Wieniawa-Długoszowski",
+      "od": "25 września 1939",
+      "do": "29 września 1939",
+      "przynaleznosc": "związany z Obozem Zjednoczenia Narodowego",
+      "elekcja": ""
+    },
+    {
+      "lp": "1. (4.)",
+      "imie_i_nazwisko": "Władysław Raczkiewicz",
+      "od": "30 września 1939",
+      "do": "6 czerwca 1947",
+      "przynaleznosc": "związany z Obozem Zjednoczenia Narodowego",
+      "elekcja": ""
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "August Zaleski",
+      "od": "9 czerwca 1947",
+      "do": "7 kwietnia 1972",
+      "przynaleznosc": "bezpartyjny, związany z sanacją",
+      "elekcja": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Rada Trzech W skład Rady wchodzili: Tomasz Arciszewski (1954−1955), Władysław Anders (1954−1970), Edward Raczyński (1954−1972), Tadeusz Bór-Komorowski (1956−1966) , Roman Odzierzyński (1966−1968) , Stanisław Mglej (1968−1969) , Alfred Urbański (1969−1972) , Stanisław Kopański (1970−1972)",
+      "od": "3 sierpnia 1954",
+      "do": "7 kwietnia 1972",
+      "przynaleznosc": "Polska Partia Socjalistyczna (Arciszewski i Urbański), Stronnictwo Narodowe (Mglej), bezpartyjni, związani z sanacją (Anders, Raczyński, Bór-Komorowski, Odzierzyński, Kopański)",
+      "elekcja": ""
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Stanisław Ostrowski",
+      "od": "9 kwietnia 1972",
+      "do": "8 kwietnia 1979",
+      "przynaleznosc": "bezpartyjni, związani z sanacją",
+      "elekcja": ""
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Edward Raczyński",
+      "od": "8 kwietnia 1979",
+      "do": "8 kwietnia 1986",
+      "przynaleznosc": "bezpartyjni, związani z sanacją",
+      "elekcja": ""
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Kazimierz Sabbat",
+      "od": "8 kwietnia 1986",
+      "do": "19 lipca 1989",
+      "przynaleznosc": "bezpartyjni, związani z sanacją",
+      "elekcja": ""
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Ryszard Kaczorowski",
+      "od": "19 lipca 1989",
+      "do": "22 grudnia 1990",
+      "przynaleznosc": "bezpartyjni, związani z sanacją",
+      "elekcja": ""
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Bolesław Bierut – sprawował urząd głowy państwa jako: Przewodniczący Krajowej Rady Narodowej (od 20 września do 31 grudnia 1944) Prezydent Krajowej Rady Narodowej (od 31 grudnia 1944 do 4 lutego 1947)",
+      "od": "20 września 1944",
+      "do": "4 lutego 1947",
+      "przynaleznosc": "bezpartyjny, popierany przez Polską Partię Robotniczą",
+      "elekcja": "–"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Franciszek Trąbalski",
+      "od": "4 lutego 1947",
+      "do": "4 lutego 1947",
+      "przynaleznosc": "Polska Partia Socjalistyczna (tzw. lubelska)",
+      "elekcja": "–"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Władysław Kowalski",
+      "od": "4 lutego 1947",
+      "do": "5 lutego 1947",
+      "przynaleznosc": "Stronnictwo Ludowe (tzw. lubelskie)",
+      "elekcja": "–"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Bolesław Bierut",
+      "od": "5 lutego 1947",
+      "do": "20 listopada 1952",
+      "przynaleznosc": "bezpartyjny, popierany przez Polską Partię Robotniczą (do sierpnia 1948) Polska Partia Robotnicza (od sierpnia do 15 grudnia 1948) Polska Zjednoczona Partia Robotnicza (od 15 grudnia 1948)",
+      "elekcja": "1947"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Bolesław Bierut (jako prezydent Polski)",
+      "od": "20 lutego 1947 (dts)",
+      "do": "20 listopada 1952 (dts)",
+      "przynaleznosc": "bezpartyjny, popierany przez Polską Partię Robotniczą (do sierpnia 1948) Polska Partia Robotnicza (od sierpnia do 15 grudnia 1948)",
+      "elekcja": ""
+    },
+    {
+      "lp": "",
+      "imie_i_nazwisko": "Bolesław Bierut (jako prezydent Polski)",
+      "od": "20 lutego 1947 (dts)",
+      "do": "20 listopada 1952 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza (od 15 grudnia 1948)",
+      "elekcja": ""
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Aleksander Zawadzki",
+      "od": "20 listopada 1952 (dts)",
+      "do": "7 sierpnia 1964 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "-",
+      "imie_i_nazwisko": "Oskar Lange (p.o.)",
+      "od": "7 sierpnia 1964 (dts)",
+      "do": "12 sierpnia 1964 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "-",
+      "imie_i_nazwisko": "Edward Ochab (p.o.)",
+      "od": "7 sierpnia 1964 (dts)",
+      "do": "12 sierpnia 1964 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "-",
+      "imie_i_nazwisko": "Bolesław Podedworny (p.o.)",
+      "od": "7 sierpnia 1964 (dts)",
+      "do": "12 sierpnia 1964 (dts)",
+      "przynaleznosc": "Zjednoczone Stronnictwo Ludowe",
+      "elekcja": ""
+    },
+    {
+      "lp": "-",
+      "imie_i_nazwisko": "Stanisław Kulczyński (p.o.)",
+      "od": "7 sierpnia 1964 (dts)",
+      "do": "12 sierpnia 1964 (dts)",
+      "przynaleznosc": "Stronnictwo Demokratyczne",
+      "elekcja": ""
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Edward Ochab",
+      "od": "12 sierpnia 1964 (dts)",
+      "do": "11 kwietnia 1968 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Marian Spychalski",
+      "od": "11 kwietnia 1968 (dts)",
+      "do": "23 grudnia 1970 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Józef Cyrankiewicz",
+      "od": "23 grudnia 1970 (dts)",
+      "do": "28 marca 1972 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Henryk Jabłoński",
+      "od": "28 marca 1972 (dts)",
+      "do": "6 listopada 1985 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Wojciech Jaruzelski",
+      "od": "6 listopada 1985 (dts)",
+      "do": "19 lipca 1989 (dts)",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": ""
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Wojciech Jaruzelski",
+      "od": "19 lipca 1989",
+      "do": "30 grudnia 1989",
+      "przynaleznosc": "Polska Zjednoczona Partia Robotnicza",
+      "elekcja": "1989"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Wojciech Jaruzelski",
+      "od": "31 grudnia 1989",
+      "do": "22 grudnia 1990",
+      "przynaleznosc": "do 29 stycznia 1990 Polska Zjednoczona Partia Robotnicza , następnie bezpartyjny, popierany przez Socjaldemokrację Rzeczypospolitej Polskiej",
+      "elekcja": "1989"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Lech Wałęsa",
+      "od": "22 grudnia 1990",
+      "do": "22 grudnia 1995",
+      "przynaleznosc": "Niezależny Samorządny Związek Zawodowy „Solidarność” (od 1990 do 1995), Porozumienie Centrum (od 1990 do 1991)",
+      "elekcja": "1990"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Aleksander Kwaśniewski",
+      "od": "23 grudnia 1995",
+      "do": "23 grudnia 2005",
+      "przynaleznosc": "Sojusz Lewicy Demokratycznej",
+      "elekcja": "1995 2000"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Lech Kaczyński",
+      "od": "23 grudnia 2005",
+      "do": "10 kwietnia 2010",
+      "przynaleznosc": "Prawo i Sprawiedliwość",
+      "elekcja": "2005"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Bronisław Komorowski",
+      "od": "10 kwietnia 2010",
+      "do": "8 lipca 2010",
+      "przynaleznosc": "Platforma Obywatelska",
+      "elekcja": "–"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Bogdan Borusewicz",
+      "od": "8 lipca 2010",
+      "do": "8 lipca 2010",
+      "przynaleznosc": "bezpartyjny, popierany przez Platformę Obywatelską",
+      "elekcja": "–"
+    },
+    {
+      "lp": "–",
+      "imie_i_nazwisko": "Grzegorz Schetyna",
+      "od": "8 lipca 2010",
+      "do": "6 sierpnia 2010",
+      "przynaleznosc": "Platforma Obywatelska",
+      "elekcja": "–"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Bronisław Komorowski",
+      "od": "6 sierpnia 2010",
+      "do": "6 sierpnia 2015",
+      "przynaleznosc": "Platforma Obywatelska",
+      "elekcja": "2010"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Andrzej Duda",
+      "od": "6 sierpnia 2015",
+      "do": "6 sierpnia 2025",
+      "przynaleznosc": "Prawo i Sprawiedliwość",
+      "elekcja": "2015 2020"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Karol Nawrocki",
+      "od": "6 sierpnia 2025",
+      "do": "pełni urząd",
+      "przynaleznosc": "bezpartyjny, popierany przez Prawo i Sprawiedliwość",
+      "elekcja": "2025"
+    }
+  ],
+  "meta": {
+    "title": "Prezydenci Polski - Free Download",
+    "description": "Lista prezydentów Polski (II RP, na uchodźstwie, PRL i III RP) z okresem sprawowania urzędu i przynależnością partyjną. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prezydenci Polski | ListBase",
+    "seo_description": "Download Prezydenci Polski — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_prezydentów_Polski"
+    ]
+  }
+}

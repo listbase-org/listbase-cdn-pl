@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:24.661Z",
-  "total_datasets": 491,
-  "total_records": 1090373,
+  "generated": "2026-10-27T02:28:27.063Z",
+  "total_datasets": 492,
+  "total_records": 1090415,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -3712,6 +3712,33 @@
         "xlsx": {
           "name": "pl-premierzy_PL.xlsx",
           "size": 17250
+        }
+      }
+    },
+    {
+      "id": "pl-prezydenci",
+      "name": "Prezydenci Polski",
+      "category": "politics",
+      "record_count": 42,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "od",
+        "do",
+        "przynaleznosc",
+        "elekcja"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_prezydentów_Polski",
+      "updated": "2026-10",
+      "size": 12474,
+      "files": {
+        "csv": {
+          "name": "pl-prezydenci_PL.csv",
+          "size": 5883
+        },
+        "xlsx": {
+          "name": "pl-prezydenci_PL.xlsx",
+          "size": 9461
         }
       }
     },
