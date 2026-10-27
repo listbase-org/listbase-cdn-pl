@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:39.088Z",
-  "total_datasets": 497,
-  "total_records": 1090626,
+  "generated": "2026-10-27T02:28:41.547Z",
+  "total_datasets": 498,
+  "total_records": 1090641,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -3820,6 +3820,34 @@
         "xlsx": {
           "name": "pl-prezydenci_PL.xlsx",
           "size": 9461
+        }
+      }
+    },
+    {
+      "id": "pl-wybory-sejm-2023-wyniki",
+      "name": "Wybory do Sejmu 2023 — wyniki",
+      "category": "politics",
+      "record_count": 15,
+      "columns": [
+        "komitet",
+        "glosy",
+        "procent",
+        "zmiana_pp",
+        "mandaty",
+        "zmiana_mandatow",
+        "procent_mandatow"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku",
+      "updated": "2026-10",
+      "size": 5072,
+      "files": {
+        "csv": {
+          "name": "pl-wybory-sejm-2023-wyniki_PL.csv",
+          "size": 1087
+        },
+        "xlsx": {
+          "name": "pl-wybory-sejm-2023-wyniki_PL.xlsx",
+          "size": 7646
         }
       }
     },

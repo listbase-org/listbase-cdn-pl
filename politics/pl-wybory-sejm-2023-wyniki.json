@@ -1,0 +1,196 @@
+{
+  "id": "pl-wybory-sejm-2023-wyniki",
+  "name": "Wybory do Sejmu 2023 — wyniki",
+  "title": "Wybory do Sejmu 2023 — wyniki",
+  "description": "Wyniki wyborów do Sejmu RP z 15 października 2023 r.: głosy, procent i mandaty komitetów wyborczych.",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku",
+  "source_url": "https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "komitet",
+      "label": "Komitet",
+      "type": "string"
+    },
+    {
+      "key": "glosy",
+      "label": "Glosy",
+      "type": "number"
+    },
+    {
+      "key": "procent",
+      "label": "Procent",
+      "type": "number"
+    },
+    {
+      "key": "zmiana_pp",
+      "label": "Zmiana Pp",
+      "type": "number"
+    },
+    {
+      "key": "mandaty",
+      "label": "Mandaty",
+      "type": "number"
+    },
+    {
+      "key": "zmiana_mandatow",
+      "label": "Zmiana Mandatow",
+      "type": "number"
+    },
+    {
+      "key": "procent_mandatow",
+      "label": "Procent Mandatow",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "komitet": "Prawo i Sprawiedliwość",
+      "glosy": 7640854,
+      "procent": 35.38,
+      "zmiana_pp": 8.21,
+      "mandaty": 194,
+      "zmiana_mandatow": 41,
+      "procent_mandatow": 42.17
+    },
+    {
+      "komitet": "KKW Koalicja Obywatelska PO .N iPL Zieloni",
+      "glosy": 6629402,
+      "procent": 30.7,
+      "zmiana_pp": 3.3,
+      "mandaty": 157,
+      "zmiana_mandatow": 23,
+      "procent_mandatow": 34.13
+    },
+    {
+      "komitet": "KKW Trzecia Droga Polska 2050 Szymona Hołowni – Polskie Stronnictwo Ludowe",
+      "glosy": 3110670,
+      "procent": 14.4,
+      "zmiana_pp": 5.85,
+      "mandaty": 65,
+      "zmiana_mandatow": 35,
+      "procent_mandatow": 14.13
+    },
+    {
+      "komitet": "Nowa Lewica",
+      "glosy": 1859018,
+      "procent": 8.61,
+      "zmiana_pp": 3.95,
+      "mandaty": 26,
+      "zmiana_mandatow": 23,
+      "procent_mandatow": 5.65
+    },
+    {
+      "komitet": "Konfederacja Wolność i Niepodległość",
+      "glosy": 1547364,
+      "procent": 7.16,
+      "zmiana_pp": 0.35,
+      "mandaty": 18,
+      "zmiana_mandatow": 7,
+      "procent_mandatow": 3.91
+    },
+    {
+      "komitet": "Bezpartyjni Samorządowcy",
+      "glosy": 401054,
+      "procent": 1.86,
+      "zmiana_pp": 1.08,
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "Polska Jest Jedna",
+      "glosy": 351099,
+      "procent": 1.63,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Mniejszość Niemiecka",
+      "glosy": 25778,
+      "procent": 0.12,
+      "zmiana_pp": 0.05,
+      "mandaty": "–",
+      "zmiana_mandatow": 1,
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Ruchu Dobrobytu i Pokoju",
+      "glosy": 24850,
+      "procent": 0.12,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "Normalny Kraj",
+      "glosy": 4606,
+      "procent": 0.02,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "Antypartia",
+      "glosy": 1156,
+      "procent": 0.01,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "Ruch Naprawy Polski",
+      "glosy": 823,
+      "procent": 0,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–",
+      "procent_mandatow": "–"
+    },
+    {
+      "komitet": "Ogółem",
+      "glosy": 21596674,
+      "procent": 100,
+      "zmiana_pp": "–",
+      "mandaty": 460,
+      "zmiana_mandatow": "–",
+      "procent_mandatow": 100
+    },
+    {
+      "komitet": "Głosy nieważne",
+      "glosy": 370217,
+      "procent": 1.68,
+      "zmiana_pp": 0.57,
+      "mandaty": "",
+      "zmiana_mandatow": "",
+      "procent_mandatow": ""
+    },
+    {
+      "komitet": "Frekwencja",
+      "glosy": 21966891,
+      "procent": 74.38,
+      "zmiana_pp": 12.64,
+      "mandaty": "",
+      "zmiana_mandatow": "",
+      "procent_mandatow": ""
+    }
+  ],
+  "meta": {
+    "title": "Wybory do Sejmu 2023 — wyniki - Free Download",
+    "description": "Wyniki wyborów do Sejmu RP z 15 października 2023 r.: głosy, procent i mandaty komitetów wyborczych. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wybory do Sejmu 2023 — wyniki | ListBase",
+    "seo_description": "Download Wybory do Sejmu 2023 — wyniki — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku"
+    ]
+  }
+}
