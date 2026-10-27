@@ -1,0 +1,261 @@
+{
+  "id": "pl-produkty-chnp-chog",
+  "name": "Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS)",
+  "title": "Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS)",
+  "description": "Polskie produkty rolne i spożywcze zarejestrowane w UE jako ChNP, ChOG lub GTS.",
+  "category": "agriculture",
+  "source": "https://pl.wikipedia.org/wiki/Oznaczenia_pochodzenia_geograficznego_produktów_rolnych_w_Unii_Europejskiej",
+  "source_url": "https://pl.wikipedia.org/wiki/Oznaczenia_pochodzenia_geograficznego_produktów_rolnych_w_Unii_Europejskiej",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "rodzaj_ochrony",
+      "label": "Rodzaj Ochrony",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_produktu",
+      "label": "Nazwa Produktu",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Bryndza podhalańska",
+      "kategoria": "kl. 1.3: Sery"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Oscypek",
+      "kategoria": "kl. 1.3: Sery"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Redykołka",
+      "kategoria": "kl. 1.3: Sery"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Miód z Sejneńszczyzny/Łoździejszczyzny (Seinu/Lazdiju krašto medus)",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Podkarpacki miód spadziowy",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Miód spadziowy z Beskidu Wyspowego",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Fasola Piękny Jaś z Doliny Dunajca",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Fasola wrzawska",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Wiśnia nadwiślanka",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chroniona nazwa pochodzenia",
+      "nazwa_produktu": "Karp zatorski",
+      "kategoria": "kl. 1.7: Świeże ryby, małże i skorupiaki"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Jagnięcina podhalańska",
+      "kategoria": "kl. 1.1: Mięso świeże (i podroby)"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Kiełbasa biała parzona wielkopolska",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Kiełbasa lisiecka",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Kiełbasa piaszczańska",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Krupnioki śląskie",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Wielkopolski ser smażony",
+      "kategoria": "kl. 1.3: Sery"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Ser koryciński swojski",
+      "kategoria": "kl. 1.3: Sery"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Miód drahimski",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Miód kurpiowski",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Miód wrzosowy z Borów Dolnośląskich",
+      "kategoria": "kl. 1.4: Inne produkty pochodzenia zwierzęcego"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Czosnek galicyjski",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Fasola korczyńska",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Jabłka grójeckie",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Jabłka łąckie",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Truskawka kaszubska lub Kaszëbskô malëna",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Suska sechlońska",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Śliwka szydłowska",
+      "kategoria": "kl. 1.6: Owoce, warzywa i zboża"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Podpiwek kujawski",
+      "kategoria": "kl. 1.8: Inne produkty wymienione w załączniku I do Traktatu (przyprawy itd.)"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Andruty kaliskie",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Kołocz śląski/Kołacz śląski",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Obwarzanek krakowski",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Rogal świętomarciński",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Cebularz lubelski",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Chronione oznaczenie geograficzne",
+      "nazwa_produktu": "Chleb prądnicki",
+      "kategoria": "kl. 2.4: Wyroby piekarskie"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Kabanosy",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Kiełbasa jałowcowa",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Kiełbasa krakowska sucha staropolska",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Kiełbasa myśliwska",
+      "kategoria": "kl. 1.2: Produkty wytworzone na bazie mięsa"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Olej rydzowy",
+      "kategoria": "kl. 1.5: Oleje i tłuszcze"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Staropolski miód pitny „ półtorak ”",
+      "kategoria": "kl. 1.8: Inne produkty"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Staropolski miód pitny „dwójniak”",
+      "kategoria": "kl. 1.8: Inne produkty"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Staropolski miód pitny „trójniak”",
+      "kategoria": "kl. 1.8: Inne produkty"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Staropolski miód pitny „czwórniak”",
+      "kategoria": "kl. 1.8: Inne produkty"
+    },
+    {
+      "rodzaj_ochrony": "Gwarantowana tradycyjna specjalność",
+      "nazwa_produktu": "Pierekaczewnik",
+      "kategoria": "kl. 2.3: Wyroby piekarskie"
+    }
+  ],
+  "meta": {
+    "title": "Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS) - Free Download",
+    "description": "Polskie produkty rolne i spożywcze zarejestrowane w UE jako ChNP, ChOG lub GTS. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS) | ListBase",
+    "seo_description": "Download Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS) — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Oznaczenia_pochodzenia_geograficznego_produktów_rolnych_w_Unii_Europejskiej"
+    ]
+  }
+}

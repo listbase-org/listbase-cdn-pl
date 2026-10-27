@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:27.063Z",
-  "total_datasets": 492,
-  "total_records": 1090415,
+  "generated": "2026-10-27T02:28:29.427Z",
+  "total_datasets": 493,
+  "total_records": 1090459,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -126,6 +126,30 @@
         "xlsx": {
           "name": "pl-ministrowie-rolnictwa_PL.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "pl-produkty-chnp-chog",
+      "name": "Polskie produkty z chronionym oznaczeniem pochodzenia (ChNP, ChOG, GTS)",
+      "category": "agriculture",
+      "record_count": 44,
+      "columns": [
+        "rodzaj_ochrony",
+        "nazwa_produktu",
+        "kategoria"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Oznaczenia_pochodzenia_geograficznego_produktów_rolnych_w_Unii_Europejskiej",
+      "updated": "2026-10",
+      "size": 9739,
+      "files": {
+        "csv": {
+          "name": "pl-produkty-chnp-chog_PL.csv",
+          "size": 4407
+        },
+        "xlsx": {
+          "name": "pl-produkty-chnp-chog_PL.xlsx",
+          "size": 8240
         }
       }
     },
