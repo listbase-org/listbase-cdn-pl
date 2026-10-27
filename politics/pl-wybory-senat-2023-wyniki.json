@@ -1,0 +1,296 @@
+{
+  "id": "pl-wybory-senat-2023-wyniki",
+  "name": "Wybory do Senatu 2023 — wyniki",
+  "title": "Wybory do Senatu 2023 — wyniki",
+  "description": "Wyniki wyborów do Senatu RP z 15 października 2023 r. według komitetów.",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku",
+  "source_url": "https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "komitet",
+      "label": "Komitet",
+      "type": "string"
+    },
+    {
+      "key": "glosy",
+      "label": "Glosy",
+      "type": "number"
+    },
+    {
+      "key": "procent",
+      "label": "Procent",
+      "type": "number"
+    },
+    {
+      "key": "zmiana_pp",
+      "label": "Zmiana Pp",
+      "type": "number"
+    },
+    {
+      "key": "mandaty",
+      "label": "Mandaty",
+      "type": "number"
+    },
+    {
+      "key": "zmiana_mandatow",
+      "label": "Zmiana Mandatow",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "komitet": "KKW Koalicja Obywatelska PO .N iPL Zieloni",
+      "glosy": 6187295,
+      "procent": 28.91,
+      "zmiana_pp": 6.75,
+      "mandaty": 41,
+      "zmiana_mandatow": 2
+    },
+    {
+      "komitet": "Prawo i Sprawiedliwość",
+      "glosy": 7449875,
+      "procent": 34.81,
+      "zmiana_pp": 9.75,
+      "mandaty": 34,
+      "zmiana_mandatow": 14
+    },
+    {
+      "komitet": "KKW Trzecia Droga Polska 2050 Szymona Hołowni – Polskie Stronnictwo Ludowe",
+      "glosy": 2642360,
+      "procent": 11.5,
+      "zmiana_pp": 5.78,
+      "mandaty": 11,
+      "zmiana_mandatow": 8
+    },
+    {
+      "komitet": "Nowa Lewica",
+      "glosy": 1131639,
+      "procent": 5.29,
+      "zmiana_pp": 3.01,
+      "mandaty": 9,
+      "zmiana_mandatow": 7
+    },
+    {
+      "komitet": "KWW Zygmunt Frankiewicz – Pakt Senacki",
+      "glosy": 157032,
+      "procent": 0.73,
+      "zmiana_pp": "–",
+      "mandaty": 1,
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Krzysztof Kwiatkowski – Pakt Senacki",
+      "glosy": 139690,
+      "procent": 0.65,
+      "zmiana_pp": 0.21,
+      "mandaty": 1,
+      "zmiana_mandatow": ""
+    },
+    {
+      "komitet": "KWW Wadim Tyszkiewicz – Pakt Senacki",
+      "glosy": 97636,
+      "procent": 0.46,
+      "zmiana_pp": 0.11,
+      "mandaty": 1,
+      "zmiana_mandatow": ""
+    },
+    {
+      "komitet": "KWW Andrzej Dziuba – Pakt Senacki",
+      "glosy": 81834,
+      "procent": 0.38,
+      "zmiana_pp": "–",
+      "mandaty": 1,
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Józefa Zająca",
+      "glosy": 50763,
+      "procent": 0.24,
+      "zmiana_pp": "–",
+      "mandaty": 1,
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Konfederacja Wolność i Niepodległość",
+      "glosy": 1443836,
+      "procent": 6.75,
+      "zmiana_pp": 5.96,
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Bezpartyjni Samorządowcy",
+      "glosy": 1049919,
+      "procent": 4.91,
+      "zmiana_pp": 3.09,
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Nowa Demokracja – Tak",
+      "glosy": 95691,
+      "procent": 0.45,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Mirosława Piaseckiego Kandydata na Senatora RP",
+      "glosy": 58102,
+      "procent": 0.27,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Polska Jest Jedna",
+      "glosy": 55418,
+      "procent": 0.26,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Zjednoczenie Chrześcijańskich Rodzin",
+      "glosy": 51206,
+      "procent": 0.24,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Ślonzoki Razem",
+      "glosy": 50274,
+      "procent": 0.23,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Wolni i Solidarni",
+      "glosy": 42956,
+      "procent": 0.2,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Porozumienie Obywatelskie",
+      "glosy": 41592,
+      "procent": 0.19,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Polska 2050",
+      "glosy": 30763,
+      "procent": 0.14,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Mniejszość Niemiecka",
+      "glosy": 29390,
+      "procent": 0.14,
+      "zmiana_pp": 0.13,
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Związek Słowiański",
+      "glosy": 25802,
+      "procent": 0.12,
+      "zmiana_pp": 0.07,
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "KWW Ruchu Dobrobytu i Pokoju",
+      "glosy": 20672,
+      "procent": 0.1,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Ruch Naprawy Polski",
+      "glosy": 15236,
+      "procent": 0.07,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Zjednoczeni",
+      "glosy": 13422,
+      "procent": 0.06,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Normalny Kraj",
+      "glosy": 2177,
+      "procent": 0.01,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Pozostałe komitety wyborcze partii",
+      "glosy": 31339,
+      "procent": 0.15,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Pozostałe komitety wyborcze wyborców",
+      "glosy": 407079,
+      "procent": 1.9,
+      "zmiana_pp": "–",
+      "mandaty": "–",
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Ogółem",
+      "glosy": 21402998,
+      "procent": 100,
+      "zmiana_pp": "–",
+      "mandaty": 100,
+      "zmiana_mandatow": "–"
+    },
+    {
+      "komitet": "Głosy nieważne",
+      "glosy": 541886,
+      "procent": 2.46,
+      "zmiana_pp": 0.09,
+      "mandaty": "",
+      "zmiana_mandatow": ""
+    },
+    {
+      "komitet": "Frekwencja",
+      "glosy": 21944884,
+      "procent": 74.31,
+      "zmiana_pp": 12.57,
+      "mandaty": "",
+      "zmiana_mandatow": ""
+    }
+  ],
+  "meta": {
+    "title": "Wybory do Senatu 2023 — wyniki - Free Download",
+    "description": "Wyniki wyborów do Senatu RP z 15 października 2023 r. według komitetów. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wybory do Senatu 2023 — wyniki | ListBase",
+    "seo_description": "Download Wybory do Senatu 2023 — wyniki — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2023_roku"
+    ]
+  }
+}
