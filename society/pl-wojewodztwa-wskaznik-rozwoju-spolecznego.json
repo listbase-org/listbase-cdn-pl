@@ -1,0 +1,148 @@
+{
+  "id": "pl-wojewodztwa-wskaznik-rozwoju-spolecznego",
+  "name": "Województwa według wskaźnika rozwoju społecznego",
+  "title": "Województwa według wskaźnika rozwoju społecznego",
+  "description": "Województwa Polski według wskaźnika rozwoju społecznego (WRS/HDI) w 2019 r.",
+  "category": "society",
+  "source": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Gospodarka_Polski",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "wrs_2019",
+      "label": "Wrs 2019",
+      "type": "number"
+    },
+    {
+      "key": "porownywalne_panstwa",
+      "label": "Porownywalne Panstwa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": 1,
+      "wojewodztwo": "mazowieckie",
+      "wrs_2019": "0.931",
+      "porownywalne_panstwa": "Nowa Zelandia (0.931)"
+    },
+    {
+      "lp": 2,
+      "wojewodztwo": "dolnośląskie",
+      "wrs_2019": "0.894",
+      "porownywalne_panstwa": "Estonia (0.892), Włochy (0.892)"
+    },
+    {
+      "lp": 3,
+      "wojewodztwo": "małopolskie",
+      "wrs_2019": "0.892",
+      "porownywalne_panstwa": "Estonia (0.892), Włochy (0.892)"
+    },
+    {
+      "lp": 3,
+      "wojewodztwo": "pomorskie",
+      "wrs_2019": "0.892",
+      "porownywalne_panstwa": "Estonia (0.892), Włochy (0.892)"
+    },
+    {
+      "lp": 5,
+      "wojewodztwo": "wielkopolskie",
+      "wrs_2019": "0.888",
+      "porownywalne_panstwa": "Cypr (0.887), Grecja (0.889), Zjednoczone Emiraty Arabskie (0.889)"
+    },
+    {
+      "lp": 6,
+      "wojewodztwo": "śląskie",
+      "wrs_2019": "0.887",
+      "porownywalne_panstwa": "Cypr (0.887)"
+    },
+    {
+      "lp": "–",
+      "wojewodztwo": "Polska (średnia)",
+      "wrs_2019": "0.881",
+      "porownywalne_panstwa": "Litwa (0.882)"
+    },
+    {
+      "lp": 7,
+      "wojewodztwo": "łódzkie",
+      "wrs_2019": "0.875",
+      "porownywalne_panstwa": "Andora (0.868), Litwa (0.882)"
+    },
+    {
+      "lp": 8,
+      "wojewodztwo": "podlaskie",
+      "wrs_2019": "0.873",
+      "porownywalne_panstwa": "Andora (0.868)"
+    },
+    {
+      "lp": 9,
+      "wojewodztwo": "podkarpackie",
+      "wrs_2019": "0.872",
+      "porownywalne_panstwa": "Andora (0.868)"
+    },
+    {
+      "lp": 10,
+      "wojewodztwo": "opolskie",
+      "wrs_2019": "0.870",
+      "porownywalne_panstwa": "Andora (0.868)"
+    },
+    {
+      "lp": 11,
+      "wojewodztwo": "zachodniopomorskie",
+      "wrs_2019": "0.869",
+      "porownywalne_panstwa": "Andora (0.868)"
+    },
+    {
+      "lp": 12,
+      "wojewodztwo": "lubelskie",
+      "wrs_2019": "0.866",
+      "porownywalne_panstwa": "Łotwa (0.866)"
+    },
+    {
+      "lp": 12,
+      "wojewodztwo": "świętokrzyskie",
+      "wrs_2019": "0.866",
+      "porownywalne_panstwa": "Łotwa (0.866)"
+    },
+    {
+      "lp": 14,
+      "wojewodztwo": "kujawsko-pomorskie",
+      "wrs_2019": "0.862",
+      "porownywalne_panstwa": "Portugalia (0.864), Słowacja (0.860)"
+    },
+    {
+      "lp": 14,
+      "wojewodztwo": "lubuskie",
+      "wrs_2019": "0.862",
+      "porownywalne_panstwa": "Portugalia (0.864), Słowacja (0.860)"
+    },
+    {
+      "lp": 16,
+      "wojewodztwo": "warmińsko-mazurskie",
+      "wrs_2019": "0.848",
+      "porownywalne_panstwa": "Katar (0.847)"
+    }
+  ],
+  "meta": {
+    "title": "Województwa według wskaźnika rozwoju społecznego - Free Download",
+    "description": "Województwa Polski według wskaźnika rozwoju społecznego (WRS/HDI) w 2019 r. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Województwa według wskaźnika rozwoju społecznego | ListBase",
+    "seo_description": "Download Województwa według wskaźnika rozwoju społecznego — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Gospodarka_Polski"
+    ]
+  }
+}
