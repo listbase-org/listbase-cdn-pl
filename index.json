@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:27:54.714Z",
-  "total_datasets": 479,
-  "total_records": 1089582,
+  "generated": "2026-10-27T02:27:57.099Z",
+  "total_datasets": 480,
+  "total_records": 1089618,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -11662,6 +11662,30 @@
         "xlsx": {
           "name": "pl-komisariaty-policji_PL.xlsx",
           "size": 61121
+        }
+      }
+    },
+    {
+      "id": "pl-kluby-medale-mistrzostw-polski",
+      "name": "Kluby z największą liczbą tytułów mistrza Polski",
+      "category": "sports",
+      "record_count": 36,
+      "columns": [
+        "pozycja",
+        "klub",
+        "zwycieskie_sezony"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Mistrzostwa_Polski_w_piłce_nożnej_mężczyzn",
+      "updated": "2026-10",
+      "size": 6168,
+      "files": {
+        "csv": {
+          "name": "pl-kluby-medale-mistrzostw-polski_PL.csv",
+          "size": 1950
+        },
+        "xlsx": {
+          "name": "pl-kluby-medale-mistrzostw-polski_PL.xlsx",
+          "size": 8191
         }
       }
     },
