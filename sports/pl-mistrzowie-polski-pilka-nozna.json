@@ -1,0 +1,744 @@
+{
+  "id": "pl-mistrzowie-polski-pilka-nozna",
+  "name": "Mistrzowie Polski w piłce nożnej",
+  "title": "Mistrzowie Polski w piłce nożnej",
+  "description": "Mistrzowie, wicemistrzowie i trzecie drużyny mistrzostw Polski w piłce nożnej mężczyzn oraz królowie strzelców.",
+  "category": "sports",
+  "source": "https://pl.wikipedia.org/wiki/Mistrzostwa_Polski_w_piłce_nożnej_mężczyzn",
+  "source_url": "https://pl.wikipedia.org/wiki/Mistrzostwa_Polski_w_piłce_nożnej_mężczyzn",
+  "updated": "2026-10",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "number"
+    },
+    {
+      "key": "mistrz",
+      "label": "Mistrz",
+      "type": "string"
+    },
+    {
+      "key": "wicemistrz",
+      "label": "Wicemistrz",
+      "type": "string"
+    },
+    {
+      "key": "trzecie_miejsce",
+      "label": "Trzecie Miejsce",
+      "type": "string"
+    },
+    {
+      "key": "krol_strzelcow",
+      "label": "Krol Strzelcow",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1921",
+      "mistrz": "Cracovia",
+      "wicemistrz": "Polonia Warszawa",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Józef Kałuża ( Cracovia )"
+    },
+    {
+      "sezon": "1922",
+      "mistrz": "Pogoń Lwów",
+      "wicemistrz": "Warta Poznań",
+      "trzecie_miejsce": "Cracovia ŁKS Łódź",
+      "krol_strzelcow": "Wacław Kuchar ( Pogoń Lwów )"
+    },
+    {
+      "sezon": "1923",
+      "mistrz": "Pogoń Lwów",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Polonia Warszawa Warta Poznań",
+      "krol_strzelcow": "Mieczysław Batsch ( Pogoń Lwów )"
+    },
+    {
+      "sezon": "1925",
+      "mistrz": "Pogoń Lwów",
+      "wicemistrz": "Warta Poznań",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Henryk Reyman ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1926",
+      "mistrz": "Pogoń Lwów",
+      "wicemistrz": "Polonia Warszawa",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Józef Garbień ( Pogoń Lwów ) Wacław Kuchar ( Pogoń Lwów )"
+    },
+    {
+      "sezon": "1927",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "1. FC Katowice",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Henryk Reyman ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1928",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Warta Poznań",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Ludwik Gintel ( Cracovia )"
+    },
+    {
+      "sezon": "1929",
+      "mistrz": "Warta Poznań",
+      "wicemistrz": "Garbarnia Kraków",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Rochus Nastula ( Czarni Lwów )"
+    },
+    {
+      "sezon": "1930",
+      "mistrz": "Cracovia",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Karol Kossok ( Cracovia )"
+    },
+    {
+      "sezon": "1931",
+      "mistrz": "Garbarnia Kraków",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Walerian Kisieliński ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1932",
+      "mistrz": "Cracovia",
+      "wicemistrz": "Pogoń Lwów",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Kajetan Kryszkiewicz ( Warta Poznań )"
+    },
+    {
+      "sezon": "1933",
+      "mistrz": "Ruch Wielkie Hajduki",
+      "wicemistrz": "Pogoń Lwów",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Artur Woźniak ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1934",
+      "mistrz": "Ruch Wielkie Hajduki",
+      "wicemistrz": "Cracovia",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Ernest Wilimowski ( Ruch Wielkie Hajduki )"
+    },
+    {
+      "sezon": "1935",
+      "mistrz": "Ruch Wielkie Hajduki",
+      "wicemistrz": "Pogoń Lwów",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Michał Matyas ( Pogoń Lwów )"
+    },
+    {
+      "sezon": "1936",
+      "mistrz": "Ruch Wielkie Hajduki",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Warta Poznań",
+      "krol_strzelcow": "Ernest Wilimowski ( Ruch Wielkie Hajduki ) Teodor Peterek ( Ruch Wielkie Hajduki )"
+    },
+    {
+      "sezon": "1937",
+      "mistrz": "Cracovia",
+      "wicemistrz": "AKS Chorzów",
+      "trzecie_miejsce": "Ruch Wielkie Hajduki",
+      "krol_strzelcow": "Artur Woźniak ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1938",
+      "mistrz": "Ruch Wielkie Hajduki",
+      "wicemistrz": "Warta Poznań",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Ernest Wilimowski ( Ruch Wielkie Hajduki ) Teodor Peterek ( Ruch Wielkie Hajduki )"
+    },
+    {
+      "sezon": "1946",
+      "mistrz": "Polonia Warszawa",
+      "wicemistrz": "Warta Poznań",
+      "trzecie_miejsce": "AKS Chorzów",
+      "krol_strzelcow": "Henryk Spodzieja ( AKS Chorzów )"
+    },
+    {
+      "sezon": "1947",
+      "mistrz": "Warta Poznań",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "AKS Chorzów",
+      "krol_strzelcow": "Mieczysław Gracz ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1948",
+      "mistrz": "Cracovia",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Józef Kohut ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1949",
+      "mistrz": "Gwardia Kraków",
+      "wicemistrz": "Ogniwo Kraków",
+      "trzecie_miejsce": "Kolejarz Poznań",
+      "krol_strzelcow": "Teodor Anioła ( Kolejarz Poznań )"
+    },
+    {
+      "sezon": "1950",
+      "mistrz": "Gwardia Kraków",
+      "wicemistrz": "Unia Chorzów",
+      "trzecie_miejsce": "Kolejarz Poznań",
+      "krol_strzelcow": "Teodor Anioła ( Kolejarz Poznań )"
+    },
+    {
+      "sezon": "1950/1951",
+      "mistrz": "Unia Chorzów",
+      "wicemistrz": "Gwardia Kraków",
+      "trzecie_miejsce": "Budowlani Chorzów Kolejarz Warszawa",
+      "krol_strzelcow": "Henryk Spodzieja ( Budowlani Chorzów )"
+    },
+    {
+      "sezon": "1951",
+      "mistrz": "Gwardia Kraków",
+      "wicemistrz": "Górnik Radlin",
+      "trzecie_miejsce": "CWKS Warszawa",
+      "krol_strzelcow": "Teodor Anioła ( Kolejarz Poznań )"
+    },
+    {
+      "sezon": "1952",
+      "mistrz": "Unia Chorzów",
+      "wicemistrz": "Ogniwo Bytom",
+      "trzecie_miejsce": "Ogniwo MPK Kraków",
+      "krol_strzelcow": "Gerard Cieślik ( Unia Chorzów )"
+    },
+    {
+      "sezon": "1953",
+      "mistrz": "Unia Chorzów",
+      "wicemistrz": "OWKS Kraków",
+      "trzecie_miejsce": "Gwardia Kraków",
+      "krol_strzelcow": "Gerard Cieślik ( Unia Chorzów )"
+    },
+    {
+      "sezon": "1954",
+      "mistrz": "Ogniwo Bytom",
+      "wicemistrz": "ŁKS-Włókniarz Łódź",
+      "trzecie_miejsce": "Unia Chorzów",
+      "krol_strzelcow": "Henryk Kempny ( Ogniwo Bytom ) Ernest Pohl ( CWKS Warszawa )"
+    },
+    {
+      "sezon": "1955",
+      "mistrz": "CWKS Warszawa",
+      "wicemistrz": "Stal Sosnowiec",
+      "trzecie_miejsce": "Unia-Ruch Chorzów",
+      "krol_strzelcow": "Stanisław Hachorek ( Gwardia Warszawa )"
+    },
+    {
+      "sezon": "1956",
+      "mistrz": "CWKS Warszawa",
+      "wicemistrz": "Ruch Chorzów",
+      "trzecie_miejsce": "Lechia Gdańsk",
+      "krol_strzelcow": "Henryk Kempny ( CWKS Warszawa )"
+    },
+    {
+      "sezon": "1957",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Gwardia Warszawa",
+      "trzecie_miejsce": "ŁKS Łódź",
+      "krol_strzelcow": "Lucjan Brychczy ( Legia Warszawa )"
+    },
+    {
+      "sezon": "1958",
+      "mistrz": "ŁKS Łódź",
+      "wicemistrz": "Polonia Bytom",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Władysław Soporek ( ŁKS Łódź )"
+    },
+    {
+      "sezon": "1959",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Polonia Bytom",
+      "trzecie_miejsce": "Gwardia Warszawa",
+      "krol_strzelcow": "Ernest Pohl ( Górnik Zabrze ) Jan Liberda ( Polonia Bytom )"
+    },
+    {
+      "sezon": "1960",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Marian Norkowski ( Polonia Bydgoszcz )"
+    },
+    {
+      "sezon": "1961",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Polonia Bytom",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Ernest Pohl ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1962",
+      "mistrz": "Polonia Bytom",
+      "wicemistrz": "Górnik Zabrze",
+      "trzecie_miejsce": "Zagłębie Sosnowiec",
+      "krol_strzelcow": "Jan Liberda ( Polonia Bytom )"
+    },
+    {
+      "sezon": "1962/1963",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Ruch Chorzów",
+      "trzecie_miejsce": "Zagłębie Sosnowiec",
+      "krol_strzelcow": "Marian Kielec ( Pogoń Szczecin )"
+    },
+    {
+      "sezon": "1963/1964",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Zagłębie Sosnowiec",
+      "trzecie_miejsce": "Odra Opole",
+      "krol_strzelcow": "Lucjan Brychczy ( Legia Warszawa ) Józef Gałeczka ( Zagłębie Sosnowiec ) Jerzy Wilim ( Szombierki Bytom )"
+    },
+    {
+      "sezon": "1964/1965",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Szombierki Bytom",
+      "trzecie_miejsce": "Zagłębie Sosnowiec",
+      "krol_strzelcow": "Lucjan Brychczy ( Legia Warszawa )"
+    },
+    {
+      "sezon": "1965/1966",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Polonia Bytom",
+      "krol_strzelcow": "Włodzimierz Lubański ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1966/1967",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Zagłębie Sosnowiec",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Włodzimierz Lubański ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1967/1968",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Włodzimierz Lubański ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1968/1969",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Górnik Zabrze",
+      "trzecie_miejsce": "Polonia Bytom",
+      "krol_strzelcow": "Włodzimierz Lubański ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1969/1970",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Ruch Chorzów",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Andrzej Jarosik ( Zagłębie Sosnowiec )"
+    },
+    {
+      "sezon": "1970/1971",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Zagłębie Wałbrzych",
+      "krol_strzelcow": "Andrzej Jarosik ( Zagłębie Sosnowiec )"
+    },
+    {
+      "sezon": "1971/1972",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Zagłębie Sosnowiec",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Ryszard Szymczak ( Gwardia Warszawa )"
+    },
+    {
+      "sezon": "1972/1973",
+      "mistrz": "Stal Mielec",
+      "wicemistrz": "Ruch Chorzów",
+      "trzecie_miejsce": "Gwardia Warszawa",
+      "krol_strzelcow": "Grzegorz Lato ( Stal Mielec )"
+    },
+    {
+      "sezon": "1973/1974",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "Górnik Zabrze",
+      "trzecie_miejsce": "Stal Mielec",
+      "krol_strzelcow": "Zdzisław Kapka ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1974/1975",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "Stal Mielec",
+      "trzecie_miejsce": "Śląsk Wrocław",
+      "krol_strzelcow": "Grzegorz Lato ( Stal Mielec )"
+    },
+    {
+      "sezon": "1975/1976",
+      "mistrz": "Stal Mielec",
+      "wicemistrz": "GKS Tychy",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Kazimierz Kmiecik ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1976/1977",
+      "mistrz": "Śląsk Wrocław",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Włodzimierz Mazur ( Zagłębie Sosnowiec )"
+    },
+    {
+      "sezon": "1977/1978",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Śląsk Wrocław",
+      "trzecie_miejsce": "Lech Poznań",
+      "krol_strzelcow": "Kazimierz Kmiecik ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1978/1979",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Stal Mielec",
+      "krol_strzelcow": "Kazimierz Kmiecik ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1979/1980",
+      "mistrz": "Szombierki Bytom",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Kazimierz Kmiecik ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1980/1981",
+      "mistrz": "Widzew Łódź",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Szombierki Bytom",
+      "krol_strzelcow": "Krzysztof Adamczyk ( Legia Warszawa )"
+    },
+    {
+      "sezon": "1981/1982",
+      "mistrz": "Widzew Łódź",
+      "wicemistrz": "Śląsk Wrocław",
+      "trzecie_miejsce": "Stal Mielec",
+      "krol_strzelcow": "Grzegorz Kapica ( Szombierki Bytom )"
+    },
+    {
+      "sezon": "1982/1983",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Mirosław Okoński ( Lech Poznań ) Mirosław Tłokiński ( Widzew Łódź )"
+    },
+    {
+      "sezon": "1983/1984",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Pogoń Szczecin",
+      "krol_strzelcow": "Włodzimierz Ciołek ( Górnik Wałbrzych )"
+    },
+    {
+      "sezon": "1984/1985",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Widzew Łódź",
+      "krol_strzelcow": "Leszek Iwanicki ( Motor Lublin )"
+    },
+    {
+      "sezon": "1985/1986",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Widzew Łódź",
+      "krol_strzelcow": "Andrzej Zgutczyński ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "1986/1987",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "Pogoń Szczecin",
+      "trzecie_miejsce": "GKS Katowice",
+      "krol_strzelcow": "Marek Leśniak ( Pogoń Szczecin )"
+    },
+    {
+      "sezon": "1987/1988",
+      "mistrz": "Górnik Zabrze",
+      "wicemistrz": "GKS Katowice",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Dariusz Dziekanowski ( Legia Warszawa )"
+    },
+    {
+      "sezon": "1988/1989",
+      "mistrz": "Ruch Chorzów",
+      "wicemistrz": "GKS Katowice",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Krzysztof Warzycha ( Ruch Chorzów )"
+    },
+    {
+      "sezon": "1989/1990",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Zagłębie Lubin",
+      "trzecie_miejsce": "GKS Katowice",
+      "krol_strzelcow": "Andrzej Juskowiak ( Lech Poznań )"
+    },
+    {
+      "sezon": "1990/1991",
+      "mistrz": "Zagłębie Lubin",
+      "wicemistrz": "Górnik Zabrze",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Tomasz Dziubiński ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1991/1992",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "GKS Katowice",
+      "trzecie_miejsce": "Widzew Łódź",
+      "krol_strzelcow": "Jerzy Podbrożny ( Lech Poznań ) Mirosław Waligóra ( Hutnik Kraków )"
+    },
+    {
+      "sezon": "1992/1993",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "ŁKS Łódź",
+      "krol_strzelcow": "Jerzy Podbrożny ( Lech Poznań )"
+    },
+    {
+      "sezon": "1993/1994",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "GKS Katowice",
+      "trzecie_miejsce": "Górnik Zabrze",
+      "krol_strzelcow": "Zenon Burzawa ( Sokół Pniewy )"
+    },
+    {
+      "sezon": "1994/1995",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "GKS Katowice",
+      "krol_strzelcow": "Bogusław Cygan ( Stal Mielec )"
+    },
+    {
+      "sezon": "1995/1996",
+      "mistrz": "Widzew Łódź",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Hutnik Kraków",
+      "krol_strzelcow": "Marek Koniarek ( Widzew Łódź )"
+    },
+    {
+      "sezon": "1996/1997",
+      "mistrz": "Widzew Łódź",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Odra Wodzisław Śląski",
+      "krol_strzelcow": "Mirosław Trzeciak ( ŁKS Łódź )"
+    },
+    {
+      "sezon": "1997/1998",
+      "mistrz": "ŁKS Łódź",
+      "wicemistrz": "Polonia Warszawa",
+      "trzecie_miejsce": "Wisła Kraków",
+      "krol_strzelcow": "Arkadiusz Bąk ( Polonia Warszawa ) Sylwester Czereszewski ( Legia Warszawa ) Mariusz Śrutwa ( Ruch Chorzów )"
+    },
+    {
+      "sezon": "1998/1999",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Widzew Łódź",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Tomasz Frankowski ( Wisła Kraków )"
+    },
+    {
+      "sezon": "1999/2000",
+      "mistrz": "Polonia Warszawa",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Adam Kompała ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "2000/2001",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Pogoń Szczecin",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Tomasz Frankowski ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2001/2002",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Amica Wronki",
+      "krol_strzelcow": "Maciej Żurawski ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2002/2003",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Dyskobolia Grodzisk Wielkopolski",
+      "trzecie_miejsce": "GKS Katowice",
+      "krol_strzelcow": "Stanko Svitlica ( Legia Warszawa )"
+    },
+    {
+      "sezon": "2003/2004",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Amica Wronki",
+      "krol_strzelcow": "Maciej Żurawski ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2004/2005",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Dyskobolia Grodzisk Wielkopolski",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Tomasz Frankowski ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2005/2006",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Zagłębie Lubin",
+      "krol_strzelcow": "Grzegorz Piechna ( Korona Kielce )"
+    },
+    {
+      "sezon": "2006/2007",
+      "mistrz": "Zagłębie Lubin",
+      "wicemistrz": "GKS Bełchatów",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Piotr Reiss ( Lech Poznań )"
+    },
+    {
+      "sezon": "2007/2008",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Dyskobolia Grodzisk Wielkopolski",
+      "krol_strzelcow": "Paweł Brożek ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2008/2009",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Lech Poznań",
+      "krol_strzelcow": "Paweł Brożek ( Wisła Kraków ) Takesure Chinyama ( Legia Warszawa )"
+    },
+    {
+      "sezon": "2009/2010",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Wisła Kraków",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Robert Lewandowski ( Lech Poznań )"
+    },
+    {
+      "sezon": "2010/2011",
+      "mistrz": "Wisła Kraków",
+      "wicemistrz": "Śląsk Wrocław",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Tomasz Frankowski ( Jagiellonia Białystok )"
+    },
+    {
+      "sezon": "2011/2012",
+      "mistrz": "Śląsk Wrocław",
+      "wicemistrz": "Ruch Chorzów",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Artjoms Rudņevs ( Lech Poznań )"
+    },
+    {
+      "sezon": "2012/2013",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Lech Poznań",
+      "trzecie_miejsce": "Śląsk Wrocław",
+      "krol_strzelcow": "Róbert Demjan ( Podbeskidzie Bielsko-Biała )"
+    },
+    {
+      "sezon": "2013/2014",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Lech Poznań",
+      "trzecie_miejsce": "Ruch Chorzów",
+      "krol_strzelcow": "Marcin Robak ( Piast Gliwice / Pogoń Szczecin )"
+    },
+    {
+      "sezon": "2014/2015",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Jagiellonia Białystok",
+      "krol_strzelcow": "Kamil Wilczek ( Piast Gliwice )"
+    },
+    {
+      "sezon": "2015/2016",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Piast Gliwice",
+      "trzecie_miejsce": "Zagłębie Lubin",
+      "krol_strzelcow": "Nemanja Nikolić ( Legia Warszawa )"
+    },
+    {
+      "sezon": "2016/2017",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Jagiellonia Białystok",
+      "trzecie_miejsce": "Lech Poznań",
+      "krol_strzelcow": "Marco Paixão ( Lechia Gdańsk ) Marcin Robak ( Lech Poznań )"
+    },
+    {
+      "sezon": "2017/2018",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Jagiellonia Białystok",
+      "trzecie_miejsce": "Lech Poznań",
+      "krol_strzelcow": "Carlitos ( Wisła Kraków )"
+    },
+    {
+      "sezon": "2018/2019",
+      "mistrz": "Piast Gliwice",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Lechia Gdańsk",
+      "krol_strzelcow": "Igor Angulo ( Górnik Zabrze )"
+    },
+    {
+      "sezon": "2019/2020",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Lech Poznań",
+      "trzecie_miejsce": "Piast Gliwice",
+      "krol_strzelcow": "Christian Gytkjær ( Lech Poznań )"
+    },
+    {
+      "sezon": "2020/2021",
+      "mistrz": "Legia Warszawa",
+      "wicemistrz": "Raków Częstochowa",
+      "trzecie_miejsce": "Pogoń Szczecin",
+      "krol_strzelcow": "Tomáš Pekhart ( Legia Warszawa )"
+    },
+    {
+      "sezon": "2021/2022",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Raków Częstochowa",
+      "trzecie_miejsce": "Pogoń Szczecin",
+      "krol_strzelcow": "Ivi López ( Raków Częstochowa )"
+    },
+    {
+      "sezon": "2022/2023",
+      "mistrz": "Raków Częstochowa",
+      "wicemistrz": "Legia Warszawa",
+      "trzecie_miejsce": "Lech Poznań",
+      "krol_strzelcow": "Marc Gual ( Jagiellonia Białystok )"
+    },
+    {
+      "sezon": "2023/2024",
+      "mistrz": "Jagiellonia Białystok",
+      "wicemistrz": "Śląsk Wrocław",
+      "trzecie_miejsce": "Legia Warszawa",
+      "krol_strzelcow": "Erik Expósito ( Śląsk Wrocław )"
+    },
+    {
+      "sezon": "2024/2025",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Raków Częstochowa",
+      "trzecie_miejsce": "Jagiellonia Białystok",
+      "krol_strzelcow": "Eftimis Kuluris ( Pogoń Szczecin )"
+    },
+    {
+      "sezon": "2025/2026",
+      "mistrz": "Lech Poznań",
+      "wicemistrz": "Górnik Zabrze",
+      "trzecie_miejsce": "Jagiellonia Białystok",
+      "krol_strzelcow": "Tomáš Bobček ( Lechia Gdańsk )"
+    }
+  ],
+  "meta": {
+    "title": "Mistrzowie Polski w piłce nożnej - Free Download",
+    "description": "Mistrzowie, wicemistrzowie i trzecie drużyny mistrzostw Polski w piłce nożnej mężczyzn oraz królowie strzelców. Contains 99 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mistrzowie Polski w piłce nożnej | ListBase",
+    "seo_description": "Download Mistrzowie Polski w piłce nożnej — 99 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 99 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Mistrzostwa_Polski_w_piłce_nożnej_mężczyzn"
+    ]
+  }
+}

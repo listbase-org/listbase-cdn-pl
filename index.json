@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:09.772Z",
-  "total_datasets": 485,
-  "total_records": 1090021,
+  "generated": "2026-10-27T02:28:12.281Z",
+  "total_datasets": 486,
+  "total_records": 1090120,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -11833,6 +11833,32 @@
         "xlsx": {
           "name": "pl-kluby-medale-mistrzostw-polski_PL.xlsx",
           "size": 8191
+        }
+      }
+    },
+    {
+      "id": "pl-mistrzowie-polski-pilka-nozna",
+      "name": "Mistrzowie Polski w piłce nożnej",
+      "category": "sports",
+      "record_count": 99,
+      "columns": [
+        "sezon",
+        "mistrz",
+        "wicemistrz",
+        "trzecie_miejsce",
+        "krol_strzelcow"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Mistrzostwa_Polski_w_piłce_nożnej_mężczyzn",
+      "updated": "2026-10",
+      "size": 23761,
+      "files": {
+        "csv": {
+          "name": "pl-mistrzowie-polski-pilka-nozna_PL.csv",
+          "size": 10496
+        },
+        "xlsx": {
+          "name": "pl-mistrzowie-polski-pilka-nozna_PL.xlsx",
+          "size": 11281
         }
       }
     },
