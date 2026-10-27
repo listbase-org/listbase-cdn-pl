@@ -1,0 +1,552 @@
+{
+  "id": "pl-ministrowie-zdrowia",
+  "name": "Ministrowie zdrowia w Polsce",
+  "title": "Ministrowie zdrowia w Polsce",
+  "description": "Ministrowie zdrowia Rzeczypospolitej Polskiej: daty objęcia i złożenia urzędu, długość urzędowania i rząd.",
+  "category": "health",
+  "source": "https://pl.wikipedia.org/wiki/Ministerstwo_Zdrowia_(Polska)",
+  "source_url": "https://pl.wikipedia.org/wiki/Ministerstwo_Zdrowia_(Polska)",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania",
+      "label": "Dlugosc Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "13 XII 1918",
+      "zlozenie_urzedu": "16 I 1919",
+      "dlugosc_urzedowania": "34 dni",
+      "rzad": "Rząd Jędrzeja Moraczewskiego"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Tomasz Janiszewski (ur. 1867 , zm. 1939 )",
+      "objecie_urzedu": "16 I 1919",
+      "zlozenie_urzedu": "9 XII 1919",
+      "dlugosc_urzedowania": "327 dni",
+      "rzad": "Rząd Ignacego Jana Paderewskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "13 XII 1919",
+      "zlozenie_urzedu": "9 VI 1920",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Rząd Leopolda Skulskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "23 VI 1920",
+      "zlozenie_urzedu": "24 VII 1920",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Pierwszy rząd Władysława Grabskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "24 VII 1920",
+      "zlozenie_urzedu": "13 XI 1921",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Pierwszy rząd Wincentego Witosa"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "19 XI 1921",
+      "zlozenie_urzedu": "5 III 1922",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Pierwszy rząd Antoniego Ponikowskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "10 III 1922",
+      "zlozenie_urzedu": "6 VI 1922",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Drugi rząd Antoniego Ponikowskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "28 VI 1922",
+      "zlozenie_urzedu": "7 VII 1922",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Rząd Artura Śliwińskiego"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "31 VII 1922",
+      "zlozenie_urzedu": "14 XII 1922",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Rząd Juliana Nowaka"
+    },
+    {
+      "lp": "(1.)",
+      "imie_i_nazwisko": "Witold Chodźko (ur. 1875 , zm. 1954 )",
+      "objecie_urzedu": "16 XII 1922",
+      "zlozenie_urzedu": "26 V 1923",
+      "dlugosc_urzedowania": "1192 dni",
+      "rzad": "Pierwszy rząd Władysława Sikorskiego"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Franciszek Litwin ( SL ) (1899–1965)",
+      "objecie_urzedu": "14 IV 1945 / 5 VII 1945",
+      "zlozenie_urzedu": "6 II 1947",
+      "dlugosc_urzedowania": "581 dni",
+      "rzad": "Rząd Edwarda Osóbki-Morawskiego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Tadeusz Michejda ( SD ) (1879–1956)",
+      "objecie_urzedu": "6 II 1947",
+      "zlozenie_urzedu": "10 I 1951",
+      "dlugosc_urzedowania": "1434 dni",
+      "rzad": "Pierwszy rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Jerzy Sztachelski ( PZPR ) (1911–1975)",
+      "objecie_urzedu": "10 I 1951",
+      "zlozenie_urzedu": "13 XI 1956",
+      "dlugosc_urzedowania": "2134 dni",
+      "rzad": "Pierwszy rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Jerzy Sztachelski ( PZPR ) (1911–1975)",
+      "objecie_urzedu": "10 I 1951",
+      "zlozenie_urzedu": "13 XI 1956",
+      "dlugosc_urzedowania": "2134 dni",
+      "rzad": "Rząd Bolesława Bieruta i Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Rajmund Barański (1894–1971)",
+      "objecie_urzedu": "13 XI 1956",
+      "zlozenie_urzedu": "18 V 1961",
+      "dlugosc_urzedowania": "1647 dni",
+      "rzad": "Rząd Bolesława Bieruta i Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Rajmund Barański (1894–1971)",
+      "objecie_urzedu": "13 XI 1956",
+      "zlozenie_urzedu": "18 V 1961",
+      "dlugosc_urzedowania": "1647 dni",
+      "rzad": "Minister zdrowia i opieki społecznej od 25 IV 1960"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Rajmund Barański (1894–1971)",
+      "objecie_urzedu": "13 XI 1956",
+      "zlozenie_urzedu": "18 V 1961",
+      "dlugosc_urzedowania": "1647 dni",
+      "rzad": "Drugi rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Jerzy Sztachelski (PZPR) (1911–1975)",
+      "objecie_urzedu": "18 V 1961",
+      "zlozenie_urzedu": "15 VII 1968",
+      "dlugosc_urzedowania": "2615 dni",
+      "rzad": "Trzeci rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Jerzy Sztachelski (PZPR) (1911–1975)",
+      "objecie_urzedu": "18 V 1961",
+      "zlozenie_urzedu": "15 VII 1968",
+      "dlugosc_urzedowania": "2615 dni",
+      "rzad": "Czwarty rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Jan Kostrzewski (1915–2005)",
+      "objecie_urzedu": "15 VII 1968",
+      "zlozenie_urzedu": "29 III 1972",
+      "dlugosc_urzedowania": "1353 dni",
+      "rzad": "Czwarty rząd Józefa Cyrankiewicza"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Jan Kostrzewski (1915–2005)",
+      "objecie_urzedu": "15 VII 1968",
+      "zlozenie_urzedu": "29 III 1972",
+      "dlugosc_urzedowania": "1353 dni",
+      "rzad": "Rząd Józefa Cyrankiewicza i Piotra Jaroszewicza"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Marian Śliwiński (PZPR) (1932–2009)",
+      "objecie_urzedu": "29 III 1972",
+      "zlozenie_urzedu": "21 XI 1980",
+      "dlugosc_urzedowania": "3159 dni",
+      "rzad": "Rząd Piotra Jaroszewicza"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Marian Śliwiński (PZPR) (1932–2009)",
+      "objecie_urzedu": "29 III 1972",
+      "zlozenie_urzedu": "21 XI 1980",
+      "dlugosc_urzedowania": "3159 dni",
+      "rzad": "Rząd Piotra Jaroszewicza i Edwarda Babiucha"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Marian Śliwiński (PZPR) (1932–2009)",
+      "objecie_urzedu": "29 III 1972",
+      "zlozenie_urzedu": "21 XI 1980",
+      "dlugosc_urzedowania": "3159 dni",
+      "rzad": "Rząd Edwarda Babiucha, Józefa Pińkowskiego i Wojciecha Jaruzelskiego"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Tadeusz Szelachowski ( ZSL ) (1932–2020)",
+      "objecie_urzedu": "12 lutego 1981",
+      "zlozenie_urzedu": "12 listopada 1985",
+      "dlugosc_urzedowania": "1734 dni",
+      "rzad": "Rząd Edwarda Babiucha, Józefa Pińkowskiego i Wojciecha Jaruzelskiego"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Mirosław Cybulko (ZSL) (1932–2015)",
+      "objecie_urzedu": "12 XI 1985",
+      "zlozenie_urzedu": "24 X 1987",
+      "dlugosc_urzedowania": "711 dni",
+      "rzad": "Rząd Zbigniewa Messnera"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Janusz Komender (1931–2024)",
+      "objecie_urzedu": "24 X 1987",
+      "zlozenie_urzedu": "14 X 1988",
+      "dlugosc_urzedowania": "356 dni",
+      "rzad": "Rząd Zbigniewa Messnera"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Izabela Płaneta-Małecka (1930–2016)",
+      "objecie_urzedu": "14 X 1988",
+      "zlozenie_urzedu": "12 IX 1989",
+      "dlugosc_urzedowania": "333 dni",
+      "rzad": "Rząd Mieczysława Rakowskiego"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Andrzej Kosiniak-Kamysz ( PSL ) (ur. 1947)",
+      "objecie_urzedu": "12 IX 1989",
+      "zlozenie_urzedu": "12 I 1991",
+      "dlugosc_urzedowania": "487 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Władysław Sidorowicz (1945–2014)",
+      "objecie_urzedu": "12 I 1991",
+      "zlozenie_urzedu": "23 XII 1991",
+      "dlugosc_urzedowania": "345 dni",
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Marian Miśkiewicz (1926–2020)",
+      "objecie_urzedu": "23 XII 1991",
+      "zlozenie_urzedu": "11 VII 1992",
+      "dlugosc_urzedowania": "201 dni",
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Andrzej Wojtyła ( SLCh ) (ur. 1955)",
+      "objecie_urzedu": "11 VII 1992",
+      "zlozenie_urzedu": "26 X 1993",
+      "dlugosc_urzedowania": "472 dni",
+      "rzad": "Rząd Hanny Suchockiej"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Ryszard Żochowski (1941–1997)",
+      "objecie_urzedu": "26 X 1993",
+      "zlozenie_urzedu": "17 IX 1997",
+      "dlugosc_urzedowania": "1422 dni",
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Ryszard Żochowski (1941–1997)",
+      "objecie_urzedu": "26 X 1993",
+      "zlozenie_urzedu": "17 IX 1997",
+      "dlugosc_urzedowania": "1422 dni",
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Ryszard Żochowski (1941–1997)",
+      "objecie_urzedu": "26 X 1993",
+      "zlozenie_urzedu": "17 IX 1997",
+      "dlugosc_urzedowania": "1422 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Wojciech Maksymowicz (ur. 1955)",
+      "objecie_urzedu": "31 X 1997",
+      "zlozenie_urzedu": "26 III 1999",
+      "dlugosc_urzedowania": "511 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Franciszka Cegielska ( Ruch Stu ) (1946–2000)",
+      "objecie_urzedu": "26 III 1999",
+      "zlozenie_urzedu": "19 X 1999",
+      "dlugosc_urzedowania": "207 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Franciszka Cegielska ( Ruch Stu ) (1946–2000)",
+      "objecie_urzedu": "Minister zdrowia od 19 X 1999",
+      "zlozenie_urzedu": "Minister zdrowia od 19 X 1999",
+      "dlugosc_urzedowania": "Minister zdrowia od 19 X 1999",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Franciszka Cegielska ( Ruch Stu ) (1946–2000)",
+      "objecie_urzedu": "19 X 1999",
+      "zlozenie_urzedu": "22 X 2000",
+      "dlugosc_urzedowania": "369 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Grzegorz Opala ( RS AWS ) (ur. 1942)",
+      "objecie_urzedu": "7 XI 2000",
+      "zlozenie_urzedu": "19 X 2001",
+      "dlugosc_urzedowania": "346 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "21.",
+      "imie_i_nazwisko": "Mariusz Łapiński ( SLD ) (ur. 1957)",
+      "objecie_urzedu": "19 X 2001",
+      "zlozenie_urzedu": "17 I 2003",
+      "dlugosc_urzedowania": "455 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "22.",
+      "imie_i_nazwisko": "Marek Balicki (ur. 1953)",
+      "objecie_urzedu": "17 I 2003",
+      "zlozenie_urzedu": "2 IV 2003",
+      "dlugosc_urzedowania": "75 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "23.",
+      "imie_i_nazwisko": "Leszek Sikorski (SLD) (ur. 1955)",
+      "objecie_urzedu": "2 IV 2003",
+      "zlozenie_urzedu": "2 V 2004",
+      "dlugosc_urzedowania": "396 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "24.",
+      "imie_i_nazwisko": "Wojciech Rudnicki (ur. 1939)",
+      "objecie_urzedu": "2 V 2004",
+      "zlozenie_urzedu": "11 VI 2004",
+      "dlugosc_urzedowania": "40 dni",
+      "rzad": "Pierwszy rząd Marka Belki"
+    },
+    {
+      "lp": "25.",
+      "imie_i_nazwisko": "Marian Czakański (ur. 1946)",
+      "objecie_urzedu": "11 VI 2004",
+      "zlozenie_urzedu": "15 VII 2004",
+      "dlugosc_urzedowania": "34 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "(22.)",
+      "imie_i_nazwisko": "Marek Balicki ( SDPL ) (ur. 1953)",
+      "objecie_urzedu": "15 VII 2004",
+      "zlozenie_urzedu": "31 X 2005",
+      "dlugosc_urzedowania": "473 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "26.",
+      "imie_i_nazwisko": "Zbigniew Religa ( Centrum / SKL ) (1938–2009)",
+      "objecie_urzedu": "31 X 2005",
+      "zlozenie_urzedu": "7 IX 2007",
+      "dlugosc_urzedowania": "676 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "26.",
+      "imie_i_nazwisko": "Zbigniew Religa ( Centrum / SKL ) (1938–2009)",
+      "objecie_urzedu": "31 X 2005",
+      "zlozenie_urzedu": "7 IX 2007",
+      "dlugosc_urzedowania": "676 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "26.",
+      "imie_i_nazwisko": "Zbigniew Religa ( Centrum / SKL ) (1938–2009)",
+      "objecie_urzedu": "10 IX 2007",
+      "zlozenie_urzedu": "16 XI 2007",
+      "dlugosc_urzedowania": "67 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "27.",
+      "imie_i_nazwisko": "Ewa Kopacz ( PO ) (ur. 1956)",
+      "objecie_urzedu": "16 XI 2007",
+      "zlozenie_urzedu": "7 XI 2011",
+      "dlugosc_urzedowania": "1452 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska"
+    },
+    {
+      "lp": "28.",
+      "imie_i_nazwisko": "Bartosz Arłukowicz ( PO ) (ur. 1971)",
+      "objecie_urzedu": "18 XI 2011",
+      "zlozenie_urzedu": "15 VI 2015",
+      "dlugosc_urzedowania": "1305 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "28.",
+      "imie_i_nazwisko": "Bartosz Arłukowicz ( PO ) (ur. 1971)",
+      "objecie_urzedu": "18 XI 2011",
+      "zlozenie_urzedu": "15 VI 2015",
+      "dlugosc_urzedowania": "1305 dni",
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "29.",
+      "imie_i_nazwisko": "Marian Zembala (1950–2022)",
+      "objecie_urzedu": "16 VI 2015",
+      "zlozenie_urzedu": "16 XI 2015",
+      "dlugosc_urzedowania": "153 dni",
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "30.",
+      "imie_i_nazwisko": "Konstanty Radziwiłł ( PiS ) (ur. 1958)",
+      "objecie_urzedu": "16 XI 2015",
+      "zlozenie_urzedu": "9 I 2018",
+      "dlugosc_urzedowania": "785 dni",
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "30.",
+      "imie_i_nazwisko": "Konstanty Radziwiłł ( PiS ) (ur. 1958)",
+      "objecie_urzedu": "16 XI 2015",
+      "zlozenie_urzedu": "9 I 2018",
+      "dlugosc_urzedowania": "785 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "31.",
+      "imie_i_nazwisko": "Łukasz Szumowski (ur. 1972)",
+      "objecie_urzedu": "9 I 2018",
+      "zlozenie_urzedu": "20 VIII 2020",
+      "dlugosc_urzedowania": "954 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "31.",
+      "imie_i_nazwisko": "Łukasz Szumowski (ur. 1972)",
+      "objecie_urzedu": "9 I 2018",
+      "zlozenie_urzedu": "20 VIII 2020",
+      "dlugosc_urzedowania": "954 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "32.",
+      "imie_i_nazwisko": "Adam Niedzielski (ur. 1973)",
+      "objecie_urzedu": "26 VIII 2020",
+      "zlozenie_urzedu": "10 VIII 2023",
+      "dlugosc_urzedowania": "1079 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "33.",
+      "imie_i_nazwisko": "Katarzyna Sójka ( PiS ) (ur. 1986)",
+      "objecie_urzedu": "10 VIII 2023",
+      "zlozenie_urzedu": "27 XI 2023",
+      "dlugosc_urzedowania": "109 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "34.",
+      "imie_i_nazwisko": "Ewa Krajewska (ur. 1980)",
+      "objecie_urzedu": "27 XI 2023",
+      "zlozenie_urzedu": "13 XII 2023",
+      "dlugosc_urzedowania": "16 dni",
+      "rzad": "Trzeci rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "35.",
+      "imie_i_nazwisko": "Izabela Leszczyna ( PO ) (ur. 1962)",
+      "objecie_urzedu": "13 XII 2023",
+      "zlozenie_urzedu": "24 VII 2025",
+      "dlugosc_urzedowania": "588 dni",
+      "rzad": "Trzeci rząd Donalda Tuska"
+    },
+    {
+      "lp": "36.",
+      "imie_i_nazwisko": "Jolanta Sobierańska-Grenda (ur. 1973)",
+      "objecie_urzedu": "24 VII 2025",
+      "zlozenie_urzedu": "nadal",
+      "dlugosc_urzedowania": "460 dni",
+      "rzad": "Trzeci rząd Donalda Tuska"
+    }
+  ],
+  "meta": {
+    "title": "Ministrowie zdrowia w Polsce - Free Download",
+    "description": "Ministrowie zdrowia Rzeczypospolitej Polskiej: daty objęcia i złożenia urzędu, długość urzędowania i rząd. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministrowie zdrowia w Polsce | ListBase",
+    "seo_description": "Download Ministrowie zdrowia w Polsce — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Ministerstwo_Zdrowia_(Polska)"
+    ]
+  }
+}

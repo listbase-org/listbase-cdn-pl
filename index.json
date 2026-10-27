@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:07.287Z",
-  "total_datasets": 484,
-  "total_records": 1089959,
+  "generated": "2026-10-27T02:28:09.772Z",
+  "total_datasets": 485,
+  "total_records": 1090021,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -3165,6 +3165,33 @@
         "xlsx": {
           "name": "pl-apteki_PL.xlsx",
           "size": 302662
+        }
+      }
+    },
+    {
+      "id": "pl-ministrowie-zdrowia",
+      "name": "Ministrowie zdrowia w Polsce",
+      "category": "health",
+      "record_count": 62,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ministerstwo_Zdrowia_(Polska)",
+      "updated": "2026-10",
+      "size": 18075,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-zdrowia_PL.csv",
+          "size": 7288
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-zdrowia_PL.xlsx",
+          "size": 10301
         }
       }
     },
