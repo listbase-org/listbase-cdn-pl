@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:27:52.357Z",
-  "total_datasets": 478,
-  "total_records": 1089500,
+  "generated": "2026-10-27T02:27:54.714Z",
+  "total_datasets": 479,
+  "total_records": 1089582,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -270,6 +270,34 @@
         "xlsx": {
           "name": "pl-uniwersytety_PL.xlsx",
           "size": 15110
+        }
+      }
+    },
+    {
+      "id": "pl-filmy-najwieksza-widownia-po-1989",
+      "name": "Filmy z największą liczbą widzów w Polsce (po 1989)",
+      "category": "entertainment",
+      "record_count": 82,
+      "columns": [
+        "lp",
+        "tytul",
+        "kraj",
+        "rok",
+        "widzowie",
+        "przychody_usd",
+        "przychody_pln"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+      "updated": "2026-10",
+      "size": 18755,
+      "files": {
+        "csv": {
+          "name": "pl-filmy-najwieksza-widownia-po-1989_PL.csv",
+          "size": 6126
+        },
+        "xlsx": {
+          "name": "pl-filmy-najwieksza-widownia-po-1989_PL.xlsx",
+          "size": 11379
         }
       }
     },

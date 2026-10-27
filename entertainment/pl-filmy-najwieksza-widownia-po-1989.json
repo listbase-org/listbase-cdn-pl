@@ -1,0 +1,799 @@
+{
+  "id": "pl-filmy-najwieksza-widownia-po-1989",
+  "name": "Filmy z największą liczbą widzów w Polsce (po 1989)",
+  "title": "Filmy z największą liczbą widzów w Polsce (po 1989)",
+  "description": "Filmy z największą liczbą widzów w polskich kinach od 1989 r., z przychodami w USD i PLN.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "tytul",
+      "label": "Tytul",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "widzowie",
+      "label": "Widzowie",
+      "type": "number"
+    },
+    {
+      "key": "przychody_usd",
+      "label": "Przychody Usd",
+      "type": "number"
+    },
+    {
+      "key": "przychody_pln",
+      "label": "Przychody Pln",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "tytul": "Ogniem i mieczem",
+      "kraj": "Polska",
+      "rok": 1999,
+      "widzowie": 7151354,
+      "przychody_usd": 26366071,
+      "przychody_pln": 105089363
+    },
+    {
+      "lp": "2.",
+      "tytul": "Pan Tadeusz",
+      "kraj": "Polska",
+      "rok": 1999,
+      "widzowie": 6168344,
+      "przychody_usd": 20879608,
+      "przychody_pln": 82839843
+    },
+    {
+      "lp": "3.",
+      "tytul": "Kler",
+      "kraj": "Polska",
+      "rok": 2018,
+      "widzowie": 5184258,
+      "przychody_usd": 28274637,
+      "przychody_pln": 105261308
+    },
+    {
+      "lp": "4.",
+      "tytul": "Quo vadis",
+      "kraj": "Polska",
+      "rok": 2001,
+      "widzowie": 4300351,
+      "przychody_usd": 16863883,
+      "przychody_pln": 69045592
+    },
+    {
+      "lp": "5.",
+      "tytul": "Avatar",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2009,
+      "widzowie": 3677893,
+      "przychody_usd": 26135805,
+      "przychody_pln": 88260860
+    },
+    {
+      "lp": "6.",
+      "tytul": "Avatar: Istota wody",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2022,
+      "widzowie": 3603890,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "7.",
+      "tytul": "Titanic",
+      "kraj": "Stany Zjednoczone",
+      "rok": 1998,
+      "widzowie": 3513480,
+      "przychody_usd": 14078241,
+      "przychody_pln": 49115575
+    },
+    {
+      "lp": "8.",
+      "tytul": "Pasja",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2004,
+      "widzowie": 3461047,
+      "przychody_usd": 11667664,
+      "przychody_pln": 44662249
+    },
+    {
+      "lp": "9.",
+      "tytul": "Shrek 2",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2004,
+      "widzowie": 3395226,
+      "przychody_usd": 12862625,
+      "przychody_pln": 48184229
+    },
+    {
+      "lp": "10.",
+      "tytul": "Shrek Trzeci",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2007,
+      "widzowie": 3352469,
+      "przychody_usd": 18014551,
+      "przychody_pln": 49700000
+    },
+    {
+      "lp": "11.",
+      "tytul": "Listy do M. 3",
+      "kraj": "Polska",
+      "rok": 2017,
+      "widzowie": 3009971,
+      "przychody_usd": 17725599,
+      "przychody_pln": 65204800
+    },
+    {
+      "lp": "12.",
+      "tytul": "Gwiezdne wojny: Przebudzenie Mocy",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2015,
+      "widzowie": 2995000,
+      "przychody_usd": 16685439,
+      "przychody_pln": 62767218
+    },
+    {
+      "lp": "13.",
+      "tytul": "Listy do M. 2",
+      "kraj": "Polska",
+      "rok": 2015,
+      "widzowie": 2960806,
+      "przychody_usd": 13482509,
+      "przychody_pln": 54004780
+    },
+    {
+      "lp": "14.",
+      "tytul": "Akademia pana Kleksa",
+      "kraj": "Polska",
+      "rok": 2023,
+      "widzowie": 2923212,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "15.",
+      "tytul": "Pitbull. Niebezpieczne kobiety",
+      "kraj": "Polska",
+      "rok": 2016,
+      "widzowie": 2873149,
+      "przychody_usd": 14147163,
+      "przychody_pln": 58522569
+    },
+    {
+      "lp": "16.",
+      "tytul": "Barbie",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2023,
+      "widzowie": 2804694,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "17.",
+      "tytul": "Park Jurajski",
+      "kraj": "Stany Zjednoczone",
+      "rok": 1993,
+      "widzowie": 2784968,
+      "przychody_usd": 4339983,
+      "przychody_pln": 8745471
+    },
+    {
+      "lp": "18.",
+      "tytul": "Katyń",
+      "kraj": "Polska",
+      "rok": 2007,
+      "widzowie": 2761594,
+      "przychody_usd": 13558634,
+      "przychody_pln": 35200000
+    },
+    {
+      "lp": "19.",
+      "tytul": "Król lew",
+      "kraj": "Stany Zjednoczone",
+      "rok": 1994,
+      "widzowie": 2722832,
+      "przychody_usd": "",
+      "przychody_pln": 9829475
+    },
+    {
+      "lp": "20.",
+      "tytul": "Kraina Lodu II",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2019,
+      "widzowie": 2623100,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "21.",
+      "tytul": "Listy do M.",
+      "kraj": "Polska",
+      "rok": 2011,
+      "widzowie": 2560734,
+      "przychody_usd": 13943941,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "22.",
+      "tytul": "Władca Pierścieni: Drużyna Pierścienia",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2002,
+      "widzowie": 2529799,
+      "przychody_usd": 8844029,
+      "przychody_pln": 36397625
+    },
+    {
+      "lp": "23.",
+      "tytul": "Lejdis",
+      "kraj": "Polska",
+      "rok": 2008,
+      "widzowie": 2529122,
+      "przychody_usd": 18484522,
+      "przychody_pln": 41700000
+    },
+    {
+      "lp": "24.",
+      "tytul": "Harry Potter i Kamień Filozoficzny",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2002,
+      "widzowie": 2518282,
+      "przychody_usd": "",
+      "przychody_pln": 31452460
+    },
+    {
+      "lp": "25.",
+      "tytul": "Król lew",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2019,
+      "widzowie": 2488502,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "26.",
+      "tytul": "Shrek Forever",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2010,
+      "widzowie": 2436182,
+      "przychody_usd": 17262308,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "27.",
+      "tytul": "Miszmasz, czyli kogel-mogel 3",
+      "kraj": "Polska",
+      "rok": 2019,
+      "widzowie": 2360152,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "28.",
+      "tytul": "Botoks",
+      "kraj": "Polska",
+      "rok": 2017,
+      "widzowie": 2314925,
+      "przychody_usd": 13334202,
+      "przychody_pln": 48875277
+    },
+    {
+      "lp": "29.",
+      "tytul": "Bogowie",
+      "kraj": "Polska",
+      "rok": 2014,
+      "widzowie": 2261565,
+      "przychody_usd": "",
+      "przychody_pln": 40294755
+    },
+    {
+      "lp": "30.",
+      "tytul": "Hobbit: Bitwa Pięciu Armii",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2014,
+      "widzowie": 2243204,
+      "przychody_usd": 11973770,
+      "przychody_pln": 46592065
+    },
+    {
+      "lp": "31.",
+      "tytul": "Madagaskar 2",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2008,
+      "widzowie": 2239317,
+      "przychody_usd": 11636020,
+      "przychody_pln": 36719331
+    },
+    {
+      "lp": "32.",
+      "tytul": "W pustyni i w puszczy",
+      "kraj": "Polska",
+      "rok": 2001,
+      "widzowie": 2227228,
+      "przychody_usd": 6197607,
+      "przychody_pln": 25407628
+    },
+    {
+      "lp": "33.",
+      "tytul": "Kiler",
+      "kraj": "Polska",
+      "rok": 1997,
+      "widzowie": 2200943,
+      "przychody_usd": "",
+      "przychody_pln": 17319110
+    },
+    {
+      "lp": "34.",
+      "tytul": "Władca Pierścieni: Powrót króla",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2004,
+      "widzowie": 2113000,
+      "przychody_usd": 7968195,
+      "przychody_pln": 29875111
+    },
+    {
+      "lp": "35.",
+      "tytul": "Hobbit: Niezwykła podróż",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2012,
+      "widzowie": 2103493,
+      "przychody_usd": 13575296,
+      "przychody_pln": 42077858
+    },
+    {
+      "lp": "36.",
+      "tytul": "Gwiezdne wojny: Ostatni Jedi",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2017,
+      "widzowie": 2094952,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "37.",
+      "tytul": "Kobiety mafii",
+      "kraj": "Polska",
+      "rok": 2018,
+      "widzowie": 2033882,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "38.",
+      "tytul": "Epoka lodowcowa 3: Era dinozaurów",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2009,
+      "widzowie": 1990185,
+      "przychody_usd": 13316123,
+      "przychody_pln": 39471190
+    },
+    {
+      "lp": "39.",
+      "tytul": "Zemsta",
+      "kraj": "Polska",
+      "rok": 2002,
+      "widzowie": 1976984,
+      "przychody_usd": "",
+      "przychody_pln": 22188006
+    },
+    {
+      "lp": "40.",
+      "tytul": "Oppenheimer",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2023,
+      "widzowie": 1970000,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "41.",
+      "tytul": "Joker",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2019,
+      "widzowie": 1954335,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "42.",
+      "tytul": "Epoka lodowcowa 2: Odwilż",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2006,
+      "widzowie": 1946964,
+      "przychody_usd": 8629449,
+      "przychody_pln": 27458420
+    },
+    {
+      "lp": "43.",
+      "tytul": "Hobbit: Pustkowie Smauga",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2013,
+      "widzowie": 1930793,
+      "przychody_usd": 12908529,
+      "przychody_pln": 40239517
+    },
+    {
+      "lp": "44.",
+      "tytul": "Gru, Dru i Minionki",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2017,
+      "widzowie": 1927983,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "45.",
+      "tytul": "Planeta singli",
+      "kraj": "Polska",
+      "rok": 2016,
+      "widzowie": 1926090,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "46.",
+      "tytul": "Jan Paweł II",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2006,
+      "widzowie": 1913155,
+      "przychody_usd": 7863060,
+      "przychody_pln": 24233378
+    },
+    {
+      "lp": "47.",
+      "tytul": "Karol – człowiek, który został papieżem",
+      "kraj": "Włochy",
+      "rok": 2005,
+      "widzowie": 1881776,
+      "przychody_usd": 7367476,
+      "przychody_pln": 24368468
+    },
+    {
+      "lp": "48.",
+      "tytul": "Polityka",
+      "kraj": "Polska",
+      "rok": 2019,
+      "widzowie": 1869767,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "49.",
+      "tytul": "Avengers: Koniec gry",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2019,
+      "widzowie": 1838596,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "50.",
+      "tytul": "Pięćdziesiąt twarzy Greya",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2015,
+      "widzowie": 1814116,
+      "przychody_usd": 9473951,
+      "przychody_pln": 35054592
+    },
+    {
+      "lp": "51.",
+      "tytul": "Sztuka kochania. Historia Michaliny Wisłockiej",
+      "kraj": "Polska",
+      "rok": 2017,
+      "widzowie": 1808795,
+      "przychody_usd": "",
+      "przychody_pln": "ok. 35 600 000"
+    },
+    {
+      "lp": "52.",
+      "tytul": "Władca Pierścieni: Dwie wieże",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2003,
+      "widzowie": 1783749,
+      "przychody_usd": 6543498,
+      "przychody_pln": 25418888
+    },
+    {
+      "lp": "53.",
+      "tytul": "Spectre",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2015,
+      "widzowie": 1750671,
+      "przychody_usd": 8969943,
+      "przychody_pln": 35308490
+    },
+    {
+      "lp": "54.",
+      "tytul": "Madagaskar 3",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2012,
+      "widzowie": 1748172,
+      "przychody_usd": 10870584,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "55.",
+      "tytul": "Przedwiośnie",
+      "kraj": "Polska",
+      "rok": 2001,
+      "widzowie": 1743933,
+      "przychody_usd": 5215519,
+      "przychody_pln": 21354697
+    },
+    {
+      "lp": "56.",
+      "tytul": "Miasto 44",
+      "kraj": "Polska",
+      "rok": 2014,
+      "widzowie": 1752108,
+      "przychody_usd": "",
+      "przychody_pln": 25935278
+    },
+    {
+      "lp": "57.",
+      "tytul": "Karol – papież, który pozostał człowiekiem",
+      "kraj": "Włochy",
+      "rok": 2006,
+      "widzowie": 1742555,
+      "przychody_usd": 7326086,
+      "przychody_pln": 21352223
+    },
+    {
+      "lp": "58.",
+      "tytul": "Top Gun: Maverick",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2022,
+      "widzowie": 1740000,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "59.",
+      "tytul": "Diuna: Część druga",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2024,
+      "widzowie": 1738133,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "60.",
+      "tytul": "Harry Potter i Komnata Tajemnic",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2003,
+      "widzowie": 1711933,
+      "przychody_usd": 5746832,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "61.",
+      "tytul": "Och, Karol 2",
+      "kraj": "Polska",
+      "rok": 2011,
+      "widzowie": 1705789,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "62.",
+      "tytul": "Opowieści z Narnii: Lew, czarownica i stara szafa",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2005,
+      "widzowie": 1703099,
+      "przychody_usd": 7024581,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "63.",
+      "tytul": "Planeta singli 2",
+      "kraj": "Polska",
+      "rok": 2018,
+      "widzowie": 1688830,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "64.",
+      "tytul": "Minionki",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2015,
+      "widzowie": 1669881,
+      "przychody_usd": 7945644,
+      "przychody_pln": 30414721
+    },
+    {
+      "lp": "65.",
+      "tytul": "Tylko mnie kochaj",
+      "kraj": "Polska",
+      "rok": 2006,
+      "widzowie": 1668462,
+      "przychody_usd": 7561806,
+      "przychody_pln": 24656008
+    },
+    {
+      "lp": "66.",
+      "tytul": "Skyfall",
+      "kraj": "Wielka Brytania",
+      "rok": 2012,
+      "widzowie": 1660917,
+      "przychody_usd": 10093068,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "67.",
+      "tytul": "Flintstonowie",
+      "kraj": "Stany Zjednoczone",
+      "rok": 1994,
+      "widzowie": 1652707,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "68.",
+      "tytul": "Matrix: Reaktywacja",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2003,
+      "widzowie": 1637554,
+      "przychody_usd": 6443448,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "69.",
+      "tytul": "Sing",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2016,
+      "widzowie": 1635000,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "70.",
+      "tytul": "Pingwiny z Madagaskaru",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2015,
+      "widzowie": 1634542,
+      "przychody_usd": 7645500,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "71.",
+      "tytul": "365 dni",
+      "kraj": "Polska",
+      "rok": 2020,
+      "widzowie": 1630270,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "72.",
+      "tytul": "Nigdy w życiu!",
+      "kraj": "Polska",
+      "rok": 2004,
+      "widzowie": 1624265,
+      "przychody_usd": 5892151,
+      "przychody_pln": 22785418
+    },
+    {
+      "lp": "73.",
+      "tytul": "Gdzie jest Nemo?",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2003,
+      "widzowie": 1610000,
+      "przychody_usd": 4897112,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "74.",
+      "tytul": "Gwiezdne wojny: Skywalker. Odrodzenie",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2019,
+      "widzowie": 1602196,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "75.",
+      "tytul": "Nie czas umierać",
+      "kraj": "Wielka Brytania",
+      "rok": 2021,
+      "widzowie": 1585849,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "76.",
+      "tytul": 2012,
+      "kraj": "Stany Zjednoczone",
+      "rok": 2009,
+      "widzowie": 1560000,
+      "przychody_usd": 9780799,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "77.",
+      "tytul": "Gladiator",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2000,
+      "widzowie": 1550000,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "78.",
+      "tytul": "Epoka lodowcowa 4: Wędrówka kontynentów",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2012,
+      "widzowie": 1537654,
+      "przychody_usd": 9607277,
+      "przychody_pln": ""
+    },
+    {
+      "lp": "79.",
+      "tytul": "Boże Ciało",
+      "kraj": "Polska",
+      "rok": 2019,
+      "widzowie": 1531514,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "80.",
+      "tytul": "1920 Bitwa warszawska",
+      "kraj": "Polska",
+      "rok": 2011,
+      "widzowie": 1518240,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "81.",
+      "tytul": "Dywizjon 303. Historia prawdziwa",
+      "kraj": "Polska",
+      "rok": 2018,
+      "widzowie": 1526653,
+      "przychody_usd": "",
+      "przychody_pln": ""
+    },
+    {
+      "lp": "82.",
+      "tytul": "Shrek",
+      "kraj": "Stany Zjednoczone",
+      "rok": 2001,
+      "widzowie": 1500000,
+      "przychody_usd": 4920386,
+      "przychody_pln": ""
+    }
+  ],
+  "meta": {
+    "title": "Filmy z największą liczbą widzów w Polsce (po 1989) - Free Download",
+    "description": "Filmy z największą liczbą widzów w polskich kinach od 1989 r., z przychodami w USD i PLN. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Filmy z największą liczbą widzów w Polsce (po 1989) | ListBase",
+    "seo_description": "Download Filmy z największą liczbą widzów w Polsce (po 1989) — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_filmów_z_największą_liczbą_widzów_w_Polsce"
+    ]
+  }
+}
