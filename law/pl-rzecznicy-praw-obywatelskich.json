@@ -1,0 +1,186 @@
+{
+  "id": "pl-rzecznicy-praw-obywatelskich",
+  "name": "Rzecznicy Praw Obywatelskich",
+  "title": "Rzecznicy Praw Obywatelskich",
+  "description": "Rzecznicy Praw Obywatelskich w Polsce od 1988 r. z wynikami głosowania w Sejmie.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Obywatelskich",
+  "source_url": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Obywatelskich",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc",
+      "label": "Dlugosc",
+      "type": "string"
+    },
+    {
+      "key": "nominacja",
+      "label": "Nominacja",
+      "type": "string"
+    },
+    {
+      "key": "glosy_za",
+      "label": "Glosy Za",
+      "type": "number"
+    },
+    {
+      "key": "glosy_przeciw",
+      "label": "Glosy Przeciw",
+      "type": "number"
+    },
+    {
+      "key": "wstrzymujace",
+      "label": "Wstrzymujace",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "imie_i_nazwisko": "prof. dr hab. Ewa Łętowska",
+      "od": "1 stycznia 1988 (dts)",
+      "do": "13 lutego 1992 (dts)",
+      "dlugosc": "1504 dni",
+      "nominacja": "Sejm PRL IX kadencji",
+      "glosy_za": 254,
+      "glosy_przeciw": 1,
+      "wstrzymujace": 47
+    },
+    {
+      "imie_i_nazwisko": "prof. dr hab. Tadeusz Zieliński",
+      "od": "13 lutego 1992 (dts)",
+      "do": "8 maja 1996 (dts)",
+      "dlugosc": "1545 dni",
+      "nominacja": "Sejm RP I kadencji",
+      "glosy_za": 225,
+      "glosy_przeciw": 15,
+      "wstrzymujace": 63
+    },
+    {
+      "imie_i_nazwisko": "prof. dr hab. Adam Zieliński",
+      "od": "8 maja 1996 (dts)",
+      "do": "30 czerwca 2000 (dts)",
+      "dlugosc": "1514 dni",
+      "nominacja": "Sejm RP II kadencji",
+      "glosy_za": 326,
+      "glosy_przeciw": 1,
+      "wstrzymujace": 14
+    },
+    {
+      "imie_i_nazwisko": "prof. dr hab. Andrzej Zoll",
+      "od": "30 czerwca 2000 (dts)",
+      "do": "15 lutego 2006 (dts)",
+      "dlugosc": "2056 dni",
+      "nominacja": "Sejm RP III kadencji",
+      "glosy_za": 269,
+      "glosy_przeciw": 50,
+      "wstrzymujace": 107
+    },
+    {
+      "imie_i_nazwisko": "dr Janusz Kochanowski",
+      "od": "15 lutego 2006 (dts)",
+      "do": "10 kwietnia 2010 (dts)",
+      "dlugosc": "1514 dni",
+      "nominacja": "Sejm RP V kadencji",
+      "glosy_za": 239,
+      "glosy_przeciw": 194,
+      "wstrzymujace": 1
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Trociuk",
+      "od": "11 kwietnia 2010",
+      "do": "21 lipca 2010",
+      "dlugosc": "101 dni",
+      "nominacja": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_za": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_przeciw": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "wstrzymujace": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO"
+    },
+    {
+      "imie_i_nazwisko": "dr hab. Irena Lipowicz",
+      "od": "21 lipca 2010 (dts)",
+      "do": "9 września 2015 (dts)",
+      "dlugosc": "1876 dni",
+      "nominacja": "Sejm RP VI kadencji",
+      "glosy_za": 251,
+      "glosy_przeciw": "–",
+      "wstrzymujace": "–"
+    },
+    {
+      "imie_i_nazwisko": "dr hab. Adam Bodnar",
+      "od": "9 września 2015 (dts)",
+      "do": "15 lipca 2021 (dts)",
+      "dlugosc": "2136 dni",
+      "nominacja": "Sejm RP VII kadencji",
+      "glosy_za": 239,
+      "glosy_przeciw": "–",
+      "wstrzymujace": "–"
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Trociuk",
+      "od": "16 lipca 2021 (dts)",
+      "do": "23 lipca 2021 (dts)",
+      "dlugosc": "7 dni",
+      "nominacja": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_za": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_przeciw": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "wstrzymujace": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO"
+    },
+    {
+      "imie_i_nazwisko": "dr hab. Marcin Wiącek",
+      "od": "23 lipca 2021 (dts)",
+      "do": "23 lipca 2026 (dts)",
+      "dlugosc": "1826 dni",
+      "nominacja": "Sejm RP IX kadencji",
+      "glosy_za": 380,
+      "glosy_przeciw": 3,
+      "wstrzymujace": 43
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Trociuk",
+      "od": "24 lipca 2026 (dts)",
+      "do": "29 lipca 2026",
+      "dlugosc": "5 dni",
+      "nominacja": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_za": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "glosy_przeciw": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO",
+      "wstrzymujace": "jako Zastępca RPO czasowo wykonujący obowiązki RPO i kierujący Biurem RPO"
+    },
+    {
+      "imie_i_nazwisko": "Sylwia Gregorczyk-Abram",
+      "od": "29 lipca 2026",
+      "do": "obecnie",
+      "dlugosc": "",
+      "nominacja": "Sejm RP X kadencji",
+      "glosy_za": 233,
+      "glosy_przeciw": "–",
+      "wstrzymujace": "–"
+    }
+  ],
+  "meta": {
+    "title": "Rzecznicy Praw Obywatelskich - Free Download",
+    "description": "Rzecznicy Praw Obywatelskich w Polsce od 1988 r. z wynikami głosowania w Sejmie. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rzecznicy Praw Obywatelskich | ListBase",
+    "seo_description": "Download Rzecznicy Praw Obywatelskich — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Rzecznik_Praw_Obywatelskich"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:29.427Z",
-  "total_datasets": 493,
-  "total_records": 1090459,
+  "generated": "2026-10-27T02:28:31.810Z",
+  "total_datasets": 494,
+  "total_records": 1090471,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -3514,6 +3514,35 @@
         "xlsx": {
           "name": "pl-prezesi-trybunalu-konstytucyjnego_PL.xlsx",
           "size": 7418
+        }
+      }
+    },
+    {
+      "id": "pl-rzecznicy-praw-obywatelskich",
+      "name": "Rzecznicy Praw Obywatelskich",
+      "category": "law",
+      "record_count": 12,
+      "columns": [
+        "imie_i_nazwisko",
+        "od",
+        "do",
+        "dlugosc",
+        "nominacja",
+        "glosy_za",
+        "glosy_przeciw",
+        "wstrzymujace"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Obywatelskich",
+      "updated": "2026-10",
+      "size": 6055,
+      "files": {
+        "csv": {
+          "name": "pl-rzecznicy-praw-obywatelskich_PL.csv",
+          "size": 2339
+        },
+        "xlsx": {
+          "name": "pl-rzecznicy-praw-obywatelskich_PL.xlsx",
+          "size": 7696
         }
       }
     },
