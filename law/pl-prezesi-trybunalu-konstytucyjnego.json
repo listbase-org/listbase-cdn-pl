@@ -1,0 +1,118 @@
+{
+  "id": "pl-prezesi-trybunalu-konstytucyjnego",
+  "name": "Prezesi Trybunału Konstytucyjnego",
+  "title": "Prezesi Trybunału Konstytucyjnego",
+  "description": "Prezesi Trybunału Konstytucyjnego RP od 1985 r. z okresem pełnienia funkcji.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)",
+  "source_url": "https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "okres_funkcji",
+      "label": "Okres Funkcji",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "okres_w_trybunale",
+      "label": "Okres W Trybunale",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "okres_funkcji": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Alfons Klafkowski",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989"
+    },
+    {
+      "lp": "2.",
+      "okres_funkcji": "od 1 grudnia 1989 do 19 listopada 1993",
+      "imie_i_nazwisko": "Mieczysław Tyczka",
+      "okres_w_trybunale": "od 1 grudnia 1989 do 17 czerwca 1994"
+    },
+    {
+      "lp": "3.",
+      "okres_funkcji": "od 19 listopada 1993 do 1 grudnia 1997",
+      "imie_i_nazwisko": "Andrzej Zoll",
+      "okres_w_trybunale": "od 1 grudnia 1989 do 1 grudnia 1997"
+    },
+    {
+      "lp": "–",
+      "okres_funkcji": "od 1 grudnia 1997 do 6 stycznia 1998",
+      "imie_i_nazwisko": "vacat",
+      "okres_w_trybunale": "–"
+    },
+    {
+      "lp": "4.",
+      "okres_funkcji": "od 6 stycznia 1998 do 5 listopada 2006",
+      "imie_i_nazwisko": "Marek Safjan",
+      "okres_w_trybunale": "od 5 listopada 1997 do 5 listopada 2006"
+    },
+    {
+      "lp": "5.",
+      "okres_funkcji": "od 6 listopada 2006 do 25 czerwca 2008",
+      "imie_i_nazwisko": "Jerzy Stępień",
+      "okres_w_trybunale": "od 25 VI 1999 do 25 VI 2008"
+    },
+    {
+      "lp": "6.",
+      "okres_funkcji": "od 26 czerwca 2008 do 2 grudnia 2010",
+      "imie_i_nazwisko": "Bohdan Zdziennicki",
+      "okres_w_trybunale": "od 2 grudnia 2001 do 2 grudnia 2010"
+    },
+    {
+      "lp": "7.",
+      "okres_funkcji": "od 3 grudnia 2010 do 19 grudnia 2016",
+      "imie_i_nazwisko": "Andrzej Rzepliński",
+      "okres_w_trybunale": "od 19 grudnia 2007 do 19 grudnia 2016"
+    },
+    {
+      "lp": "–",
+      "okres_funkcji": "20 grudnia 2016",
+      "imie_i_nazwisko": "p.o. Julia Przyłębska ( de facto )",
+      "okres_w_trybunale": "od 9 grudnia 2015 do 9 grudnia 2024"
+    },
+    {
+      "lp": "8.",
+      "okres_funkcji": "od 21 grudnia 2016 do 29 listopada 2024",
+      "imie_i_nazwisko": "Julia Przyłębska ( de facto )",
+      "okres_w_trybunale": "od 9 grudnia 2015 do 9 grudnia 2024"
+    },
+    {
+      "lp": "–",
+      "okres_funkcji": "od 29 listopada do 9 grudnia 2024",
+      "imie_i_nazwisko": "vacat ( Julia Przyłębska jako sędzia kierująca pracami TK)",
+      "okres_w_trybunale": "–"
+    },
+    {
+      "lp": "9.",
+      "okres_funkcji": "od 9 grudnia 2024",
+      "imie_i_nazwisko": "Bogdan Święczkowski ( de facto )",
+      "okres_w_trybunale": "od 16 lutego 2022"
+    }
+  ],
+  "meta": {
+    "title": "Prezesi Trybunału Konstytucyjnego - Free Download",
+    "description": "Prezesi Trybunału Konstytucyjnego RP od 1985 r. z okresem pełnienia funkcji. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prezesi Trybunału Konstytucyjnego | ListBase",
+    "seo_description": "Download Prezesi Trybunału Konstytucyjnego — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)"
+    ]
+  }
+}
