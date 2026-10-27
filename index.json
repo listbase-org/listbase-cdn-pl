@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:19.833Z",
-  "total_datasets": 489,
-  "total_records": 1090336,
+  "generated": "2026-10-27T02:28:22.287Z",
+  "total_datasets": 490,
+  "total_records": 1090361,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -958,6 +958,30 @@
         "xlsx": {
           "name": "pl-ministrowie-finansow_PL.xlsx",
           "size": 8913
+        }
+      }
+    },
+    {
+      "id": "pl-prezesi-nbp",
+      "name": "Prezesi Narodowego Banku Polskiego",
+      "category": "finance",
+      "record_count": 25,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "okres"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Narodowy_Bank_Polski",
+      "updated": "2026-10",
+      "size": 4956,
+      "files": {
+        "csv": {
+          "name": "pl-prezesi-nbp_PL.csv",
+          "size": 2006
+        },
+        "xlsx": {
+          "name": "pl-prezesi-nbp_PL.xlsx",
+          "size": 7871
         }
       }
     },
