@@ -1,9 +1,13 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:02.084Z",
-  "total_datasets": 482,
-  "total_records": 1089885,
+  "generated": "2026-10-27T02:28:04.846Z",
+  "total_datasets": 483,
+  "total_records": 1089924,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 4
@@ -90,6 +94,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pl-ministrowie-rolnictwa",
+      "name": "Ministrowie rolnictwa w Polsce",
+      "category": "agriculture",
+      "record_count": 39,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ministerstwo_Rolnictwa_i_Rozwoju_Wsi",
+      "updated": "2026-10",
+      "size": 12300,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-rolnictwa_PL.csv",
+          "size": 4852
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-rolnictwa_PL.xlsx",
+          "size": 8974
+        }
+      }
+    },
     {
       "id": "pl-miejsca-kultu",
       "name": "Miejsca kultu religijnego w Polsce (Places of worship, OSM)",

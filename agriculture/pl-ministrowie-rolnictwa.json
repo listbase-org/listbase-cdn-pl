@@ -1,0 +1,368 @@
+{
+  "id": "pl-ministrowie-rolnictwa",
+  "name": "Ministrowie rolnictwa w Polsce",
+  "title": "Ministrowie rolnictwa w Polsce",
+  "description": "Ministrowie rolnictwa Rzeczypospolitej Polskiej: daty objęcia i złożenia urzędu, długość urzędowania i rząd.",
+  "category": "agriculture",
+  "source": "https://pl.wikipedia.org/wiki/Ministerstwo_Rolnictwa_i_Rozwoju_Wsi",
+  "source_url": "https://pl.wikipedia.org/wiki/Ministerstwo_Rolnictwa_i_Rozwoju_Wsi",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania",
+      "label": "Dlugosc Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Czesław Janicki ( PSL ) (1926–2012)",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "6 lipca 1990",
+      "dlugosc_urzedowania": "297 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Janusz Byliński (ur. 1952)",
+      "objecie_urzedu": "14 września 1990",
+      "zlozenie_urzedu": "12 stycznia 1991",
+      "dlugosc_urzedowania": "120 dni",
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Adam Tański (ur. 1946)",
+      "objecie_urzedu": "12 stycznia 1991",
+      "zlozenie_urzedu": "23 grudnia 1991",
+      "dlugosc_urzedowania": "345 dni",
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Gabriel Janowski ( PSL-PL ) (ur. 1947)",
+      "objecie_urzedu": "23 grudnia 1991",
+      "zlozenie_urzedu": "8 kwietnia 1993",
+      "dlugosc_urzedowania": "472 dni",
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Gabriel Janowski ( PSL-PL ) (ur. 1947)",
+      "objecie_urzedu": "23 grudnia 1991",
+      "zlozenie_urzedu": "8 kwietnia 1993",
+      "dlugosc_urzedowania": "472 dni",
+      "rzad": "Rząd Hanny Suchockiej"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Andrzej Śmietanko (PSL) (ur. 1955)",
+      "objecie_urzedu": "26 października 1993",
+      "zlozenie_urzedu": "6 marca 1995",
+      "dlugosc_urzedowania": "496 dni",
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Roman Jagieliński (PSL) (ur. 1947)",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "10 kwietnia 1997",
+      "dlugosc_urzedowania": "765 dni",
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Roman Jagieliński (PSL) (ur. 1947)",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "10 kwietnia 1997",
+      "dlugosc_urzedowania": "765 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Jarosław Kalinowski (PSL) (ur. 1962)",
+      "objecie_urzedu": "25 kwietnia 1997",
+      "zlozenie_urzedu": "31 października 1997",
+      "dlugosc_urzedowania": "189 dni",
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Jacek Janiszewski ( SKL ) (ur. 1960)",
+      "objecie_urzedu": "31 października 1997",
+      "zlozenie_urzedu": "26 marca 1999",
+      "dlugosc_urzedowania": "511 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Artur Balazs (SKL) (ur. 1952)",
+      "objecie_urzedu": "26 marca 1999",
+      "zlozenie_urzedu": "19 października 1999",
+      "dlugosc_urzedowania": "207 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Artur Balazs (SKL) (ur. 1952)",
+      "objecie_urzedu": "Minister rolnictwa i rozwoju wsi od 19 X 1999",
+      "zlozenie_urzedu": "Minister rolnictwa i rozwoju wsi od 19 X 1999",
+      "dlugosc_urzedowania": "Minister rolnictwa i rozwoju wsi od 19 X 1999",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Artur Balazs (SKL) (ur. 1952)",
+      "objecie_urzedu": "19 października 1999",
+      "zlozenie_urzedu": "19 października 2001",
+      "dlugosc_urzedowania": "731 dni",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "(7.)",
+      "imie_i_nazwisko": "Jarosław Kalinowski (PSL) (ur. 1962)",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "3 marca 2003",
+      "dlugosc_urzedowania": "500 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "(3.)",
+      "imie_i_nazwisko": "Adam Tański (ur. 1946)",
+      "objecie_urzedu": "3 marca 2003",
+      "zlozenie_urzedu": "2 lipca 2003",
+      "dlugosc_urzedowania": "121 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Wojciech Olejniczak ( SLD ) (ur. 1974)",
+      "objecie_urzedu": "2 lipca 2003",
+      "zlozenie_urzedu": "31 maja 2005",
+      "dlugosc_urzedowania": "699 dni",
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Wojciech Olejniczak ( SLD ) (ur. 1974)",
+      "objecie_urzedu": "2 lipca 2003",
+      "zlozenie_urzedu": "31 maja 2005",
+      "dlugosc_urzedowania": "699 dni",
+      "rzad": "Pierwszy rząd Marka Belki"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Wojciech Olejniczak ( SLD ) (ur. 1974)",
+      "objecie_urzedu": "2 lipca 2003",
+      "zlozenie_urzedu": "31 maja 2005",
+      "dlugosc_urzedowania": "699 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Józef Pilarczyk (SLD) (ur. 1949)",
+      "objecie_urzedu": "31 maja 2005",
+      "zlozenie_urzedu": "31 października 2005",
+      "dlugosc_urzedowania": "153 dni",
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Krzysztof Jurgiel ( PiS ) (ur. 1953)",
+      "objecie_urzedu": "31 października 2005",
+      "zlozenie_urzedu": "5 maja 2006",
+      "dlugosc_urzedowania": "186 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Andrzej Lepper ( Samoobrona RP ) (1954–2011)",
+      "objecie_urzedu": "5 maja 2006",
+      "zlozenie_urzedu": "22 września 2006",
+      "dlugosc_urzedowania": "140 dni",
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Andrzej Lepper ( Samoobrona RP ) (1954–2011)",
+      "objecie_urzedu": "5 maja 2006",
+      "zlozenie_urzedu": "22 września 2006",
+      "dlugosc_urzedowania": "140 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Andrzej Lepper ( Samoobrona RP ) (1954–2011)",
+      "objecie_urzedu": "16 października 2006",
+      "zlozenie_urzedu": "9 lipca 2007",
+      "dlugosc_urzedowania": "266 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Wojciech Mojzesowicz (PiS) (ur. 1954)",
+      "objecie_urzedu": "31 lipca 2007",
+      "zlozenie_urzedu": "16 listopada 2007",
+      "dlugosc_urzedowania": "108 dni",
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Marek Sawicki (PSL) (ur. 1958)",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "26 lipca 2012",
+      "dlugosc_urzedowania": "1714 dni",
+      "rzad": "Pierwszy rząd Donalda Tuska"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Marek Sawicki (PSL) (ur. 1958)",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "26 lipca 2012",
+      "dlugosc_urzedowania": "1714 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Stanisław Kalemba (PSL) (ur. 1947)",
+      "objecie_urzedu": "31 lipca 2012",
+      "zlozenie_urzedu": "17 marca 2014",
+      "dlugosc_urzedowania": "594 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "(15.)",
+      "imie_i_nazwisko": "Marek Sawicki (PSL) (ur. 1958)",
+      "objecie_urzedu": "17 marca 2014",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania": "609 dni",
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "(15.)",
+      "imie_i_nazwisko": "Marek Sawicki (PSL) (ur. 1958)",
+      "objecie_urzedu": "17 marca 2014",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania": "609 dni",
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "(12.)",
+      "imie_i_nazwisko": "Krzysztof Jurgiel (PiS) (ur. 1953)",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "19 czerwca 2018",
+      "dlugosc_urzedowania": "946 dni",
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "(12.)",
+      "imie_i_nazwisko": "Krzysztof Jurgiel (PiS) (ur. 1953)",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "19 czerwca 2018",
+      "dlugosc_urzedowania": "946 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Jan Krzysztof Ardanowski (PiS) (ur. 1961)",
+      "objecie_urzedu": "20 czerwca 2018",
+      "zlozenie_urzedu": "6 października 2020",
+      "dlugosc_urzedowania": "839 dni",
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Jan Krzysztof Ardanowski (PiS) (ur. 1961)",
+      "objecie_urzedu": "20 czerwca 2018",
+      "zlozenie_urzedu": "6 października 2020",
+      "dlugosc_urzedowania": "839 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Grzegorz Puda (PiS) (ur. 1982)",
+      "objecie_urzedu": "6 października 2020",
+      "zlozenie_urzedu": "26 października 2021",
+      "dlugosc_urzedowania": "385 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Henryk Kowalczyk (PiS) (ur. 1956)",
+      "objecie_urzedu": "26 października 2021",
+      "zlozenie_urzedu": "6 kwietnia 2023",
+      "dlugosc_urzedowania": "527 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Robert Telus (PiS) (ur. 1969)",
+      "objecie_urzedu": "6 kwietnia 2023",
+      "zlozenie_urzedu": "27 listopada 2023",
+      "dlugosc_urzedowania": "235 dni",
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "21.",
+      "imie_i_nazwisko": "Anna Gembicka (PiS) (ur. 1991)",
+      "objecie_urzedu": "27 listopada 2023",
+      "zlozenie_urzedu": "13 grudnia 2023",
+      "dlugosc_urzedowania": "16 dni",
+      "rzad": "Trzeci rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "22.",
+      "imie_i_nazwisko": "Czesław Siekierski (PSL) (ur. 1952)",
+      "objecie_urzedu": "13 grudnia 2023",
+      "zlozenie_urzedu": "24 lipca 2025",
+      "dlugosc_urzedowania": "589 dni",
+      "rzad": "Trzeci rząd Donalda Tuska"
+    },
+    {
+      "lp": "23.",
+      "imie_i_nazwisko": "Stefan Krajewski (ur. 1981) (PSL)",
+      "objecie_urzedu": "24 lipca 2025",
+      "zlozenie_urzedu": "",
+      "dlugosc_urzedowania": "460 dni",
+      "rzad": "Trzeci rząd Donalda Tuska"
+    }
+  ],
+  "meta": {
+    "title": "Ministrowie rolnictwa w Polsce - Free Download",
+    "description": "Ministrowie rolnictwa Rzeczypospolitej Polskiej: daty objęcia i złożenia urzędu, długość urzędowania i rząd. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministrowie rolnictwa w Polsce | ListBase",
+    "seo_description": "Download Ministrowie rolnictwa w Polsce — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Ministerstwo_Rolnictwa_i_Rozwoju_Wsi"
+    ]
+  }
+}
