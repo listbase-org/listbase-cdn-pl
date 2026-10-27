@@ -1,0 +1,871 @@
+{
+  "id": "pl-sedziowie-trybunalu-konstytucyjnego",
+  "name": "Sędziowie Trybunału Konstytucyjnego",
+  "title": "Sędziowie Trybunału Konstytucyjnego",
+  "description": "Sędziowie Trybunału Konstytucyjnego RP wybrani przez Sejm, z kadencją, klubem zgłaszającym i liczbą głosów.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)",
+  "source_url": "https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)",
+  "updated": "2026-10",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "kadencja_sejmu",
+      "label": "Kadencja Sejmu",
+      "type": "string"
+    },
+    {
+      "key": "zgloszony_przez",
+      "label": "Zgloszony Przez",
+      "type": "string"
+    },
+    {
+      "key": "glosow_za",
+      "label": "Glosow Za",
+      "type": "string"
+    },
+    {
+      "key": "okres_w_trybunale",
+      "label": "Okres W Trybunale",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 17 czerwca 1986",
+      "imie_i_nazwisko": "Henryk de Fiumel",
+      "uwagi": "zmarł w trakcie kadencji"
+    },
+    {
+      "lp": "2.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Kazimierz Buchała",
+      "uwagi": ""
+    },
+    {
+      "lp": "3.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Natalia Gajl",
+      "uwagi": ""
+    },
+    {
+      "lp": "4.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Adam Józefowicz",
+      "uwagi": ""
+    },
+    {
+      "lp": "5.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Andrzej Kabat",
+      "uwagi": ""
+    },
+    {
+      "lp": "6.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Alfons Klafkowski",
+      "uwagi": "od 1 grudnia 1985 do 1 grudnia 1989 Prezes TK"
+    },
+    {
+      "lp": "7.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1989",
+      "imie_i_nazwisko": "Stanisław Pawela",
+      "uwagi": ""
+    },
+    {
+      "lp": "8.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1993",
+      "imie_i_nazwisko": "Czesław Bakalarski",
+      "uwagi": ""
+    },
+    {
+      "lp": "9.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1993",
+      "imie_i_nazwisko": "Kazimierz Działocha",
+      "uwagi": ""
+    },
+    {
+      "lp": "10.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1993",
+      "imie_i_nazwisko": "Henryk Groszyk",
+      "uwagi": ""
+    },
+    {
+      "lp": "11.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 1 grudnia 1993",
+      "imie_i_nazwisko": "Leonard Łukaszuk",
+      "uwagi": "od 1 grudnia 1985 do 1 grudnia 1993 Wiceprezes TK"
+    },
+    {
+      "lp": "12.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "„Biuro Polityczne KC PZPR przyjęło zasady politycznej partycypacji składu TK: PZPR – 6 członków, ZSL – 2, SD – 1–2 oraz bezpartyjni 2–3”",
+      "glosow_za": "jednogłośnie",
+      "okres_w_trybunale": "od 1 grudnia 1985 do 13 sierpnia 1993",
+      "imie_i_nazwisko": "Remigiusz Orzechowski",
+      "uwagi": "zmarł w trakcie kadencji"
+    },
+    {
+      "lp": "13.",
+      "kadencja_sejmu": "IX (PRL)",
+      "zgloszony_przez": "brak informacji",
+      "glosow_za": "336 (jednogłośnie)",
+      "okres_w_trybunale": "od 25 listopada 1986 do 30 listopada 1993",
+      "imie_i_nazwisko": "Maria Łabor-Soroka",
+      "uwagi": ""
+    },
+    {
+      "lp": "14.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP -ZSL-SD",
+      "glosow_za": 250,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 31 października 1992",
+      "imie_i_nazwisko": "Antoni Filcek",
+      "uwagi": "zrzekł się urzędu"
+    },
+    {
+      "lp": "15.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP-ZSL-SD",
+      "glosow_za": 213,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 17 czerwca 1994",
+      "imie_i_nazwisko": "Mieczysław Tyczka",
+      "uwagi": "od 1 grudnia 1989 do 19 listopada 1993 Prezes TK; zrezygnował ze stanowiska i zrzekł się urzędu"
+    },
+    {
+      "lp": "16.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP-ZSL-SD",
+      "glosow_za": 201,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 27 maja 1995",
+      "imie_i_nazwisko": "Janina Zakrzewska",
+      "uwagi": "zmarła w trakcie kadencji"
+    },
+    {
+      "lp": "17.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP-ZSL-SD",
+      "glosow_za": 239,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 1 grudnia 1997",
+      "imie_i_nazwisko": "Tomasz Dybowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "18.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP-ZSL-SD",
+      "glosow_za": 233,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 1 grudnia 1997",
+      "imie_i_nazwisko": "Wojciech Łączkowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "19.",
+      "kadencja_sejmu": "X (PRL)",
+      "zgloszony_przez": "OKP-ZSL-SD",
+      "glosow_za": 239,
+      "okres_w_trybunale": "od 1 grudnia 1989 do 1 grudnia 1997",
+      "imie_i_nazwisko": "Andrzej Zoll",
+      "uwagi": "od 19 listopada 1993 do 1 grudnia 1997 Prezes TK"
+    },
+    {
+      "lp": "20.",
+      "kadencja_sejmu": "I",
+      "zgloszony_przez": "brak informacji",
+      "glosow_za": 203,
+      "okres_w_trybunale": "od 19 lutego 1993 do 19 lutego 2001",
+      "imie_i_nazwisko": "Ferdynand Rymarz",
+      "uwagi": ""
+    },
+    {
+      "lp": "21.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "kojarzony z OKP-ZSL",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 30 listopada 1998",
+      "imie_i_nazwisko": "Błażej Wierzbowski",
+      "uwagi": "zrzekł się urzędu"
+    },
+    {
+      "lp": "22.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 31 maja 1999",
+      "imie_i_nazwisko": "Wojciech Sokolewicz",
+      "uwagi": "zrzekł się urzędu"
+    },
+    {
+      "lp": "23.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 1 grudnia 2001",
+      "imie_i_nazwisko": "Zdzisław Czeszejko-Sochacki",
+      "uwagi": ""
+    },
+    {
+      "lp": "24.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 1 grudnia 2001",
+      "imie_i_nazwisko": "Lech Garlicki",
+      "uwagi": ""
+    },
+    {
+      "lp": "25.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "kojarzony z PSL",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 1 grudnia 2001",
+      "imie_i_nazwisko": "Stefan Jan Jaworski",
+      "uwagi": ""
+    },
+    {
+      "lp": "26.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 293,
+      "okres_w_trybunale": "od 1 grudnia 1993 do 1 grudnia 2001",
+      "imie_i_nazwisko": "Janusz Trzciński",
+      "uwagi": "od 1 grudnia 1993 do 1 grudnia 2001 Wiceprezes TK"
+    },
+    {
+      "lp": "27.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "brak informacji",
+      "glosow_za": 217,
+      "okres_w_trybunale": "od 27 maja 1994 do 27 maja 2002",
+      "imie_i_nazwisko": "Krzysztof Kolasiński",
+      "uwagi": ""
+    },
+    {
+      "lp": "28.",
+      "kadencja_sejmu": "II",
+      "zgloszony_przez": "UW",
+      "glosow_za": 289,
+      "okres_w_trybunale": "od 21 lipca 1995 do 21 lipca 2003",
+      "imie_i_nazwisko": "Jadwiga Skórzewska-Łosiak",
+      "uwagi": ""
+    },
+    {
+      "lp": "29.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "UW",
+      "glosow_za": 235,
+      "okres_w_trybunale": "od 5 listopada 1997 do 5 listopada 2006",
+      "imie_i_nazwisko": "Teresa Dębowska-Romanowska",
+      "uwagi": ""
+    },
+    {
+      "lp": "30.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 274,
+      "okres_w_trybunale": "od 5 listopada 1997 do 5 listopada 2006",
+      "imie_i_nazwisko": "Marek Safjan",
+      "uwagi": "od 6 stycznia 1998 do 5 listopada 2006 Prezes TK"
+    },
+    {
+      "lp": "31.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 256,
+      "okres_w_trybunale": "od 5 listopada 1997 do 5 listopada 2006",
+      "imie_i_nazwisko": "Marian Zdyb",
+      "uwagi": ""
+    },
+    {
+      "lp": "32.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 254,
+      "okres_w_trybunale": "od 1 grudnia 1997 do 1 grudnia 2006",
+      "imie_i_nazwisko": "Wiesław Johann",
+      "uwagi": ""
+    },
+    {
+      "lp": "33.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 240,
+      "okres_w_trybunale": "od 1 grudnia 1997 do 1 grudnia 2006",
+      "imie_i_nazwisko": "Biruta Lewaszkiewicz-Petrykowska",
+      "uwagi": ""
+    },
+    {
+      "lp": "34.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 263,
+      "okres_w_trybunale": "od 1 grudnia 1997 do 1 grudnia 2006",
+      "imie_i_nazwisko": "Andrzej Mączyński",
+      "uwagi": "od 2 grudnia 2001 do 1 grudnia 2006 Wiceprezes TK"
+    },
+    {
+      "lp": "35.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "UW",
+      "glosow_za": 240,
+      "okres_w_trybunale": "od 18 grudnia 1998 do 18 grudnia 2007",
+      "imie_i_nazwisko": "Jerzy Ciemniewski",
+      "uwagi": ""
+    },
+    {
+      "lp": "36.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "AWS",
+      "glosow_za": 199,
+      "okres_w_trybunale": "od 25 czerwca 1999 do 25 czerwca 2008",
+      "imie_i_nazwisko": "Jerzy Stępień",
+      "uwagi": "od 6 listopada 2006 do 25 czerwca 2008 Prezes TK"
+    },
+    {
+      "lp": "37.",
+      "kadencja_sejmu": "III",
+      "zgloszony_przez": "UW",
+      "glosow_za": 364,
+      "okres_w_trybunale": "od 2 marca 2001 do 2 marca 2010",
+      "imie_i_nazwisko": "Janusz Niemcewicz",
+      "uwagi": "od 2 grudnia 2006 do 2 grudnia 2010 Wiceprezes TK"
+    },
+    {
+      "lp": "38.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 299,
+      "okres_w_trybunale": "od 2 grudnia 2001 do 2 grudnia 2010",
+      "imie_i_nazwisko": "Marian Grzybowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "39.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 291,
+      "okres_w_trybunale": "od 2 grudnia 2001 do 2 grudnia 2010",
+      "imie_i_nazwisko": "Marek Mazurkiewicz",
+      "uwagi": "od 3 marca do 2 grudnia 2010 Wiceprezes TK"
+    },
+    {
+      "lp": "40.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 378,
+      "okres_w_trybunale": "od 2 grudnia 2001 do 2 grudnia 2010",
+      "imie_i_nazwisko": "Mirosław Wyrzykowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "41.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 290,
+      "okres_w_trybunale": "od 2 grudnia 2001 do 2 grudnia 2010",
+      "imie_i_nazwisko": "Bohdan Zdziennicki",
+      "uwagi": "od 26 czerwca 2008 do 2 grudnia 2010 Prezes TK"
+    },
+    {
+      "lp": "42.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD-PSL- UP",
+      "glosow_za": 219,
+      "okres_w_trybunale": "od 28 maja 2002 do 28 maja 2011",
+      "imie_i_nazwisko": "Ewa Łętowska",
+      "uwagi": ""
+    },
+    {
+      "lp": "43.",
+      "kadencja_sejmu": "IV",
+      "zgloszony_przez": "SLD",
+      "glosow_za": 210,
+      "okres_w_trybunale": "od 22 lipca 2003 do 22 lipca 2012",
+      "imie_i_nazwisko": "Adam Jamróz",
+      "uwagi": ""
+    },
+    {
+      "lp": "44.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 224,
+      "okres_w_trybunale": "od 6 listopada 2006 do 6 listopada 2015",
+      "imie_i_nazwisko": "Maria Gintowt-Jankowicz",
+      "uwagi": ""
+    },
+    {
+      "lp": "45.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 237,
+      "okres_w_trybunale": "od 6 listopada 2006 do 6 listopada 2015",
+      "imie_i_nazwisko": "Wojciech Hermeliński",
+      "uwagi": ""
+    },
+    {
+      "lp": "46.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "LPR - SRP",
+      "glosow_za": 231,
+      "okres_w_trybunale": "od 6 listopada 2006 do 6 listopada 2015",
+      "imie_i_nazwisko": "Marek Kotlinowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "47.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 224,
+      "okres_w_trybunale": "od 2 grudnia 2006 do 2 grudnia 2015",
+      "imie_i_nazwisko": "Zbigniew Cieślak",
+      "uwagi": ""
+    },
+    {
+      "lp": "48.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 303,
+      "okres_w_trybunale": "od 8 grudnia 2006 do 8 grudnia 2015",
+      "imie_i_nazwisko": "Teresa Liszcz",
+      "uwagi": ""
+    },
+    {
+      "lp": "49.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "LPR-SRP",
+      "glosow_za": 207,
+      "okres_w_trybunale": "od 8 grudnia 2006 do 12 marca 2007",
+      "imie_i_nazwisko": "Lidia Bagińska",
+      "uwagi": "zrzekła się urzędu"
+    },
+    {
+      "lp": "50.",
+      "kadencja_sejmu": "V",
+      "zgloszony_przez": "LPR-SRP",
+      "glosow_za": 328,
+      "okres_w_trybunale": "od 27 kwietnia 2007 do 27 kwietnia 2016",
+      "imie_i_nazwisko": "Mirosław Granat",
+      "uwagi": ""
+    },
+    {
+      "lp": "51.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 222,
+      "okres_w_trybunale": "od 19 grudnia 2007 do 19 grudnia 2016",
+      "imie_i_nazwisko": "Andrzej Rzepliński",
+      "uwagi": "od 3 grudnia 2010 do 19 grudnia 2016 Prezes TK"
+    },
+    {
+      "lp": "52.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 270,
+      "okres_w_trybunale": "od 26 czerwca 2008 do 26 czerwca 2017",
+      "imie_i_nazwisko": "Stanisław Biernat",
+      "uwagi": "od 3 grudnia 2010 do 26 czerwca 2017 Wiceprezes TK"
+    },
+    {
+      "lp": "53.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 415,
+      "okres_w_trybunale": "od 6 maja 2010 do 6 maja 2019",
+      "imie_i_nazwisko": "Sławomira Wronkowska-Jaśkiewicz",
+      "uwagi": ""
+    },
+    {
+      "lp": "54.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 203,
+      "okres_w_trybunale": "od 3 grudnia 2010 do 3 grudnia 2019",
+      "imie_i_nazwisko": "Stanisław Rymar",
+      "uwagi": ""
+    },
+    {
+      "lp": "55.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 348,
+      "okres_w_trybunale": "od 3 grudnia 2010 do 3 grudnia 2019",
+      "imie_i_nazwisko": "Piotr Tuleja",
+      "uwagi": ""
+    },
+    {
+      "lp": "56.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO-PSL-poseł niezrzeszony",
+      "glosow_za": 200,
+      "okres_w_trybunale": "od 3 grudnia 2010 do 3 grudnia 2019",
+      "imie_i_nazwisko": "Marek Zubik",
+      "uwagi": ""
+    },
+    {
+      "lp": "57.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO",
+      "glosow_za": 253,
+      "okres_w_trybunale": "od 5 stycznia 2011 do 5 stycznia 2020",
+      "imie_i_nazwisko": "Małgorzata Pyziak-Szafnicka",
+      "uwagi": ""
+    },
+    {
+      "lp": "58.",
+      "kadencja_sejmu": "VI",
+      "zgloszony_przez": "PO- SDPL -SLD- PJN - DKP -poseł niezrzeszony",
+      "glosow_za": 243,
+      "okres_w_trybunale": "od 29 maja 2011 do 24 stycznia 2017",
+      "imie_i_nazwisko": "Andrzej Wróbel",
+      "uwagi": "zrzekł się urzędu"
+    },
+    {
+      "lp": "59.",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "PO-PSL-SLD",
+      "glosow_za": 340,
+      "okres_w_trybunale": "od 23 lipca 2012 do 23 lipca 2021",
+      "imie_i_nazwisko": "Leon Kieres",
+      "uwagi": ""
+    },
+    {
+      "lp": "60.",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 274,
+      "okres_w_trybunale": "od 7 listopada 2015 do 7 listopada 2024",
+      "imie_i_nazwisko": "Roman Hauser",
+      "uwagi": "oczekiwali na złożenie ślubowania do momentu wygaśnięcia ich potencjalnych kadencji; 3 grudnia 2015 Trybunał Konstytucyjny orzekł, że przepisy ustawy o TK, na mocy których nastąpił jego wybór na sędziego TK, są zgodne z odpowiednimi przepisami Konstytucji RP, a prezydent jest obowiązany do niezwłocznego przyjęcia ślubowania . 25 listopada 2015 Sejm VIII kadencji uznał, że uchwała w sprawie wyboru nie ma mocy prawnej ."
+    },
+    {
+      "lp": "61.",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 268,
+      "okres_w_trybunale": "od 7 listopada 2015 do 7 listopada 2024",
+      "imie_i_nazwisko": "Krzysztof Ślebzak",
+      "uwagi": "oczekiwali na złożenie ślubowania do momentu wygaśnięcia ich potencjalnych kadencji; 3 grudnia 2015 Trybunał Konstytucyjny orzekł, że przepisy ustawy o TK, na mocy których nastąpił jego wybór na sędziego TK, są zgodne z odpowiednimi przepisami Konstytucji RP, a prezydent jest obowiązany do niezwłocznego przyjęcia ślubowania . 25 listopada 2015 Sejm VIII kadencji uznał, że uchwała w sprawie wyboru nie ma mocy prawnej ."
+    },
+    {
+      "lp": "62.",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 272,
+      "okres_w_trybunale": "od 7 listopada 2015 do 7 listopada 2024",
+      "imie_i_nazwisko": "Andrzej Jakubecki",
+      "uwagi": "oczekiwali na złożenie ślubowania do momentu wygaśnięcia ich potencjalnych kadencji; 3 grudnia 2015 Trybunał Konstytucyjny orzekł, że przepisy ustawy o TK, na mocy których nastąpił jego wybór na sędziego TK, są zgodne z odpowiednimi przepisami Konstytucji RP, a prezydent jest obowiązany do niezwłocznego przyjęcia ślubowania . 25 listopada 2015 Sejm VIII kadencji uznał, że uchwała w sprawie wyboru nie ma mocy prawnej ."
+    },
+    {
+      "lp": "—",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 244,
+      "okres_w_trybunale": "( 3 grudnia 2015 )",
+      "imie_i_nazwisko": "Bronisław Sitek",
+      "uwagi": "3 grudnia 2015 Trybunał Konstytucyjny orzekł, że przepisy ustawy o TK, na mocy których nastąpił jego wybór na sędziego TK, są niezgodne z odpowiednimi przepisami Konstytucji RP . 25 listopada 2015 Sejm VIII kadencji uznał, że uchwała w sprawie wyboru nie ma mocy prawnej ."
+    },
+    {
+      "lp": "—",
+      "kadencja_sejmu": "VII",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 264,
+      "okres_w_trybunale": "( 9 grudnia 2015 )",
+      "imie_i_nazwisko": "Andrzej Sokala",
+      "uwagi": "3 grudnia 2015 Trybunał Konstytucyjny orzekł, że przepisy ustawy o TK, na mocy których nastąpił jego wybór na sędziego TK, są niezgodne z odpowiednimi przepisami Konstytucji RP . 25 listopada 2015 Sejm VIII kadencji uznał, że uchwała w sprawie wyboru nie ma mocy prawnej ."
+    },
+    {
+      "lp": "(60.)",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 236,
+      "okres_w_trybunale": "od 2 grudnia 2015 do 20 grudnia 2017",
+      "imie_i_nazwisko": "Henryk Cioch",
+      "uwagi": "wybrany 2 grudnia 2015. Zgodnie z wyrokiem TK z 3 grudnia 2015 (K 34/15) stanowisko to było uprzednio obsadzone przez Romana Hausera, który oczekiwał na złożenie ślubowania; Sejm VIII kadencji uznał, że stanowisko nie było obsadzone . Zmarł w trakcie kadencji."
+    },
+    {
+      "lp": "(61.)",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 232,
+      "okres_w_trybunale": "od 2 grudnia 2015 do 12 lipca 2017",
+      "imie_i_nazwisko": "Lech Morawski",
+      "uwagi": "wybrany 2 grudnia 2015. Zgodnie z wyrokiem TK z 3 grudnia 2015 (K 34/15) stanowisko to było uprzednio obsadzone przez Krzysztofa Ślebzaka, który oczekiwał na złożenie ślubowania; Sejm VIII kadencji uznał, że stanowisko nie było obsadzone . Zmarł w trakcie kadencji."
+    },
+    {
+      "lp": "(62.)",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 236,
+      "okres_w_trybunale": "od 3 grudnia 2015 do 3 grudnia 2024",
+      "imie_i_nazwisko": "Mariusz Muszyński",
+      "uwagi": "wybrany 2 grudnia 2015. Zgodnie z wyrokiem TK z 3 grudnia 2015 (K 34/15) stanowisko to było uprzednio obsadzone przez Andrzeja Jakubeckiego, który oczekiwał na złożenie ślubowania; Sejm VIII kadencji uznał, że stanowisko nie było obsadzone . Od 5 lipca 2017 do 5 lipca 2023 Wiceprezes TK ( de facto ). Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 20 czerwca 2018 r. (sygn. akt V SA/Wa 459/18) oraz Europejski Trybunał Praw Człowieka w Strasburgu w wyroku z dnia 7 maja 2021 r. (sprawa Xero Flor przeciwko Polsce, skarga nr 4907/18) orzekły, że Mariusz Muszyński, wybrany na miejsce uprzednio obsadzone przez Andrzeja Jakubeckiego, nie był uprawniony do orzekania w składzie TK i że jego udział w składach orzekających naruszył prawo do sądu ustanowionego ustawą (art. 6 EKPC). Sejm VIII kadencji stał na stanowisku, że miejsce to nie było obsadzone."
+    },
+    {
+      "lp": "63.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 233,
+      "okres_w_trybunale": "od 3 grudnia 2015 do 3 grudnia 2024",
+      "imie_i_nazwisko": "Piotr Pszczółkowski",
+      "uwagi": "wybrany 2 grudnia 2015 na stanowisko, na które Sejm VII kadencji wybrał wcześniej Bronisława Sitka. Podstawa prawna wyboru Sitka została uznana za niezgodną z Konstytucją wyrokiem TK z 3 grudnia 2015 (K 34/15); Sejm VIII kadencji stwierdził brak mocy prawnej uchwały o jego wyborze ."
+    },
+    {
+      "lp": "64.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 234,
+      "okres_w_trybunale": "od 9 grudnia 2015 do 9 grudnia 2024",
+      "imie_i_nazwisko": "Julia Przyłębska",
+      "uwagi": "wybrana 2 grudnia 2015 na stanowisko, na które Sejm VII kadencji wybrał wcześniej Andrzeja Sokalę. Podstawa prawna wyboru Sokali została uznana za niezgodną z Konstytucją wyrokiem TK z 3 grudnia 2015 (K 34/15); Sejm VIII kadencji stwierdził brak mocy prawnej uchwały o jego wyborze . Od 21 grudnia 2016 do 29 listopada 2024 Prezes TK ."
+    },
+    {
+      "lp": "65.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 227,
+      "okres_w_trybunale": "od 28 kwietnia 2016 do 28 kwietnia 2025",
+      "imie_i_nazwisko": "Zbigniew Jędrzejewski",
+      "uwagi": ""
+    },
+    {
+      "lp": "66.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 231,
+      "okres_w_trybunale": "od 20 grudnia 2016 do 20 grudnia 2025",
+      "imie_i_nazwisko": "Michał Warciński",
+      "uwagi": ""
+    },
+    {
+      "lp": "67.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 234,
+      "okres_w_trybunale": "od 27 lutego 2017 do 19 stycznia 2020",
+      "imie_i_nazwisko": "Grzegorz Jędrejek",
+      "uwagi": "zmarł w trakcie kadencji"
+    },
+    {
+      "lp": "68.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 227,
+      "okres_w_trybunale": "od 28 czerwca 2017 do 28 czerwca 2026",
+      "imie_i_nazwisko": "Andrzej Zielonacki",
+      "uwagi": ""
+    },
+    {
+      "lp": "(61.)",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 248,
+      "okres_w_trybunale": "od 18 września 2017 do 18 września 2026",
+      "imie_i_nazwisko": "Justyn Piskorski",
+      "uwagi": "wybrany 15 września 2017 roku na miejsce opróżnione wskutek śmierci Lecha Morawskiego, którego status prawny jest sporny (zob. wyżej)."
+    },
+    {
+      "lp": "(60.)",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 228,
+      "okres_w_trybunale": "od 30 stycznia 2018",
+      "imie_i_nazwisko": "Jarosław Wyrembak",
+      "uwagi": "wybrany 26 stycznia 2018 roku na miejsce opróżnione wskutek śmierci Henryka Ciocha, którego status prawny jest sporny (zob. wyżej)."
+    },
+    {
+      "lp": "69.",
+      "kadencja_sejmu": "VIII",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 228,
+      "okres_w_trybunale": "od 8 maja 2019",
+      "imie_i_nazwisko": "Wojciech Sych",
+      "uwagi": ""
+    },
+    {
+      "lp": "70.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 230,
+      "okres_w_trybunale": "od 5 grudnia 2019 do 5 grudnia 2025",
+      "imie_i_nazwisko": "Krystyna Pawłowicz",
+      "uwagi": "przeniesiona w stan spoczynku uchwałą Zgromadzenia Ogólnego Sędziów TK ze względu na stan zdrowia"
+    },
+    {
+      "lp": "71.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 230,
+      "okres_w_trybunale": "od 5 grudnia 2019",
+      "imie_i_nazwisko": "Stanisław Piotrowicz",
+      "uwagi": ""
+    },
+    {
+      "lp": "72.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 233,
+      "okres_w_trybunale": "od 5 grudnia 2019",
+      "imie_i_nazwisko": "Jakub Stelina",
+      "uwagi": ""
+    },
+    {
+      "lp": "73.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 239,
+      "okres_w_trybunale": "od 7 stycznia 2020",
+      "imie_i_nazwisko": "Rafał Wojciechowski",
+      "uwagi": ""
+    },
+    {
+      "lp": "74.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 234,
+      "okres_w_trybunale": "od 9 kwietnia 2020",
+      "imie_i_nazwisko": "Bartłomiej Sochański",
+      "uwagi": "od 21 lutego 2025 Wiceprezes TK"
+    },
+    {
+      "lp": "75.",
+      "kadencja_sejmu": "IX",
+      "zgloszony_przez": "PiS",
+      "glosow_za": 233,
+      "okres_w_trybunale": "od 16 lutego 2022",
+      "imie_i_nazwisko": "Bogdan Święczkowski",
+      "uwagi": "od 9 grudnia 2024 Prezes TK"
+    },
+    {
+      "lp": "76.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 236,
+      "okres_w_trybunale": "od 1 kwietnia 2026",
+      "imie_i_nazwisko": "Magdalena Bentkowska",
+      "uwagi": ""
+    },
+    {
+      "lp": "77.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 237,
+      "okres_w_trybunale": "od 1 kwietnia 2026",
+      "imie_i_nazwisko": "Dariusz Szostek",
+      "uwagi": ""
+    },
+    {
+      "lp": "78.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 237,
+      "okres_w_trybunale": "9 kwietnia 2026",
+      "imie_i_nazwisko": "Marcin Dziurda",
+      "uwagi": "status sporny"
+    },
+    {
+      "lp": "79.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 236,
+      "okres_w_trybunale": "9 kwietnia 2026",
+      "imie_i_nazwisko": "Anna Korwin-Piotrowska",
+      "uwagi": "status sporny"
+    },
+    {
+      "lp": "80.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 236,
+      "okres_w_trybunale": "9 kwietnia 2026",
+      "imie_i_nazwisko": "Krystian Markiewicz",
+      "uwagi": "status sporny"
+    },
+    {
+      "lp": "81.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "Prezydium Sejmu",
+      "glosow_za": 237,
+      "okres_w_trybunale": "9 kwietnia 2026",
+      "imie_i_nazwisko": "Maciej Taborowski",
+      "uwagi": "status sporny"
+    },
+    {
+      "lp": "82.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "KO - PSL - Lewica - Centrum",
+      "glosow_za": 235,
+      "okres_w_trybunale": "od 28 lipca 2026",
+      "imie_i_nazwisko": "Sławomir Patyra",
+      "uwagi": ""
+    },
+    {
+      "lp": "83.",
+      "kadencja_sejmu": "X",
+      "zgloszony_przez": "KO",
+      "glosow_za": 226,
+      "okres_w_trybunale": "od 14 października 2026",
+      "imie_i_nazwisko": "Maciej Berek",
+      "uwagi": "status sporny"
+    }
+  ],
+  "meta": {
+    "title": "Sędziowie Trybunału Konstytucyjnego - Free Download",
+    "description": "Sędziowie Trybunału Konstytucyjnego RP wybrani przez Sejm, z kadencją, klubem zgłaszającym i liczbą głosów. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sędziowie Trybunału Konstytucyjnego | ListBase",
+    "seo_description": "Download Sędziowie Trybunału Konstytucyjnego — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Trybunał_Konstytucyjny_(Polska)"
+    ]
+  }
+}
