@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-20T04:21:35.161Z",
-  "total_datasets": 476,
-  "total_records": 1089440,
+  "generated": "2026-10-27T02:27:49.902Z",
+  "total_datasets": 477,
+  "total_records": 1089471,
   "categories": [
     {
       "id": "culture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "units",
@@ -12470,6 +12470,34 @@
         "xlsx": {
           "name": "pl-punkty-informacji-turystycznej_PL.xlsx",
           "size": 692289
+        }
+      }
+    },
+    {
+      "id": "pl-autostrady-i-drogi-ekspresowe",
+      "name": "Autostrady i drogi ekspresowe w Polsce",
+      "category": "transport",
+      "record_count": 31,
+      "columns": [
+        "oznaczenie",
+        "przebieg",
+        "dlugosc_calkowita",
+        "odcinki_gotowe",
+        "gotowe_procent",
+        "w_realizacji",
+        "w_przetargu"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Autostrady_i_drogi_ekspresowe_w_Polsce",
+      "updated": "2026-10",
+      "size": 11218,
+      "files": {
+        "csv": {
+          "name": "pl-autostrady-i-drogi-ekspresowe_PL.csv",
+          "size": 3982
+        },
+        "xlsx": {
+          "name": "pl-autostrady-i-drogi-ekspresowe_PL.xlsx",
+          "size": 9141
         }
       }
     },

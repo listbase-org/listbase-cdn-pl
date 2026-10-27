@@ -1,0 +1,340 @@
+{
+  "id": "pl-autostrady-i-drogi-ekspresowe",
+  "name": "Autostrady i drogi ekspresowe w Polsce",
+  "title": "Autostrady i drogi ekspresowe w Polsce",
+  "description": "Autostrady i drogi ekspresowe w Polsce: przebieg, długość całkowita i stan budowy odcinków.",
+  "category": "transport",
+  "source": "https://pl.wikipedia.org/wiki/Autostrady_i_drogi_ekspresowe_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Autostrady_i_drogi_ekspresowe_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "oznaczenie",
+      "label": "Oznaczenie",
+      "type": "string"
+    },
+    {
+      "key": "przebieg",
+      "label": "Przebieg",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_calkowita",
+      "label": "Dlugosc Calkowita",
+      "type": "string"
+    },
+    {
+      "key": "odcinki_gotowe",
+      "label": "Odcinki Gotowe",
+      "type": "string"
+    },
+    {
+      "key": "gotowe_procent",
+      "label": "Gotowe Procent",
+      "type": "string"
+    },
+    {
+      "key": "w_realizacji",
+      "label": "W Realizacji",
+      "type": "string"
+    },
+    {
+      "key": "w_przetargu",
+      "label": "W Przetargu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "oznaczenie": "Autostrada A1 (Polska)",
+      "przebieg": "Rusocin (S6) – Gorzyczki ( granica )",
+      "dlugosc_calkowita": "568 km",
+      "odcinki_gotowe": "568 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Autostrada A2 (Polska)",
+      "przebieg": "Świecko (granica) – Kukuryki (granica)",
+      "dlugosc_calkowita": "622,5 km",
+      "odcinki_gotowe": "590,2 km",
+      "gotowe_procent": "94,8%",
+      "w_realizacji": "9,3 km",
+      "w_przetargu": "16,2 km"
+    },
+    {
+      "oznaczenie": "Autostrada A4 (Polska)",
+      "przebieg": "Jędrzychowice (granica) – Korczowa (granica)",
+      "dlugosc_calkowita": "672,8 km",
+      "odcinki_gotowe": "672,8 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Autostrada A6 (Polska)",
+      "przebieg": "(S6) Kołbaskowo (granica) – Rzęśnica (S3)",
+      "dlugosc_calkowita": "29 km",
+      "odcinki_gotowe": "29 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Autostrada A8 (Polska)",
+      "przebieg": "autostradowa obw. Wrocławia na odcinku A4 – Psie Pole",
+      "dlugosc_calkowita": "22,4 km",
+      "odcinki_gotowe": "22,4 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Autostrada A18 (Polska)",
+      "przebieg": "Olszyna (granica) – Krzyżowa (A4)",
+      "dlugosc_calkowita": "76,8 km",
+      "odcinki_gotowe": "76,8 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Autostrada A50 (Polska)",
+      "przebieg": "Centralny Port Komunikacyjny – Mińsk Mazowiecki",
+      "dlugosc_calkowita": "114 km",
+      "odcinki_gotowe": "0 km",
+      "gotowe_procent": "0%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Razem autostrad",
+      "przebieg": "Razem autostrad",
+      "dlugosc_calkowita": "2105,5 km",
+      "odcinki_gotowe": "1959,2 km",
+      "gotowe_procent": "93,05%",
+      "w_realizacji": "9,3 km",
+      "w_przetargu": "16,2 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S1 (Polska)",
+      "przebieg": "Pyrzowice (A1) – Zwardoń (granica)",
+      "dlugosc_calkowita": "142,7 km",
+      "odcinki_gotowe": "107,1 km +25,6 km jedna jezdnia",
+      "gotowe_procent": "75,1%",
+      "w_realizacji": "10 km",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S2 (Polska)",
+      "przebieg": "Płd. Obw. Warszawy: Konotopa (A2) – Lubelska (A2)",
+      "dlugosc_calkowita": "34,1 km",
+      "odcinki_gotowe": "34,1 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S3 (Polska)",
+      "przebieg": "Świnoujście – Lubawka (granica)",
+      "dlugosc_calkowita": "469,1 km",
+      "odcinki_gotowe": "469,1 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S5 (Polska)",
+      "przebieg": "Ostróda (S7) – Bolków (S3)",
+      "dlugosc_calkowita": "508,2 km",
+      "odcinki_gotowe": "368,2 km",
+      "gotowe_procent": "72,5%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S6 (Polska)",
+      "przebieg": "Kołbaskowo (A6) – Rusocin (A1)",
+      "dlugosc_calkowita": "391 km",
+      "odcinki_gotowe": "340,6 km",
+      "gotowe_procent": "87,1%",
+      "w_realizacji": "50,4 km",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S7 (Polska)",
+      "przebieg": "Gdynia (Morska) (A1) – Rabka-Zdrój ( Zabornia )",
+      "dlugosc_calkowita": "737,9 km",
+      "odcinki_gotowe": "688,5 km",
+      "gotowe_procent": "93,3%",
+      "w_realizacji": "11,8 km",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S8 (Polska)",
+      "przebieg": "Kłodzko – Choroszcz (S19)",
+      "dlugosc_calkowita": "627,8 km",
+      "odcinki_gotowe": "541 km",
+      "gotowe_procent": "86,2%",
+      "w_realizacji": "63,8 km",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S10 (Polska)",
+      "przebieg": "Szczecin (A6) – Naruszewo (S50)",
+      "dlugosc_calkowita": "394,9 km",
+      "odcinki_gotowe": "55,6 km +7,8 km jedna jezdnia",
+      "gotowe_procent": "14,1%",
+      "w_realizacji": "164 km +7,8 km jedna jezdnia",
+      "w_przetargu": "39,5 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S11 (Polska)",
+      "przebieg": "Kołobrzeg – Tarnowskie Góry – A1",
+      "dlugosc_calkowita": "551 km",
+      "odcinki_gotowe": "151,6 km +10,3 km jedna jezdnia",
+      "gotowe_procent": "27,5%",
+      "w_realizacji": "122,2 km +4,2 km jedna jezdnia",
+      "w_przetargu": "78 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S12 (Polska)",
+      "przebieg": "Piotrków Trybunalski (A1) – Dorohusk-Jahodyn (granica)",
+      "dlugosc_calkowita": "327,1 km",
+      "odcinki_gotowe": "82,9 km +12,7 km jedna jezdnia",
+      "gotowe_procent": "25,3%",
+      "w_realizacji": "98,5 km",
+      "w_przetargu": "11,8 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S14 (Polska)",
+      "przebieg": "Zach. obw. Łodzi : Słowik (A2) – Róża (S8)",
+      "dlugosc_calkowita": "43,7 km",
+      "odcinki_gotowe": "43,7 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S16 (Polska)",
+      "przebieg": "Olsztyn (S51) – Knyszyn (S19)",
+      "dlugosc_calkowita": "208,4 km",
+      "odcinki_gotowe": "24,7 km +18,4 km jedna jezdnia",
+      "gotowe_procent": "11,9%",
+      "w_realizacji": "20,8 km +18,4 km jedna jezdnia",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S17 (Polska)",
+      "przebieg": "Warszawa ( Drewnica ) (S8) – Hrebenne-Rawa Ruska (granica)",
+      "dlugosc_calkowita": "320,6 km",
+      "odcinki_gotowe": "193,4 km",
+      "gotowe_procent": "60,3%",
+      "w_realizacji": "93,4 km",
+      "w_przetargu": "20 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S19 (Polska)",
+      "przebieg": "Kuźnica Białostocka-Bruzgi (granica) – Barwinek (granica)",
+      "dlugosc_calkowita": "576,4 km",
+      "odcinki_gotowe": "243,7 km +19,1 km jedna jezdnia",
+      "gotowe_procent": "42,3%",
+      "w_realizacji": "281,9 km +19,1 km jedna jezdnia",
+      "w_przetargu": "31,7 km"
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S22 (Polska)",
+      "przebieg": "Elbląg (S7) – Grzechotki (granica)",
+      "dlugosc_calkowita": "50,6 km",
+      "odcinki_gotowe": "50,6 km jedna jezdnia",
+      "gotowe_procent": "100% jedna jezdnia",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S50 (Polska)",
+      "przebieg": "Centralny Port Komunikacyjny – Mińsk Mazowiecki",
+      "dlugosc_calkowita": "191 km",
+      "odcinki_gotowe": "0 km",
+      "gotowe_procent": "0%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S51 (Polska)",
+      "przebieg": "Olsztyn (S16) – Olsztynek (S7)",
+      "dlugosc_calkowita": "34 km",
+      "odcinki_gotowe": "34 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S52 (Polska)",
+      "przebieg": "Cieszyn (granica) – Głogoczów (DK7) + Północna obwodnica Krakowa : Balice (A4) – Zastów (S7)",
+      "dlugosc_calkowita": "136,3 km",
+      "odcinki_gotowe": "72,4 km",
+      "gotowe_procent": "53,1%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S61 (Polska)",
+      "przebieg": "Ostrów Mazowiecka (S8) – Budzisko (granica)",
+      "dlugosc_calkowita": "210,4 km",
+      "odcinki_gotowe": "210,4 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S74 (Polska)",
+      "przebieg": "Sulejów (S12) – Nisko (S19)",
+      "dlugosc_calkowita": "203,7 km",
+      "odcinki_gotowe": "13,5 km",
+      "gotowe_procent": "6,6%",
+      "w_realizacji": "95,2 km",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S79 (Polska)",
+      "przebieg": "Warszawa (Marynarska) – Warszawa-Lotnisko (S2)",
+      "dlugosc_calkowita": "7,5 km",
+      "odcinki_gotowe": "7,5 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Droga ekspresowa S86 (Polska)",
+      "przebieg": "Sosnowiec (Małobądzka) – Katowice (Boh. Monte Cassino)",
+      "dlugosc_calkowita": "8,6 km",
+      "odcinki_gotowe": "8,6 km",
+      "gotowe_procent": "100%",
+      "w_realizacji": "",
+      "w_przetargu": ""
+    },
+    {
+      "oznaczenie": "Razem dróg ekspresowych",
+      "przebieg": "Razem dróg ekspresowych",
+      "dlugosc_calkowita": "6175 km",
+      "odcinki_gotowe": "3690,6 km +144,5 km jedna jezdnia",
+      "gotowe_procent": "59,76% +2,34% jedna jezdnia",
+      "w_realizacji": "1012 km +49,5 km jedn a jezdnia",
+      "w_przetargu": "181 km"
+    }
+  ],
+  "meta": {
+    "title": "Autostrady i drogi ekspresowe w Polsce - Free Download",
+    "description": "Autostrady i drogi ekspresowe w Polsce: przebieg, długość całkowita i stan budowy odcinków. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Autostrady i drogi ekspresowe w Polsce | ListBase",
+    "seo_description": "Download Autostrady i drogi ekspresowe w Polsce — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Autostrady_i_drogi_ekspresowe_w_Polsce"
+    ]
+  }
+}
