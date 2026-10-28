@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-27T02:28:46.512Z",
-  "total_datasets": 500,
-  "total_records": 1090694,
+  "generated": "2026-10-28T02:14:21.889Z",
+  "total_datasets": 501,
+  "total_records": 1090775,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -12132,6 +12132,39 @@
         "xlsx": {
           "name": "pl-komisariaty-policji_PL.xlsx",
           "size": 61121
+        }
+      }
+    },
+    {
+      "id": "pl-ruch-naturalny-ludnosci",
+      "name": "Ruch naturalny ludności Polski 1946–2026",
+      "category": "society",
+      "record_count": 81,
+      "columns": [
+        "rok",
+        "ludnosc_tys",
+        "urodzenia_zywe",
+        "zgony",
+        "przyrost_naturalny",
+        "wsp_urodzen_na_1000",
+        "wsp_zgonow_na_1000",
+        "przyrost_na_1000",
+        "dzietnosc",
+        "imigracja",
+        "emigracja",
+        "saldo_migracji"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ludność_Polski",
+      "updated": "2026-10",
+      "size": 30871,
+      "files": {
+        "csv": {
+          "name": "pl-ruch-naturalny-ludnosci_PL.csv",
+          "size": 6555
+        },
+        "xlsx": {
+          "name": "pl-ruch-naturalny-ludnosci_PL.xlsx",
+          "size": 12212
         }
       }
     },
