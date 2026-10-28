@@ -1,0 +1,177 @@
+{
+  "id": "pl-politechniki",
+  "name": "Politechniki w Polsce",
+  "title": "Politechniki w Polsce",
+  "description": "Lista polskich politechnik (uczelni technicznych) z siedzibą, historią, liczbą studentów i rektorem.",
+  "category": "education",
+  "source": "https://pl.wikipedia.org/wiki/Politechniki_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Politechniki_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "siedziba",
+      "label": "Siedziba",
+      "type": "string"
+    },
+    {
+      "key": "historia",
+      "label": "Historia",
+      "type": "string"
+    },
+    {
+      "key": "liczba_studentow",
+      "label": "Liczba Studentow",
+      "type": "number"
+    },
+    {
+      "key": "rektor_2016_2020",
+      "label": "Rektor 2016 2020",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Politechnika Warszawska",
+      "siedziba": "Warszawa",
+      "historia": "Została założona jako polska uczelnia w 1915 na bazie działającego w Warszawie w latach 1898–1915 rosyjskojęzycznego Instytutu Politechnicznego im. Cara Mikołaja II (ros. Варшавский политехнический институт императора Николая II), który ewakuowano do Niżnego Nowogrodu. W latach 1942–1944 w budynkach Politechniki Warszawskiej działała Państwowa Wyższa Szkoła Techniczna. W styczniu 1945 uczelnia wznowiła działalność w Lublinie, a 13 stycznia 1946 ponownie zainaugurowała zajęcia w Warszawie.",
+      "liczba_studentow": 33360,
+      "rektor_2016_2020": "prof. dr hab. inż. Jan Szmidt"
+    },
+    {
+      "nazwa": "Politechnika Gdańska",
+      "siedziba": "Gdańsk",
+      "historia": "Powstała w 1904 jako uczelnia niemiecka (niem. Königliche Technische Hochschule zu Danzig). W 1945 przekształcona w polską szkołę akademicką o obecnej nazwie.",
+      "liczba_studentow": 23017,
+      "rektor_2016_2020": "prof. dr hab. inż. Jacek Namieśnik"
+    },
+    {
+      "nazwa": "Politechnika Wrocławska",
+      "siedziba": "Wrocław",
+      "historia": "Powstała w 1910 jako uczelnia niemiecka (niem. Königliche Technische Hochschule zu Breslau). W 1945 przekształcona w polską szkołę akademicką o obecnej nazwie i odbudowana dzięki zaangażowaniu pracowników naukowych Politechniki Lwowskiej i Uniwersytetu Jana Kazimierza we Lwowie.",
+      "liczba_studentow": 33530,
+      "rektor_2016_2020": "prof. dr hab. inż. Cezary Madryas"
+    },
+    {
+      "nazwa": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+      "siedziba": "Kraków",
+      "historia": "Powstała w 1919 jako Akademia Górnicza. Nazwę Akademia Górniczo-Hutnicza otrzymała w 1947, a imię Stanisława Staszica – w 1969.",
+      "liczba_studentow": 30262,
+      "rektor_2016_2020": "prof. dr hab. inż. Tadeusz Słomka"
+    },
+    {
+      "nazwa": "Politechnika Śląska",
+      "siedziba": "Gliwice",
+      "historia": "Powstała w 1945 z tymczasową siedzibą w Krakowie. Jednocześnie podjęto próby zlokalizowania uczelni na Górnym Śląsku, w Katowicach. Ostatecznie na siedzibę wybrano Gliwice.",
+      "liczba_studentow": 22923,
+      "rektor_2016_2020": "prof. dr hab. inż. Arkadiusz Mężyk"
+    },
+    {
+      "nazwa": "Politechnika Łódzka",
+      "siedziba": "Łódź",
+      "historia": "Powstała w 1945 jako państwowa szkoła akademicka.",
+      "liczba_studentow": 18697,
+      "rektor_2016_2020": "prof. dr hab. inż. Krzysztof Jóźwik"
+    },
+    {
+      "nazwa": "Politechnika Krakowska im. Tadeusza Kościuszki",
+      "siedziba": "Kraków",
+      "historia": "Powstała w 1945 na bazie Wydziałów Politechnicznych Akademii Górniczej w Krakowie (utworzonych dekretem z 1946 z mocą wsteczną obowiązującą od 1945). W 1976 otrzymała imię Tadeusza Kościuszki.",
+      "liczba_studentow": 11703,
+      "rektor_2016_2020": "prof. dr hab. inż. Andrzej Szarata"
+    },
+    {
+      "nazwa": "Politechnika Poznańska",
+      "siedziba": "Poznań",
+      "historia": "Powstała w 1955 na bazie istniejącej od 1945 Szkoły Inżynierskiej w Poznaniu (wywodzącej swą tradycję z Państwowej Wyższej Szkoły Budowy Maszyn i Elektrotechniki, która istniała od 1919 do wybuchu II wojny światowej).",
+      "liczba_studentow": 20052,
+      "rektor_2016_2020": "prof. dr hab. inż. Tomasz Łodygowski"
+    },
+    {
+      "nazwa": "Politechnika Częstochowska",
+      "siedziba": "Częstochowa",
+      "historia": "Powstała w 1955 na bazie istniejącej od 1949 Szkoły Inżynierskiej w Częstochowie.",
+      "liczba_studentow": 8792,
+      "rektor_2016_2020": "prof. dr hab. inż. Norbert Sczygiol"
+    },
+    {
+      "nazwa": "Politechnika Rzeszowska im. Ignacego Łukasiewicza",
+      "siedziba": "Rzeszów",
+      "historia": "Powstała w 1974 na bazie istniejącej od 1963 Wyższej Szkoły Inżynierskiej w Rzeszowie.",
+      "liczba_studentow": 16543,
+      "rektor_2016_2020": "prof. dr hab. inż. Tadeusz Markowski"
+    },
+    {
+      "nazwa": "Politechnika Białostocka",
+      "siedziba": "Białystok",
+      "historia": "Powstała w 1974 na bazie działającej od 1964 Wyższej Szkoły Inżynierskiej W Białymstoku i jej poprzedniczki – założonej w 1949 Prywatnej Wieczorowej Szkoły Inżynierskiej NOT.",
+      "liczba_studentow": 10544,
+      "rektor_2016_2020": "prof. dr hab. inż. Lech Dzienis"
+    },
+    {
+      "nazwa": "Politechnika Świętokrzyska",
+      "siedziba": "Kielce",
+      "historia": "Powstała w 1974 na bazie istniejącej od 1967 Kielecko-Radomskiej Wyższej Szkoły Inżynierskiej i jej poprzedniczki – założonej w 1965 Kielecko-Radomskiej Wieczorowej Szkoły Inżynierskiej.",
+      "liczba_studentow": 9003,
+      "rektor_2016_2020": "prof. dr hab. inż. Wiesław Trąmpczyński"
+    },
+    {
+      "nazwa": "Politechnika Lubelska",
+      "siedziba": "Lublin",
+      "historia": "Powstała w 1977, kontynuując tradycje istniejących w Lublinie: Wyższej Szkoły Inżynierskiej (1965) i Wieczorowej Szkoły Inżynierskiej (1953).",
+      "liczba_studentow": 10095,
+      "rektor_2016_2020": "prof. dr hab. inż. Zbigniew Pater"
+    },
+    {
+      "nazwa": "Politechnika Opolska",
+      "siedziba": "Opole",
+      "historia": "Powstała w 1996 na bazie założonej w 1966 Wyższej Szkoły Inżynierskiej. W latach 1959–1966 istniał w Opolu Punkt Konsultacyjny Politechniki Śląskiej.",
+      "liczba_studentow": 7579,
+      "rektor_2016_2020": "prof. dr hab. inż. Marek Tukiendorf"
+    },
+    {
+      "nazwa": "Politechnika Koszalińska",
+      "siedziba": "Koszalin",
+      "historia": "Powstała w 1996 w oparciu o założoną w 1968 Wyższą Szkołę Inżynierską w Koszalinie.",
+      "liczba_studentow": 6124,
+      "rektor_2016_2020": "prof. dr hab. inż. Tadeusz Bohdal"
+    },
+    {
+      "nazwa": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "siedziba": "Szczecin",
+      "historia": "Powstał w 2009, dzięki połączeniu istniejącej w latach 1955–2008 Politechniki Szczecińskiej (z tradycją sięgającą 1946) i działającej od 1972 do 2008 Akademii Rolniczej w Szczecinie (z tradycją sięgającą 1954).",
+      "liczba_studentow": 10570,
+      "rektor_2016_2020": "dr hab. inż. Jacek Wróbel, prof. ZUT"
+    },
+    {
+      "nazwa": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
+      "siedziba": "Bydgoszcz",
+      "historia": "Powstała w 2021 na bazie istniejącego od 2006 Uniwersytetu Technologiczno-Przyrodniczego, powstałego z Akademii Techniczno-Rolniczej (utworzonej w 1974).",
+      "liczba_studentow": 7534,
+      "rektor_2016_2020": "prof. dr hab. inż. Marek Adamski"
+    },
+    {
+      "nazwa": "Politechnika Morska w Szczecinie",
+      "siedziba": "Szczecin",
+      "historia": "Powołana w 2022, z przemianowania Akademii Morskiej, wcześniejszej [[ Politechnika Morska w Szczecinie|Wyższej Szkoły Morskiej w Szczecinie]].",
+      "liczba_studentow": "ok. 3400",
+      "rektor_2016_2020": "dr hab. inż. kpt. ż.w. Wojciech Ślączka, prof. PM"
+    }
+  ],
+  "meta": {
+    "title": "Politechniki w Polsce - Free Download",
+    "description": "Lista polskich politechnik (uczelni technicznych) z siedzibą, historią, liczbą studentów i rektorem. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Politechniki w Polsce | ListBase",
+    "seo_description": "Download Politechniki w Polsce — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Politechniki_w_Polsce"
+    ]
+  }
+}
