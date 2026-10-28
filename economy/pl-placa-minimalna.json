@@ -1,0 +1,618 @@
+{
+  "id": "pl-placa-minimalna",
+  "name": "Płaca minimalna w Polsce — historia od 1956",
+  "title": "Płaca minimalna w Polsce — historia od 1956",
+  "description": "Historia minimalnego wynagrodzenia za pracę w Polsce: data wprowadzenia, kwota brutto w cenach bieżących i stałych oraz stawka godzinowa.",
+  "category": "economy",
+  "source": "https://pl.wikipedia.org/wiki/Płaca_minimalna",
+  "source_url": "https://pl.wikipedia.org/wiki/Płaca_minimalna",
+  "updated": "2026-10",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "data_wprowadzenia",
+      "label": "Data Wprowadzenia",
+      "type": "string"
+    },
+    {
+      "key": "wartosc_brutto_zl",
+      "label": "Wartosc Brutto Zl",
+      "type": "number"
+    },
+    {
+      "key": "wartosc_w_cenach_2020_zl",
+      "label": "Wartosc W Cenach 2020 Zl",
+      "type": "number"
+    },
+    {
+      "key": "stawka_godzinowa_zl",
+      "label": "Stawka Godzinowa Zl",
+      "type": "number"
+    },
+    {
+      "key": "zmiana_proc",
+      "label": "Zmiana Proc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data_wprowadzenia": "1 stycznia 2026",
+      "wartosc_brutto_zl": 4806,
+      "wartosc_w_cenach_2020_zl": "",
+      "stawka_godzinowa_zl": 31.4,
+      "zmiana_proc": "+3,0%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2025",
+      "wartosc_brutto_zl": 4666,
+      "wartosc_w_cenach_2020_zl": 3255,
+      "stawka_godzinowa_zl": 30.5,
+      "zmiana_proc": "+8,5%"
+    },
+    {
+      "data_wprowadzenia": "1 lipca 2024",
+      "wartosc_brutto_zl": 4300,
+      "wartosc_w_cenach_2020_zl": 3066,
+      "stawka_godzinowa_zl": 28.1,
+      "zmiana_proc": "+1,4%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2024",
+      "wartosc_brutto_zl": 4242,
+      "wartosc_w_cenach_2020_zl": 3123,
+      "stawka_godzinowa_zl": 27.7,
+      "zmiana_proc": "+17,8%"
+    },
+    {
+      "data_wprowadzenia": "1 lipca 2023",
+      "wartosc_brutto_zl": 3600,
+      "wartosc_w_cenach_2020_zl": 2679,
+      "stawka_godzinowa_zl": 23.5,
+      "zmiana_proc": "+3,2%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2023",
+      "wartosc_brutto_zl": 3490,
+      "wartosc_w_cenach_2020_zl": 2671,
+      "stawka_godzinowa_zl": 22.8,
+      "zmiana_proc": "+15,9%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2022",
+      "wartosc_brutto_zl": 3010,
+      "wartosc_w_cenach_2020_zl": 2704,
+      "stawka_godzinowa_zl": 19.7,
+      "zmiana_proc": "+7,5%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2021",
+      "wartosc_brutto_zl": 2800,
+      "wartosc_w_cenach_2020_zl": 2751,
+      "stawka_godzinowa_zl": 18.3,
+      "zmiana_proc": "+7,7%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2020",
+      "wartosc_brutto_zl": 2600,
+      "wartosc_w_cenach_2020_zl": 2624,
+      "stawka_godzinowa_zl": 17,
+      "zmiana_proc": "+15,6%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2019",
+      "wartosc_brutto_zl": 2250,
+      "wartosc_w_cenach_2020_zl": 2370,
+      "stawka_godzinowa_zl": 14.7,
+      "zmiana_proc": "+7,1%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2018",
+      "wartosc_brutto_zl": 2100,
+      "wartosc_w_cenach_2020_zl": 2227,
+      "stawka_godzinowa_zl": 13.7,
+      "zmiana_proc": "+5,0%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2017",
+      "wartosc_brutto_zl": 2000,
+      "wartosc_w_cenach_2020_zl": 2162,
+      "stawka_godzinowa_zl": 13,
+      "zmiana_proc": "+8,1%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2016",
+      "wartosc_brutto_zl": 1850,
+      "wartosc_w_cenach_2020_zl": 2037,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+5,7%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2015",
+      "wartosc_brutto_zl": 1750,
+      "wartosc_w_cenach_2020_zl": 1907,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+4,2%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2014",
+      "wartosc_brutto_zl": 1680,
+      "wartosc_w_cenach_2020_zl": 1811,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+5,0%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2013",
+      "wartosc_brutto_zl": 1600,
+      "wartosc_w_cenach_2020_zl": 1739,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+6,7%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2012",
+      "wartosc_brutto_zl": 1500,
+      "wartosc_w_cenach_2020_zl": 1662,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+8,2%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2011",
+      "wartosc_brutto_zl": 1386,
+      "wartosc_w_cenach_2020_zl": 1600,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+5,2%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2010",
+      "wartosc_brutto_zl": 1317,
+      "wartosc_w_cenach_2020_zl": 1578,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+3,2%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2009",
+      "wartosc_brutto_zl": 1276,
+      "wartosc_w_cenach_2020_zl": 1588,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+13,3%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2008",
+      "wartosc_brutto_zl": 1126,
+      "wartosc_w_cenach_2020_zl": 1446,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+20,3%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2007",
+      "wartosc_brutto_zl": 936,
+      "wartosc_w_cenach_2020_zl": 1253,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+4,1%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2006",
+      "wartosc_brutto_zl": 899,
+      "wartosc_w_cenach_2020_zl": 1222,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+5,9%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2005",
+      "wartosc_brutto_zl": 849,
+      "wartosc_w_cenach_2020_zl": 1162,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+3,0%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2004",
+      "wartosc_brutto_zl": 824,
+      "wartosc_w_cenach_2020_zl": 1173,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+3,0%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2003",
+      "wartosc_brutto_zl": 800,
+      "wartosc_w_cenach_2020_zl": 1159,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+5,3%"
+    },
+    {
+      "data_wprowadzenia": "1 stycznia 2001",
+      "wartosc_brutto_zl": 760,
+      "wartosc_w_cenach_2020_zl": 1145,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": "+8,6%"
+    },
+    {
+      "data_wprowadzenia": "1 marca 2000",
+      "wartosc_brutto_zl": 700,
+      "wartosc_w_cenach_2020_zl": 1114,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 XI 1999",
+      "wartosc_brutto_zl": 670,
+      "wartosc_w_cenach_2020_zl": 1114,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1999",
+      "wartosc_brutto_zl": 528,
+      "wartosc_w_cenach_2020_zl": 941,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 II 1998",
+      "wartosc_brutto_zl": 500,
+      "wartosc_w_cenach_2020_zl": 935,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1997",
+      "wartosc_brutto_zl": 450,
+      "wartosc_w_cenach_2020_zl": 926,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 II 1997",
+      "wartosc_brutto_zl": 406,
+      "wartosc_w_cenach_2020_zl": 867,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1997",
+      "wartosc_brutto_zl": 391,
+      "wartosc_w_cenach_2020_zl": 844,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1996",
+      "wartosc_brutto_zl": 370,
+      "wartosc_w_cenach_2020_zl": 876,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1996",
+      "wartosc_brutto_zl": 350,
+      "wartosc_w_cenach_2020_zl": 847,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1996",
+      "wartosc_brutto_zl": 325,
+      "wartosc_w_cenach_2020_zl": 828,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1995",
+      "wartosc_brutto_zl": 305,
+      "wartosc_w_cenach_2020_zl": 827,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1995",
+      "wartosc_brutto_zl": 295,
+      "wartosc_w_cenach_2020_zl": 842,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1995",
+      "wartosc_brutto_zl": 280,
+      "wartosc_w_cenach_2020_zl": 814,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1995",
+      "wartosc_brutto_zl": 260,
+      "wartosc_w_cenach_2020_zl": 803,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1994",
+      "wartosc_brutto_zl": 2400000,
+      "wartosc_w_cenach_2020_zl": 800,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1994",
+      "wartosc_brutto_zl": 2200000,
+      "wartosc_w_cenach_2020_zl": 802,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1994",
+      "wartosc_brutto_zl": 2050000,
+      "wartosc_w_cenach_2020_zl": 789,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1994",
+      "wartosc_brutto_zl": 1950000,
+      "wartosc_w_cenach_2020_zl": 797,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1993",
+      "wartosc_brutto_zl": 1750000,
+      "wartosc_w_cenach_2020_zl": 799,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1993",
+      "wartosc_brutto_zl": 1650000,
+      "wartosc_w_cenach_2020_zl": 805,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1993",
+      "wartosc_brutto_zl": 1500000,
+      "wartosc_w_cenach_2020_zl": 825,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1992",
+      "wartosc_brutto_zl": 1350000,
+      "wartosc_w_cenach_2020_zl": 808,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IX 1992",
+      "wartosc_brutto_zl": 1300000,
+      "wartosc_w_cenach_2020_zl": 802,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VIII 1992",
+      "wartosc_brutto_zl": 1200000,
+      "wartosc_w_cenach_2020_zl": 779,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 V 1992",
+      "wartosc_brutto_zl": 1000000,
+      "wartosc_w_cenach_2020_zl": 687,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1992",
+      "wartosc_brutto_zl": 875000,
+      "wartosc_w_cenach_2020_zl": 673,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 XII 1991",
+      "wartosc_brutto_zl": 700000,
+      "wartosc_w_cenach_2020_zl": 579,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1991",
+      "wartosc_brutto_zl": 652000,
+      "wartosc_w_cenach_2020_zl": 574,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1991",
+      "wartosc_brutto_zl": 632000,
+      "wartosc_w_cenach_2020_zl": 602,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1991",
+      "wartosc_brutto_zl": 605000,
+      "wartosc_w_cenach_2020_zl": 622,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1991",
+      "wartosc_brutto_zl": 550000,
+      "wartosc_w_cenach_2020_zl": 647,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1990",
+      "wartosc_brutto_zl": 440000,
+      "wartosc_w_cenach_2020_zl": 648,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IX 1990",
+      "wartosc_brutto_zl": 368000,
+      "wartosc_w_cenach_2020_zl": 573,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1990",
+      "wartosc_brutto_zl": 120000,
+      "wartosc_w_cenach_2020_zl": 310,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 X 1989",
+      "wartosc_brutto_zl": 38000,
+      "wartosc_w_cenach_2020_zl": 254,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1989",
+      "wartosc_brutto_zl": 22100,
+      "wartosc_w_cenach_2020_zl": 428,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1989",
+      "wartosc_brutto_zl": 17800,
+      "wartosc_w_cenach_2020_zl": 550,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1988",
+      "wartosc_brutto_zl": 9000,
+      "wartosc_w_cenach_2020_zl": 514,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1987",
+      "wartosc_brutto_zl": 7000,
+      "wartosc_w_cenach_2020_zl": 528,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1986",
+      "wartosc_brutto_zl": 5400,
+      "wartosc_w_cenach_2020_zl": 484,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IX 1982",
+      "wartosc_brutto_zl": 5400,
+      "wartosc_w_cenach_2020_zl": 795,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1982",
+      "wartosc_brutto_zl": 3000,
+      "wartosc_w_cenach_2020_zl": 705,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 I 1980",
+      "wartosc_brutto_zl": 2000,
+      "wartosc_w_cenach_2020_zl": 701,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 V 1979",
+      "wartosc_brutto_zl": 1800,
+      "wartosc_w_cenach_2020_zl": 690,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 V 1978",
+      "wartosc_brutto_zl": 1600,
+      "wartosc_w_cenach_2020_zl": 657,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 V 1977",
+      "wartosc_brutto_zl": 1400,
+      "wartosc_w_cenach_2020_zl": 621,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VIII 1974",
+      "wartosc_brutto_zl": 1200,
+      "wartosc_w_cenach_2020_zl": 601,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 XII 1970",
+      "wartosc_brutto_zl": 1000,
+      "wartosc_w_cenach_2020_zl": 550,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VIII 1966",
+      "wartosc_brutto_zl": 850,
+      "wartosc_w_cenach_2020_zl": 495,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1963",
+      "wartosc_brutto_zl": 750,
+      "wartosc_w_cenach_2020_zl": 451,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VIII 1961",
+      "wartosc_brutto_zl": 700,
+      "wartosc_w_cenach_2020_zl": 435,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 VII 1959",
+      "wartosc_brutto_zl": 600,
+      "wartosc_w_cenach_2020_zl": 382,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "1 IV 1956",
+      "wartosc_brutto_zl": 500,
+      "wartosc_w_cenach_2020_zl": 348,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    },
+    {
+      "data_wprowadzenia": "do 31 III 1956",
+      "wartosc_brutto_zl": 364,
+      "wartosc_w_cenach_2020_zl": 254,
+      "stawka_godzinowa_zl": "",
+      "zmiana_proc": ""
+    }
+  ],
+  "meta": {
+    "title": "Płaca minimalna w Polsce — historia od 1956 - Free Download",
+    "description": "Historia minimalnego wynagrodzenia za pracę w Polsce: data wprowadzenia, kwota brutto w cenach bieżących i stałych oraz stawka godzinowa. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Płaca minimalna w Polsce — historia od 1956 | ListBase",
+    "seo_description": "Download Płaca minimalna w Polsce — historia od 1956 — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Płaca_minimalna"
+    ]
+  }
+}

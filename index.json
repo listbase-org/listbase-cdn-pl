@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:27.068Z",
-  "total_datasets": 503,
-  "total_records": 1090809,
+  "generated": "2026-10-28T02:14:29.588Z",
+  "total_datasets": 504,
+  "total_records": 1090890,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -286,6 +286,32 @@
         "xlsx": {
           "name": "pl-najwieksze-przedsiebiorstwa-2012_PL.xlsx",
           "size": 7926
+        }
+      }
+    },
+    {
+      "id": "pl-placa-minimalna",
+      "name": "Płaca minimalna w Polsce — historia od 1956",
+      "category": "economy",
+      "record_count": 81,
+      "columns": [
+        "data_wprowadzenia",
+        "wartosc_brutto_zl",
+        "wartosc_w_cenach_2020_zl",
+        "stawka_godzinowa_zl",
+        "zmiana_proc"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Płaca_minimalna",
+      "updated": "2026-10",
+      "size": 16941,
+      "files": {
+        "csv": {
+          "name": "pl-placa-minimalna_PL.csv",
+          "size": 3009
+        },
+        "xlsx": {
+          "name": "pl-placa-minimalna_PL.xlsx",
+          "size": 9344
         }
       }
     },
