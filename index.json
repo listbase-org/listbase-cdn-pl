@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:21.889Z",
-  "total_datasets": 501,
-  "total_records": 1090775,
+  "generated": "2026-10-28T02:14:24.748Z",
+  "total_datasets": 502,
+  "total_records": 1090791,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -3322,6 +3322,32 @@
         "xlsx": {
           "name": "pl-ministrowie-zdrowia_PL.xlsx",
           "size": 10301
+        }
+      }
+    },
+    {
+      "id": "pl-uczelnie-medyczne",
+      "name": "Uczelnie medyczne w Polsce",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "nazwa",
+        "siedziba",
+        "historia",
+        "liczba_studentow",
+        "rektor_2016_2020"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Uczelnie_medyczne_w_Polsce",
+      "updated": "2026-10",
+      "size": 10081,
+      "files": {
+        "csv": {
+          "name": "pl-uczelnie-medyczne_PL.csv",
+          "size": 6612
+        },
+        "xlsx": {
+          "name": "pl-uczelnie-medyczne_PL.xlsx",
+          "size": 9359
         }
       }
     },

@@ -1,0 +1,163 @@
+{
+  "id": "pl-uczelnie-medyczne",
+  "name": "Uczelnie medyczne w Polsce",
+  "title": "Uczelnie medyczne w Polsce",
+  "description": "Lista polskich uniwersytetów medycznych i collegiów medycznych z siedzibą, historią, liczbą studentów i rektorem.",
+  "category": "health",
+  "source": "https://pl.wikipedia.org/wiki/Uczelnie_medyczne_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Uczelnie_medyczne_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "siedziba",
+      "label": "Siedziba",
+      "type": "string"
+    },
+    {
+      "key": "historia",
+      "label": "Historia",
+      "type": "string"
+    },
+    {
+      "key": "liczba_studentow",
+      "label": "Liczba Studentow",
+      "type": "number"
+    },
+    {
+      "key": "rektor_2016_2020",
+      "label": "Rektor 2016 2020",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Uniwersytet Medyczny w Łodzi, (w tym studia wojskowo-lekarskie prowadzone w ramach etatu Akademii Wojsk Lądowych im. generała Tadeusza Kościuszki we Wrocławiu)",
+      "siedziba": "Łódź",
+      "historia": "Utworzony w 2002 r. z połączenia funkcjonujących w Łodzi: Akademii Medycznej (założonej w 1950 ) i Wojskowej Akademii Medycznej (powstałej w 1958 ).",
+      "liczba_studentow": 8409,
+      "rektor_2016_2020": "prof. dr hab. Radzisław Kordek"
+    },
+    {
+      "nazwa": "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu",
+      "siedziba": "Poznań",
+      "historia": "Utworzony jako samodzielna Akademia Lekarska w Poznaniu w 1950 (w tym samym roku przemianowana na Akademię Medyczną w Poznaniu) z Wydziału Lekarskiego (założony w 1920) i Wydziału Farmaceutycznego (założony w 1947) Uniwersytetu Poznańskiego. Uczelnia w 1984 otrzymała imię Karola Marcinkowskiego. Pod obecną nazwą od 2007.",
+      "liczba_studentow": 6620,
+      "rektor_2016_2020": "prof. dr hab. Andrzej Tykarski"
+    },
+    {
+      "nazwa": "Śląski Uniwersytet Medyczny w Katowicach (kierunek lekarski prowadzony równolegle przez Wydział Nauk Medycznych w Zabrzu oraz Wydział Nauk Medycznych w Katowicach)",
+      "siedziba": "Katowice",
+      "historia": "Utworzony w 1948 r. jako Akademia Lekarska w Bytomiu, która od 1971 nosiła nazwę Śląska Akademia Medyczna imienia Ludwika Waryńskiego w Katowicach. Pod obecną nazwą od 2007.",
+      "liczba_studentow": 9249,
+      "rektor_2016_2020": "prof. dr hab. Przemysław Jałowiecki"
+    },
+    {
+      "nazwa": "Warszawski Uniwersytet Medyczny",
+      "siedziba": "Warszawa",
+      "historia": "Utworzony w 1950 jako Akademia Lekarska w Warszawie (w tym samym roku przemianowana na Akademię Medyczną w Warszawie) z połączenia Wydziałów Lekarskiego i Farmaceutycznego Uniwersytetu Warszawskiego z Akademią Stomatologiczną. Pod obecną nazwą od 2008. Korzeniami sięga założonej w 1809 Szkoły Lekarskiej w Warszawie, włączonej w 1816 do Królewskiego Uniwersytetu Warszawskiego jako Wydział Lekarski.",
+      "liczba_studentow": 9030,
+      "rektor_2016_2020": "prof. dr hab. Mirosław Wielgoś"
+    },
+    {
+      "nazwa": "Uniwersytet Medyczny w Lublinie",
+      "siedziba": "Lublin",
+      "historia": "Utworzony jako samodzielna Akademia Lekarska w Lublinie w 1950, przemianowana w tym roku na Akademię Medyczną w Lublinie, która od 2002 nosiła imię Feliksa Skubiszewskiego. Pod obecną nazwą od 2008.",
+      "liczba_studentow": 6886,
+      "rektor_2016_2020": "prof. dr hab. Andrzej Drop"
+    },
+    {
+      "nazwa": "Uniwersytet Medyczny w Białymstoku",
+      "siedziba": "Białystok",
+      "historia": "Utworzony w 1950 jako Akademia Lekarska w Białymstoku, przemianowana w tym samym roku na Akademię Medyczną w Białymstoku. Pod obecną nazwą od 2008.",
+      "liczba_studentow": 4461,
+      "rektor_2016_2020": "prof. dr hab. Adam Krętowski"
+    },
+    {
+      "nazwa": "Gdański Uniwersytet Medyczny",
+      "siedziba": "Gdańsk",
+      "historia": "Utworzony w 1945 jako Akademia Lekarska w Gdańsku na bazie lokalowej zlikwidowanej niemieckiej Medizinische Akademie Danzig (1935–1945) z udziałem kadry pochodzącej m.in. z przedwojennego Uniwersytetu Wileńskiego. W 1950 uczelnię przemianowano na Akademię Medyczną w Gdańsku. Pod obecną nazwą od 2009.",
+      "liczba_studentow": 5076,
+      "rektor_2016_2020": "prof. dr hab. Marcin Gruchała"
+    },
+    {
+      "nazwa": "Pomorski Uniwersytet Medyczny w Szczecinie",
+      "siedziba": "Szczecin",
+      "historia": "Utworzony w 1948 jako Akademia Lekarska w Szczecinie, nosząca w latach 1949–1992 nazwę Pomorska Akademia Medyczna im. gen. Karola Świerczewskiego. Pod obecną nazwą od 2010.",
+      "liczba_studentow": 5191,
+      "rektor_2016_2020": "prof. dr hab. Bogusław Machaliński"
+    },
+    {
+      "nazwa": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+      "siedziba": "Wrocław",
+      "historia": "Pierwotnie Wydział Lekarski Uniwersytetu Wrocławskiego działający od 1945 r. z udziałem kadry pochodzącej m.in. z przedwojennego Uniwersytetu Lwowskiego, formalnie powołany w wyniku przekształcenia wydziału lekarskiego niemieckiego Schlesische Friedrich-Wilhelms-Universität, z kolei ten ostatni powstał w 1811 r. wskutek przeniesienia utworzonego w 1506 r. ewangelickiego Uniwersytetu Viadrina z Frankfurtu nad Odrą do Wrocławia i połączenia go z tamtejszą katolicką Akademią Leopoldina Wyodrębniony jako samodzielna Akademia Lekarska we Wrocławiu w 1950 r., przemianowana jeszcze w tym samym roku na Akademię Medyczną we Wrocławiu, a od 1989 r. nosząca imię Piastów śląskich. Pod obecną nazwą od 2012.",
+      "liczba_studentow": 5572,
+      "rektor_2016_2020": "prof. dr hab. Marek Ziętek"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Jagiellońskiego",
+      "siedziba": "Kraków",
+      "historia": "Wydział Lekarski powstał w 1364 wraz z założeniem Akademii Krakowskiej. W 1950 wyłączono go z Uniwersytetu Jagiellońskiego i utworzono z niego samodzielną uczelnię – Akademię Lekarską w Krakowie (później: Akademia Medyczna im. Mikołaja Kopernika w Krakowie). W 1993 uczelnię włączono do UJ jako Collegium Medicum.",
+      "liczba_studentow": 6478,
+      "rektor_2016_2020": "prof. dr hab. Wojciech Nowak"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Mikołaja Kopernika",
+      "siedziba": "Bydgoszcz",
+      "historia": "W 1984 na bazie Zamiejscowego Wydziału Lekarskiego Akademii Medycznej w Gdańsku (założonego w 1979 ) utworzono samodzielną Akademię Medyczną w Bydgoszczy. W 2004 Akademia Medyczna im. Ludwika Rydygiera w Bydgoszczy została włączona do Uniwersytetu Mikołaja Kopernika w Toruniu jako Collegium Medicum im. Ludwika Rydygiera w Bydgoszczy.",
+      "liczba_studentow": 5276,
+      "rektor_2016_2020": "prof. dr hab. Grażyna Odrowąż-Sypniewska"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Warmińsko-Mazurskiego",
+      "siedziba": "Olsztyn",
+      "historia": "W 2007 na Uniwersytecie Warmińsko-Mazurskim w Olsztynie utworzono Wydział Nauk Medycznych, który w 2017 przekształcono w Collegium Medicum UWM.",
+      "liczba_studentow": 1066,
+      "rektor_2016_2020": "prof. dr hab. n. med. Sergiusz Nawrocki"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Rzeszowskiego",
+      "siedziba": "Rzeszów",
+      "historia": "Powstało w 2019 r. na bazie Wydziału Medycznego (utworzonego w 2004 r. jako Wydział Nauk o Zdrowiu) i Wydziału Wychowania Fizycznego (utworzonego w 2009 r.) Uniwersytetu Rzeszowskiego, kontynuując tradycje Zespołu Nauczania Klinicznego i następnie Instytutu Medycyny Klinicznej w Rzeszowie Akademii Medycznej w Krakowie, działających w latach 1970–1991",
+      "liczba_studentow": "",
+      "rektor_2016_2020": "prof. dr. hab. n. med. Artur Mazur"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Zielonogórskiego",
+      "siedziba": "Zielona Góra",
+      "historia": "Powstało na bazie Wydziału Lekarskiego i Nauk o Zdrowiu powołanego na Uniwersytecie Zielonogórskim w 2015 r.",
+      "liczba_studentow": "",
+      "rektor_2016_2020": "prof. dr hab. Maciej Zabel"
+    },
+    {
+      "nazwa": "Collegium Medicum Uniwersytetu Jana Kochanowskiego w Kielcach",
+      "siedziba": "Kielce",
+      "historia": "Powstało w 2019 na bazie Wydziału Lekarskiego i Nauk o Zdrowiu Uniwersytetu Jana Kochanowskiego w Kielcach, który od 2015 r. kształci na kierunku lekarskim, kontynuując tradycje Zespołu Nauczania Klinicznego i następnie Instytutu Medycyny Klinicznej w Kielcach Akademii Medycznej w Krakowie, działających w latach 1969–1991",
+      "liczba_studentow": 1965,
+      "rektor_2016_2020": "dr hab. Dorota Kozieł, prof. UJK"
+    },
+    {
+      "nazwa": "Centrum Medycznego Kształcenia Podyplomowego",
+      "siedziba": "Warszawa",
+      "historia": "Quasi-uczelnia sui generis powołana 1 stycznia 1971 r. jako Centrum Medyczne Kształcenia Podyplomowego; 1 stycznia 2025 r. zmieniła nazwę na Centrum Medycznego Kształcenia Podyplomowego i zarazem wchłonęła Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych.",
+      "liczba_studentow": "brak (prowadzi wyłącznie studia doktoranckie i kształcenie podyplomowe)",
+      "rektor_2016_2020": "prof. Ryszard Gellert"
+    }
+  ],
+  "meta": {
+    "title": "Uczelnie medyczne w Polsce - Free Download",
+    "description": "Lista polskich uniwersytetów medycznych i collegiów medycznych z siedzibą, historią, liczbą studentów i rektorem. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uczelnie medyczne w Polsce | ListBase",
+    "seo_description": "Download Uczelnie medyczne w Polsce — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Uczelnie_medyczne_w_Polsce"
+    ]
+  }
+}
