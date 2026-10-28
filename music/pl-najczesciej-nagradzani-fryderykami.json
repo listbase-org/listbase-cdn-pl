@@ -1,0 +1,166 @@
+{
+  "id": "pl-najczesciej-nagradzani-fryderykami",
+  "name": "Artyści z największą liczbą nagród Fryderyk",
+  "title": "Artyści z największą liczbą nagród Fryderyk",
+  "description": "Ranking polskich artystów i zespołów z największą liczbą statuetek Fryderyk wraz z kategoriami.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)",
+  "source_url": "https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "liczba_nagrod",
+      "label": "Liczba Nagrod",
+      "type": "number"
+    },
+    {
+      "key": "artysta",
+      "label": "Artysta",
+      "type": "string"
+    },
+    {
+      "key": "warianty",
+      "label": "Warianty",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "liczba_nagrod": 34,
+      "artysta": "Katarzyna Nosowska",
+      "warianty": "solo z zespołem Hey",
+      "kategorie": "Artystka roku (2005, 2008, 2009) Zespół / projekt artystyczny roku (1994, 2005, 2010) Autor / autorka / team autorski roku (1996, 2000, 2005, 2006, 2008, 2010, 2012) Utwór roku (2008, 2010) Album roku rock & blues (2001, 2003, 2005, 2008, 2010, 2018) Album roku muzyka alternatywna (1996, 2000, 2008, 2019) Album roku piosenka poetycka i literacka (2009) Teledysk roku (2008) Produkcja muzyczna roku (2008, 2010) Najlepsza oprawa graficzna (2005, 2008, 2010, 2012) Koncert roku (1994)"
+    },
+    {
+      "liczba_nagrod": 18,
+      "artysta": "Jacek Chrzanowski",
+      "warianty": "z zespołem Hey z zespołem Dezerter",
+      "kategorie": "Zespół / projekt artystyczny roku (1994, 2005, 2010) Utwór roku (2010) Album roku rock & blues (2001, 2003, 2005, 2008, 2010, 2011, 2018, 2023) Produkcja muzyczna roku (2008, 2010) Najlepsza oprawa graficzna (2005, 2008, 2010) Koncert roku (1994)"
+    },
+    {
+      "liczba_nagrod": 16,
+      "artysta": "Hey",
+      "warianty": "",
+      "kategorie": "Zespół / projekt artystyczny roku (1994, 2005, 2010) Utwór roku (2010) Album roku rock & blues (2001, 2003, 2005, 2008, 2010, 2018) Produkcja muzyczna roku (2008, 2010) Najlepsza oprawa graficzna (2005, 2008, 2010) Koncert roku (1994)"
+    },
+    {
+      "liczba_nagrod": 15,
+      "artysta": "Anna Mikołajczyk-Niewiedział",
+      "warianty": "",
+      "kategorie": "Fonograficzny debiut roku muzyka klasyczna (2008) Najwybitniejsze nagranie muzyki polskiej (2006) Album roku muzyka dawna (2006, 2008) Album roku muzyka chóralna, oratoryjna i operowa (2008) Album roku opera, operetka, balet (2008) Album roku muzyka orkiestrowa (2022, 2024) Album roku muzyka kameralna (2017, 2019) Album roku muzyka kameralna – duety (2022, 2024) Album roku muzyka współczesna (2008, 2016, 2017)"
+    },
+    {
+      "liczba_nagrod": 15,
+      "artysta": "Orkiestra Filharmonii Narodowej",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2005) Album roku muzyka symfoniczna i koncertująca (1999, 2000, 2002, 2005, 2016) Album roku muzyka koncertująca (2024) Album roku muzyka orkiestrowa (2025) Album roku muzyka współczesna (2000, 2001, 2005, 2011) Album roku muzyka chóralna, oratoryjna i operowa (2014, 2018) Album roku nagrania archiwalne (2004)"
+    },
+    {
+      "liczba_nagrod": 14,
+      "artysta": "Dawid Podsiadło",
+      "warianty": "solo z zespołem Męskie Granie Orkiestra 2018 z zespołem Męskie Granie Orkiestra 2021",
+      "kategorie": "Artysta / artystka roku (2014) Fonograficzny debiut roku (2014) Kompozytor / kompozytorka / team kompozytorski roku (2019, 2020, 2023) Autor / autorka / team autorski roku (2019) Utwór roku (2014, 2019, 2022) Album roku (2014) Album roku pop (2019) Najlepsze nagranie koncertowe (2023) Teledysk roku (2016, 2017)"
+    },
+    {
+      "liczba_nagrod": 14,
+      "artysta": "Paweł Krawczyk",
+      "warianty": "solo z zespołem Hey",
+      "kategorie": "Zespół / projekt artystyczny roku (2005, 2010) Utwór roku (2010) Album roku rock & blues (2001, 2003, 2005, 2008, 2010, 2018) Produkcja muzyczna roku (2008, 2010) Najlepsza oprawa graficzna (2005, 2008, 2010)"
+    },
+    {
+      "liczba_nagrod": 13,
+      "artysta": "Maciej Starosta",
+      "warianty": "z zespołem 2Tm2,3 z zespołem Acid Drinkers z zespołem Arka Noego z zespołem Flapjack",
+      "kategorie": "Fonograficzny debiut roku muzyka klasyczna (2000) Zespół / projekt artystyczny roku (2000, 2011) Utwór roku (2011) Album roku pop (2000) Album roku metal (1998, 1999, 2000, 2004, 2009, 2011, 2024) Najlepsza oprawa graficzna (2011)"
+    },
+    {
+      "liczba_nagrod": 13,
+      "artysta": "Sinfonia Varsovia",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2003, 2020) Album roku muzyka symfoniczna i koncertująca (1995, 2000, 2009, 2017) Album roku muzyka orkiestrowa (2020) Album roku muzyka koncertująca (2022, 2026) Album roku recital solowy (2002) Album roku muzyka współczesna (1996, 2003, 2004)"
+    },
+    {
+      "liczba_nagrod": 12,
+      "artysta": "Rafał Blechacz",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2008, 2010, 2024) Album roku (2013) Album roku muzyka symfoniczna i koncertująca (2005, 2010) Album roku recital solowy (2005, 2008, 2009, 2024) Najlepszy album polski za granicą (2014, 2020)"
+    },
+    {
+      "liczba_nagrod": 12,
+      "artysta": "Grzegorz Ciechowski",
+      "warianty": "solo z zespołem Republika",
+      "kategorie": "Producent / producentka / team producencki roku (1996, 1997, 2001) Aranżer roku (1996) Kompozytor / kompozytorka / team kompozytorski roku (1998, 2001) Autor / autorka / team autorski roku (2001) Album roku muzyka korzeni (1996) Album roku muzyka ilustracyjna (2001) Album roku reedycje / nagrania archiwalne (2002, 2004) Złoty Fryderyk (2022)"
+    },
+    {
+      "liczba_nagrod": 12,
+      "artysta": "Lech Janerka",
+      "warianty": "",
+      "kategorie": "Artysta roku (2024) Kompozytor / kompozytorka / team kompozytorski roku (2005, 2024) Autor / autorka / team autorski roku (2002, 2024) Utwór roku (2005, 2024) Album roku muzyka alternatywna (2002, 2005, 2024) Teledysk roku (2005) Złoty Fryderyk (2015)"
+    },
+    {
+      "liczba_nagrod": 12,
+      "artysta": "Marcin Wasilewski",
+      "warianty": "solo z zespołem Marcin Wasilewski Trio",
+      "kategorie": "Jazzowy artysta / artystka roku (2005, 2009, 2012, 2015, 2019, 2022) Album roku jazz (2001, 2005, 2009, 2015, 2019, 2022)"
+    },
+    {
+      "liczba_nagrod": 12,
+      "artysta": "Krystian Zimerman",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2012, 2016, 2023) Album roku muzyka symfoniczna i koncertująca (2004) Najlepszy album polski za granicą (2012, 2016, 2018, 2019, 2022, 2023) Album roku muzyka kameralna – większe składy (2026) Złoty Fryderyk (1999)"
+    },
+    {
+      "liczba_nagrod": 11,
+      "artysta": "Łukasz Borowicz",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2020, 2025, 2026) Album roku muzyka symfoniczna i koncertująca (2006) Album roku muzyka współczesna (2008) Album roku opera, operetka, balet (2010) Album roku muzyka orkiestrowa (2020, 2026) Album roku muzyka koncertująca (2023) Album roku muzyka oratoryjna i operowa (2024) Album roku muzyka chóralna (2026)"
+    },
+    {
+      "liczba_nagrod": 11,
+      "artysta": "Brodka",
+      "warianty": "",
+      "kategorie": "Fryderyk dla artystki roku (2011) Utwór roku (2013) Album roku pop (2011) Album roku muzyka alternatywna (2017, 2023, 2025) Produkcja muzyczna roku (2011) Teledysk roku (2012, 2021, 2022, 2023)"
+    },
+    {
+      "liczba_nagrod": 11,
+      "artysta": "Narodowa Orkiestra Symfoniczna Polskiego Radia w Katowicach",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2003, 2020, 2026) Album roku muzyka symfoniczna i koncertująca (2001, 2003) Album roku muzyka orkiestrowa (2020, 2021) Album roku muzyka chóralna (2021) Album roku muzyka współczesna (2006) Album roku nagrania archiwalne (2004, 2006)"
+    },
+    {
+      "liczba_nagrod": 11,
+      "artysta": "Orkiestra Polskiego Radia w Warszawie",
+      "warianty": "",
+      "kategorie": "Najwybitniejsze nagranie muzyki polskiej (2006, 2009, 2020) Album roku muzyka symfoniczna i koncertująca (2006) Album roku muzyka orkiestrowa (2020) Album roku opera, operetka, balet (2010) Album roku muzyka oratoryjna i operowa (2020, 2024) Album roku muzyka współczesna (2009) Album roku nagrania archiwalne (2006) Album roku muzyka ilustracyjna (2019)"
+    },
+    {
+      "liczba_nagrod": 10,
+      "artysta": "Emade",
+      "warianty": "solo z zespołem Fisz Emade Tworzywo",
+      "kategorie": "Zespół / projekt artystyczny roku (2022) Produkcja muzyczna roku (2005) Album roku rock & blues (2016, 2019) Album roku hip hop (2006, 2009, 2012) Album roku muzyka alternatywna (2011, 2015, 2022)"
+    },
+    {
+      "liczba_nagrod": 10,
+      "artysta": "Natalia Przybysz",
+      "warianty": "solo z zespołem Sistars",
+      "kategorie": "Fonograficzny debiut roku (2003) Zespół / projekt artystyczny roku (2004) Utwór roku (2015) Album roku pop (2018, 2020) Album roku rock & blues (2015) Album roku hip hop (2003, 2005) Teledysk roku (2004) Produkcja muzyczna roku (2004)"
+    }
+  ],
+  "meta": {
+    "title": "Artyści z największą liczbą nagród Fryderyk - Free Download",
+    "description": "Ranking polskich artystów i zespołów z największą liczbą statuetek Fryderyk wraz z kategoriami. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Artyści z największą liczbą nagród Fryderyk | ListBase",
+    "seo_description": "Download Artyści z największą liczbą nagród Fryderyk — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)"
+    ]
+  }
+}
