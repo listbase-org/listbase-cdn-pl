@@ -1,0 +1,472 @@
+{
+  "id": "pl-inflacja-roczna",
+  "name": "Roczna inflacja w Polsce od 1917",
+  "title": "Roczna inflacja w Polsce od 1917",
+  "description": "Roczna stopa inflacji (wzrost cen konsumpcyjnych) w Polsce od 1917 roku.",
+  "category": "economy",
+  "source": "https://pl.wikipedia.org/wiki/Inflacja_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Inflacja_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "inflacja_proc",
+      "label": "Inflacja Proc",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1917,
+      "inflacja_proc": 5.3
+    },
+    {
+      "rok": 1918,
+      "inflacja_proc": 6.8
+    },
+    {
+      "rok": 1919,
+      "inflacja_proc": 211.2
+    },
+    {
+      "rok": 1920,
+      "inflacja_proc": 831.1
+    },
+    {
+      "rok": 1921,
+      "inflacja_proc": 606.6
+    },
+    {
+      "rok": 1922,
+      "inflacja_proc": 238.9
+    },
+    {
+      "rok": 1923,
+      "inflacja_proc": 5601
+    },
+    {
+      "rok": 1924,
+      "inflacja_proc": 3580.1
+    },
+    {
+      "rok": 1925,
+      "inflacja_proc": 16.1
+    },
+    {
+      "rok": 1926,
+      "inflacja_proc": 20.8
+    },
+    {
+      "rok": 1927,
+      "inflacja_proc": 14.9
+    },
+    {
+      "rok": 1928,
+      "inflacja_proc": 0
+    },
+    {
+      "rok": 1929,
+      "inflacja_proc": 0
+    },
+    {
+      "rok": 1930,
+      "inflacja_proc": -8
+    },
+    {
+      "rok": 1931,
+      "inflacja_proc": -9.8
+    },
+    {
+      "rok": 1932,
+      "inflacja_proc": -9.6
+    },
+    {
+      "rok": 1933,
+      "inflacja_proc": -10.7
+    },
+    {
+      "rok": 1934,
+      "inflacja_proc": -6
+    },
+    {
+      "rok": 1935,
+      "inflacja_proc": -4.8
+    },
+    {
+      "rok": 1936,
+      "inflacja_proc": -3.3
+    },
+    {
+      "rok": 1937,
+      "inflacja_proc": 6.9
+    },
+    {
+      "rok": 1938,
+      "inflacja_proc": -1.6
+    },
+    {
+      "rok": 1939,
+      "inflacja_proc": 118.7
+    },
+    {
+      "rok": 1940,
+      "inflacja_proc": 235.7
+    },
+    {
+      "rok": 1941,
+      "inflacja_proc": 194.4
+    },
+    {
+      "rok": 1942,
+      "inflacja_proc": 91.5
+    },
+    {
+      "rok": 1943,
+      "inflacja_proc": 50.5
+    },
+    {
+      "rok": 1944,
+      "inflacja_proc": 4.2
+    },
+    {
+      "rok": 1945,
+      "inflacja_proc": 101.9
+    },
+    {
+      "rok": 1946,
+      "inflacja_proc": 9.6
+    },
+    {
+      "rok": 1947,
+      "inflacja_proc": 38.1
+    },
+    {
+      "rok": 1948,
+      "inflacja_proc": 3.7
+    },
+    {
+      "rok": 1949,
+      "inflacja_proc": 4.3
+    },
+    {
+      "rok": 1950,
+      "inflacja_proc": 7.5
+    },
+    {
+      "rok": 1951,
+      "inflacja_proc": 9.6
+    },
+    {
+      "rok": 1952,
+      "inflacja_proc": 14.4
+    },
+    {
+      "rok": 1953,
+      "inflacja_proc": 41.9
+    },
+    {
+      "rok": 1954,
+      "inflacja_proc": -6.3
+    },
+    {
+      "rok": 1955,
+      "inflacja_proc": -2.4
+    },
+    {
+      "rok": 1956,
+      "inflacja_proc": -1
+    },
+    {
+      "rok": 1957,
+      "inflacja_proc": 5.4
+    },
+    {
+      "rok": 1958,
+      "inflacja_proc": 2.7
+    },
+    {
+      "rok": 1959,
+      "inflacja_proc": 1.1
+    },
+    {
+      "rok": 1960,
+      "inflacja_proc": 1.8
+    },
+    {
+      "rok": 1961,
+      "inflacja_proc": 0.7
+    },
+    {
+      "rok": 1962,
+      "inflacja_proc": 2.5
+    },
+    {
+      "rok": 1963,
+      "inflacja_proc": 0.8
+    },
+    {
+      "rok": 1964,
+      "inflacja_proc": 1.2
+    },
+    {
+      "rok": 1965,
+      "inflacja_proc": 0.9
+    },
+    {
+      "rok": 1966,
+      "inflacja_proc": 1.2
+    },
+    {
+      "rok": 1967,
+      "inflacja_proc": 1.5
+    },
+    {
+      "rok": 1968,
+      "inflacja_proc": 1.6
+    },
+    {
+      "rok": 1969,
+      "inflacja_proc": 1.4
+    },
+    {
+      "rok": 1970,
+      "inflacja_proc": 1.1
+    },
+    {
+      "rok": 1971,
+      "inflacja_proc": -0.1
+    },
+    {
+      "rok": 1972,
+      "inflacja_proc": 0
+    },
+    {
+      "rok": 1973,
+      "inflacja_proc": 2.8
+    },
+    {
+      "rok": 1974,
+      "inflacja_proc": 7.1
+    },
+    {
+      "rok": 1975,
+      "inflacja_proc": 3
+    },
+    {
+      "rok": 1976,
+      "inflacja_proc": 4.4
+    },
+    {
+      "rok": 1977,
+      "inflacja_proc": 4.9
+    },
+    {
+      "rok": 1978,
+      "inflacja_proc": 8.1
+    },
+    {
+      "rok": 1979,
+      "inflacja_proc": 7
+    },
+    {
+      "rok": 1980,
+      "inflacja_proc": 9.4
+    },
+    {
+      "rok": 1981,
+      "inflacja_proc": 21.2
+    },
+    {
+      "rok": 1982,
+      "inflacja_proc": 100.8
+    },
+    {
+      "rok": 1983,
+      "inflacja_proc": 22.1
+    },
+    {
+      "rok": 1984,
+      "inflacja_proc": 15
+    },
+    {
+      "rok": 1985,
+      "inflacja_proc": 15.1
+    },
+    {
+      "rok": 1986,
+      "inflacja_proc": 17.7
+    },
+    {
+      "rok": 1987,
+      "inflacja_proc": 25.2
+    },
+    {
+      "rok": 1988,
+      "inflacja_proc": 60.2
+    },
+    {
+      "rok": 1989,
+      "inflacja_proc": 251.1
+    },
+    {
+      "rok": 1990,
+      "inflacja_proc": 585.8
+    },
+    {
+      "rok": 1991,
+      "inflacja_proc": 70.3
+    },
+    {
+      "rok": 1992,
+      "inflacja_proc": 43
+    },
+    {
+      "rok": 1993,
+      "inflacja_proc": 35.3
+    },
+    {
+      "rok": 1994,
+      "inflacja_proc": 32.2
+    },
+    {
+      "rok": 1995,
+      "inflacja_proc": 27.8
+    },
+    {
+      "rok": 1996,
+      "inflacja_proc": 19.9
+    },
+    {
+      "rok": 1997,
+      "inflacja_proc": 14.9
+    },
+    {
+      "rok": 1998,
+      "inflacja_proc": 11.8
+    },
+    {
+      "rok": 1999,
+      "inflacja_proc": 7.3
+    },
+    {
+      "rok": 2000,
+      "inflacja_proc": 10.1
+    },
+    {
+      "rok": 2001,
+      "inflacja_proc": 5.5
+    },
+    {
+      "rok": 2002,
+      "inflacja_proc": 1.9
+    },
+    {
+      "rok": 2003,
+      "inflacja_proc": 0.8
+    },
+    {
+      "rok": 2004,
+      "inflacja_proc": 3.5
+    },
+    {
+      "rok": 2005,
+      "inflacja_proc": 2.1
+    },
+    {
+      "rok": 2006,
+      "inflacja_proc": 1
+    },
+    {
+      "rok": 2007,
+      "inflacja_proc": 2.5
+    },
+    {
+      "rok": 2008,
+      "inflacja_proc": 4.2
+    },
+    {
+      "rok": 2009,
+      "inflacja_proc": 3.5
+    },
+    {
+      "rok": 2010,
+      "inflacja_proc": 2.6
+    },
+    {
+      "rok": 2011,
+      "inflacja_proc": 4.3
+    },
+    {
+      "rok": 2012,
+      "inflacja_proc": 3.7
+    },
+    {
+      "rok": 2013,
+      "inflacja_proc": 0.9
+    },
+    {
+      "rok": 2014,
+      "inflacja_proc": 0
+    },
+    {
+      "rok": 2015,
+      "inflacja_proc": -0.9
+    },
+    {
+      "rok": 2016,
+      "inflacja_proc": -0.6
+    },
+    {
+      "rok": 2017,
+      "inflacja_proc": 2
+    },
+    {
+      "rok": 2018,
+      "inflacja_proc": 1.6
+    },
+    {
+      "rok": 2019,
+      "inflacja_proc": 2.3
+    },
+    {
+      "rok": 2020,
+      "inflacja_proc": 3.4
+    },
+    {
+      "rok": 2021,
+      "inflacja_proc": 5.1
+    },
+    {
+      "rok": 2022,
+      "inflacja_proc": 14.4
+    },
+    {
+      "rok": 2023,
+      "inflacja_proc": 11.4
+    },
+    {
+      "rok": 2024,
+      "inflacja_proc": 3.6
+    },
+    {
+      "rok": 2025,
+      "inflacja_proc": 3.6
+    }
+  ],
+  "meta": {
+    "title": "Roczna inflacja w Polsce od 1917 - Free Download",
+    "description": "Roczna stopa inflacji (wzrost cen konsumpcyjnych) w Polsce od 1917 roku. Contains 109 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Roczna inflacja w Polsce od 1917 | ListBase",
+    "seo_description": "Download Roczna inflacja w Polsce od 1917 — 109 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 109 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Inflacja_w_Polsce"
+    ]
+  }
+}

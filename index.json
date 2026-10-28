@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:36.792Z",
-  "total_datasets": 507,
-  "total_records": 1091032,
+  "generated": "2026-10-28T02:14:39.368Z",
+  "total_datasets": 508,
+  "total_records": 1091141,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -260,6 +260,29 @@
         "xlsx": {
           "name": "pl-sklepy-z-artykulami-plastycznymi_PL.xlsx",
           "size": 15788
+        }
+      }
+    },
+    {
+      "id": "pl-inflacja-roczna",
+      "name": "Roczna inflacja w Polsce od 1917",
+      "category": "economy",
+      "record_count": 109,
+      "columns": [
+        "rok",
+        "inflacja_proc"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Inflacja_w_Polsce",
+      "updated": "2026-10",
+      "size": 7739,
+      "files": {
+        "csv": {
+          "name": "pl-inflacja-roczna_PL.csv",
+          "size": 1482
+        },
+        "xlsx": {
+          "name": "pl-inflacja-roczna_PL.xlsx",
+          "size": 8108
         }
       }
     },
