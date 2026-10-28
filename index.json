@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:29.588Z",
-  "total_datasets": 504,
-  "total_records": 1090890,
+  "generated": "2026-10-28T02:14:32.006Z",
+  "total_datasets": 505,
+  "total_records": 1090963,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -312,6 +312,34 @@
         "xlsx": {
           "name": "pl-placa-minimalna_PL.xlsx",
           "size": 9344
+        }
+      }
+    },
+    {
+      "id": "pl-przecietne-wynagrodzenie",
+      "name": "Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022",
+      "category": "economy",
+      "record_count": 73,
+      "columns": [
+        "rok",
+        "cpi_rok_poprzedni_1",
+        "cpi_rok_2022_1",
+        "netto_ceny_biezace_zl",
+        "netto_ceny_stale_2022_zl",
+        "brutto_ceny_biezace_zl",
+        "brutto_ceny_stale_2022_zl"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Przeciętne_wynagrodzenie",
+      "updated": "2026-10",
+      "size": 21046,
+      "files": {
+        "csv": {
+          "name": "pl-przecietne-wynagrodzenie_PL.csv",
+          "size": 4058
+        },
+        "xlsx": {
+          "name": "pl-przecietne-wynagrodzenie_PL.xlsx",
+          "size": 10059
         }
       }
     },

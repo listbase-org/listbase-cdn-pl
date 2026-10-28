@@ -1,0 +1,718 @@
+{
+  "id": "pl-przecietne-wynagrodzenie",
+  "name": "Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022",
+  "title": "Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022",
+  "description": "Przeciętne miesięczne wynagrodzenie netto i brutto w gospodarce narodowej w cenach bieżących i stałych oraz wskaźniki cen konsumpcyjnych.",
+  "category": "economy",
+  "source": "https://pl.wikipedia.org/wiki/Przeciętne_wynagrodzenie",
+  "source_url": "https://pl.wikipedia.org/wiki/Przeciętne_wynagrodzenie",
+  "updated": "2026-10",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "cpi_rok_poprzedni_1",
+      "label": "Cpi Rok Poprzedni 1",
+      "type": "number"
+    },
+    {
+      "key": "cpi_rok_2022_1",
+      "label": "Cpi Rok 2022 1",
+      "type": "number"
+    },
+    {
+      "key": "netto_ceny_biezace_zl",
+      "label": "Netto Ceny Biezace Zl",
+      "type": "number"
+    },
+    {
+      "key": "netto_ceny_stale_2022_zl",
+      "label": "Netto Ceny Stale 2022 Zl",
+      "type": "number"
+    },
+    {
+      "key": "brutto_ceny_biezace_zl",
+      "label": "Brutto Ceny Biezace Zl",
+      "type": "number"
+    },
+    {
+      "key": "brutto_ceny_stale_2022_zl",
+      "label": "Brutto Ceny Stale 2022 Zl",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1950,
+      "cpi_rok_poprzedni_1": 1.075,
+      "cpi_rok_2022_1": 0.7419,
+      "netto_ceny_biezace_zl": 551,
+      "netto_ceny_stale_2022_zl": 742.68,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1951,
+      "cpi_rok_poprzedni_1": 1.096,
+      "cpi_rok_2022_1": 0.8131,
+      "netto_ceny_biezace_zl": 599,
+      "netto_ceny_stale_2022_zl": 736.66,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1952,
+      "cpi_rok_poprzedni_1": 1.144,
+      "cpi_rok_2022_1": 0.9302,
+      "netto_ceny_biezace_zl": 652,
+      "netto_ceny_stale_2022_zl": 700.91,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1953,
+      "cpi_rok_poprzedni_1": 1.419,
+      "cpi_rok_2022_1": 1.32,
+      "netto_ceny_biezace_zl": 920,
+      "netto_ceny_stale_2022_zl": 696.98,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1954,
+      "cpi_rok_poprzedni_1": 0.937,
+      "cpi_rok_2022_1": 1.2368,
+      "netto_ceny_biezace_zl": 975,
+      "netto_ceny_stale_2022_zl": 788.31,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1955,
+      "cpi_rok_poprzedni_1": 0.976,
+      "cpi_rok_2022_1": 1.2071,
+      "netto_ceny_biezace_zl": 1008,
+      "netto_ceny_stale_2022_zl": 835.03,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1956,
+      "cpi_rok_poprzedni_1": 0.99,
+      "cpi_rok_2022_1": 1.1951,
+      "netto_ceny_biezace_zl": 1118,
+      "netto_ceny_stale_2022_zl": 935.51,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1957,
+      "cpi_rok_poprzedni_1": 1.054,
+      "cpi_rok_2022_1": 1.2596,
+      "netto_ceny_biezace_zl": 1279,
+      "netto_ceny_stale_2022_zl": 1015.4,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1958,
+      "cpi_rok_poprzedni_1": 1.027,
+      "cpi_rok_2022_1": 1.2936,
+      "netto_ceny_biezace_zl": 1348,
+      "netto_ceny_stale_2022_zl": 1042.04,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1959,
+      "cpi_rok_poprzedni_1": 1.011,
+      "cpi_rok_2022_1": 1.3078,
+      "netto_ceny_biezace_zl": 1453,
+      "netto_ceny_stale_2022_zl": 1110.99,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1960,
+      "cpi_rok_poprzedni_1": 1.018,
+      "cpi_rok_2022_1": 1.3314,
+      "netto_ceny_biezace_zl": 1560,
+      "netto_ceny_stale_2022_zl": 1171.71,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1961,
+      "cpi_rok_poprzedni_1": 1.007,
+      "cpi_rok_2022_1": 1.3407,
+      "netto_ceny_biezace_zl": 1625,
+      "netto_ceny_stale_2022_zl": 1212.05,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1962,
+      "cpi_rok_poprzedni_1": 1.025,
+      "cpi_rok_2022_1": 1.3742,
+      "netto_ceny_biezace_zl": 1680,
+      "netto_ceny_stale_2022_zl": 1222.51,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1963,
+      "cpi_rok_poprzedni_1": 1.008,
+      "cpi_rok_2022_1": 1.3852,
+      "netto_ceny_biezace_zl": 1763,
+      "netto_ceny_stale_2022_zl": 1272.72,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1964,
+      "cpi_rok_poprzedni_1": 1.012,
+      "cpi_rok_2022_1": 1.4018,
+      "netto_ceny_biezace_zl": 1816,
+      "netto_ceny_stale_2022_zl": 1295.44,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1965,
+      "cpi_rok_poprzedni_1": 1.009,
+      "cpi_rok_2022_1": 1.4145,
+      "netto_ceny_biezace_zl": 1867,
+      "netto_ceny_stale_2022_zl": 1319.94,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1966,
+      "cpi_rok_poprzedni_1": 1.012,
+      "cpi_rok_2022_1": 1.4314,
+      "netto_ceny_biezace_zl": 1934,
+      "netto_ceny_stale_2022_zl": 1351.1,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1967,
+      "cpi_rok_poprzedni_1": 1.015,
+      "cpi_rok_2022_1": 1.4529,
+      "netto_ceny_biezace_zl": 2016,
+      "netto_ceny_stale_2022_zl": 1387.57,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1968,
+      "cpi_rok_poprzedni_1": 1.016,
+      "cpi_rok_2022_1": 1.4761,
+      "netto_ceny_biezace_zl": 2106,
+      "netto_ceny_stale_2022_zl": 1426.69,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1969,
+      "cpi_rok_poprzedni_1": 1.014,
+      "cpi_rok_2022_1": 1.4968,
+      "netto_ceny_biezace_zl": 2174,
+      "netto_ceny_stale_2022_zl": 1452.42,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1970,
+      "cpi_rok_poprzedni_1": 1.011,
+      "cpi_rok_2022_1": 1.5133,
+      "netto_ceny_biezace_zl": 2235,
+      "netto_ceny_stale_2022_zl": 1476.92,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1971,
+      "cpi_rok_poprzedni_1": 0.999,
+      "cpi_rok_2022_1": 1.5118,
+      "netto_ceny_biezace_zl": 2358,
+      "netto_ceny_stale_2022_zl": 1559.76,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1972,
+      "cpi_rok_poprzedni_1": 1,
+      "cpi_rok_2022_1": 1.5118,
+      "netto_ceny_biezace_zl": 2509,
+      "netto_ceny_stale_2022_zl": 1659.65,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1973,
+      "cpi_rok_poprzedni_1": 1.028,
+      "cpi_rok_2022_1": 1.5541,
+      "netto_ceny_biezace_zl": 2798,
+      "netto_ceny_stale_2022_zl": 1800.4,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1974,
+      "cpi_rok_poprzedni_1": 1.071,
+      "cpi_rok_2022_1": 1.6644,
+      "netto_ceny_biezace_zl": 3185,
+      "netto_ceny_stale_2022_zl": 1913.56,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1975,
+      "cpi_rok_poprzedni_1": 1.03,
+      "cpi_rok_2022_1": 1.7144,
+      "netto_ceny_biezace_zl": 3913,
+      "netto_ceny_stale_2022_zl": 2282.47,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1976,
+      "cpi_rok_poprzedni_1": 1.044,
+      "cpi_rok_2022_1": 1.7898,
+      "netto_ceny_biezace_zl": 4281,
+      "netto_ceny_stale_2022_zl": 2391.88,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1977,
+      "cpi_rok_poprzedni_1": 1.049,
+      "cpi_rok_2022_1": 1.8775,
+      "netto_ceny_biezace_zl": 4596,
+      "netto_ceny_stale_2022_zl": 2447.93,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1978,
+      "cpi_rok_poprzedni_1": 1.081,
+      "cpi_rok_2022_1": 2.0296,
+      "netto_ceny_biezace_zl": 4887,
+      "netto_ceny_stale_2022_zl": 2407.89,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1979,
+      "cpi_rok_poprzedni_1": 1.07,
+      "cpi_rok_2022_1": 2.1717,
+      "netto_ceny_biezace_zl": 5327,
+      "netto_ceny_stale_2022_zl": 2452.97,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1980,
+      "cpi_rok_poprzedni_1": 1.094,
+      "cpi_rok_2022_1": 2.3758,
+      "netto_ceny_biezace_zl": 6040,
+      "netto_ceny_stale_2022_zl": 2542.32,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1981,
+      "cpi_rok_poprzedni_1": 1.212,
+      "cpi_rok_2022_1": 2.8795,
+      "netto_ceny_biezace_zl": 7689,
+      "netto_ceny_stale_2022_zl": 2670.3,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1982,
+      "cpi_rok_poprzedni_1": 2.008,
+      "cpi_rok_2022_1": 5.7819,
+      "netto_ceny_biezace_zl": 11631,
+      "netto_ceny_stale_2022_zl": 2011.61,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1983,
+      "cpi_rok_poprzedni_1": 1.221,
+      "cpi_rok_2022_1": 7.0598,
+      "netto_ceny_biezace_zl": 14475,
+      "netto_ceny_stale_2022_zl": 2050.36,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1984,
+      "cpi_rok_poprzedni_1": 1.15,
+      "cpi_rok_2022_1": 8.1187,
+      "netto_ceny_biezace_zl": 16838,
+      "netto_ceny_stale_2022_zl": 2073.97,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1985,
+      "cpi_rok_poprzedni_1": 1.151,
+      "cpi_rok_2022_1": 9.345,
+      "netto_ceny_biezace_zl": 20005,
+      "netto_ceny_stale_2022_zl": 2140.8,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1986,
+      "cpi_rok_poprzedni_1": 1.177,
+      "cpi_rok_2022_1": 10.999,
+      "netto_ceny_biezace_zl": 24095,
+      "netto_ceny_stale_2022_zl": 2190.73,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1987,
+      "cpi_rok_poprzedni_1": 1.252,
+      "cpi_rok_2022_1": 13.77,
+      "netto_ceny_biezace_zl": 29184,
+      "netto_ceny_stale_2022_zl": 2119.34,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1988,
+      "cpi_rok_poprzedni_1": 1.602,
+      "cpi_rok_2022_1": 22.06,
+      "netto_ceny_biezace_zl": 53090,
+      "netto_ceny_stale_2022_zl": 2406.62,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1989,
+      "cpi_rok_poprzedni_1": 3.511,
+      "cpi_rok_2022_1": 77.453,
+      "netto_ceny_biezace_zl": 206758,
+      "netto_ceny_stale_2022_zl": 2669.47,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1990,
+      "cpi_rok_poprzedni_1": 6.858,
+      "cpi_rok_2022_1": 531.17,
+      "netto_ceny_biezace_zl": 1029637,
+      "netto_ceny_stale_2022_zl": 1938.43,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1991,
+      "cpi_rok_poprzedni_1": 1.703,
+      "cpi_rok_2022_1": 904.6,
+      "netto_ceny_biezace_zl": 1770000,
+      "netto_ceny_stale_2022_zl": 1956.7,
+      "brutto_ceny_biezace_zl": "",
+      "brutto_ceny_stale_2022_zl": ""
+    },
+    {
+      "rok": 1992,
+      "cpi_rok_poprzedni_1": 1.43,
+      "cpi_rok_2022_1": 1293.6,
+      "netto_ceny_biezace_zl": 2438600,
+      "netto_ceny_stale_2022_zl": 1885.19,
+      "brutto_ceny_biezace_zl": 2935000,
+      "brutto_ceny_stale_2022_zl": 2268.94
+    },
+    {
+      "rok": 1993,
+      "cpi_rok_poprzedni_1": 1.353,
+      "cpi_rok_2022_1": 1750.2,
+      "netto_ceny_biezace_zl": 3201500,
+      "netto_ceny_stale_2022_zl": 1829.24,
+      "brutto_ceny_biezace_zl": 3995000,
+      "brutto_ceny_stale_2022_zl": 2282.62
+    },
+    {
+      "rok": 1994,
+      "cpi_rok_poprzedni_1": 1.322,
+      "cpi_rok_2022_1": 2313.7,
+      "netto_ceny_biezace_zl": 4254900,
+      "netto_ceny_stale_2022_zl": 1838.97,
+      "brutto_ceny_biezace_zl": 5328000,
+      "brutto_ceny_stale_2022_zl": 2302.77
+    },
+    {
+      "rok": 1995,
+      "cpi_rok_poprzedni_1": 1.278,
+      "cpi_rok_2022_1": 0.2957,
+      "netto_ceny_biezace_zl": 560.6,
+      "netto_ceny_stale_2022_zl": 1895.87,
+      "brutto_ceny_biezace_zl": 702.62,
+      "brutto_ceny_stale_2022_zl": 2376.16
+    },
+    {
+      "rok": 1996,
+      "cpi_rok_poprzedni_1": 1.199,
+      "cpi_rok_2022_1": 0.3545,
+      "netto_ceny_biezace_zl": 710.46,
+      "netto_ceny_stale_2022_zl": 2003.9,
+      "brutto_ceny_biezace_zl": 873,
+      "brutto_ceny_stale_2022_zl": 2462.35
+    },
+    {
+      "rok": 1997,
+      "cpi_rok_poprzedni_1": 1.149,
+      "cpi_rok_2022_1": 0.4074,
+      "netto_ceny_biezace_zl": 877.29,
+      "netto_ceny_stale_2022_zl": 2153.57,
+      "brutto_ceny_biezace_zl": 1061.93,
+      "brutto_ceny_stale_2022_zl": 2606.82
+    },
+    {
+      "rok": 1998,
+      "cpi_rok_poprzedni_1": 1.118,
+      "cpi_rok_2022_1": 0.4554,
+      "netto_ceny_biezace_zl": 1026.7,
+      "netto_ceny_stale_2022_zl": 2254.33,
+      "brutto_ceny_biezace_zl": 1239.49,
+      "brutto_ceny_stale_2022_zl": 2721.55
+    },
+    {
+      "rok": 1999,
+      "cpi_rok_poprzedni_1": 1.073,
+      "cpi_rok_2022_1": 0.4887,
+      "netto_ceny_biezace_zl": 1175.58,
+      "netto_ceny_stale_2022_zl": 2405.62,
+      "brutto_ceny_biezace_zl": 1706.74,
+      "brutto_ceny_stale_2022_zl": 3492.54
+    },
+    {
+      "rok": 2000,
+      "cpi_rok_poprzedni_1": 1.101,
+      "cpi_rok_2022_1": 0.538,
+      "netto_ceny_biezace_zl": 1318.67,
+      "netto_ceny_stale_2022_zl": 2450.89,
+      "brutto_ceny_biezace_zl": 1923.81,
+      "brutto_ceny_stale_2022_zl": 3575.6
+    },
+    {
+      "rok": 2001,
+      "cpi_rok_poprzedni_1": 1.055,
+      "cpi_rok_2022_1": 0.5676,
+      "netto_ceny_biezace_zl": 1416.17,
+      "netto_ceny_stale_2022_zl": 2494.88,
+      "brutto_ceny_biezace_zl": 2061.85,
+      "brutto_ceny_stale_2022_zl": 3632.38
+    },
+    {
+      "rok": 2002,
+      "cpi_rok_poprzedni_1": 1.019,
+      "cpi_rok_2022_1": 0.5784,
+      "netto_ceny_biezace_zl": 1466,
+      "netto_ceny_stale_2022_zl": 2534.51,
+      "brutto_ceny_biezace_zl": 2133.21,
+      "brutto_ceny_stale_2022_zl": 3688.03
+    },
+    {
+      "rok": 2003,
+      "cpi_rok_poprzedni_1": 1.008,
+      "cpi_rok_2022_1": 0.583,
+      "netto_ceny_biezace_zl": 1508.2,
+      "netto_ceny_stale_2022_zl": 2586.78,
+      "brutto_ceny_biezace_zl": 2201.47,
+      "brutto_ceny_stale_2022_zl": 3775.83
+    },
+    {
+      "rok": 2004,
+      "cpi_rok_poprzedni_1": 1.035,
+      "cpi_rok_2022_1": 0.6034,
+      "netto_ceny_biezace_zl": 1561.85,
+      "netto_ceny_stale_2022_zl": 2588.21,
+      "brutto_ceny_biezace_zl": 2289.57,
+      "brutto_ceny_stale_2022_zl": 3794.14
+    },
+    {
+      "rok": 2005,
+      "cpi_rok_poprzedni_1": 1.021,
+      "cpi_rok_2022_1": 0.6161,
+      "netto_ceny_biezace_zl": 1616.36,
+      "netto_ceny_stale_2022_zl": 2623.44,
+      "brutto_ceny_biezace_zl": 2380.29,
+      "brutto_ceny_stale_2022_zl": 3863.35
+    },
+    {
+      "rok": 2006,
+      "cpi_rok_poprzedni_1": 1.01,
+      "cpi_rok_2022_1": 0.6223,
+      "netto_ceny_biezace_zl": 1674.54,
+      "netto_ceny_stale_2022_zl": 2690.96,
+      "brutto_ceny_biezace_zl": 2477.23,
+      "brutto_ceny_stale_2022_zl": 3980.88
+    },
+    {
+      "rok": 2007,
+      "cpi_rok_poprzedni_1": 1.025,
+      "cpi_rok_2022_1": 0.6378,
+      "netto_ceny_biezace_zl": 1844.9,
+      "netto_ceny_stale_2022_zl": 2892.42,
+      "brutto_ceny_biezace_zl": 2691.03,
+      "brutto_ceny_stale_2022_zl": 4218.98
+    },
+    {
+      "rok": 2008,
+      "cpi_rok_poprzedni_1": 1.042,
+      "cpi_rok_2022_1": 0.6646,
+      "netto_ceny_biezace_zl": 2095.65,
+      "netto_ceny_stale_2022_zl": 3153.11,
+      "brutto_ceny_biezace_zl": 2943.88,
+      "brutto_ceny_stale_2022_zl": 4429.36
+    },
+    {
+      "rok": 2009,
+      "cpi_rok_poprzedni_1": 1.035,
+      "cpi_rok_2022_1": 0.6879,
+      "netto_ceny_biezace_zl": 2228.57,
+      "netto_ceny_stale_2022_zl": 3239.71,
+      "brutto_ceny_biezace_zl": 3102.96,
+      "brutto_ceny_stale_2022_zl": 4510.83
+    },
+    {
+      "rok": 2010,
+      "cpi_rok_poprzedni_1": 1.026,
+      "cpi_rok_2022_1": 0.7058,
+      "netto_ceny_biezace_zl": 2312.98,
+      "netto_ceny_stale_2022_zl": 3277.22,
+      "brutto_ceny_biezace_zl": 3224.98,
+      "brutto_ceny_stale_2022_zl": 4569.41
+    },
+    {
+      "rok": 2011,
+      "cpi_rok_poprzedni_1": 1.043,
+      "cpi_rok_2022_1": 0.7361,
+      "netto_ceny_biezace_zl": 2435.44,
+      "netto_ceny_stale_2022_zl": 3308.46,
+      "brutto_ceny_biezace_zl": 3399.52,
+      "brutto_ceny_stale_2022_zl": 4618.13
+    },
+    {
+      "rok": 2012,
+      "cpi_rok_poprzedni_1": 1.037,
+      "cpi_rok_2022_1": 0.7634,
+      "netto_ceny_biezace_zl": 2520.35,
+      "netto_ceny_stale_2022_zl": 3301.65,
+      "brutto_ceny_biezace_zl": 3521.67,
+      "brutto_ceny_stale_2022_zl": 4613.37
+    },
+    {
+      "rok": 2013,
+      "cpi_rok_poprzedni_1": 1.009,
+      "cpi_rok_2022_1": 0.7702,
+      "netto_ceny_biezace_zl": 2610.16,
+      "netto_ceny_stale_2022_zl": 3388.8,
+      "brutto_ceny_biezace_zl": 3650.06,
+      "brutto_ceny_stale_2022_zl": 4738.91
+    },
+    {
+      "rok": 2014,
+      "cpi_rok_poprzedni_1": 1,
+      "cpi_rok_2022_1": 0.7702,
+      "netto_ceny_biezace_zl": 2702.92,
+      "netto_ceny_stale_2022_zl": 3509.23,
+      "brutto_ceny_biezace_zl": 3783.46,
+      "brutto_ceny_stale_2022_zl": 4912.11
+    },
+    {
+      "rok": 2015,
+      "cpi_rok_poprzedni_1": 0.991,
+      "cpi_rok_2022_1": 0.7633,
+      "netto_ceny_biezace_zl": 2783.26,
+      "netto_ceny_stale_2022_zl": 3646.36,
+      "brutto_ceny_biezace_zl": 3899.78,
+      "brutto_ceny_stale_2022_zl": 5109.11
+    },
+    {
+      "rok": 2016,
+      "cpi_rok_poprzedni_1": 0.994,
+      "cpi_rok_2022_1": 0.7587,
+      "netto_ceny_biezace_zl": 2886.02,
+      "netto_ceny_stale_2022_zl": 3803.8,
+      "brutto_ceny_biezace_zl": 4047.21,
+      "brutto_ceny_stale_2022_zl": 5334.26
+    },
+    {
+      "rok": 2017,
+      "cpi_rok_poprzedni_1": 1.02,
+      "cpi_rok_2022_1": 0.7739,
+      "netto_ceny_biezace_zl": 3042.16,
+      "netto_ceny_stale_2022_zl": 3930.98,
+      "brutto_ceny_biezace_zl": 4271.51,
+      "brutto_ceny_stale_2022_zl": 5519.5
+    },
+    {
+      "rok": 2018,
+      "cpi_rok_poprzedni_1": 1.016,
+      "cpi_rok_2022_1": 0.7863,
+      "netto_ceny_biezace_zl": 3261.34,
+      "netto_ceny_stale_2022_zl": 4147.83,
+      "brutto_ceny_biezace_zl": 4585.03,
+      "brutto_ceny_stale_2022_zl": 5831.32
+    },
+    {
+      "rok": 2019,
+      "cpi_rok_poprzedni_1": 1.023,
+      "cpi_rok_2022_1": 0.8044,
+      "netto_ceny_biezace_zl": 3492.94,
+      "netto_ceny_stale_2022_zl": 4342.51,
+      "brutto_ceny_biezace_zl": 4918.17,
+      "brutto_ceny_stale_2022_zl": 6114.39
+    },
+    {
+      "rok": 2020,
+      "cpi_rok_poprzedni_1": 1.034,
+      "cpi_rok_2022_1": 0.8317,
+      "netto_ceny_biezace_zl": 3731.34,
+      "netto_ceny_stale_2022_zl": 4486.35,
+      "brutto_ceny_biezace_zl": 5167.47,
+      "brutto_ceny_stale_2022_zl": 6213.08
+    },
+    {
+      "rok": 2021,
+      "cpi_rok_poprzedni_1": 1.051,
+      "cpi_rok_2022_1": 0.8741,
+      "netto_ceny_biezace_zl": 4080.02,
+      "netto_ceny_stale_2022_zl": 4667.55,
+      "brutto_ceny_biezace_zl": 5662.53,
+      "brutto_ceny_stale_2022_zl": 6477.93
+    },
+    {
+      "rok": 2022,
+      "cpi_rok_poprzedni_1": 1.144,
+      "cpi_rok_2022_1": 1,
+      "netto_ceny_biezace_zl": 4656.25,
+      "netto_ceny_stale_2022_zl": 4656.25,
+      "brutto_ceny_biezace_zl": 6346.15,
+      "brutto_ceny_stale_2022_zl": 6346.15
+    }
+  ],
+  "meta": {
+    "title": "Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022 - Free Download",
+    "description": "Przeciętne miesięczne wynagrodzenie netto i brutto w gospodarce narodowej w cenach bieżących i stałych oraz wskaźniki cen konsumpcyjnych. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022 | ListBase",
+    "seo_description": "Download Przeciętne miesięczne wynagrodzenie w Polsce 1950–2022 — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Przeciętne_wynagrodzenie"
+    ]
+  }
+}
