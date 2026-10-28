@@ -1,0 +1,556 @@
+{
+  "id": "pl-gale-fryderykow",
+  "name": "Gale nagród muzycznych Fryderyk",
+  "title": "Gale nagród muzycznych Fryderyk",
+  "description": "Lista gal polskiej nagrody muzycznej Fryderyk: data, miejsce, miejscowość, prowadzący i stacja emitująca.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)",
+  "source_url": "https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "sekcje",
+      "label": "Sekcje",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "miejsce",
+      "label": "Miejsce",
+      "type": "string"
+    },
+    {
+      "key": "miejscowosc",
+      "label": "Miejscowosc",
+      "type": "string"
+    },
+    {
+      "key": "prowadzacy",
+      "label": "Prowadzacy",
+      "type": "string"
+    },
+    {
+      "key": "emisja",
+      "label": "Emisja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": 1,
+      "nazwa": "Fryderyki 1994",
+      "sekcje": "",
+      "data": "19 marca 1995",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Kora, Marek Niedźwiecki",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 2,
+      "nazwa": "Fryderyki 1995",
+      "sekcje": "",
+      "data": "19 marca 1996",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Kora, Marek Niedźwiecki",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 3,
+      "nazwa": "Fryderyki 1996",
+      "sekcje": "",
+      "data": "5 kwietnia 1997",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Artur Orzech",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 4,
+      "nazwa": "Fryderyki 1997",
+      "sekcje": "",
+      "data": "18 kwietnia 1998",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Artur Orzech",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 5,
+      "nazwa": "Fryderyki 1998",
+      "sekcje": "",
+      "data": "10 kwietnia 1999",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Basia",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 6,
+      "nazwa": "Fryderyki 1999",
+      "sekcje": "",
+      "data": "24 maja 2000",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Artur Orzech",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 7,
+      "nazwa": "Fryderyki 2000",
+      "sekcje": "",
+      "data": "18 marca 2001",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Maciej Stuhr, Bogusław Kaczyński",
+      "emisja": "TV Puls"
+    },
+    {
+      "lp": 8,
+      "nazwa": "Fryderyki 2001",
+      "sekcje": "",
+      "data": "23 kwietnia 2002",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Grażyna Torbicka, Kayah",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 9,
+      "nazwa": "Fryderyki 2002",
+      "sekcje": "",
+      "data": "1 kwietnia 2003",
+      "miejsce": "Traffic Club",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Hirek Wrona",
+      "emisja": ""
+    },
+    {
+      "lp": 10,
+      "nazwa": "Fryderyki 2003",
+      "sekcje": "",
+      "data": "9 marca 2004",
+      "miejsce": "Traffic Club",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Hirek Wrona",
+      "emisja": ""
+    },
+    {
+      "lp": 11,
+      "nazwa": "Fryderyki 2004",
+      "sekcje": "",
+      "data": "15 marca 2005",
+      "miejsce": "Traffic Club",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Hirek Wrona",
+      "emisja": ""
+    },
+    {
+      "lp": 12,
+      "nazwa": "Fryderyki 2005",
+      "sekcje": "",
+      "data": "30 marca 2006",
+      "miejsce": "",
+      "miejscowosc": "",
+      "prowadzacy": "",
+      "emisja": ""
+    },
+    {
+      "lp": 13,
+      "nazwa": "Fryderyki 2006",
+      "sekcje": "R",
+      "data": "17 kwietnia 2007",
+      "miejsce": "Fabryka Trzciny",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomasz Kammel, Maciej Ulewicz",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 13,
+      "nazwa": "Fryderyki 2006",
+      "sekcje": "K+J",
+      "data": "17 kwietnia 2007",
+      "miejsce": "Bazylika Najświętszego Serca Jezusowego",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomasz Kammel, Maciej Ulewicz",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 14,
+      "nazwa": "Fryderyki 2008",
+      "sekcje": "R",
+      "data": "7 kwietnia 2008",
+      "miejsce": "Fabryka Trzciny",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Marek Niedźwiecki, Kayah",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 14,
+      "nazwa": "Fryderyki 2008",
+      "sekcje": "K+J",
+      "data": "7 kwietnia 2008",
+      "miejsce": "Bazylika Najświętszego Serca Jezusowego",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Iwona Schymalla",
+      "emisja": "TVP Kultura, TVP1"
+    },
+    {
+      "lp": 15,
+      "nazwa": "Fryderyki 2009",
+      "sekcje": "R",
+      "data": "20 kwietnia 2009",
+      "miejsce": "Fabryka Trzciny",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomasz Kammel, Radosław Brzózka",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 15,
+      "nazwa": "Fryderyki 2009",
+      "sekcje": "K+J",
+      "data": "20 kwietnia 2009",
+      "miejsce": "Bazylika Najświętszego Serca Jezusowego",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Marta Perchuć-Burzyńska, Artur Ruciński",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 16,
+      "nazwa": "Fryderyki 2010",
+      "sekcje": "",
+      "data": "19 kwietnia 2010",
+      "miejsce": "Bazylika Najświętszego Serca Jezusowego",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Iwona Schymalla, Artur Orzech",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 17,
+      "nazwa": "Fryderyki 2011",
+      "sekcje": "",
+      "data": "9 maja 2011",
+      "miejsce": "Fabryka Trzciny",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "",
+      "emisja": "TVP1"
+    },
+    {
+      "lp": 18,
+      "nazwa": "Fryderyki 2012",
+      "sekcje": "",
+      "data": "26 kwietnia 2012",
+      "miejsce": "Teatr Dramatyczny",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Grażyna Torbicka, Piotr Metz",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 19,
+      "nazwa": "Fryderyki 2013",
+      "sekcje": "",
+      "data": "25 kwietnia 2013",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Grażyna Torbicka, Artur Orzech, Piotr Metz",
+      "emisja": "TVP Kultura, TVP2"
+    },
+    {
+      "lp": 20,
+      "nazwa": "Fryderyki 2014",
+      "sekcje": "",
+      "data": "24 kwietnia 2014",
+      "miejsce": "Sala Kongresowa",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Kayah, Tomasz Kammel",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 21,
+      "nazwa": "Fryderyki 2015",
+      "sekcje": "R+J",
+      "data": "23 kwietnia 2015",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomson, Baron",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 21,
+      "nazwa": "Fryderyki 2015",
+      "sekcje": "K",
+      "data": "23 kwietnia 2015",
+      "miejsce": "Sala Kolumnowa Wydziału Historii UW",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Piotr Polk, Andrzej Puczyński",
+      "emisja": ""
+    },
+    {
+      "lp": 22,
+      "nazwa": "Fryderyki 2016",
+      "sekcje": "R+J",
+      "data": "20 kwietnia 2016",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomasz Kammel, Marita Albán Juárez",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 22,
+      "nazwa": "Fryderyki 2016",
+      "sekcje": "K",
+      "data": "21 kwietnia 2016",
+      "miejsce": "Studio Koncertowe Polskiego Radia",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Barbara Schabowska, Paweł Sztompke",
+      "emisja": "PR2"
+    },
+    {
+      "lp": 23,
+      "nazwa": "Fryderyki 2017",
+      "sekcje": "K",
+      "data": "24 kwietnia 2017",
+      "miejsce": "Studio Koncertowe Polskiego Radia",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Jacek Hawryluk",
+      "emisja": "PR2"
+    },
+    {
+      "lp": 23,
+      "nazwa": "Fryderyki 2017",
+      "sekcje": "R+J",
+      "data": "26 kwietnia 2017",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Tomasz Kammel",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 24,
+      "nazwa": "Fryderyki 2018",
+      "sekcje": "K",
+      "data": "16 kwietnia 2018",
+      "miejsce": "Studio Koncertowe Polskiego Radia",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Jacek Hawryluk",
+      "emisja": "PR2"
+    },
+    {
+      "lp": 24,
+      "nazwa": "Fryderyki 2018",
+      "sekcje": "R+J",
+      "data": "24 kwietnia 2018",
+      "miejsce": "Teatr Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Agnieszka Szydłowska, Piotr Metz",
+      "emisja": "TVP Kultura, TVP2"
+    },
+    {
+      "lp": 25,
+      "nazwa": "Fryderyki 2019",
+      "sekcje": "R+J",
+      "data": "9 marca 2019",
+      "miejsce": "Międzynarodowe Centrum Kongresowe",
+      "miejscowosc": "Katowice",
+      "prowadzacy": "Magda Mołek, Rafał Pacześ",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 25,
+      "nazwa": "Fryderyki 2019",
+      "sekcje": "K",
+      "data": "12 marca 2019",
+      "miejsce": "NOSPR",
+      "miejscowosc": "Katowice",
+      "prowadzacy": "Gabi Drzewiecka, Robert Kamyk",
+      "emisja": "Metro"
+    },
+    {
+      "lp": 26,
+      "nazwa": "Fryderyki 2020",
+      "sekcje": "K",
+      "data": "8 marca 2020",
+      "miejsce": "NOSPR",
+      "miejscowosc": "Katowice",
+      "prowadzacy": "Agata Kwiecińska, Marcin Majchrowski",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 26,
+      "nazwa": "Fryderyki 2020",
+      "sekcje": "R+J",
+      "data": "1 października 2020",
+      "miejsce": "",
+      "miejscowosc": "",
+      "prowadzacy": "",
+      "emisja": ""
+    },
+    {
+      "lp": 27,
+      "nazwa": "Fryderyki 2021",
+      "sekcje": "K",
+      "data": "26 czerwca 2021",
+      "miejsce": "Opera na Zamku",
+      "miejscowosc": "Szczecin",
+      "prowadzacy": "Katarzyna Sanocka, Andrzej Sułek",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 27,
+      "nazwa": "Fryderyki 2021",
+      "sekcje": "R+J",
+      "data": "5 sierpnia 2021",
+      "miejsce": "Netto Arena",
+      "miejscowosc": "Szczecin",
+      "prowadzacy": "Marcin Prokop, Gabi Drzewiecka, Mery Spolsky, Robert Karpowicz",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 28,
+      "nazwa": "Fryderyki 2022",
+      "sekcje": "K",
+      "data": "22 kwietnia 2022",
+      "miejsce": "Opera na Zamku",
+      "miejscowosc": "Szczecin",
+      "prowadzacy": "Katarzyna Sanocka, Andrzej Sułek",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 28,
+      "nazwa": "Fryderyki 2022",
+      "sekcje": "R+J",
+      "data": "29 kwietnia 2022",
+      "miejsce": "Netto Arena",
+      "miejscowosc": "Szczecin",
+      "prowadzacy": "Gabi Drzewiecka, Agnieszka Woźniak-Starak, Damian Michałowski, Agnieszka Kołodziejska",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 29,
+      "nazwa": "Fryderyki 2023",
+      "sekcje": "R+J",
+      "data": "22 kwietnia 2023",
+      "miejsce": "Arena Gliwice",
+      "miejscowosc": "Gliwice",
+      "prowadzacy": "Paulina Krupińska, Gabi Drzewiecka, Wojciech Łozowski, Marcin Prokop, Radosław Mróz, Aleksandra Filipek",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 29,
+      "nazwa": "Fryderyki 2023",
+      "sekcje": "K",
+      "data": "27 kwietnia 2023",
+      "miejsce": "Mediateka",
+      "miejscowosc": "Tychy",
+      "prowadzacy": "Mariusz Gradowski",
+      "emisja": "Metro"
+    },
+    {
+      "lp": 30,
+      "nazwa": "Fryderyki 2024",
+      "sekcje": "R+J",
+      "data": "22 marca 2024",
+      "miejsce": "PreZero Arena",
+      "miejscowosc": "Gliwice",
+      "prowadzacy": "Karina Nicińska, Bartosz Sąder, Aleksandra Filipek, Gabi Drzewiecka, Marcin Prokop, Mery Spolsky",
+      "emisja": "TVN"
+    },
+    {
+      "lp": 30,
+      "nazwa": "Fryderyki 2024",
+      "sekcje": "K",
+      "data": "28 kwietnia 2024",
+      "miejsce": "NOSPR",
+      "miejscowosc": "Katowice",
+      "prowadzacy": "Katarzyna Sanocka, Robert Kamyk",
+      "emisja": "Metro"
+    },
+    {
+      "lp": 31,
+      "nazwa": "Fryderyki 2025",
+      "sekcje": "J",
+      "data": "23 marca 2025",
+      "miejsce": "Muzeum Historii Żydów Polskich Polin",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Roch Siciński, Aga Zaryan",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 31,
+      "nazwa": "Fryderyki 2025",
+      "sekcje": "K",
+      "data": "30 marca 2025",
+      "miejsce": "NOSPR",
+      "miejscowosc": "Katowice",
+      "prowadzacy": "Artur Orzech, Katarzyna Sanocka",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 31,
+      "nazwa": "Fryderyki 2025",
+      "sekcje": "R",
+      "data": "5 kwietnia 2025",
+      "miejsce": "Tauron Arena",
+      "miejscowosc": "Kraków",
+      "prowadzacy": "Gabi Drzewiecka",
+      "emisja": "TVP2"
+    },
+    {
+      "lp": 32,
+      "nazwa": "Fryderyki 2026",
+      "sekcje": "J",
+      "data": "12 kwietnia 2026",
+      "miejsce": "Muzeum Historii Polski",
+      "miejscowosc": "Warszawa",
+      "prowadzacy": "Magdalena Zawartko, Roch Siciński",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 32,
+      "nazwa": "Fryderyki 2026",
+      "sekcje": "K",
+      "data": "24 kwietnia 2026",
+      "miejsce": "Narodowe Forum Muzyki",
+      "miejscowosc": "Wrocław",
+      "prowadzacy": "Katarzyna Sanocka, Jasin Rammal-Rykała",
+      "emisja": "TVP Kultura"
+    },
+    {
+      "lp": 32,
+      "nazwa": "Fryderyki 2026",
+      "sekcje": "R",
+      "data": "25 maja 2026",
+      "miejsce": "Studio Transcolor",
+      "miejscowosc": "Szeligi",
+      "prowadzacy": "Gabi Drzewiecka, Krzysztof Zalewski",
+      "emisja": "TVP1"
+    }
+  ],
+  "meta": {
+    "title": "Gale nagród muzycznych Fryderyk - Free Download",
+    "description": "Lista gal polskiej nagrody muzycznej Fryderyk: data, miejsce, miejscowość, prowadzący i stacja emitująca. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gale nagród muzycznych Fryderyk | ListBase",
+    "seo_description": "Download Gale nagród muzycznych Fryderyk — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)"
+    ]
+  }
+}

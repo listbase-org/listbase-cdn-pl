@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:32.006Z",
-  "total_datasets": 505,
-  "total_records": 1090963,
+  "generated": "2026-10-28T02:14:34.367Z",
+  "total_datasets": 506,
+  "total_records": 1091012,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -3870,6 +3870,35 @@
         "xlsx": {
           "name": "pl-eurowizja_PL.xlsx",
           "size": 8662
+        }
+      }
+    },
+    {
+      "id": "pl-gale-fryderykow",
+      "name": "Gale nagród muzycznych Fryderyk",
+      "category": "music",
+      "record_count": 49,
+      "columns": [
+        "lp",
+        "nazwa",
+        "sekcje",
+        "data",
+        "miejsce",
+        "miejscowosc",
+        "prowadzacy",
+        "emisja"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Fryderyk_(nagroda)",
+      "updated": "2026-10",
+      "size": 14770,
+      "files": {
+        "csv": {
+          "name": "pl-gale-fryderykow_PL.csv",
+          "size": 5706
+        },
+        "xlsx": {
+          "name": "pl-gale-fryderykow_PL.xlsx",
+          "size": 9854
         }
       }
     },
