@@ -1,0 +1,850 @@
+{
+  "id": "pl-pomniki-historii",
+  "name": "Pomniki historii w Polsce",
+  "title": "Pomniki historii w Polsce",
+  "description": "Obiekty uznane rozporządzeniem Prezydenta RP za Pomniki historii, z miejscowością, województwem i datą wejścia w życie rozporządzenia.",
+  "category": "tourism",
+  "source": "https://pl.wikipedia.org/wiki/Pomnik_historii",
+  "source_url": "https://pl.wikipedia.org/wiki/Pomnik_historii",
+  "updated": "2026-10",
+  "record_count": 134,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "miejscowosc",
+      "label": "Miejscowosc",
+      "type": "string"
+    },
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "data_wejscia_w_zycie",
+      "label": "Data Wejscia W Zycie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Zespół kościoła pod wezwaniem Chrystusa Króla i św. Rocha",
+      "miejscowosc": "Białystok",
+      "wojewodztwo": "podlaskie",
+      "data_wejscia_w_zycie": "17 stycznia 2019"
+    },
+    {
+      "nazwa": "rezerwat archeologiczny Biskupin",
+      "miejscowosc": "Biskupin",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "kopalnia soli Bochnia",
+      "miejscowosc": "Bochnia",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "6 października 2000"
+    },
+    {
+      "nazwa": "Najstarsza kopalnia ropy naftowej",
+      "miejscowosc": "Bóbrka",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "16 stycznia 2019"
+    },
+    {
+      "nazwa": "Zamek Piastów Śląskich z renesansową bramą i kaplicą zamkową pod wezwaniem św. Jadwigi – nekropolią Piastów",
+      "miejscowosc": "Brzeg",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "16 stycznia 2019"
+    },
+    {
+      "nazwa": "Stare Miasto",
+      "miejscowosc": "Chełmno",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "20 kwietnia 2005"
+    },
+    {
+      "nazwa": "zespół tężni i warzelni soli wraz z parkami Tężniowym i Zdrojowym",
+      "miejscowosc": "Ciechocinek",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "Klasztor kanoników regularnych w Czerwińsku nad Wisłą",
+      "miejscowosc": "Czerwińsk nad Wisłą",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "19 kwietnia 2021"
+    },
+    {
+      "nazwa": "Jasna Góra – zespół klasztoru oo. paulinów",
+      "miejscowosc": "Częstochowa",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "zespół pałacowo-parkowy",
+      "miejscowosc": "Dobrzyca",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "1 stycznia 2019"
+    },
+    {
+      "nazwa": "młyn papierniczy",
+      "miejscowosc": "Duszniki-Zdrój",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "12 października 2011"
+    },
+    {
+      "nazwa": "zespół katedralny",
+      "miejscowosc": "Frombork",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "miasto w zasięgu obwarowań z XVII wieku",
+      "miejscowosc": "Gdańsk",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Pole Bitwy na Westerplatte",
+      "miejscowosc": "Gdańsk",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "1 września 2003"
+    },
+    {
+      "nazwa": "zespół pocystersko-katedralny",
+      "miejscowosc": "Gdańsk",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "Twierdza Wisłoujście",
+      "miejscowosc": "Gdańsk",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "26 maja 2018"
+    },
+    {
+      "nazwa": "Stocznia Gdańska , miejsce narodzin Solidarności",
+      "miejscowosc": "Gdańsk",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "1 stycznia 2019"
+    },
+    {
+      "nazwa": "historyczny układ urbanistyczny śródmieścia",
+      "miejscowosc": "Gdynia",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "17 marca 2015"
+    },
+    {
+      "nazwa": "radiostacja",
+      "miejscowosc": "Gliwice",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "29 marca 2017"
+    },
+    {
+      "nazwa": "Zespół klasztorny Kongregacji Oratorium św. Filipa Neri",
+      "miejscowosc": "Głogówko",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "27 marca 2008"
+    },
+    {
+      "nazwa": "Archikatedra pw. Wniebowzięcia Najświętszej Maryi Panny i św. Wojciecha",
+      "miejscowosc": "Gniezno",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "pocysterski zespół klasztorny",
+      "miejscowosc": "Gościkowo",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "7 grudnia 2017"
+    },
+    {
+      "nazwa": "zespół zabytkowych spichlerzy wraz z panoramą od strony Wisły",
+      "miejscowosc": "Grudziądz",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "pole bitwy pod Grunwaldem w 1410 roku",
+      "miejscowosc": "Grunwald",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "4 października 2010"
+    },
+    {
+      "nazwa": "kościół ewangelicko-augsburski pod wezwaniem Ducha Świętego, zwany Kościołem Pokoju",
+      "miejscowosc": "Jawor",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "30 marca 2017"
+    },
+    {
+      "nazwa": "Monaster św. Onufrego w Jabłecznej",
+      "miejscowosc": "Jabłeczna",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "2 lutego 2023"
+    },
+    {
+      "nazwa": "krajobrazowy zespół manierystycznego parku pielgrzymkowego",
+      "miejscowosc": "Kalwaria Zebrzydowska",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "17 listopada 2000"
+    },
+    {
+      "nazwa": "Zespół architektoniczno-krajobrazowy miasta składający się z Opactwa Cystersów oraz Pałacu",
+      "miejscowosc": "Kamieniec Ząbkowicki",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "6 marca 2024"
+    },
+    {
+      "nazwa": "zespół katedralny konkatedry św. Jana Chrzciciela",
+      "miejscowosc": "Kamień Pomorski",
+      "wojewodztwo": "zachodniopomorskie",
+      "data_wejscia_w_zycie": "1 września 2005"
+    },
+    {
+      "nazwa": "osiedle robotnicze Nikiszowiec",
+      "miejscowosc": "Katowice",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "28 stycznia 2011"
+    },
+    {
+      "nazwa": "Gmach Województwa i Sejmu Śląskiego oraz zespół katedralny",
+      "miejscowosc": "Katowice",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "13 stycznia 2012"
+    },
+    {
+      "nazwa": "teren miasta w granicach ochrony konserwatorskiej",
+      "miejscowosc": "Kazimierz Dolny",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "dawny pałac biskupów i katedra",
+      "miejscowosc": "Kielce",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "kościół pod wezwaniem Nawiedzenia Najświętszej Maryi Panny",
+      "miejscowosc": "Klępsk",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "1 kwietnia 2017"
+    },
+    {
+      "nazwa": "założenie dawnego klasztoru cystersów, późniejszej letniej rezydencji książąt pomorskich i domeny państwowej",
+      "miejscowosc": "Kołbacz",
+      "wojewodztwo": "zachodniopomorskie",
+      "data_wejscia_w_zycie": "21 lipca 2014"
+    },
+    {
+      "nazwa": "zespół dworsko-parkowy",
+      "miejscowosc": "Koszuty",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "24 maja 2018"
+    },
+    {
+      "nazwa": "zespół pałacowo-parkowy",
+      "miejscowosc": "Kozłówka",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "16 maja 2007"
+    },
+    {
+      "nazwa": "zespół zamkowo-parkowy wraz z kościołem parafialnym – nekropolią właścicieli",
+      "miejscowosc": "Kórnik",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "11 lipca 2011"
+    },
+    {
+      "nazwa": "historyczny zespół miasta",
+      "miejscowosc": "Kraków",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Kopiec Kościuszki z otoczeniem",
+      "miejscowosc": "Kraków",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "Nowa Huta",
+      "miejscowosc": "Kraków",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "2 lutego 2023"
+    },
+    {
+      "nazwa": "zespół opactwa benedyktynów",
+      "miejscowosc": "Kraków",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "30 marca 2017"
+    },
+    {
+      "nazwa": "zespół opactwa cystersów",
+      "miejscowosc": "Kraków",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "13 września 2023"
+    },
+    {
+      "nazwa": "zespół zamkowo-parkowy",
+      "miejscowosc": "Krasiczyn",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "24 maja 2018"
+    },
+    {
+      "nazwa": "zespół dawnego opactwa cystersów",
+      "miejscowosc": "Krzeszów",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "zespół katedralno - zamkowy",
+      "miejscowosc": "Kwidzyn",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "18 maja 2018"
+    },
+    {
+      "nazwa": "zespół dawnego opactwa cysterskiego",
+      "miejscowosc": "Ląd",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "1 lipca 2009"
+    },
+    {
+      "nazwa": "wyspa Ostrów Lednicki na Jeziorze Lednickim",
+      "miejscowosc": "Lednogóra",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "pobenedyktyński zespół klasztorny",
+      "miejscowosc": "Legnickie Pole",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "zespół klasztorny oo. bernardynów",
+      "miejscowosc": "Leżajsk",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "20 kwietnia 2005"
+    },
+    {
+      "nazwa": "zamek biskupów warmińskich",
+      "miejscowosc": "Lidzbark Warmiński",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "19 maja 2018"
+    },
+    {
+      "nazwa": "zespół opactwa benedyktynów",
+      "miejscowosc": "Lubiń",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "16 grudnia 2009"
+    },
+    {
+      "nazwa": "historyczny zespół architektoniczno-urbanistyczny",
+      "miejscowosc": "Lublin",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "16 maja 2007"
+    },
+    {
+      "nazwa": "Lubostroń – zespół pałacowo-parkowy",
+      "miejscowosc": "Lubostroń",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "21 listopada 2023"
+    },
+    {
+      "nazwa": "zespół zamkowo-parkowy",
+      "miejscowosc": "Łańcut",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "1 września 2005"
+    },
+    {
+      "nazwa": "Park Mużakowski , park w stylu krajobrazowym",
+      "miejscowosc": "Łęknica",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "Bazylika Katedralna (dawna Kolegiata Prymasowska) pod wezwaniem Wniebowzięcia Najświętszej Marii Panny",
+      "miejscowosc": "Łowicz",
+      "wojewodztwo": "łódzkie",
+      "data_wejscia_w_zycie": "13 listopada 2012"
+    },
+    {
+      "nazwa": "wielokulturowy krajobraz miasta przemysłowego",
+      "miejscowosc": "Łódź",
+      "wojewodztwo": "łódzkie",
+      "data_wejscia_w_zycie": "7 marca 2015"
+    },
+    {
+      "nazwa": "zespół zamku krzyżackiego",
+      "miejscowosc": "Malbork",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Małujowice – kościół parafialny pod wezwaniem św. Jakuba Apostoła",
+      "miejscowosc": "Małujowice",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "23 listopada 2022"
+    },
+    {
+      "nazwa": "Zamek w Międzyrzeczu",
+      "miejscowosc": "Międzyrzecz",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "19 listopada 2024"
+    },
+    {
+      "nazwa": "Święty Krzyż – pobenedyktyński zespół klasztorny oraz przedchrześcijańskie obwałowania kamienne na Łysej Górze",
+      "miejscowosc": "Nowa Słupia",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "29 marca 2017"
+    },
+    {
+      "nazwa": "zespół architektoniczno-krajobrazowy",
+      "miejscowosc": "Nowy Wiśnicz",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "13 maja 2020"
+    },
+    {
+      "nazwa": "zespół kościoła farnego pod wezwaniem św. Jakuba Starszego Apostoła i św. Agnieszki Dziewicy i Męczennicy",
+      "miejscowosc": "Nysa",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "28 lutego 2011"
+    },
+    {
+      "nazwa": "Pałacyk Henryka Sienkiewicza wraz z zabytkowym parkiem i aleją lipową",
+      "miejscowosc": "Oblęgorek",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "16 stycznia 2019"
+    },
+    {
+      "nazwa": "kościół odpustowy pod wezwaniem św. Anny",
+      "miejscowosc": "Olesno",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "zamek kapituły warmińskiej",
+      "miejscowosc": "Olsztyn",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "8 września 2023"
+    },
+    {
+      "nazwa": "Kolegiata św. Marcina w Opatowie",
+      "miejscowosc": "Opatów",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "2 lutego 2023"
+    },
+    {
+      "nazwa": "kościół pod wezwaniem św. Jana Chrzciciela",
+      "miejscowosc": "Orawka",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "8 kwietnia 2021"
+    },
+    {
+      "nazwa": "żelazny łańcuchowy most wiszący na rzece Mała Panew",
+      "miejscowosc": "Ozimek",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "30 marca 2017"
+    },
+    {
+      "nazwa": "zespół staromiejski ze średniowiecznym systemem fortyfikacji",
+      "miejscowosc": "Paczków",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "13 listopada 2012"
+    },
+    {
+      "nazwa": "zespół pocystersko-katedralny",
+      "miejscowosc": "Pelplin",
+      "wojewodztwo": "pomorskie",
+      "data_wejscia_w_zycie": "15 maja 2014"
+    },
+    {
+      "nazwa": "Wzgórze Tumskie",
+      "miejscowosc": "Płock",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "25 maja 2018"
+    },
+    {
+      "nazwa": "historyczny zespół miasta z Ostrowem Tumskim , Zagórzem , Chwaliszewem i lewobrzeżnym Starym Miastem lokacyjnym ze średniowiecznymi osadami podmiejskimi oraz założeniem urbanistyczno-architektonicznym projektu Josefa Stübbena z początku XX w., a także Fortem Winiary , obecnie Parkiem Cytadela",
+      "miejscowosc": "Poznań",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "28 listopada 2008"
+    },
+    {
+      "nazwa": "zespół staromiejski",
+      "miejscowosc": "Przemyśl",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "Zespół zamkowo-parkowy",
+      "miejscowosc": "Pszczyna",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "18 kwietnia 2021"
+    },
+    {
+      "nazwa": "Pałac Czartoryskich w Puławach",
+      "miejscowosc": "Puławy",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "31 maja 2021"
+    },
+    {
+      "nazwa": "kolegiata pod wezwaniem Zwiastowania Najświętszej Maryi Panny",
+      "miejscowosc": "Pułtusk",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "30 grudnia 2018"
+    },
+    {
+      "nazwa": "teren historycznej Bitwy Racławickiej",
+      "miejscowosc": "Racławice",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "zespół klasztorny Bernardynów",
+      "miejscowosc": "Radom",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "15 marca 2022"
+    },
+    {
+      "nazwa": "zespół cerkiewny",
+      "miejscowosc": "Radruż",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "7 grudnia 2017"
+    },
+    {
+      "nazwa": "sanktuarium Matki Bożej Rokitniańskiej",
+      "miejscowosc": "Rokitno",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "20 listopada 2024"
+    },
+    {
+      "nazwa": "założenie rezydencjonalno-urbanistyczne",
+      "miejscowosc": "Rydzyna",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "29 marca 2017"
+    },
+    {
+      "nazwa": "pokamedulski zespół klasztorny Pustelnia Złotego Lasu",
+      "miejscowosc": "Rytwiany",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "zespół pałacowy z ogrodem i parkiem od 2018 roku, a od 2020 roku cały zespół pałacowo-parkowy z obszarem dawnego majątku ziemskiego",
+      "miejscowosc": "Rogalin",
+      "wojewodztwo": "wielkopolskie",
+      "data_wejscia_w_zycie": "12 października 2020"
+    },
+    {
+      "nazwa": "historyczny zespół architektoniczno-krajobrazowy",
+      "miejscowosc": "Sandomierz",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    },
+    {
+      "nazwa": "Twierdza Srebrnogórska , nowożytna warownia górska z XVIII wieku",
+      "miejscowosc": "Srebrna Góra",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "opactwo św. Wojciecha Mniszek Benedyktynek",
+      "miejscowosc": "Staniątki",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "13 maja 2020"
+    },
+    {
+      "nazwa": "zespół kościoła pod wezwaniem Najświętszej Marii Panny Królowej Świata oraz średniowieczne mury obronne miasta",
+      "miejscowosc": "Stargard",
+      "wojewodztwo": "zachodniopomorskie",
+      "data_wejscia_w_zycie": "4 października 2010"
+    },
+    {
+      "nazwa": "zespół staromiejski wraz z klasztorem Sióstr Klarysek",
+      "miejscowosc": "Stary Sącz",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "sanktuarium maryjne z bazyliką Nawiedzenia Najświętszej Maryi Panny .",
+      "miejscowosc": "Stoczek Klasztorny",
+      "wojewodztwo": "wamińsko-mazurskie",
+      "data_wejscia_w_zycie": "19 grudnia 2022"
+    },
+    {
+      "nazwa": "kościół pod wezwaniem św. św. Apostołów Piotra i Pawła",
+      "miejscowosc": "Strzegom",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "22 października 2012"
+    },
+    {
+      "nazwa": "zespół dawnego klasztoru Norbertanek",
+      "miejscowosc": "Strzelno",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "24 maja 2018"
+    },
+    {
+      "nazwa": "Krzemionki – kopalnie krzemienia z okresu neolitu",
+      "miejscowosc": "Sudół",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "zespół opactwa cystersów",
+      "miejscowosc": "Sulejów",
+      "wojewodztwo": "łódzkie",
+      "data_wejscia_w_zycie": "22 października 2012"
+    },
+    {
+      "nazwa": "Muzeum Józefa Piłsudskiego w Sulejówku",
+      "miejscowosc": "Sulejówek",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "13 sierpnia 2020"
+    },
+    {
+      "nazwa": "Monaster Zwiastowania Przenajświętszej Bogurodzicy i św. Jana Teologa w Supraślu",
+      "miejscowosc": "Supraśl",
+      "wojewodztwo": "podlaskie",
+      "data_wejscia_w_zycie": "2 lutego 2023"
+    },
+    {
+      "nazwa": "kościół parafialny św. Michała Archanioła",
+      "miejscowosc": "Szalowa",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "6 grudnia 2017"
+    },
+    {
+      "nazwa": "Cmentarz Centralny w Szczecinie",
+      "miejscowosc": "Szczecin",
+      "wojewodztwo": "zachodniopomorskie",
+      "data_wejscia_w_zycie": "15 października 2026"
+    },
+    {
+      "nazwa": "katedra pod wezwaniem św. Stanisława Biskupa i Męczennika i św. Wacława Męczennika",
+      "miejscowosc": "Świdnica",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "29 marca 2017"
+    },
+    {
+      "nazwa": "zespół kościoła ewangelicko-augsburskiego pod wezwaniem Świętej Trójcy, zwany Kościołem Pokoju",
+      "miejscowosc": "Świdnica",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "30 marca 2017"
+    },
+    {
+      "nazwa": "sanktuarium pielgrzymkowe",
+      "miejscowosc": "Święta Lipka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "23 maja 2018"
+    },
+    {
+      "nazwa": "podziemia Zabytkowej Kopalni Srebra oraz Sztolni Czarnego Pstrąga",
+      "miejscowosc": "Tarnowskie Góry",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "zespół staromiejski ( Stare Miasto , Nowe Miasto , ruiny zamku krzyżackiego )",
+      "miejscowosc": "Toruń",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "zespół dawnego sanatorium",
+      "miejscowosc": "Trzebiechów",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "7 sierpnia 2025"
+    },
+    {
+      "nazwa": "zespół dawnego opactwa cysterek",
+      "miejscowosc": "Trzebnica",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "22 lipca 2014"
+    },
+    {
+      "nazwa": "zespół archikolegiaty pod wezwaniem Najświętszej Maryi Panny i św. Aleksego",
+      "miejscowosc": "Tum",
+      "wojewodztwo": "łódzkie",
+      "data_wejscia_w_zycie": "12 kwietnia 2022"
+    },
+    {
+      "nazwa": "historyczny zespół miasta",
+      "miejscowosc": "Tykocin",
+      "wojewodztwo": "podlaskie",
+      "data_wejscia_w_zycie": "19 kwietnia 2021"
+    },
+    {
+      "nazwa": "ruiny zamku Krzyżtopór",
+      "miejscowosc": "Ujazd",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "19 maja 2018"
+    },
+    {
+      "nazwa": "zespół zamkowo-parkowy Zamek Książ",
+      "miejscowosc": "Wałbrzych",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "8 sierpnia 2025"
+    },
+    {
+      "nazwa": "Gmach Ministerstwa Wyznań Religijnych i Oświecenia Publicznego w Warszawie",
+      "miejscowosc": "Warszawa",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "29 czerwca 2022"
+    },
+    {
+      "nazwa": "historyczny zespół miasta z Traktem Królewskim i Wilanowem",
+      "miejscowosc": "Warszawa",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Zespół Stacji Filtrów Williama Lindleya",
+      "miejscowosc": "Warszawa",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "18 stycznia 2012"
+    },
+    {
+      "nazwa": "zespół sześciu zabytkowych cmentarzy wyznaniowych na Powązkach",
+      "miejscowosc": "Warszawa",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "21 lipca 2014"
+    },
+    {
+      "nazwa": "zespół opactwa cystersów",
+      "miejscowosc": "Wąchock",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "30 marca 2017"
+    },
+    {
+      "nazwa": "kopalnia soli",
+      "miejscowosc": "Wieliczka",
+      "wojewodztwo": "małopolskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "zespół kolegiaty pod wezwaniem Narodzenia Najświętszej Maryi Panny wraz z reliktami kościoła pod wezwaniem św. Mikołaja oraz grodzisko",
+      "miejscowosc": "Wiślica",
+      "wojewodztwo": "świętokrzyskie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "katedra pod wezwaniem Wniebowzięcia Najświętszej Maryi Panny",
+      "miejscowosc": "Włocławek",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "data_wejscia_w_zycie": "28 grudnia 2018"
+    },
+    {
+      "nazwa": "zespół historycznego centrum",
+      "miejscowosc": "Wrocław",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Hala Stulecia wraz z zespołem architektonicznym obejmującym Pawilon Czterech Kopuł , Pergolę i Iglicę",
+      "miejscowosc": "Wrocław",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "20 kwietnia 2005"
+    },
+    {
+      "nazwa": "stadnina koni",
+      "miejscowosc": "Wygoda",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "6 grudnia 2017"
+    },
+    {
+      "nazwa": "Zespół zabytkowych kopalni węgla kamiennego – Sztolnia Królowa Luiza , Kopalnia Guido , Główna Kluczowa Sztolnia Dziedziczna",
+      "miejscowosc": "Zabrze",
+      "wojewodztwo": "śląskie",
+      "data_wejscia_w_zycie": "14 lipca 2020"
+    },
+    {
+      "nazwa": "historyczny zespół miasta w zasięgu obwarowań z XIX wieku",
+      "miejscowosc": "Zamość",
+      "wojewodztwo": "lubelskie",
+      "data_wejscia_w_zycie": "16 września 1994"
+    },
+    {
+      "nazwa": "Bazylika św. Jerzego Męczennika i Sanktuarium Męki Pańskiej w Ziębicach",
+      "miejscowosc": "Ziębice",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "19 lutego 2024"
+    },
+    {
+      "nazwa": "Poaugustiański zespół klasztorny w Żaganiu z kościołem Wniebowzięcia NMP",
+      "miejscowosc": "Żagań",
+      "wojewodztwo": "lubuskie",
+      "data_wejscia_w_zycie": "11 marca 2011"
+    },
+    {
+      "nazwa": "kościół pod wezwaniem Trójcy Świętej",
+      "miejscowosc": "Żórawina",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "21 marca 2024"
+    },
+    {
+      "nazwa": "XIX-wieczna Osada Fabryczna",
+      "miejscowosc": "Żyrardów",
+      "wojewodztwo": "mazowieckie",
+      "data_wejscia_w_zycie": "17 stycznia 2012"
+    },
+    {
+      "nazwa": "Bohoniki i Kruszyniany – meczety i mizary",
+      "miejscowosc": "–",
+      "wojewodztwo": "podlaskie",
+      "data_wejscia_w_zycie": "20 listopada 2012"
+    },
+    {
+      "nazwa": "Kanał Augustowski",
+      "miejscowosc": "–",
+      "wojewodztwo": "podlaskie",
+      "data_wejscia_w_zycie": "16 maja 2007"
+    },
+    {
+      "nazwa": "Kanał Elbląski",
+      "miejscowosc": "–",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "data_wejscia_w_zycie": "28 stycznia 2011"
+    },
+    {
+      "nazwa": "Komponowany krajobraz kulturowo-przyrodniczy Góry Świętej Anny",
+      "miejscowosc": "–",
+      "wojewodztwo": "opolskie",
+      "data_wejscia_w_zycie": "1 maja 2004"
+    },
+    {
+      "nazwa": "Pałace i parki krajobrazowe Kotliny Jeleniogórskiej",
+      "miejscowosc": "–",
+      "wojewodztwo": "dolnośląskie",
+      "data_wejscia_w_zycie": "20 września 2011"
+    },
+    {
+      "nazwa": "Twierdza Przemyśl",
+      "miejscowosc": "–",
+      "wojewodztwo": "podkarpackie",
+      "data_wejscia_w_zycie": "29 stycznia 2019"
+    },
+    {
+      "nazwa": "zespół pałacowo-ogrodowy i ogród sentymentalno-romantyczny w Nieborowie",
+      "miejscowosc": "–",
+      "wojewodztwo": "łódzkie",
+      "data_wejscia_w_zycie": "8 grudnia 2017"
+    }
+  ],
+  "meta": {
+    "title": "Pomniki historii w Polsce - Free Download",
+    "description": "Obiekty uznane rozporządzeniem Prezydenta RP za Pomniki historii, z miejscowością, województwem i datą wejścia w życie rozporządzenia. Contains 134 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pomniki historii w Polsce | ListBase",
+    "seo_description": "Download Pomniki historii w Polsce — 134 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 134 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Pomnik_historii"
+    ]
+  }
+}

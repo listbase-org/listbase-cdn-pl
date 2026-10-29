@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-29T02:19:36.362Z",
-  "total_datasets": 509,
-  "total_records": 1091170,
+  "generated": "2026-10-29T02:19:38.996Z",
+  "total_datasets": 510,
+  "total_records": 1091304,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -13287,6 +13287,31 @@
         "xlsx": {
           "name": "pl-pensjonaty_PL.xlsx",
           "size": 224807
+        }
+      }
+    },
+    {
+      "id": "pl-pomniki-historii",
+      "name": "Pomniki historii w Polsce",
+      "category": "tourism",
+      "record_count": 134,
+      "columns": [
+        "nazwa",
+        "miejscowosc",
+        "wojewodztwo",
+        "data_wejscia_w_zycie"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Pomnik_historii",
+      "updated": "2026-10",
+      "size": 28644,
+      "files": {
+        "csv": {
+          "name": "pl-pomniki-historii_PL.csv",
+          "size": 13330
+        },
+        "xlsx": {
+          "name": "pl-pomniki-historii_PL.xlsx",
+          "size": 13723
         }
       }
     },
