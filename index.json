@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-28T02:14:39.368Z",
-  "total_datasets": 508,
-  "total_records": 1091141,
+  "generated": "2026-10-29T02:19:36.362Z",
+  "total_datasets": 509,
+  "total_records": 1091170,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -545,6 +545,29 @@
         "xlsx": {
           "name": "pl-ksiegarnie_PL.xlsx",
           "size": 44883
+        }
+      }
+    },
+    {
+      "id": "pl-parki-dinozaurow",
+      "name": "Parki dinozaurów w Polsce",
+      "category": "entertainment",
+      "record_count": 29,
+      "columns": [
+        "park",
+        "wojewodztwo"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Parki_dinozaurów_w_Polsce",
+      "updated": "2026-10",
+      "size": 4280,
+      "files": {
+        "csv": {
+          "name": "pl-parki-dinozaurow_PL.csv",
+          "size": 1609
+        },
+        "xlsx": {
+          "name": "pl-parki-dinozaurow_PL.xlsx",
+          "size": 7687
         }
       }
     },

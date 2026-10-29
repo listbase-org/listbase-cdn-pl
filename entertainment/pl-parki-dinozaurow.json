@@ -1,0 +1,152 @@
+{
+  "id": "pl-parki-dinozaurow",
+  "name": "Parki dinozaurów w Polsce",
+  "title": "Parki dinozaurów w Polsce",
+  "description": "Lista parków dinozaurów i parków jurajskich w Polsce według województw.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Parki_dinozaurów_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Parki_dinozaurów_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "park",
+      "label": "Park",
+      "type": "string"
+    },
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "park": "Cieszycki Park Jurajski w Cieszycach",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Park Dinozaurów w Karłowie",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Park Jurajski w Kletnie",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Strefa Dinozaurów (Park Wrocławski) w Lubinie",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Dinopark w Szklarskiej Porębie",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Wrocławski Park Dinozaurów Zauropark we Wrocławiu",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Park Dinozaurów (Park Miejski) w Ziębicach",
+      "wojewodztwo": "dolnośląskie"
+    },
+    {
+      "park": "Zaginiony Świat (Park Miejski Myślęcinek) w Bydgoszczy",
+      "wojewodztwo": "kujawsko-pomorskie"
+    },
+    {
+      "park": "Mega Park w Grudziądzu",
+      "wojewodztwo": "kujawsko-pomorskie"
+    },
+    {
+      "park": "Park Dinozaurów „Zaurolandia” w Rogowie",
+      "wojewodztwo": "kujawsko-pomorskie"
+    },
+    {
+      "park": "JuraPark Solec w Solcu Kujawskim",
+      "wojewodztwo": "kujawsko-pomorskie"
+    },
+    {
+      "park": "Ścieżka Edukacyjna Dinozaury w Krasnobrodzie",
+      "wojewodztwo": "lubelskie"
+    },
+    {
+      "park": "Park Dinozaurów w Nowinach Wielkich",
+      "wojewodztwo": "lubuskie"
+    },
+    {
+      "park": "Park Jurajsko-Botaniczny „Dino-Park” w Kołacinku",
+      "wojewodztwo": "łódzkie"
+    },
+    {
+      "park": "Park Dinozaurów i Rozrywki Dinolandia w Inwałdzie",
+      "wojewodztwo": "małopolskie"
+    },
+    {
+      "park": "Zatorland Park Rozrywki w Zatorze",
+      "wojewodztwo": "małopolskie"
+    },
+    {
+      "park": "JuraPark Krasiejów",
+      "wojewodztwo": "opolskie"
+    },
+    {
+      "park": "Dino Park „Kraina Dinozaurów” w Ozimku",
+      "wojewodztwo": "opolskie"
+    },
+    {
+      "park": "Dinozekolandia Radymno",
+      "wojewodztwo": "podkarpackie"
+    },
+    {
+      "park": "Jurajski Park Dinozaurów w Jurowcach",
+      "wojewodztwo": "podlaskie"
+    },
+    {
+      "park": "Park Ewolucji k. Władysławowa [ 1 ]",
+      "wojewodztwo": "pomorskie"
+    },
+    {
+      "park": "Dino Park Malbork",
+      "wojewodztwo": "pomorskie"
+    },
+    {
+      "park": "Łeba Park w Nowęcinie k. Łeby",
+      "wojewodztwo": "pomorskie"
+    },
+    {
+      "park": "Kotlina Dinozaurów ( Śląski Ogród Zoologiczny ) w Chorzowie",
+      "wojewodztwo": "śląskie"
+    },
+    {
+      "park": "Dream Park Ochaby",
+      "wojewodztwo": "śląskie"
+    },
+    {
+      "park": "Rodzinny Park Atrakcji w Rybniku",
+      "wojewodztwo": "śląskie"
+    },
+    {
+      "park": "Park Dinozaurów i Ogromnych Owadów w Ustroniu",
+      "wojewodztwo": "śląskie"
+    },
+    {
+      "park": "JuraPark Bałtów",
+      "wojewodztwo": "świętokrzyskie"
+    },
+    {
+      "park": "Bałtycki Park Dinozaurów we Wrzosowie",
+      "wojewodztwo": "zachodniopomorskie"
+    }
+  ],
+  "meta": {
+    "title": "Parki dinozaurów w Polsce - Free Download",
+    "description": "Lista parków dinozaurów i parków jurajskich w Polsce według województw. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parki dinozaurów w Polsce | ListBase",
+    "seo_description": "Download Parki dinozaurów w Polsce — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Parki_dinozaurów_w_Polsce"
+    ]
+  }
+}
