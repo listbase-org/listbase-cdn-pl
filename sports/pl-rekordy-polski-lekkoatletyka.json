@@ -1,0 +1,556 @@
+{
+  "id": "pl-rekordy-polski-lekkoatletyka",
+  "name": "Rekordy Polski w lekkoatletyce (stadion)",
+  "title": "Rekordy Polski w lekkoatletyce (stadion)",
+  "description": "Aktualne rekordy Polski w lekkoatletyce w konkurencjach olimpijskich na stadionie – mężczyzn, kobiet i sztafet mieszanych – z wynikiem, zawodnikiem, klubem, datą i miejscem.",
+  "category": "sports",
+  "source": "https://pl.wikipedia.org/wiki/Rekordy_Polski_w_lekkoatletyce",
+  "source_url": "https://pl.wikipedia.org/wiki/Rekordy_Polski_w_lekkoatletyce",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "konkurencja",
+      "label": "Konkurencja",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    },
+    {
+      "key": "zawodnik",
+      "label": "Zawodnik",
+      "type": "string"
+    },
+    {
+      "key": "klub",
+      "label": "Klub",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "zawody",
+      "label": "Zawody",
+      "type": "string"
+    },
+    {
+      "key": "miejsce",
+      "label": "Miejsce",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "konkurencja": "Bieg na 100 metrów",
+      "rezultat": "10,00 +2,0 m/s",
+      "zawodnik": "Marian Woronin",
+      "klub": "CWKS Legia Warszawa",
+      "data": "9 czerwca 1984",
+      "zawody": "Memoriał Janusza Kusocińskiego",
+      "miejsce": "Warszawa",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 200 metrów",
+      "rezultat": "19,98 +1,7 m/s",
+      "zawodnik": "Marcin Urbaś",
+      "klub": "AZS-AWF Kraków",
+      "data": "25 sierpnia 1999",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Sewilla",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 400 metrów",
+      "rezultat": "44,62",
+      "zawodnik": "Tomasz Czubak",
+      "klub": "RKS Skra Warszawa",
+      "data": "24 sierpnia 1999",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Sewilla",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 800 metrów",
+      "rezultat": "1:43,22",
+      "zawodnik": "Paweł Czapiewski",
+      "klub": "Lubusz Słubice",
+      "data": "17 sierpnia 2001",
+      "zawody": "Weltklasse Zürich",
+      "miejsce": "Zurych",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 1500 metrów",
+      "rezultat": "3:30,42",
+      "zawodnik": "Marcin Lewandowski",
+      "klub": "AZS UMCS Lublin",
+      "data": "9 lipca 2021",
+      "zawody": "Herculis",
+      "miejsce": "Monako",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 5000 metrów",
+      "rezultat": "13:17,69",
+      "zawodnik": "Bronisław Malinowski",
+      "klub": "Olimpia Grudziądz",
+      "data": "5 lipca 1976",
+      "zawody": "DN Galan",
+      "miejsce": "Sztokholm",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 10 000 metrów",
+      "rezultat": "27:53,61",
+      "zawodnik": "Jerzy Kowol",
+      "klub": "Górnik Zabrze",
+      "data": "29 sierpnia 1978",
+      "zawody": "Mistrzostwa Europy",
+      "miejsce": "Praga",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg maratoński",
+      "rezultat": "2:07:39",
+      "zawodnik": "Henryk Szost",
+      "klub": "WKS Grunwald Poznań",
+      "data": "4 marca 2012",
+      "zawody": "Maraton Lake Biwa",
+      "miejsce": "Ōtsu",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 110 metrów przez płotki",
+      "rezultat": "13,25 +1,3 m/s",
+      "zawodnik": "Damian Czykier",
+      "klub": "KS Podlasie Białystok",
+      "data": "11 czerwca 2022",
+      "zawody": "Mistrzostwa Polski",
+      "miejsce": "Suwałki",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 110 metrów przez płotki",
+      "rezultat": "13,25 +1,1 m/s",
+      "zawodnik": "Jakub Szymański",
+      "klub": "SKLA Sopot",
+      "data": "28 czerwca 2024",
+      "zawody": "Mistrzostwa Polski",
+      "miejsce": "Bydgoszcz",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 400 metrów przez płotki",
+      "rezultat": "48,12",
+      "zawodnik": "Marek Plawgo",
+      "klub": "KS Warszawianka",
+      "data": "28 sierpnia 2007",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Osaka",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 3000 metrów z przeszkodami",
+      "rezultat": "8:09,11",
+      "zawodnik": "Bronisław Malinowski",
+      "klub": "Olimpia Grudziądz",
+      "data": "28 lipca 1976",
+      "zawody": "Igrzyska olimpijskie",
+      "miejsce": "Montreal",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Sztafeta 4 × 100 metrów",
+      "rezultat": "38,15",
+      "zawodnik": "Adrian Brzeziński Przemysław Słowikowski Patryk Wykrota Dominik Kopeć",
+      "klub": "Reprezentacja Polski",
+      "data": "21 sierpnia 2022",
+      "zawody": "Mistrzostwa Europy",
+      "miejsce": "Monachium",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Sztafeta 4 × 400 metrów",
+      "rezultat": "2:58,00",
+      "zawodnik": "Piotr Rysiukiewicz Tomasz Czubak Piotr Haczek Robert Maćkowiak",
+      "klub": "Reprezentacja Polski",
+      "data": "22 lipca 1998",
+      "zawody": "Igrzyska Dobrej Woli",
+      "miejsce": "Nowy Jork",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Chód na 20 kilometrów",
+      "rezultat": "1:18:22",
+      "zawodnik": "Robert Korzeniowski",
+      "klub": "WKS Wawel Kraków",
+      "data": "9 lipca 2000",
+      "zawody": "Mityng EAA",
+      "miejsce": "Hildesheim",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Skok wzwyż",
+      "rezultat": "2,38",
+      "zawodnik": "Artur Partyka",
+      "klub": "ŁKS Łódź",
+      "data": "18 sierpnia 1996",
+      "zawody": "Hochsprung-Meeting Eberstad",
+      "miejsce": "Eberstadt",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Skok o tyczce",
+      "rezultat": "6,02",
+      "zawodnik": "Piotr Lisek",
+      "klub": "OSOT Szczecin",
+      "data": "12 lipca 2019",
+      "zawody": "Herculis",
+      "miejsce": "Monako",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Skok w dal",
+      "rezultat": "8,28 +0,8 m/s",
+      "zawodnik": "Grzegorz Marciniszyn",
+      "klub": "RKS Skra Warszawa",
+      "data": "14 lipca 2001",
+      "zawody": "Meeting w Malles Venosta",
+      "miejsce": "Malles Venosta",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Trójskok",
+      "rezultat": "17,53 +1,6 m/s",
+      "zawodnik": "Zdzisław Hoffmann",
+      "klub": "CWKS Legia Warszawa",
+      "data": "4 czerwca 1985",
+      "zawody": "Meeting de Atletismo Madrid",
+      "miejsce": "Madryt",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Pchnięcie kulą",
+      "rezultat": "22,32",
+      "zawodnik": "Michał Haratyk",
+      "klub": "Sprint Bielsko-Biała",
+      "data": "28 lipca 2019 3 sierpnia 2019",
+      "zawody": "Gwiazdy na Warszawskich Fontannach Festiwal Rzutów im. Kamili Skolimowskiej",
+      "miejsce": "Warszawa Cetniewo",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Rzut dyskiem",
+      "rezultat": "71,84",
+      "zawodnik": "Piotr Małachowski",
+      "klub": "WKS Śląsk Wrocław",
+      "data": "8 czerwca 2013",
+      "zawody": "Fanny Blankers-Koen Games",
+      "miejsce": "Hengelo",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Rzut młotem",
+      "rezultat": "83,93",
+      "zawodnik": "Paweł Fajdek",
+      "klub": "KS Agros Zamość",
+      "data": "9 sierpnia 2015",
+      "zawody": "Memoriał Janusza Kusocińskiego",
+      "miejsce": "Szczecin",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Rzut oszczepem",
+      "rezultat": "89,55",
+      "zawodnik": "Marcin Krukowski",
+      "klub": "KS Warszawianka",
+      "data": "8 czerwca 2021",
+      "zawody": "Paavo Nurmi Games",
+      "miejsce": "Turku",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Dziesięciobój",
+      "rezultat": "8566 pkt.",
+      "zawodnik": "Sebastian Chmara",
+      "klub": "WKS Zawisza Bydgoszcz",
+      "data": "17 maja 1998",
+      "zawody": "",
+      "miejsce": "Murcja",
+      "kategoria": "mężczyźni"
+    },
+    {
+      "konkurencja": "Bieg na 100 metrów",
+      "rezultat": "10,93 +1,8 m/s",
+      "zawodnik": "Ewa Kasprzyk",
+      "klub": "Olimpia Poznań",
+      "data": "27 czerwca 1986",
+      "zawody": "Mistrzostwa Polski seniorów",
+      "miejsce": "Grudziądz",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 200 metrów",
+      "rezultat": "22,13 +1,2 m/s",
+      "zawodnik": "Ewa Kasprzyk",
+      "klub": "Olimpia Poznań",
+      "data": "8 lipca 1986",
+      "zawody": "Igrzyska dobrej woli",
+      "miejsce": "Moskwa",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 400 metrów",
+      "rezultat": "48,90",
+      "zawodnik": "Natalia Kaczmarek",
+      "klub": "KS Podlasie Białystok",
+      "data": "20 lipca 2024",
+      "zawody": "London Athletics Meet",
+      "miejsce": "Londyn",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 800 metrów",
+      "rezultat": "1:56,95",
+      "zawodnik": "Jolanta Januchta",
+      "klub": "Gwardia Warszawa",
+      "data": "11 sierpnia 1980",
+      "zawody": "",
+      "miejsce": "Budapeszt",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 1500 metrów",
+      "rezultat": "3:54,05",
+      "zawodnik": "Klaudia Kazimierska",
+      "klub": "LKS Vectra Włocławek",
+      "data": "5 września 2026",
+      "zawody": "Memorial Van Damme",
+      "miejsce": "Bruksela",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 5000 metrów",
+      "rezultat": "15:04,88",
+      "zawodnik": "Lidia Chojecka",
+      "klub": "WLKS Siedlce",
+      "data": "6 września 2002",
+      "zawody": "Internationales Stadionfest",
+      "miejsce": "Berlin",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 10 000 metrów",
+      "rezultat": "31:43,51",
+      "zawodnik": "Karolina Jarzyńska",
+      "klub": "niestowarzyszona",
+      "data": "27 czerwca 2013",
+      "zawody": "Zlatá Tretra",
+      "miejsce": "Ostrawa",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg maratoński",
+      "rezultat": "2:24:59",
+      "zawodnik": "Aleksandra Lisowska",
+      "klub": "KS AZS UWM Olsztyn",
+      "data": "21 września 2025",
+      "zawody": "Maraton Berliński",
+      "miejsce": "Berlin",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 100 metrów przez płotki",
+      "rezultat": "12,36 +1,9 m/s",
+      "zawodnik": "Grażyna Rabsztyn",
+      "klub": "Gwardia Warszawa",
+      "data": "13 czerwca 1980",
+      "zawody": "Memoriał Janusza Kusocińskiego",
+      "miejsce": "Warszawa",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 400 metrów przez płotki",
+      "rezultat": "53,86",
+      "zawodnik": "Anna Jesień",
+      "klub": "AZS-AWF Warszawa",
+      "data": "28 sierpnia 2007",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Osaka",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Bieg na 3000 metrów z przeszkodami",
+      "rezultat": "9:16,51",
+      "zawodnik": "Alicja Konieczek",
+      "klub": "OŚ AZS Poznań",
+      "data": "3 sierpnia 2024",
+      "zawody": "Igrzyska Olimpijskie",
+      "miejsce": "Paryż",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Sztafeta 4 × 100 metrów",
+      "rezultat": "42,61",
+      "zawodnik": "Pia Skrzyszowska Anna Kiełbasińska Marika Popowicz-Drapała Ewa Swoboda",
+      "klub": "Reprezentacja Polski",
+      "data": "21 sierpnia 2022",
+      "zawody": "Mistrzostwa Europy",
+      "miejsce": "Monachium",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Sztafeta 4 × 400 metrów",
+      "rezultat": "3:20,53",
+      "zawodnik": "Natalia Kaczmarek Iga Baumgart-Witan Małgorzata Hołub-Kowalik Justyna Święty-Ersetic",
+      "klub": "Reprezentacja Polski",
+      "data": "7 sierpnia 2021",
+      "zawody": "Igrzyska olimpijskie",
+      "miejsce": "Tokio",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Chód na 20 kilometrów",
+      "rezultat": "1:27:31",
+      "zawodnik": "Katarzyna Zdziebło",
+      "klub": "LKS Stal Mielec",
+      "data": "15 lipca 2022",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Eugene",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Skok wzwyż",
+      "rezultat": "2,02",
+      "zawodnik": "Kamila Lićwinko",
+      "klub": "KS Podlasie Białystok",
+      "data": "21 lutego 2015",
+      "zawody": "Halowe mistrzostwa Polski",
+      "miejsce": "Toruń",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Skok o tyczce",
+      "rezultat": "4,85",
+      "zawodnik": "Anna Rogowska",
+      "klub": "SKLA Sopot",
+      "data": "6 marca 2011",
+      "zawody": "Halowe mistrzostwa Europy",
+      "miejsce": "Paryż",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Skok w dal",
+      "rezultat": "6,97 +2,0 m/s",
+      "zawodnik": "Agata Karczmarek",
+      "klub": "CWKS Legia Warszawa",
+      "data": "6 sierpnia 1988",
+      "zawody": "",
+      "miejsce": "Lublin",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Trójskok",
+      "rezultat": "14,44 +1,8 m/s",
+      "zawodnik": "Małgorzata Trybańska",
+      "klub": "KS Warszawianka",
+      "data": "29 lipca 2010",
+      "zawody": "Mistrzostwa Europy",
+      "miejsce": "Barcelona",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Pchnięcie kulą",
+      "rezultat": "19,58",
+      "zawodnik": "Ludwika Chewińska",
+      "klub": "Gwardia Warszawa",
+      "data": "26 czerwca 1976",
+      "zawody": "Mistrzostwa Polski",
+      "miejsce": "Bydgoszcz",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Rzut dyskiem",
+      "rezultat": "66,18",
+      "zawodnik": "Renata Katewicz",
+      "klub": "SKS Start Łódź",
+      "data": "7 sierpnia 1988",
+      "zawody": "",
+      "miejsce": "Łódź",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Rzut młotem",
+      "rezultat": "82,98",
+      "zawodnik": "Anita Włodarczyk",
+      "klub": "RKS Skra Warszawa",
+      "data": "28 sierpnia 2016",
+      "zawody": "Memoriał Kamili Skolimowskiej",
+      "miejsce": "Warszawa",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Rzut oszczepem",
+      "rezultat": "71,40",
+      "zawodnik": "Maria Andrejczyk",
+      "klub": "LUKS Hańcza Suwałki",
+      "data": "9 maja 2021",
+      "zawody": "Puchar Europy w rzutach",
+      "miejsce": "Split",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Siedmiobój",
+      "rezultat": "6672 pkt.",
+      "zawodnik": "Adrianna Sułek",
+      "klub": "BRDA Bydgoszcz",
+      "data": "17-18 lipca 2022",
+      "zawody": "Mistrzostwa świata",
+      "miejsce": "Eugene",
+      "kategoria": "kobiety"
+    },
+    {
+      "konkurencja": "Sztafeta 4 × 400 metrów",
+      "rezultat": "3:09,43",
+      "zawodnik": "Maksymilian Szwed Justyna Święty-Ersetic Daniel Sołtysiak Natalia Bukowiecka",
+      "klub": "Reprezentacja Polski",
+      "data": "29 czerwca 2025",
+      "zawody": "Drużynowe mistrzostwa Europy",
+      "miejsce": "Madryt",
+      "kategoria": "mieszane"
+    },
+    {
+      "konkurencja": "Sztafeta 2 x 2 w chodzie na dystansie maratonu",
+      "rezultat": "3:00:55",
+      "zawodnik": "Maher Ben Hlima Olga Chojecka",
+      "klub": "Reprezentacja Polski",
+      "data": "7 sierpnia 2024",
+      "zawody": "Igrzyska olimpijskie",
+      "miejsce": "Paryż",
+      "kategoria": "mieszane"
+    }
+  ],
+  "meta": {
+    "title": "Rekordy Polski w lekkoatletyce (stadion) - Free Download",
+    "description": "Aktualne rekordy Polski w lekkoatletyce w konkurencjach olimpijskich na stadionie – mężczyzn, kobiet i sztafet mieszanych – z wynikiem, zawodnikiem, klubem, datą i miejscem. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rekordy Polski w lekkoatletyce (stadion) | ListBase",
+    "seo_description": "Download Rekordy Polski w lekkoatletyce (stadion) — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Rekordy_Polski_w_lekkoatletyce"
+    ]
+  }
+}

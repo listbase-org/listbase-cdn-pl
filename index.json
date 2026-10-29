@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-29T02:19:38.996Z",
-  "total_datasets": 510,
-  "total_records": 1091304,
+  "generated": "2026-10-29T02:19:41.275Z",
+  "total_datasets": 511,
+  "total_records": 1091353,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -12446,6 +12446,35 @@
         "xlsx": {
           "name": "pl-mistrzowie-polski-pilka-nozna_PL.xlsx",
           "size": 11281
+        }
+      }
+    },
+    {
+      "id": "pl-rekordy-polski-lekkoatletyka",
+      "name": "Rekordy Polski w lekkoatletyce (stadion)",
+      "category": "sports",
+      "record_count": 49,
+      "columns": [
+        "konkurencja",
+        "rezultat",
+        "zawodnik",
+        "klub",
+        "data",
+        "zawody",
+        "miejsce",
+        "kategoria"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Rekordy_Polski_w_lekkoatletyce",
+      "updated": "2026-10",
+      "size": 16768,
+      "files": {
+        "csv": {
+          "name": "pl-rekordy-polski-lekkoatletyka_PL.csv",
+          "size": 7074
+        },
+        "xlsx": {
+          "name": "pl-rekordy-polski-lekkoatletyka_PL.xlsx",
+          "size": 11042
         }
       }
     },
