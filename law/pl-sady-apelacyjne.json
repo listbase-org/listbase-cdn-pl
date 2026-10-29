@@ -1,0 +1,80 @@
+{
+  "id": "pl-sady-apelacyjne",
+  "name": "Sądy apelacyjne w Polsce",
+  "title": "Sądy apelacyjne w Polsce",
+  "description": "Wykaz sądów apelacyjnych w Polsce wraz z sądami okręgowymi należącymi do obszaru każdej apelacji.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Sąd_apelacyjny",
+  "source_url": "https://pl.wikipedia.org/wiki/Sąd_apelacyjny",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "sad_apelacyjny",
+      "label": "Sad Apelacyjny",
+      "type": "string"
+    },
+    {
+      "key": "obszar_sady_okregowe_w",
+      "label": "Obszar Sady Okregowe W",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Białymstoku",
+      "obszar_sady_okregowe_w": "Białymstoku, Łomży, Olsztynie, Ostrołęce i Suwałkach"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Gdańsku",
+      "obszar_sady_okregowe_w": "Bydgoszczy, Elblągu, Gdańsku, Słupsku, Toruniu i Włocławku"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Lublinie",
+      "obszar_sady_okregowe_w": "Lublinie, Radomiu, Siedlcach i Zamościu"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Łodzi",
+      "obszar_sady_okregowe_w": "Kaliszu, Łodzi, Piotrkowie Trybunalskim, Płocku i Sieradzu"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Poznaniu",
+      "obszar_sady_okregowe_w": "Koninie, Poznaniu i Zielonej Górze"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Katowicach",
+      "obszar_sady_okregowe_w": "Bielsku-Białej, Częstochowie, Gliwicach, Katowicach, Rybniku i Sosnowcu"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Krakowie",
+      "obszar_sady_okregowe_w": "Kielcach, Krakowie, Nowym Sączu i Tarnowie"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Szczecinie",
+      "obszar_sady_okregowe_w": "Gorzowie Wielkopolskim, Koszalinie, Szczecinie"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny we Wrocławiu",
+      "obszar_sady_okregowe_w": "Jeleniej Górze, Legnicy, Opolu, Świdnicy i Wrocławiu"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Rzeszowie",
+      "obszar_sady_okregowe_w": "Krośnie, Przemyślu, Rzeszowie i Tarnobrzegu"
+    },
+    {
+      "sad_apelacyjny": "Sąd Apelacyjny w Warszawie",
+      "obszar_sady_okregowe_w": "Warszawie i Warszawa-Praga w Warszawie"
+    }
+  ],
+  "meta": {
+    "title": "Sądy apelacyjne w Polsce - Free Download",
+    "description": "Wykaz sądów apelacyjnych w Polsce wraz z sądami okręgowymi należącymi do obszaru każdej apelacji. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sądy apelacyjne w Polsce | ListBase",
+    "seo_description": "Download Sądy apelacyjne w Polsce — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Sąd_apelacyjny"
+    ]
+  }
+}
