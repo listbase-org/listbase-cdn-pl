@@ -1,0 +1,86 @@
+{
+  "id": "pl-uczelnie-muzyczne",
+  "name": "Uczelnie muzyczne w Polsce",
+  "title": "Uczelnie muzyczne w Polsce",
+  "description": "Publiczne akademie i uniwersytety muzyczne w Polsce z rokiem założenia i miastem.",
+  "category": "education",
+  "source": "https://pl.wikipedia.org/wiki/Akademia_muzyczna",
+  "source_url": "https://pl.wikipedia.org/wiki/Akademia_muzyczna",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "rok_zalozenia",
+      "label": "Rok Zalozenia",
+      "type": "number"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Uniwersytet Muzyczny Fryderyka Chopina",
+      "rok_zalozenia": 1810,
+      "miasto": "Warszawa"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Krzysztofa Pendereckiego",
+      "rok_zalozenia": 1888,
+      "miasto": "Kraków"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Grażyny i Kiejstuta Bacewiczów",
+      "rok_zalozenia": "",
+      "miasto": "Łódź"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Ignacego Jana Paderewskiego",
+      "rok_zalozenia": 1920,
+      "miasto": "Poznań"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Karola Szymanowskiego",
+      "rok_zalozenia": 1929,
+      "miasto": "Katowice"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku",
+      "rok_zalozenia": 1947,
+      "miasto": "Gdańsk"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Karola Lipińskiego",
+      "rok_zalozenia": 1948,
+      "miasto": "Wrocław"
+    },
+    {
+      "nazwa": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
+      "rok_zalozenia": 1974,
+      "miasto": "Bydgoszcz"
+    },
+    {
+      "nazwa": "Akademia Sztuki w Szczecinie",
+      "rok_zalozenia": 2010,
+      "miasto": "Szczecin"
+    }
+  ],
+  "meta": {
+    "title": "Uczelnie muzyczne w Polsce - Free Download",
+    "description": "Publiczne akademie i uniwersytety muzyczne w Polsce z rokiem założenia i miastem. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uczelnie muzyczne w Polsce | ListBase",
+    "seo_description": "Download Uczelnie muzyczne w Polsce — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Akademia_muzyczna"
+    ]
+  }
+}

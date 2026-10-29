@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-29T02:19:43.752Z",
-  "total_datasets": 512,
-  "total_records": 1091364,
+  "generated": "2026-10-29T02:19:46.225Z",
+  "total_datasets": 513,
+  "total_records": 1091373,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -464,6 +464,30 @@
         "xlsx": {
           "name": "pl-szkoly_PL.xlsx",
           "size": 524202
+        }
+      }
+    },
+    {
+      "id": "pl-uczelnie-muzyczne",
+      "name": "Uczelnie muzyczne w Polsce",
+      "category": "education",
+      "record_count": 9,
+      "columns": [
+        "nazwa",
+        "rok_zalozenia",
+        "miasto"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Akademia_muzyczna",
+      "updated": "2026-10",
+      "size": 2540,
+      "files": {
+        "csv": {
+          "name": "pl-uczelnie-muzyczne_PL.csv",
+          "size": 627
+        },
+        "xlsx": {
+          "name": "pl-uczelnie-muzyczne_PL.xlsx",
+          "size": 7119
         }
       }
     },
