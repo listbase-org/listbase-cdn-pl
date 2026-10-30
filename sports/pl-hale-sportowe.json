@@ -1,0 +1,727 @@
+{
+  "id": "pl-hale-sportowe",
+  "name": "Hale sportowe i widowiskowe w Polsce",
+  "title": "Hale sportowe i widowiskowe w Polsce",
+  "description": "Lista największych hal sportowych i widowiskowych w Polsce z rokiem budowy, drużynami gospodarzy i liczbą miejsc na trybunach",
+  "category": "sports",
+  "source": "https://pl.wikipedia.org/wiki/Lista_hal_sportowych_i_widowiskowych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_hal_sportowych_i_widowiskowych_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year_built",
+      "label": "Year Built",
+      "type": "number"
+    },
+    {
+      "key": "teams",
+      "label": "Teams",
+      "type": "string"
+    },
+    {
+      "key": "seats_fixed",
+      "label": "Seats Fixed",
+      "type": "number"
+    },
+    {
+      "key": "seats_retractable",
+      "label": "Seats Retractable",
+      "type": "number"
+    },
+    {
+      "key": "seats_total",
+      "label": "Seats Total",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Kraków",
+      "name": "Tauron Arena Kraków",
+      "year_built": 2014,
+      "teams": "brak",
+      "seats_fixed": 11264,
+      "seats_retractable": 3776,
+      "seats_total": 15030
+    },
+    {
+      "city": "Gliwice",
+      "name": "PreZero Arena Gliwice",
+      "year_built": 2018,
+      "teams": "Piast Gliwice , GTK Gliwice",
+      "seats_fixed": 10178,
+      "seats_retractable": 3206,
+      "seats_total": 13384
+    },
+    {
+      "city": "Łódź",
+      "name": "Atlas Arena",
+      "year_built": 2009,
+      "teams": "ŁKS Łódź , Budowlani Łódź , Skra Bełchatów",
+      "seats_fixed": 10049,
+      "seats_retractable": 2060,
+      "seats_total": 12109
+    },
+    {
+      "city": "Katowice",
+      "name": "Spodek",
+      "year_built": 1971,
+      "teams": "brak",
+      "seats_fixed": 9351,
+      "seats_retractable": 1665,
+      "seats_total": 11016
+    },
+    {
+      "city": "Gdańsk , Sopot",
+      "name": "Ergo Arena",
+      "year_built": 2010,
+      "teams": "Trefl Gdańsk , Trefl Sopot , Atom Trefl Sopot",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 10731
+    },
+    {
+      "city": "Katowice",
+      "name": "Międzynarodowe Centrum Kongresowe w Katowicach",
+      "year_built": 2015,
+      "teams": "brak",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 8309
+    },
+    {
+      "city": "Częstochowa",
+      "name": "Hala Sportowa Częstochowa",
+      "year_built": 2012,
+      "teams": "Norwid Częstochowa",
+      "seats_fixed": 5903,
+      "seats_retractable": 1197,
+      "seats_total": 7100
+    },
+    {
+      "city": "Łódź",
+      "name": "Hala Sportowa MOSiR",
+      "year_built": 1957,
+      "teams": "Budowlani Łódź Skra Bełchatów",
+      "seats_fixed": 6710,
+      "seats_retractable": 0,
+      "seats_total": 6710
+    },
+    {
+      "city": "Bydgoszcz",
+      "name": "Immobile Łuczniczka",
+      "year_built": 2002,
+      "teams": "Łuczniczka Bydgoszcz , Pałac Bydgoszcz , Artego Bydgoszcz , Astoria Bydgoszcz",
+      "seats_fixed": 5318,
+      "seats_retractable": 760,
+      "seats_total": 6078
+    },
+    {
+      "city": "Toruń",
+      "name": "Arena Toruń",
+      "year_built": 2014,
+      "teams": "Katarzynki Toruń , Pierniki Toruń , Budowlani Toruń",
+      "seats_fixed": 5192,
+      "seats_retractable": 510,
+      "seats_total": 5702
+    },
+    {
+      "city": "Gdańsk",
+      "name": "Olivia",
+      "year_built": 1972,
+      "teams": "Stoczniowiec Gdańsk",
+      "seats_fixed": 3800,
+      "seats_retractable": 1700,
+      "seats_total": 5500
+    },
+    {
+      "city": "Płock",
+      "name": "Orlen Arena",
+      "year_built": 2010,
+      "teams": "Wisła Płock",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 5467
+    },
+    {
+      "city": "Wrocław",
+      "name": "Hala Stulecia",
+      "year_built": 1913,
+      "teams": "Gwardia Wrocław , Śląsk Wrocław , Volleyball Wrocław",
+      "seats_fixed": 3148,
+      "seats_retractable": 2094,
+      "seats_total": 5242
+    },
+    {
+      "city": "Gorzów Wielkopolski",
+      "name": "Arena Gorzów",
+      "year_built": 2023,
+      "teams": "AZS AJP Gorzów Wielkopolski , Cuprum Stilon Gorzów",
+      "seats_fixed": 3225,
+      "seats_retractable": 1966,
+      "seats_total": 5191
+    },
+    {
+      "city": "Szczecin",
+      "name": "Enea Arena",
+      "year_built": 2014,
+      "teams": "King Wilki Morskie Szczecin , Pogoń Szczecin Handball , Stalpro Błyskawica Szczecin ,",
+      "seats_fixed": 5055,
+      "seats_retractable": "",
+      "seats_total": 5055
+    },
+    {
+      "city": "Radom",
+      "name": "Hala Widowiskowo-Sportowa Radomskiego Centrum Sportu",
+      "year_built": 2021,
+      "teams": "Czarni Radom , Hydro Truck Radom , Radomka Radom",
+      "seats_fixed": "3500 (?)",
+      "seats_retractable": "1500 (?)",
+      "seats_total": 5000
+    },
+    {
+      "city": "Zielona Góra",
+      "name": "Hala MOSiR",
+      "year_built": 2010,
+      "teams": "Enea Zastal BC Zielona Góra",
+      "seats_fixed": 3847,
+      "seats_retractable": 1152,
+      "seats_total": 4999
+    },
+    {
+      "city": "Warszawa",
+      "name": "Torwar I",
+      "year_built": 1953,
+      "teams": "AZS Politechnika Warszawska",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 4806
+    },
+    {
+      "city": "Rzeszów",
+      "name": "Podpromie",
+      "year_built": 2002,
+      "teams": "Resovia , KS DevelopRes Rzeszów",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 4304
+    },
+    {
+      "city": "Tarnów",
+      "name": "Arena Jaskółka Tarnów",
+      "year_built": 2019,
+      "teams": "Grupa Azoty SPR Tarnów",
+      "seats_fixed": 3557,
+      "seats_retractable": 739,
+      "seats_total": 4296
+    },
+    {
+      "city": "Gdynia",
+      "name": "Gdynia Arena",
+      "year_built": 2008,
+      "teams": "Asseco Gdynia , GTPR Gdynia , Lotos Gdynia",
+      "seats_fixed": 3324,
+      "seats_retractable": 947,
+      "seats_total": 4271
+    },
+    {
+      "city": "Olsztyn",
+      "name": "Hala Urania",
+      "year_built": 1978,
+      "teams": "AZS Olsztyn , OKPR Olsztyn",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 4046
+    },
+    {
+      "city": "Lublin",
+      "name": "Globus",
+      "year_built": 2006,
+      "teams": "SPR Lublin , TBV Start Lublin , Luk Lublin",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3909
+    },
+    {
+      "city": "Lubin",
+      "name": "Hala widowiskowo-sportowa RCS w Lubinie",
+      "year_built": 2014,
+      "teams": "Zagłębie Lubin – kobiety Zagłębie Lubin – mężczyźni",
+      "seats_fixed": 2134,
+      "seats_retractable": 1580,
+      "seats_total": 3714
+    },
+    {
+      "city": "Poznań",
+      "name": "Arena",
+      "year_built": 1974,
+      "teams": "Basket Poznań",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3600
+    },
+    {
+      "city": "Włocławek",
+      "name": "Hala Mistrzów",
+      "year_built": 2001,
+      "teams": "Anwil Włocławek",
+      "seats_fixed": 3500,
+      "seats_retractable": "",
+      "seats_total": 3500
+    },
+    {
+      "city": "Zgorzelec",
+      "name": "PGE Turów Arena",
+      "year_built": 2014,
+      "teams": "Turów Zgorzelec",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3500
+    },
+    {
+      "city": "Opole",
+      "name": "Stegu Arena",
+      "year_built": 1968,
+      "teams": "Gwardia Opole , Dreman Opole Komprachcice , UNI Opole",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3374
+    },
+    {
+      "city": "Kielce",
+      "name": "Hala Legionów",
+      "year_built": 2006,
+      "teams": "Barlinek Industria Kielce",
+      "seats_fixed": 3000,
+      "seats_retractable": 300,
+      "seats_total": 3300
+    },
+    {
+      "city": "Kalisz",
+      "name": "Arena Kalisz",
+      "year_built": 2006,
+      "teams": "MKS Kalisz (piłka ręczna) , SSK Calisia Kalisz",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3164
+    },
+    {
+      "city": "Puławy",
+      "name": "Grupa Azoty Arena",
+      "year_built": 2020,
+      "teams": "KS Azoty-Puławy",
+      "seats_fixed": 1412,
+      "seats_retractable": 1726,
+      "seats_total": 3138
+    },
+    {
+      "city": "Ostrowiec Świętokrzyski",
+      "name": "Hala sportowo-widowiskowa KSZO",
+      "year_built": 2011,
+      "teams": "AZS KSZO Ostrowiec Świętokrzyski , KSZO Ostrowiec Świętokrzyski sekcja piłki ręcznej",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3094
+    },
+    {
+      "city": "Ostrów Wielkopolski",
+      "name": "Arena Ostrów",
+      "year_built": 2020,
+      "teams": "Stal Ostrów Wielkopolski , Ostrovia",
+      "seats_fixed": 1756,
+      "seats_retractable": 1330,
+      "seats_total": 3086
+    },
+    {
+      "city": "Bielsko-Biała",
+      "name": "Hala pod Dębowcem (BBOSiR)",
+      "year_built": 2010,
+      "teams": "BKS Aluprof",
+      "seats_fixed": 3053,
+      "seats_retractable": 0,
+      "seats_total": 3053
+    },
+    {
+      "city": "Sosnowiec",
+      "name": "Arena Sosnowiec",
+      "year_built": 2023,
+      "teams": "Zagłębie Sosnowiec (koszykówka kobiet)",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3052
+    },
+    {
+      "city": "Łódź",
+      "name": "Hala im. Józefa „Ziuny” Żylińskiego",
+      "year_built": 2018,
+      "teams": "ŁKS Łódź , Budowlani Łódź",
+      "seats_fixed": 2129,
+      "seats_retractable": 888,
+      "seats_total": 3017
+    },
+    {
+      "city": "Koszalin",
+      "name": "Hala Widowiskowo-Sportowa w Koszalinie",
+      "year_built": 2012,
+      "teams": "AZS Koszalin , AZS Politechnika Koszalińska",
+      "seats_fixed": 2242,
+      "seats_retractable": 758,
+      "seats_total": 3015
+    },
+    {
+      "city": "Jastrzębie-Zdrój",
+      "name": "Hala Widowiskowo-Sportowa w Jastrzębiu-Zdroju",
+      "year_built": 1971,
+      "teams": "KS Jastrzębski Węgiel",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3005
+    },
+    {
+      "city": "Sanok",
+      "name": "Arena Sanok",
+      "year_built": 2006,
+      "teams": "STS Sanok",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3000
+    },
+    {
+      "city": "Pruszków",
+      "name": "Hala Znicz",
+      "year_built": 2018,
+      "teams": "",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 3000
+    },
+    {
+      "city": "Tomaszów Mazowiecki",
+      "name": "Arena Lodowa",
+      "year_built": 2017,
+      "teams": "Pilica Tomaszów Mazowiecki",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": "3000 (?)"
+    },
+    {
+      "city": "Toruń",
+      "name": "Tor-Tor",
+      "year_built": 1960,
+      "teams": "TKH Toruń , short track , Axel Toruń",
+      "seats_fixed": 2997,
+      "seats_retractable": 0,
+      "seats_total": 2997
+    },
+    {
+      "city": "Dąbrowa Górnicza",
+      "name": "Hala Widowiskowo-Sportowa Centrum",
+      "year_built": 2004,
+      "teams": "Tauron MKS Dąbrowa Górnicza",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2944
+    },
+    {
+      "city": "Kędzierzyn-Koźle",
+      "name": "Azoty",
+      "year_built": 2005,
+      "teams": "ZAKSA Kędzierzyn-Koźle",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2913
+    },
+    {
+      "city": "Wrocław",
+      "name": "Hala „Orbita”",
+      "year_built": 2004,
+      "teams": "Gwardia Wrocław",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2816
+    },
+    {
+      "city": "Nysa",
+      "name": "Hala Nysa",
+      "year_built": 2017,
+      "teams": "Stal Nysa",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2500
+    },
+    {
+      "city": "Bełchatów",
+      "name": "Hala „Energia” im. Edwarda Najgebauera",
+      "year_built": 2006,
+      "teams": "",
+      "seats_fixed": 1611,
+      "seats_retractable": 866,
+      "seats_total": 2480
+    },
+    {
+      "city": "Nowy Targ",
+      "name": "Miejska Hala Lodowa w Nowym Targu",
+      "year_built": 1975,
+      "teams": "Podhale Nowy Targ",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2362
+    },
+    {
+      "city": "Suwałki",
+      "name": "Suwałki Arena",
+      "year_built": 2019,
+      "teams": "Ślepsk Malow Suwałki",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2121
+    },
+    {
+      "city": "Elbląg",
+      "name": "Centrum Sportowo-Biznesowe w Elblągu",
+      "year_built": 2007,
+      "teams": "Start Elbląg",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2066
+    },
+    {
+      "city": "Wałbrzych",
+      "name": "Hala Widowiskowo-Sportowa AQUA ZDRÓJ",
+      "year_built": 2013,
+      "teams": "Górnik Wałbrzych , MKS Aqua-Zdrój Wałbrzych",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2000
+    },
+    {
+      "city": "Warszawa",
+      "name": "Arena Ursynów",
+      "year_built": 2007,
+      "teams": "AZS Politechnika Warszawska",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2000
+    },
+    {
+      "city": "Bełchatów",
+      "name": "Hala Widowiskowo-Sportowa Centrum Sportu",
+      "year_built": "",
+      "teams": "",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": "2000 (?)"
+    },
+    {
+      "city": "Kraków",
+      "name": "Hala Wisły Kraków",
+      "year_built": 1954,
+      "teams": "Wisła Kraków (koszykówka) , TS Wisła Can-Pack Kraków , Wisła Kraków (piłka siatkowa kobiet)",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 2000
+    },
+    {
+      "city": "Pruszków",
+      "name": "Tor kolarski BGŻ BNP Paribas Arena",
+      "year_built": 2008,
+      "teams": "brak",
+      "seats_fixed": 1800,
+      "seats_retractable": 0,
+      "seats_total": 1800
+    },
+    {
+      "city": "Zabrze",
+      "name": "Hala Widowiskowo-Sportowa MOSiR",
+      "year_built": "ok. 1975",
+      "teams": "brak",
+      "seats_fixed": 1707,
+      "seats_retractable": 70,
+      "seats_total": 1777
+    },
+    {
+      "city": "Częstochowa",
+      "name": "Hala Polonia",
+      "year_built": 1986,
+      "teams": "AZS Częstochowa , Tytan Częstochowa",
+      "seats_fixed": 1165,
+      "seats_retractable": 440,
+      "seats_total": 1605
+    },
+    {
+      "city": "Prudnik",
+      "name": "Hala „Obuwnik”",
+      "year_built": 1989,
+      "teams": "Pogoń Prudnik , SPS Prudnik , Obuwnik Prudnik , Zarzewie Prudnik",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": "1600 (ok.)"
+    },
+    {
+      "city": "Grodzisk Mazowiecki",
+      "name": "Hala Widowiskowo-Sportowa",
+      "year_built": 2022,
+      "teams": "",
+      "seats_fixed": 1567,
+      "seats_retractable": 0,
+      "seats_total": 1567
+    },
+    {
+      "city": "Bydgoszcz",
+      "name": "Grupa Moderator Arena",
+      "year_built": 2014,
+      "teams": "Astoria Bydgoszcz , Artego Bydgoszcz",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1470
+    },
+    {
+      "city": "Stalowa Wola",
+      "name": "Hala MOSiR",
+      "year_built": "",
+      "teams": "Stal Stalowa Wola",
+      "seats_fixed": 1455,
+      "seats_retractable": 0,
+      "seats_total": 1455
+    },
+    {
+      "city": "Warszawa",
+      "name": "Hala OSiR Bemowo",
+      "year_built": "",
+      "teams": "Legia Warszawa (koszykówka)",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1416
+    },
+    {
+      "city": "Słupsk",
+      "name": "Hala Gryfia",
+      "year_built": 1982,
+      "teams": "Czarni Słupsk",
+      "seats_fixed": 1410,
+      "seats_retractable": 0,
+      "seats_total": 1410
+    },
+    {
+      "city": "Bielsko-Biała",
+      "name": "BKS Stal Bielsko-Biała",
+      "year_built": 1988,
+      "teams": "brak",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1400
+    },
+    {
+      "city": "Kołobrzeg",
+      "name": "Hala Millenium",
+      "year_built": "",
+      "teams": "Kotwica Kołobrzeg",
+      "seats_fixed": 1306,
+      "seats_retractable": 0,
+      "seats_total": 1306
+    },
+    {
+      "city": "Głogów",
+      "name": "Hala widowiskowo-sportowa im. Ryszarda Matuszaka w Głogowie",
+      "year_built": 1998,
+      "teams": "Chrobry Głogów (piłka nożna) , Chrobry Głogów (piłka ręczna)",
+      "seats_fixed": 1265,
+      "seats_retractable": "",
+      "seats_total": 1265
+    },
+    {
+      "city": "Iława",
+      "name": "Hala Sportowo-Widowiskowa w Iławie",
+      "year_built": 2001,
+      "teams": "AZS Olsztyn (tymczasowo)",
+      "seats_fixed": 840,
+      "seats_retractable": 410,
+      "seats_total": 1250
+    },
+    {
+      "city": "Gniezno",
+      "name": "Hala widowiskowo-sportowa im. Mieczysława Łopatki",
+      "year_built": 2018,
+      "teams": "",
+      "seats_fixed": 1200,
+      "seats_retractable": 0,
+      "seats_total": 1200
+    },
+    {
+      "city": "Gorzów Wielkopolski",
+      "name": "Hala sportowa ZSTiO w Gorzowie Wielkopolskim",
+      "year_built": 1979,
+      "teams": "brak",
+      "seats_fixed": 784,
+      "seats_retractable": 316,
+      "seats_total": 1100
+    },
+    {
+      "city": "Police",
+      "name": "Hala sportowa im. Ignacego Łukasiewicza",
+      "year_built": 2013,
+      "teams": "Chemik Police",
+      "seats_fixed": 748,
+      "seats_retractable": 279,
+      "seats_total": 1027
+    },
+    {
+      "city": "Zabrze",
+      "name": "Hala „Pogoń”",
+      "year_built": 1987,
+      "teams": "Górnik Zabrze",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1000
+    },
+    {
+      "city": "Gorzów Wielkopolski",
+      "name": "Hala sportowa Akademii im. Jakuba z Paradyża w Gorzowie Wielkopolskim",
+      "year_built": "",
+      "teams": "AZS AJP II Gorzów Wielkopolski",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1000
+    },
+    {
+      "city": "Toruń",
+      "name": "Hala sportowo-widowiskowa SP 28",
+      "year_built": 1985,
+      "teams": "Budowlani Toruń , Anioły Toruń",
+      "seats_fixed": "",
+      "seats_retractable": "",
+      "seats_total": 1000
+    },
+    {
+      "city": "Toruń",
+      "name": "Hala sportowa ZSPS i VIII LO",
+      "year_built": 1978,
+      "teams": "Katarzynki Toruń , Twarde Pierniki Toruń , Budowlani Toruń",
+      "seats_fixed": 1000,
+      "seats_retractable": "",
+      "seats_total": ""
+    }
+  ],
+  "meta": {
+    "title": "Hale sportowe i widowiskowe w Polsce - Free Download",
+    "description": "Lista największych hal sportowych i widowiskowych w Polsce z rokiem budowy, drużynami gospodarzy i liczbą miejsc na trybunach Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hale sportowe i widowiskowe w Polsce | ListBase",
+    "seo_description": "Download Hale sportowe i widowiskowe w Polsce — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_hal_sportowych_i_widowiskowych_w_Polsce"
+    ]
+  }
+}

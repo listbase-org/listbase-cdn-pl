@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:51.831Z",
-  "total_datasets": 518,
-  "total_records": 1091937,
+  "generated": "2026-10-30T02:16:58.693Z",
+  "total_datasets": 519,
+  "total_records": 1092011,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -12526,6 +12526,34 @@
         "xlsx": {
           "name": "pl-wojewodztwa-wskaznik-rozwoju-spolecznego_PL.xlsx",
           "size": 7440
+        }
+      }
+    },
+    {
+      "id": "pl-hale-sportowe",
+      "name": "Hale sportowe i widowiskowe w Polsce",
+      "category": "sports",
+      "record_count": 74,
+      "columns": [
+        "city",
+        "name",
+        "year_built",
+        "teams",
+        "seats_fixed",
+        "seats_retractable",
+        "seats_total"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_hal_sportowych_i_widowiskowych_w_Polsce",
+      "updated": "2026-10",
+      "size": 19646,
+      "files": {
+        "csv": {
+          "name": "pl-hale-sportowe_PL.csv",
+          "size": 7049
+        },
+        "xlsx": {
+          "name": "pl-hale-sportowe_PL.xlsx",
+          "size": 11554
         }
       }
     },
