@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-29T02:19:46.225Z",
-  "total_datasets": 513,
-  "total_records": 1091373,
+  "generated": "2026-10-30T02:16:23.787Z",
+  "total_datasets": 514,
+  "total_records": 1091681,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -1207,6 +1207,35 @@
         "xlsx": {
           "name": "pl-bary-szybkiej-obslugi_PL.xlsx",
           "size": 325922
+        }
+      }
+    },
+    {
+      "id": "pl-browary",
+      "name": "Browary w Polsce",
+      "category": "food",
+      "record_count": 308,
+      "columns": [
+        "name",
+        "city",
+        "voivodeship",
+        "year_founded",
+        "capacity_hl",
+        "brands",
+        "group",
+        "notes"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Browary_w_Polsce",
+      "updated": "2026-10",
+      "size": 76834,
+      "files": {
+        "csv": {
+          "name": "pl-browary_PL.csv",
+          "size": 26977
+        },
+        "xlsx": {
+          "name": "pl-browary_PL.xlsx",
+          "size": 23745
         }
       }
     },

@@ -1,0 +1,3146 @@
+{
+  "id": "pl-browary",
+  "name": "Browary w Polsce",
+  "title": "Browary w Polsce",
+  "description": "Lista browarów w Polsce (koncernowe, regionalne i rzemieślnicze) z miejscowością, województwem, rokiem założenia, mocami produkcyjnymi i markami piwa",
+  "category": "food",
+  "source": "https://pl.wikipedia.org/wiki/Browary_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Browary_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 308,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "year_founded",
+      "label": "Year Founded",
+      "type": "number"
+    },
+    {
+      "key": "capacity_hl",
+      "label": "Capacity Hl",
+      "type": "string"
+    },
+    {
+      "key": "brands",
+      "label": "Brands",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Browar Bosman",
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 1845,
+      "capacity_hl": "1,6 mln",
+      "brands": "Bosman , Harnaś, Piast, Carlsberg, Tuborg, Grimbergen",
+      "group": "Carlsberg Polska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Kasztelan",
+      "city": "Sierpc",
+      "voivodeship": "mazowieckie",
+      "year_founded": 1969,
+      "capacity_hl": "2,5 mln",
+      "brands": "Kasztelan , Harnaś , Okocim",
+      "group": "Carlsberg Polska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Okocim",
+      "city": "Brzesko",
+      "voivodeship": "małopolskie",
+      "year_founded": 1845,
+      "capacity_hl": "5,8 mln",
+      "brands": "Carlsberg, Okocim , Harnaś , Piast , Książ",
+      "group": "Carlsberg Polska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Dojlidy",
+      "city": "Białystok",
+      "voivodeship": "podlaskie",
+      "year_founded": 1891,
+      "capacity_hl": "2,2 mln",
+      "brands": "Dębowe Mocne , Żubr",
+      "group": "Kompania Piwowarska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Książęcy",
+      "city": "Tychy",
+      "voivodeship": "śląskie",
+      "year_founded": 1629,
+      "capacity_hl": "8,0 mln",
+      "brands": "Książęce, Tyskie , Wojak",
+      "group": "Kompania Piwowarska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Lech",
+      "city": "Poznań",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1975,
+      "capacity_hl": "7,5 mln",
+      "brands": "Lech , Redd’s",
+      "group": "Kompania Piwowarska",
+      "notes": ""
+    },
+    {
+      "name": "Browar Braniewo",
+      "city": "Braniewo",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 1854,
+      "capacity_hl": "1,0 mln",
+      "brands": "Braniewo, Kuflowe",
+      "group": "Van Pur",
+      "notes": ""
+    },
+    {
+      "name": "Browary Górnośląskie",
+      "city": "Zabrze",
+      "voivodeship": "śląskie",
+      "year_founded": 1860,
+      "capacity_hl": "1,25 mln",
+      "brands": "Super Piwosz, Śląskie",
+      "group": "Van Pur",
+      "notes": ""
+    },
+    {
+      "name": "Browar Jędrzejów",
+      "city": "Jędrzejów",
+      "voivodeship": "świętokrzyskie",
+      "year_founded": 1823,
+      "capacity_hl": "0,42 mln",
+      "brands": "Rybnicki Full, Strzelec",
+      "group": "Van Pur",
+      "notes": ""
+    },
+    {
+      "name": "Browar Łomża",
+      "city": "Łomża",
+      "voivodeship": "podlaskie",
+      "year_founded": 1968,
+      "capacity_hl": "1,0 mln",
+      "brands": "Łomża , Korona",
+      "group": "Van Pur",
+      "notes": ""
+    },
+    {
+      "name": "Browar Van Pur",
+      "city": "Rakszawa",
+      "voivodeship": "podkarpackie",
+      "year_founded": 1993,
+      "capacity_hl": "1,2 mln",
+      "brands": "Karpackie, Van Pur",
+      "group": "Van Pur",
+      "notes": ""
+    },
+    {
+      "name": "Browar Elbląg",
+      "city": "Elbląg",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 1872,
+      "capacity_hl": "3,0 mln",
+      "brands": "EB , Specjal",
+      "group": "Grupa Żywiec",
+      "notes": ""
+    },
+    {
+      "name": "Browar Leżajsk",
+      "city": "Leżajsk",
+      "voivodeship": "podkarpackie",
+      "year_founded": 1978,
+      "capacity_hl": "3,0 mln",
+      "brands": "Leżajsk , EB , Tatra",
+      "group": "Grupa Żywiec",
+      "notes": ""
+    },
+    {
+      "name": "Browar Namysłów",
+      "city": "Namysłów",
+      "voivodeship": "opolskie",
+      "year_founded": 1862,
+      "capacity_hl": "1,0 mln",
+      "brands": "Namysłów (Pils, Niepasteryzowane, Białe Pszeniczne, Zamkowe, Złoty Denar)",
+      "group": "Grupa Żywiec",
+      "notes": ""
+    },
+    {
+      "name": "Browar Warka",
+      "city": "Warka",
+      "voivodeship": "mazowieckie",
+      "year_founded": 1975,
+      "capacity_hl": "3,5 mln",
+      "brands": "Heineken, Kujawiak , Królewskie , Strong, Warka",
+      "group": "Grupa Żywiec",
+      "notes": ""
+    },
+    {
+      "name": "Browar Żywiec",
+      "city": "Żywiec",
+      "voivodeship": "śląskie",
+      "year_founded": 1856,
+      "capacity_hl": "5,5 mln",
+      "brands": "Desperados , Freeq, Żywiec Jasne, Żywiec Marcowe, Żywiec Bock, Żywiec Białe",
+      "group": "Grupa Żywiec",
+      "notes": ""
+    },
+    {
+      "name": "Alchemik",
+      "city": "Rybczewice Drugie",
+      "voivodeship": "Lubelskie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "AleBrowar",
+      "city": "Lębork",
+      "voivodeship": "pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "20 tys.",
+      "brands": "Rowing Jack, Lady Blanche, Smoky Joe, Hard Bride",
+      "group": "",
+      "notes": "Powstał jako rozwinięcie browaru kontraktowego AleBrowar (2012-2017)"
+    },
+    {
+      "name": "Aleksandria",
+      "city": "Aleksandrów Drugi",
+      "voivodeship": "lubelskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Amber",
+      "city": "Bielkówko",
+      "voivodeship": "pomorskie",
+      "year_founded": 1994,
+      "capacity_hl": "200 tys.",
+      "brands": "Żywe, Złote Lwy, Koźlak, Grand Imperial Porter, Pszeniczniak, Johannes, Amber Chmielowy",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Anders",
+      "city": "Syców",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Antybrowar",
+      "city": "Głowno",
+      "voivodeship": "łódzkie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "Proboszcz, Proletariat, Antylopa, Waleczne, Profesor, Antydepresant, Antygrawitacja, Promotor",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Artezan",
+      "city": "Natolin Błonie",
+      "voivodeship": "mazowieckie",
+      "year_founded": "2012 2015",
+      "capacity_hl": "3 tys.",
+      "brands": "Bière blanche, Pacific",
+      "group": "",
+      "notes": "Do 2015 działał w Natolinie, następnie przeniósł się do Błonia. Browar w Natolinie przejął Browar Bazyliszek, który działał do 2020 r."
+    },
+    {
+      "name": "Bar a Boo",
+      "city": "Lublin",
+      "voivodeship": "lubelskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w dawnym lokalu Bierhalle"
+    },
+    {
+      "name": "Balans Browar Rzemieślniczy",
+      "city": "Zabrodzie",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bartek",
+      "city": "Cieśle",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1992,
+      "capacity_hl": "1000",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bastion",
+      "city": "Blizne Łaszczyńskiego",
+      "voivodeship": "mazowieckie",
+      "year_founded": "2018-2024",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bednary",
+      "city": "Bednary",
+      "voivodeship": "łódzkie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "Piwo Łowickie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "BeerLab",
+      "city": "Łoziska",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "BeerLab, Rubio, Estilo, Desir, Rogue, Piaseczyńskie, Lesznowolskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Beskid",
+      "city": "Jodłownik",
+      "voivodeship": "małopolskie",
+      "year_founded": 2023,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Beskidzki",
+      "city": "Żywiec",
+      "voivodeship": "śląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Jeden z najmniejszych komercyjnych browarów w Polsce"
+    },
+    {
+      "name": "Biały",
+      "city": "Łyski",
+      "voivodeship": "podlaskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bielitzer",
+      "city": "Bielsko-Biała",
+      "voivodeship": "śląskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny. Pełna nazwa: Browar Miejski Bielitzer"
+    },
+    {
+      "name": "Bierhalle",
+      "city": "Katowice",
+      "voivodeship": "śląskie",
+      "year_founded": 2006,
+      "capacity_hl": "1 tys.",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Bierhalle",
+      "city": "Bydgoszcz",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Bierhalle",
+      "city": "Łódź",
+      "voivodeship": "łódzkie",
+      "year_founded": "2006-2023",
+      "capacity_hl": "1000",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Bierhalle",
+      "city": "Warszawa",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2005,
+      "capacity_hl": "1800",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w CH Arkadia"
+    },
+    {
+      "name": "Bierhalle",
+      "city": "Warszawa (2)",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Błonie",
+      "city": "Błonie",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2018,
+      "capacity_hl": "50 tys.",
+      "brands": "",
+      "group": "",
+      "notes": "Założony przez browar kontraktowy Inne Beczki (zał.: 2015)"
+    },
+    {
+      "name": "Bojanowo",
+      "city": "Bojanowo",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1881,
+      "capacity_hl": "120 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bóbr",
+      "city": "Limanowa",
+      "voivodeship": "małopolskie",
+      "year_founded": 2023,
+      "capacity_hl": "",
+      "brands": "BO-BEER, Serce Beskidu, Duch Pienin, Tatrzańskie, Tatrzańskie Premium, The Legendary Old American Ale",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Brewicz",
+      "city": "Rawicz",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Brofaktura",
+      "city": "Siedlce",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Brokreacja",
+      "city": "Zator",
+      "voivodeship": "małopolska",
+      "year_founded": 2025,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Brovaria",
+      "city": "Poznań",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2004,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Browarnia",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": 2008,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Browarnia Sobótka-Górka",
+      "city": "Sobótka",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Browar Piotrków",
+      "city": "Piotrków Tryb.",
+      "voivodeship": "łódzkie",
+      "year_founded": 1999,
+      "capacity_hl": "1 mln",
+      "brands": "Cornelius, Trybunał",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Browar Stu Mostów",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2014,
+      "capacity_hl": "10 tys.",
+      "brands": "WRCLW (Pils, Dunkelweizen, Roggenbier), Salamander (AIPA, Pale Ale, American Wheat, Wheat Porter, Strong Witbier), Art (Doppel Weizenbock German IPA i.in.)",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Brovca",
+      "city": "Cecele",
+      "voivodeship": "podlaskie",
+      "year_founded": "2017-2024",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Browarka",
+      "city": "Warka",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Brzeg",
+      "city": "Brzeg",
+      "voivodeship": "opolskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w hotelu"
+    },
+    {
+      "name": "Bury",
+      "city": "Jaworzno",
+      "voivodeship": "śląskie",
+      "year_founded": 2019,
+      "capacity_hl": "7 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Bytów",
+      "city": "Bytów",
+      "voivodeship": "pomorskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "Bytów, Polka Pils, Pomorzanin",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Caminus",
+      "city": "Kąty Wrocławskie",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "Unum (New Zealand Pale Ale), Duo(Irish Red Ale), Tres (Oatmeal Stout)",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Challenger",
+      "city": "Paszczyna",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Chełmiński",
+      "city": "Chełmno",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Chmiele Nałęczowskie",
+      "city": "Przybysławice",
+      "voivodeship": "lubelskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Chmury",
+      "city": "Giżycko",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Ciechan",
+      "city": "Ciechanów",
+      "voivodeship": "mazowieckie",
+      "year_founded": 1864,
+      "capacity_hl": "60 tys.",
+      "brands": "Ciechan Miodowe , Ciechan Wyborne , Ciechan Mocne, Ciechan Marcowe, Ciechan Shandy, Ciechan Stout, Ciechan AIPA, Krzepiak, Porter Grudniowy",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "C.K. Browar",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 1996,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Czarna Owca",
+      "city": "Semlin",
+      "voivodeship": "pomorskie",
+      "year_founded": 2016,
+      "capacity_hl": "1 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Czarnków",
+      "city": "Czarnków",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1893,
+      "capacity_hl": "50 tys.",
+      "brands": "Noteckie , Eire Noteckie, Gniewosz",
+      "group": "",
+      "notes": "Należy do Browar Czarnków S.A.. W pierwszej połowie 2020 r. spółka wstrzymała produkcję ze względu na trudną sytuację na rynku piwa"
+    },
+    {
+      "name": "Czarnków",
+      "city": "Kamionka",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Należy do Browar Czarnków S.A."
+    },
+    {
+      "name": "Czarter",
+      "city": "Złotniki",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Czenstochovia",
+      "city": "Częstochowa",
+      "voivodeship": "śląskie",
+      "year_founded": 2009,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Cześć Brat!",
+      "city": "Jelcz-Laskowice",
+      "voivodeship": "dolnośląskie",
+      "year_founded": "2019-2024",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Cztery Ściany",
+      "city": "Trzebnica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "De Facto",
+      "city": "Zgoda",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "Granat Chmielowy, Mgławica, Poranek w Tokio, Hegemon",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Dobosz",
+      "city": "Świnoujście",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Dobry",
+      "city": "Gniezno",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Dolina Bobru",
+      "city": "Wleń",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Dukla",
+      "city": "Cergowa",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Duma",
+      "city": "Białystok",
+      "voivodeship": "podlaskie",
+      "year_founded": "",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Duszniki",
+      "city": "Duszniki-Zdrój",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Dwie Wieże",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2017,
+      "capacity_hl": "1280",
+      "brands": "",
+      "group": "",
+      "notes": "Współudziałowcem jest browar kontraktowy Bagry"
+    },
+    {
+      "name": "Dziedzice",
+      "city": "Czechowice-Dziedzice",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Edi",
+      "city": "Nowa Wieś",
+      "voivodeship": "lubuskie",
+      "year_founded": 1996,
+      "capacity_hl": "6500",
+      "brands": "Wschowskie, Dworskie, Swojskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Eureka",
+      "city": "Sądkowa",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Extract",
+      "city": "Tyniec",
+      "voivodeship": "małopolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Folga",
+      "city": "Gryfice",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Fortuna",
+      "city": "Miłosław",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1889,
+      "capacity_hl": "",
+      "brands": "Fortuna, Miłosław, Komes (Porter Bałtycki, RIS, Barley Wine i.in.)",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Four Winds",
+      "city": "Krynica Morska-Piaski",
+      "voivodeship": "pomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Furta",
+      "city": "Polkowice",
+      "voivodeship": "",
+      "year_founded": 2024,
+      "capacity_hl": "",
+      "brands": "Browar Kontraktowy",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Gloger Browar Miejski",
+      "city": "Białystok",
+      "voivodeship": "podlaskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Głubczyce",
+      "city": "Głubczyce",
+      "voivodeship": "opolskie",
+      "year_founded": 1856,
+      "capacity_hl": "",
+      "brands": "Rycerskie, Hammer",
+      "group": "",
+      "notes": "Zakłady Piwowarskie Głubczyce"
+    },
+    {
+      "name": "Gościszewo",
+      "city": "Gościszewo",
+      "voivodeship": "pomorskie",
+      "year_founded": 1991,
+      "capacity_hl": "20 tys.",
+      "brands": "Rycerz, Komtur, Darz Bór, Szeryf, Surfer, Rybak, 55",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Gościniec",
+      "city": "Chojnice",
+      "voivodeship": "pomorskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Górniczo-Hutniczy",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Green Head",
+      "city": "Działdowo",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Grodecki",
+      "city": "Gniewkowo",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Grodzisk",
+      "city": "Grodzisk Wielkopolski",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1880,
+      "capacity_hl": "90 tys.",
+      "brands": "Piwo z Grodziska, Bernardyńskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Grodzka 15",
+      "city": "Lublin",
+      "voivodeship": "lubelskie",
+      "year_founded": "2009-2024",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Grodzki",
+      "city": "Przemyśl",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Grudziądz",
+      "city": "Grudziądz",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Gzub",
+      "city": "Annopole",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Hopium",
+      "city": "Nowy Drzewicz",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Hopkins",
+      "city": "Gdynia",
+      "voivodeship": "pomorskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Hopkins",
+      "city": "Żyrardów",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar przejęty po Beer Bros, założonym w 2015 r."
+    },
+    {
+      "name": "Huzar",
+      "city": "Wola Mysłowska",
+      "voivodeship": "lubelskie",
+      "year_founded": "2019-2022",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Impuls",
+      "city": "Zduny",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Inbrand",
+      "city": "Opole Lubelskie",
+      "voivodeship": "lubelskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Incognito",
+      "city": "Kraśniczyn",
+      "voivodeship": "lubelskie",
+      "year_founded": "2018-2022",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "J.Baster",
+      "city": "Kraków",
+      "voivodeship": "Małopolska",
+      "year_founded": "",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jabeerwocky",
+      "city": "Domaniewek",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jabłonowo",
+      "city": "Jabłonowo",
+      "voivodeship": "mazowieckie",
+      "year_founded": 1992,
+      "capacity_hl": "",
+      "brands": "Imperator, Strong, Belfast, Jabłonowo Mocne",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jagiełło",
+      "city": "Pokrówka",
+      "voivodeship": "lubelskie",
+      "year_founded": 1993,
+      "capacity_hl": "20 tys.",
+      "brands": "Magnus",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jan Olbracht",
+      "city": "Piotrków Tryb.",
+      "voivodeship": "łódzkie",
+      "year_founded": 2014,
+      "capacity_hl": "10 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jan Olbracht",
+      "city": "Toruń",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2012,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Jana",
+      "city": "Zawiercie",
+      "voivodeship": "śląskie",
+      "year_founded": 2015,
+      "capacity_hl": "12 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jastrzębie",
+      "city": "Jastrzębie-Zdrój",
+      "voivodeship": "Śląskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jauer",
+      "city": "Nowa Wieś Legnicka",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Jedlinka",
+      "city": "Jedlina-Zdrój",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2014,
+      "capacity_hl": "5 tys.",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kamienica",
+      "city": "Kamienica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "300",
+      "brands": "Narciarskie, Śnieżnickie, Zimowe",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kaszubska Korona",
+      "city": "Szymbark",
+      "voivodeship": "pomorskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kazimierz",
+      "city": "Podłęże",
+      "voivodeship": "małopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Kociewski",
+      "city": "Starogard Gdański",
+      "voivodeship": "pomorskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kolwin",
+      "city": "Łask",
+      "voivodeship": "łódzkie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Koło",
+      "city": "Koło",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Końska Grzywa",
+      "city": "Rumia",
+      "voivodeship": "pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Koreb",
+      "city": "Łask",
+      "voivodeship": "łódzkie",
+      "year_founded": 2005,
+      "capacity_hl": "",
+      "brands": "Łaskie, Herbowe",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Kormoran",
+      "city": "Olsztyn",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 1993,
+      "capacity_hl": "50 tys.",
+      "brands": "Kormoran, Porter Warmiński, Warnijskie, Orkiszowe, Rześkie, Świeże, Krzepkie, Warmiak, Irish Beer, Wiśnia w Piwie, Miodne, Podpiwek Warmiński, Podróże Kormorana",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Koronowo",
+      "city": "Koronowo",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Kościerzyna",
+      "city": "Kościerzyna",
+      "voivodeship": "pomorskie",
+      "year_founded": "2017-2022",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Kowal",
+      "city": "Koszalin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2008,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kozak",
+      "city": "Chełm",
+      "voivodeship": "Lubelskie",
+      "year_founded": 2023,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Kraftowy Browar & Tapas",
+      "city": "Bartoszyce",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Kraftwerk",
+      "city": "Rzuchów",
+      "voivodeship": "śląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Krajan",
+      "city": "Trzeciewnica",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": "1993 - 2025",
+      "capacity_hl": "100 tys.",
+      "brands": "Bawar, Czarny Koń, Jakt, Krajan, Nakielskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Krajcar",
+      "city": "Żywiec",
+      "voivodeship": "śląskie",
+      "year_founded": 2012,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Krakowski",
+      "city": "Płock",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2006,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w Hotelu Płock"
+    },
+    {
+      "name": "Książęcy Browar Nysa",
+      "city": "Nysa",
+      "voivodeship": "opolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Księży Młyn",
+      "city": "Łódź",
+      "voivodeship": "łódzkie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Largus",
+      "city": "Ostroróg",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Lasowiak",
+      "city": "Jata",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Lubicz",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Lublin",
+      "city": "Lublin",
+      "voivodeship": "lubelskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Lubrow",
+      "city": "Borcz",
+      "voivodeship": "pomorskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny, przeniesiony z Gdańska, gdzie działał w latach 2013–2019"
+    },
+    {
+      "name": "Lwów",
+      "city": "Lublin",
+      "voivodeship": "lubelskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Browar Lwówek",
+      "city": "Lwówek Śląski",
+      "voivodeship": "dolnośląskie",
+      "year_founded": "1850 (1209)",
+      "capacity_hl": "80 tys.",
+      "brands": "Porter, Wrocławskie, Ratuszowy, Bezalkoholowy, Książęcy, Malinowe, Jankes, Miodowe, Pszeniczny, Porter Bałtycki, Karkonoskie",
+      "group": "",
+      "notes": "W 2018 wydzierżawiony przez browar kontraktowy Doctor Brew od Browarów Regionalnych Jakubiak"
+    },
+    {
+      "name": "Łańcut",
+      "city": "Łańcut",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Łażany",
+      "city": "Żarów",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2021,
+      "capacity_hl": "60hl",
+      "brands": "Łażany",
+      "group": "",
+      "notes": "Browar przejęty po Hoppy Lab, założonym w 2016 r."
+    },
+    {
+      "name": "Łąkomin",
+      "city": "Łąkomin",
+      "voivodeship": "lubuskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Browary Łódzkie",
+      "city": "Łódź",
+      "voivodeship": "łódzkie",
+      "year_founded": 1867,
+      "capacity_hl": "",
+      "brands": "Junak, Porter Łódzki, Sarmackie Mocne",
+      "group": "",
+      "notes": "Browary Łódzkie"
+    },
+    {
+      "name": "Majer",
+      "city": "Gliwice",
+      "voivodeship": "śląskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Manufaktura",
+      "city": "Rzeszów",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Mariacki",
+      "city": "Katowice",
+      "voivodeship": "śląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Markowy",
+      "city": "Hajnówka",
+      "voivodeship": "podlaskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Maryensztadt",
+      "city": "Zwoleń",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Marysia",
+      "city": "Szczyrzyc",
+      "voivodeship": "małopolskie",
+      "year_founded": 2009,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Mazurski",
+      "city": "Ełk",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2015,
+      "capacity_hl": "3 tys.",
+      "brands": "Mazurskie, Ełckie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Metalurgia",
+      "city": "Radomsko",
+      "voivodeship": "Łódzkie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Miedzianka",
+      "city": "Miedzianka",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Miedziowy 44",
+      "city": "Świnoujście",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "1500",
+      "brands": "Pils, German Hefeweizen, Milk Stout",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Miejski",
+      "city": "Sopot",
+      "voivodeship": "pomorskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Miejski",
+      "city": "Stargard",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Miejski Pompa",
+      "city": "Rumia",
+      "voivodeship": "Pomorskie",
+      "year_founded": 2025,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Mikołajki",
+      "city": "Stare Sady",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Milicz",
+      "city": "Milicz",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Muczne",
+      "city": "Muczne",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Nadwarciański",
+      "city": "Pątnów",
+      "voivodeship": "łódzkie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "na Jurze",
+      "city": "Zawiercie",
+      "voivodeship": "śląskie",
+      "year_founded": 1997,
+      "capacity_hl": "20 tys.",
+      "brands": "Zawiercie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Nepomucen",
+      "city": "Szkaradowo",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Niechanowo",
+      "city": "Niechanowo",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1974,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Nieczajna",
+      "city": "Nieczajna",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Nowa Wytwórnia",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Brewpub należący do Carlsberg Polska"
+    },
+    {
+      "name": "Nowy",
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Nowy Browar Gdański",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Odra Barrels",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": "2015-2024",
+      "capacity_hl": "500",
+      "brands": "",
+      "group": "",
+      "notes": "Browar przejęty w 2021 r. po Warsztacie Piwowarskim, założonym w 2015 r."
+    },
+    {
+      "name": "Opolski",
+      "city": "Krośnica",
+      "voivodeship": "opolskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Osjann",
+      "city": "Biała Podlaska",
+      "voivodeship": "lubelskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Osowa Góra",
+      "city": "Bydgoszcz",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Otwarte Bramy",
+      "city": "Pruszków",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Palatum",
+      "city": "Warszawa",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Pałacowy",
+      "city": "Siemianowice Śląskie",
+      "voivodeship": "śląskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Pałac Żelechów",
+      "city": "Żelechów",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w Pałacu Żelechów"
+    },
+    {
+      "name": "Perła",
+      "city": "Lublin",
+      "voivodeship": "lubelskie",
+      "year_founded": 1912,
+      "capacity_hl": "1700 tys.",
+      "brands": "Goolman , Perła Chmielowa, Perła Export, Perła Niepasteryzowana, Perła Mocna, Perła Koźlak, Lubelskie Pils, Lubelskie Mocne, Trybunalskie Miodowe, Zwierzyniec , Perła Miodowa",
+      "group": "",
+      "notes": "Perła – Browary Lubelskie"
+    },
+    {
+      "name": "Personall Kraft",
+      "city": "Stary Sącz",
+      "voivodeship": "małopolskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Perun",
+      "city": "Budziszyn",
+      "voivodeship": "mazowieckie",
+      "year_founded": "2017-2023",
+      "capacity_hl": "9 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "PG4",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Piekarnia Piwa",
+      "city": "Niezdara",
+      "voivodeship": "śląskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Pilsweizer",
+      "city": "Grybów",
+      "voivodeship": "małopolskie",
+      "year_founded": 1887,
+      "capacity_hl": "80 tys.",
+      "brands": "Lach Pełne, Pilsweiser",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "PINTA",
+      "city": "Wieprz",
+      "voivodeship": "śląskie",
+      "year_founded": 2019,
+      "capacity_hl": "50 tys.",
+      "brands": "Atak Chmielu, Viva la Vita, Pierwsza Pomoc, Kwas Theta",
+      "group": "",
+      "notes": "Założony przez browar kontraktowy PINTA (2011-2019)"
+    },
+    {
+      "name": "Pinta Barrel Brewing",
+      "city": "Wieprz",
+      "voivodeship": "śląskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Osobny browar utworzony przez Browar Pinta do produkcji piw leżakowanych w beczkach"
+    },
+    {
+      "name": "Pivovaria",
+      "city": "Radom",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2008,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Piwna",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": "2012-2022",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Piwnica Rajców",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Piwnica Świdnicka",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Piwoteka",
+      "city": "Łódź",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Podborze",
+      "city": "Podborze",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Pod Gruszą",
+      "city": "Stara Kraśnica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Podgórz",
+      "city": "Rabka-Zdrój",
+      "voivodeship": "małopolskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Podklasztorze",
+      "city": "Sulejów",
+      "voivodeship": "łódzkie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w Hotelu Podklasztorze"
+    },
+    {
+      "name": "Podolin",
+      "city": "Podolin",
+      "voivodeship": "Dolnośląskie",
+      "year_founded": 2025,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Pod Wielką Solą",
+      "city": "Wieliczka",
+      "voivodeship": "małopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Pod Zamkiem",
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Połczyn-Zdrój",
+      "city": "Połczyn-Zdrój",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 1825,
+      "capacity_hl": "350 tys.",
+      "brands": "Abbé Weizen, Brewer, Starovar",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Pompa",
+      "city": "Sieradz",
+      "voivodeship": "łódzkie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Popiel",
+      "city": "Kurozwęki",
+      "voivodeship": "świętokrzyskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny na terenie zamku"
+    },
+    {
+      "name": "Port",
+      "city": "Gdynia",
+      "voivodeship": "pomorskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Poziomka",
+      "city": "Kujanki",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w Gościńcu Poziomka"
+    },
+    {
+      "name": "Północny",
+      "city": "Suwałki",
+      "voivodeship": "podlaskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Prima Beer",
+      "city": "Międzyzdroje",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Probus",
+      "city": "Oława",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Profesja",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "10 tys.",
+      "brands": "Bard, Latarnik, Szofer, Inżynier, Przekupka, Alchemik, Dobosz",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Projekt Bunkier",
+      "city": "Lipnica Wielka",
+      "voivodeship": "małopolskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Prost",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Przełom",
+      "city": "Białowieża",
+      "voivodeship": "podlaskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Przetwórnia chmielu",
+      "city": "Księżenice",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Przystanek Tleń",
+      "city": "Osie",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Przystań",
+      "city": "Chorzów",
+      "voivodeship": "śląskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Psotnik",
+      "city": "Krzywiń",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Pukal",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "ReCraft",
+      "city": "Świętochłowice",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "d. Browar Reden Świętochłowice"
+    },
+    {
+      "name": "Reden",
+      "city": "Chorzów",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Reden",
+      "city": "Chorzów",
+      "voivodeship": "śląskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Drugi browar Redena w Chorzowie"
+    },
+    {
+      "name": "Resursa",
+      "city": "Chęciny",
+      "voivodeship": "świętokrzyskie",
+      "year_founded": 2025,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Restauracja & Browar"
+    },
+    {
+      "name": "Roch",
+      "city": "Nowe Rochowice",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "1400",
+      "brands": "ROCH",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Rock",
+      "city": "Jarocin",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "Punk Pils",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Rojber",
+      "city": "Jemielnica",
+      "voivodeship": "opolskie",
+      "year_founded": "2021-2023",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Rybnicki",
+      "city": "Rybnik",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Rynek",
+      "city": "Racibórz",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Sady",
+      "city": "Sady",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Salio",
+      "city": "Besiekierz Rudny",
+      "voivodeship": "łódzkie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Sami Swoi",
+      "city": "Głowno",
+      "voivodeship": "łódzkie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Sądecki",
+      "city": "Nowy Sącz",
+      "voivodeship": "małopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Siedlisko Janczar",
+      "city": "Pstrągowa",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Sir Beer",
+      "city": "Bytom",
+      "voivodeship": "śląskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Pierwotnie założony jako Minibrowar Piwnica Gawronów, od 2018 jako Sir Beer"
+    },
+    {
+      "name": "Słociak",
+      "city": "Opole",
+      "voivodeship": "opolskie",
+      "year_founded": 2012,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w Hotelu Słociak"
+    },
+    {
+      "name": "Słodowy Dwór",
+      "city": "Harasimowicze",
+      "voivodeship": "podlaskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Socho",
+      "city": "Kożuszki-Parcel",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Sowiduch",
+      "city": "Karpacz",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Spiż",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 1992,
+      "capacity_hl": "1000",
+      "brands": "",
+      "group": "",
+      "notes": "Najstarszy browar restauracyjny w Polsce"
+    },
+    {
+      "name": "Spiż",
+      "city": "Katowice",
+      "voivodeship": "śląskie",
+      "year_founded": 2005,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Spółdzielczy",
+      "city": "Puck",
+      "voivodeship": "pomorskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "Flagowe, Cumowe",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Stacja Filtracja",
+      "city": "Żnin",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny w ośrodku konferencyjno-wypoczynkowym Cukrownia Żnin"
+    },
+    {
+      "name": "Stacja Małomice",
+      "city": "Małomice",
+      "voivodeship": "lubuskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Stara Komenda",
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Stara Owczarnia",
+      "city": "Krężoły",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2022,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Stara Szkoła",
+      "city": "Osmola",
+      "voivodeship": "podlaskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Stara Zajezdnia",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Stargard",
+      "city": "Stargard",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Staromiejski Piwowar",
+      "city": "Legnica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Staropolski Browar Kultowy",
+      "city": "Zduńska Wola",
+      "voivodeship": "łódzkie",
+      "year_founded": 1892,
+      "capacity_hl": "180 tys.",
+      "brands": "Staropolskie, PRL, Kultowe, Złoty Ul, Anstadt, Pomorskie, Bestbir",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Stary Kraków",
+      "city": "Wronin",
+      "voivodeship": "małopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Założony przez najstarszy browar kontraktowy w Polsce Stary Kraków"
+    },
+    {
+      "name": "Stary Browar Kościerzyna",
+      "city": "Kościerzyna",
+      "voivodeship": "pomorskie",
+      "year_founded": 2018,
+      "capacity_hl": "50 tys.",
+      "brands": "Lager, Pszeniczne, Ciemna 10, Red Lager, AIPA, IPA, Feelemon, Obuch, Żurawinowe",
+      "group": "",
+      "notes": "Browar Kościerzyna Sp. z o.o."
+    },
+    {
+      "name": "Stary Browar Rzeszowski",
+      "city": "Rzeszów",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Stary Rynek",
+      "city": "Białystok",
+      "voivodeship": "podlaskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Stodoła",
+      "city": "Libusza",
+      "voivodeship": "małopolskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Such a Beer",
+      "city": "Śleszowice",
+      "voivodeship": "małopolskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Sulewski",
+      "city": "Hrubieszów",
+      "voivodeship": "lubelskie",
+      "year_founded": 2013,
+      "capacity_hl": "600",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Sun Brewing",
+      "city": "Węgrzce Wielkie",
+      "voivodeship": "małopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Szczyrzycki Browar Cystersów Gryf",
+      "city": "Szczyrzyc",
+      "voivodeship": "małopolskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "Opackie, Grodzisko, Przeora",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Szreniawa",
+      "city": "Szreniawa",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar w Muzeum Narodowym Rolnictwa i Przemysłu Rolno-Spożywczego"
+    },
+    {
+      "name": "Świdnica",
+      "city": "Świdnica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Tarczyn",
+      "city": "Tarczyn",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2005,
+      "capacity_hl": "20 tys.",
+      "brands": "Rysy",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Tarnobrzeg",
+      "city": "Tarnobrzeg",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2019,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "T.E.A. Time",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Tenczynek",
+      "city": "Tenczynek",
+      "voivodeship": "małopolskie",
+      "year_founded": 1553,
+      "capacity_hl": "100 tys.",
+      "brands": "Pils, Bock, Pszeniczne, Marcowe, Lager, American Wheat, Milk Stout, IPA, Miodowe, Buh, Český Ležák",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Trzy Korony",
+      "city": "Nowy Sącz",
+      "voivodeship": "małopolskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Trzy Korony Puławy",
+      "city": "Puławy",
+      "voivodeship": "lubelskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Tumska 13",
+      "city": "Płock",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Tumski",
+      "city": "Płock",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2008,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Turek",
+      "city": "Turek",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "Czarna Kaśka, WeizenTURek, Bursztynowa Afera, GOSK, Cudzoziemiec, ToURdePILS, Alba Cabra, Belgijska Mgła, Hop's Na TURa, Oaky Goaty, ROUTE 00, Opcja Zero",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Twigg",
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Ukiel",
+      "city": "Olsztyn",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Ułan",
+      "city": "Poznań",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Ursa Maior",
+      "city": "Uherce Mineralne",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2013,
+      "capacity_hl": "6 tys.",
+      "brands": "Deszcz w Cisnej, Wataha, Dwa Misie, Pantokrator, Podróżnik, Rejwach na Kazimierzu, No Guru, Przemytnik",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Vrest",
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Wagabunda",
+      "city": "Niechlów",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Warkot",
+      "city": "Łódź",
+      "voivodeship": "łódzkie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "Browar restauracyjny",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Warmia",
+      "city": "Olsztyn",
+      "voivodeship": "warmińsko-mazurskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Warzelnia Piwa",
+      "city": "Bydgoszcz",
+      "voivodeship": "kujawsko-pomorskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Waszczukowe",
+      "city": "Czarna Białostocka",
+      "voivodeship": "podlaskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Watra",
+      "city": "Zakopane",
+      "voivodeship": "małopolskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Wąsosz",
+      "city": "Wąsosz",
+      "voivodeship": "śląskie",
+      "year_founded": 1994,
+      "capacity_hl": "20 tys.",
+      "brands": "Marynka Pils, Wąsosz",
+      "group": "",
+      "notes": "d. Browar GAB, Browar Południe"
+    },
+    {
+      "name": "Wąsowo",
+      "city": "Wąsowo",
+      "voivodeship": "Wielkopolskie",
+      "year_founded": 2025,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "W Cieniu",
+      "city": "Kochłowice",
+      "voivodeship": "opolskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wehikuł",
+      "city": "Milanówek",
+      "voivodeship": "mazowieckie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Welders",
+      "city": "Jemielnica",
+      "voivodeship": "Opolskie",
+      "year_founded": 2023,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wiatr",
+      "city": "Uniejów",
+      "voivodeship": "łódzkie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Widawa",
+      "city": "Chrząstawa Mała",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2012,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wielka Sowa",
+      "city": "Bielawa",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wiejski Zakarczmie",
+      "city": "Leżajsk",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2023,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wieżyca",
+      "city": "Sobótka",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar z wyszynkiem"
+    },
+    {
+      "name": "Wirtuozeria",
+      "city": "Bielsko-Biała",
+      "voivodeship": "śląskie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Wisła",
+      "city": "Wisła",
+      "voivodeship": "śląskie",
+      "year_founded": 2020,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Witnica",
+      "city": "Witnica",
+      "voivodeship": "lubuskie",
+      "year_founded": 1848,
+      "capacity_hl": "50 tys.",
+      "brands": "Black Boss Porter, Lubuskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wojkówka",
+      "city": "Wojkówka",
+      "voivodeship": "podkarpackie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Wrowar Brewing",
+      "city": "Jelcz-Laskowice",
+      "voivodeship": "Dolnośląskie",
+      "year_founded": 2024,
+      "capacity_hl": "",
+      "brands": "Wrominator,Wrowariano Italiano,Sweet Bird,Reinkarnacja 2.0,Reinkarnacja,Pewnego Razu W Warszawie,Black River,Für Deutschland,Graffitacja,Black River Z Kawą Coop. Pikola,Wrominatorek,Disco Gooses,Misty Shot,Czas Apotorfalipsy,Disco Gooses Z Pieprzem Syczuańskim,Kajak,Beztroskie Pole,I Love the Smell of Torf Tea In the Morning,INFUZJA: Beztroskie Pole Mango, Ananas, Banan,INFUZJA: Wrominatorek Z Bursztynem",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Wrzos",
+      "city": "Ustroń",
+      "voivodeship": "śląskie",
+      "year_founded": 2013,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Wyszak",
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Zadyma",
+      "city": "Szaflary",
+      "voivodeship": "małopolskie",
+      "year_founded": 2011,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Zakładowy",
+      "city": "Poniatowa",
+      "voivodeship": "lubelskie",
+      "year_founded": 2016,
+      "capacity_hl": "3 tys.",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Arcyksiążęcy Browar Zamkowy Cieszyn",
+      "city": "Cieszyn",
+      "voivodeship": "śląskie",
+      "year_founded": 1846,
+      "capacity_hl": "160 tys.",
+      "brands": "Cieszyn Pilsner, Lager, Pszeniczne, Double IPA, Porter Bałtycki, Lager Bezalkoholowy",
+      "group": "",
+      "notes": "Najdłużej nieprzerwanie działający Browar w Polsce."
+    },
+    {
+      "name": "Zamkowy",
+      "city": "Racibórz",
+      "voivodeship": "śląskie",
+      "year_founded": 1567,
+      "capacity_hl": "20 tys.",
+      "brands": "Raciborskie, Twierdzowe",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Zapanbrat",
+      "city": "Żywiec",
+      "voivodeship": "śląskie",
+      "year_founded": 2017,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Zarzecze",
+      "city": "Zarzecze",
+      "voivodeship": "śląskie",
+      "year_founded": 2014,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Warzy piwo na zlecenie innych podmiotów gospodarczych"
+    },
+    {
+      "name": "Zaścianki",
+      "city": "Zaścianki",
+      "voivodeship": "podlaskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Zbrozło",
+      "city": "Oborniki Śląskie",
+      "voivodeship": "dolnośląskie",
+      "year_founded": "2020-2023",
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Zielone Wzgórze",
+      "city": "Sulistrowiczki",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2018,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Ziemia Obiecana",
+      "city": "Pabianice",
+      "voivodeship": "łódzkie",
+      "year_founded": 2016,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Złota Woda Manufaktura Piwowarska",
+      "city": "Łomnica",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Złoty Pies",
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "year_founded": 2015,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Złoty Róg",
+      "city": "Kalisz",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 2006,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": "Browar restauracyjny"
+    },
+    {
+      "name": "Zodiak",
+      "city": "Bierzwienna Długa-Kolonia",
+      "voivodeship": "wielkopolskie",
+      "year_founded": 1997,
+      "capacity_hl": "30 tys.",
+      "brands": "Lew, Zodiak, Włocławskie",
+      "group": "",
+      "notes": ""
+    },
+    {
+      "name": "Zwierzyniec",
+      "city": "Zwierzyniec",
+      "voivodeship": "lubelskie",
+      "year_founded": 1805,
+      "capacity_hl": "36 tys.",
+      "brands": "Zwierzyniec",
+      "group": "",
+      "notes": "Perła – Browary Lubelskie"
+    },
+    {
+      "name": "Żuławski",
+      "city": "Kolbudy",
+      "voivodeship": "pomorskie",
+      "year_founded": 2021,
+      "capacity_hl": "",
+      "brands": "",
+      "group": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Browary w Polsce - Free Download",
+    "description": "Lista browarów w Polsce (koncernowe, regionalne i rzemieślnicze) z miejscowością, województwem, rokiem założenia, mocami produkcyjnymi i markami piwa Contains 308 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Browary w Polsce | ListBase",
+    "seo_description": "Download Browary w Polsce — 308 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 308 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Browary_w_Polsce"
+    ]
+  }
+}
