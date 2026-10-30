@@ -1,0 +1,436 @@
+{
+  "id": "pl-odmiany-jabloni",
+  "name": "Odmiany jabłoni uprawiane w Polsce",
+  "title": "Odmiany jabłoni uprawiane w Polsce",
+  "description": "Lista odmian jabłoni z krajem i rokiem pochodzenia, rodowodem, porą dojrzewania i przydatnością (amatorska/towarowa)",
+  "category": "agriculture",
+  "source": "https://pl.wikipedia.org/wiki/Lista_odmian_jabłoni",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_odmian_jabłoni",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "parentage",
+      "label": "Parentage",
+      "type": "string"
+    },
+    {
+      "key": "ripening",
+      "label": "Ripening",
+      "type": "string"
+    },
+    {
+      "key": "use",
+      "label": "Use",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adams's Pearmain",
+      "origin": "Wielka Brytania, 1826",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Akane",
+      "origin": "Japonia, 1937",
+      "parentage": "Jonathan × Worcester Permain",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Alkmene",
+      "origin": "Niemcy, 1930",
+      "parentage": "Dr Oldenburg × Koksa Pomarańczowa",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Alwa",
+      "origin": "A. Rejman , W. Dzięcioł, Polska, 1956",
+      "parentage": "siewka Macoun",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Ananas Berżenicki",
+      "origin": "Adam Hrebnicki-Doktorowicz , Litwa",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana letnia",
+      "use": "amatorska, odmiana zagrożona"
+    },
+    {
+      "name": "Antonówka",
+      "origin": "Rosja",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Arlet",
+      "origin": "Szwajcaria, 1958",
+      "parentage": "Golden Delicious × Idared",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Bankroft",
+      "origin": "Kanada, 1850",
+      "parentage": "McIntosh × Forrest",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Boiken",
+      "origin": "Niemcy, 1828",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Boskoop",
+      "origin": "Ottolander, Holandia, 1850",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Braeburn",
+      "origin": "Nelson, Nowa Zelandia, 1952",
+      "parentage": "siewka Lady Hamilton",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Close",
+      "origin": "C.P. Close, Arlington, USA 1946",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana letnia",
+      "use": "amatorska"
+    },
+    {
+      "name": "Cortland",
+      "origin": "Stacja doświadczalna Uniwersytetu Cornella , USA, 1898",
+      "parentage": "McIntosh × Ben Davies",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Delbarestivale (Delcorf)",
+      "origin": "G. Delbard, Francja, 1956",
+      "parentage": "Stark Jongrimes × Golden Delicious",
+      "ripening": "odmiana letnia",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Delikates",
+      "origin": "Stacja doświadczalna UP Poznań , M. Maćkowiak, Polska, 1964",
+      "parentage": "James Grieve × Cortland",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Discovery",
+      "origin": "Dulmer, Langham Essex, Anglia, 1949",
+      "parentage": "siewka Worcester Permain",
+      "ripening": "odmiana letnia",
+      "use": "amatorska"
+    },
+    {
+      "name": "Early Geneva",
+      "origin": "USA, New York State Agricultural Experiment Station, Geneva, 1982",
+      "parentage": "Quinte’ i ‘Julyred’",
+      "ripening": "odmiana letnia",
+      "use": "typowo amatorska"
+    },
+    {
+      "name": "Elstar",
+      "origin": "Wageningen University & Research , Holandia, 1955",
+      "parentage": "Golden Delicious × Ingid Marie",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa"
+    },
+    {
+      "name": "Fantazja",
+      "origin": "A. Rejman , Polska 1944",
+      "parentage": "McIntosh × Linda",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Fiesta",
+      "origin": "F. Alston, Anglia 1972",
+      "parentage": "Koksa Pomarańczowa × Idared",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Florina",
+      "origin": "Université d’Angers , Francja 1976",
+      "parentage": "Jonathan × No 612-1 ( Rome Beauty × Malus floribunda 821 )",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Fuji",
+      "origin": "Stacja Doświadczalna Fujisaki Aomori, Japonia 1938",
+      "parentage": "Ralls Janet × Red Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Gala",
+      "origin": "J.H. Kidd, Nowa Zelandia, 1962",
+      "parentage": "Kidd's Orange Red × Golden Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Gloster",
+      "origin": "Stacja doświadczalna Jork , Niemcy, 1951",
+      "parentage": "Glockenapfel × Richared Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Goldstar",
+      "origin": "J. Tupy, Czechy, 1984",
+      "parentage": "Rubin × Vanda",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Golden Delicious",
+      "origin": "A.H. Mullins, USA, 1890",
+      "parentage": "siewka Golden Grimes",
+      "ripening": "odmiana letnia",
+      "use": "towarowa"
+    },
+    {
+      "name": "Granny Smith",
+      "origin": "T. Smith, Australia, 1868",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Grochówka (niem. Bohnapfel )",
+      "origin": "Niemcy, ok. 1800",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana zimowa",
+      "use": "amatorska, odmiana zagrożona"
+    },
+    {
+      "name": "Idared",
+      "origin": "Stacja doświadczalna Uniwersytetu Idaho, USA, 1942",
+      "parentage": "Jonathan × Wagener",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "James Grieve",
+      "origin": "J. Grieve, Szkocja, 1890",
+      "parentage": "siewka Potta",
+      "ripening": "odmiana letnia",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Jonagold",
+      "origin": "USA, New York State Agricultural Experiment Station, Geneva, 1942",
+      "parentage": "Jonathan × Golden Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Katja",
+      "origin": "Instytut Sadownictwa Balsgård, Szwecja, 1947",
+      "parentage": "James Grieve × Worcester Permain",
+      "ripening": "odmiana letnia",
+      "use": "amatorska"
+    },
+    {
+      "name": "Koksa Pomarańczowa (ang. Cox's Orange Pippin )",
+      "origin": "Anglia, 1846",
+      "parentage": "siewka Peppiny Ribstona",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Kosztela",
+      "origin": "Polska, 1590",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Kronselska (fr. Transparente de Cronsels )",
+      "origin": "C. Baltet, Francja, 1869",
+      "parentage": "siewka Antonówki",
+      "ripening": "odmiana letnia",
+      "use": "amatorska, odmiana zagrożona"
+    },
+    {
+      "name": "Ligol",
+      "origin": "ISK , Polska, 1978",
+      "parentage": "Linda × Golden Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Lobo",
+      "origin": "Kanada, 1900",
+      "parentage": "siewka McIntosh",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa"
+    },
+    {
+      "name": "McIntosh",
+      "origin": "J. McIntosh, Kanada, 1796",
+      "parentage": "siewka Famouse",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa"
+    },
+    {
+      "name": "Macoun",
+      "origin": "USA, New York State Agricultural Experiment Station, Geneva, 1923",
+      "parentage": "McIntosh × Jersey Black",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Malinowa Oberlandzka (Malinówka)",
+      "origin": "Niemcy (Oberschwaben), 1854",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska, odmiana zagrożona"
+    },
+    {
+      "name": "Melrose",
+      "origin": "Stacja Doświadczalna Uniwersytetu Ohio , USA, 1932",
+      "parentage": "Jonathan × Red Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Papierówka (Oliwka Żółta, Oliwka Inflancka)",
+      "origin": "Kraje bałtyckie",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana letnia",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Paulared",
+      "origin": "USA",
+      "parentage": "siewka odmiany McIntosh",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Pinova (Corail, Pinata)",
+      "origin": "Instytut Juliusa Kühna , Desden-Pilnitz, Niemcy, 1986",
+      "parentage": "Clivia × Golden Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Priam",
+      "origin": "L.M. Decouryte, Francja, 1974",
+      "parentage": "Jonathan × No 14-126 ( Rome Beauty × Malus floribunda 821 )",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Rajka",
+      "origin": "J. Tupy, Czechy, 1983",
+      "parentage": "Szampion × Katka",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Reneta",
+      "origin": "",
+      "parentage": "grupa odmian nieznanego pochodzenia",
+      "ripening": "jesienne i zimowe",
+      "use": "głównie amatorskie"
+    },
+    {
+      "name": "Reneta Ananasowa",
+      "origin": "Belgia lub Holandia, 1820",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana zimowa",
+      "use": "amatorska, odmiana zagrożona"
+    },
+    {
+      "name": "Reneta Landsberska",
+      "origin": "Niemcy, 1840",
+      "parentage": "siewka nieznanego pochodzenia",
+      "ripening": "odmiana jesienna",
+      "use": "amatorska"
+    },
+    {
+      "name": "Rubin",
+      "origin": "O. Louda, Czechy, 1960",
+      "parentage": "Lord Lambourne × Golden Delicious",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa"
+    },
+    {
+      "name": "Rubinette",
+      "origin": "W. Hausenstein, Szwajcaria, 1966",
+      "parentage": "Koksa Pomarańczowa × Golden Delicious",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Rubinola",
+      "origin": "J. Tupy, Czechy, 1980",
+      "parentage": "Prima × Rubin",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa i amatorska"
+    },
+    {
+      "name": "Spartan",
+      "origin": "R.C Palmer, Kanada, 1936",
+      "parentage": "McIntosh × Yellow Newton",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa"
+    },
+    {
+      "name": "Szampion",
+      "origin": "O. Louda, Czechy, 1970",
+      "parentage": "Golden Delicious × Koksa Pomarańczowa",
+      "ripening": "odmiana jesienna",
+      "use": "towarowa"
+    },
+    {
+      "name": "Topaz",
+      "origin": "J. Tupy, Czechy, 1984",
+      "parentage": "Rubin × Vanda",
+      "ripening": "odmiana zimowa",
+      "use": "towarowa i amatorska"
+    }
+  ],
+  "meta": {
+    "title": "Odmiany jabłoni uprawiane w Polsce - Free Download",
+    "description": "Lista odmian jabłoni z krajem i rokiem pochodzenia, rodowodem, porą dojrzewania i przydatnością (amatorska/towarowa) Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Odmiany jabłoni uprawiane w Polsce | ListBase",
+    "seo_description": "Download Odmiany jabłoni uprawiane w Polsce — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_odmian_jabłoni"
+    ]
+  }
+}

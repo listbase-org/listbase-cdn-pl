@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:23.787Z",
-  "total_datasets": 514,
-  "total_records": 1091681,
+  "generated": "2026-10-30T02:16:30.236Z",
+  "total_datasets": 515,
+  "total_records": 1091736,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -126,6 +126,32 @@
         "xlsx": {
           "name": "pl-ministrowie-rolnictwa_PL.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "pl-odmiany-jabloni",
+      "name": "Odmiany jabłoni uprawiane w Polsce",
+      "category": "agriculture",
+      "record_count": 55,
+      "columns": [
+        "name",
+        "origin",
+        "parentage",
+        "ripening",
+        "use"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_odmian_jabłoni",
+      "updated": "2026-10",
+      "size": 13154,
+      "files": {
+        "csv": {
+          "name": "pl-odmiany-jabloni_PL.csv",
+          "size": 6232
+        },
+        "xlsx": {
+          "name": "pl-odmiany-jabloni_PL.xlsx",
+          "size": 9801
         }
       }
     },
