@@ -1,0 +1,961 @@
+{
+  "id": "pl-najwyzsze-budynki",
+  "name": "Najwyższe budynki w Polsce",
+  "title": "Najwyższe budynki w Polsce",
+  "description": "Ranking 100 najwyższych budynków w Polsce z miastem, wysokością całkowitą i do dachu, liczbą kondygnacji i rokiem ukończenia",
+  "category": "culture",
+  "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budynków_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budynków_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "height_total_m",
+      "label": "Height Total M",
+      "type": "number"
+    },
+    {
+      "key": "height_roof_m",
+      "label": "Height Roof M",
+      "type": "number"
+    },
+    {
+      "key": "floors",
+      "label": "Floors",
+      "type": "number"
+    },
+    {
+      "key": "year_completed",
+      "label": "Year Completed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Varso Tower",
+      "city": "Warszawa",
+      "height_total_m": 310,
+      "height_roof_m": "230",
+      "floors": "53",
+      "year_completed": 2022
+    },
+    {
+      "rank": 2,
+      "name": "Pałac Kultury i Nauki",
+      "city": "Warszawa",
+      "height_total_m": 237,
+      "height_roof_m": "188",
+      "floors": "42",
+      "year_completed": 1955
+    },
+    {
+      "rank": 3,
+      "name": "Olszynki Park",
+      "city": "Rzeszów",
+      "height_total_m": 221,
+      "height_roof_m": "161",
+      "floors": "42",
+      "year_completed": 2024
+    },
+    {
+      "rank": 4,
+      "name": "Warsaw Spire",
+      "city": "Warszawa",
+      "height_total_m": 220,
+      "height_roof_m": "180",
+      "floors": "49",
+      "year_completed": 2016
+    },
+    {
+      "rank": 5,
+      "name": "Sky Tower",
+      "city": "Wrocław",
+      "height_total_m": 212,
+      "height_roof_m": "206",
+      "floors": "51",
+      "year_completed": 2012
+    },
+    {
+      "rank": 6,
+      "name": "Warsaw Trade Tower",
+      "city": "Warszawa",
+      "height_total_m": 208,
+      "height_roof_m": "184",
+      "floors": "43",
+      "year_completed": 1999
+    },
+    {
+      "rank": 7,
+      "name": "Warsaw Unit",
+      "city": "Warszawa",
+      "height_total_m": 202,
+      "height_roof_m": "180",
+      "floors": "46",
+      "year_completed": 2021
+    },
+    {
+      "rank": 8,
+      "name": "Q22",
+      "city": "Warszawa",
+      "height_total_m": 195,
+      "height_roof_m": "155",
+      "floors": "42",
+      "year_completed": 2016
+    },
+    {
+      "rank": 8,
+      "name": "Skyliner",
+      "city": "Warszawa",
+      "height_total_m": 195,
+      "height_roof_m": "195",
+      "floors": "45",
+      "year_completed": 2021
+    },
+    {
+      "rank": 10,
+      "name": "Rondo 1",
+      "city": "Warszawa",
+      "height_total_m": 192,
+      "height_roof_m": "159",
+      "floors": "40",
+      "year_completed": 2006
+    },
+    {
+      "rank": 10,
+      "name": "Złota 44",
+      "city": "Warszawa",
+      "height_total_m": 192,
+      "height_roof_m": "192",
+      "floors": "54",
+      "year_completed": 2013
+    },
+    {
+      "rank": 12,
+      "name": "Olivia Star",
+      "city": "Gdańsk",
+      "height_total_m": 180,
+      "height_roof_m": "156",
+      "floors": "35",
+      "year_completed": 2018
+    },
+    {
+      "rank": 13,
+      "name": "The Bridge",
+      "city": "Warszawa",
+      "height_total_m": 174,
+      "height_roof_m": "174",
+      "floors": "41",
+      "year_completed": 2025
+    },
+    {
+      "rank": 14,
+      "name": "Centrum LIM",
+      "city": "Warszawa",
+      "height_total_m": 170,
+      "height_roof_m": "140",
+      "floors": "42",
+      "year_completed": 1989
+    },
+    {
+      "rank": 15,
+      "name": "Warsaw Financial Center",
+      "city": "Warszawa",
+      "height_total_m": 165,
+      "height_roof_m": "144",
+      "floors": "34",
+      "year_completed": 1998
+    },
+    {
+      "rank": 16,
+      "name": "InterContinental Warszawa",
+      "city": "Warszawa",
+      "height_total_m": 164,
+      "height_roof_m": "154",
+      "floors": "45",
+      "year_completed": 2004
+    },
+    {
+      "rank": 17,
+      "name": "Cosmopolitan",
+      "city": "Warszawa",
+      "height_total_m": 160,
+      "height_roof_m": "160",
+      "floors": "46",
+      "year_completed": 2013
+    },
+    {
+      "rank": 18,
+      "name": "Skysawa",
+      "city": "Warszawa",
+      "height_total_m": 155,
+      "height_roof_m": "150",
+      "floors": "40",
+      "year_completed": 2022
+    },
+    {
+      "rank": 19,
+      "name": "Chałubińskiego 8",
+      "city": "Warszawa",
+      "height_total_m": 150,
+      "height_roof_m": "140",
+      "floors": "42",
+      "year_completed": 1979
+    },
+    {
+      "rank": 20,
+      "name": "Sea Towers",
+      "city": "Gdynia",
+      "height_total_m": 142,
+      "height_roof_m": "125",
+      "floors": "36",
+      "year_completed": 2009
+    },
+    {
+      "rank": 21,
+      "name": "Bazylika Najświętszej Maryi Panny Licheńskiej",
+      "city": "Licheń Stary",
+      "height_total_m": 141.5,
+      "height_roof_m": "brak danych",
+      "floors": "31",
+      "year_completed": 2004
+    },
+    {
+      "rank": 22,
+      "name": "Mennica Legacy Tower",
+      "city": "Warszawa",
+      "height_total_m": 141,
+      "height_roof_m": "140",
+      "floors": "34",
+      "year_completed": 2020
+    },
+    {
+      "rank": 23,
+      "name": "Generation Park",
+      "city": "Warszawa",
+      "height_total_m": 140,
+      "height_roof_m": "140",
+      "floors": "38",
+      "year_completed": 2021
+    },
+    {
+      "rank": 24,
+      "name": "Intraco I",
+      "city": "Warszawa",
+      "height_total_m": 138,
+      "height_roof_m": "107",
+      "floors": "39",
+      "year_completed": 1975
+    },
+    {
+      "rank": 25,
+      "name": ".KTW II",
+      "city": "Katowice",
+      "height_total_m": 134,
+      "height_roof_m": "b.d.",
+      "floors": "31",
+      "year_completed": 2022
+    },
+    {
+      "rank": 26,
+      "name": "The Warsaw Hub 1",
+      "city": "Warszawa",
+      "height_total_m": 130,
+      "height_roof_m": "130",
+      "floors": "31",
+      "year_completed": 2020
+    },
+    {
+      "rank": 26,
+      "name": "The Warsaw Hub 2",
+      "city": "Warszawa",
+      "height_total_m": 130,
+      "height_roof_m": "130",
+      "floors": "31",
+      "year_completed": 2020
+    },
+    {
+      "rank": 28,
+      "name": "PAZIM",
+      "city": "Szczecin",
+      "height_total_m": 128,
+      "height_roof_m": "92",
+      "floors": "22",
+      "year_completed": 1992
+    },
+    {
+      "rank": 28,
+      "name": "Spektrum",
+      "city": "Warszawa",
+      "height_total_m": 128,
+      "height_roof_m": "128",
+      "floors": "30",
+      "year_completed": 2001
+    },
+    {
+      "rank": 30,
+      "name": "Altus",
+      "city": "Katowice",
+      "height_total_m": 125,
+      "height_roof_m": "106",
+      "floors": "29",
+      "year_completed": 2002
+    },
+    {
+      "rank": 31,
+      "name": "Błękitny Wieżowiec",
+      "city": "Warszawa",
+      "height_total_m": 120,
+      "height_roof_m": "100",
+      "floors": "28",
+      "year_completed": 1991
+    },
+    {
+      "rank": 31,
+      "name": "Łucka City",
+      "city": "Warszawa",
+      "height_total_m": 120,
+      "height_roof_m": "106",
+      "floors": "30",
+      "year_completed": 2004
+    },
+    {
+      "rank": 31,
+      "name": "Forest",
+      "city": "Warszawa",
+      "height_total_m": 120,
+      "height_roof_m": "120",
+      "floors": "30",
+      "year_completed": 2022
+    },
+    {
+      "rank": 34,
+      "name": "Atlas Tower",
+      "city": "Warszawa",
+      "height_total_m": 116,
+      "height_roof_m": "112",
+      "floors": "28",
+      "year_completed": 1999
+    },
+    {
+      "rank": 35,
+      "name": "Central Tower",
+      "city": "Warszawa",
+      "height_total_m": 115,
+      "height_roof_m": "115",
+      "floors": "26",
+      "year_completed": 1996
+    },
+    {
+      "rank": 36,
+      "name": "Novotel Warszawa Centrum",
+      "city": "Warszawa",
+      "height_total_m": 111,
+      "height_roof_m": "106",
+      "floors": "33",
+      "year_completed": 1974
+    },
+    {
+      "rank": 37,
+      "name": "Bazylika archikatedralna św. Jakuba",
+      "city": "Szczecin",
+      "height_total_m": 110.2,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 2008
+    },
+    {
+      "rank": 38,
+      "name": "Dom Akademicki „Kredka”",
+      "city": "Wrocław",
+      "height_total_m": 110,
+      "height_roof_m": "85",
+      "floors": "23",
+      "year_completed": 1990
+    },
+    {
+      "rank": 39,
+      "name": "Global Office Park A1",
+      "city": "Katowice",
+      "height_total_m": 109,
+      "height_roof_m": "brak danych",
+      "floors": "25",
+      "year_completed": 2022
+    },
+    {
+      "rank": 39,
+      "name": "Global Office Park A2",
+      "city": "Katowice",
+      "height_total_m": 109,
+      "height_roof_m": "brak danych",
+      "floors": "25",
+      "year_completed": 2022
+    },
+    {
+      "rank": 41,
+      "name": "Bazylika jasnogórska",
+      "city": "Częstochowa",
+      "height_total_m": 106.3,
+      "height_roof_m": "brak danych",
+      "floors": "36",
+      "year_completed": 1906
+    },
+    {
+      "rank": 42,
+      "name": "Gmach Lubuskiego Urzędu Wojewódzkiego",
+      "city": "Gorzów Wlkp.",
+      "height_total_m": 106,
+      "height_roof_m": "70",
+      "floors": "15",
+      "year_completed": 1986
+    },
+    {
+      "rank": 42,
+      "name": "Collegium Altum",
+      "city": "Poznań",
+      "height_total_m": 106,
+      "height_roof_m": "83",
+      "floors": "22",
+      "year_completed": 1991
+    },
+    {
+      "rank": 44,
+      "name": "Biurowiec Wojewódzki",
+      "city": "Katowice",
+      "height_total_m": 105,
+      "height_roof_m": "90",
+      "floors": "22",
+      "year_completed": 1985
+    },
+    {
+      "rank": 44,
+      "name": "K1",
+      "city": "Kraków",
+      "height_total_m": 105,
+      "height_roof_m": "88",
+      "floors": "20",
+      "year_completed": 1998
+    },
+    {
+      "rank": 44,
+      "name": "Babka Tower",
+      "city": "Warszawa",
+      "height_total_m": 105,
+      "height_roof_m": "96",
+      "floors": "28",
+      "year_completed": 2002
+    },
+    {
+      "rank": 44,
+      "name": "Skylight",
+      "city": "Warszawa",
+      "height_total_m": 105,
+      "height_roof_m": "105",
+      "floors": "26",
+      "year_completed": 2007
+    },
+    {
+      "rank": 44,
+      "name": "Towarowa Towers , bud. A",
+      "city": "Warszawa",
+      "height_total_m": 105,
+      "height_roof_m": "95",
+      "floors": "29",
+      "year_completed": 2024
+    },
+    {
+      "rank": 44,
+      "name": "Towarowa Towers , bud. B",
+      "city": "Warszawa",
+      "height_total_m": 105,
+      "height_roof_m": "95",
+      "floors": "29",
+      "year_completed": 2024
+    },
+    {
+      "rank": 50,
+      "name": "Bazylika archikatedralna św. Stanisława Kostki",
+      "city": "Łódź",
+      "height_total_m": 104.5,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1912
+    },
+    {
+      "rank": 51,
+      "name": "Hanza Tower",
+      "city": "Szczecin",
+      "height_total_m": 104,
+      "height_roof_m": "100",
+      "floors": "27",
+      "year_completed": 2021
+    },
+    {
+      "rank": 52,
+      "name": "Świętokrzyska 35",
+      "city": "Warszawa",
+      "height_total_m": 103,
+      "height_roof_m": "85",
+      "floors": "25",
+      "year_completed": 1969
+    },
+    {
+      "rank": 52,
+      "name": "Ilmet",
+      "city": "Warszawa",
+      "height_total_m": 103,
+      "height_roof_m": "83",
+      "floors": "22",
+      "year_completed": 1997
+    },
+    {
+      "rank": 54,
+      "name": "Kościół Mariacki",
+      "city": "Chojna",
+      "height_total_m": 102.6,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1854
+    },
+    {
+      "rank": 55,
+      "name": "Unity Tower (tzw. szkieletor)",
+      "city": "Kraków",
+      "height_total_m": 102.5,
+      "height_roof_m": "102,5",
+      "floors": "27",
+      "year_completed": 2020
+    },
+    {
+      "rank": 56,
+      "name": "Andersia Tower",
+      "city": "Poznań",
+      "height_total_m": 102,
+      "height_roof_m": "84",
+      "floors": "21",
+      "year_completed": 2007
+    },
+    {
+      "rank": 56,
+      "name": "Studio A",
+      "city": "Warszawa",
+      "height_total_m": 102,
+      "height_roof_m": "102",
+      "floors": "26",
+      "year_completed": 2025
+    },
+    {
+      "rank": 58,
+      "name": "Katedra św. Stanisława i św. Wacława",
+      "city": "Świdnica",
+      "height_total_m": 101.2,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1565
+    },
+    {
+      "rank": 59,
+      "name": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "city": "Bielawa",
+      "height_total_m": 101,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1876
+    },
+    {
+      "rank": 60,
+      "name": "Organika Trade",
+      "city": "Gdańsk",
+      "height_total_m": 100,
+      "height_roof_m": "80",
+      "floors": "20",
+      "year_completed": 1980
+    },
+    {
+      "rank": 61,
+      "name": "Kościół św. Jana",
+      "city": "Stargard",
+      "height_total_m": 99,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": "1464, wieża 1892"
+    },
+    {
+      "rank": 61,
+      "name": "Stalexport 1",
+      "city": "Katowice",
+      "height_total_m": 99,
+      "height_roof_m": "97",
+      "floors": "22",
+      "year_completed": 1981
+    },
+    {
+      "rank": 63,
+      "name": "Archikatedra św. Jana Chrzciciela",
+      "city": "Wrocław",
+      "height_total_m": 97.5,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": "1272 (1992)"
+    },
+    {
+      "rank": 64,
+      "name": "PZU Tower",
+      "city": "Warszawa",
+      "height_total_m": 97,
+      "height_roof_m": "94",
+      "floors": "25",
+      "year_completed": 2000
+    },
+    {
+      "rank": 64,
+      "name": "Katedra św. Mikołaja",
+      "city": "Elbląg",
+      "height_total_m": 97,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": "ok. 1247"
+    },
+    {
+      "rank": 66,
+      "name": "Prime Corporate Center",
+      "city": "Warszawa",
+      "height_total_m": 96,
+      "height_roof_m": "83",
+      "floors": "23",
+      "year_completed": 2016
+    },
+    {
+      "rank": 66,
+      "name": "Bazylika św. Antoniego",
+      "city": "Rybnik",
+      "height_total_m": 96,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1906
+    },
+    {
+      "rank": 68,
+      "name": "Widok Towers",
+      "city": "Warszawa",
+      "height_total_m": 95,
+      "height_roof_m": "95",
+      "floors": "28",
+      "year_completed": 2020
+    },
+    {
+      "rank": 69,
+      "name": "The Westin Warsaw",
+      "city": "Warszawa",
+      "height_total_m": 94,
+      "height_roof_m": "79",
+      "floors": "22",
+      "year_completed": 2003
+    },
+    {
+      "rank": 69,
+      "name": "Hotel Hilton",
+      "city": "Warszawa",
+      "height_total_m": 94,
+      "height_roof_m": "94",
+      "floors": "28",
+      "year_completed": 2007
+    },
+    {
+      "rank": 69,
+      "name": "North Gate",
+      "city": "Warszawa",
+      "height_total_m": 94,
+      "height_roof_m": "87",
+      "floors": "25?",
+      "year_completed": 2008
+    },
+    {
+      "rank": 72,
+      "name": "Kościół św. Bartłomieja",
+      "city": "Gliwice",
+      "height_total_m": 92,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1911
+    },
+    {
+      "rank": 72,
+      "name": "Stalexport 2",
+      "city": "Katowice",
+      "height_total_m": 92,
+      "height_roof_m": "92",
+      "floors": "20",
+      "year_completed": 1981
+    },
+    {
+      "rank": 72,
+      "name": "JM Tower",
+      "city": "Warszawa",
+      "height_total_m": 92,
+      "height_roof_m": "92",
+      "floors": "27",
+      "year_completed": 2011
+    },
+    {
+      "rank": 72,
+      "name": "Bliska Wola Tower",
+      "city": "Warszawa",
+      "height_total_m": 92,
+      "height_roof_m": "92",
+      "floors": "27",
+      "year_completed": 2022
+    },
+    {
+      "rank": 76,
+      "name": "Bazylika św. Elżbiety",
+      "city": "Wrocław",
+      "height_total_m": 91.4,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1535
+    },
+    {
+      "rank": 77,
+      "name": "Poznań Financial Centre",
+      "city": "Poznań",
+      "height_total_m": 91,
+      "height_roof_m": "75",
+      "floors": "19",
+      "year_completed": 2001
+    },
+    {
+      "rank": 77,
+      "name": "Unique Tower",
+      "city": "Warszawa",
+      "height_total_m": 91,
+      "height_roof_m": "91",
+      "floors": "30",
+      "year_completed": 2021
+    },
+    {
+      "rank": 79,
+      "name": "Kościół Macierzyństwa Najświętszej Marii Panny",
+      "city": "Trzebiatów",
+      "height_total_m": 90,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1370
+    },
+    {
+      "rank": 79,
+      "name": "Zieleniak",
+      "city": "Gdańsk",
+      "height_total_m": 90,
+      "height_roof_m": "72",
+      "floors": "17",
+      "year_completed": 1970
+    },
+    {
+      "rank": 79,
+      "name": "Plac Unii",
+      "city": "Warszawa",
+      "height_total_m": 90,
+      "height_roof_m": "90",
+      "floors": "22",
+      "year_completed": 2013
+    },
+    {
+      "rank": 79,
+      "name": "Varso 2",
+      "city": "Warszawa",
+      "height_total_m": 90,
+      "height_roof_m": "90",
+      "floors": "21",
+      "year_completed": 2020
+    },
+    {
+      "rank": 79,
+      "name": "Global Office Park B",
+      "city": "Katowice",
+      "height_total_m": 90,
+      "height_roof_m": "90",
+      "floors": "23",
+      "year_completed": 2024
+    },
+    {
+      "rank": 84,
+      "name": "Eurocentrum Alfa",
+      "city": "Warszawa",
+      "height_total_m": 88,
+      "height_roof_m": "88",
+      "floors": "21",
+      "year_completed": 2002
+    },
+    {
+      "rank": 85,
+      "name": "Ściana Wschodnia – ul. Zgoda 13",
+      "city": "Warszawa",
+      "height_total_m": 87,
+      "height_roof_m": "78",
+      "floors": "24",
+      "year_completed": 1969
+    },
+    {
+      "rank": 85,
+      "name": "Kukurydza – ul. Zawiszy Czarnego 4",
+      "city": "Katowice",
+      "height_total_m": 87,
+      "height_roof_m": "82",
+      "floors": "27",
+      "year_completed": 1988
+    },
+    {
+      "rank": 85,
+      "name": "Kukurydza – ul. Zawiszy Czarnego 6",
+      "city": "Katowice",
+      "height_total_m": 87,
+      "height_roof_m": "82",
+      "floors": "27",
+      "year_completed": 1989
+    },
+    {
+      "rank": 85,
+      "name": "Kukurydza – ul. Zawiszy Czarnego 10",
+      "city": "Katowice",
+      "height_total_m": 87,
+      "height_roof_m": "82",
+      "floors": "27",
+      "year_completed": 1991
+    },
+    {
+      "rank": 89,
+      "name": "Kościół św. Katarzyny",
+      "city": "Toruń",
+      "height_total_m": 86,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1897
+    },
+    {
+      "rank": 89,
+      "name": "Bazylika Najświętszej Maryi Panny Anielskiej",
+      "city": "Dąbrowa Górnicza",
+      "height_total_m": 86,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1900
+    },
+    {
+      "rank": 89,
+      "name": "Kościół Świętych Apostołów Piotra i Pawła",
+      "city": "Katowice",
+      "height_total_m": 86,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1902
+    },
+    {
+      "rank": 89,
+      "name": "Central Point",
+      "city": "Warszawa",
+      "height_total_m": 86,
+      "height_roof_m": "70",
+      "floors": "22",
+      "year_completed": 2021
+    },
+    {
+      "rank": 93,
+      "name": "Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny",
+      "city": "Włocławek",
+      "height_total_m": 85,
+      "height_roof_m": "brak danych",
+      "floors": "brak danych",
+      "year_completed": 1411
+    },
+    {
+      "rank": 93,
+      "name": "Ściana Wschodnia – ul. Świętokrzyska 35",
+      "city": "Warszawa",
+      "height_total_m": 85,
+      "height_roof_m": "78",
+      "floors": "24",
+      "year_completed": 1969
+    },
+    {
+      "rank": 93,
+      "name": "Pekao Tower",
+      "city": "Warszawa",
+      "height_total_m": 85,
+      "height_roof_m": "80",
+      "floors": "20",
+      "year_completed": 1993
+    },
+    {
+      "rank": 93,
+      "name": "Platinum Tower I",
+      "city": "Warszawa",
+      "height_total_m": 85,
+      "height_roof_m": "85",
+      "floors": "22",
+      "year_completed": 2009
+    },
+    {
+      "rank": 93,
+      "name": "Platinum Tower II",
+      "city": "Warszawa",
+      "height_total_m": 85,
+      "height_roof_m": "85",
+      "floors": "22",
+      "year_completed": 2009
+    },
+    {
+      "rank": 93,
+      "name": "Centrum Biurowe Neptun",
+      "city": "Gdańsk",
+      "height_total_m": 85,
+      "height_roof_m": "85",
+      "floors": "19",
+      "year_completed": 2014
+    },
+    {
+      "rank": 93,
+      "name": "Aura Sky",
+      "city": "Warszawa",
+      "height_total_m": 85,
+      "height_roof_m": "85",
+      "floors": "26",
+      "year_completed": 2017
+    },
+    {
+      "rank": 93,
+      "name": "Capital Towers C",
+      "city": "Rzeszów",
+      "height_total_m": 85,
+      "height_roof_m": "85",
+      "floors": "25",
+      "year_completed": 2020
+    }
+  ],
+  "meta": {
+    "title": "Najwyższe budynki w Polsce - Free Download",
+    "description": "Ranking 100 najwyższych budynków w Polsce z miastem, wysokością całkowitą i do dachu, liczbą kondygnacji i rokiem ukończenia Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najwyższe budynki w Polsce | ListBase",
+    "seo_description": "Download Najwyższe budynki w Polsce — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_najwyższych_budynków_w_Polsce"
+    ]
+  }
+}

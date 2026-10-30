@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:38.000Z",
-  "total_datasets": 516,
-  "total_records": 1091775,
+  "generated": "2026-10-30T02:16:44.076Z",
+  "total_datasets": 517,
+  "total_records": 1091875,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -228,6 +228,34 @@
         "xlsx": {
           "name": "pl-muzea_PL.xlsx",
           "size": 48828
+        }
+      }
+    },
+    {
+      "id": "pl-najwyzsze-budynki",
+      "name": "Najwyższe budynki w Polsce",
+      "category": "culture",
+      "record_count": 100,
+      "columns": [
+        "rank",
+        "name",
+        "city",
+        "height_total_m",
+        "height_roof_m",
+        "floors",
+        "year_completed"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budynków_w_Polsce",
+      "updated": "2026-10",
+      "size": 22559,
+      "files": {
+        "csv": {
+          "name": "pl-najwyzsze-budynki_PL.csv",
+          "size": 6565
+        },
+        "xlsx": {
+          "name": "pl-najwyzsze-budynki_PL.xlsx",
+          "size": 11722
         }
       }
     },
