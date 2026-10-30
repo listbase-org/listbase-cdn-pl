@@ -1,0 +1,619 @@
+{
+  "id": "pl-tunele",
+  "name": "Tunele drogowe i kolejowe w Polsce",
+  "title": "Tunele drogowe i kolejowe w Polsce",
+  "description": "Lista istniejących tuneli drogowych i kolejowych (w tym metra) w Polsce z położeniem, długością, przekrojem i rokiem otwarcia",
+  "category": "transport",
+  "source": "https://pl.wikipedia.org/wiki/Lista_tuneli_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_tuneli_w_Polsce",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "length_m",
+      "label": "Length M",
+      "type": "number"
+    },
+    {
+      "key": "cross_section",
+      "label": "Cross Section",
+      "type": "string"
+    },
+    {
+      "key": "year_opened",
+      "label": "Year Opened",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Tunel drogi ekspresowej S2 – Południowej Obwodnicy Warszawy",
+      "location": "Warszawa",
+      "length_m": "2355",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2021,
+      "type": "drogowy",
+      "notes": "Najdłuższy tunel drogowy w Polsce ."
+    },
+    {
+      "name": "Tunel drogi ekspresowej S3",
+      "location": "Stare Bogaczowice",
+      "length_m": "2301/2273",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2024,
+      "type": "drogowy",
+      "notes": "Najdłuższy pozamiejski tunel drogowy w Polsce."
+    },
+    {
+      "name": "Tunel im. Marii i Lecha Kaczyńskich",
+      "location": "Luboń Mały",
+      "length_m": "2058",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel pod Świną",
+      "location": "Świnoujście",
+      "length_m": "1800",
+      "cross_section": "jedna jezdnia o dwóch pasach ruchu",
+      "year_opened": 2023,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel pod Martwą Wisłą",
+      "location": "Gdańsk",
+      "length_m": "1377",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2016,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel drogi ekspresowej S1",
+      "location": "Białożyński Groń w ciągu drogi ekspresowej S1",
+      "length_m": "984/975",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2025,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Wisłostrady",
+      "location": "Warszawa",
+      "length_m": "930 (płd.) 889 (płn.)",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2003,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel drogi ekspresowej S52",
+      "location": "Zielonki pod rzeką Prądnik",
+      "length_m": "870",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2024,
+      "type": "drogowy",
+      "notes": "Tunel w ciągu tzw. IV Obwodnicy Krakowa ."
+    },
+    {
+      "name": "Tunel drogi ekspresowej S1",
+      "location": "Masyw Barania w ciągu drogi ekspresowej S1",
+      "length_m": "834/807",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2025,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Emilia",
+      "location": "Laliki w ciągu drogi ekspresowej S1",
+      "length_m": "678",
+      "cross_section": "jednojezdniowy",
+      "year_opened": 2010,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel drogi ekspresowej S52",
+      "location": "Batowice",
+      "length_m": "653",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2024,
+      "type": "drogowy",
+      "notes": "Tunel w ciągu tzw. IV Obwodnicy Krakowa."
+    },
+    {
+      "name": "Tunel Katowicki",
+      "location": "Katowice",
+      "length_m": "657 (płn.) 650 (płd.)",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2006,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel TD-10 w ciągu Trasy Łagiewnickiej",
+      "location": "Kraków",
+      "length_m": "639",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel kolejowo-drogowy w Gdańsku",
+      "location": "Gdańsk",
+      "length_m": "600 (około)",
+      "cross_section": "jedna jezdnia z 2 pasami ruchu (Nowe Podwale Grodzkie), otwarta dla ruchu 2 czerwca 2018",
+      "year_opened": 2018,
+      "type": "drogowy",
+      "notes": "Tunel wykorzystywany również w ruchu kolejowym . Po pożarze 12 sierpnia 2019 doznał uszkodzeń i został wyłączony z ruchu , otwarty ponownie 24 grudnia 2019 ."
+    },
+    {
+      "name": "Tunel TD-04 w ciągu Trasy Łagiewnickiej",
+      "location": "Kraków",
+      "length_m": "522",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel w ciągu ulicy Hasa",
+      "location": "Łódź",
+      "length_m": "500",
+      "cross_section": "jedna jezdnia o dwóch pasach ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Drogowej Trasy Średnicowej w Gliwicach",
+      "location": "Gliwice",
+      "length_m": "493",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2016,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel TD-01 w ciągu Trasy Łagiewnickiej",
+      "location": "Kraków",
+      "length_m": "385",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Drogi Krajowej nr 81 w Katowicach-Piotrowicach",
+      "location": "Katowice",
+      "length_m": "340",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2020,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel drogi ekspresowej S3",
+      "location": "Gostków",
+      "length_m": "320",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2024,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel pod pl. Daszyńskiego",
+      "location": "Toruń",
+      "length_m": "200 (około)",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2013,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel trasy W-Z",
+      "location": "Łódź",
+      "length_m": "246",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2015,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel drogowy Śródmiejskiej Obwodnicy Zachodniej",
+      "location": "Bielsko-Biała",
+      "length_m": "238",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2006,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel im. Rafała Kalinowskiego",
+      "location": "Kraków",
+      "length_m": "230",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2007,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel pod dworcem PKP w Katowicach",
+      "location": "Katowice",
+      "length_m": "230",
+      "cross_section": "dwie jezdnie po jednym pasie ruchu + pasy wjazdowe/wyjazdowe do Galerii Katowickiej + dodatkowe dwa pasy wydzielone dla komunikacji zbiorowej",
+      "year_opened": 2013,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel TD-12 w ciągu Trasy Łagiewnickiej",
+      "location": "Kraków",
+      "length_m": "209",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2022,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Trasy W-Z",
+      "location": "Warszawa",
+      "length_m": "196",
+      "cross_section": "jednojezdniowy + torowisko tramwajowe",
+      "year_opened": 1949,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Alei Prymasa Tysiąclecia w Warszawie",
+      "location": "Warszawa",
+      "length_m": "190 (około)",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu + jedna jezdnia z jednym pasem ruchu",
+      "year_opened": "budowa: lata trzydzieste XX w., otwarcie: lata sześćdziesiąte XX w.",
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel im. Gen. Augusta Emila Fieldorfa „Nila”",
+      "location": "Białystok",
+      "length_m": "174",
+      "cross_section": "dwie jezdnie po cztery pasy ruchu",
+      "year_opened": 2004,
+      "type": "drogowy",
+      "notes": "Tunel drogowy o największym przekroju w Polsce."
+    },
+    {
+      "name": "Tunel w ciągu ul. Hetmańskiej",
+      "location": "Białystok",
+      "length_m": "155 (około)",
+      "cross_section": "dwa tunele po jednym pasie ruchu",
+      "year_opened": 1907,
+      "type": "drogowy",
+      "notes": "W 2007 r. zamknięty dla ruchu kołowego."
+    },
+    {
+      "name": "„Zielony” tunel drogowy Śródmiejskiej Obwodnicy Zachodniej",
+      "location": "Bielsko-Biała",
+      "length_m": "150",
+      "cross_section": "dwie jezdnie po dwa pasy ruchu",
+      "year_opened": 2006,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel pod linią kolejową w Siedlcach",
+      "location": "Siedlce",
+      "length_m": "144",
+      "cross_section": "jedna jezdnia po dwa pasy ruchu",
+      "year_opened": 2018,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel autostrady A2 pod linią kolejową w Luboniu",
+      "location": "Luboń",
+      "length_m": "129,84",
+      "cross_section": "dwie jezdnie po trzy pasy ruchu w ciągu autostrady + jednojezdniowa droga lokalna",
+      "year_opened": 2003,
+      "type": "drogowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel linii M1 metra w Warszawie",
+      "location": "Warszawa",
+      "length_m": "23100",
+      "cross_section": "dwutorowy",
+      "year_opened": 1995,
+      "type": "kolejowy",
+      "notes": "Najdłuższy tunel kolei metra w Polsce."
+    },
+    {
+      "name": "Tunel linii M2 metra w Warszawie",
+      "location": "Warszawa",
+      "length_m": "19000",
+      "cross_section": "dwutorowy",
+      "year_opened": 2015,
+      "type": "kolejowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunel Średnicowy",
+      "location": "Warszawa",
+      "length_m": "2310",
+      "cross_section": "dwa tunele dwutorowe",
+      "year_opened": 1933,
+      "type": "kolejowy",
+      "notes": "Długość ze stacjami."
+    },
+    {
+      "name": "Tunel stacji Łódź Fabryczna",
+      "location": "Łódź",
+      "length_m": "2250",
+      "cross_section": "dwa tunele dwutorowe",
+      "year_opened": 2016,
+      "type": "kolejowy",
+      "notes": "Długość ze stacją."
+    },
+    {
+      "name": "Tunel pod Małym Wołowcem",
+      "location": "Wałbrzych – Jedlina-Zdrój",
+      "length_m": "1604",
+      "cross_section": "dwa tunele jednotorowe",
+      "year_opened": 1880,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 286 , odc. Wałbrzych – Jedlina-Zdrój . Najdłuższy tunel pozamiejski w Polsce wykonany metodą drążenia."
+    },
+    {
+      "name": "Tunel Krakowskiego Szybkiego Tramwaju",
+      "location": "Kraków",
+      "length_m": "1420",
+      "cross_section": "dwutorowy",
+      "year_opened": 2008,
+      "type": "kolejowy",
+      "notes": "Tunel tramwajowy ( szybkiego tramwaju )."
+    },
+    {
+      "name": "Tunel na Lotnisko Chopina",
+      "location": "Warszawa",
+      "length_m": "1183",
+      "cross_section": "dwutorowy",
+      "year_opened": 2012,
+      "type": "kolejowy",
+      "notes": ""
+    },
+    {
+      "name": "Tunele w Świerkach",
+      "location": "Świerki",
+      "length_m": "1168",
+      "cross_section": "dwa tunele jednotorowe",
+      "year_opened": 1880,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 286 , odc. Bartnica – Świerki ."
+    },
+    {
+      "name": "Tunel os. Lecha-Franowo",
+      "location": "Poznań",
+      "length_m": "1067",
+      "cross_section": "dwutorowy",
+      "year_opened": 2012,
+      "type": "kolejowy",
+      "notes": "Tunel tramwajowy."
+    },
+    {
+      "name": "Tunel pod Przełęczą Kowarską",
+      "location": "Kowary – Ogorzelec",
+      "length_m": "1025",
+      "cross_section": "jednotorowy",
+      "year_opened": 1905,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 308 , nieczynny od 2007 roku."
+    },
+    {
+      "name": "Tunel pod Białą Górą",
+      "location": "Uniejów-Rędziny",
+      "length_m": "764",
+      "cross_section": "dwa tunele jednotorowe",
+      "year_opened": 1885,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 8 , odc. Kozłów – Tunel ."
+    },
+    {
+      "name": "Tunel w Rydułtowach",
+      "location": "Rydułtowy",
+      "length_m": "727",
+      "cross_section": "jednotorowy",
+      "year_opened": 1857,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 140 , odc. Rydułtowy – Łuków Śląski ."
+    },
+    {
+      "name": "Tunel TT-09 w ciągu Trasy Łagiewnickiej",
+      "location": "Kraków",
+      "length_m": "652",
+      "cross_section": "dwutorowy",
+      "year_opened": 2022,
+      "type": "kolejowy",
+      "notes": "Tunel tramwajowy."
+    },
+    {
+      "name": "Tunel kolejowo-drogowy w Gdańsku",
+      "location": "Gdańsk",
+      "length_m": "600 m (około)",
+      "cross_section": "czterotorowy, z rezerwą pod tor 5 i 6",
+      "year_opened": 2015,
+      "type": "kolejowy",
+      "notes": "Pomiędzy stacjami Gdańsk Główny oraz Gdańsk Śródmieście wykorzystywany również dla ruchu samochodowego (Nowe Podwale Grodzkie) ."
+    },
+    {
+      "name": "Tunel w Kulinie Kłodzkim",
+      "location": "Kulin Kłodzki",
+      "length_m": "577",
+      "cross_section": "jednotorowy",
+      "year_opened": 1905,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 309 , odc. Duszniki-Zdrój – Kulin Kłodzki ."
+    },
+    {
+      "name": "Tunel w Żegiestowie",
+      "location": "Żegiestów",
+      "length_m": "513",
+      "cross_section": "jednotorowy",
+      "year_opened": 1876,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 96 , odc. Żegiestów – Andrzejówka ."
+    },
+    {
+      "name": "Tunel pod Sajdakiem",
+      "location": "Jedlina-Zdrój – Głuszyca",
+      "length_m": "380",
+      "cross_section": "dwa tunele jednotorowe",
+      "year_opened": 1880,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 286 , odc. Jedlina-Zdrój – Głuszyca ."
+    },
+    {
+      "name": "Tunel w Łupkowie",
+      "location": "Stary Łupków",
+      "length_m": "371",
+      "cross_section": "dwutorowy",
+      "year_opened": 1874,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 107 , w Polsce 137 m, 234 m tunelu znajduje się na terytorium Słowacji."
+    },
+    {
+      "name": "Tunel Bardzki (pod Tunelową Górą )",
+      "location": "Bardo",
+      "length_m": "364",
+      "cross_section": "dwutorowy",
+      "year_opened": 1874,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 276 , odc. Bardo Śląskie – Ławica ."
+    },
+    {
+      "name": "Tunel w Długopolu-Zdroju",
+      "location": "Długopole-Zdrój",
+      "length_m": "360",
+      "cross_section": "jednotorowy",
+      "year_opened": 1875,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 276 , odc. Bystrzyca Kłodzka – Długopole-Zdrój ."
+    },
+    {
+      "name": "Tunel w Górze Zamkowej",
+      "location": "Wleń",
+      "length_m": "320",
+      "cross_section": "jednotorowy",
+      "year_opened": 1909,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 283 , odc. Pilchowice Nielestno – Wleń . Nieczynny"
+    },
+    {
+      "name": "Tunel kolejowy koło Trzcińska",
+      "location": "Trzcińsko / Bobrów",
+      "length_m": "293",
+      "cross_section": "dwutorowy",
+      "year_opened": 1867,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 274 , odc. Trzcińsko – Wojanów . Do czasu poszerzenia tunelu nie było możliwe mijanie się pociągów w tunelu ze względu przekroczoną skrajnię. W maju 2024 zakończyła się przebudowa tunelu – tunel poszerzono, wymieniono kamienną obudowę na żelbetową oraz odnowiono portale ."
+    },
+    {
+      "name": "Tunel w Bielsku-Białej",
+      "location": "Bielsko-Biała",
+      "length_m": "268",
+      "cross_section": "jednotorowy",
+      "year_opened": 1877,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 139 , odc. Bielsko-Biała Główna – Bielsko-Biała Lipnik . Planowana przebudowa na dwutorowy."
+    },
+    {
+      "name": "Tunel w Unisławiu Śląskim",
+      "location": "Unisław Śląski",
+      "length_m": "262",
+      "cross_section": "jednotorowy",
+      "year_opened": 1877,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 291 , odc. Boguszów-Gorce Wschód – Unisław Śląski ."
+    },
+    {
+      "name": "Tunel pod Górą Czyżyk",
+      "location": "Pilchowice",
+      "length_m": "188",
+      "cross_section": "jednotorowy",
+      "year_opened": 1907,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 283 , odc. Pilchowice Zapora – Pilchowice Nielestno . Nieczynny"
+    },
+    {
+      "name": "Tunel w Kamionce Wielkiej",
+      "location": "Kamionka Wielka",
+      "length_m": "180",
+      "cross_section": "jednotorowy",
+      "year_opened": 1876,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 96 ."
+    },
+    {
+      "name": "Tunel w Bobowej",
+      "location": "Bobowa",
+      "length_m": "160",
+      "cross_section": "jednotorowy",
+      "year_opened": 2006,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 96 , odc. Bobowa – Wilczyska ."
+    },
+    {
+      "name": "Tunel pod Górą Dwory",
+      "location": "Nielestno",
+      "length_m": "154",
+      "cross_section": "jednotorowy",
+      "year_opened": 1909,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 283 , odc. Pilchowice Zapora – Pilchowice Nielestno . Nieczynny"
+    },
+    {
+      "name": "Tunel w Szklarskiej Porębie",
+      "location": "Szklarska Poręba",
+      "length_m": "145",
+      "cross_section": "jednotorowy",
+      "year_opened": 1902,
+      "type": "kolejowy",
+      "notes": "Linia kolejowa nr 311 , odc. Górzyniec – Szklarska Poręba Dolna ."
+    }
+  ],
+  "meta": {
+    "title": "Tunele drogowe i kolejowe w Polsce - Free Download",
+    "description": "Lista istniejących tuneli drogowych i kolejowych (w tym metra) w Polsce z położeniem, długością, przekrojem i rokiem otwarcia Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tunele drogowe i kolejowe w Polsce | ListBase",
+    "seo_description": "Download Tunele drogowe i kolejowe w Polsce — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_tuneli_w_Polsce"
+    ]
+  }
+}

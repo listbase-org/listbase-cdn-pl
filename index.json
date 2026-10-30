@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:44.076Z",
-  "total_datasets": 517,
-  "total_records": 1091875,
+  "generated": "2026-10-30T02:16:51.831Z",
+  "total_datasets": 518,
+  "total_records": 1091937,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "units",
@@ -13653,6 +13653,34 @@
         "xlsx": {
           "name": "pl-stacje-metra-warszawa_PL.xlsx",
           "size": 8470
+        }
+      }
+    },
+    {
+      "id": "pl-tunele",
+      "name": "Tunele drogowe i kolejowe w Polsce",
+      "category": "transport",
+      "record_count": 62,
+      "columns": [
+        "name",
+        "location",
+        "length_m",
+        "cross_section",
+        "year_opened",
+        "type",
+        "notes"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_tuneli_w_Polsce",
+      "updated": "2026-10",
+      "size": 19510,
+      "files": {
+        "csv": {
+          "name": "pl-tunele_PL.csv",
+          "size": 9074
+        },
+        "xlsx": {
+          "name": "pl-tunele_PL.xlsx",
+          "size": 11381
         }
       }
     },
