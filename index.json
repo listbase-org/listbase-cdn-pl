@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:30.236Z",
-  "total_datasets": 515,
-  "total_records": 1091736,
+  "generated": "2026-10-30T02:16:38.000Z",
+  "total_datasets": 516,
+  "total_records": 1091775,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "units",
@@ -13598,6 +13598,33 @@
         "xlsx": {
           "name": "pl-lotniska-miedzynarodowe_PL.xlsx",
           "size": 7471
+        }
+      }
+    },
+    {
+      "id": "pl-stacje-metra-warszawa",
+      "name": "Stacje metra w Warszawie",
+      "category": "transport",
+      "record_count": 39,
+      "columns": [
+        "code",
+        "name",
+        "line",
+        "opened",
+        "district",
+        "passengers_2018"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_stacji_metra_w_Warszawie",
+      "updated": "2026-10",
+      "size": 8779,
+      "files": {
+        "csv": {
+          "name": "pl-stacje-metra-warszawa_PL.csv",
+          "size": 2547
+        },
+        "xlsx": {
+          "name": "pl-stacje-metra-warszawa_PL.xlsx",
+          "size": 8470
         }
       }
     },

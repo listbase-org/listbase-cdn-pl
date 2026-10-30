@@ -1,0 +1,368 @@
+{
+  "id": "pl-stacje-metra-warszawa",
+  "name": "Stacje metra w Warszawie",
+  "title": "Stacje metra w Warszawie",
+  "description": "Lista stacji warszawskiego metra (linie M1 i M2) z oznaczeniem, datą otwarcia, dzielnicą i liczbą pasażerów w 2018 r.",
+  "category": "transport",
+  "source": "https://pl.wikipedia.org/wiki/Lista_stacji_metra_w_Warszawie",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_stacji_metra_w_Warszawie",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "line",
+      "label": "Line",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "passengers_2018",
+      "label": "Passengers 2018",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "A1",
+      "name": "Kabaty",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Ursynów",
+      "passengers_2018": 5580000
+    },
+    {
+      "code": "A2",
+      "name": "Natolin",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Ursynów",
+      "passengers_2018": 5280000
+    },
+    {
+      "code": "A3",
+      "name": "Imielin",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Ursynów",
+      "passengers_2018": 5760000
+    },
+    {
+      "code": "A4",
+      "name": "Stokłosy",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Ursynów",
+      "passengers_2018": 4890000
+    },
+    {
+      "code": "A5",
+      "name": "Ursynów",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Ursynów",
+      "passengers_2018": 3860000
+    },
+    {
+      "code": "A6",
+      "name": "Służew",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Mokotów",
+      "passengers_2018": 5750000
+    },
+    {
+      "code": "A7",
+      "name": "Wilanowska",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Mokotów",
+      "passengers_2018": 9670000
+    },
+    {
+      "code": "A8",
+      "name": "Wierzbno",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Mokotów",
+      "passengers_2018": 6780000
+    },
+    {
+      "code": "A9",
+      "name": "Racławicka",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Mokotów",
+      "passengers_2018": 4340000
+    },
+    {
+      "code": "A10",
+      "name": "Pole Mokotowskie",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Mokotów",
+      "passengers_2018": 6630000
+    },
+    {
+      "code": "A11",
+      "name": "Politechnika",
+      "line": "M1",
+      "opened": "7 kwietnia 1995",
+      "district": "Śródmieście",
+      "passengers_2018": 12350000
+    },
+    {
+      "code": "A13",
+      "name": "Centrum",
+      "line": "M1",
+      "opened": "26 maja 1998",
+      "district": "Śródmieście",
+      "passengers_2018": 20690000
+    },
+    {
+      "code": "A14",
+      "name": "Świętokrzyska",
+      "line": "M1",
+      "opened": "11 maja 2001",
+      "district": "Śródmieście",
+      "passengers_2018": 13480000
+    },
+    {
+      "code": "A15",
+      "name": "Ratusz Arsenał",
+      "line": "M1",
+      "opened": "11 maja 2001",
+      "district": "Śródmieście",
+      "passengers_2018": 8840000
+    },
+    {
+      "code": "A17",
+      "name": "Dworzec Gdański",
+      "line": "M1",
+      "opened": "20 grudnia 2003",
+      "district": "Śródmieście",
+      "passengers_2018": 7710000
+    },
+    {
+      "code": "A18",
+      "name": "Plac Wilsona",
+      "line": "M1",
+      "opened": "8 kwietnia 2005",
+      "district": "Żoliborz",
+      "passengers_2018": 5090000
+    },
+    {
+      "code": "A19",
+      "name": "Marymont",
+      "line": "M1",
+      "opened": "29 grudnia 2006",
+      "district": "Żoliborz",
+      "passengers_2018": 3250000
+    },
+    {
+      "code": "A20",
+      "name": "Słodowiec",
+      "line": "M1",
+      "opened": "23 kwietnia 2008",
+      "district": "Bielany",
+      "passengers_2018": 3410000
+    },
+    {
+      "code": "A21",
+      "name": "Stare Bielany",
+      "line": "M1",
+      "opened": "25 października 2008",
+      "district": "Bielany",
+      "passengers_2018": 2870000
+    },
+    {
+      "code": "A22",
+      "name": "Wawrzyszew",
+      "line": "M1",
+      "opened": "25 października 2008",
+      "district": "Bielany",
+      "passengers_2018": 3770000
+    },
+    {
+      "code": "A23",
+      "name": "Młociny",
+      "line": "M1",
+      "opened": "25 października 2008",
+      "district": "Bielany",
+      "passengers_2018": 9090000
+    },
+    {
+      "code": "C4",
+      "name": "Bemowo",
+      "line": "M2",
+      "opened": "30 czerwca 2022",
+      "district": "Bemowo",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C5",
+      "name": "Ulrychów",
+      "line": "M2",
+      "opened": "30 czerwca 2022",
+      "district": "Wola",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C6",
+      "name": "Księcia Janusza",
+      "line": "M2",
+      "opened": "4 kwietnia 2020",
+      "district": "Wola",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C7",
+      "name": "Młynów",
+      "line": "M2",
+      "opened": "4 kwietnia 2020",
+      "district": "Wola",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C8",
+      "name": "Płocka",
+      "line": "M2",
+      "opened": "4 kwietnia 2020",
+      "district": "Wola",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C9",
+      "name": "Rondo Daszyńskiego",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Wola",
+      "passengers_2018": 6410000
+    },
+    {
+      "code": "C10",
+      "name": "Rondo ONZ",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Wola / Śródmieście",
+      "passengers_2018": 4270000
+    },
+    {
+      "code": "C11",
+      "name": "Świętokrzyska",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Śródmieście",
+      "passengers_2018": 11600000
+    },
+    {
+      "code": "C12",
+      "name": "Nowy Świat-Uniwersytet",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Śródmieście",
+      "passengers_2018": 4490000
+    },
+    {
+      "code": "C13",
+      "name": "Centrum Nauki Kopernik",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Śródmieście",
+      "passengers_2018": 2470000
+    },
+    {
+      "code": "C14",
+      "name": "Stadion Narodowy",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Praga-Północ",
+      "passengers_2018": 2840000
+    },
+    {
+      "code": "C15",
+      "name": "Dworzec Wileński",
+      "line": "M2",
+      "opened": "8 marca 2015",
+      "district": "Praga-Północ",
+      "passengers_2018": 8460000
+    },
+    {
+      "code": "C16",
+      "name": "Szwedzka",
+      "line": "M2",
+      "opened": "15 września 2019",
+      "district": "Praga-Północ",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C17",
+      "name": "Targówek Mieszkaniowy",
+      "line": "M2",
+      "opened": "15 września 2019",
+      "district": "Targówek",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C18",
+      "name": "Trocka",
+      "line": "M2",
+      "opened": "15 września 2019",
+      "district": "Targówek",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C19",
+      "name": "Zacisze",
+      "line": "M2",
+      "opened": "28 września 2022",
+      "district": "Targówek",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C20",
+      "name": "Kondratowicza",
+      "line": "M2",
+      "opened": "28 września 2022",
+      "district": "Targówek",
+      "passengers_2018": ""
+    },
+    {
+      "code": "C21",
+      "name": "Bródno",
+      "line": "M2",
+      "opened": "28 września 2022",
+      "district": "Targówek",
+      "passengers_2018": ""
+    }
+  ],
+  "meta": {
+    "title": "Stacje metra w Warszawie - Free Download",
+    "description": "Lista stacji warszawskiego metra (linie M1 i M2) z oznaczeniem, datą otwarcia, dzielnicą i liczbą pasażerów w 2018 r. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stacje metra w Warszawie | ListBase",
+    "seo_description": "Download Stacje metra w Warszawie — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_stacji_metra_w_Warszawie"
+    ]
+  }
+}
