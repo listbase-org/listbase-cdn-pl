@@ -1,0 +1,400 @@
+{
+  "id": "pl-swieta-panstwowe-i-dni-pamieci",
+  "name": "Święta państwowe i dni pamięci w Polsce",
+  "title": "Święta państwowe i dni pamięci w Polsce",
+  "description": "Wykaz świąt państwowych, narodowych dni pamięci i innych dni świątecznych w Polsce (także zniesionych), z datą obchodów i rokiem ustanowienia.",
+  "category": "time",
+  "source": "https://pl.wikipedia.org/wiki/Święta_państwowe_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Święta_państwowe_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "rodzaj",
+      "label": "Rodzaj",
+      "type": "string"
+    },
+    {
+      "key": "ustanowienie",
+      "label": "Ustanowienie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "14 lutego",
+      "nazwa": "Narodowy Dzień Pamięci Żołnierzy Armii Krajowej",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2025 r., jako święto państwowe"
+    },
+    {
+      "data": "19 lutego",
+      "nazwa": "Dzień Nauki Polskiej",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2020 r., jako święto państwowe"
+    },
+    {
+      "data": "1 marca",
+      "nazwa": "Narodowy Dzień Pamięci „Żołnierzy Wyklętych”",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2011 r., jako święto państwowe"
+    },
+    {
+      "data": "24 marca",
+      "nazwa": "Narodowy Dzień Pamięci Polaków ratujących Żydów pod okupacją niemiecką",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2018 r., jako święto państwowe"
+    },
+    {
+      "data": "12 kwietnia",
+      "nazwa": "Dzień Inwalidy Wojennego { Inwalida wojenny }",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowione w 2026 r., jako święto państwowe"
+    },
+    {
+      "data": "14 kwietnia",
+      "nazwa": "Święto Chrztu Polski",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowione w 2019 r., jako święto państwowe"
+    },
+    {
+      "data": "1 maja",
+      "nazwa": "święto państwowe, nieformalnie nazywane Świętem Pracy",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowione w 1950 r."
+    },
+    {
+      "data": "3 maja",
+      "nazwa": "Święto Narodowe Trzeciego Maja",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowione w 1919 r., ponownie w 1990 r."
+    },
+    {
+      "data": "8 maja",
+      "nazwa": "Narodowy Dzień Zwycięstwa",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony 24 kwietnia 2015 „w celu upamiętnienia zwycięstwa nad hitlerowskimi Niemcami”"
+    },
+    {
+      "data": "20 czerwca",
+      "nazwa": "Narodowy Dzień Powstań Śląskich",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2022 r., jako święto państwowe"
+    },
+    {
+      "data": "11 lipca",
+      "nazwa": "Narodowy Dzień Pamięci o Polakach – Ofiarach Ludobójstwa dokonanego przez Organizację Ukraińskich Nacjonalistów i Ukraińską Powstańczą Armię na ziemiach wschodnich II Rzeczypospolitej Polskiej",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony ustawą z dnia 4 czerwca 2025, jako święto państwowe"
+    },
+    {
+      "data": "12 lipca",
+      "nazwa": "Dzień Walki i Męczeństwa Wsi Polskiej",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony 29 września 2017 jako święto państwowe w „hołdzie mieszkańcom polskich wsi za ich patriotyczną postawę w czasie II wojny światowej”"
+    },
+    {
+      "data": "1 sierpnia",
+      "nazwa": "Narodowy Dzień Pamięci Powstania Warszawskiego",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2009 r., jako święto państwowe"
+    },
+    {
+      "data": "15 sierpnia",
+      "nazwa": "Święto Wojska Polskiego, ustanowione jako święto państwowe 30 lipca 1992",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "Dz. U. z 1992 r. Nr 60, poz. 303), potwierdzone ustawą z 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2022 r. poz. 655"
+    },
+    {
+      "data": "31 sierpnia",
+      "nazwa": "Dzień Solidarności i Wolności",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2005 r., jako święto państwowe"
+    },
+    {
+      "data": "10 września",
+      "nazwa": "Narodowy Dzień Polskich Dzieci Wojny",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2023 r., jako święto narodowe"
+    },
+    {
+      "data": "19 października",
+      "nazwa": "Narodowy Dzień Pamięci Duchownych Niezłomnych",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2018 r., jako święto państwowe"
+    },
+    {
+      "data": "11 listopada",
+      "nazwa": "Narodowe Święto Niepodległości",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowione w 1937 r., ponownie w 1989 r."
+    },
+    {
+      "data": "27 grudnia",
+      "nazwa": "Narodowy Dzień Zwycięskiego Powstania Wielkopolskiego",
+      "rodzaj": "święto państwowe",
+      "ustanowienie": "ustanowiony w 2021 r., jako święto państwowe"
+    },
+    {
+      "data": "9 maja",
+      "nazwa": "Narodowe Święto Zwycięstwa i Wolności",
+      "rodzaj": "święto zniesione",
+      "ustanowienie": "ustanowione w 1945 r., zniesione 7 maja 2015, gdy weszła w życie ustawa przewidująca między innymi jego zniesienie"
+    },
+    {
+      "data": "22 lipca",
+      "nazwa": "Narodowe Święto Odrodzenia Polski",
+      "rodzaj": "święto zniesione",
+      "ustanowienie": "ustanowione w 1945, zniesione 28 kwietnia 1990, gdy weszła w życie ustawa je znosząca"
+    },
+    {
+      "data": "27 stycznia",
+      "nazwa": "Dzień Pracownika Publicznych Służb Zatrudnienia",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione w 2010 r."
+    },
+    {
+      "data": "22 lutego",
+      "nazwa": "Dzień Ofiar Przestępstw",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2003 r."
+    },
+    {
+      "data": "2 maja",
+      "nazwa": "Dzień Flagi Rzeczypospolitej Polskiej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2004 r.) Dzień Polonii i Polaków za Granicą (ustanowiony w 2002 r."
+    },
+    {
+      "data": "4 maja",
+      "nazwa": "Dzień Strażaka",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2002 r. przy nowelizacji ustawy z 1991 r."
+    },
+    {
+      "data": "16 maja",
+      "nazwa": "Święto Straży Granicznej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "obchodzone od dnia podjęcia służby przez formację, tj. 16 maja 1991"
+    },
+    {
+      "data": "29 maja",
+      "nazwa": "Dzień Weterana Działań poza Granicami Państwa",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2011 r."
+    },
+    {
+      "data": "12 czerwca",
+      "nazwa": "Święto SOP",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione w 2017 r. w miejsce Święta BOR wobec zastąpienia BOR przez SOP"
+    },
+    {
+      "data": "13 czerwca",
+      "nazwa": "Święto Żandarmerii Wojskowej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione w 2001 r."
+    },
+    {
+      "data": "29 czerwca",
+      "nazwa": "Święto Służby Więziennej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione w 2022 r."
+    },
+    {
+      "data": "24 lipca",
+      "nazwa": "Święto Policji",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione 21 lipca 1995, przy nowelizacji ustawy o Policji"
+    },
+    {
+      "data": "31 lipca",
+      "nazwa": "Dzień Skarbowości",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "obchodzony od 2008 r. na podstawie zarządzenia Ministra Finansów, oficjalnie ustanowiony w 2010 r."
+    },
+    {
+      "data": "15 sierpnia",
+      "nazwa": "Święto Wojska Polskiego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowione w 1992, utrzymane w 2022 r., wolne od pracy przy okazji święta katolickiego Wniebowzięcia Najświętszej Maryi Panny"
+    },
+    {
+      "data": "29 sierpnia",
+      "nazwa": "Dzień Straży Gminnej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 1997 r."
+    },
+    {
+      "data": "1 września",
+      "nazwa": "Dzień Weterana Walk o Niepodległość Rzeczypospolitej Polskiej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 1997 r., jako „Dzień Weterana”, od 18 maja 2014 obchodzony pod zmienioną nazwą"
+    },
+    {
+      "data": "21 września",
+      "nazwa": "Dzień Krajowej Administracji Skarbowej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2016 r., zastąpił Dzień Służby Celnej"
+    },
+    {
+      "data": "13 października",
+      "nazwa": "Dzień Ratownictwa Medycznego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2006 r."
+    },
+    {
+      "data": "14 października",
+      "nazwa": "Dzień Edukacji Narodowej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony 27 kwietnia 1972, do 1982 r. jako Dzień Nauczyciela"
+    },
+    {
+      "data": "16 października",
+      "nazwa": "Dzień Papieża Jana Pawła II",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 2005 r."
+    },
+    {
+      "data": "21 listopada",
+      "nazwa": "Dzień Pracownika Socjalnego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "ustanowiony w 1990 r."
+    },
+    {
+      "data": "23 marca",
+      "nazwa": "Dzień Przyjaźni Polsko-Węgierskiej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2007 r."
+    },
+    {
+      "data": "24 marca",
+      "nazwa": "Narodowy Dzień Życia",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2004 r."
+    },
+    {
+      "data": "13 kwietnia",
+      "nazwa": "Dzień Pamięci Ofiar Zbrodni Katyńskiej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2007 r."
+    },
+    {
+      "data": "18 kwietnia",
+      "nazwa": "Dzień Pacjenta w Śpiączce",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2012 r."
+    },
+    {
+      "data": "28 kwietnia",
+      "nazwa": "Dzień Bezpieczeństwa i Ochrony Zdrowia w Pracy",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2003 r."
+    },
+    {
+      "data": "27 maja",
+      "nazwa": "Dzień Samorządu Terytorialnego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2000 r."
+    },
+    {
+      "data": "30 maja",
+      "nazwa": "Dzień Rodzicielstwa Zastępczego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2006 r."
+    },
+    {
+      "data": "1 czerwca",
+      "nazwa": "Dzień bez Alkoholu",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2006 r."
+    },
+    {
+      "data": "4 czerwca",
+      "nazwa": "Dzień Wolności i Praw Obywatelskich",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2013 r."
+    },
+    {
+      "data": "14 czerwca",
+      "nazwa": "Narodowy Dzień Pamięci Ofiar Niemieckich Nazistowskich Obozów Koncentracyjnych i Obozów Zagłady",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2006 r."
+    },
+    {
+      "data": "28 czerwca",
+      "nazwa": "Narodowy Dzień Pamięci Poznańskiego Czerwca 1956",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2006 r."
+    },
+    {
+      "data": "11 lipca",
+      "nazwa": "Narodowy Dzień Pamięci Ofiar Ludobójstwa dokonanego przez ukraińskich nacjonalistów na obywatelach II Rzeczypospolitej Polskiej",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2016 r."
+    },
+    {
+      "data": "2 sierpnia",
+      "nazwa": "Dzień Pamięci o Zagładzie Romów i Sinti",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2011 r."
+    },
+    {
+      "data": "17 września",
+      "nazwa": "Dzień Sybiraka",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2013 r."
+    },
+    {
+      "data": "27 września",
+      "nazwa": "Dzień Podziemnego Państwa Polskiego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 1998 r."
+    },
+    {
+      "data": "2 października",
+      "nazwa": "Narodowy Dzień Pamięci Ofiar Niemieckiej Zbrodni Pomorskiej 1939 r.",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2023 r."
+    },
+    {
+      "data": "4 października",
+      "nazwa": "Dzień Zwierząt",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2006 r."
+    },
+    {
+      "data": "13 grudnia",
+      "nazwa": "Dzień Pamięci Ofiar Stanu Wojennego",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2002 r."
+    },
+    {
+      "data": "16 grudnia - 18 grudnia",
+      "nazwa": "Dni Pamięci Grudnia 1970 { Grudzień 1970 }",
+      "rodzaj": "inny dzień świąteczny / dzień pamięci",
+      "ustanowienie": "uchwalony w 2025 r."
+    }
+  ],
+  "meta": {
+    "title": "Święta państwowe i dni pamięci w Polsce - Free Download",
+    "description": "Wykaz świąt państwowych, narodowych dni pamięci i innych dni świątecznych w Polsce (także zniesionych), z datą obchodów i rokiem ustanowienia. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Święta państwowe i dni pamięci w Polsce | ListBase",
+    "seo_description": "Download Święta państwowe i dni pamięci w Polsce — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Święta_państwowe_w_Polsce"
+    ]
+  }
+}
