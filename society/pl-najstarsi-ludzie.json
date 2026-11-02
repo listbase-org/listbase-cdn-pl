@@ -1,0 +1,716 @@
+{
+  "id": "pl-najstarsi-ludzie",
+  "name": "Najstarsi ludzie w Polsce",
+  "title": "Najstarsi ludzie w Polsce",
+  "description": "Lista najstarszych zweryfikowanych osób w historii Polski (superstulatków), z datą urodzenia, datą śmierci, wiekiem oraz województwem lub krajem zgonu (także emigranci urodzeni na ziemiach polskich bez numeru miejsca w rankingu krajowym).",
+  "category": "society",
+  "source": "https://pl.wikipedia.org/wiki/Lista_najstarszych_ludzi_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_najstarszych_ludzi_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "miejsce",
+      "label": "Miejsce",
+      "type": "number"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "plec",
+      "label": "Plec",
+      "type": "string"
+    },
+    {
+      "key": "data_urodzenia",
+      "label": "Data Urodzenia",
+      "type": "string"
+    },
+    {
+      "key": "data_smierci",
+      "label": "Data Smierci",
+      "type": "string"
+    },
+    {
+      "key": "wiek",
+      "label": "Wiek",
+      "type": "string"
+    },
+    {
+      "key": "kraj_urodzenia",
+      "label": "Kraj Urodzenia",
+      "type": "string"
+    },
+    {
+      "key": "wojewodztwo_lub_kraj_zgonu_zamieszkania",
+      "label": "Wojewodztwo Lub Kraj Zgonu Zamieszkania",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "miejsce": 1,
+      "imie_i_nazwisko": "Tekla Juniewicz",
+      "plec": "K",
+      "data_urodzenia": "10 czerwca 1906",
+      "data_smierci": "19 sierpnia 2022",
+      "wiek": "116 lat 70 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "śląskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Augusta Holtz",
+      "plec": "K",
+      "data_urodzenia": "3 sierpnia 1871",
+      "data_smierci": "21 października 1986",
+      "wiek": "115 lat 79 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Charlotte Kretschmann",
+      "plec": "K",
+      "data_urodzenia": "3 grudnia 1909",
+      "data_smierci": "27 sierpnia 2024",
+      "wiek": "114 lat 269 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Jisra’el Kristal",
+      "plec": "M",
+      "data_urodzenia": "15 września 1903",
+      "data_smierci": "11 sierpnia 2017",
+      "wiek": "113 lat 330 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Izrael"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Józef Kowalski",
+      "plec": "M",
+      "data_urodzenia": "2 lutego 1900",
+      "data_smierci": "7 grudnia 2013",
+      "wiek": "113 lat 308 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubuskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Jadwiga Żak-Stewart",
+      "plec": "K",
+      "data_urodzenia": "15 lipca 1912",
+      "data_smierci": "26 stycznia 2026",
+      "wiek": "114 lat 110 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "łódzkie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Erna Brosig",
+      "plec": "K",
+      "data_urodzenia": "15 stycznia 1911",
+      "data_smierci": "23 lipca 2024",
+      "wiek": "113 lat 190 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Mary Drymalski",
+      "plec": "K",
+      "data_urodzenia": "22 lipca 1880",
+      "data_smierci": "1 grudnia 1993",
+      "wiek": "113 lat 132 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Rose Girone",
+      "plec": "K",
+      "data_urodzenia": "13 stycznia 1912",
+      "data_smierci": "24 lutego 2025",
+      "wiek": "113 lat 42 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Rosa Rein",
+      "plec": "K",
+      "data_urodzenia": "24 marca 1897",
+      "data_smierci": "14 lutego 2010",
+      "wiek": "112 lat 327 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Szwajcaria"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Hildeburg Lange",
+      "plec": "K",
+      "data_urodzenia": "12 stycznia 1907",
+      "data_smierci": "~ 20 września 2019",
+      "wiek": "112 lat ~251 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Gertruda Górecka",
+      "plec": "K",
+      "data_urodzenia": "12 listopada 1911",
+      "data_smierci": "25 czerwca 2024",
+      "wiek": "112 lat 226 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Kanada"
+    },
+    {
+      "miejsce": 2,
+      "imie_i_nazwisko": "Antonina Partyka",
+      "plec": "K",
+      "data_urodzenia": "22 września 1908",
+      "data_smierci": "17 listopada 2020",
+      "wiek": "112 lat 56 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubuskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Meta Berndt",
+      "plec": "K",
+      "data_urodzenia": "9 listopada 1889",
+      "data_smierci": "28 grudnia 2001",
+      "wiek": "112 lat 49 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Johanna Klink",
+      "plec": "K",
+      "data_urodzenia": "17 stycznia 1903",
+      "data_smierci": "20 lutego 2015",
+      "wiek": "112 lat 34 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": 3,
+      "imie_i_nazwisko": "Stanisław Kowalski",
+      "plec": "M",
+      "data_urodzenia": "14 kwietnia 1910",
+      "data_smierci": "5 kwietnia 2022",
+      "wiek": "111 lat 356 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "dolnośląskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Theresa Bernstein-Meyerowitz",
+      "plec": "K",
+      "data_urodzenia": "1 marca 1890",
+      "data_smierci": "13 lutego 2002",
+      "wiek": "111 lat 349 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 4,
+      "imie_i_nazwisko": "Anna Styś",
+      "plec": "K",
+      "data_urodzenia": "24 lipca 1908",
+      "data_smierci": "1 lipca 2020",
+      "wiek": "111 lat 343 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "pomorskie"
+    },
+    {
+      "miejsce": 5,
+      "imie_i_nazwisko": "Wanda Wierzchleyska",
+      "plec": "K",
+      "data_urodzenia": "3 marca 1900",
+      "data_smierci": "14 stycznia 2012",
+      "wiek": "111 lat 317 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "mazowieckie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Ida Wilhelmine Schorn",
+      "plec": "K",
+      "data_urodzenia": "4 maja 1864",
+      "data_smierci": "8 marca 1976",
+      "wiek": "111 lat 309 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 6,
+      "imie_i_nazwisko": "Jadwiga Szubartowicz",
+      "plec": "K",
+      "data_urodzenia": "16 października 1905",
+      "data_smierci": "20 lipca 2017",
+      "wiek": "111 lat 277 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubelskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Maria Pogonowska",
+      "plec": "K",
+      "data_urodzenia": "30 października 1897",
+      "data_smierci": "15 lipca 2009",
+      "wiek": "111 lat 258 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Izrael"
+    },
+    {
+      "miejsce": 7,
+      "imie_i_nazwisko": "Anna Winiarska",
+      "plec": "K",
+      "data_urodzenia": "23 lutego 1915",
+      "data_smierci": "żyje",
+      "wiek": "111 lat 252 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "podkarpackie"
+    },
+    {
+      "miejsce": 8,
+      "imie_i_nazwisko": "Joanna Lipińska",
+      "plec": "K",
+      "data_urodzenia": "18 sierpnia 1910",
+      "data_smierci": "6 marca 2022",
+      "wiek": "111 lat 200 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "wielkopolskie"
+    },
+    {
+      "miejsce": 9,
+      "imie_i_nazwisko": "Wanda Szajowska",
+      "plec": "K",
+      "data_urodzenia": "12 lutego 1911",
+      "data_smierci": "26 sierpnia 2022",
+      "wiek": "111 lat 195 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "małopolskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Margarete Ottmann",
+      "plec": "K",
+      "data_urodzenia": "23 lutego 1903",
+      "data_smierci": "17 sierpnia 2014",
+      "wiek": "111 lat 175 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Frieda Borchert",
+      "plec": "K",
+      "data_urodzenia": "5 stycznia 1897",
+      "data_smierci": "22 czerwca 2008",
+      "wiek": "111 lat 169 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Fannie Buten",
+      "plec": "K",
+      "data_urodzenia": "13 kwietnia 1899",
+      "data_smierci": "24 września 2010",
+      "wiek": "111 lat 164 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 10,
+      "imie_i_nazwisko": "Józefa Ciesielska",
+      "plec": "K",
+      "data_urodzenia": "6 marca 1912",
+      "data_smierci": "3 sierpnia 2023",
+      "wiek": "111 lat 149 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "wielkopolskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Jerzy Pajączkowski-Dydyński",
+      "plec": "M",
+      "data_urodzenia": "19 lipca 1894",
+      "data_smierci": "6 grudnia 2005",
+      "wiek": "111 lat 140 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Wielka Brytania"
+    },
+    {
+      "miejsce": 11,
+      "imie_i_nazwisko": "Czesława Łasiewicz",
+      "plec": "K",
+      "data_urodzenia": "14 stycznia 1907",
+      "data_smierci": "29 maja 2018",
+      "wiek": "111 lat 135 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "podlaskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Alexander Imich",
+      "plec": "M",
+      "data_urodzenia": "4 lutego 1903",
+      "data_smierci": "8 czerwca 2014",
+      "wiek": "111 lat 124 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 12,
+      "imie_i_nazwisko": "Rozalia Milczarek",
+      "plec": "K",
+      "data_urodzenia": "5 października 1869",
+      "data_smierci": "5 stycznia 1981",
+      "wiek": "111 lat 122 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubuskie"
+    },
+    {
+      "miejsce": 13,
+      "imie_i_nazwisko": "Ludwika Kosztyła",
+      "plec": "K",
+      "data_urodzenia": "3 sierpnia 1897",
+      "data_smierci": "1 grudnia 2008",
+      "wiek": "111 lat 120 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "podkarpackie"
+    },
+    {
+      "miejsce": 14,
+      "imie_i_nazwisko": "Jadwiga Zołotucho",
+      "plec": "K",
+      "data_urodzenia": "29 marca 1892",
+      "data_smierci": "1 lipca 2003",
+      "wiek": "111 lat 94 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "warmińsko-mazurskie"
+    },
+    {
+      "miejsce": 15,
+      "imie_i_nazwisko": "Eleonora Łosiewicz",
+      "plec": "K",
+      "data_urodzenia": "24 stycznia 1910",
+      "data_smierci": "13 kwietnia 2021",
+      "wiek": "111 lat 79 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "wielkopolskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Victoria Rozelle",
+      "plec": "K",
+      "data_urodzenia": "17 maja 1913",
+      "data_smierci": "23 lipca 2024",
+      "wiek": "111 lat 67 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 16,
+      "imie_i_nazwisko": "Anna Gawłowska",
+      "plec": "K",
+      "data_urodzenia": "6 czerwca 1913",
+      "data_smierci": "19 lipca 2024",
+      "wiek": "111 lat 43 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "śląskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Ida Enthof",
+      "plec": "K",
+      "data_urodzenia": "7 września 1913",
+      "data_smierci": "1 października 2024",
+      "wiek": "111 lat 24 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": 17,
+      "imie_i_nazwisko": "Michalina Wasilewska",
+      "plec": "K",
+      "data_urodzenia": "21 grudnia 1898",
+      "data_smierci": "3 stycznia 2010",
+      "wiek": "111 lat 13 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "mazowieckie"
+    },
+    {
+      "miejsce": 18,
+      "imie_i_nazwisko": "Irena Śmiałowska",
+      "plec": "K",
+      "data_urodzenia": "27 marca 1908",
+      "data_smierci": "30 marca 2019",
+      "wiek": "111 lat 3 dni",
+      "kraj_urodzenia": "",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "mazowieckie"
+    },
+    {
+      "miejsce": 19,
+      "imie_i_nazwisko": "Zofia Powałowska",
+      "plec": "K",
+      "data_urodzenia": "1 listopada 1915",
+      "data_smierci": "żyje",
+      "wiek": "111 lat 1 dzień",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "pomorskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Pauline Spyra",
+      "plec": "K",
+      "data_urodzenia": "24 kwietnia 1886",
+      "data_smierci": "11 stycznia 1997",
+      "wiek": "110 lat 262 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": 20,
+      "imie_i_nazwisko": "Maria Roszak (s. Cecylia)",
+      "plec": "K",
+      "data_urodzenia": "25 marca 1908",
+      "data_smierci": "16 listopada 2018",
+      "wiek": "110 lat 236 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "małopolskie"
+    },
+    {
+      "miejsce": 21,
+      "imie_i_nazwisko": "Gertrud Frontzek",
+      "plec": "K",
+      "data_urodzenia": "15 marca 1916",
+      "data_smierci": "26 października 2026",
+      "wiek": "110 lat 225 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "śląskie"
+    },
+    {
+      "miejsce": 22,
+      "imie_i_nazwisko": "Aleksandra Dranka",
+      "plec": "K",
+      "data_urodzenia": "3 października 1903",
+      "data_smierci": "29 kwietnia 2014",
+      "wiek": "110 lat 208 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "podkarpackie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Gerhart Schneider",
+      "plec": "M",
+      "data_urodzenia": "13 marca 1908",
+      "data_smierci": "18 grudnia 2018",
+      "wiek": "110 lat 180 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Franziska Umrath",
+      "plec": "K",
+      "data_urodzenia": "5 września 1885",
+      "data_smierci": "18 lutego 1996",
+      "wiek": "110 lat 166 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Stanisława Opalińska",
+      "plec": "K",
+      "data_urodzenia": "10 maja 1916",
+      "data_smierci": "żyje",
+      "wiek": "110 lat 176 dni",
+      "kraj_urodzenia": "Austro-Węgry",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "pomorskie"
+    },
+    {
+      "miejsce": 23,
+      "imie_i_nazwisko": "Marianna Misiewicz",
+      "plec": "K",
+      "data_urodzenia": "26 stycznia 1902",
+      "data_smierci": "28 czerwca 2012",
+      "wiek": "110 lat 154 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "podlaskie"
+    },
+    {
+      "miejsce": 24,
+      "imie_i_nazwisko": "Irena Siła-Nowicka",
+      "plec": "K",
+      "data_urodzenia": "30 stycznia 1913",
+      "data_smierci": "25 czerwca 2023",
+      "wiek": "110 lat 146 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "mazowieckie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Maria Jantke",
+      "plec": "K",
+      "data_urodzenia": "18 października 1902",
+      "data_smierci": "9 marca 2013",
+      "wiek": "110 lat 142 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": 25,
+      "imie_i_nazwisko": "Elżbieta Rogala",
+      "plec": "K",
+      "data_urodzenia": "3 listopada 1911",
+      "data_smierci": "23 marca 2022",
+      "wiek": "110 lat 140 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "kujawsko-pomorskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Elfriede Petrasch",
+      "plec": "K",
+      "data_urodzenia": "14 lutego 1905",
+      "data_smierci": "20 czerwca 2015",
+      "wiek": "110 lat 126 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Ruth Weyl",
+      "plec": "K",
+      "data_urodzenia": "6 listopada 1908",
+      "data_smierci": "23 lutego 2019",
+      "wiek": "110 lat 109 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Stany Zjednoczone"
+    },
+    {
+      "miejsce": 26,
+      "imie_i_nazwisko": "Helena Michalik",
+      "plec": "K",
+      "data_urodzenia": "22 maja 1914",
+      "data_smierci": "7 września 2024",
+      "wiek": "110 lat 108 dni",
+      "kraj_urodzenia": "Stany Zjednoczone",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "świętokrzyskie"
+    },
+    {
+      "miejsce": "",
+      "imie_i_nazwisko": "Bruno Kant",
+      "plec": "M",
+      "data_urodzenia": "26 lutego 1916",
+      "data_smierci": "29 maja 2026",
+      "wiek": "110 lat 92 dni",
+      "kraj_urodzenia": "Cesarstwo Niemieckie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "Niemcy"
+    },
+    {
+      "miejsce": 27,
+      "imie_i_nazwisko": "Kazimiera Koralewska",
+      "plec": "K",
+      "data_urodzenia": "15 stycznia 1910",
+      "data_smierci": "20 marca 2020",
+      "wiek": "110 lat 65 dni",
+      "kraj_urodzenia": "kujawsko-pomorskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": ""
+    },
+    {
+      "miejsce": 28,
+      "imie_i_nazwisko": "Józefa Karczewska",
+      "plec": "K",
+      "data_urodzenia": "23 listopada 1902",
+      "data_smierci": "18 stycznia 2013",
+      "wiek": "110 lat 56 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "łódzkie"
+    },
+    {
+      "miejsce": 29,
+      "imie_i_nazwisko": "Józefa Stanisława Szyda",
+      "plec": "K",
+      "data_urodzenia": "11 marca 1903",
+      "data_smierci": "1 maja 2013",
+      "wiek": "110 lat 51 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "łódzkie"
+    },
+    {
+      "miejsce": 30,
+      "imie_i_nazwisko": "Marianna Smolarczyk",
+      "plec": "K",
+      "data_urodzenia": "16 lutego 1897",
+      "data_smierci": "30 marca 2007",
+      "wiek": "110 lat 42 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "świętokrzyskie"
+    },
+    {
+      "miejsce": 31,
+      "imie_i_nazwisko": "Julianna Garbacz",
+      "plec": "K",
+      "data_urodzenia": "22 czerwca 1900",
+      "data_smierci": "18 lipca 2010",
+      "wiek": "110 lat 26 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "świętokrzyskie"
+    },
+    {
+      "miejsce": 32,
+      "imie_i_nazwisko": "Agnieszka Strzałka",
+      "plec": "K",
+      "data_urodzenia": "1 sierpnia 1912",
+      "data_smierci": "25 sierpnia 2022",
+      "wiek": "110 lat 24 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubelskie"
+    },
+    {
+      "miejsce": 33,
+      "imie_i_nazwisko": "Emilia Borchert",
+      "plec": "K",
+      "data_urodzenia": "23 listopada 1910",
+      "data_smierci": "6 grudnia 2020",
+      "wiek": "110 lat 13 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "mazowieckie"
+    },
+    {
+      "miejsce": 34,
+      "imie_i_nazwisko": "Marianna Błaziak",
+      "plec": "K",
+      "data_urodzenia": "14 września 1909",
+      "data_smierci": "25 września 2019",
+      "wiek": "110 lat 11 dni",
+      "kraj_urodzenia": "Imperium Rosyjskie",
+      "wojewodztwo_lub_kraj_zgonu_zamieszkania": "lubelskie"
+    }
+  ],
+  "meta": {
+    "title": "Najstarsi ludzie w Polsce - Free Download",
+    "description": "Lista najstarszych zweryfikowanych osób w historii Polski (superstulatków), z datą urodzenia, datą śmierci, wiekiem oraz województwem lub krajem zgonu (także emigranci urodzeni na ziemiach polskich bez numeru miejsca w rankingu krajowym). Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najstarsi ludzie w Polsce | ListBase",
+    "seo_description": "Download Najstarsi ludzie w Polsce — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_najstarszych_ludzi_w_Polsce"
+    ]
+  }
+}
