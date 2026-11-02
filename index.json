@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-02T02:24:17.750Z",
-  "total_datasets": 521,
-  "total_records": 1092270,
+  "generated": "2026-11-02T02:24:24.019Z",
+  "total_datasets": 522,
+  "total_records": 1092286,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -3555,6 +3555,29 @@
         "xlsx": {
           "name": "pl-ministrowie-zdrowia_PL.xlsx",
           "size": 10301
+        }
+      }
+    },
+    {
+      "id": "pl-oddzialy-wojewodzkie-nfz",
+      "name": "Oddziały wojewódzkie Narodowego Funduszu Zdrowia",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "kod_oddzialu",
+        "oddzial_wojewodzki"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Narodowy_Fundusz_Zdrowia",
+      "updated": "2026-11",
+      "size": 3295,
+      "files": {
+        "csv": {
+          "name": "pl-oddzialy-wojewodzkie-nfz_PL.csv",
+          "size": 761
+        },
+        "xlsx": {
+          "name": "pl-oddzialy-wojewodzkie-nfz_PL.xlsx",
+          "size": 7080
         }
       }
     },

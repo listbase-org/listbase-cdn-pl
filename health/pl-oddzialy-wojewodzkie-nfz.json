@@ -1,0 +1,100 @@
+{
+  "id": "pl-oddzialy-wojewodzkie-nfz",
+  "name": "Oddziały wojewódzkie Narodowego Funduszu Zdrowia",
+  "title": "Oddziały wojewódzkie Narodowego Funduszu Zdrowia",
+  "description": "16 oddziałów wojewódzkich Narodowego Funduszu Zdrowia (NFZ) wraz z ich kodami (01R–16R) używanymi m.in. na receptach i w rozliczeniach.",
+  "category": "health",
+  "source": "https://pl.wikipedia.org/wiki/Narodowy_Fundusz_Zdrowia",
+  "source_url": "https://pl.wikipedia.org/wiki/Narodowy_Fundusz_Zdrowia",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "kod_oddzialu",
+      "label": "Kod Oddzialu",
+      "type": "string"
+    },
+    {
+      "key": "oddzial_wojewodzki",
+      "label": "Oddzial Wojewodzki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod_oddzialu": "01R",
+      "oddzial_wojewodzki": "Dolnośląski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "02R",
+      "oddzial_wojewodzki": "Kujawsko-Pomorski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "03R",
+      "oddzial_wojewodzki": "Lubelski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "04R",
+      "oddzial_wojewodzki": "Lubuski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "05R",
+      "oddzial_wojewodzki": "Łódzki Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "06R",
+      "oddzial_wojewodzki": "Małopolski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "07R",
+      "oddzial_wojewodzki": "Mazowiecki Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "08R",
+      "oddzial_wojewodzki": "Opolski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "09R",
+      "oddzial_wojewodzki": "Podkarpacki Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "10R",
+      "oddzial_wojewodzki": "Podlaski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "11R",
+      "oddzial_wojewodzki": "Pomorski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "12R",
+      "oddzial_wojewodzki": "Śląski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "13R",
+      "oddzial_wojewodzki": "Świętokrzyski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "14R",
+      "oddzial_wojewodzki": "Warmińsko-Mazurski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "15R",
+      "oddzial_wojewodzki": "Wielkopolski Oddział Wojewódzki NFZ"
+    },
+    {
+      "kod_oddzialu": "16R",
+      "oddzial_wojewodzki": "Zachodniopomorski Oddział Wojewódzki NFZ"
+    }
+  ],
+  "meta": {
+    "title": "Oddziały wojewódzkie Narodowego Funduszu Zdrowia - Free Download",
+    "description": "16 oddziałów wojewódzkich Narodowego Funduszu Zdrowia (NFZ) wraz z ich kodami (01R–16R) używanymi m.in. na receptach i w rozliczeniach. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oddziały wojewódzkie Narodowego Funduszu Zdrowia | ListBase",
+    "seo_description": "Download Oddziały wojewódzkie Narodowego Funduszu Zdrowia — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Narodowy_Fundusz_Zdrowia"
+    ]
+  }
+}
