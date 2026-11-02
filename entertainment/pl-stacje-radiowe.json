@@ -1,0 +1,2744 @@
+{
+  "id": "pl-stacje-radiowe",
+  "name": "Stacje radiowe w Polsce",
+  "title": "Stacje radiowe w Polsce",
+  "description": "Polskie i polskojęzyczne stacje radiowe: ogólnopolskie programy i sieci (Polskie Radio, RMF, Eurozet, ZPR), rozgłośnie akademickie oraz stacje regionalne i lokalne według województw z częstotliwościami.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Polskie_i_polskojęzyczne_stacje_radiowe_odbierane_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Polskie_i_polskojęzyczne_stacje_radiowe_odbierane_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 336,
+  "columns": [
+    {
+      "key": "stacja",
+      "label": "Stacja",
+      "type": "string"
+    },
+    {
+      "key": "grupa_lub_wojewodztwo",
+      "label": "Grupa Lub Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "zasieg",
+      "label": "Zasieg",
+      "type": "string"
+    },
+    {
+      "key": "jezyk",
+      "label": "Jezyk",
+      "type": "string"
+    },
+    {
+      "key": "czestotliwosci",
+      "label": "Czestotliwosci",
+      "type": "string"
+    },
+    {
+      "key": "odbior_satelitarny",
+      "label": "Odbior Satelitarny",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stacja": "Program 1 (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Polskie Radio",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8"
+    },
+    {
+      "stacja": "Program 2 (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Polskie Radio",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Program 3 (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Polskie Radio",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8"
+    },
+    {
+      "stacja": "Polskie Radio 24 (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Polskie Radio",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "sieć rozgłośni regionalnych skupionych w Audytorium 17",
+      "grupa_lub_wojewodztwo": "Polskie Radio",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "RMF FM (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Grupa RMF",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8 Astra 3B"
+    },
+    {
+      "stacja": "RMF Classic (ponadregionalny w 21 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Grupa RMF",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8 Astra 3B"
+    },
+    {
+      "stacja": "RMF MAXX (sieć 23 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa RMF",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8 Astra 3B"
+    },
+    {
+      "stacja": "Radio Gra (Toruń, Wrocław)",
+      "grupa_lub_wojewodztwo": "Grupa RMF",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Zet (ogólnopolskie)",
+      "grupa_lub_wojewodztwo": "Eurozet",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Chillizet (sieć 5 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Eurozet",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Antyradio (ponadregionalne w 17 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Eurozet",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio (sieć 19 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Eurozet",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Tok FM (ponadregionalny w 23 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Grupa Eurozet (Dawniej Grupa Radiowa Agory)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Złote Przeboje (sieć 24 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa Eurozet (Dawniej Grupa Radiowa Agory)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Hot Bird 8 (Radio Złote Przeboje 100,1 FM) Astra 3B"
+    },
+    {
+      "stacja": "Radio Pogoda (sieć 8 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa Eurozet (Dawniej Grupa Radiowa Agory)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Kiss FM (sieć 4 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa Eurozet (Dawniej Grupa Radiowa Agory)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska (sieć 42 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa ZPR Media (Grupa Radiowa Time)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska Rock (lokalny w Warszawie, ponadregionalny w 9 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Grupa ZPR Media (Grupa Radiowa Time)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 (sieć 14 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa ZPR Media (Grupa Radiowa Time)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Vox FM (ponadregionalny w 22 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Grupa ZPR Media (Grupa Radiowa Time)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Plus (sieć 18 rozgłośni)",
+      "grupa_lub_wojewodztwo": "Grupa ZPR Media (Grupa Radiowa Time)",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Kolor (sieć rozgłośni)",
+      "grupa_lub_wojewodztwo": "MFM Sp.z.o.o",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Afera (Poznań, Politechnika Poznańska)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Akadera (Białystok, Politechnika Białostocka)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Centrum (Lublin, UMCS)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Centrum (Rzeszów, Politechnika Rzeszowska)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Index (Zielona Góra, Uniwersytet Zielonogórski)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Kampus (Warszawa, Uniwersytet Warszawski)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Luz (Wrocław, Politechnika Wrocławska)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio UWM FM (Olsztyn, Uniwersytet Warmińsko-Mazurski)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Studenckie Radio Żak Politechniki Łódzkiej (Łódź, Politechnika Łódzka)",
+      "grupa_lub_wojewodztwo": "Grupa Polskie Rozgłośnie Akademickie",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Maryja (ogólnopolski)",
+      "grupa_lub_wojewodztwo": "Pozostałe",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "Astra 1L"
+    },
+    {
+      "stacja": "Radio Wnet (ponadregionalny w 8 lokalizacjach)",
+      "grupa_lub_wojewodztwo": "Pozostałe",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "polski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Białoruskie Radio Racja (Białystok, Biała Podlaska)",
+      "grupa_lub_wojewodztwo": "Pozostałe",
+      "zasieg": "ogólnopolska/sieciowa",
+      "jezyk": "białoruski",
+      "czestotliwosci": "",
+      "odbior_satelitarny": "HotBird 6 Astra 4A"
+    },
+    {
+      "stacja": "Polskie Radio Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89 / 95,5 / 96 / 96,7 / 98 / 102,3 / 103,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RAM – Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Akademickie Radio Luz – Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Rodzina – Wrocław (dawniej: Katolickie Radio Rodzina)",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,5 / 88,7 / 90,7 / 92 / 94 / 94,8 / 97,1 / 98,1 / 99,6 / 107,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Meloradio Dzierżoniów",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Muzyczne Radio – Jelenia Góra",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,9 / 105,8 / 106,7 MHz (Wałbrzych)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Elka Głogów",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,6 / 98,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,2 / 104,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Gra Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Plus Głogów",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Legnica",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,7 / 94,9 / 102,6 / 102,8 / 103,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Dolny Śląsk – Wałbrzych",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,1 / 99,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Oleśnica",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Sudety 24 – Strzegom",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 Jelenia Góra",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Trzebnica",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,5 / 97,3 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Jelenia Góra",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Kolor – Wrocław",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Legnica",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Wałbrzych",
+      "grupa_lub_wojewodztwo": "województwo dolnośląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Pomorza i Kujaw (Radio PiK) – Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,1 / 100,3 / 106,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Inowrocław",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Toruń",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Grudziądz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Toruń",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Gra Toruń",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Hit – Włocławek",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Kujawy – Włocławek",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Nakło – Nakło",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,6 / 102,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Inowrocław",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Włocławek",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Toruń",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Włocławek",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Elita – Bydgoszcz",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Żnin FM – Żnin",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,0 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio TOK FM",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Maryja",
+      "grupa_lub_wojewodztwo": "województwo kujawsko-pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,1 / 102,2 / 103,1 / 103,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Freee – Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Bon Ton Radio – Chełm",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Akademickie Radio Centrum – Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Kraśnik",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Zamość",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,3 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Impuls – Puławy",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Lublin (dawniej: Radio eR)",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,9 / 91,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Puls – Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Zamość",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,3 / 99,5 MHz (Hrubieszów)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Zamość",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,1",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio 92,9 – Lublin",
+      "grupa_lub_wojewodztwo": "województwo lubelskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Zachód – Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103 / 106 MHz (Żagań)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Gorzów – Gorzów Wielkopolski",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Gorzów",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Żary",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Index – Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Gorzów",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,6 / 100,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Lubuskie – Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 / 94,9 MHz (Gorzów Wlkp.)",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Vox FM Gorzów",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Zielona Góra",
+      "grupa_lub_wojewodztwo": "województwo lubuskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,4 / 98,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,7 / 99,2 / 101,5 / 104 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Nasze Radio – Sieradz",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Nasze Radio 92,1 FM – Nostalgicznie – Sieradz",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,1 MHz (Zduńska Wola)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Bełchatów",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Fama Tomaszów Mazowiecki",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Parada – Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96 / 97,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Q – Kutno",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Tomaszów Mazowiecki",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RSC – Skierniewice",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Strefa FM – Piotrków Trybunalski",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,2 / 104,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Victoria – Łowicz",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,8 / 94,7 / 96,7 / 98,1 / 103,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Ziemi Wieluńskiej – Wieluń",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,6 / 97,2 / 97,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,3 MHz (Pabianice)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Studenckie Radio Żak Politechniki Łódzkiej – Łódź",
+      "grupa_lub_wojewodztwo": "województwo łódzkie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,6 / 90 / 97,4 / 98,8 / 100 / 101 / 101,6 / 102,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Ain Karim – Skomielna Czarna",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Alex – Zakopane",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Małopolska – Nowy Sącz (dawniej: Radio Eska Bochnia, Radio Maks)",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Tarnów (dawniej: Radio Maks)",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Plus Kraków (dawniej: Radio Mariackie, Vox FM Kraków)",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Podhale",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,7 / 107,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Pogoda – Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Profeto – Stadniki",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,1 / 100,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RDN Małopolska – Tarnów (dawniej: Radio Dobra Nowina, Radio Plus Tarnów)",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RDN Nowy Sącz",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,3 / 101,2 / 105,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF Maxxx Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Nowy Sącz (dawniej: Radio Galicja)",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Nowy Sącz",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Echo – Nowy Sącz",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,3 / 93,8 / 99,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Tarnów",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Wanda – Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Kiss FM (dawniej: Rock Radio) – Kraków",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Andrychów",
+      "grupa_lub_wojewodztwo": "województwo małopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio RDC – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,6 / 89,1 / 100,8 / 101 / 101,9 / 103,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Diecezji Płockiej – Ciechanów",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,9 / 99,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Diecezji Płockiej – Płock",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,3 / 91,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Podlasie – Siedlce",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 / 106 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Zbrosza Duża – Zbrosza Duża",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94 MHz",
+      "odbior_satelitarny": "Hot Bird 9"
+    },
+    {
+      "stacja": "POPradio – Pruszków",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio 7 – Mława",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88 / 90,8 / 100,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Bogoria – Grodzisk Mazowiecki",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Chillizet – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,5 / 93,7 (Kraków) / 107,8 (Hel) / 91,6 MHz (Wejherowo)",
+      "odbior_satelitarny": "Hot Bird 9"
+    },
+    {
+      "stacja": "Radio Eska Płock",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Radom",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Siedlce",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Rock Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Fama Wołomin",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Fama Żyrardów",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Jutrzenka – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,5 MHz (12:00–24:00)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Kampus – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Kolor – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Niepokalanów",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Oko – Ostrołęka",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Radom",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,7 / 94 / 97,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Płock FM – Płock",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Płońsk – Płońsk",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,4 (24h) / 99,5 MHz (24:00–12:00)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Radom – Radom",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Rekord – Radom",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,2 / 93,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Rekord Mazowsze – Ciechanów",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF Classic Warszawa (dawniej Radio Zdrowie)",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF Maxx Mazowsze – Ciechanów",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,4 / 89,6 / 90,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF Maxx Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Sochaczew – Sochaczew",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 / 90,3 MHz (Ostrołęka)",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Vox FM Radom (dawniej: Radio Mazowsze)",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,9 / 106,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Warszawa (dawniej: Radio Warszawa–Praga)",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,1 MHz",
+      "odbior_satelitarny": "Hot Bird 8"
+    },
+    {
+      "stacja": "Kiss FM (dawniej: Rock Radio) – Warszawa",
+      "grupa_lub_wojewodztwo": "województwo mazowieckie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88 / 89,1 / 92,6 / 94,8 / 96,3 / 101,2 / 103,2 / 105,1 / 107,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Inne Radio – Głuchołazy",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,2 / 106,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Doxa – Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,8 / 89,6 / 96,7 / 107,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio ONY – Nysa",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Park – Kędzierzyn-Koźle",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,9 / 97,1 MHz (Brzeg) / 99,1 (Opole)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje O!le – Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Rock Radio – Opole",
+      "grupa_lub_wojewodztwo": "województwo opolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Rzeszów",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,3 / 90,5 / 96,4 / 99,2 / 102 / 102,9 / 103,7 / 105,5 / 106,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Akademickie Radio Centrum – Rzeszów",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Kołaczyckie – Kołaczyce",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Katolickie Radio Rzeszów – Via",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,1 / 103,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Przemyśl (dawniej Radio HOT)",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,3 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Rzeszów",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,5 / 99,4 / 104,9 / 106,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Fara – Przemyśl",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,2 / 104,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Leliwa – Tarnobrzeg",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,5 / 102,4 / 104,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Krosno",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Rzeszów",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,6 / 98,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Res – Rzeszów",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Bieszczady",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Trendy Radio – Krosno",
+      "grupa_lub_wojewodztwo": "województwo podkarpackie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,9 / 95,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,4 / 87,9 (Łomża) / 89,4 (Białowieża) / 98,6 (Suwałki) / 104,1 MHz (Siemiatycze)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio 5 – Suwałki",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,2 / 94,1 / 97,7 / 99,8 / 107,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Akadera – Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Łomża",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,8 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Suwałki",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio i – Białystok (dawniej Radio Plus Białystok, Vox FM Białystok)",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,9 / 103,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Jard – Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,2 / 90,1 / 95,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Nadzieja – Łomża",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,8 / 103,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Orthodoxia – Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,7 / 91,3 / 92,5 / 98,7 MHz (16:00–21:00)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Racja – Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,1 / 99,2 MHz (Biała Podlaska)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Podlasie – Białystok (dawniej Radio Bab)",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Białystok",
+      "grupa_lub_wojewodztwo": "województwo podlaskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Gdańsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,1 / 102 / 103,7 / 106 / 107 MHz (Chojnice)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Słupsk (stacja miejska Radia Koszalin)",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Trójmiasto – Gdańsk (dawniej Radio Arnet, Hit FM)",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,7 / 94,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Fama Słupsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Głos – Pelplin",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,4 / 94,2 / 97,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Kaszëbë – Rumia",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "kaszubski, polski",
+      "czestotliwosci": "92,3 / 98,9 / 106,1 / 90,1 (Kościerzyna) / 94,9 (Lębork) / 104,5 MHz (Bytów) / 102,6 (Wejherowo)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Malbork – Malbork",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Norda FM – Wejherowo",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Gdańsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Gdańsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Pomorze – Słupsk (dawniej Radio Vigor FM)",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,6 / 91,5 / 101,2 / 102,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Trójmiasto – Gdańsk (dawniej Eska Nord)",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,4 / 106,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Starogard – Starogard Gdański",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 Trójmiasto – Gdańsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Tczew – Tczew",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Weekend – Chojnice",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,8 / 91,7 / 99,3 / 105,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Trefl – Gdańsk",
+      "grupa_lub_wojewodztwo": "województwo pomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,2 / 103 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Katowice",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,3 / 97 / 98,4 / 101,2 / 102,2 / 103 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Antyradio Katowice (dawniej Radio Flash)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 / 105 / 106,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Bielsko – Bielsko-Biała",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "87,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Katowice",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio 90 FM – Rybnik",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90 / 95,2 MHz (Cieszyn)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Anioł Beskidów – Bielsko-Biała",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Bielsko – Bielsko-Biała",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,7 / 99,9 / 103,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Chillizet Katowice",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Express – Bielsko-Biała (dawniej Radio Mega FM)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92,3 MHz (Łaziska Górne)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio eM – Katowice",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Beskidy – Żywiec",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Południe – Gliwice (dawniej Radio CCM)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,5 / 93,4 / 94,9 / 97,6 / 107,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Śląsk – Sosnowiec (dawniej Radio Rezonans)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Fest – Gliwice",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Fiat – Częstochowa",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Jasna Góra – Częstochowa",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,6 MHz",
+      "odbior_satelitarny": "Hot Bird 9"
+    },
+    {
+      "stacja": "Radio Jura – Częstochowa",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Piekary – Piekary Śląskie",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Tychy",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Częstochowa (dawniej Radio Fon)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Śląsk (dawniej Radio Fan)",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Silesia – Zabrze",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje C – Częstochowa",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Karolina – Tychy",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,2 / 96,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Vanessa – Racibórz",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,3 / 94,9 (Olesno) / 95,8 MHz (Krapkowice)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Twoja Polska Stacja – Częstochowa",
+      "grupa_lub_wojewodztwo": "województwo śląskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Kielce",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,4 / 100 / 101,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Kielce",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio eM Kielce (dawniej: Radio Jedność, Radio Plus Kielce)",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,9 / 91,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Kielce",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,3 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Starachowice (dawniej Radio MTM FM)",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Opatów – Opatów",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Rekord Kielce",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Rekord Ostrowiec Świętokrzyski",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF Maxx Kielce/Radom – Kielce (dawniej Radio Tak FM)",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,7 / 98 / 99,8 / 101,1 106,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Eska2 Kielce",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Ostrowiec",
+      "grupa_lub_wojewodztwo": "województwo świętokrzyskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,2 Mhz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Olsztyn",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,2 / 99,6 (Giżycko) / 103,4 (Elbląg) / 106,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Giżycko",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Iława",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Mazury – Ostróda",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,5 / 96,4 (Morąg) / 89,4 MHz (Olsztynek)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Mrągowo",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Olsztyn",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio 5 – Ełk",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,6 / 93,5 MHz (Giżycko)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Bartoszyce – Bartoszyce",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Bayer FM – Ełk",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,7 / 93,1 MHz (Suwałki)",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Braniewo",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "100,7 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Elbląg (dawniej: Radio El)",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "94,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Iława (dawniej: Radio Iława)",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Olsztyn",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Plus Olsztyn",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,1 / 94,2 / 96,4 / 101,1 / 104,3 / 105,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio UWM FM – Olsztyn",
+      "grupa_lub_wojewodztwo": "województwo warmińsko-mazurskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "91,1 / 91,9 / 100,9 / 102,4 / 103,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "MC Radio – Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Konin (dawniej: Radio Flash, Planeta.pl, Radio Zet Gold)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Poznań (dawniej: RMI FM, Planeta.pl, Radio Zet Gold)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,6 / 99,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Meloradio Słupca (dawniej: Radio Flash, Planeta.pl, Radio Zet Gold)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Afera – Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Centrum – Kalisz",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Elka – Leszno",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88 / 95,9 / 98,5 / 99,8 / 101,4 / 101,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Emaus – Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 / 90,2 / 90,4 / 106,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Kalisz/Ostrów – Ostrów Wielkopolski",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,3 / 101,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Leszno",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "102 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Ostrzeszów",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,9 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Piła",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Gniezno – Gniezno",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Konin FM – Konin",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Gniezno",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Pogoda – Poznań (dawniej Pop FM, Blue FM)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Konin (dawniej Radio Konin)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Piła (dawniej Radio 100)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,1 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio RMF MAXX Poznań (dawniej Radio Kiss FM)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,5 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Rodzina – Kalisz",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "103,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio SUD – Kępno",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "101,7 / 89,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 106 FM – Konin",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "106 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Vox FM Poznań (dawniej Eska Rock Poznań)",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "107,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Wielkopolska – Bolechowo",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,9 / 89 / 90,1 / 91,6 / 99,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Warta – Września",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,7 / 94,9 / 95,2 / 103,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Kiss FM (dawniej: Rock Radio, Klasyka FM 93.5) – Poznań",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,4 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Wasze Radio FM – Wągrowiec",
+      "grupa_lub_wojewodztwo": "województwo wielkopolskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,2 / 89 / 96,8 / 99,7 / 105,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Szczecin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "92 / 94,4 / 98,7 / 106,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Polskie Radio Koszalin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,1 / 91 / 92,5 / 97,8 / 103,1 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Eska Koszalin (dawniej Radio Północ)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "95,9 / 107,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Szczecin (dawniej Radio Plama)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "96,9 / 89,2 MHz (Świnoujście)",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Eska Szczecinek (dawniej Radio ReJa)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "99 / 106,5 MHz",
+      "odbior_satelitarny": "Astr 3B"
+    },
+    {
+      "stacja": "Radio Kołobrzeg – Kołobrzeg",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,2 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Gryfice (dawniej Radio Plus Gryfice)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,7 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Koszalin (dawniej Radio Plus Koszalin)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,3 / 93,3 / 99,5 / 99,8 / 102,6 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Plus Lipiany (dawniej Radio Plus Lipiany)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "104,3 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Plus Szczecin (dawniej Radio Plus Szczecin i Radio AS)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "88,9 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio RMF MAXX Szczecin (dawniej Radio ABC)",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "98,4 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Super FM – Szczecin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "97,5 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Eska2 Szczecin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "93,2 MHz",
+      "odbior_satelitarny": "Astra 3B"
+    },
+    {
+      "stacja": "Radio Złote Przeboje Na Fali – Szczecin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "89,8 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Radio Złote Przeboje w Wolinie – Wolin",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "105,6 MHz",
+      "odbior_satelitarny": ""
+    },
+    {
+      "stacja": "Twoje Radio – Stargard",
+      "grupa_lub_wojewodztwo": "województwo zachodniopomorskie",
+      "zasieg": "regionalna/lokalna",
+      "jezyk": "polski",
+      "czestotliwosci": "90,3 / 97,4 (Myślibórz) / 94,7 (Koszalin) / 99,5 MHz (Świnoujście)",
+      "odbior_satelitarny": ""
+    }
+  ],
+  "meta": {
+    "title": "Stacje radiowe w Polsce - Free Download",
+    "description": "Polskie i polskojęzyczne stacje radiowe: ogólnopolskie programy i sieci (Polskie Radio, RMF, Eurozet, ZPR), rozgłośnie akademickie oraz stacje regionalne i lokalne według województw z częstotliwościami. Contains 336 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stacje radiowe w Polsce | ListBase",
+    "seo_description": "Download Stacje radiowe w Polsce — 336 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 336 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Polskie_i_polskojęzyczne_stacje_radiowe_odbierane_w_Polsce"
+    ]
+  }
+}

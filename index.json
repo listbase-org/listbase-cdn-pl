@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-02T02:24:30.893Z",
-  "total_datasets": 523,
-  "total_records": 1092372,
+  "generated": "2026-11-02T02:24:38.520Z",
+  "total_datasets": 524,
+  "total_records": 1092708,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -671,6 +671,33 @@
         "xlsx": {
           "name": "pl-polskie-filmy-najwieksza-widownia_PL.xlsx",
           "size": 7526
+        }
+      }
+    },
+    {
+      "id": "pl-stacje-radiowe",
+      "name": "Stacje radiowe w Polsce",
+      "category": "entertainment",
+      "record_count": 336,
+      "columns": [
+        "stacja",
+        "grupa_lub_wojewodztwo",
+        "zasieg",
+        "jezyk",
+        "czestotliwosci",
+        "odbior_satelitarny"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Polskie_i_polskojęzyczne_stacje_radiowe_odbierane_w_Polsce",
+      "updated": "2026-11",
+      "size": 90181,
+      "files": {
+        "csv": {
+          "name": "pl-stacje-radiowe_PL.csv",
+          "size": 38518
+        },
+        "xlsx": {
+          "name": "pl-stacje-radiowe_PL.xlsx",
+          "size": 20613
         }
       }
     },
