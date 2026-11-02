@@ -1,0 +1,1011 @@
+{
+  "id": "pl-instytuty-badawcze",
+  "name": "Instytuty badawcze w Polsce",
+  "title": "Instytuty badawcze w Polsce",
+  "description": "Lista polskich instytutów badawczych i ośrodków badawczo-rozwojowych, z grupą lub ministerstwem nadzorującym oraz informacją o likwidacji lub przekształceniu.",
+  "category": "science",
+  "source": "https://pl.wikipedia.org/wiki/Lista_instytutów_badawczych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_instytutów_badawczych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "grupa_lub_nadzor",
+      "label": "Grupa Lub Nadzor",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Aparatury Badawczej i Dydaktycznej „Cobrabid”",
+      "grupa_lub_nadzor": "Ministerstwo Nauki i Szkolnictwa Wyższego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Przetwarzania Informacji",
+      "grupa_lub_nadzor": "Ministerstwo Nauki i Szkolnictwa Wyższego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Naukowa i Akademicka Sieć Komputerowa",
+      "grupa_lub_nadzor": "Ministerstwo Cyfryzacji",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Badań Edukacyjnych",
+      "grupa_lub_nadzor": "Ministerstwo Edukacji Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Beskidzki Instytut Tekstylny",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "w likwidacji"
+    },
+    {
+      "nazwa": "Główny Instytut Górnictwa",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Architektury Tekstyliów",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Automatyki Systemów Energetycznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Badań i Rozwoju Motoryzacji „Bosmal”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Badań Rynku, Konsumpcji i Koniunktur",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Barwników i Produktów Organicznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "zlikwidowany"
+    },
+    {
+      "nazwa": "Instytut Biotechnologii i Antybiotyków",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Celulozowo-Papierniczy",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "zlikwidowany"
+    },
+    {
+      "nazwa": "Instytut Ceramiki i Materiałów Budowlanych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Chemicznej Przeróbki Węgla",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Chemii i Techniki Jądrowej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Chemii Nieorganicznej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "przekształcony w Instytut Nawozów Sztucznych Oddział Chemii Nieorganicznej „IChN” w Gliwicach"
+    },
+    {
+      "nazwa": "Instytut Chemii Przemysłowej im. Prof. Ignacego Mościckiego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ciężkiej Syntezy Organicznej „Blachownia”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Elektrotechniki",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Energetyki",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Energii Atomowej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "przekształcony w Narodowe Centrum Badań Jądrowych"
+    },
+    {
+      "nazwa": "Instytut Farmaceutyczny",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Górnictwa Odkrywkowego „Poltegor-Instytut”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Inżynierii Materiałów Włókienniczych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "zlikwidowany"
+    },
+    {
+      "nazwa": "Instytut Komputerowych Systemów Automatyki i Pomiarów",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Logistyki i Magazynowania",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Lotnictwa",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Maszyn Matematycznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Mechaniki Precyzyjnej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Mechanizacji Budownictwa i Górnictwa Skalnego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Metali Nieżelaznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Metalurgii Żelaza im. Stanisława Staszica",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Mineralnych Materiałów Budowlanych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Oddział Inżynierii Procesowej Materiałów Budowlanych"
+    },
+    {
+      "nazwa": "Instytut Nafty i Gazu",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Nowych Syntez Chemicznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Obróbki Plastycznej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Obróbki Skrawaniem",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Instytut Zaawansowanych Technologii Wytwarzania"
+    },
+    {
+      "nazwa": "Instytut Odlewnictwa",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Optyki Stosowanej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Organizacji i Zarządzania w Przemyśle „Orgmasz”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Pojazdów Szynowych „Tabor”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Problemów Jądrowych im. Andrzeja Sołtana",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "przekształcony w Narodowe Centrum Badań Jądrowych"
+    },
+    {
+      "nazwa": "Instytut Przemysłu Gumowego „Stomil”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "zlikwidowany"
+    },
+    {
+      "nazwa": "Instytut Przemysłu Organicznego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Przemysłu Skórzanego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Przetwórstwa Tworzyw Sztucznych „Metalchem”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Instytut Inżynierii Materiałów Polimerowych i Barwników"
+    },
+    {
+      "nazwa": "Instytut Spawalnictwa",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Systemów Sterowania",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Szkła i Ceramiki",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Instytut Ceramiki i Materiałów Budowlanych"
+    },
+    {
+      "nazwa": "Instytut Techniki i Aparatury Medycznej ITAM",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technik i Technologii Dziewiarskich „Tricotextil”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "zlikwidowany"
+    },
+    {
+      "nazwa": "Instytut Technologii Drewna",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technologii Eksploatacji",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technologii Elektronowej",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technologii Materiałów Elektronicznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Tele- i Radiotechniczny",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Turystyki",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Włókien Chemicznych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Instytut Biopolimerów i Włókien Chemicznych"
+    },
+    {
+      "nazwa": "Instytut Włókien Naturalnych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": "obecnie Instytut Włókien Naturalnych i Roślin Zielarskich"
+    },
+    {
+      "nazwa": "Instytut Włókiennictwa",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Wzornictwa Przemysłowego",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Automatyki i Pomiarów „PIAP”",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Elektroniki",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Maszyn Budowlanych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Maszyn Rolniczych",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Motoryzacji",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Przemysłowy Instytut Telekomunikacji",
+      "grupa_lub_nadzor": "Instytuty badawcze",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Branżowy Ośrodek Badawczo-Rozwojowy Maszyn Elektrycznych „Komel”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Maszyn Włókienniczych „Polmatex-Cenaro”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Opakowań",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Izolacji Budowlanej",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Chłodnictwa „COCH”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centrum Badawczo-Rozwojowe KGHM Cuprum sp. z o.o.",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Konstrukcyjny „Koprotech”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Aparatury Manewrowej „Oram”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Automatyki i Urządzeń Precyzyjnych",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Budownictwa Górniczego „Budokop”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Budownictwa Węglowego",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": "w likwidacji"
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Budowy Urządzeń Chemicznych „Cebea”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Dźwignic i Urządzeń Transportowych Detrans",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Elementów i Układów Pneumatyki",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy „ERG”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": "w likwidacji"
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Gospodarki Energetycznej",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Gospodarki Remontowej Energetyki",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Górnictwa Surowców Chemicznych „Chemkop”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Izotopów „POLATOM” w Otwocku-Świerku",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Kauczuków i Tworzyw Winylowych",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Farb, Klejów i Polimerów „Spektrochem”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Maszyn Przędzalnictwa Wełny „Belmatex”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Mechanizacji Pakowania „Empak”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Metrologii Elektrycznej „Metrol”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Motoreduktorów i Reduktorów „Redor”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Podstaw Technologii i Konstrukcji Maszyn „Tekoma”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy „Predom OBR”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Przemysłu Oponiarskiego „Stomil”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Przemysłu Płyt Drewnopochodnych",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Przemysłu Rafineryjnego",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Przemysłu Siarkowego „Siarkopol”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": "w likwidacji"
+    },
+    {
+      "nazwa": "Ośrodek Badawczo Rozwojowy RCC",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Środków Organizacyjno-Technicznych „Prebot”",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": "w likwidacji"
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Urządzeń Mechanicznych „OBRUM” sp. z o.o.",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Urządzeń Sterowania Napędów",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Technologii Zaawansowanych Monochem Technologia",
+      "grupa_lub_nadzor": "Ośrodki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Akumulatorów i Ogniw",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Naftowe",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Ochrony Radiologicznej",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Przemysłu Obuwniczego",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centrum Badawczo-Konstrukcyjne Obrabiarek",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technik Innowacyjnych „EMAG”",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centrum Mechanizacji Górnictwa „Komag”",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centrum Techniki Morskiej",
+      "grupa_lub_nadzor": "Laboratoria i inne jednostki badawczo-rozwojowe",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Instytut Ochrony Pracy",
+      "grupa_lub_nadzor": "JBR nadzorowane przez dawne Ministerstwo Pracy i Polityki Społecznej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Pracy i Spraw Socjalnych",
+      "grupa_lub_nadzor": "JBR nadzorowane przez dawne Ministerstwo Pracy i Polityki Społecznej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Budownictwa Inżynieryjnego „Hydrobudowa”",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Betonów „Cebet”",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Elementów Wyposażenia Budownictwa „Metalplast”",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Techniki Instalacyjnej „Instal”",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Badawczy Dróg i Mostów",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Geodezji i Kartografii",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Kolejnictwa",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Rozwoju Miast",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Gospodarki Przestrzennej i Mieszkalnictwa",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Techniki Budowlanej w Warszawie",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Łączności",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Morski w Gdańsku",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Transportu Samochodowego",
+      "grupa_lub_nadzor": "Ministerstwo Infrastruktury",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Fryderyka Chopina",
+      "grupa_lub_nadzor": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Poligraficznego",
+      "grupa_lub_nadzor": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Kultury",
+      "grupa_lub_nadzor": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Śląski w Opolu",
+      "grupa_lub_nadzor": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Medyczny",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Techniczny Wojsk Lotniczych",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Badań Socjologicznych",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Chemii i Radiometrii",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Higieny i Epidemiologii im. gen. Karola Kaczkowskiego",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Łączności im. prof. dr. hab. Janusza Groszkowskiego",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Medycyny Lotniczej",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Techniczny Uzbrojenia",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Techniki Inżynieryjnej im. prof. Józefa Kosackiego",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Instytut Techniki Pancernej i Samochodowej",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Ośrodek Badawczo-Rozwojowy Służby Materiałów Pędnych i Smarów",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Wojskowy Ośrodek Badawczo-Rozwojowy Służby Żywnościowej",
+      "grupa_lub_nadzor": "Ministerstwo Obrony Narodowej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Instytut Ochrony Pracy",
+      "grupa_lub_nadzor": "Ministerstwo Pracy i Polityki Społecznej",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Chłodnictwa",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralne Laboratorium Przemysłu Ziemniaczanego",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badania Odmian Roślin Uprawnych",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Gastronomicznego i Artykułów Spożywczych w Łodzi",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Biotechnologii Przemysłu Rolno-Spożywczego",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ekonomiki Rolnictwa i Gospodarki Żywnościowej",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Hodowli i Aklimatyzacji Roślin",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Mleczarstwa w Warszawie",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ochrony Roślin",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Przemysłu Cukrowniczego",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Przemysłu Mięsnego i Tłuszczowego",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Roślin i Przetworów Zielarskich",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Rybactwa Śródlądowego",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Sadownictwa i Kwiaciarstwa (razem z Instytutem Warzywnictwa tworzy Instytut Ogrodnictwa od 1 stycznia 2011)",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technologiczno-Przyrodniczy (do 2010 r. Instytut Budownictwa, Mechanizacji i Elektryfikacji Rolnictwa i Instytut Melioracji i Użytków Zielonych)",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Uprawy, Nawożenia i Gleboznawstwa",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Warzywnictwa (razem z Instytutem Sadownictwa i Kwiaciarstwa tworzy Instytut Ogrodnictwa od 1 stycznia 2011)",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Zootechniki",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Morski Instytut Rybacki",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Państwowy Instytut Weterynaryjny",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Spółdzielczy Instytut Badawczy",
+      "grupa_lub_nadzor": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Ośrodek Badawczo-Rozwojowy Sprzętu Mechanicznego",
+      "grupa_lub_nadzor": "Ministerstwo Skarbu Państwa",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Sportu",
+      "grupa_lub_nadzor": "Ministerstwo Sportu i Turystyki",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Centrum Naukowo-Badawcze Ochrony Przeciwpożarowej – Państwowy Instytut Badawczy im. Józefa Tuliszkowskiego",
+      "grupa_lub_nadzor": "Ministerstwo Spraw Wewnętrznych i Administracji",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Technologii Bezpieczeństwa „Moratex”",
+      "grupa_lub_nadzor": "Ministerstwo Spraw Wewnętrznych i Administracji",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Zachodni – Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego",
+      "grupa_lub_nadzor": "Ministerstwo Spraw Zagranicznych",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ekspertyz Sądowych im. prof. dr. Jana Sehna",
+      "grupa_lub_nadzor": "Ministerstwo Sprawiedliwości",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Wymiaru Sprawiedliwości",
+      "grupa_lub_nadzor": "Ministerstwo Sprawiedliwości",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Badawczy Leśnictwa",
+      "grupa_lub_nadzor": "Ministerstwo Środowiska",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ekologii Terenów Uprzemysłowionych",
+      "grupa_lub_nadzor": "Ministerstwo Środowiska",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Meteorologii i Gospodarki Wodnej",
+      "grupa_lub_nadzor": "Ministerstwo Środowiska",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Ochrony Środowiska",
+      "grupa_lub_nadzor": "Ministerstwo Środowiska",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Państwowy Instytut Geologiczny",
+      "grupa_lub_nadzor": "Ministerstwo Środowiska",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Warszawa Kraków Gliwice",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut „Centrum Zdrowia Matki Polki”",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Fizjologii i Patologii Słuchu",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Gruźlicy i Chorób Płuc",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Hematologii i Transfuzjologii",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Kardiologii im. Prymasa Tysiąclecia Kardynała Stefana Wyszyńskiego",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Matki i Dziecka",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Medycyny Pracy i Zdrowia Środowiskowego",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Medycyny Wsi im. Witolda Chodźki",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut „Pomnik – Centrum Zdrowia Dziecka”",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Psychiatrii i Neurologii",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Geriatrii, Reumatologii i Rehabilitacji im. prof. dr hab. med. Eleonory Reicher",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Instytut Żywności i Żywienia im. prof. dra med. Aleksandra Szczygła",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Narodowy Instytut Leków",
+      "grupa_lub_nadzor": "Ministerstwo Zdrowia",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Instytuty badawcze w Polsce - Free Download",
+    "description": "Lista polskich instytutów badawczych i ośrodków badawczo-rozwojowych, z grupą lub ministerstwem nadzorującym oraz informacją o likwidacji lub przekształceniu. Contains 194 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Instytuty badawcze w Polsce | ListBase",
+    "seo_description": "Download Instytuty badawcze w Polsce — 194 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 194 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_instytutów_badawczych_w_Polsce"
+    ]
+  }
+}

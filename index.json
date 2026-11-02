@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-10-30T02:16:58.693Z",
-  "total_datasets": 519,
-  "total_records": 1092011,
+  "generated": "2026-11-02T02:24:10.572Z",
+  "total_datasets": 520,
+  "total_records": 1092205,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -12175,6 +12175,30 @@
         "xlsx": {
           "name": "pl-zrodla_PL.xlsx",
           "size": 28279
+        }
+      }
+    },
+    {
+      "id": "pl-instytuty-badawcze",
+      "name": "Instytuty badawcze w Polsce",
+      "category": "science",
+      "record_count": 194,
+      "columns": [
+        "nazwa",
+        "grupa_lub_nadzor",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_instytutów_badawczych_w_Polsce",
+      "updated": "2026-11",
+      "size": 32068,
+      "files": {
+        "csv": {
+          "name": "pl-instytuty-badawcze_PL.csv",
+          "size": 16748
+        },
+        "xlsx": {
+          "name": "pl-instytuty-badawcze_PL.xlsx",
+          "size": 13143
         }
       }
     },
