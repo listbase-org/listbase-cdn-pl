@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-02T02:24:24.019Z",
-  "total_datasets": 522,
-  "total_records": 1092286,
+  "generated": "2026-11-02T02:24:30.893Z",
+  "total_datasets": 523,
+  "total_records": 1092372,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "time",
@@ -12758,6 +12758,32 @@
         "xlsx": {
           "name": "pl-nazwy-emoji_PL.xlsx",
           "size": 101641
+        }
+      }
+    },
+    {
+      "id": "pl-producenci-gier-komputerowych",
+      "name": "Polscy producenci gier komputerowych",
+      "category": "tech",
+      "record_count": 86,
+      "columns": [
+        "nazwa",
+        "data_zalozenia",
+        "data_zamkniecia",
+        "gry",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_polskich_producentów_gier_komputerowych",
+      "updated": "2026-11",
+      "size": 25579,
+      "files": {
+        "csv": {
+          "name": "pl-producenci-gier-komputerowych_PL.csv",
+          "size": 14511
+        },
+        "xlsx": {
+          "name": "pl-producenci-gier-komputerowych_PL.xlsx",
+          "size": 15800
         }
       }
     },

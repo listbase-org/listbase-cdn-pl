@@ -1,0 +1,653 @@
+{
+  "id": "pl-producenci-gier-komputerowych",
+  "name": "Polscy producenci gier komputerowych",
+  "title": "Polscy producenci gier komputerowych",
+  "description": "Lista polskich studiów i producentów gier wideo z datą założenia, ewentualnego zamknięcia oraz najważniejszymi grami.",
+  "category": "tech",
+  "source": "https://pl.wikipedia.org/wiki/Lista_polskich_producentów_gier_komputerowych",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_polskich_producentów_gier_komputerowych",
+  "updated": "2026-11",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "data_zalozenia",
+      "label": "Data Zalozenia",
+      "type": "number"
+    },
+    {
+      "key": "data_zamkniecia",
+      "label": "Data Zamkniecia",
+      "type": "number"
+    },
+    {
+      "key": "gry",
+      "label": "Gry",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "11 bit studios",
+      "data_zalozenia": "2009",
+      "data_zamkniecia": "",
+      "gry": "seria Anomaly This War of Mine Frostpunk",
+      "uwagi": "założona przez byłych pracowników Metropolis Software"
+    },
+    {
+      "nazwa": "Aidem Media",
+      "data_zalozenia": "1997",
+      "data_zamkniecia": "",
+      "gry": "seria Koziołek Matołek seria Reksio seria Bolek i Lolek",
+      "uwagi": "W maju 2018 r. Aidem Media przejęło brytyjskie Boombit Games, w związku z tym podjęło decyzję o przemianowaniu firmy. Obecnie funkcjonuje pod nazwą dotychczasowego partnera biznesowego."
+    },
+    {
+      "nazwa": "Alien Artefact",
+      "data_zalozenia": "2000",
+      "data_zamkniecia": "2003",
+      "gry": "Another War Jak rozpętałem drugą wojnę światową, czyli nieznane przygody Franka Dolasa",
+      "uwagi": "Członkowie 9-osobowej grupy (skład: Adam Bajorek, Bartłomiej Gabryś, Łukasz Górny-Zając, Maciej Walaszek, Michał Sadowski, Paweł Smyła, Michał Nowak, Dorota Kalinowska, Paweł Siomek) wywodzili się z Metropolis Software (Reflux, Gorky 17, nigdy niewydane Two Worlds). Wspólnie z Mirage Interactive stworzyli dwie gry z gatunku cRPG. W trakcie prac nad drugą, grupa rozpadła się."
+    },
+    {
+      "nazwa": "Anshar Studios",
+      "data_zalozenia": "2012",
+      "data_zamkniecia": "",
+      "gry": "Gamedec Detached Telefrag VR",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Artifex Mundi",
+      "data_zalozenia": "2006",
+      "data_zamkniecia": "",
+      "gry": "",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "ASF",
+      "data_zalozenia": "1991",
+      "data_zamkniecia": "1993",
+      "gry": "seria Miecze Valdgira",
+      "uwagi": "znana także jako ASF s.c."
+    },
+    {
+      "nazwa": "Atomic Jelly",
+      "data_zalozenia": "maj 2016",
+      "data_zamkniecia": "",
+      "gry": "Space Mechanic Simulator Train Mechanic Simulator 2017 Project Remedium 303 Squadron: Battle of Britain",
+      "uwagi": "Siedziba w Poznaniu."
+    },
+    {
+      "nazwa": "Bloober Team",
+      "data_zalozenia": "2008",
+      "data_zamkniecia": "",
+      "gry": "The Medium ﻿ (inne języki) Layers of Fear Blair Witch",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "breakpoint",
+      "data_zalozenia": "2000",
+      "data_zamkniecia": "2010",
+      "gry": "trylogia Sudoku",
+      "uwagi": "Firma powstała latem 2000 r. w Warszawie jako breakpoint Mobile Solutions. W maju 2007 r. stała się własnością MNI Premium S.A. Ostatnia aktualizacja strony miała miejsce w 2010 r. W 2014 r. MNI wniosła do Sądu Rejonowego m.st.Warszawy wniosek o ogłoszenie upadłości z możliwością zawarcia układu."
+    },
+    {
+      "nazwa": "California Dreams",
+      "data_zalozenia": "1987",
+      "data_zamkniecia": "1991",
+      "gry": "Blockout Solidarność",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Can’t Stop Games",
+      "data_zalozenia": "2007",
+      "data_zamkniecia": "2013",
+      "gry": "Tanadu Pirates Saga Happy Tale",
+      "uwagi": "Studio upadło we wrześniu 2013 r. Za powód podano przemijającą modę na gry społecznościowe."
+    },
+    {
+      "nazwa": "Carbon Studio",
+      "data_zalozenia": "2015",
+      "data_zamkniecia": "",
+      "gry": "Alice VR Dreamo The Wizards – Enhanced Edition The Wizards – Dark Times Warhammer Age of Sigmar: Tempestfall",
+      "uwagi": "Firma od początku swojej działalności zajmuje się produkcją gier wykorzystujących technologie VR."
+    },
+    {
+      "nazwa": "CD Projekt Red",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "",
+      "gry": "seria Wiedźmin Cyberpunk 2077",
+      "uwagi": "powstała w ramach grupy CD Projekt"
+    },
+    {
+      "nazwa": "Cherrypick Games",
+      "data_zalozenia": "2014",
+      "data_zamkniecia": "",
+      "gry": "My Beauty Spa – Stars & Stories",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "CI Games",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "",
+      "gry": "seria Terrorist Takedown seria Sniper",
+      "uwagi": "powstała jako City Interactive"
+    },
+    {
+      "nazwa": "Codeminion",
+      "data_zalozenia": "2004",
+      "data_zamkniecia": "2020",
+      "gry": "Magic Match",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Computer Adventure Studio",
+      "data_zalozenia": "1989",
+      "data_zamkniecia": "1991",
+      "gry": "Smok Wawelski Mózgoprocesor",
+      "uwagi": "Zespół miał siedzibę w Bochni, współwłaścicielem był Piotr Kucharski. Została zarejestrowana i funkcjonowała od stycznia 1989 r. Pierwsza produkcja – Smok Wawelski (napisany z Krzysztofem Piwowarczykiem w ciągu 6 tygodni prac) został wydany przez Redakcję Programów Komputerowych i sprzedany w liczbie 2,5 tys. egzemplarzy, uzyskując 3% od zysku. Upadek firmy stał się jednym z powodów stworzenia firmy CAS. Kolejnym projektem był Mózgoprocesor – gra zasłynęła z wysokiego poziomu trudności. Próbowało nawiązać kontakty z zachodnimi wydawcami, lecz fakt, braku regulacji zapewniających ochronę oprogramowania, zniechęcała do współpracy. Właściciel firmy, zaznaczył iż pomimo takiego stanu rzeczy, zdołali nawiązać kilka kontaktów i wiązali nadzieję z wydaniem Mózgoprocesora w języku angielskim. Dodatkowo pracowali nad własnym językiem programistycznym ADV-Compiler i w planach było rozpoczęcie działalności wydawniczej. TS2"
+    },
+    {
+      "nazwa": "Covenant.dev",
+      "data_zalozenia": "2020",
+      "data_zamkniecia": "",
+      "gry": "GORD",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "CreativeForge Games",
+      "data_zalozenia": "2011",
+      "data_zamkniecia": "",
+      "gry": "Ancient Space Hard West seria Phantom Doctrine",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Creepy Jar",
+      "data_zalozenia": "2016",
+      "data_zamkniecia": "",
+      "gry": "Green Hell",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Critical Hit Games",
+      "data_zalozenia": "połowa 2020",
+      "data_zamkniecia": "",
+      "gry": "Nobody Wants to Die",
+      "uwagi": "Studio posiada swoją siedzibę we Wrocławiu. Debiutanckim projektem jest Nobody Wants to Die."
+    },
+    {
+      "nazwa": "Dark Point Games",
+      "data_zalozenia": "2019",
+      "data_zamkniecia": "",
+      "gry": "Achilles: Legends Untold (2022)",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Dark Stork Games",
+      "data_zalozenia": "2013",
+      "data_zamkniecia": "2015",
+      "gry": "niezatytułowana gra na silniku Unreal Engine 4",
+      "uwagi": "Na czele założonego 13 marca 2013 r. Dark Stork Studios sp. z o.o stanął (w chwili powstania DSS, 17-letni) Mikołaj Świtalski, syn jednego z najbogatszych Polaków – Mariusza Świtalskiego. Siedziba firmy ulokowana była w Poznaniu, zaś rozgłos firmie przyniosło ogłoszenie współpracy (w październiku br.) z kompozytorem Janem A.P. Kaczmarkiem (twórca ścieżki dźwiękowej do Marzyciela) oraz (w grudniu br.) pisarzem fantasy Marcinem Mortką przy tworzeniu niezatytułowanego debiutanckiego projektu na silniku Unreal Engine 4. Pracowało nad nim ok. 50 osób, zaś pochłonął ok. 50 mln złotych. Ostatecznie, pomimo bardzo zaawansowanych prac nad grą, na skutek problemów finansowych ojca prezesa (majątek uszczuplił się o ok. 0,5 mld zł w stosunku do deklarowanych 1,3 miliarda złotych w 2012) – ten przejął kierownictwo nad firmą i zgłosił w 2015 r. wniosek o ogłoszenie upadłości. Adres firmy: Szyperska Office Center; Szyperska 14; 61-487 Poznań"
+    },
+    {
+      "nazwa": "Destan Entertainment",
+      "data_zalozenia": "2003",
+      "data_zamkniecia": "",
+      "gry": "seria Battle Rage Burn",
+      "uwagi": "aktualnie jest częścią Teyon"
+    },
+    {
+      "nazwa": "Destructive Creations",
+      "data_zalozenia": "2015",
+      "data_zamkniecia": "",
+      "gry": "Hatred Ancestors Legacy War Mongrels",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Detalion",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "2014/5",
+      "gry": "Sentinel. Strażnik grobowca",
+      "uwagi": "od 2007 roku firma jest częścią studia CI Games; pod nazwą Detalion Art działała do ok. 2014/5 r. Obecnie zreaktywowana firma funkcjonuje jako spółka zależna PlayWay."
+    },
+    {
+      "nazwa": "DRAGO entertainment",
+      "data_zalozenia": "1998",
+      "data_zamkniecia": "",
+      "gry": "",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "E4games",
+      "data_zalozenia": "2000/2",
+      "data_zamkniecia": "",
+      "gry": "",
+      "uwagi": "Studio tworzy promocyjne, marketingowe i edukacyjne gry 2D na platformy mobilne, desktopowe, web oraz na Nintendo Switch."
+    },
+    {
+      "nazwa": "e-People",
+      "data_zalozenia": "listopad/grudzień 1996",
+      "data_zamkniecia": "1999",
+      "gry": "Pył",
+      "uwagi": "Studio, a poprawniej, zespół złożony z 4 osób, miał swoją siedzibę w Bytomiu, na Śląsku, w byłej hucie. Pomysł na grę narodził się w grudniu 1996 r, po półrocznych negocjacjach z firma Nexus (później Optimus-Nexus) i Optimus S.A (ten drugi w roli wydawcy), w marcu 1997 r. rozpoczęto prace nad silnikiem gry. Dalsze prace związane z oprawą dźwiękową przeniesione zostały do Gdańska. Finalnie, Optimus-Nexus nie zezwolił twórcom na umieszczenie własnego loga w grze. Gra nie odniosła sukcesu, zaś twórcy zniechęceni rozwiązali zespół."
+    },
+    {
+      "nazwa": "Exit Plan Games",
+      "data_zalozenia": "2019",
+      "data_zamkniecia": "",
+      "gry": "Bang-on Balls: Chronicles",
+      "uwagi": "Siedziba w Warszawie."
+    },
+    {
+      "nazwa": "EXOR Studios",
+      "data_zalozenia": "2003 (jako grupa moderska) 2007 (oficjalnie)",
+      "data_zamkniecia": "",
+      "gry": "D.I.P.R.I.P. Zombie Driver X-Morph: Defense The Riftbreaker",
+      "uwagi": "Siedziba w Szczecinie."
+    },
+    {
+      "nazwa": "FIXER Group",
+      "data_zalozenia": "2023 (oficjalnie)",
+      "data_zamkniecia": "",
+      "gry": "Martial Law",
+      "uwagi": "Początkowo tworzyła jako grupa niezależnych twórców, oficjalna rejestracja firmy nastąpiła w 2023."
+    },
+    {
+      "nazwa": "Flying Wild Hog",
+      "data_zalozenia": "2009",
+      "data_zamkniecia": "",
+      "gry": "Hard Reset Shadow Warrior",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Fool’s Theory",
+      "data_zalozenia": "2018",
+      "data_zamkniecia": "",
+      "gry": "Seven: Drowned Past Divinity Original Sin II (wsparcie Larian Studios) Baldur’s Gate III (wsparcie Larian Studios) Outriders (wsparcie People Can Fly) GORD (wsparcie Covenant.dev) Project Vitriol",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Forever Entertainment",
+      "data_zalozenia": "2010",
+      "data_zamkniecia": "",
+      "gry": "",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Frontline Studios",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "2011/12",
+      "gry": "The Banished Duke Nukem: Critical Mass",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "GameDesire",
+      "data_zalozenia": "2004 (1997)",
+      "data_zamkniecia": "",
+      "gry": "Pool Live Pro Poker Texas Hold’em, Golden Reels Casino Slots",
+      "uwagi": "wcześniej znana jako Ganymede sp. z o.o., a poza granicami Polski jako Ganymede Technologies"
+    },
+    {
+      "nazwa": "Huuuge Games",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "",
+      "gry": "Casino Solitaire Poker Black Jack",
+      "uwagi": "powstała jako Gamelion Studios"
+    },
+    {
+      "nazwa": "Hyperstrange",
+      "data_zalozenia": "2015",
+      "data_zamkniecia": "",
+      "gry": "ELDERBORN Blood West Postal: Brain Damaged LOUD: My Road to Fame",
+      "uwagi": "działa w podwójnej roli jako producent i wydawca gier"
+    },
+    {
+      "nazwa": "IMGN.PRO",
+      "data_zalozenia": "2010",
+      "data_zamkniecia": "",
+      "gry": "Kholat Husk Seven: The Days Long Gone",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "In Images",
+      "data_zalozenia": "2000",
+      "data_zamkniecia": "",
+      "gry": "Detektyw Rutkowski – Is back! Car Mechanic Simulator 2014",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Infinite Dreams",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "",
+      "gry": "seria Jelly Micromachines Sky Force",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Jujubee",
+      "data_zalozenia": "2012",
+      "data_zamkniecia": "",
+      "gry": "seria Flashout Realpolitiks Kursk",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Layopi Games",
+      "data_zalozenia": "2015",
+      "data_zamkniecia": "2020",
+      "gry": "Devil’s Hunt",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Leryx Longsoft",
+      "data_zalozenia": "1996",
+      "data_zamkniecia": "2003/8",
+      "gry": "Clash Lew Leon",
+      "uwagi": "znana także jako Longsoft Multimedia"
+    },
+    {
+      "nazwa": "LK Avalon",
+      "data_zalozenia": "1989",
+      "data_zamkniecia": "2001 (wygaszenie działalności wydawniczej gier)",
+      "gry": "Robbo A.D. 2044",
+      "uwagi": "znana także jako Laboratorium Komputerowe Avalon"
+    },
+    {
+      "nazwa": "Madmind Studio",
+      "data_zalozenia": "2016",
+      "data_zamkniecia": "",
+      "gry": "Agony Succubus Paranoid Tormentor",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Metropolis Software",
+      "data_zalozenia": "1992",
+      "data_zamkniecia": "2009",
+      "gry": "seria Gorky Infernal",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Mirage Interactive",
+      "data_zalozenia": "1992",
+      "data_zamkniecia": "2006",
+      "gry": "Mortyr 2: For Ever Franko: The Crazy Revenge",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Moonday Games",
+      "data_zalozenia": "2020",
+      "data_zamkniecia": "",
+      "gry": "One Night Casino",
+      "uwagi": "założona przez Szymona „Isamu” Kasprzyka w 2020 roku ino"
+    },
+    {
+      "nazwa": "Movie Games",
+      "data_zalozenia": "2016",
+      "data_zamkniecia": "",
+      "gry": "",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Movie Games Lunarium",
+      "data_zalozenia": "2016/7",
+      "data_zamkniecia": "",
+      "gry": "Lust for Darkness Lust from Beyond",
+      "uwagi": "Oddział Movie Games z siedzibą w Katowicach, założycielem Michał Ciastoń. Od 2021 r. działa jako Lunarium Creations sp. z o.o."
+    },
+    {
+      "nazwa": "Nibris",
+      "data_zalozenia": "2006/8",
+      "data_zamkniecia": "2010",
+      "gry": "Double Bloob",
+      "uwagi": "Firma (zarejestrowana jako spółka z ograniczoną odpowiedzialnością) miała swoją siedzibę w Krakowie. Pracowała nad projektem Sadness (przerodził się potem w Layers of Fear stworzony już przez nowy zespół – Bloober Team). Firma ukończyła prace tylko nad jedną grą W grudniu 2010 r. strona studia przestała być aktywna. Była oficjalnym producentem gier na ówczesne konsole Nintendo – Nintendo DS oraz Wii."
+    },
+    {
+      "nazwa": "Nicolas Games",
+      "data_zalozenia": "2004",
+      "data_zamkniecia": "201x",
+      "gry": "seria Włatcy Móch",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "One More Level",
+      "data_zalozenia": "2014",
+      "data_zamkniecia": "",
+      "gry": "Ghostrunner God’s Trigger Warlocks vs Shadows Race To Mars Deadlings Sekrety Zbrodni: Szkarłatna Lilia",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "People Can Fly",
+      "data_zalozenia": "2002",
+      "data_zamkniecia": "",
+      "gry": "Painkiller Bulletstorm",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Plata Games",
+      "data_zalozenia": "2011",
+      "data_zamkniecia": "",
+      "gry": "Pirate Explorer Suburban Mysteries",
+      "uwagi": "założona przez byłych pracowników Leryx Longsoft"
+    },
+    {
+      "nazwa": "Play Publishing",
+      "data_zalozenia": "1994",
+      "data_zamkniecia": "2011/8",
+      "gry": "seria Maluch Racer",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "PlayWay",
+      "data_zalozenia": "2011",
+      "data_zamkniecia": "",
+      "gry": "seria Car Mechanic Simulator House Flipper",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Prime Bit Games SA",
+      "data_zalozenia": "2017",
+      "data_zamkniecia": "",
+      "gry": "Magic Nations Caveman Chuck Dark Tower Inside Grass Clash II (we współpracy ze Fintech S.A) Clash (reedycja) Return of Heir: Digital Edition Go!Birdie",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Rage Quit Games",
+      "data_zalozenia": "2013",
+      "data_zamkniecia": "",
+      "gry": "The Wolf: Online RPG Simulator Evil Lands: Online Action RPG Tomorrow",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Reality Pump Studios",
+      "data_zalozenia": "1995",
+      "data_zamkniecia": "",
+      "gry": "seria Two Worlds seria Earth",
+      "uwagi": "od maja 2015 roku Reality Pump jest oddziałem Topware Interactive AG"
+    },
+    {
+      "nazwa": "Rebelmind",
+      "data_zalozenia": "1999 (1994)",
+      "data_zamkniecia": "2007",
+      "gry": "Mega Blast (1995) Dark Moon (1996) Wyspa 7 Skarbów (1997) Tymoteusz (2000) Grom (2002) Wielka Wyprawa (2003) Space Hack (2004) Frater (2006) Garść Złota (anulowane)",
+      "uwagi": "Studio zostało założone w 1999 r. (choć w wywiadzie z twórcami przeprowadzonym przez redakcję GryOnline.pl pada data 1994 r. – potwierdza ją również archiwalna strona studia z lat 2002–2004) przez Krzysztofa i Marcina Krawczyków, oraz Dariusza Rusina. W 2007 r. aktywność grupy (w tym na stronie internetowej) uległa wygaśnięciu. Zespół liczył w ostatnich latach istnienia ok. 10 osób; zaś w szczytowym okresie – ok. 17."
+    },
+    {
+      "nazwa": "Red Dot Games",
+      "data_zalozenia": "2008",
+      "data_zamkniecia": "",
+      "gry": "seria Car Mechanic Simulator",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Render Cube",
+      "data_zalozenia": "2012",
+      "data_zamkniecia": "",
+      "gry": "Medieval Dynasty",
+      "uwagi": "Siedziba w Łodzi"
+    },
+    {
+      "nazwa": "ReSync",
+      "data_zalozenia": "2000/1",
+      "data_zamkniecia": "2002",
+      "gry": "Modi i Nanna: Sprytne Smyki",
+      "uwagi": "Zespół liczył 8-9 osób i miał swoją siedzibę w Rzeszowie. Członkowie pracowali wcześniej dla LK Avalon, TopWare Poland / TopWare Programy, X-Ray Interactive, biorąc udział przy produkcji Jacka Orlando, Earth 2140., Kangurka Kao. Za cel postawili sobie stworzenie gry dla dzieci, która będzie atrakcyjna również dla starszej grupy odbiorców, charakteryzować się brakiem przemocy, Prace zaczęto w grudniu 2001 r. Zespół był przygotowany do ewentualnego portu gry na platformę Xbox, o ile zainteresowanie grą będzie duże."
+    },
+    {
+      "nazwa": "Seven Stars Multimedia",
+      "data_zalozenia": "ok. 1993",
+      "data_zamkniecia": "ok. 2000",
+      "gry": "Kajko i Kokosz Wacki: Kosmiczna rozgrywka",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "SuperHot Team",
+      "data_zalozenia": "2013",
+      "data_zamkniecia": "",
+      "gry": "SuperHot SuperHot VR SuperHot Mind Control Delete",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Star Drifters",
+      "data_zalozenia": "2014",
+      "data_zamkniecia": "",
+      "gry": "Driftland: The Magic Reviva l Danger Scavenger Lumencraft",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Stribog Games",
+      "data_zalozenia": "2018",
+      "data_zamkniecia": "",
+      "gry": "Animatch Gemstone Legends",
+      "uwagi": "Stribog Games Sp. z o.o. (wcześniej OneMoreGame.Studio) powstała w 2018 roku i należy do grupy GameDesire Group. Specjalizuje się w tworzeniu gier mobilnych typu midcore. Jej flagowym produktem jest Gemstone Legends."
+    },
+    {
+      "nazwa": "T-Bull",
+      "data_zalozenia": "2010",
+      "data_zamkniecia": "",
+      "gry": "Tank Battle Heroes Top Speed",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Tannhauser Gate",
+      "data_zalozenia": "1998",
+      "data_zamkniecia": "2005",
+      "gry": "Mimesis Online The Roots: Gates of Chaos",
+      "uwagi": "Stworzyło jedną z pierwszych polskich gier MMORPG oraz, prawdopodobnie, jedyną grę na konsolofon Nokii – N-Gage wydaną nakładem Cenegi. W 2005 r. studio zostało zamknięte pomimo ambitnych planów przeniesienia gry The Roots na komputery osobiste."
+    },
+    {
+      "nazwa": "Tatanka",
+      "data_zalozenia": "1994 2000",
+      "data_zamkniecia": "2007",
+      "gry": "Asy Przestworzy",
+      "uwagi": "Powstała w 1994 r. przez Krzysztofa Jakubowskiego i Michała Sokolskiego jako nieformalny zespół, zarejestrowana jako spółka cywilna w 2000 r. W 2007 r. studio zakończyło działalność"
+    },
+    {
+      "nazwa": "Tate Interactive",
+      "data_zalozenia": "2000",
+      "data_zamkniecia": "",
+      "gry": "seria Kangurek Kao Urban Trial Freestyle",
+      "uwagi": "Pierwotnie studio powstało pod nazwą X-Ray Interactive z siedzibą w Nowej Sarzynie, skupiało się na hurtowej sprzedaży oprogramowania. Dostrzegając potencjał w branży rozrywkowej, nawiązało współpracę z kilkoma zespołami developerskimi ulokowanymi w Rzeszowie (Blood in the Metal) oraz Nowym Sączu (Denis). Dzięki nawiązaniu kontaktów handlowych z Titus Interactive (korzystniejszą ofertą wygrał z Infogrames), zespół tworzący Denisa przeniósł się do Krakowa. Tam, projekt przemianowany w trakcie prac, na Kangurka Kao, osiągnął sukces komercyjny. Firma X-Ray Interactive została postawiona w stan upadłości w 2007 Natomiast, zespół odpowiedzialny za Kangurka Kao przyjął nazwę Tate Interactive, później Tate Muttimedia."
+    },
+    {
+      "nazwa": "Techland",
+      "data_zalozenia": "1991",
+      "data_zamkniecia": "",
+      "gry": "seria Dying Light seria Chrome seria Call of Juarez",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Tech Studio",
+      "data_zalozenia": "2020",
+      "data_zamkniecia": "",
+      "gry": "Bot Fight The Fallen World; Beginning",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Ten Square Games",
+      "data_zalozenia": "2011",
+      "data_zamkniecia": "",
+      "gry": "Fishing Clash Let’s Fish Wild Hunt",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Teyon",
+      "data_zalozenia": "2006",
+      "data_zamkniecia": "",
+      "gry": "Terminator: Resistance Rambo: The Video Game seria Heavy Fire",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "The Astronauts",
+      "data_zalozenia": "2012",
+      "data_zamkniecia": "",
+      "gry": "Zaginięcie Ethana Cartera Witchfire",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "The Dust",
+      "data_zalozenia": "2014",
+      "data_zamkniecia": "",
+      "gry": "Cyber Strike Frankenstein: Beyond the Time",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "The Farm 51",
+      "data_zalozenia": "2005",
+      "data_zamkniecia": "",
+      "gry": "seria NecroVision",
+      "uwagi": "założona przez byłych pracowników People Can Fly"
+    },
+    {
+      "nazwa": "Ultimate Games S.A.",
+      "data_zalozenia": "2015",
+      "data_zamkniecia": "",
+      "gry": "Ultimate Fishing Simulator",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Very Nice Studio",
+      "data_zalozenia": "2008",
+      "data_zamkniecia": "",
+      "gry": "seria Klik Word Hex Paintball Pro",
+      "uwagi": "także producent gier planszowych"
+    },
+    {
+      "nazwa": "Vile Monarch",
+      "data_zalozenia": "maj 2015",
+      "data_zamkniecia": "",
+      "gry": "Growing Up Oh...Sir! The Insult Simulator Weedcraft, Inc. Oh...Sir! The Hollywood Roast Crush Your Enemies Kosmokrats (port na Nintendo Switch)",
+      "uwagi": ""
+    },
+    {
+      "nazwa": "Vivid Games",
+      "data_zalozenia": "2006",
+      "data_zamkniecia": "",
+      "gry": "seria Real Boxing Godfire: Rise of Prometheus",
+      "uwagi": "–"
+    },
+    {
+      "nazwa": "Wastelands Interactive",
+      "data_zalozenia": "2005",
+      "data_zamkniecia": "",
+      "gry": "seria World War 2 Fall Weiss",
+      "uwagi": "–"
+    }
+  ],
+  "meta": {
+    "title": "Polscy producenci gier komputerowych - Free Download",
+    "description": "Lista polskich studiów i producentów gier wideo z datą założenia, ewentualnego zamknięcia oraz najważniejszymi grami. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Polscy producenci gier komputerowych | ListBase",
+    "seo_description": "Download Polscy producenci gier komputerowych — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_polskich_producentów_gier_komputerowych"
+    ]
+  }
+}
