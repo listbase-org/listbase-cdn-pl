@@ -1,0 +1,310 @@
+{
+  "id": "pl-najdrozsze-polskie-filmy",
+  "name": "Najdroższe polskie filmy (od 1989)",
+  "title": "Najdroższe polskie filmy (od 1989)",
+  "description": "Ranking najdroższych polskich produkcji filmowych od 1989 roku według kosztu produkcji w złotych.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Lista_najdroższych_polskich_filmów_(od_1989)",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_najdroższych_polskich_filmów_(od_1989)",
+  "updated": "2026-11",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "tytul",
+      "label": "Tytul",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "koszt_produkcji_zl",
+      "label": "Koszt Produkcji Zl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": 1,
+      "tytul": "Quo vadis",
+      "rok": 2001,
+      "koszt_produkcji_zl": "76 140 000"
+    },
+    {
+      "lp": 2,
+      "tytul": "Chopin, Chopin!",
+      "rok": 2025,
+      "koszt_produkcji_zl": "64 825 000"
+    },
+    {
+      "lp": 3,
+      "tytul": "Lalka (film 2026)",
+      "rok": 2026,
+      "koszt_produkcji_zl": "64 000 000"
+    },
+    {
+      "lp": 3,
+      "tytul": "Karol. Papież, który pozostał człowiekiem",
+      "rok": 2006,
+      "koszt_produkcji_zl": "ok. 48 000 000"
+    },
+    {
+      "lp": 4,
+      "tytul": "Bitwa pod Wiedniem",
+      "rok": 2012,
+      "koszt_produkcji_zl": "44 144 247"
+    },
+    {
+      "lp": 5,
+      "tytul": "Raport Pileckiego",
+      "rok": 2023,
+      "koszt_produkcji_zl": "ok. 38 000 000"
+    },
+    {
+      "lp": 6,
+      "tytul": "Karol. Człowiek, który został papieżem",
+      "rok": 2005,
+      "koszt_produkcji_zl": "ok. 35 000 000"
+    },
+    {
+      "lp": 7,
+      "tytul": "Jeszcze dzień życia",
+      "rok": 2018,
+      "koszt_produkcji_zl": "ok. 33 000 000"
+    },
+    {
+      "lp": 8,
+      "tytul": "Czerwone maki",
+      "rok": 2024,
+      "koszt_produkcji_zl": "32 930 309"
+    },
+    {
+      "lp": 9,
+      "tytul": "Chłopi (film 2023)",
+      "rok": 2023,
+      "koszt_produkcji_zl": "ok. 30 000 000"
+    },
+    {
+      "lp": 10,
+      "tytul": "Pojedynek",
+      "rok": 2026,
+      "koszt_produkcji_zl": "28 000 000"
+    },
+    {
+      "lp": 11,
+      "tytul": "Miasto 44",
+      "rok": 2014,
+      "koszt_produkcji_zl": "24 823 700"
+    },
+    {
+      "lp": 12,
+      "tytul": "Hiszpanka",
+      "rok": 2015,
+      "koszt_produkcji_zl": "24 663 543"
+    },
+    {
+      "lp": 13,
+      "tytul": "Ogniem i mieczem",
+      "rok": 1999,
+      "koszt_produkcji_zl": "24 000 000"
+    },
+    {
+      "lp": 14,
+      "tytul": "Twój Vincent",
+      "rok": 2017,
+      "koszt_produkcji_zl": "22 610 841"
+    },
+    {
+      "lp": 15,
+      "tytul": "Kos (film)",
+      "rok": 2023,
+      "koszt_produkcji_zl": "ok. 22 000 000"
+    },
+    {
+      "lp": 16,
+      "tytul": "Janosik. Prawdziwa historia",
+      "rok": 2009,
+      "koszt_produkcji_zl": "21 798 693"
+    },
+    {
+      "lp": 17,
+      "tytul": "Chopin. Pragnienie miłości",
+      "rok": 2001,
+      "koszt_produkcji_zl": "21 150 000"
+    },
+    {
+      "lp": 18,
+      "tytul": "W ciemności",
+      "rok": 2011,
+      "koszt_produkcji_zl": "20 505 489"
+    },
+    {
+      "lp": 19,
+      "tytul": "Przedwiośnie",
+      "rok": 2001,
+      "koszt_produkcji_zl": "20 400 000"
+    },
+    {
+      "lp": 20,
+      "tytul": "Wołyń",
+      "rok": 2016,
+      "koszt_produkcji_zl": "19 672 075"
+    },
+    {
+      "lp": 21,
+      "tytul": "Wiedźmin",
+      "rok": 2001,
+      "koszt_produkcji_zl": "18 820 000"
+    },
+    {
+      "lp": 22,
+      "tytul": "Zimna wojna",
+      "rok": 2018,
+      "koszt_produkcji_zl": "18 263 000"
+    },
+    {
+      "lp": 23,
+      "tytul": "W pustyni i w puszczy",
+      "rok": 2001,
+      "koszt_produkcji_zl": "18 000 000"
+    },
+    {
+      "lp": 24,
+      "tytul": "Wałęsa. Człowiek z nadziei",
+      "rok": 2013,
+      "koszt_produkcji_zl": "17 885 000"
+    },
+    {
+      "lp": 25,
+      "tytul": "Katyń",
+      "rok": 2007,
+      "koszt_produkcji_zl": "16 000 000"
+    },
+    {
+      "lp": 26,
+      "tytul": "Kamerdyner",
+      "rok": 2018,
+      "koszt_produkcji_zl": "15 000 000"
+    },
+    {
+      "lp": 27,
+      "tytul": "Pokot",
+      "rok": 2017,
+      "koszt_produkcji_zl": "14 743 193"
+    },
+    {
+      "lp": 28,
+      "tytul": "Broad Peak",
+      "rok": 2022,
+      "koszt_produkcji_zl": "14 500 000"
+    },
+    {
+      "lp": 29,
+      "tytul": "Sponsoring",
+      "rok": 2011,
+      "koszt_produkcji_zl": "14 135 423"
+    },
+    {
+      "lp": 30,
+      "tytul": "Dywizjon 303. Historia prawdziwa",
+      "rok": 2018,
+      "koszt_produkcji_zl": "14 063 500"
+    },
+    {
+      "lp": 31,
+      "tytul": "Tajemnica Westerplatte",
+      "rok": 2013,
+      "koszt_produkcji_zl": "13 542 679"
+    },
+    {
+      "lp": 32,
+      "tytul": "Essential Killing",
+      "rok": 2010,
+      "koszt_produkcji_zl": "12 914 798"
+    },
+    {
+      "lp": 33,
+      "tytul": "Pan Tadeusz",
+      "rok": 1999,
+      "koszt_produkcji_zl": "12 500 000"
+    },
+    {
+      "lp": 34,
+      "tytul": "Popiełuszko. Wolność jest w nas",
+      "rok": 2009,
+      "koszt_produkcji_zl": "11 727 452"
+    },
+    {
+      "lp": 35,
+      "tytul": "Eter",
+      "rok": 2018,
+      "koszt_produkcji_zl": "11 575 000"
+    },
+    {
+      "lp": 36,
+      "tytul": "Stara baśń. Kiedy słońce było bogiem",
+      "rok": 2003,
+      "koszt_produkcji_zl": "11 000 000"
+    },
+    {
+      "lp": 37,
+      "tytul": "Historia Roja",
+      "rok": 2016,
+      "koszt_produkcji_zl": "10 500 000"
+    },
+    {
+      "lp": 38,
+      "tytul": "Kler",
+      "rok": 2018,
+      "koszt_produkcji_zl": "10 412 770"
+    },
+    {
+      "lp": 39,
+      "tytul": "Letnie przesilenie",
+      "rok": 2014,
+      "koszt_produkcji_zl": "10 389 130"
+    },
+    {
+      "lp": 40,
+      "tytul": "Fotograf",
+      "rok": 2014,
+      "koszt_produkcji_zl": "10 177 349"
+    },
+    {
+      "lp": 41,
+      "tytul": "Jack Strong",
+      "rok": 2014,
+      "koszt_produkcji_zl": "10 095 504"
+    },
+    {
+      "lp": 42,
+      "tytul": "Zemsta",
+      "rok": 2002,
+      "koszt_produkcji_zl": "10 000 000"
+    },
+    {
+      "lp": 43,
+      "tytul": "Smoleńsk",
+      "rok": 2016,
+      "koszt_produkcji_zl": "ok. 10 000 000"
+    }
+  ],
+  "meta": {
+    "title": "Najdroższe polskie filmy (od 1989) - Free Download",
+    "description": "Ranking najdroższych polskich produkcji filmowych od 1989 roku według kosztu produkcji w złotych. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najdroższe polskie filmy (od 1989) | ListBase",
+    "seo_description": "Download Najdroższe polskie filmy (od 1989) — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_najdroższych_polskich_filmów_(od_1989)"
+    ]
+  }
+}
