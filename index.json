@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-03T02:30:44.816Z",
-  "total_datasets": 529,
-  "total_records": 1093368,
+  "generated": "2026-11-03T02:30:51.817Z",
+  "total_datasets": 530,
+  "total_records": 1093429,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -720,6 +720,33 @@
         "xlsx": {
           "name": "pl-polskie-filmy-najwieksza-widownia_PL.xlsx",
           "size": 7526
+        }
+      }
+    },
+    {
+      "id": "pl-polskie-filmy-zgloszone-do-oscara",
+      "name": "Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego",
+      "category": "entertainment",
+      "record_count": 61,
+      "columns": [
+        "rok",
+        "ceremonia",
+        "tytul_polski",
+        "tytul_angielski",
+        "rezyseria",
+        "status"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_filmów_zgłoszonych_przez_Polskę_do_Oscara_dla_najlepszego_filmu_międzynarodowego",
+      "updated": "2026-11",
+      "size": 15128,
+      "files": {
+        "csv": {
+          "name": "pl-polskie-filmy-zgloszone-do-oscara_PL.csv",
+          "size": 5030
+        },
+        "xlsx": {
+          "name": "pl-polskie-filmy-zgloszone-do-oscara_PL.xlsx",
+          "size": 10344
         }
       }
     },

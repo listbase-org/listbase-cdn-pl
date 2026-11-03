@@ -1,0 +1,544 @@
+{
+  "id": "pl-polskie-filmy-zgloszone-do-oscara",
+  "name": "Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego",
+  "title": "Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego",
+  "description": "Lista polskich kandydatów do Oscara w kategorii najlepszy film międzynarodowy (nieanglojęzyczny) od 1957 roku, z reżyserem i wynikiem.",
+  "category": "entertainment",
+  "source": "https://pl.wikipedia.org/wiki/Lista_filmów_zgłoszonych_przez_Polskę_do_Oscara_dla_najlepszego_filmu_międzynarodowego",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_filmów_zgłoszonych_przez_Polskę_do_Oscara_dla_najlepszego_filmu_międzynarodowego",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "ceremonia",
+      "label": "Ceremonia",
+      "type": "string"
+    },
+    {
+      "key": "tytul_polski",
+      "label": "Tytul Polski",
+      "type": "string"
+    },
+    {
+      "key": "tytul_angielski",
+      "label": "Tytul Angielski",
+      "type": "string"
+    },
+    {
+      "key": "rezyseria",
+      "label": "Rezyseria",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1957,
+      "ceremonia": "30.",
+      "tytul_polski": "Kanał",
+      "tytul_angielski": "Canal",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1959,
+      "ceremonia": "32.",
+      "tytul_polski": "Szatan z siódmej klasy",
+      "tytul_angielski": "The Devil from Seventh Grade",
+      "rezyseria": "Maria Kaniewska",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1960,
+      "ceremonia": "33.",
+      "tytul_polski": "Krzyżacy",
+      "tytul_angielski": "The Knights of the Cross",
+      "rezyseria": "Aleksander Ford",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1963,
+      "ceremonia": "36.",
+      "tytul_polski": "Nóż w wodzie",
+      "tytul_angielski": "Knife in the Water",
+      "rezyseria": "Roman Polański",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1964,
+      "ceremonia": "37.",
+      "tytul_polski": "Pasażerka",
+      "tytul_angielski": "Passenger",
+      "rezyseria": "Andrzej Munk i Witold Lesiewicz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1966,
+      "ceremonia": "39.",
+      "tytul_polski": "Faraon",
+      "tytul_angielski": "Pharaoh",
+      "rezyseria": "Jerzy Kawalerowicz",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1968,
+      "ceremonia": "41.",
+      "tytul_polski": "Żywot Mateusza",
+      "tytul_angielski": "Matthew’s Days",
+      "rezyseria": "Witold Leszczyński",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1969,
+      "ceremonia": "42.",
+      "tytul_polski": "Wszystko na sprzedaż",
+      "tytul_angielski": "Everything For Sale",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1970,
+      "ceremonia": "43.",
+      "tytul_polski": "Sól ziemi czarnej",
+      "tytul_angielski": "The Taste of Black Earth",
+      "rezyseria": "Kazimierz Kutz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1971,
+      "ceremonia": "44.",
+      "tytul_polski": "Życie rodzinne",
+      "tytul_angielski": "Family Life",
+      "rezyseria": "Krzysztof Zanussi",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1972,
+      "ceremonia": "45.",
+      "tytul_polski": "Perła w koronie",
+      "tytul_angielski": "Pearl in the Crown",
+      "rezyseria": "Kazimierz Kutz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1973,
+      "ceremonia": "46.",
+      "tytul_polski": "Kopernik",
+      "tytul_angielski": "Copernicus",
+      "rezyseria": "Ewa Petelska i Czesław Petelski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1974,
+      "ceremonia": "47.",
+      "tytul_polski": "Potop",
+      "tytul_angielski": "The Deluge",
+      "rezyseria": "Jerzy Hoffman",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1975,
+      "ceremonia": "48.",
+      "tytul_polski": "Ziemia obiecana",
+      "tytul_angielski": "The Promised Land",
+      "rezyseria": "Andrzej Wajda",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1976,
+      "ceremonia": "49.",
+      "tytul_polski": "Noce i dnie",
+      "tytul_angielski": "Nights and Days",
+      "rezyseria": "Jerzy Antczak",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1977,
+      "ceremonia": "50.",
+      "tytul_polski": "Barwy ochronne",
+      "tytul_angielski": "Camouflage",
+      "rezyseria": "Krzysztof Zanussi",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1978,
+      "ceremonia": "51.",
+      "tytul_polski": "Śmierć prezydenta",
+      "tytul_angielski": "Death of a President",
+      "rezyseria": "Jerzy Kawalerowicz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1979,
+      "ceremonia": "52.",
+      "tytul_polski": "Panny z Wilka",
+      "tytul_angielski": "The Maids of Wilko",
+      "rezyseria": "Andrzej Wajda",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1980,
+      "ceremonia": "53.",
+      "tytul_polski": "Olimpiada ’40",
+      "tytul_angielski": "Olympics 40",
+      "rezyseria": "Andrzej Kotkowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1981,
+      "ceremonia": "54.",
+      "tytul_polski": "Człowiek z żelaza",
+      "tytul_angielski": "Man of Iron",
+      "rezyseria": "Andrzej Wajda",
+      "status": "nominacja"
+    },
+    {
+      "rok": 1985,
+      "ceremonia": "58.",
+      "tytul_polski": "Yesterday",
+      "tytul_angielski": "Yesterday",
+      "rezyseria": "Radosław Piwowarski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1986,
+      "ceremonia": "59.",
+      "tytul_polski": "Siekierezada",
+      "tytul_angielski": "Axiliad",
+      "rezyseria": "Witold Leszczyński",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1987,
+      "ceremonia": "60.",
+      "tytul_polski": "Bohater roku",
+      "tytul_angielski": "Hero of the Year",
+      "rezyseria": "Feliks Falk",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1988,
+      "ceremonia": "61.",
+      "tytul_polski": "Krótki film o miłości",
+      "tytul_angielski": "A Short Film About Love",
+      "rezyseria": "Krzysztof Kieślowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1989,
+      "ceremonia": "62.",
+      "tytul_polski": "Kornblumenblau",
+      "tytul_angielski": "Kornblumenblau",
+      "rezyseria": "Leszek Wosiewicz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1990,
+      "ceremonia": "63.",
+      "tytul_polski": "Korczak",
+      "tytul_angielski": "Korczak",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1991,
+      "ceremonia": "64.",
+      "tytul_polski": "Podwójne życie Weroniki",
+      "tytul_angielski": "The Double Life of Véronique",
+      "rezyseria": "Krzysztof Kieślowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1992,
+      "ceremonia": "65.",
+      "tytul_polski": "Wszystko, co najważniejsze...",
+      "tytul_angielski": "All That Really Matters",
+      "rezyseria": "Robert Gliński",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1993,
+      "ceremonia": "66.",
+      "tytul_polski": "Szwadron",
+      "tytul_angielski": "Squadron",
+      "rezyseria": "Juliusz Machulski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1994,
+      "ceremonia": "67.",
+      "tytul_polski": "Trzy kolory. Biały",
+      "tytul_angielski": "Three Colors: White",
+      "rezyseria": "Krzysztof Kieślowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1995,
+      "ceremonia": "68.",
+      "tytul_polski": "Wrony",
+      "tytul_angielski": "Crows",
+      "rezyseria": "Dorota Kędzierzawska",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1996,
+      "ceremonia": "69.",
+      "tytul_polski": "Cwał",
+      "tytul_angielski": "At Full Gallop",
+      "rezyseria": "Krzysztof Zanussi",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1997,
+      "ceremonia": "70.",
+      "tytul_polski": "Historie miłosne",
+      "tytul_angielski": "Love Stories",
+      "rezyseria": "Jerzy Stuhr",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 1999,
+      "ceremonia": "72.",
+      "tytul_polski": "Pan Tadeusz",
+      "tytul_angielski": "Pan Tadeusz",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2000,
+      "ceremonia": "73.",
+      "tytul_polski": "Życie jako śmiertelna choroba przenoszona drogą płciową",
+      "tytul_angielski": "Life as a Fatal Sexually Transmitted Disease",
+      "rezyseria": "Krzysztof Zanussi",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2001,
+      "ceremonia": "74.",
+      "tytul_polski": "Quo vadis",
+      "tytul_angielski": "Quo vadis",
+      "rezyseria": "Jerzy Kawalerowicz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2002,
+      "ceremonia": "75.",
+      "tytul_polski": "Edi",
+      "tytul_angielski": "Edi",
+      "rezyseria": "Piotr Trzaskalski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2003,
+      "ceremonia": "76.",
+      "tytul_polski": "Pornografia",
+      "tytul_angielski": "Pornografia",
+      "rezyseria": "Jan Jakub Kolski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2004,
+      "ceremonia": "77.",
+      "tytul_polski": "Pręgi",
+      "tytul_angielski": "The Welts",
+      "rezyseria": "Magdalena Piekorz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2005,
+      "ceremonia": "78.",
+      "tytul_polski": "Komornik",
+      "tytul_angielski": "The Collector",
+      "rezyseria": "Feliks Falk",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2006,
+      "ceremonia": "79.",
+      "tytul_polski": "Z odzysku",
+      "tytul_angielski": "Retrieval",
+      "rezyseria": "Sławomir Fabicki",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2007,
+      "ceremonia": "80.",
+      "tytul_polski": "Katyń",
+      "tytul_angielski": "Katyń",
+      "rezyseria": "Andrzej Wajda",
+      "status": "nominacja"
+    },
+    {
+      "rok": 2008,
+      "ceremonia": "81.",
+      "tytul_polski": "Sztuczki",
+      "tytul_angielski": "Tricks",
+      "rezyseria": "Andrzej Jakimowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2009,
+      "ceremonia": "82.",
+      "tytul_polski": "Rewers",
+      "tytul_angielski": "Reverse",
+      "rezyseria": "Borys Lankosz",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2010,
+      "ceremonia": "83.",
+      "tytul_polski": "Wszystko, co kocham",
+      "tytul_angielski": "All That I Love",
+      "rezyseria": "Jacek Borcuch",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2011,
+      "ceremonia": "84.",
+      "tytul_polski": "W ciemności",
+      "tytul_angielski": "In Darkness",
+      "rezyseria": "Agnieszka Holland",
+      "status": "nominacja"
+    },
+    {
+      "rok": 2012,
+      "ceremonia": "85.",
+      "tytul_polski": "80 milionów",
+      "tytul_angielski": "80 Million",
+      "rezyseria": "Waldemar Krzystek",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2013,
+      "ceremonia": "86.",
+      "tytul_polski": "Wałęsa. Człowiek z nadziei",
+      "tytul_angielski": "Walesa. Man of Hope",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2014,
+      "ceremonia": "87.",
+      "tytul_polski": "Ida",
+      "tytul_angielski": "Ida",
+      "rezyseria": "Paweł Pawlikowski",
+      "status": "wygrana"
+    },
+    {
+      "rok": 2015,
+      "ceremonia": "88.",
+      "tytul_polski": "11 minut",
+      "tytul_angielski": "11 Minutes",
+      "rezyseria": "Jerzy Skolimowski",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2016,
+      "ceremonia": "89.",
+      "tytul_polski": "Powidoki",
+      "tytul_angielski": "Afterimage",
+      "rezyseria": "Andrzej Wajda",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2017,
+      "ceremonia": "90.",
+      "tytul_polski": "Pokot",
+      "tytul_angielski": "Spoor",
+      "rezyseria": "Agnieszka Holland i Kasia Adamik",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2018,
+      "ceremonia": "91.",
+      "tytul_polski": "Zimna wojna",
+      "tytul_angielski": "Cold War",
+      "rezyseria": "Paweł Pawlikowski",
+      "status": "nominacja"
+    },
+    {
+      "rok": 2019,
+      "ceremonia": "92.",
+      "tytul_polski": "Boże Ciało",
+      "tytul_angielski": "Corpus Christi",
+      "rezyseria": "Jan Komasa",
+      "status": "nominacja"
+    },
+    {
+      "rok": 2020,
+      "ceremonia": "93.",
+      "tytul_polski": "Śniegu już nigdy nie będzie",
+      "tytul_angielski": "Never Gonna Snow Again",
+      "rezyseria": "Małgorzata Szumowska i Michał Englert",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2021,
+      "ceremonia": "94.",
+      "tytul_polski": "Żeby nie było śladów",
+      "tytul_angielski": "Leave No Traces",
+      "rezyseria": "Jan P. Matuszyński",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2022,
+      "ceremonia": "95.",
+      "tytul_polski": "IO",
+      "tytul_angielski": "EO",
+      "rezyseria": "Jerzy Skolimowski",
+      "status": "nominacja"
+    },
+    {
+      "rok": 2023,
+      "ceremonia": "96.",
+      "tytul_polski": "Chłopi",
+      "tytul_angielski": "The Peasants",
+      "rezyseria": "Dorota Kobiela i Hugh Welchman",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2024,
+      "ceremonia": "97.",
+      "tytul_polski": "Pod wulkanem",
+      "tytul_angielski": "Under the Volcano",
+      "rezyseria": "Damian Kocur",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2025,
+      "ceremonia": "98.",
+      "tytul_polski": "Franz Kafka",
+      "tytul_angielski": "Franz",
+      "rezyseria": "Agnieszka Holland",
+      "status": "brak nominacji"
+    },
+    {
+      "rok": 2026,
+      "ceremonia": "99.",
+      "tytul_polski": "Ojczyzna",
+      "tytul_angielski": "Fatherland",
+      "rezyseria": "Paweł Pawlikowski",
+      "status": ""
+    }
+  ],
+  "meta": {
+    "title": "Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego - Free Download",
+    "description": "Lista polskich kandydatów do Oscara w kategorii najlepszy film międzynarodowy (nieanglojęzyczny) od 1957 roku, z reżyserem i wynikiem. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego | ListBase",
+    "seo_description": "Download Filmy zgłoszone przez Polskę do Oscara dla najlepszego filmu międzynarodowego — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_filmów_zgłoszonych_przez_Polskę_do_Oscara_dla_najlepszego_filmu_międzynarodowego"
+    ]
+  }
+}
