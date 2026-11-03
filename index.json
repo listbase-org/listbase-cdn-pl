@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-03T02:30:37.085Z",
-  "total_datasets": 528,
-  "total_records": 1093138,
+  "generated": "2026-11-03T02:30:44.816Z",
+  "total_datasets": 529,
+  "total_records": 1093368,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -4199,6 +4199,47 @@
         "xlsx": {
           "name": "pl-najczesciej-nagradzani-fryderykami_PL.xlsx",
           "size": 8701
+        }
+      }
+    },
+    {
+      "id": "pl-polski-top-wszech-czasow",
+      "name": "Polski Top Wszech Czasów Programu 3 — piosenki i miejsca (2008–2025)",
+      "category": "music",
+      "record_count": 230,
+      "columns": [
+        "utwor",
+        "wykonawca",
+        "miejsce_2008",
+        "miejsce_2009",
+        "miejsce_2010",
+        "miejsce_2011",
+        "miejsce_2012",
+        "miejsce_2013",
+        "miejsce_2014",
+        "miejsce_2015",
+        "miejsce_2016",
+        "miejsce_2017",
+        "miejsce_2018",
+        "miejsce_2019",
+        "miejsce_2020",
+        "miejsce_2021",
+        "miejsce_2022",
+        "miejsce_2023",
+        "miejsce_2024",
+        "miejsce_2025"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_piosenek_Polskiego_Topu_Wszech_Czasów",
+      "updated": "2026-11",
+      "size": 129943,
+      "files": {
+        "csv": {
+          "name": "pl-polski-top-wszech-czasow_PL.csv",
+          "size": 24122
+        },
+        "xlsx": {
+          "name": "pl-polski-top-wszech-czasow_PL.xlsx",
+          "size": 27003
         }
       }
     },
