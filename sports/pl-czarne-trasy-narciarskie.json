@@ -1,0 +1,328 @@
+{
+  "id": "pl-czarne-trasy-narciarskie",
+  "name": "Czarne (najtrudniejsze) trasy narciarskie w Polsce",
+  "title": "Czarne (najtrudniejsze) trasy narciarskie w Polsce",
+  "description": "Lista czarnych tras zjazdowych w polskich ośrodkach narciarskich z wysokością startu i mety, długością, przewyższeniem i nachyleniem.",
+  "category": "sports",
+  "source": "https://pl.wikipedia.org/wiki/Lista_czarnych_narciarskich_tras_zjazdowych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_czarnych_narciarskich_tras_zjazdowych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "osrodek",
+      "label": "Osrodek",
+      "type": "string"
+    },
+    {
+      "key": "trasa",
+      "label": "Trasa",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "start_wysokosc_m",
+      "label": "Start Wysokosc M",
+      "type": "number"
+    },
+    {
+      "key": "meta",
+      "label": "Meta",
+      "type": "string"
+    },
+    {
+      "key": "meta_wysokosc_m",
+      "label": "Meta Wysokosc M",
+      "type": "number"
+    },
+    {
+      "key": "dlugosc_m",
+      "label": "Dlugosc M",
+      "type": "number"
+    },
+    {
+      "key": "przewyzszenie_m",
+      "label": "Przewyzszenie M",
+      "type": "number"
+    },
+    {
+      "key": "nachylenie_proc",
+      "label": "Nachylenie Proc",
+      "type": "number"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "osrodek": "SkiArena Szrenica",
+      "trasa": "1, FIS",
+      "start": "Szrenica",
+      "start_wysokosc_m": 1302,
+      "meta": "",
+      "meta_wysokosc_m": 792,
+      "dlugosc_m": 2000,
+      "przewyzszenie_m": 510,
+      "nachylenie_proc": 25.5,
+      "uwagi": "ściana o nachyleniu 50%"
+    },
+    {
+      "osrodek": "Kompleks Narciarski Kopa w Karpaczu",
+      "trasa": "A, Liczyrzepa",
+      "start": "Kopa",
+      "start_wysokosc_m": 1350,
+      "meta": "",
+      "meta_wysokosc_m": 1045,
+      "dlugosc_m": 1030,
+      "przewyzszenie_m": 305,
+      "nachylenie_proc": 29.6,
+      "uwagi": ""
+    },
+    {
+      "osrodek": "Ośrodek Narciarski Czarna Góra",
+      "trasa": "Trasa A, KL",
+      "start": "Czarna Góra",
+      "start_wysokosc_m": 1205,
+      "meta": "",
+      "meta_wysokosc_m": 826,
+      "dlugosc_m": 1367,
+      "przewyzszenie_m": 379,
+      "nachylenie_proc": 27.7,
+      "uwagi": "SL K i M GS K i M"
+    },
+    {
+      "osrodek": "Ośrodek Narciarski Stożek w Wiśle",
+      "trasa": "Trasa czarna",
+      "start": "",
+      "start_wysokosc_m": 940,
+      "meta": "",
+      "meta_wysokosc_m": 720,
+      "dlugosc_m": 1100,
+      "przewyzszenie_m": 240,
+      "nachylenie_proc": 21.8,
+      "uwagi": "oświetlenie nie umożliwia jazdy nocnej"
+    },
+    {
+      "osrodek": "Ośrodek Narciarski Stożek w Wiśle",
+      "trasa": "czarny fragment trasy \"Ściana\"",
+      "start": "",
+      "start_wysokosc_m": 940,
+      "meta": "",
+      "meta_wysokosc_m": 720,
+      "dlugosc_m": 800,
+      "przewyzszenie_m": 240,
+      "nachylenie_proc": 30,
+      "uwagi": "jw."
+    },
+    {
+      "osrodek": "Szczyrk Mountain Resort",
+      "trasa": "5, Bieńkula",
+      "start": "Hala Skrzyczeńska",
+      "start_wysokosc_m": 1022,
+      "meta": "Czyrna \"Bieńkula\"",
+      "meta_wysokosc_m": 618,
+      "dlugosc_m": 1520,
+      "przewyzszenie_m": 404,
+      "nachylenie_proc": 26.6,
+      "uwagi": ""
+    },
+    {
+      "osrodek": "Ośrodek Narciarski Beskid Sport Arena w Szczyrku",
+      "trasa": "3, FIS",
+      "start": "Stacja górna wyciągu",
+      "start_wysokosc_m": 840,
+      "meta": "Stacja dolna wyciągu",
+      "meta_wysokosc_m": 600,
+      "dlugosc_m": 800,
+      "przewyzszenie_m": 240,
+      "nachylenie_proc": 30,
+      "uwagi": ""
+    },
+    {
+      "osrodek": "Ośrodek Narciarski COS OPO w Szczyrku",
+      "trasa": "23, FIS",
+      "start": "Skrzyczne",
+      "start_wysokosc_m": 1257,
+      "meta": "Dolina Dunacie",
+      "meta_wysokosc_m": 607,
+      "dlugosc_m": 2850,
+      "przewyzszenie_m": 650,
+      "nachylenie_proc": 22.8,
+      "uwagi": "SL K i M DH K i M SG K i M SG M"
+    },
+    {
+      "osrodek": "Ośrodek Szkoleniowo-Wypoczynkowy Beskidek w Szczyrku",
+      "trasa": "Beskidek",
+      "start": "górna stacja wyciągu orczykowego",
+      "start_wysokosc_m": 715,
+      "meta": "dolna stacja wyciągu orczykowego",
+      "meta_wysokosc_m": 530,
+      "dlugosc_m": 730,
+      "przewyzszenie_m": 185,
+      "nachylenie_proc": 25.3,
+      "uwagi": "nieczynna"
+    },
+    {
+      "osrodek": "Jastrzębica SKI w Przyłękowie",
+      "trasa": "1, FIS",
+      "start": "",
+      "start_wysokosc_m": 760,
+      "meta": "",
+      "meta_wysokosc_m": 600,
+      "dlugosc_m": 530,
+      "przewyzszenie_m": 160,
+      "nachylenie_proc": 30,
+      "uwagi": "SL K i M"
+    },
+    {
+      "osrodek": "Ośrodek Narciarski Pilsko w Korbielowie",
+      "trasa": "7",
+      "start": "Hala Miziowa",
+      "start_wysokosc_m": 1300,
+      "meta": "Hala Szczawiny",
+      "meta_wysokosc_m": 1060,
+      "dlugosc_m": 1000,
+      "przewyzszenie_m": 240,
+      "nachylenie_proc": 24,
+      "uwagi": "GS K i M SG K i M SL K i M"
+    },
+    {
+      "osrodek": "Stacja Narciarska MaciejowaSki w Rabce",
+      "trasa": "3",
+      "start": "",
+      "start_wysokosc_m": "",
+      "meta": "",
+      "meta_wysokosc_m": "",
+      "dlugosc_m": 350,
+      "przewyzszenie_m": "",
+      "nachylenie_proc": "",
+      "uwagi": "fragment dłuższej trasy"
+    },
+    {
+      "osrodek": "Ośrodek Narciarsko-Rekreacyjny Harenda w Zakopanem",
+      "trasa": "",
+      "start": "",
+      "start_wysokosc_m": "",
+      "meta": "",
+      "meta_wysokosc_m": "",
+      "dlugosc_m": 900,
+      "przewyzszenie_m": 210,
+      "nachylenie_proc": 23.3,
+      "uwagi": "SL K i M"
+    },
+    {
+      "osrodek": "Kasprowy Wierch (ośrodek narciarski)",
+      "trasa": "2, Trasa Goryczkowa",
+      "start": "Kasprowy Wierch",
+      "start_wysokosc_m": 1950,
+      "meta": "",
+      "meta_wysokosc_m": 1348,
+      "dlugosc_m": 2000,
+      "przewyzszenie_m": 602,
+      "nachylenie_proc": 30.1,
+      "uwagi": "SL, GS, SG, DH K i M"
+    },
+    {
+      "osrodek": "Kasprowy Wierch (ośrodek narciarski)",
+      "trasa": "1, Trasa Gąsienicowa",
+      "start": "Kasprowy Wierch",
+      "start_wysokosc_m": 1985,
+      "meta": "",
+      "meta_wysokosc_m": 1633,
+      "dlugosc_m": 1400,
+      "przewyzszenie_m": 352,
+      "nachylenie_proc": 25.1,
+      "uwagi": "SL i GS K i M"
+    },
+    {
+      "osrodek": "Centrum Narciarskie Nosal w Zakopanem",
+      "trasa": "Nosal 1",
+      "start": "Nosal, górna stacja wyciągu krzesełkowego",
+      "start_wysokosc_m": "ok. 1150",
+      "meta": "dolna stacja wyciągu krzesełkowego",
+      "meta_wysokosc_m": "ok. 920",
+      "dlugosc_m": 650,
+      "przewyzszenie_m": 230,
+      "nachylenie_proc": 35.4,
+      "uwagi": "w dolnej części czerwona, nieczynna"
+    },
+    {
+      "osrodek": "Stacja Narciarska Jurgów",
+      "trasa": "5",
+      "start": "Górków Wierch",
+      "start_wysokosc_m": 1046,
+      "meta": "dolna stacja wyciągu krzesełkowego",
+      "meta_wysokosc_m": 846,
+      "dlugosc_m": 950,
+      "przewyzszenie_m": 200,
+      "nachylenie_proc": 21.1,
+      "uwagi": "SL K i M otwarta 2010-12-30"
+    },
+    {
+      "osrodek": "Arena Narciarska Jaworki-Homole",
+      "trasa": "",
+      "start": "górna stacja wyciągu \"Homole\"",
+      "start_wysokosc_m": "",
+      "meta": "dolna stacja wyciągu \"Homole\"",
+      "meta_wysokosc_m": "",
+      "dlugosc_m": 900,
+      "przewyzszenie_m": 116,
+      "nachylenie_proc": 12.9,
+      "uwagi": "kolor czarny ze względu na brak utrzymywania trasy"
+    },
+    {
+      "osrodek": "Stacja Narciarska Jaworzyna Krynicka",
+      "trasa": "V, FIS",
+      "start": "",
+      "start_wysokosc_m": 950,
+      "meta": "",
+      "meta_wysokosc_m": 688,
+      "dlugosc_m": 1000,
+      "przewyzszenie_m": 262,
+      "nachylenie_proc": 26.2,
+      "uwagi": "SL K i M"
+    },
+    {
+      "osrodek": "Stacja Narciarska Laskowa-Kamionna",
+      "trasa": "",
+      "start": "",
+      "start_wysokosc_m": "",
+      "meta": "",
+      "meta_wysokosc_m": "",
+      "dlugosc_m": "ok. 100",
+      "przewyzszenie_m": "",
+      "nachylenie_proc": "",
+      "uwagi": "ok. 100-metrowy fragment dłuższej trasy"
+    },
+    {
+      "osrodek": "WOSiR Szelment w Jeleniewie",
+      "trasa": "Czarna",
+      "start": "",
+      "start_wysokosc_m": "",
+      "meta": "",
+      "meta_wysokosc_m": "",
+      "dlugosc_m": 400,
+      "przewyzszenie_m": 60,
+      "nachylenie_proc": 15,
+      "uwagi": "Druga trasa, o nazwie „Wąwóz” (długość 500 m) też ma czarne oznaczenie"
+    }
+  ],
+  "meta": {
+    "title": "Czarne (najtrudniejsze) trasy narciarskie w Polsce - Free Download",
+    "description": "Lista czarnych tras zjazdowych w polskich ośrodkach narciarskich z wysokością startu i mety, długością, przewyższeniem i nachyleniem. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czarne (najtrudniejsze) trasy narciarskie w Polsce | ListBase",
+    "seo_description": "Download Czarne (najtrudniejsze) trasy narciarskie w Polsce — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_czarnych_narciarskich_tras_zjazdowych_w_Polsce"
+    ]
+  }
+}

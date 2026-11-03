@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-03T02:30:23.276Z",
-  "total_datasets": 526,
-  "total_records": 1093073,
+  "generated": "2026-11-03T02:30:30.628Z",
+  "total_datasets": 527,
+  "total_records": 1093094,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -12653,6 +12653,37 @@
         "xlsx": {
           "name": "pl-wojewodztwa-wskaznik-rozwoju-spolecznego_PL.xlsx",
           "size": 7440
+        }
+      }
+    },
+    {
+      "id": "pl-czarne-trasy-narciarskie",
+      "name": "Czarne (najtrudniejsze) trasy narciarskie w Polsce",
+      "category": "sports",
+      "record_count": 21,
+      "columns": [
+        "osrodek",
+        "trasa",
+        "start",
+        "start_wysokosc_m",
+        "meta",
+        "meta_wysokosc_m",
+        "dlugosc_m",
+        "przewyzszenie_m",
+        "nachylenie_proc",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_czarnych_narciarskich_tras_zjazdowych_w_Polsce",
+      "updated": "2026-11",
+      "size": 9523,
+      "files": {
+        "csv": {
+          "name": "pl-czarne-trasy-narciarskie_PL.csv",
+          "size": 2910
+        },
+        "xlsx": {
+          "name": "pl-czarne-trasy-narciarskie_PL.xlsx",
+          "size": 8787
         }
       }
     },
