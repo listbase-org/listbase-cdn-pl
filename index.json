@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-02T02:24:46.377Z",
-  "total_datasets": 525,
-  "total_records": 1092767,
+  "generated": "2026-11-03T02:30:23.276Z",
+  "total_datasets": 526,
+  "total_records": 1093073,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -102,6 +102,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "pl-chwasty-w-rolnictwie",
+      "name": "Gatunki chwastów w gospodarce rolnej w Polsce",
+      "category": "agriculture",
+      "record_count": 306,
+      "columns": [
+        "nazwa_polska",
+        "nazwa_lacinska",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_gatunków_chwastów_w_gospodarce_rolnej_w_Polsce",
+      "updated": "2026-11",
+      "size": 38482,
+      "files": {
+        "csv": {
+          "name": "pl-chwasty-w-rolnictwie_PL.csv",
+          "size": 13651
+        },
+        "xlsx": {
+          "name": "pl-chwasty-w-rolnictwie_PL.xlsx",
+          "size": 16505
+        }
+      }
+    },
     {
       "id": "pl-ministrowie-rolnictwa",
       "name": "Ministrowie rolnictwa w Polsce",

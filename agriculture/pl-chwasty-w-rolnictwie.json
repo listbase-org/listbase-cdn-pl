@@ -1,0 +1,1571 @@
+{
+  "id": "pl-chwasty-w-rolnictwie",
+  "name": "Gatunki chwastów w gospodarce rolnej w Polsce",
+  "title": "Gatunki chwastów w gospodarce rolnej w Polsce",
+  "description": "Lista gatunków chwastów występujących w uprawach rolnych w Polsce z nazwą polską i łacińską.",
+  "category": "agriculture",
+  "source": "https://pl.wikipedia.org/wiki/Lista_gatunków_chwastów_w_gospodarce_rolnej_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_gatunków_chwastów_w_gospodarce_rolnej_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 306,
+  "columns": [
+    {
+      "key": "nazwa_polska",
+      "label": "Nazwa Polska",
+      "type": "string"
+    },
+    {
+      "key": "nazwa_lacinska",
+      "label": "Nazwa Lacinska",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa_polska": "babka lancetowata",
+      "nazwa_lacinska": "Plantago lanceolata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "babka zwyczajna",
+      "nazwa_lacinska": "Plantago major",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "barszcz zwyczajny",
+      "nazwa_lacinska": "Heracleum sphondylium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "barszcz Sosnowskiego",
+      "nazwa_lacinska": "Heracleum sosnowskyi",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bieluń dziędzierzawa",
+      "nazwa_lacinska": "Datura stramonium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "blekot pospolity",
+      "nazwa_lacinska": "Aethusa cynapium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bluszczyk kurdybanek",
+      "nazwa_lacinska": "Glechoma hederacea",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bodziszek porozcinany",
+      "nazwa_lacinska": "Geranium dissectum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bodziszek rozłożysty",
+      "nazwa_lacinska": "Geranium divaricatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bodziszek kosmaty",
+      "nazwa_lacinska": "Geranium molle",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bodziszek drobny",
+      "nazwa_lacinska": "Geranium pusillum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bodziszek okrągłolistny",
+      "nazwa_lacinska": "Geranium rotundifolium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bylica polna",
+      "nazwa_lacinska": "Artemisia campestris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "bylica pospolita",
+      "nazwa_lacinska": "Artemisia vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "chaber bławatek",
+      "nazwa_lacinska": "Centaurea cyanus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "chaber driakiewnik",
+      "nazwa_lacinska": "Centaurea scabiosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "chłodek drobny",
+      "nazwa_lacinska": "Arnoseris minima",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "chroszcz nagołodygowy",
+      "nazwa_lacinska": "Teesdalea nudicaulis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "cieciorka pstra",
+      "nazwa_lacinska": "Coronilla varia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "chwastnica jednostronna",
+      "nazwa_lacinska": "Echinochloa crus-galli",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "cykoria podróżnik",
+      "nazwa_lacinska": "Cichorium intybus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czarnuszka polna",
+      "nazwa_lacinska": "Nigella arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czechrzyca grzebieniowa",
+      "nazwa_lacinska": "Scandix pecten-veneris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czerwiec roczny",
+      "nazwa_lacinska": "Scleranthus annuus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czosnek kątowy",
+      "nazwa_lacinska": "Allium angulosum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czosnek winnicowy",
+      "nazwa_lacinska": "Allium vineale",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czosnek kulisty",
+      "nazwa_lacinska": "Allium rotundum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czosnek zielonawy",
+      "nazwa_lacinska": "Allium oleraceum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czyściec błotny",
+      "nazwa_lacinska": "Stachys palustris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czyściec polny",
+      "nazwa_lacinska": "Stachys arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czyściec prosty",
+      "nazwa_lacinska": "Stachys recta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "czyściec roczny",
+      "nazwa_lacinska": "Stachys annua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dąbrówka żółtokwiatowa",
+      "nazwa_lacinska": "Ajuga chamaepitys",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dymnica pospolita",
+      "nazwa_lacinska": "Fumaria officinalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dymnica szerokodziałkowa",
+      "nazwa_lacinska": "Fumaria rostellata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dymnica różowa",
+      "nazwa_lacinska": "Fumaria schleicheri",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dymnica drobnokwiatowa",
+      "nazwa_lacinska": "Fumaria vaillantii",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dziewanna pospolita",
+      "nazwa_lacinska": "Verbascum nigrum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dziurawiec rozesłany",
+      "nazwa_lacinska": "Hypericum humifusum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "dzwonek jednostronny",
+      "nazwa_lacinska": "Campanula rapunculoides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "farbownik lekarski",
+      "nazwa_lacinska": "Anchusa officinalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "fiołek polny",
+      "nazwa_lacinska": "Viola arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "fiołek trójbarwny",
+      "nazwa_lacinska": "Viola tricolor",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "gęsiówka piaskowa",
+      "nazwa_lacinska": "Cardaminopsis arenosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "głowienka pospolita",
+      "nazwa_lacinska": "Prunella vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "gorczyca polna",
+      "nazwa_lacinska": "Sinapis arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "gorczycznik pospolity",
+      "nazwa_lacinska": "Barbarea vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "goździeniec okółkowy",
+      "nazwa_lacinska": "Illecebrum verticillatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "groszek bulwiasty",
+      "nazwa_lacinska": "Lathyrus tuberosus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "groszek kosmatostrąkowy",
+      "nazwa_lacinska": "Lathyrus hirsutus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "groszek liściakowaty",
+      "nazwa_lacinska": "Lathyrus nissolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "gryka tatarka",
+      "nazwa_lacinska": "Fagopyrum tataricum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "gwiazdnica pospolita",
+      "nazwa_lacinska": "Stellaria media",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "iglica pospolita",
+      "nazwa_lacinska": "Erodium cicutarium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jaskier ostry",
+      "nazwa_lacinska": "Ranunculus acer",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jaskier polny",
+      "nazwa_lacinska": "Ranunculus arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jaskier rozłogowy",
+      "nazwa_lacinska": "Ranunculus repens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jasnota biała",
+      "nazwa_lacinska": "Lamium album",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jasnota różowa",
+      "nazwa_lacinska": "Lamium amplexicaule",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "jasnota purpurowa",
+      "nazwa_lacinska": "Lamium purpureum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kanianka lnowa",
+      "nazwa_lacinska": "Cuscuta epilinum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kanianka koniczynowa",
+      "nazwa_lacinska": "Cuscuta trifoli",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kanianka macierzankowa",
+      "nazwa_lacinska": "Cuscuta epithymum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "karmnik bezpłatkowy",
+      "nazwa_lacinska": "Sagina ciliata",
+      "uwagi": ", (Sagina apetala)"
+    },
+    {
+      "nazwa_polska": "karmnik rozesłany",
+      "nazwa_lacinska": "Sagina procumbens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kąkol polny",
+      "nazwa_lacinska": "Agrostemma githago",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kłosówka miękka",
+      "nazwa_lacinska": "Holcus mollis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kocanki piaskowe",
+      "nazwa_lacinska": "Helichrysum arenarium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kocimiętka właściwa",
+      "nazwa_lacinska": "Nepeta cataria",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kokornak powojnikowy",
+      "nazwa_lacinska": "Aristolochia clematis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "komosa biała",
+      "nazwa_lacinska": "Chenopodium album",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "komosa sina",
+      "nazwa_lacinska": "Chenopodium glaucum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "komosa wielkolistna",
+      "nazwa_lacinska": "Chenopodium hybridum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "komosa wielonasienna",
+      "nazwa_lacinska": "Chenopodium polyspermum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "koniczyna polna",
+      "nazwa_lacinska": "Trifolium arvense",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "koniczyna różnoogonkowa",
+      "nazwa_lacinska": "Trifolium campestre",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kozłek lekarski",
+      "nazwa_lacinska": "Valeriana offcinalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "krowiziół zbożowy",
+      "nazwa_lacinska": "Vaccaria hispanica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "krwawnik pospolity",
+      "nazwa_lacinska": "Achillea millefolium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "krwiściąg mniejszy",
+      "nazwa_lacinska": "Sanguisorba minor",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "krwiściąg średni",
+      "nazwa_lacinska": "Sanguisorba muricata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "krzywoszyj polny",
+      "nazwa_lacinska": "Lycopsis arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kurzyślad błękitny",
+      "nazwa_lacinska": "Anagallis foemina",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "kurzyślad polny",
+      "nazwa_lacinska": "Anagallis arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lenek stoziarn",
+      "nazwa_lacinska": "Radiola linoides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lepnica biała",
+      "nazwa_lacinska": "Silene alba",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lepnica dwudzielna",
+      "nazwa_lacinska": "Silene dichotoma",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lepnica francuska",
+      "nazwa_lacinska": "Silene gallica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lepnica rozdęta",
+      "nazwa_lacinska": "Silene vulgarris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lepnica smukła",
+      "nazwa_lacinska": "Silene conica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnica polna",
+      "nazwa_lacinska": "Linaria arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnica pospolita",
+      "nazwa_lacinska": "Linaria vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnica zgiętoostrogowa",
+      "nazwa_lacinska": "Linaria spuria",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnicznik drobnoowocowy",
+      "nazwa_lacinska": "Camelina microcarpa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnicznik siewny",
+      "nazwa_lacinska": "Camelina sativa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lnicznik właściwy",
+      "nazwa_lacinska": "Camelina alyssum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lucerna nerkowata",
+      "nazwa_lacinska": "Medicago lupulina",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lucerna sierpowata",
+      "nazwa_lacinska": "Medicago falcata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "lulek czarny",
+      "nazwa_lacinska": "Hyoscyamus niger",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "łoboda błyszcząca",
+      "nazwa_lacinska": "Atriplex nitens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "łoboda rozłożysta",
+      "nazwa_lacinska": "Atriplex patula",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "łoczyga pospolita",
+      "nazwa_lacinska": "Lapsana communis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "łopian większy",
+      "nazwa_lacinska": "Arctium lappa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "łyszczec polny",
+      "nazwa_lacinska": "Gipsophyla muralis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mak piaskowy",
+      "nazwa_lacinska": "Papaver argemone",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mak polny",
+      "nazwa_lacinska": "Papaver rhoeas",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mak wątpliwy",
+      "nazwa_lacinska": "Papaver dubium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mokrzycznik baldaszkowy",
+      "nazwa_lacinska": "Holosteum umbellatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "marchew zwyczajna",
+      "nazwa_lacinska": "Daucus carota",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "maruna bezwonna",
+      "nazwa_lacinska": "Matricaria perforata",
+      "uwagi": ", (Matricaria inodorum)"
+    },
+    {
+      "nazwa_polska": "marzymięta grzebieniasta",
+      "nazwa_lacinska": "Elsholtzia ciliata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mierznica czarna",
+      "nazwa_lacinska": "Ballota nigra",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mietlica biaława",
+      "nazwa_lacinska": "Agrostis gigantea",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mietlica rozłogowa",
+      "nazwa_lacinska": "Agrostis stolonifera",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mietlica pospolita",
+      "nazwa_lacinska": "Agrostis capillaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mięta pieprzowa",
+      "nazwa_lacinska": "Mentha piperita",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mięta polna",
+      "nazwa_lacinska": "Mentha arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "miłek letni",
+      "nazwa_lacinska": "Adonis vernalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "miłek szkarłatny",
+      "nazwa_lacinska": "Adonis flammea",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "miotła zbożowa",
+      "nazwa_lacinska": "Apera spica-venti",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mlecz kolczasty",
+      "nazwa_lacinska": "Sonchus asper",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mlecz polny",
+      "nazwa_lacinska": "Sonchus arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mlecz zwyczajny",
+      "nazwa_lacinska": "Sonchus oleraceus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "mniszek pospolity",
+      "nazwa_lacinska": "Taraxacum officinale",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "muchotrzew polny",
+      "nazwa_lacinska": "Spergularia rubra",
+      "uwagi": ", (Spergularia campestris)"
+    },
+    {
+      "nazwa_polska": "mysiurek drobny",
+      "nazwa_lacinska": "Myosurus minimus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "nawłoć kanadyjska",
+      "nazwa_lacinska": "Solidago canadensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "nawłoć późna",
+      "nazwa_lacinska": "Solidago gigantea",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "nawłoć wąskolistna",
+      "nazwa_lacinska": "Solidago graminifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "nawrot polny",
+      "nazwa_lacinska": "Buglossoides arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "niecierpek drobnokwiatowy",
+      "nazwa_lacinska": "Impatiens parviflora",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "niedośpiałek maleńki",
+      "nazwa_lacinska": "Centunculus minimus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "niezapominajka pagórkowata",
+      "nazwa_lacinska": "Myosotis ramosissima",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "niezapominajka piaskowa",
+      "nazwa_lacinska": "Myosotis stricta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "niezapominajka polna",
+      "nazwa_lacinska": "Myosotis arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "oset kędzierzawy",
+      "nazwa_lacinska": "Carduus crispus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ostrożeń błotny",
+      "nazwa_lacinska": "Cirsium palustre",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ostrożeń lancetowaty",
+      "nazwa_lacinska": "Cirsium vulgare",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ostrożeń polny",
+      "nazwa_lacinska": "Cirsium arvense",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ostróżeczka polna",
+      "nazwa_lacinska": "Consolida regalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "owies głuchy",
+      "nazwa_lacinska": "Avena fatua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "owies szorstki",
+      "nazwa_lacinska": "Avena strigosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ożędka groniasta",
+      "nazwa_lacinska": "Neslia paniculata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "palusznik krwawy",
+      "nazwa_lacinska": "Digitaria sanguinalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "palusznik nitkowaty",
+      "nazwa_lacinska": "Digitaria ischaemum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pasternak zwyczajny",
+      "nazwa_lacinska": "Pastinaca sativa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "perz właściwy",
+      "nazwa_lacinska": "Agropyrum repens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pępawa dachowa",
+      "nazwa_lacinska": "Crepis tectorum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pępawa nicejska",
+      "nazwa_lacinska": "Crepis nicaensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pępawa zielona",
+      "nazwa_lacinska": "Crepis capillaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "piaskowiec macierzankowy",
+      "nazwa_lacinska": "Arenaria serpyllifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pieprzycznik przydrożny",
+      "nazwa_lacinska": "Cardaria draba",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pięciornik gęsi",
+      "nazwa_lacinska": "Potentilla anserina",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "podagrycznik pospolity",
+      "nazwa_lacinska": "Aegopodium podagraria",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "podbiał pospolity",
+      "nazwa_lacinska": "Tussilago farfara",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pokrzywa zwyczajna",
+      "nazwa_lacinska": "Urtica dioica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pokrzywa żegawka",
+      "nazwa_lacinska": "Urtica urens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "połonicznik kosmaty",
+      "nazwa_lacinska": "Herniaria hirsuta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "portulaka pospolita",
+      "nazwa_lacinska": "Portulaca oleracea",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "powój polny",
+      "nazwa_lacinska": "Convolvulus arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "poziewnik dwudzielny",
+      "nazwa_lacinska": "Galeopsis bifida",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "poziewnik miękkowłosy",
+      "nazwa_lacinska": "Galeopsis pubescens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "poziewnik polny",
+      "nazwa_lacinska": "Galeopsis ladum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "poziewnik szorstki",
+      "nazwa_lacinska": "Galeopsis tetrachit",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "poziewnik wąskolistny",
+      "nazwa_lacinska": "Galeopsis angustifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "prosienicznik gładki",
+      "nazwa_lacinska": "Hypochoeris glabra",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "prosienicznik szorstki",
+      "nazwa_lacinska": "Hypochoeris radicata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik bluszczykowy",
+      "nazwa_lacinska": "Veronica hederifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik Dillena",
+      "nazwa_lacinska": "Veronica dillenii",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik ćmy",
+      "nazwa_lacinska": "Veronica opaca",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik lśniący",
+      "nazwa_lacinska": "Veronica polita",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik macierzankowy",
+      "nazwa_lacinska": "Veronica serpylifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik perski",
+      "nazwa_lacinska": "Veronica persica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik polny",
+      "nazwa_lacinska": "Veronica arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik rolny",
+      "nazwa_lacinska": "Veronica agrestis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik trójlistkowy",
+      "nazwa_lacinska": "Veronica triphyllos",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przetacznik wiosenny",
+      "nazwa_lacinska": "Veronica verna",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przewiercień okrągłolistny",
+      "nazwa_lacinska": "Bupleurum rotundifolium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przymiotno kanadyjskie",
+      "nazwa_lacinska": "Erigeron canadensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przymiotno ostre",
+      "nazwa_lacinska": "Erigeron acer",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przytulia czepna",
+      "nazwa_lacinska": "Galium aparine",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przytulia fałszywa",
+      "nazwa_lacinska": "Galium spurium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przytulia pospolita",
+      "nazwa_lacinska": "Galium mollugo",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przytulia trójdrożna",
+      "nazwa_lacinska": "Galium tricorne",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "przytulia wielkoowocowa",
+      "nazwa_lacinska": "Galium valantia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "psianka czarna",
+      "nazwa_lacinska": "Solanum nigrum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pszeniec różowy",
+      "nazwa_lacinska": "Melampyrum arvense",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pszonacznik wschodni",
+      "nazwa_lacinska": "Conringia orientalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "pszonak drobnokwiatowy",
+      "nazwa_lacinska": "Erysimum cheranthoides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest gruczołowaty",
+      "nazwa_lacinska": "Polygonum tomentosum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest kolankowaty",
+      "nazwa_lacinska": "Polygonum nodosum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest mniejszy",
+      "nazwa_lacinska": "Polygonum minus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest ostrogorzki",
+      "nazwa_lacinska": "Polygonum hydropiper",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest plamisty",
+      "nazwa_lacinska": "Polygonum persicaria",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest powojowaty",
+      "nazwa_lacinska": "Polygonum convolvulus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest ptasi",
+      "nazwa_lacinska": "Polygonum aviculare",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rdest ziemnowodny",
+      "nazwa_lacinska": "Polygonum amphibium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rogownica drobnokwiatowa",
+      "nazwa_lacinska": "Cerastium brachypetalum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rogownica lepka",
+      "nazwa_lacinska": "Cerastium anomalum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rogownica pięciopręcikowa",
+      "nazwa_lacinska": "Cerastium semidecandrium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rogownica pospolita",
+      "nazwa_lacinska": "Cerastium holosteoides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rolnica pospolita",
+      "nazwa_lacinska": "Sherardia arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "roszpunka bruzdkowana",
+      "nazwa_lacinska": "Valerianella rimosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "roszpunka ostrogrzbiecista",
+      "nazwa_lacinska": "Valerianella carinata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "roszpunka warzywna",
+      "nazwa_lacinska": "Valerianella locusta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "roszpunka ząbkowana",
+      "nazwa_lacinska": "Valerianella dentata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rukiewnik wschodni",
+      "nazwa_lacinska": "Bunias orientalis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumian austriacki",
+      "nazwa_lacinska": "Anthemis austriaca",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumian polny",
+      "nazwa_lacinska": "Anthemis arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumian psi",
+      "nazwa_lacinska": "Anthemis cotula",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumian ruski",
+      "nazwa_lacinska": "Anthemis ruthenica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumian żółty",
+      "nazwa_lacinska": "Anthemis tinctoria",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumianek bezpromieniowy",
+      "nazwa_lacinska": "Matricaria marticarioides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumianek bezwonny",
+      "nazwa_lacinska": "Matricaria grandiflora",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rumianek pospolity",
+      "nazwa_lacinska": "Matricaria chamomilla",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rzepicha błotna",
+      "nazwa_lacinska": "Rorippa palustris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rzepicha leśna",
+      "nazwa_lacinska": "Rorippa sylvestris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rzepień pospolity",
+      "nazwa_lacinska": "Xanthium strumarium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rzodkiew świrzepa",
+      "nazwa_lacinska": "Raphanus raphanistrum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "rzodkiewnik pospolity",
+      "nazwa_lacinska": "Arabidopsis thaliana",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "seradela drobna",
+      "nazwa_lacinska": "Ornithopsus perpusillus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "serdecznik pospolity",
+      "nazwa_lacinska": "Leonurus cardiaca",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "sierpnica pospolita",
+      "nazwa_lacinska": "Falcaria vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "sit dwudzielny",
+      "nazwa_lacinska": "Juncus bufonius",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "sit główkowaty",
+      "nazwa_lacinska": "Juncus capitatus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "skrytek polny",
+      "nazwa_lacinska": "Aphanes arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "skrzyp polny",
+      "nazwa_lacinska": "Equisetum arvense",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "skrzyp leśny",
+      "nazwa_lacinska": "Equisetum sylvaticum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "słonecznik bulwiasty",
+      "nazwa_lacinska": "Helianthus tuberosus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "sporek pięciopręcikowy",
+      "nazwa_lacinska": "Spergula pentandra",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "sporek wiosenny",
+      "nazwa_lacinska": "Spergula morisoni",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "starzec lepki",
+      "nazwa_lacinska": "Senecio viscosus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "starzec zwyczajny",
+      "nazwa_lacinska": "Senecio vulgaris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "stokłosa polna",
+      "nazwa_lacinska": "Bromus arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "stokłosa żytnia",
+      "nazwa_lacinska": "Bromus secalinus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "stulicha psia",
+      "nazwa_lacinska": "Descurainia sophia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "stulisz gładki",
+      "nazwa_lacinska": "Sisymbrium irio",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "stulisz Loesela",
+      "nazwa_lacinska": "Sisymbrium loeselii",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szafirek groniasty",
+      "nazwa_lacinska": "Muscari neglectum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szalej jadowity",
+      "nazwa_lacinska": "Cicuta virosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szałwia okręgowa",
+      "nazwa_lacinska": "Salvia vericillata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szarłat prosty",
+      "nazwa_lacinska": "Amaranthus chlorostachys",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szarłat tępolistny",
+      "nazwa_lacinska": "Amaranthus lividus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szarota błotna",
+      "nazwa_lacinska": "Filaginella uliginosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczaw kędzierzawy",
+      "nazwa_lacinska": "Rumex crispus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczaw polny",
+      "nazwa_lacinska": "Rumex acetosella",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczaw tępolistny",
+      "nazwa_lacinska": "Rumex obtusifolius",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczyr roczny",
+      "nazwa_lacinska": "Mercurialis annua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczawik różkowaty",
+      "nazwa_lacinska": "Oxalis corniculata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczawik żółty",
+      "nazwa_lacinska": "Oxalis stricta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szczwół plamisty",
+      "nazwa_lacinska": "Conium maculatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szelężnik włochaty",
+      "nazwa_lacinska": "Rhinanthus alectorolophus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szelężnik większy",
+      "nazwa_lacinska": "Rhinanthus angustifolius",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "szparzyca promienista",
+      "nazwa_lacinska": "Bifora radians",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "ślaz zaniedbany",
+      "nazwa_lacinska": "Malva neglecta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "śmiałek darniowy",
+      "nazwa_lacinska": "Deschampsia caespitosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "śniedek baldaszkowaty",
+      "nazwa_lacinska": "Ornithogallum umbellatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "świerzbnica polna",
+      "nazwa_lacinska": "Knautia arvensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "tasznik pospolity",
+      "nazwa_lacinska": "Capsella bursa pastoris",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "tobołki czosnkowe",
+      "nazwa_lacinska": "Thlaspi aliacetum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "tobołki polne",
+      "nazwa_lacinska": "Thlaspi arvense",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "tobołki przerosłe",
+      "nazwa_lacinska": "Thlaspi perfoliatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "tomka oścista",
+      "nazwa_lacinska": "Anthoxanthum aristatum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "trzcina pospolita",
+      "nazwa_lacinska": "Phragmites communis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "uczep trójlistkowy",
+      "nazwa_lacinska": "Bidens tripartita",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "uczep zwisły",
+      "nazwa_lacinska": "Bidens cernua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wiechlina roczna",
+      "nazwa_lacinska": "Poa annua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wiechlina zwyczajna",
+      "nazwa_lacinska": "Poa trivialis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wierzbówka kiprzyca",
+      "nazwa_lacinska": "Epilobium angustifolium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz drobny",
+      "nazwa_lacinska": "Euphorbia exigua",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz lancetowaty",
+      "nazwa_lacinska": "Euphorbia esula",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz obrotny",
+      "nazwa_lacinska": "Euphorbia helioscopia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz ogrodowy",
+      "nazwa_lacinska": "Euphurbia peplus",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz sierpowaty",
+      "nazwa_lacinska": "Euphorbia falcata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz sosnka",
+      "nazwa_lacinska": "Euphorbia cyparissias",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczomlecz szerokolistny",
+      "nazwa_lacinska": "Euphorbia platyphyllos",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilczypieprz roczny",
+      "nazwa_lacinska": "Thymalea passerina",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wilżyna rozłogowa",
+      "nazwa_lacinska": "Ononis repens",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wiosnówka pospolita",
+      "nazwa_lacinska": "Erophila verna",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "włośnica sina",
+      "nazwa_lacinska": "Setaria pumila",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "włośnica okółkowa",
+      "nazwa_lacinska": "Setaria verticillata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "włośnica zielona",
+      "nazwa_lacinska": "Setaria viridis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "włóczydło polne",
+      "nazwa_lacinska": "Caucalis platycarpos",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wrotycz pospolity",
+      "nazwa_lacinska": "Tanacetum vulgare",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyczyniec polny",
+      "nazwa_lacinska": "Alopecurus mysoruides",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka brudnożółta",
+      "nazwa_lacinska": "Vicia grandiflora",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka czteronasienna",
+      "nazwa_lacinska": "Vicia tetrasperma",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka drobnokwiatowa",
+      "nazwa_lacinska": "Vicia hirsuta",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka pannońska",
+      "nazwa_lacinska": "Vicia pannonica",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka pstra",
+      "nazwa_lacinska": "Vicia dasycarpa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka ptasia",
+      "nazwa_lacinska": "Vicia cracca",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyka wąskolistna",
+      "nazwa_lacinska": "Vicia angustifolia",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "wyżlin polny",
+      "nazwa_lacinska": "Antirrhinum orontium",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "zagorzałek późny",
+      "nazwa_lacinska": "Odontites serotina, syn. Odontites rubra",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "zagorzałek wiosenny",
+      "nazwa_lacinska": "Odontites verna",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "zapłonka brunatna",
+      "nazwa_lacinska": "Nonea pulla",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "zaraza drobnokwiatowa",
+      "nazwa_lacinska": "Orobanche minor",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "zaraza gałęzista",
+      "nazwa_lacinska": "Orobanche ramosa",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "złocień polny",
+      "nazwa_lacinska": "Chrysanthemum segetum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "złocień właściwy",
+      "nazwa_lacinska": "Chrysanthemum leucanthemum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "złoć łąkowa",
+      "nazwa_lacinska": "Gagea pratensis",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "żółtlica drobnokwiatowa",
+      "nazwa_lacinska": "Galinsoga parviflora",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "żółtlica owłosiona",
+      "nazwa_lacinska": "Galinsoga ciliata",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "życica lnowa",
+      "nazwa_lacinska": "Lolium remotum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "życica roczna",
+      "nazwa_lacinska": "Lolium termulentum",
+      "uwagi": ""
+    },
+    {
+      "nazwa_polska": "żywokost lekarski",
+      "nazwa_lacinska": "Symphytum officinale",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Gatunki chwastów w gospodarce rolnej w Polsce - Free Download",
+    "description": "Lista gatunków chwastów występujących w uprawach rolnych w Polsce z nazwą polską i łacińską. Contains 306 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gatunki chwastów w gospodarce rolnej w Polsce | ListBase",
+    "seo_description": "Download Gatunki chwastów w gospodarce rolnej w Polsce — 306 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 306 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_gatunków_chwastów_w_gospodarce_rolnej_w_Polsce"
+    ]
+  }
+}
