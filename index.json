@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-04T02:15:20.201Z",
-  "total_datasets": 532,
-  "total_records": 1093571,
+  "generated": "2026-11-04T02:15:27.374Z",
+  "total_datasets": 533,
+  "total_records": 1093851,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -3736,6 +3736,33 @@
         "xlsx": {
           "name": "pl-hetmani-wielcy-koronni_PL.xlsx",
           "size": 8842
+        }
+      }
+    },
+    {
+      "id": "pl-konflikty-zbrojne",
+      "name": "Konflikty zbrojne w historii Polski",
+      "category": "history",
+      "record_count": 280,
+      "columns": [
+        "czas",
+        "konflikt",
+        "i_strona",
+        "ii_strona",
+        "rezultat",
+        "epoka"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Konflikty_zbrojne_w_historii_Polski",
+      "updated": "2026-11",
+      "size": 79996,
+      "files": {
+        "csv": {
+          "name": "pl-konflikty-zbrojne_PL.csv",
+          "size": 44614
+        },
+        "xlsx": {
+          "name": "pl-konflikty-zbrojne_PL.xlsx",
+          "size": 24593
         }
       }
     },

@@ -1,0 +1,2296 @@
+{
+  "id": "pl-konflikty-zbrojne",
+  "name": "Konflikty zbrojne w historii Polski",
+  "title": "Konflikty zbrojne w historii Polski",
+  "description": "Chronologiczny wykaz wojen, bitew, powstań i konfliktów zbrojnych z udziałem Polski od X wieku do współczesności, ze stronami konfliktu i rezultatem.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Konflikty_zbrojne_w_historii_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Konflikty_zbrojne_w_historii_Polski",
+  "updated": "2026-11",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "czas",
+      "label": "Czas",
+      "type": "number"
+    },
+    {
+      "key": "konflikt",
+      "label": "Konflikt",
+      "type": "string"
+    },
+    {
+      "key": "i_strona",
+      "label": "I Strona",
+      "type": "string"
+    },
+    {
+      "key": "ii_strona",
+      "label": "Ii Strona",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    },
+    {
+      "key": "epoka",
+      "label": "Epoka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "czas": "963",
+      "konflikt": "walki Gerona ze Słowianami",
+      "i_strona": "Polska",
+      "ii_strona": "Marchia Wschodnia",
+      "rezultat": "klęska Mieszka I",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "967",
+      "konflikt": "wojna polsko-wielecka wyprawa Mieszka I na Pomorze Zachodnie",
+      "i_strona": "Polska Czechy",
+      "ii_strona": "Wolinianie Wichman Młodszy Wieleci",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "972 972",
+      "konflikt": "walki o Pomorze Zachodnie bitwa pod Cedynią",
+      "i_strona": "Polska",
+      "ii_strona": "Marchia Łużycka",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "979",
+      "konflikt": "wyprawa Ottona II na Polskę (?)",
+      "i_strona": "Polska",
+      "ii_strona": "Cesarstwo",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "981",
+      "konflikt": "wyprawa polska na Pomorze Gdańskie",
+      "i_strona": "Polska",
+      "ii_strona": "Pomorze Gdańskie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "981",
+      "konflikt": "wyprawa ruska na Grody Czerwieńskie",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "985",
+      "konflikt": "najazd sasko-polski na Wieletów",
+      "i_strona": "Polska Cesarstwo",
+      "ii_strona": "Wieleci",
+      "rezultat": "zwycięstwo Polski i Sasów",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "988–990",
+      "konflikt": "wojna polsko-czeska (988–990)",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "992",
+      "konflikt": "najazd niemiecko-polski na Wieletów",
+      "i_strona": "Polska Cesarstwo",
+      "ii_strona": "Wieleci",
+      "rezultat": "zwycięstwo Cesarstwa i Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "995",
+      "konflikt": "najazd niemiecko-polski na Obodrytów",
+      "i_strona": "Polska Cesarstwo",
+      "ii_strona": "Obodryci",
+      "rezultat": "zwycięstwo Cesarstwa i Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1002–1005 1005",
+      "konflikt": "wojna polsko-niemiecka (1002–1005) bitwa nad Sprewą",
+      "i_strona": "Polska",
+      "ii_strona": "Cesarstwo Czechy Wieleci",
+      "rezultat": "pokój w Poznaniu",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1007–1013 1012",
+      "konflikt": "wojna polsko-niemiecka (1007–1013) oblężenie Lubusza",
+      "i_strona": "Polska",
+      "ii_strona": "Cesarstwo",
+      "rezultat": "zwycięstwo Polski pokój w Merseburgu",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1013",
+      "konflikt": "wyprawa Bolesława Chrobrego na Ruś",
+      "i_strona": "Polska Cesarstwo Pieczyngowie",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1015",
+      "konflikt": "wyprawa Bolesława Chrobrego do Prus",
+      "i_strona": "Polska",
+      "ii_strona": "Prusowie Jaćwingowie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1015–1018 1015 1015 1015 1015 1015 1017",
+      "konflikt": "wojna polsko-niemiecka (1015–1018) bitwa pod Ciani bitwa pod Krosnem Odrzańskim bitwa na ziemi Dziadoszan bitwa pod Budziszynem oblężenie Miśni obrona Niemczy",
+      "i_strona": "Polska",
+      "ii_strona": "Cesarstwo",
+      "rezultat": "zwycięstwo Polski pokój w Budziszynie",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1018–1019 1018",
+      "konflikt": "wyprawa Bolesława Chrobrego na Kijów bitwa pod Wołyniem",
+      "i_strona": "Polska Cesarstwo Światopełk Węgry Pieczyngowie",
+      "ii_strona": "Ruś Kijowska Waregowie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1022",
+      "konflikt": "wyprawa Jarosława Mądrego na Brześć",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1028–1031 1029",
+      "konflikt": "wojna polsko-niemiecka (1028–1031) oblężenie Budziszyna",
+      "i_strona": "Polska Węgry",
+      "ii_strona": "Cesarstwo Bezprym Czechy Ruś Kijowska",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1031–1032",
+      "konflikt": "reakcja pogańska i powstanie ludowe",
+      "i_strona": "Bezprym",
+      "ii_strona": "lud możni",
+      "rezultat": "klęska Bezpryma",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1038–1047 1047",
+      "konflikt": "reakcja pogańska i powstanie ludowe bitwa Kazimierza I z Miecławem",
+      "i_strona": "Kazimierz I Odnowiciel Cesarstwo Ruś Kijowska",
+      "ii_strona": "lud możni Państwo Miecława",
+      "rezultat": "zwycięstwo Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1038–1039",
+      "konflikt": "najazd Brzetysława I na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1042",
+      "konflikt": "wyprawa Kazimierza I na Małopolskę",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1047",
+      "konflikt": "wyprawa Kazimierza I na Śląsk",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1050",
+      "konflikt": "wyprawa Kazimierza I na Śląsk",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1051",
+      "konflikt": "wyprawa niemiecko-polska na Węgry",
+      "i_strona": "Polska Cesarstwo",
+      "ii_strona": "Węgry",
+      "rezultat": "zwycięstwo Cesarstwa i Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1060",
+      "konflikt": "najazd Bolesława II na Czechy oblężenie grodu Hradec",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1060",
+      "konflikt": "walki o tron węgierski bitwa pod Mosony",
+      "i_strona": "Bela I Polska",
+      "ii_strona": "Andrzej I",
+      "rezultat": "zwycięstwo Beli",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1069",
+      "konflikt": "wyprawa Bolesława II na Ruś",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1072",
+      "konflikt": "najazd Bolesława II na Czechy",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1077–1079",
+      "konflikt": "walki wewnętrzne",
+      "i_strona": "Bolesław II Szczodry",
+      "ii_strona": "buntownicy, możni",
+      "rezultat": "klęska Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1086",
+      "konflikt": "wyprawa węgierska na Kraków",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1090–1092 1090 1091 1091",
+      "konflikt": "4 wyprawy na Pomorze Zachodnie oblężenie Nakła bitwa nad Brdą bitwa pod Drzycimiem",
+      "i_strona": "Polska Czechy",
+      "ii_strona": "Pomorze Zachodnie",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1092",
+      "konflikt": "najazd Rusinów i Połowców na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1093–1100 1096",
+      "konflikt": "walki Władysława Hermana i Sieciecha ze Zbigniewem i Bolesławem bitwa nad Gopłem",
+      "i_strona": "Władysław Herman Palatyn Sieciech Czechy",
+      "ii_strona": "Zbigniew Bolesław",
+      "rezultat": "klęska Władysława i Sieciecha",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1099",
+      "konflikt": "wyprawa Władysława na Halicz",
+      "i_strona": "Polska",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1100",
+      "konflikt": "najazd Pomorzan na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Pomorze Zachodnie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1101",
+      "konflikt": "najazd Połowców na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1103–1123 1121",
+      "konflikt": "14 wypraw Bolesława na Pomorze bitwa pod Niekładzem",
+      "i_strona": "Polska Dania",
+      "ii_strona": "Pomorzanie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1103–1108",
+      "konflikt": "walki wewnętrzne",
+      "i_strona": "Bolesław III Krzywousty Węgry Ruś",
+      "ii_strona": "Zbigniew Czechy",
+      "rezultat": "zwycięstwo Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1108",
+      "konflikt": "najazd Bolesława III na Prusy",
+      "i_strona": "Polska",
+      "ii_strona": "Prusowie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1108–1109",
+      "konflikt": "3 najazdy Pomorzan na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Pomorze Zachodnie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1108",
+      "konflikt": "najazd Morawian na Śląsk bitwa pod Raciborzem",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1108",
+      "konflikt": "wyprawa Bolesława III na Czechy",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1109",
+      "konflikt": "wojna polsko-niemiecka obrona Głogowa Bitwa pod Nakłem oblężenie Wrocławia bitwa na Psim Polu",
+      "i_strona": "Polska",
+      "ii_strona": "Cesarstwo Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1109–1114 1110",
+      "konflikt": "3 wyprawy Bolesława III na Czechy bitwa nad Trutiną",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1110",
+      "konflikt": "najazd Zbigniewa i Czechów na Śląsk",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1110–1111",
+      "konflikt": "najazd Bolesława na Prusy",
+      "i_strona": "Polska",
+      "ii_strona": "Prusowie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1117",
+      "konflikt": "bunt Skarbimira",
+      "i_strona": "Polska",
+      "ii_strona": "Skarbimir",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1121–1124 1124",
+      "konflikt": "walki na Rusi bitwa pod Wilichowem",
+      "i_strona": "Polska Ruś Kijowska Czechy Węgry",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1120",
+      "konflikt": "najazd Rusinów i Połowców na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Ruś Kijowska",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1126",
+      "konflikt": "najazd Węgrów na Polskę",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1127",
+      "konflikt": "najazd Polaków na Węgry",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1131–1134",
+      "konflikt": "6 najazdów Czechów na Śląsk",
+      "i_strona": "Polska",
+      "ii_strona": "Czechy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1132",
+      "konflikt": "wyprawa Bolesława III na Węgry bitwa nad rzeką Sajo",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1135",
+      "konflikt": "walki na Rusi",
+      "i_strona": "Polska",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1144–1320 1144 1146 1195 1228 1228 1228 1243 1243 1246 1259 1273 1277 1285 1288 1289 1292 1313",
+      "konflikt": "walki pomiędzy książętami dzielnicowymi bitwa nad bagnami Pilicy oblężenie Poznania bitwa nad Mozgawą bitwa pod Studnicą bitwa pod Skałą bitwa pod Wrocieryżem bitwa pod Międzyborzem bitwa pod Suchodołem bitwa pod Zaryszowem bitwa w lesie Soleckim bitwa pod Bogucinem bitwa pod Stolcem bitwa pod Bogucicami bitwa pod Łagowem bitwa pod Siewierzem oblężenie Sieradza bitwa pod Kłeckiem",
+      "i_strona": "książęta dzielnicowi",
+      "ii_strona": "książęta dzielnicowi",
+      "rezultat": "osłabienie i rozbicie wewnętrzne kraju",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1139–1142",
+      "konflikt": "walki mazowiecko-ruskie",
+      "i_strona": "Bolesław IV Kędzierzawy",
+      "ii_strona": "Ruś",
+      "rezultat": "klęska Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1144–1146",
+      "konflikt": "2 wyprawy polsko-ruskie na Halicz",
+      "i_strona": "Władysław II Wygnaniec Ruś Kijowska",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Rusinów i Polaków",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1146",
+      "konflikt": "wojna polsko-niemiecka",
+      "i_strona": "Mieszko III Stary",
+      "ii_strona": "Cesarstwo Czechy",
+      "rezultat": "zwycięstwo Mieszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1147",
+      "konflikt": "krucjata Albrechta Niedźwiedzia i Mieszka III na Słowian Połabskich",
+      "i_strona": "Mieszko III Stary Marchia Północna",
+      "ii_strona": "Wieleci",
+      "rezultat": "zwycięstwo krucjaty",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1147",
+      "konflikt": "najazd Bolesława Kędzierzawego na Prusy",
+      "i_strona": "Bolesław IV Kędzierzawy Ruś",
+      "ii_strona": "Prusowie",
+      "rezultat": "zwycięstwo Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1154–1155",
+      "konflikt": "krucjata Henryka Sandomierskiego do Palestyny",
+      "i_strona": "rycerstwo polskie",
+      "ii_strona": "Saraceni",
+      "rezultat": "zwycięstwo Henryka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1157",
+      "konflikt": "wojna polsko-niemiecka",
+      "i_strona": "Bolesław IV Kędzierzawy",
+      "ii_strona": "Cesarstwo",
+      "rezultat": "klęska Polski pokój krzyszkowski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1166",
+      "konflikt": "najazd Bolesława Kędzierzawego na Prusy",
+      "i_strona": "Bolesław IV Kędzierzawy",
+      "ii_strona": "Prusowie",
+      "rezultat": "klęska Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1180",
+      "konflikt": "walki księcia drohiczyńsko-brzeskiego Wasylka o Brześć",
+      "i_strona": "Księstwo Drohiczyńskie Kazimierz II Sprawiedliwy",
+      "ii_strona": "Ruś",
+      "rezultat": "zwycięstwo Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1182–1183 1182",
+      "konflikt": "walki Kazimierza Sprawiedliwego o Brześć bitwa o Bełz",
+      "i_strona": "Kazimierz II Sprawiedliwy",
+      "ii_strona": "Ruś",
+      "rezultat": "zwycięstwo Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1184",
+      "konflikt": "wyprawa Fryderyka Barbarossy na Polskę",
+      "i_strona": "Kazimierz II Sprawiedliwy",
+      "ii_strona": "Cesarstwo",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1187",
+      "konflikt": "najazd ruski na Małopolskę",
+      "i_strona": "Kazimierz II Sprawiedliwy",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "klęska Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1189",
+      "konflikt": "wyprawa Kazimierza na Halicz",
+      "i_strona": "Kazimierz II Sprawiedliwy",
+      "ii_strona": "Węgry Księstwo Halickie",
+      "rezultat": "zwycięstwo Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1194",
+      "konflikt": "najazd Kazimierza na Jaćwingów bitwa pod Drohiczynem bitwa na ziemi jaćwieskiej",
+      "i_strona": "Kazimierz II Sprawiedliwy",
+      "ii_strona": "Jaćwingowie",
+      "rezultat": "zwycięstwo Kazimierza",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1199",
+      "konflikt": "wyprawa Leszka Białego na Halicz",
+      "i_strona": "Leszek Biały",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1205",
+      "konflikt": "wyprawa księcia kijowskiego Romana Halickiego na Polskę bitwa pod Zawichostem",
+      "i_strona": "Leszek Biały",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1206",
+      "konflikt": "wyprawa Leszka Białego na Ruś",
+      "i_strona": "Leszek Biały Konrad I mazowiecki",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1207",
+      "konflikt": "wyprawa Leszka Białego na Ruś",
+      "i_strona": "Leszek Biały Konrad I mazowiecki",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1209–1211 1209",
+      "konflikt": "I wojna o Lubusz bitwa pod Lubuszem",
+      "i_strona": "Henryk I Brodaty Władysław III Laskonogi",
+      "ii_strona": "Marchia Łużycka",
+      "rezultat": "zwycięstwo Henryka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1214",
+      "konflikt": "wyprawa Leszka Białego na Włodzimierz Wołyński",
+      "i_strona": "Leszek Biały Węgry",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1215",
+      "konflikt": "wyprawa Węgrów na Polskę",
+      "i_strona": "Leszek Biały",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1218–1221",
+      "konflikt": "wojna polsko-węgiersko-ruska",
+      "i_strona": "Leszek Biały Węgry",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "klęska Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1219–1222 1220",
+      "konflikt": "3 najazdy pruskie na Mazowsze bitwa Mazowszan z Prusami",
+      "i_strona": "Konrad I mazowiecki",
+      "ii_strona": "Prusowie",
+      "rezultat": "klęska Konrada",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1222–1223",
+      "konflikt": "2 najazdy polskie na Prusy",
+      "i_strona": "książęta dzielnicowi",
+      "ii_strona": "Prusowie",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1224",
+      "konflikt": "wojna polsko-ruska",
+      "i_strona": "Leszek Biały Węgry",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1225",
+      "konflikt": "najazd pruski na Mazowsze",
+      "i_strona": "Konrad I mazowiecki",
+      "ii_strona": "Prusowie",
+      "rezultat": "klęska Konrada",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1225–1230",
+      "konflikt": "II wojna o Lubusz",
+      "i_strona": "Henryk I Brodaty",
+      "ii_strona": "Turyngia",
+      "rezultat": "zwycięstwo Henryka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1234",
+      "konflikt": "krucjata polsko-krzyżacka na Prusy bitwa nad Dzierzgonią",
+      "i_strona": "książęta dzielnicowi zakon krzyżacki",
+      "ii_strona": "Prusowie",
+      "rezultat": "zwycięstwo polsko-niemieckie",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1236–1237 1236",
+      "konflikt": "walki Konrada mazowieckiego z Księstwem Halickim bitwa pod Czerwieniem",
+      "i_strona": "Konrad I mazowiecki",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "klęska Konrada",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1238–1240 1239",
+      "konflikt": "III wojna o Lubusz bitwa pod Lubuszem",
+      "i_strona": "Henryk II Pobożny",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "zwycięstwo Henryka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1241",
+      "konflikt": "I najazd mongolski na Polskę bitwa pod Turskiem bitwa pod Tarczkiem bitwa pod Chmielnikiem bitwa pod Raciborzem bitwa pod Opolem bitwa pod Legnicą",
+      "i_strona": "książęta dzielnicowi zakony rycerskie",
+      "ii_strona": "imperium mongolskie",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1247–1252",
+      "konflikt": "walki Przemysła I z Brandenburgią",
+      "i_strona": "Przemysł I",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "zwycięstwo Przemysła",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1248–1255",
+      "konflikt": "3 najazdy na Jaćwingów",
+      "i_strona": "Bolesław V Wstydliwy Siemowit I Księstwo Halickie",
+      "ii_strona": "Jaćwingowie",
+      "rezultat": "zwycięstwo Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1259",
+      "konflikt": "II najazd mongolski na Polskę",
+      "i_strona": "Bolesław V Wstydliwy",
+      "ii_strona": "imperium mongolskie",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1260",
+      "konflikt": "wojna czesko-węgierska bitwa pod Kressenbrunn",
+      "i_strona": "Czechy Śląsk inne",
+      "ii_strona": "Węgry Polska inne",
+      "rezultat": "zwycięstwo Czech",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1262",
+      "konflikt": "najazd litewski na Mazowsze Oblężenie Jazdowa",
+      "i_strona": "Siemowit I",
+      "ii_strona": "Litwa",
+      "rezultat": "klęska Siemowita",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1264",
+      "konflikt": "walki z Jaćwieżą bitwa pod Brańskiem",
+      "i_strona": "Bolesław V Wstydliwy",
+      "ii_strona": "Jaćwingowie",
+      "rezultat": "zwycięstwo Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1265–1278 1278",
+      "konflikt": "walki z Brandenburgią bitwa pod Myśliborzem (Soldinem)",
+      "i_strona": "Bolesław Pobożny Przemysł II",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "zwycięstwo Bolesława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1278",
+      "konflikt": "walki o tron czeski bitwa pod Suchymi Krutami",
+      "i_strona": "Przemysł Ottokar II Bolesław V Wstydliwy Henryk IV Prawy",
+      "ii_strona": "Rudolf I Habsburg",
+      "rezultat": "klęska Przemysła",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1280",
+      "konflikt": "wojna Leszka Czarnego z Rusią Halicką bitwa pod Goźlicami",
+      "i_strona": "Leszek Czarny",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1282–1283 1282 1282",
+      "konflikt": "3 najazdy jaćwińsko-litewskie na Polskę bitwa nad Narwią bitwa pod Rowinami",
+      "i_strona": "Leszek Czarny",
+      "ii_strona": "Jaćwingowie Litwa",
+      "rezultat": "zwycięstwo Leszka",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1287–1288 1287 1287 1288",
+      "konflikt": "III najazd mongolski na Polskę bitwa pod Łagowem bitwa nad Dunajcem bitwa pod Starym Sączem",
+      "i_strona": "Leszek Czarny",
+      "ii_strona": "imperium mongolskie",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1291–1306 1294",
+      "konflikt": "6 najazdów Witenesa na Mazowsze bitwa pod Trojanowem",
+      "i_strona": "książęta dzielnicowi",
+      "ii_strona": "Litwa",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1296",
+      "konflikt": "wyprawa Brandenburczyków na Rogoźno",
+      "i_strona": "Przemysł II",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "klęska Przemysła",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1308",
+      "konflikt": "wyprawa Brandenburczyków na Gdańsk",
+      "i_strona": "Władysław I Łokietek",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "klęska Władysława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1308",
+      "konflikt": "zajęcie Gdańska przez zakon krzyżacki",
+      "i_strona": "Władysław I Łokietek",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "klęska Władysława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1309",
+      "konflikt": "zajęcie Świecia przez zakon krzyżacki",
+      "i_strona": "Władysław I Łokietek",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "klęska Władysława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1311–1312",
+      "konflikt": "bunt wójta Alberta",
+      "i_strona": "Władysław I Łokietek",
+      "ii_strona": "niemieccy mieszczanie księstwo opolskie",
+      "rezultat": "zwycięstwo Władysława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1316",
+      "konflikt": "walki polsko-brandenburskie w Wielkopolsce",
+      "i_strona": "Władysław I Łokietek",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "zwycięstwo Władysława",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1323",
+      "konflikt": "wyprawa polsko-węgierska na Ruś",
+      "i_strona": "Polska Węgry",
+      "ii_strona": "Księstwo Halickie",
+      "rezultat": "zwycięstwo Polski i Węgier",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1323",
+      "konflikt": "najazd Władysława Łokietka na Płock",
+      "i_strona": "Polska",
+      "ii_strona": "Płock",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1326–1329",
+      "konflikt": "wojna polsko-brandenburska",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1327–1332 1327 1327 1331 1331 1331 1331 1332",
+      "konflikt": "wojna polsko-czesko-krzyżacka bitwa pod Kowalem bitwa pod Gostyninem bitwa pod Płowcami bitwa pod Koninem bitwa pod Pyzdrami obrona łuku Warty oblężenie Brześcia Kujawskiego",
+      "i_strona": "Polska Litwa Węgry",
+      "ii_strona": "zakon krzyżacki Czechy Mazowsze",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1332",
+      "konflikt": "wyprawa Kazimierza Wielkiego na Głogów",
+      "i_strona": "Polska",
+      "ii_strona": "Głogów",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1337",
+      "konflikt": "najazd litewski na Mazowsze Bitwa pod Pułtuskiem",
+      "i_strona": "Mazowsze",
+      "ii_strona": "Litwa",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1340–1392 1340 1340 1341 1350 1368 1376",
+      "konflikt": "wojna o księstwo halicko-włodzimierskie oblężenie Lwowa bitwa nad Wisłą bitwa pod Lublinem bitwa pod Żukowem najazd litewski na Mazowsze najazd litewski na Polskę",
+      "i_strona": "Polska Mazowsze Węgry",
+      "ii_strona": "Księstwo Halickie Litwa Tatarzy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1343",
+      "konflikt": "walki o Wschowę bitwa pod Oleśnicą",
+      "i_strona": "Polska",
+      "ii_strona": "Głogów",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1345–1348 1345 1345 1345",
+      "konflikt": "wojna polsko-czeska oblężenie Żor oblężenie Krakowa bitwa pod Lelowem bitwa pod Pogonią",
+      "i_strona": "Polska Litwa Węgry",
+      "ii_strona": "Czechy",
+      "rezultat": "pokój namysłowski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1352–1358",
+      "konflikt": "konfederacja Maćka Borkowica",
+      "i_strona": "Polska",
+      "ii_strona": "Maćko Borkowic, rody wielkopolskie Brandenburgia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1355",
+      "konflikt": "najazd zakonu na Mazowsze",
+      "i_strona": "Polska Mazowsze",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1359",
+      "konflikt": "wyprawa Kazimierza na Mołdawię",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1368",
+      "konflikt": "wyprawa Kazimierza na Mołdawię",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1370",
+      "konflikt": "najazd Brandenburgii na Santok i Drezdenko",
+      "i_strona": "Polska",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1370",
+      "konflikt": "walki o Płock",
+      "i_strona": "Polska",
+      "ii_strona": "Mazowsze",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1375–1376 1375 1376",
+      "konflikt": "wojna z Władysławem Białym bitwa pod Gniewkowem oblężenie Złotorii",
+      "i_strona": "Polska",
+      "ii_strona": "Władysław Biały",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1381–1385",
+      "konflikt": "wojna Grzymalitów z Nałęczami (wojna domowa w Wielkopolsce)",
+      "i_strona": "Grzymalici",
+      "ii_strona": "Nałęczowie",
+      "rezultat": "zwycięstwo Nałęczów",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1381–1385",
+      "konflikt": "walka Siemowita IV o tron polski",
+      "i_strona": "Polska Węgry",
+      "ii_strona": "Mazowsze",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Piastów"
+    },
+    {
+      "czas": "1387",
+      "konflikt": "wyprawa Jadwigi na Ruś Halicką",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1390–1392",
+      "konflikt": "wojna domowa na Litwie",
+      "i_strona": "Jagiełło Polska",
+      "ii_strona": "Witold zakon krzyżacki",
+      "rezultat": "zwycięstwo Jagiełły",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1391",
+      "konflikt": "walki z Konradem II o Wschowę",
+      "i_strona": "Polska",
+      "ii_strona": "Oleśnica",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1391–1401",
+      "konflikt": "wojna z Władysławem Opolczykiem",
+      "i_strona": "Polska",
+      "ii_strona": "Władysław Opolczyk",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1399",
+      "konflikt": "walki ze Złotą Ordą bitwa nad Worsklą",
+      "i_strona": "Litwa Polska zakon krzyżacki Mołdawia",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski i Litwy",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1409–1411 1410 1410 1410",
+      "konflikt": "Wielka wojna z zakonem krzyżackim bitwa pod Grunwaldem oblężenie Malborka bitwa pod Koronowem",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "zakon krzyżacki Węgry",
+      "rezultat": "zwycięstwo Polski I pokój toruński",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1414",
+      "konflikt": "wojna głodowa oblężenie Brodnicy",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "Sobór w Konstancji",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1422",
+      "konflikt": "wojna golubska",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "zwycięstwo Polski pokój melneński",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1431",
+      "konflikt": "najazd mołdawski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1431–1435/ 1439 1431 1432 1435",
+      "konflikt": "wojna polsko-krzyżacka/domowa na Litwie bitwa pod Dąbkami bitwa pod Kopystrzyniem bitwa pod Wiłkomierzem",
+      "i_strona": "Polska Husyci Zygmunt Kiejstutowicz",
+      "ii_strona": "zakon krzyżacki Świdrygiełło Mołdawia Tatarzy",
+      "rezultat": "zwycięstwo Polski pokój w Brześciu Kujawskim",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1435",
+      "konflikt": "interwencja Odrowążów w Mołdawii bitwa pod Podragą",
+      "i_strona": "Polska Eliasz I",
+      "ii_strona": "Stefan II",
+      "rezultat": "zwycięstwo Eliasza",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1438",
+      "konflikt": "walki polsko-czeskie o Śląsk oblężenie Tabora",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Czechy Węgry",
+      "rezultat": "klęska Polski i Litwy",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1438",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1439",
+      "konflikt": "konfederacja Spytka z Melsztyna bitwa pod Grotnikami",
+      "i_strona": "Polska",
+      "ii_strona": "Spytek Melsztyński (1398–1439)",
+      "rezultat": "stłumienie konfederacji",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1440–1444",
+      "konflikt": "wojna litewsko-mazowiecka o Podlasie",
+      "i_strona": "Mazowsze",
+      "ii_strona": "Litwa",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1440–1442",
+      "konflikt": "wojna domowa na Węgrzech",
+      "i_strona": "Władysław III Polska",
+      "ii_strona": "Elżbieta",
+      "rezultat": "zwycięstwo Władysława III",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1444",
+      "konflikt": "wyprawa Władysława III na Turcję bitwa pod Warną",
+      "i_strona": "Polska Węgry",
+      "ii_strona": "Imperium Osmańskie",
+      "rezultat": "klęska Polski i Węgier",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1449–1450 1450",
+      "konflikt": "walki o tron mołdawski bitwa pod Krasnem",
+      "i_strona": "Polska Aleksander II",
+      "ii_strona": "Bogdan II",
+      "rezultat": "klęska Aleksandra",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1450–1454",
+      "konflikt": "walki o ziemię oświęcimską",
+      "i_strona": "Polska",
+      "ii_strona": "Toszek",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1453",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1454–1466 1454",
+      "konflikt": "wojna trzynastoletnia bitwa pod Chojnicami",
+      "i_strona": "Polska Związek Pruski",
+      "ii_strona": "zakon krzyżacki zakon inflancki Dania",
+      "rezultat": "zwycięstwo Polski II pokój toruński",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1457–1458",
+      "konflikt": "bunt nieopłaconych najemników",
+      "i_strona": "Polska",
+      "ii_strona": "Oświęcim najemnicy",
+      "rezultat": "wypłacenie zaległego żołdu",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1469",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1471",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1471–1474",
+      "konflikt": "wojna polsko-węgierska",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1474",
+      "konflikt": "wyprawa polsko-czeska na Śląsk",
+      "i_strona": "Polska Czechy",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Polski i Czech",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1476–1482 1479",
+      "konflikt": "wojna o sukcesję głogowską Bitwa pod Gęstowcem",
+      "i_strona": "Polska",
+      "ii_strona": "Brandenburgia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1476",
+      "konflikt": "wyprawa polska na Prusy",
+      "i_strona": "Polska",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1478–1479",
+      "konflikt": "wojna popia",
+      "i_strona": "Polska",
+      "ii_strona": "Mikołaj Tungen zakon krzyżacki",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1485–1503 1487 1487 1491 1497",
+      "konflikt": "I wojna polsko-turecka bitwa nad Szawranią bitwa pod Kopystrzyniem bitwa pod Zasławiem bitwa pod Koźminem",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Imperium Osmańskie Mołdawia Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1490–1492 1490–1491 1492",
+      "konflikt": "walki o tron węgierski bitwa pod Koszycami bitwa pod Preszowem",
+      "i_strona": "Jan Olbracht",
+      "ii_strona": "Władysław II Jagiellończyk",
+      "rezultat": "zwycięstwo Władysława",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1495",
+      "konflikt": "wyprawa polska na Płock",
+      "i_strona": "Polska",
+      "ii_strona": "Mazowsze",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1500–1503 1500",
+      "konflikt": "II wojna litewsko-rosyjska bitwa nad Wiedroszą",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Moskwa",
+      "rezultat": "klęska Litwy",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1501",
+      "konflikt": "wyprawa polska na Prusy",
+      "i_strona": "Polska",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "przerwanie wyprawy przez śmierć króla",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1502–1510 1506 1509",
+      "konflikt": "wojna polsko-mołdawska bitwa pod Czerniowcami bitwa pod Chocimiem",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1506",
+      "konflikt": "Wojna polsko-moskiewska",
+      "i_strona": "Polska",
+      "ii_strona": "Moskwa",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1507–1508 1508",
+      "konflikt": "III wojna litewsko-rosyjska bitwa pod Orszą",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Moskwa",
+      "rezultat": "zwycięstwo Litwy",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1512",
+      "konflikt": "najazd tatarski na Polskę bitwa pod Łopusznem",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Tatarzy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1512–1522 1514 1518",
+      "konflikt": "IV wojna litewsko-moskiewska bitwa pod Orszą bitwa pod Połockiem",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Moskwa",
+      "rezultat": "klęska Litwy",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1516",
+      "konflikt": "najazd tatarski na Podole i Ruś",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1519",
+      "konflikt": "najazd tatarski na Podole i Ruś bitwa pod Sokalem",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1519–1521",
+      "konflikt": "wojna pruska",
+      "i_strona": "Polska",
+      "ii_strona": "zakon krzyżacki",
+      "rezultat": "zwycięstwo Polski hołd pruski 1525",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1524",
+      "konflikt": "najazd turecko-tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Imperium Osmańskie Tatarzy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1526",
+      "konflikt": "najazd tatarski na Polskę i Litwę",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1528",
+      "konflikt": "najazd Habsburgów na Spisz",
+      "i_strona": "Polska",
+      "ii_strona": "Węgry",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1528",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1530–1531 1530 1531 1531",
+      "konflikt": "wojna polsko-mołdawska bitwa pod Chocimiem bitwa pod Gwoźdźcem bitwa pod Obertynem",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1534–1537 1534 1535",
+      "konflikt": "V wojna litewsko-moskiewska bitwa pod Radohoszczem oblężenie Staroduba",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Moskwa",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1535",
+      "konflikt": "najazd mołdawski na Podole i Pokucie",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1537",
+      "konflikt": "wojna kokosza (rokosz lwowski)",
+      "i_strona": "Polska",
+      "ii_strona": "szlachta",
+      "rezultat": "rozwiązanie rokoszu",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1538",
+      "konflikt": "najazd mołdawski na Podole i Pokucie bitwa nad Seretem",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1549",
+      "konflikt": "najazd tatarski na Wołyń i Ruś Czerwoną",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1550",
+      "konflikt": "najazd mołdawski na Bar",
+      "i_strona": "Polska",
+      "ii_strona": "Mołdawia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1552",
+      "konflikt": "interwencja Mikołaja Sieniawskiego w Mołdawii",
+      "i_strona": "Polska Aleksander Lăpușneanu",
+      "ii_strona": "Jan Joldea",
+      "rezultat": "zwycięstwo Aleksandra",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1557",
+      "konflikt": "wyprawa Zygmunta Augusta na Inflanty",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "zakon inflancki",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1557",
+      "konflikt": "najazd tatarski na Podole",
+      "i_strona": "Polska",
+      "ii_strona": "Tatarzy",
+      "rezultat": "klęska Polski",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1563-1568",
+      "konflikt": "Wojna polsko-szwedzka",
+      "i_strona": "Polska Litwa",
+      "ii_strona": "Szwecja",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1561–1570 1558–1570 1562 1564 1564 1567 1568",
+      "konflikt": "I wojna północna VI wojna litewsko-rosyjska bitwa pod Newlem bitwa pod Czaśnikami bitwa pod Orszą II bitwa pod Czaśnikami bitwa morska pod Rewlem",
+      "i_strona": "Polska Litwa Dania",
+      "ii_strona": "Rosja Szwecja",
+      "rezultat": "pokój w Szczecinie",
+      "epoka": "Polska Jagiellonów"
+    },
+    {
+      "czas": "1571",
+      "konflikt": "atak floty duńskiej na flotę polską bitwa morska koło Helu",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Dania",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1572",
+      "konflikt": "wyprawa Mikołaja Mieleckiego na Mołdawię",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Turcja Mołdawia",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1575",
+      "konflikt": "najazd tatarski na Ruś Czerwoną i Podole",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1575",
+      "konflikt": "inwazja rosyjska na Inflanty",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Rosja",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1576–1577 1577",
+      "konflikt": "wojna Rzeczypospolitej z Gdańskiem bitwa pod Lubiszewem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Gdańsk",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1577",
+      "konflikt": "najazd tatarski na Podole, Ruś Czerwoną i Wołyń",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1577–1582 1578 1579–1582 1579 1580 1580 1581–1582",
+      "konflikt": "I wojna polsko-rosyjska bitwa pod Kiesią 3 wyprawy Stefana Batorego oblężenie Połocka oblężenie Wielkich Łuk bitwa pod Toropcem oblężenie Pskowa",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Rosja",
+      "rezultat": "zwycięstwo Rzeczypospolitej rozejm w Jamie Zapolskim",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1578",
+      "konflikt": "najazd tatarski na Podole, Ruś Czerwoną i Wołyń",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1587–1588 1587 1588",
+      "konflikt": "wyprawa Maksymiliana Habsburga po koronę polską oblężenie Krakowa bitwa pod Byczyną",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Austria",
+      "rezultat": "klęska Habsburga",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1589",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa pod Baworowem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1591–1593 1593",
+      "konflikt": "powstanie Kosińskiego bitwa pod Piątkiem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1594–1596 1596 1596 1596",
+      "konflikt": "powstanie Nalewajki bitwa pod Białą Cerkwią bitwa pod Ostrym Kamieniem bitwa pod Łubniami",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1595",
+      "konflikt": "wyprawa Jana Zamoyskiego na Mołdawię bitwa pod Cecorą bitwa pod Suczawą",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Turcja Chanat Krymski Mołdawia",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1598–1599 1598 1598 1599",
+      "konflikt": "wyprawa Zygmunta III Wazy w obronę korony szwedzkiej bitwa pod Stegeborgiem bitwa pod Linköping bitwa nad rzeką Stang",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Szwecja",
+      "rezultat": "klęska Zygmunta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1599–1600 1599 1600 1600",
+      "konflikt": "walki z Michałem Walecznym bitwa pod Șelimbărem bitwa pod Bukowem bitwa nad rzeką Argeș",
+      "i_strona": "Rzeczpospolita Jeremi Mohyła",
+      "ii_strona": "Wołoszczyzna Siedmiogród",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1600–1611 1605",
+      "konflikt": "II wojna polsko-szwedzka bitwa pod Kircholmem inne bitwy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Szwecja",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1604–1606 1604 1605 1606",
+      "konflikt": "I dymitriada bitwa pod Nowogrodem Siewierskim bitwa pod Dobryniczami I powstanie antypolskie w Moskwie",
+      "i_strona": "szlachta",
+      "ii_strona": "Rosja",
+      "rezultat": "zwycięstwo szlachty",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1606",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa nad Udyczem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1606–1609 1607",
+      "konflikt": "rokosz Zebrzydowskiego bitwa pod Guzowem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "szlachta",
+      "rezultat": "stłumienie rokoszu",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1607–1610 1607 1608 1608",
+      "konflikt": "II dymitriada bitwa pod Kozielskiem bitwa pod Bołchowem bitwa nad Chodynką",
+      "i_strona": "szlachta",
+      "ii_strona": "Rosja",
+      "rezultat": "klęska szlachty",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1607",
+      "konflikt": "wyprawa Stefana Potockiego na Mołdawię bitwa pod Ștefănești",
+      "i_strona": "Stefan Potocki",
+      "ii_strona": "Mołdawia",
+      "rezultat": "zwycięstwo magnatów",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1609–1618 1609–1611 1610 1611 1612 1612 1617",
+      "konflikt": "II wojna polsko-rosyjska oblężenie Smoleńska bitwa pod Kłuszynem bitwa pod Moskwą II antypolskie powstanie w Moskwie bitwa pod Moskwą szturm Moskwy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Rosja Szwecja",
+      "rezultat": "zwycięstwo Rzeczypospolitej rozejm w Dywilinie",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1612",
+      "konflikt": "wyprawa Stefana Potockiego na Mołdawię bitwa pod Sasowym Rogiem",
+      "i_strona": "Stefan Potocki",
+      "ii_strona": "Turcja Chanat Krymski Mołdawia",
+      "rezultat": "klęska magnatów",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1612",
+      "konflikt": "odwetowe 4 najazdy tatarskie na ziemie polskie bitwa pod Mezyrowem bitwa pod Białą Cerkwią",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1615–1616 1615 1616 1616",
+      "konflikt": "wyprawa Samuela Koreckiego na Mołdawię bitwa pod Chocimiem bitwa pod Benderami bitwa pod Sasowym Rogiem",
+      "i_strona": "Samuel Korecki",
+      "ii_strona": "Turcja Chanat Krymski Mołdawia",
+      "rezultat": "klęska Polaków",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1617–1618",
+      "konflikt": "III wojna polsko-szwedzka",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Szwecja",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1618",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa pod Oryninem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1619",
+      "konflikt": "I odsiecz wiedeńska bitwa pod Humiennem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Siedmiogród",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1620–1621 1620 1621",
+      "konflikt": "II wojna polsko-turecka bitwa pod Cecorą bitwa pod Chocimiem",
+      "i_strona": "Rzeczpospolita Mołdawia",
+      "ii_strona": "Turcja Tatarzy Wołoszczyzna",
+      "rezultat": "pokój w Chocimiu",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1621–1626 1622 1626",
+      "konflikt": "IV wojna polsko-szwedzka bitwa pod Mitawą bitwa pod Walmojzą",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Szwecja",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1624",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa pod Martynowem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1625",
+      "konflikt": "powstanie Żmajły bitwa nad Jeziorem Kurukowskim bitwa nad Cybulikiem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "nierozstrzygnięte",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1626–1629 1626 1627",
+      "konflikt": "V wojna polsko-szwedzka bitwa pod Gniewem bitwa pod Oliwą inne bitwy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Szwecja",
+      "rezultat": "rozejm w Altmarku",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1626",
+      "konflikt": "3 najazdy tatarskie na ziemie polskie bitwa pod Białą Cerkwią",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1628",
+      "konflikt": "5 najazdów tatarskich na ziemie polskie",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1629",
+      "konflikt": "5 najazdów tatarskich na ziemie polskie",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1630",
+      "konflikt": "powstanie Fedorowicza bitwa pod Korsuniem bitwa pod Perejasławiem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "ugoda perejasławska",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1632–1634 1632",
+      "konflikt": "III wojna polsko-rosyjska oblężenie Smoleńska",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Rosja",
+      "rezultat": "pokój w Polanowie",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1633–1634 1633 1633",
+      "konflikt": "wojna z Abazy paszą bitwa pod Sasowym Rogiem bitwa pod Kamieńcem Podolskim",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Turcja Chanat Krymski Wołoszczyzna Mołdawia",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1635",
+      "konflikt": "powstanie Sulimy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1637",
+      "konflikt": "powstanie Pawluka bitwa pod Kumejkami",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1638",
+      "konflikt": "powstanie Ostranicy bitwa pod Łubniami bitwa pod Żowninem oblężenie nad rzeką Starzec",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1640",
+      "konflikt": "najazd tatarski na ziemie polskie",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "klęska Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1643",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa nad Surą",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1644",
+      "konflikt": "najazd tatarski na ziemie polskie bitwa pod Ochmatowem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1645–1646",
+      "konflikt": "najazd polski na ziemie tatarskie",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1648–1655 1648 1649 1651",
+      "konflikt": "powstanie Chmielnickiego bitwa nad Żółtymi Wodami obrona Zbaraża bitwa pod Beresteczkiem inne bitwy",
+      "i_strona": "Rzeczpospolita Tatarzy (1654–1655)",
+      "ii_strona": "Kozacy Chanat Krymski (1649–1654)",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1651",
+      "konflikt": "powstanie chłopskie Kostki-Napierskiego",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Aleksander Kostka-Napierski",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1654–1667 1655 1660",
+      "konflikt": "IV wojna polsko-rosyjska bitwa pod Ochmatowem bitwa pod Cudnowem inne bitwy",
+      "i_strona": "Rzeczpospolita Tatarzy",
+      "ii_strona": "Rosja Kozacy",
+      "rezultat": "rozejm andruszowski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1655–1660 1655–1660 1655 1655 1656 1656 1657 1657",
+      "konflikt": "II wojna północna potop szwedzki bitwa pod Ujściem oblężenie Jasnej Góry bitwa pod Warką bitwa pod Warszawą najazd Jerzego II Rakoczego bitwa pod Czarnym Ostrowem inne bitwy",
+      "i_strona": "Rzeczpospolita Austria Prusy (1655–1656, 1657–1660) Dania-Norwegia Holandia Rosja (1656–1658)",
+      "ii_strona": "Szwecja Prusy (1656–1657) Kozacy Siedmiogród Rosja",
+      "rezultat": "pokój w Oliwie",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1665–1666 1665 1666",
+      "konflikt": "rokosz Lubomirskiego bitwa pod Częstochową bitwa pod Mątwami",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "szlachta",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1666–1671 1666 1667 1671 1671",
+      "konflikt": "wojna polsko-kozacko-tatarska bitwa pod Ścianą bitwa pod Podhajcami bitwa pod Bracławiem bitwa pod Kalnikiem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Chanat Krymski Kozacy",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1672–1676 1672 1673",
+      "konflikt": "III wojna polsko-turecka oblężenie Kamieńca Podolskiego bitwa pod Chocimiem inne bitwy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Turcja Chanat Krymski",
+      "rezultat": "rozejm w Żurawnie",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1683–1699 1683 1698",
+      "konflikt": "IV wojna polsko-turecka (w ramach Świętej Ligi) bitwa pod Wiedniem bitwa pod Podhajcami inne bitwy",
+      "i_strona": "Rzeczpospolita Austria",
+      "ii_strona": "Turcja Chanat Krymski",
+      "rezultat": "zwycięstwo Rzeczypospolitej pokój w Karłowicach",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1697",
+      "konflikt": "wyprawa księcia Conti po koronę polską",
+      "i_strona": "August II Mocny",
+      "ii_strona": "Franciszek Conti",
+      "rezultat": "zwycięstwo Augusta",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1700",
+      "konflikt": "wojna domowa na Litwie bitwa pod Olkienikami",
+      "i_strona": "szlachta",
+      "ii_strona": "Sapiehowie",
+      "rezultat": "klęska Sapiehów",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1700–1721 1702 1704–1706 1705 1706",
+      "konflikt": "III wojna północna bitwa pod Kliszowem wojna domowa w Polsce bitwa pod Warszawą bitwa pod Kaliszem inne bitwy",
+      "i_strona": "August II Sas Rosja Dania-Norwegia Saksonia Prusy Hanower",
+      "ii_strona": "Stanisław Leszczyński Szwecja Turcja",
+      "rezultat": "pokój w Nystad",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1702–1704",
+      "konflikt": "powstanie Paleja",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Kozacy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1715–1716 1715 1716 1716 1716 1716",
+      "konflikt": "konfederacja tarnogrodzka bitwa pod Radogoszczą bitwa pod Ryczywołem II bitwa pod Sokalem bitwa pod Lesznem bitwa pod Kowalewem",
+      "i_strona": "szlachta",
+      "ii_strona": "Rosja Saksonia",
+      "rezultat": "Sejm niemy",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1733–1735 1734 1734 1734",
+      "konflikt": "wojna o sukcesję polską oblężenie Gdańska bitwa pod Wyszecinem bitwa pod Miechowem",
+      "i_strona": "Stanisław Leszczyński Francja Hiszpania Sabaudia",
+      "ii_strona": "August III Sas Austria Rosja Saksonia",
+      "rezultat": "pokój wiedeński",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1764",
+      "konflikt": "wojna domowa w Rzeczypospolitej",
+      "i_strona": "stronnictwo hetmańskie",
+      "ii_strona": "Familia Rosja",
+      "rezultat": "klęska stronnictwa hetmańskiego",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1768–1772 1768 1768 1771",
+      "konflikt": "konfederacja barska oblężenie Baru koliszczyzna bitwa pod Lanckoroną inne bitwy",
+      "i_strona": "Stanisław August Poniatowski Rosja",
+      "ii_strona": "szlachta Hajdamacy",
+      "rezultat": "I rozbiór Polski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1792",
+      "konflikt": "VII wojna polsko-rosyjska bitwa pod Mirem bitwa pod Zelwą bitwa pod Zieleńcami bitwa pod Dubienką bitwa pod Brześciem bitwa pod Markuszowem",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Rosja",
+      "rezultat": "klęska Rzeczypospolitej II rozbiór Polski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1794",
+      "konflikt": "insurekcja kościuszkowska bitwa pod Racławicami insurekcja warszawska insurekcja wileńska powstanie wielkopolskie obrona Pragi inne bitwy",
+      "i_strona": "Rzeczpospolita",
+      "ii_strona": "Austria Prusy Rosja",
+      "rezultat": "klęska Rzeczypospolitej III rozbiór Polski",
+      "epoka": "Rzeczpospolita Obojga Narodów"
+    },
+    {
+      "czas": "1797–1814 1798–1802 1806–1807 1806 1808 1809 1809 1809 1812 1812 1812–1814 1813",
+      "konflikt": "wojny napoleońskie wojna z II koalicją wojna z IV koalicją – I wojna polska powstanie wielkopolskie bitwa pod Somosierrą wojna z V koalicją wojna polsko-austriacka bitwa pod Raszynem inwazja na Rosję – II wojna polska bitwa pod Borodino wojna z VI koalicją bitwa pod Lipskiem",
+      "i_strona": "I Cesarstwo Francuskie Legiony Polskie we Włoszech (1797–1807) Księstwo Warszawskie (1807–1815) inne",
+      "ii_strona": "Imperium Rosyjskie Królestwo Prus Cesarstwo Austrii Imperium Brytyjskie inne",
+      "rezultat": "kongres wiedeński",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1797",
+      "konflikt": "insurekcja Deniski",
+      "i_strona": "Joachim Denisko",
+      "ii_strona": "Cesarstwo Austrii",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1830–1831 1831 1831 1831 1831",
+      "konflikt": "powstanie listopadowe bitwa o Olszynkę Grochowską bitwa pod Stoczkiem bitwa pod Ostrołęką obrona reduty Ordona inne bitwy",
+      "i_strona": "Królestwo Polskie",
+      "ii_strona": "Imperium Rosyjskie",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1846",
+      "konflikt": "powstanie krakowskie bitwa pod Gdowem powstanie chochołowskie",
+      "i_strona": "Polacy",
+      "ii_strona": "Cesarstwo Austrii",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1846",
+      "konflikt": "powstanie wielkopolskie",
+      "i_strona": "Polacy",
+      "ii_strona": "Królestwo Prus",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1848",
+      "konflikt": "Wiosna Ludów w Polsce powstanie wielkopolskie bitwa pod Miłosławiem",
+      "i_strona": "Polacy",
+      "ii_strona": "Cesarstwo Austrii Królestwo Prus",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1863–1864 1863 1863 1863",
+      "konflikt": "powstanie styczniowe bitwa pod Węgrowem bitwa pod Siemiatyczami bitwa pod Salichą inne bitwy",
+      "i_strona": "Polacy",
+      "ii_strona": "Imperium Rosyjskie",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1866",
+      "konflikt": "powstanie zabajkalskie bitwa pod Miszychą",
+      "i_strona": "Polacy",
+      "ii_strona": "Imperium Rosyjskie",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1905",
+      "konflikt": "Rewolucja 1905 roku w Królestwie Polskim powstanie łódzkie",
+      "i_strona": "Polacy",
+      "ii_strona": "Imperium Rosyjskie",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1914–1918 1914 1914 1915 1916 1917 1918 1918",
+      "konflikt": "I wojna światowa bitwa pod Krzywopłotami bitwa pod Łowczówkiem bitwa pod Rokitną bitwa pod Kostiuchnówką bitwa pod Krechowcami bitwa pod Rarańczą bitwa pod Kaniowem",
+      "i_strona": "Cesarstwo Niemieckie Austro-Węgry Legiony Polskie inne",
+      "ii_strona": "Imperium Rosyjskie Wielka Brytania Francja WP na Wschodzie inne",
+      "rezultat": "traktat wersalski",
+      "epoka": "Zabory"
+    },
+    {
+      "czas": "1918–1919 1918–1919 1918 1919",
+      "konflikt": "wojna polsko-ukraińska obrona Lwowa walki o Przemyśl ofensywa czortkowska",
+      "i_strona": "Polska Rumunia",
+      "ii_strona": "Zachodnioukraińska Republika Ludowa Ukraińska Republika Ludowa",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1918–1919 1918",
+      "konflikt": "powstanie wielkopolskie bitwa o Ławicę",
+      "i_strona": "Naczelna Rada Ludowa Polacy",
+      "ii_strona": "Rzesza Niemiecka",
+      "rezultat": "zwycięstwo Polaków",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1918–1919",
+      "konflikt": "potyczki polsko-niemieckie",
+      "i_strona": "Polska",
+      "ii_strona": "Rzesza Niemiecka",
+      "rezultat": "nierozstrzygnięte",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1919",
+      "konflikt": "zamach stanu",
+      "i_strona": "rząd",
+      "ii_strona": "ND",
+      "rezultat": "zwycięstwo rządu",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1919",
+      "konflikt": "wojna polsko-czechosłowacka",
+      "i_strona": "Polska",
+      "ii_strona": "Czechosłowacja",
+      "rezultat": "Utrata Cieszyna i okolic",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1919–1920/21 1919 1920 1920 1920",
+      "konflikt": "wojna polsko-bolszewicka zajęcie Wilna operacja kijowska bitwa warszawska bitwa nad Niemnem",
+      "i_strona": "Polska Łotwa Ukraińska Republika Ludowa",
+      "ii_strona": "Rosyjska FSRR Ukraińska SRR",
+      "rezultat": "traktat ryski",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1919–1921 1919 1919 1919 1920 1921 1921",
+      "konflikt": "powstania śląskie powstanie oleskie I powstanie śląskie bitwa pod Godowem II powstanie śląskie III powstanie śląskie bitwa w rejonie Góry św. Anny bitwa pod Olzą",
+      "i_strona": "POW Górnego Śląska Polacy",
+      "ii_strona": "Rzesza Niemiecka",
+      "rezultat": "klęska Polaków (I) nierozstrzygnięte (II) zwycięstwo Polaków (III)",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1919–1920/27 1919 1920",
+      "konflikt": "wojna litewska powstanie sejneńskie bunt Żeligowskiego",
+      "i_strona": "Polska",
+      "ii_strona": "Litwa",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1923",
+      "konflikt": "powstanie krakowskie",
+      "i_strona": "siły rządowe",
+      "ii_strona": "robotnicy",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1926",
+      "konflikt": "Przewrót majowy",
+      "i_strona": "rząd, prezydent",
+      "ii_strona": "Józef Piłsudski",
+      "rezultat": "zwycięstwo Piłsudskiego",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1932",
+      "konflikt": "powstanie leskie",
+      "i_strona": "siły rządowe",
+      "ii_strona": "partyzantka chłopska",
+      "rezultat": "stłumienie powstania",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1938",
+      "konflikt": "zajęcie Zaolzia",
+      "i_strona": "Polska",
+      "ii_strona": "Czechosłowacja",
+      "rezultat": "zwycięstwo Polski",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1939",
+      "konflikt": "II wojna światowa – wojna obronna Polski obrona Westerplatte bitwa graniczna obrona Wizny obrona Warszawy bitwa nad Bzurą bitwa pod Tomaszowem Lubelskim bitwa pod Kockiem",
+      "i_strona": "Polska",
+      "ii_strona": "III Rzesza Słowacja ZSRR (od 17 września)",
+      "rezultat": "upadek II RP",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1939–1945 1939–1940 1940 1942–1943 1943–1944 1944",
+      "konflikt": "II wojna światowa – polski ruch oporu walki oddziału mjr Hubala powstanie czortkowskie powstanie zamojskie Akcja „Burza” powstanie warszawskie",
+      "i_strona": "Polskie Państwo Podziemne",
+      "ii_strona": "III Rzesza Generalne Gubernatorstwo",
+      "rezultat": "Wynik nierostrzygnięty, sukces powstania zamojskiego i częściowy sukces akcji \"Burza\"",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1939–1945 1939–1945 1940 1940 1940 1940 1941–1945 1941 1942 1944 1944–1945 1944 1944",
+      "konflikt": "II wojna światowa – Zachód bitwa o Atlantyk kampania norweska bitwa o Narwik kampania francuska bitwa o Anglię kampania śródziemnomorska obrona Tobruku bitwa pod Gazalą bitwa o Monte Cassino front zachodni bitwa pod Falaise operacja Market Garden",
+      "i_strona": "RP na uchodźstwie Wielka Brytania Francja Stany Zjednoczone inne",
+      "ii_strona": "III Rzesza Włochy",
+      "rezultat": "konferencja poczdamska",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1943–1945 1943 1944 1945 1945 1945",
+      "konflikt": "II wojna światowa – Wschód bitwa pod Lenino bitwa pod Studziankami bitwa o Kołobrzeg bitwa o Berlin bitwa pod Budziszynem",
+      "i_strona": "ZSRR KRN / PKWN / RP",
+      "ii_strona": "III Rzesza",
+      "rezultat": "konferencja poczdamska",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1942–1947 1943 1943–1944 1943–1944 1944 1944 1945 1945–1946",
+      "konflikt": "walki z partyzantką ukraińską Obrona Huty Stepańskiej i Wyrki Obrona Huty Starej Obrona Przebraża Obrona Hanaczowa bitwa pod Leszczawą Górną Bitwa pod Mrzygłodami i Gruszką I, II i III atak na Birczę",
+      "i_strona": "Rzeczpospolita Polska ZSRR Czechosłowacja",
+      "ii_strona": "Ukraińska Powstańcza Armia III Rzesza Polska antykomunistyczna partyzantka",
+      "rezultat": "stłumienie partyzantki",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1944–1956 1945",
+      "konflikt": "walki z partyzantką antykomunistyczną obława augustowska",
+      "i_strona": "Rzeczpospolita Polska ZSRR",
+      "ii_strona": "WiN, NIE, NZW, inne",
+      "rezultat": "stłumienie partyzantki",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1944–1949",
+      "konflikt": "walki z partyzantką niemiecką (nazistowską)",
+      "i_strona": "Rzeczpospolita Polska ZSRR",
+      "ii_strona": "Werwolf, inne",
+      "rezultat": "stłumienie partyzantki",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1945",
+      "konflikt": "potyczka graniczna o ziemię kłodzką",
+      "i_strona": "Rzeczpospolita Polska",
+      "ii_strona": "Czechosłowacja",
+      "rezultat": "nierozstrzygnięta",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1968",
+      "konflikt": "interwencja Układu Warszawskiego w Czechosłowacji",
+      "i_strona": "ZSRR Polska Węgry Bułgaria",
+      "ii_strona": "Czechosłowacja",
+      "rezultat": "stłumienie praskiej wiosny",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "1994–1995",
+      "konflikt": "Operacja Uphold Democracy",
+      "i_strona": "Stany Zjednoczone Polska Argentyna",
+      "ii_strona": "Haiti",
+      "rezultat": "Zwycięstwo koalicji Stanów Zjednoczonych.",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "2002–2021 2002–2021 2007 2009",
+      "konflikt": "interwencja NATO w Afganistanie operacja Achilles operacja Orle Pióro",
+      "i_strona": "Stany Zjednoczone Afganistan Polska NATO",
+      "ii_strona": "Al-Ka’ida Talibowie Afganistan (2001)",
+      "rezultat": "Zawarcie pokoju z Talibami. Wycofanie się wojsk koalicji z Afganistanu",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "2003 2003–2008 2004 2007",
+      "konflikt": "II wojna w Zatoce Perskiej wojna w Iraku bitwa o City Hall operacja Czarny Orzeł",
+      "i_strona": "Stany Zjednoczone Irak Polska",
+      "ii_strona": "Al-Ka’ida Państwo Islamskie Irak (2003) Iraccy rebelianci",
+      "rezultat": "Stabilizacja sytuacji. Wycofanie się wojsk Polskich z Iraku i utworzenie PKW Irak.",
+      "epoka": "Czasy współczesne"
+    },
+    {
+      "czas": "2012–2014 2013–2014",
+      "konflikt": "Wojna domowa w Mali operacja Serwal",
+      "i_strona": "Francja Mali Czad Polska Hiszpania Niemcy Wielka Brytania",
+      "ii_strona": "Ansar ad-Din (Obrońcy Wiary) Al-Ka’ida Islamskiego Maghrebu (AQIM) Ruch na rzecz Jedności i Dżihadu w Afryce Zachodniej (MUJAO) Azawad Narodowy Ruch Wyzwolenia Azawadu (MNLA)",
+      "rezultat": "Rozwiązanie Azawadu",
+      "epoka": "Czasy współczesne"
+    }
+  ],
+  "meta": {
+    "title": "Konflikty zbrojne w historii Polski - Free Download",
+    "description": "Chronologiczny wykaz wojen, bitew, powstań i konfliktów zbrojnych z udziałem Polski od X wieku do współczesności, ze stronami konfliktu i rezultatem. Contains 280 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Konflikty zbrojne w historii Polski | ListBase",
+    "seo_description": "Download Konflikty zbrojne w historii Polski — 280 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 280 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Konflikty_zbrojne_w_historii_Polski"
+    ]
+  }
+}
