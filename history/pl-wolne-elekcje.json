@@ -1,0 +1,226 @@
+{
+  "id": "pl-wolne-elekcje",
+  "name": "Wolne elekcje królów Polski (1573–1764)",
+  "title": "Wolne elekcje królów Polski (1573–1764)",
+  "description": "Wykaz wolnych elekcji w Rzeczypospolitej Obojga Narodów: początek bezkrólewia, obrady sejmu elekcyjnego, kandydaci do korony, data wyboru i wybrany władca.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Wolna_elekcja",
+  "source_url": "https://pl.wikipedia.org/wiki/Wolna_elekcja",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "elekcja",
+      "label": "Elekcja",
+      "type": "string"
+    },
+    {
+      "key": "poczatek_bezkrolewia",
+      "label": "Poczatek Bezkrolewia",
+      "type": "string"
+    },
+    {
+      "key": "obrady_sejmu_elekcyjnego",
+      "label": "Obrady Sejmu Elekcyjnego",
+      "type": "string"
+    },
+    {
+      "key": "kandydaci",
+      "label": "Kandydaci",
+      "type": "string"
+    },
+    {
+      "key": "data_wyboru",
+      "label": "Data Wyboru",
+      "type": "string"
+    },
+    {
+      "key": "liczba_glosow",
+      "label": "Liczba Glosow",
+      "type": "number"
+    },
+    {
+      "key": "wybrany_wladca",
+      "label": "Wybrany Wladca",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "elekcja": "1. elekcja",
+      "poczatek_bezkrolewia": "7 lipca 1572 (śmierć króla Zygmunta Augusta)",
+      "obrady_sejmu_elekcyjnego": "5 kwietnia – 20 maja 1573",
+      "kandydaci": "Ernest Habsburg, arcyksiążę austriacki Jan III Waza, król Szwecji Iwan IV Groźny, car Rosji Fiodor Iwanowicz, syn cara Rosji Iwana Groźnego Henryk Walezy, książę Orleanu Alfons II d’Este, książę Ferrary i Modeny Wilhelm z Rožemberku, burgrabia praski Jerzy Jazłowiecki, wojewoda podolski Jan Kostka, prezes Komisji Morskiej Wawrzyniec Bandura Słupski, sędzia grodzki bydgoski",
+      "data_wyboru": "11 maja 1573",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Henryk Walezy",
+      "uwagi": "Elekcja przeprowadzona na terenie wsi Kamion."
+    },
+    {
+      "elekcja": "2. elekcja",
+      "poczatek_bezkrolewia": "12 maja 1575 (Koniec czasu wyznaczonego Henrykowi Walezemu na powrót do kraju)",
+      "obrady_sejmu_elekcyjnego": "od 8 listopada 1575",
+      "kandydaci": "Maksymilian II Habsburg, cesarz rzymski Ernest Habsburg, arcyksiążę austriacki (ponownie) Ferdynand Habsburg, arcyksiążę austriacki Jan III Waza, król Szwecji (ponownie) Iwan IV Groźny, car Rosji (ponownie) Fiodor Iwanowicz, syn cara Rosji Iwana Groźnego (ponownie) Stefan Batory, książę siedmiogrodzki Alfons II d’Este, książę Ferrary i Modeny (ponownie) Jan Kostka, wojewoda sandomierski Andrzej Tęczyński, wojewoda bełski Wilhelm z Rožemberku, burgrabia praski (ponownie)",
+      "data_wyboru": "12 grudnia 1575",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Maksymilian II Habsburg",
+      "uwagi": "Wybór dokonany bez zgody większości szlachty"
+    },
+    {
+      "elekcja": "2. elekcja",
+      "poczatek_bezkrolewia": "12 maja 1575 (Koniec czasu wyznaczonego Henrykowi Walezemu na powrót do kraju)",
+      "obrady_sejmu_elekcyjnego": "–",
+      "kandydaci": "Maksymilian II Habsburg, cesarz rzymski Ernest Habsburg, arcyksiążę austriacki (ponownie) Ferdynand Habsburg, arcyksiążę austriacki Jan III Waza, król Szwecji (ponownie) Iwan IV Groźny, car Rosji (ponownie) Fiodor Iwanowicz, syn cara Rosji Iwana Groźnego (ponownie) Stefan Batory, książę siedmiogrodzki Alfons II d’Este, książę Ferrary i Modeny (ponownie) Jan Kostka, wojewoda sandomierski Andrzej Tęczyński, wojewoda bełski Wilhelm z Rožemberku, burgrabia praski (ponownie)",
+      "data_wyboru": "13 grudnia 1575",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Anna Jagiellonka",
+      "uwagi": "Wybrana na króla Polski, ostatecznie dobrano jej za męża Stefana Batorego"
+    },
+    {
+      "elekcja": "2. elekcja",
+      "poczatek_bezkrolewia": "12 maja 1575 (Koniec czasu wyznaczonego Henrykowi Walezemu na powrót do kraju)",
+      "obrady_sejmu_elekcyjnego": "–",
+      "kandydaci": "Maksymilian II Habsburg, cesarz rzymski Ernest Habsburg, arcyksiążę austriacki (ponownie) Ferdynand Habsburg, arcyksiążę austriacki Jan III Waza, król Szwecji (ponownie) Iwan IV Groźny, car Rosji (ponownie) Fiodor Iwanowicz, syn cara Rosji Iwana Groźnego (ponownie) Stefan Batory, książę siedmiogrodzki Alfons II d’Este, książę Ferrary i Modeny (ponownie) Jan Kostka, wojewoda sandomierski Andrzej Tęczyński, wojewoda bełski Wilhelm z Rožemberku, burgrabia praski (ponownie)",
+      "data_wyboru": "15 grudnia 1575",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Stefan Batory",
+      "uwagi": "Spór elekcyjny został rozwiązany na korzyść Batorego, dzięki szybkim działaniom i opieszałości cesarza. Dnia 6 kwietnia Batory przekroczył granicę Korony. 1 maja 1576 biskup kujawski Stanisław Karnkowski udzielił ślubu Annie Jagiellonce i Stefanowi Batoremu, a następnie koronował młodą parę"
+    },
+    {
+      "elekcja": "3. elekcja",
+      "poczatek_bezkrolewia": "12 grudnia 1586 (Śmierć króla Stefana Batorego)",
+      "obrady_sejmu_elekcyjnego": "od 30 czerwca 1587",
+      "kandydaci": "Maksymilian III Habsburg arcyksiążę austriacki Zygmunt Waza, książę szwedzki Fiodor I Rurykowicz, car Rosji (ponownie) Ferdynand Habsburg, arcyksiążę austriacki (ponownie) Maciej Habsburg, arcyksiążę austriacki Ernest Habsburg, arcyksiążę austriacki (ponownie)",
+      "data_wyboru": "19 sierpnia 1587",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Zygmunt III Waza",
+      "uwagi": "Doszło do podwójnej elekcji. 27 grudnia 1587 Zygmunt III Waza został koronowany na króla Polski. 24 stycznia 1588 roku Jan Zamoyski pokonał pustoszące pogranicze polsko-śląskie oddziały Maksymiliana Habsburga w bitwie pod Byczyną. Ostatecznie konflikt zakończył się na sejmie pacyfikacyjnym (od 6 marca do 23 kwietnia 1589 roku) na którym zwolennicy elekcji Habsburga przysięgli wierność królowi Zygmuntowi III"
+    },
+    {
+      "elekcja": "3. elekcja",
+      "poczatek_bezkrolewia": "12 grudnia 1586 (Śmierć króla Stefana Batorego)",
+      "obrady_sejmu_elekcyjnego": "od 30 czerwca 1587",
+      "kandydaci": "Maksymilian III Habsburg arcyksiążę austriacki Zygmunt Waza, książę szwedzki Fiodor I Rurykowicz, car Rosji (ponownie) Ferdynand Habsburg, arcyksiążę austriacki (ponownie) Maciej Habsburg, arcyksiążę austriacki Ernest Habsburg, arcyksiążę austriacki (ponownie)",
+      "data_wyboru": "22 sierpnia 1587",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Maksymilian III Habsburg",
+      "uwagi": "Doszło do podwójnej elekcji. 27 grudnia 1587 Zygmunt III Waza został koronowany na króla Polski. 24 stycznia 1588 roku Jan Zamoyski pokonał pustoszące pogranicze polsko-śląskie oddziały Maksymiliana Habsburga w bitwie pod Byczyną. Ostatecznie konflikt zakończył się na sejmie pacyfikacyjnym (od 6 marca do 23 kwietnia 1589 roku) na którym zwolennicy elekcji Habsburga przysięgli wierność królowi Zygmuntowi III"
+    },
+    {
+      "elekcja": "4. elekcja",
+      "poczatek_bezkrolewia": "30 kwietnia 1632 (Śmierć króla Zygmunta III)",
+      "obrady_sejmu_elekcyjnego": "od 27 września 1632",
+      "kandydaci": "Władysław Waza, królewicz polski Gustaw II Adolf, król Szwecji",
+      "data_wyboru": "8 listopada 1632",
+      "liczba_glosow": "3543",
+      "wybrany_wladca": "Władysław IV Waza",
+      "uwagi": ""
+    },
+    {
+      "elekcja": "5. elekcja",
+      "poczatek_bezkrolewia": "20 maja 1648 (Śmierć króla Władysława IV)",
+      "obrady_sejmu_elekcyjnego": "od 6 października 1648",
+      "kandydaci": "Zygmunt Rakoczy, syn księcia siedmiogrodzkiego Jan Kazimierz Waza, królewicz polski Karol Ferdynand Waza, królewicz polski",
+      "data_wyboru": "20 listopada 1648",
+      "liczba_glosow": "4352",
+      "wybrany_wladca": "Jan II Kazimierz Waza",
+      "uwagi": ""
+    },
+    {
+      "elekcja": "6. elekcja",
+      "poczatek_bezkrolewia": "16 września 1668 (Abdykacja króla Jana II Kazimierza)",
+      "obrady_sejmu_elekcyjnego": "od 2 maja 1669",
+      "kandydaci": "Ludwik II Burbon, Wielki Kondeusz, książę de Longueville Henryk Juliusz Burbon, syn Wielkiego Kondeusza Filip Wilhelm, palatyn Pfalz-Neuburg Karol V Leopold, książę lotaryński Aleksy I Romanow, car Rosji Aleksy Aleksiejewicz Romanow, carewicz rosyjski Fiodor Aleksiejewicz Romanow, carewicz rosyjski Krystyna Waza, była królowa Szwecji Fryderyk Wilhelm Wielki Elektor, książę pruski i elektor brandenburski Adil Girej, chan krymski Jakub Stuart, książę Yorku Michał Korybut Wiśniowiecki, magnat polski Dymitr Jerzy Wiśniowiecki, wojewoda bełski Aleksander Janusz Ostrogski-Zasławski, książę, magnat polski Aleksander Polanowski mnich włoski Barnabita",
+      "data_wyboru": "19 czerwca 1669",
+      "liczba_glosow": "11271",
+      "wybrany_wladca": "Michał Korybut Wiśniowiecki",
+      "uwagi": ""
+    },
+    {
+      "elekcja": "7. elekcja",
+      "poczatek_bezkrolewia": "10 listopada 1673 (Śmierć króla Michała Korybuta)",
+      "obrady_sejmu_elekcyjnego": "od 20 kwietnia 1674",
+      "kandydaci": "Ludwik II Burbon, Wielki Kondeusz, książę de Longueville (ponownie) Filip Wilhelm, palatyn Pfalz-Neuburg (ponownie) Karol V Leopold, książę lotaryński (ponownie) Jan Sobieski, marszałek i hetman wielki koronny Jerzy Oldenburg, książę duński Ludwik Tomasz Sabaudzki, hrabia Soisson Michał Apafy, książę siedmiogrodzki",
+      "data_wyboru": "21 maja 1674",
+      "liczba_glosow": "3450",
+      "wybrany_wladca": "Jan III Sobieski",
+      "uwagi": ""
+    },
+    {
+      "elekcja": "8. elekcja",
+      "poczatek_bezkrolewia": "17 czerwca 1696 (Śmierć króla Jana III)",
+      "obrady_sejmu_elekcyjnego": "maj 1697",
+      "kandydaci": "Franciszek Ludwik Bourbon, książę Conti Karol Filip, książę neuburski Fryderyk August I Wettin, elektor saski Leopold Ludwik, książę lotaryński Ludwik Wilhelm, margrabia badeński Jakub Ludwik Sobieski, królewicz polski Maksymilian II Emanuel, elektor bawarski Livio Odescalchi, książę, bratanek papieża Innocentego XI",
+      "data_wyboru": "27 czerwca 1697",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Franciszek Ludwik Bourbon",
+      "uwagi": "Franciszka Ludwika wybrała większość szlachty, pozostali wybrali elektora saskiego. Podwójna elekcja zakończyła się w wyniku energicznych działań Sasa (szybkie wkroczenie do Rzeczypospolitej, wcześniejsze przejście na katolicyzm, przekupienie części szlachty) i nieudanych ruchów Francuzów (fiasko desantu pod Gdańskiem)."
+    },
+    {
+      "elekcja": "8. elekcja",
+      "poczatek_bezkrolewia": "17 czerwca 1696 (Śmierć króla Jana III)",
+      "obrady_sejmu_elekcyjnego": "maj 1697",
+      "kandydaci": "Franciszek Ludwik Bourbon, książę Conti Karol Filip, książę neuburski Fryderyk August I Wettin, elektor saski Leopold Ludwik, książę lotaryński Ludwik Wilhelm, margrabia badeński Jakub Ludwik Sobieski, królewicz polski Maksymilian II Emanuel, elektor bawarski Livio Odescalchi, książę, bratanek papieża Innocentego XI",
+      "data_wyboru": "27 czerwca 1697",
+      "liczba_glosow": "13641",
+      "wybrany_wladca": "August II Wettyn",
+      "uwagi": "Franciszka Ludwika wybrała większość szlachty, pozostali wybrali elektora saskiego. Podwójna elekcja zakończyła się w wyniku energicznych działań Sasa (szybkie wkroczenie do Rzeczypospolitej, wcześniejsze przejście na katolicyzm, przekupienie części szlachty) i nieudanych ruchów Francuzów (fiasko desantu pod Gdańskiem)."
+    },
+    {
+      "elekcja": "9. elekcja",
+      "poczatek_bezkrolewia": "styczeń 1704 (Detronizacja Augusta II przez konfederację warszawską)",
+      "obrady_sejmu_elekcyjnego": "lipiec 1704",
+      "kandydaci": "Stanisław Leszczyński, wojewoda poznański",
+      "data_wyboru": "12 lipca 1704",
+      "liczba_glosow": "",
+      "wybrany_wladca": "Stanisław I Leszczyński",
+      "uwagi": "Elekcja nie w pełni legalna. Wybory odbyły się po detronizacji Augusta II, pod osłoną wojsk szwedzkich okupujących ziemie polskie podczas III wojny północnej. W 1709 roku na tron powrócił August II."
+    },
+    {
+      "elekcja": "10. elekcja",
+      "poczatek_bezkrolewia": "1 lutego 1733 (Śmierć króla Augusta II)",
+      "obrady_sejmu_elekcyjnego": "sierpień 1733",
+      "kandydaci": "Fryderyk August II Wettin, elektor saski Emanuel Bragança, infant portugalski Stanisław Leszczyński, wojewoda poznański, były król",
+      "data_wyboru": "12 września 1733",
+      "liczba_glosow": "11697",
+      "wybrany_wladca": "Stanisław I Leszczyński",
+      "uwagi": "Wybór Stanisława Leszczyńskiego nie został zaakceptowany przez część szlachty, jak i państw europejskich. Po wyborze króla doszło więc do zbrojnej interwencji sasko-rosyjskiej i przeprowadzenia nielegalnej w świetle prawa elekcji, podczas której 5 października, pod osłoną korpusu rosyjskiego generała Piotra Lacy, ogłoszono Augusta III królem Polski we wsi Kamion na Pradze. Spowodowało to wypowiedzenie przez Francję wojny Austrii, stronnika elektora saskiego. Wojna między koalicjami Francji, Hiszpanii i Bawarii a Austrii, Rosji, Prus i Danii, zwana wojną o sukcesję polską (1733-1735) zakończyła się m.in. abdykacją Leszczyńskiego."
+    },
+    {
+      "elekcja": "10. elekcja",
+      "poczatek_bezkrolewia": "1 lutego 1733 (Śmierć króla Augusta II)",
+      "obrady_sejmu_elekcyjnego": "",
+      "kandydaci": "Fryderyk August II Wettin, elektor saski Emanuel Bragança, infant portugalski Stanisław Leszczyński, wojewoda poznański, były król",
+      "data_wyboru": "5 października 1733",
+      "liczba_glosow": "906",
+      "wybrany_wladca": "August III Wettyn",
+      "uwagi": "Wybór Stanisława Leszczyńskiego nie został zaakceptowany przez część szlachty, jak i państw europejskich. Po wyborze króla doszło więc do zbrojnej interwencji sasko-rosyjskiej i przeprowadzenia nielegalnej w świetle prawa elekcji, podczas której 5 października, pod osłoną korpusu rosyjskiego generała Piotra Lacy, ogłoszono Augusta III królem Polski we wsi Kamion na Pradze. Spowodowało to wypowiedzenie przez Francję wojny Austrii, stronnika elektora saskiego. Wojna między koalicjami Francji, Hiszpanii i Bawarii a Austrii, Rosji, Prus i Danii, zwana wojną o sukcesję polską (1733-1735) zakończyła się m.in. abdykacją Leszczyńskiego."
+    },
+    {
+      "elekcja": "11. elekcja",
+      "poczatek_bezkrolewia": "5 października 1763 (Śmierć króla Augusta III)",
+      "obrady_sejmu_elekcyjnego": "wrzesień 1764",
+      "kandydaci": "Fryderyk Krystian Wettyn, elektor saski Adam Kazimierz Czartoryski, książę, magnat polski Michał Kazimierz Ogiński, wojewoda wileński Jan Klemens Branicki, hetman wielki koronny Stanisław Antoni Poniatowski, stolnik wielki litewski",
+      "data_wyboru": "12 września 1764",
+      "liczba_glosow": "5320",
+      "wybrany_wladca": "Stanisław II August Poniatowski",
+      "uwagi": "Elekcja kontrolowana przez Cesarstwo Rosyjskie."
+    }
+  ],
+  "meta": {
+    "title": "Wolne elekcje królów Polski (1573–1764) - Free Download",
+    "description": "Wykaz wolnych elekcji w Rzeczypospolitej Obojga Narodów: początek bezkrólewia, obrady sejmu elekcyjnego, kandydaci do korony, data wyboru i wybrany władca. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wolne elekcje królów Polski (1573–1764) | ListBase",
+    "seo_description": "Download Wolne elekcje królów Polski (1573–1764) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Wolna_elekcja"
+    ]
+  }
+}

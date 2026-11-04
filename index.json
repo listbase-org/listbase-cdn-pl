@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-04T02:15:41.927Z",
-  "total_datasets": 535,
-  "total_records": 1094114,
+  "generated": "2026-11-04T02:15:48.915Z",
+  "total_datasets": 536,
+  "total_records": 1094130,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -3818,6 +3818,35 @@
         "xlsx": {
           "name": "pl-wladcy-polski_PL.xlsx",
           "size": 13500
+        }
+      }
+    },
+    {
+      "id": "pl-wolne-elekcje",
+      "name": "Wolne elekcje królów Polski (1573–1764)",
+      "category": "history",
+      "record_count": 16,
+      "columns": [
+        "elekcja",
+        "poczatek_bezkrolewia",
+        "obrady_sejmu_elekcyjnego",
+        "kandydaci",
+        "data_wyboru",
+        "liczba_glosow",
+        "wybrany_wladca",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Wolna_elekcja",
+      "updated": "2026-11",
+      "size": 16024,
+      "files": {
+        "csv": {
+          "name": "pl-wolne-elekcje_PL.csv",
+          "size": 10821
+        },
+        "xlsx": {
+          "name": "pl-wolne-elekcje_PL.xlsx",
+          "size": 10287
         }
       }
     },
