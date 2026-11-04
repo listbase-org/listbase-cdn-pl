@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-04T02:15:27.374Z",
-  "total_datasets": 533,
-  "total_records": 1093851,
+  "generated": "2026-11-04T02:15:35.366Z",
+  "total_datasets": 534,
+  "total_records": 1094022,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -3763,6 +3763,36 @@
         "xlsx": {
           "name": "pl-konflikty-zbrojne_PL.xlsx",
           "size": 24593
+        }
+      }
+    },
+    {
+      "id": "pl-sejmy-rzeczypospolitej-obojga-narodow",
+      "name": "Sejmy Rzeczypospolitej Obojga Narodów (1569–1793)",
+      "category": "history",
+      "record_count": 171,
+      "columns": [
+        "rodzaj_sejmu",
+        "data_zwolania",
+        "sejmiki",
+        "data_rozpoczecia",
+        "data_zakonczenia",
+        "miejsce",
+        "marszalek",
+        "uwagi",
+        "panowanie"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_sejmów_Rzeczypospolitej_Obojga_Narodów",
+      "updated": "2026-11",
+      "size": 63622,
+      "files": {
+        "csv": {
+          "name": "pl-sejmy-rzeczypospolitej-obojga-narodow_PL.csv",
+          "size": 26380
+        },
+        "xlsx": {
+          "name": "pl-sejmy-rzeczypospolitej-obojga-narodow_PL.xlsx",
+          "size": 18913
         }
       }
     },
