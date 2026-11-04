@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-04T02:15:35.366Z",
-  "total_datasets": 534,
-  "total_records": 1094022,
+  "generated": "2026-11-04T02:15:41.927Z",
+  "total_datasets": 535,
+  "total_records": 1094114,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -3793,6 +3793,31 @@
         "xlsx": {
           "name": "pl-sejmy-rzeczypospolitej-obojga-narodow_PL.xlsx",
           "size": 18913
+        }
+      }
+    },
+    {
+      "id": "pl-wladcy-polski",
+      "name": "Władcy Polski",
+      "category": "history",
+      "record_count": 92,
+      "columns": [
+        "imie",
+        "okres_panowania",
+        "okres_historyczny",
+        "informacje"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Władcy_Polski",
+      "updated": "2026-11",
+      "size": 28968,
+      "files": {
+        "csv": {
+          "name": "pl-wladcy-polski_PL.csv",
+          "size": 18124
+        },
+        "xlsx": {
+          "name": "pl-wladcy-polski_PL.xlsx",
+          "size": 13500
         }
       }
     },

@@ -1,0 +1,598 @@
+{
+  "id": "pl-wladcy-polski",
+  "name": "Władcy Polski",
+  "title": "Władcy Polski",
+  "description": "Chronologiczna lista władców Polski – książąt, królów i regentów od Mieszka I do 1918 roku, z okresem panowania i informacjami dodatkowymi.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Władcy_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Władcy_Polski",
+  "updated": "2026-11",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "imie",
+      "label": "Imie",
+      "type": "string"
+    },
+    {
+      "key": "okres_panowania",
+      "label": "Okres Panowania",
+      "type": "string"
+    },
+    {
+      "key": "okres_historyczny",
+      "label": "Okres Historyczny",
+      "type": "string"
+    },
+    {
+      "key": "informacje",
+      "label": "Informacje",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imie": "Siemowit",
+      "okres_panowania": "IX–X w. (?)",
+      "okres_historyczny": "Władcy dyskusyjni (IX–X w.)",
+      "informacje": "dyskusyjny władca Polski"
+    },
+    {
+      "imie": "Lestek",
+      "okres_panowania": "X w. (?)",
+      "okres_historyczny": "Władcy dyskusyjni (IX–X w.)",
+      "informacje": "dyskusyjny władca Polski"
+    },
+    {
+      "imie": "Siemomysł",
+      "okres_panowania": "X w.",
+      "okres_historyczny": "Władcy dyskusyjni (IX–X w.)",
+      "informacje": "dyskusyjny władca Polski"
+    },
+    {
+      "imie": "Mieszko I",
+      "okres_panowania": "ok. 960–992",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Pierwszy władca Polski wzmiankowany przez współczesne mu źródła."
+    },
+    {
+      "imie": "Bolesław I Chrobry",
+      "okres_panowania": "992–1025",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "1. król Polski. Książę Czech."
+    },
+    {
+      "imie": "Mieszko II Lambert",
+      "okres_panowania": "1025–1031",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "2. król Polski."
+    },
+    {
+      "imie": "Bezprym",
+      "okres_panowania": "1031–1032",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Książę Polski."
+    },
+    {
+      "imie": "Mieszko II Lambert",
+      "okres_panowania": "1032–1033",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Źródła niemieckie podają, że Mieszko II Lambert zrzekł się korony w 1032 roku. W polskich źródłach do śmierci był tytułowany królem. Otto zmarł w 1033 roku śmiercią naturalną lub skrytobójczo zamordowany przez swego drużynnika. Natomiast Dytryk prawdopodobnie został wygnany z kraju w tym samym roku."
+    },
+    {
+      "imie": "Otto Bolesławowic",
+      "okres_panowania": "1032–1033",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Źródła niemieckie podają, że Mieszko II Lambert zrzekł się korony w 1032 roku. W polskich źródłach do śmierci był tytułowany królem. Otto zmarł w 1033 roku śmiercią naturalną lub skrytobójczo zamordowany przez swego drużynnika. Natomiast Dytryk prawdopodobnie został wygnany z kraju w tym samym roku."
+    },
+    {
+      "imie": "Dytryk",
+      "okres_panowania": "1032–1033",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Źródła niemieckie podają, że Mieszko II Lambert zrzekł się korony w 1032 roku. W polskich źródłach do śmierci był tytułowany królem. Otto zmarł w 1033 roku śmiercią naturalną lub skrytobójczo zamordowany przez swego drużynnika. Natomiast Dytryk prawdopodobnie został wygnany z kraju w tym samym roku."
+    },
+    {
+      "imie": "Mieszko II Lambert",
+      "okres_panowania": "1033–1034",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Po śmierci Ottona i wygnaniu brata stryjecznego, Dytryka, Mieszko II Lambert zjednoczył w swym ręku pełnię władzy w Polsce."
+    },
+    {
+      "imie": "Kazimierz I Odnowiciel",
+      "okres_panowania": "1034–1058",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Z braku źródeł niejasne jest, kto sprawował władzę w latach 1034–1037, gdyż w tym okresie Kazimierz musiał opuścić kraj. Kronikarze średniowieczni uzupełniali tę lukę Bolesławem Zapomnianym, jednak od końca XIX wieku uznaje się jego postać za zmyśloną. Faktyczne panowanie Kazimierza nastąpiło od 1039 r. lub 1040 r. i trwało aż do jego śmierci w 1058 r."
+    },
+    {
+      "imie": "Bolesław II Szczodry (Śmiały)",
+      "okres_panowania": "1058–1079",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "3. król Polski Koronowany w 1076 roku"
+    },
+    {
+      "imie": "Władysław I Herman",
+      "okres_panowania": "1079–1086",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Po śmierci Kazimierza I Odnowiciela panował na Mazowszu jako lennik Bolesława II Szczodrego."
+    },
+    {
+      "imie": "Władysław I Herman",
+      "okres_panowania": "1086–1089",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W 1086 roku zawarto kompromis polityczny pomiędzy Władysławem I Świętym (królem Węgier) a Władysławem Hermanem, na mocy którego Mieszko Bolesławowic otrzymał dzielnicę małopolską a Władysław I Herman zatrzymał władzę zwierzchnią. W 1089 roku z inicjatywy Sieciecha i Judyty Marii otruto Mieszka Bolesławowica i wysłano pierwszego syna Hermana (Zbigniewa) do klasztoru w Saksonii, umożliwiając Bolesławowi Krzywoustemu przyszłe objęcie tronu po ojcu."
+    },
+    {
+      "imie": "Mieszko Bolesławowic",
+      "okres_panowania": "1086–1089",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W 1086 roku zawarto kompromis polityczny pomiędzy Władysławem I Świętym (królem Węgier) a Władysławem Hermanem, na mocy którego Mieszko Bolesławowic otrzymał dzielnicę małopolską a Władysław I Herman zatrzymał władzę zwierzchnią. W 1089 roku z inicjatywy Sieciecha i Judyty Marii otruto Mieszka Bolesławowica i wysłano pierwszego syna Hermana (Zbigniewa) do klasztoru w Saksonii, umożliwiając Bolesławowi Krzywoustemu przyszłe objęcie tronu po ojcu."
+    },
+    {
+      "imie": "Władysław I Herman",
+      "okres_panowania": "1089–1098",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W 1089 roku, po otruciu Mieszka Bolesławowica, Władysław I Herman stał się na powrót jedynowładcą Polski."
+    },
+    {
+      "imie": "Władysław I Herman",
+      "okres_panowania": "1098–1102",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W roku 1098 synowie Władysława (Zbigniew i Bolesław III Krzywousty), przy poparciu możnych, obalili Sieciecha i wymogli na ojcu podział państwa na dzielnice. Zbigniew otrzymał Wielkopolskę, Kujawy i ziemię sieradzko-łęczycką, a Bolesław Małopolskę i Śląsk, zaś Władysław zatrzymał dla siebie Mazowsze wraz z władzą zwierzchnią nad wszystkimi księstwami."
+    },
+    {
+      "imie": "Zbigniew",
+      "okres_panowania": "1098–1102",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W roku 1098 synowie Władysława (Zbigniew i Bolesław III Krzywousty), przy poparciu możnych, obalili Sieciecha i wymogli na ojcu podział państwa na dzielnice. Zbigniew otrzymał Wielkopolskę, Kujawy i ziemię sieradzko-łęczycką, a Bolesław Małopolskę i Śląsk, zaś Władysław zatrzymał dla siebie Mazowsze wraz z władzą zwierzchnią nad wszystkimi księstwami."
+    },
+    {
+      "imie": "Bolesław III Krzywousty",
+      "okres_panowania": "1098–1102",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "W roku 1098 synowie Władysława (Zbigniew i Bolesław III Krzywousty), przy poparciu możnych, obalili Sieciecha i wymogli na ojcu podział państwa na dzielnice. Zbigniew otrzymał Wielkopolskę, Kujawy i ziemię sieradzko-łęczycką, a Bolesław Małopolskę i Śląsk, zaś Władysław zatrzymał dla siebie Mazowsze wraz z władzą zwierzchnią nad wszystkimi księstwami."
+    },
+    {
+      "imie": "Zbigniew",
+      "okres_panowania": "1102–1107",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Książę wielkopolski, mazowiecki i kujawski w latach 1102–1107."
+    },
+    {
+      "imie": "Bolesław III Krzywousty",
+      "okres_panowania": "1102–1107",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Książę małopolski, śląski i sandomierski w latach 1102–1107."
+    },
+    {
+      "imie": "Bolesław III Krzywousty",
+      "okres_panowania": "1107–1138",
+      "okres_historyczny": "Książęta i królowie (do 1138)",
+      "informacje": "Książę małopolski, śląski i sandomierski w latach 1102–1107, książę Polski w latach 1107–1138."
+    },
+    {
+      "imie": "Władysław II Wygnaniec",
+      "okres_panowania": "1138–1146",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Książę śląski 1138–1146."
+    },
+    {
+      "imie": "Bolesław IV Kędzierzawy",
+      "okres_panowania": "1146–1173",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Książę mazowiecki 1138–1173, śląski 1146–1163."
+    },
+    {
+      "imie": "Mieszko III Stary",
+      "okres_panowania": "1173–1177",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz pierwszy. Książę wielkopolski 1138–1179, 1182–1202. Ze względu na nadmierny fiskalizm i nadużycia władzy wybuchł bunt możnych krakowskich, którzy zaproponowali tron Bolesławowi Wysokiemu."
+    },
+    {
+      "imie": "Kazimierz II Sprawiedliwy",
+      "okres_panowania": "1177–1191",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz pierwszy. Książę wiślicki 1166–1173, sandomierski 1173–1194, mazowiecki 1186–1194. Możni krakowscy zaproponowali tron Bolesławowi Wysokiemu, ale ten nie był w stanie go objąć ze względu na interwencję Mieszka Plątonogiego, wobec czego księciem ogłoszono Kazimierza."
+    },
+    {
+      "imie": "Mieszko III Stary",
+      "okres_panowania": "1191–1191",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz drugi. Wykorzystując zdradę kasztelana krakowskiego Henryka Kietlicza przejął tron."
+    },
+    {
+      "imie": "Kazimierz II Sprawiedliwy",
+      "okres_panowania": "1191–1194",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz drugi. Kazimierz odbił Kraków z pomocą książąt ruskich."
+    },
+    {
+      "imie": "Leszek I Biały",
+      "okres_panowania": "1194–1198",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz pierwszy. Nieletni, rządy regencyjne matki."
+    },
+    {
+      "imie": "Mieszko III Stary",
+      "okres_panowania": "1198–1199",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz trzeci. Odzyskał władzę dzięki umowie z Heleną Znojemską w zamian za zwrot Kujaw i uznanie Leszka Białego za następcę."
+    },
+    {
+      "imie": "Leszek I Biały",
+      "okres_panowania": "1199–1199",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz drugi. W 1199 wojewoda krakowski Mikołaj i biskup Pełka usunęli Mieszka z tronu, lecz jeszcze w tym samym roku doszło między nimi do ugody."
+    },
+    {
+      "imie": "Mieszko III Stary",
+      "okres_panowania": "1199–1202",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz czwarty. W 1199 wojewoda krakowski Mikołaj i biskup Pełka usunęli Mieszka z tronu, lecz jeszcze w tym samym roku doszło między nimi do ugody."
+    },
+    {
+      "imie": "Władysław III Laskonogi",
+      "okres_panowania": "1202–1206",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz pierwszy. Książę wielkopolski 1202–1220. Wojewoda krakowski Mikołaj zażądał usunięcia wojewody sandomierskiego Goworka, a wobec odmowy Leszka, Mikołaj ogłosił księciem Władysława Laskonogiego."
+    },
+    {
+      "imie": "Leszek I Biały",
+      "okres_panowania": "1206–1210",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz trzeci. Po śmierci wojewody Mikołaja możni ogłosili księciem Leszka."
+    },
+    {
+      "imie": "Mieszko IV Plątonogi",
+      "okres_panowania": "1210–1211",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Papież Innocenty III na wniosek księcia śląskiego postanowił pod groźbą klątwy przywrócić zasadę senioratu, a Mieszko udał się na czele armii do Krakowa, gdzie został wpuszczony. Książę raciborski 1173–1211, opolski 1202–1211."
+    },
+    {
+      "imie": "Leszek I Biały",
+      "okres_panowania": "1211–1225",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz czwarty. Po śmierci Mieszka Leszek wrócił do Krakowa."
+    },
+    {
+      "imie": "Henryk I Brodaty",
+      "okres_panowania": "1225–1225",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz pierwszy. Gdy po klęsce z rąk Prusów Leszek Biały zastosował represje wobec członków odpowiedzialnego za porażkę rodu Gryfitów, ci w odpowiedzi na to w 1225 roku (pod nieobecność księcia Leszka Białego w Krakowie), przywołali na tron krakowski Henryka I Brodatego. Książę śląski od 1201."
+    },
+    {
+      "imie": "Leszek I Biały",
+      "okres_panowania": "1225–1227",
+      "okres_historyczny": "Książęta zwierzchni (do 1227)",
+      "informacje": "Po raz piąty. Krótkotrwały konflikt z Henrykiem I Brodatym zakończono zawarciem pokoju, wycofaniem się księcia śląskiego z Krakowa, a zarazem wygnaniem Gryfitów z Małopolski. Po śmierci Leszka Białego upada zasada zwierzchnictwa księcia krakowskiego nad Polską."
+    },
+    {
+      "imie": "Władysław III Laskonogi",
+      "okres_panowania": "1228–1229",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz drugi. Na mocy umowy sukcesyjnej z Leszkiem Białym. W latach 1228–1229 w jego zastępstwie rządy w dzielnicy senioralnej sprawował Henryk I Brodaty."
+    },
+    {
+      "imie": "Konrad I mazowiecki",
+      "okres_panowania": "1229–1232",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz pierwszy. Zajął Kraków zbrojnie. Tytuł księcia krakowskiego przyjął dopiero po śmierci Władysława Laskonogiego. Książę mazowiecki od 1202."
+    },
+    {
+      "imie": "Henryk I Brodaty",
+      "okres_panowania": "1232–1238",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz drugi. Przejął tron przy poparciu możnych. Książę śląski od 1201."
+    },
+    {
+      "imie": "Henryk II Pobożny",
+      "okres_panowania": "1238–1241",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Tron objął jako następca ojca. Książę śląski od 1238."
+    },
+    {
+      "imie": "Bolesław II Rogatka",
+      "okres_panowania": "1241–1241",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Tron objął jako następca ojca. Książę śląski."
+    },
+    {
+      "imie": "Konrad I mazowiecki",
+      "okres_panowania": "1241–1243",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz drugi. Zajął Kraków zbrojnie."
+    },
+    {
+      "imie": "Bolesław V Wstydliwy",
+      "okres_panowania": "1243–1279",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Powołany na tron przez możnych."
+    },
+    {
+      "imie": "Leszek II Czarny",
+      "okres_panowania": "1279–1288",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Odziedziczył tron na mocy umowy sukcesyjnej z Bolesławem Wstydliwym. Książę sieradzki i łęczycki."
+    },
+    {
+      "imie": "Bolesław II mazowiecki",
+      "okres_panowania": "1288–1288",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz pierwszy. Książę mazowiecki i sandomierski. Wezwany na tron krakowski przez biskupa krakowskiego Pawła z Przemankowa oraz możnych małopolskich. Jeszcze w tym samym roku został wyparty z Krakowa przez Henryka IV Probusa."
+    },
+    {
+      "imie": "Henryk IV Prawy",
+      "okres_panowania": "1288–1289",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz pierwszy. Książę wrocławski od 1270. Po opanowaniu Krakowa w 1288 roku powrócił na Śląsk. Książę mazowiecki Bolesław II nie zrezygnował jednak z Krakowa. 26 lutego 1289 roku wojska Henryka IV Probusa zostały pokonane przez siły Bolesława II i jego sojuszników. Kraków przejął ponownie Bolesław VII Siemowitowicz."
+    },
+    {
+      "imie": "Bolesław II mazowiecki",
+      "okres_panowania": "1289–1289",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz drugi. Bolesław II mazowiecki po pokonaniu Henryka IV Probusa pod Siewierzem zajął Kraków. Latem 1289 roku zawarł układ z bratem, Konradem II czerskim, oddając mu w zamian za pomoc zbrojną Sandomierz. Krok ten wywołał oburzenie możnych małopolskich, którzy wygnali Bolesława, a na tron przywołali Władysława Łokietka."
+    },
+    {
+      "imie": "Władysław I Łokietek",
+      "okres_panowania": "1289–1289",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz pierwszy. Możni małopolscy niezadowoleni z rządów Bolesława II mazowieckiego, powołali na tron Władysława IV Łokietka, który zajął Kraków, ale już w sierpniu 1289 roku został z niego wyparty przez Henryka IV Probusa. Według legendy Władysław Łokietek zbiegł z miasta w mnisim przebraniu i dzięki pomocy krakowskich franciszkanów w chwili wkraczania do miasta wojsk księcia wrocławskiego."
+    },
+    {
+      "imie": "Henryk IV Prawy",
+      "okres_panowania": "1289–1290",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Po raz drugi. Henryk IV Probus odzyskał władzę w Krakowie. Popierającego Władysława Łokietka biskupa krakowskiego, Pawła z Przemankowa, książę wrocławski nakazał uwięzić. Władysław Łokietek zdołał utrzymać się na tronie książęcym w Sandomierzu."
+    },
+    {
+      "imie": "Przemysł II",
+      "okres_panowania": "1290–1291",
+      "okres_historyczny": "Książęta krakowscy (do 1291)",
+      "informacje": "Tron objął w wyniku testamentu Henryka IV Prawego. Książę poznański od 1273, wielkopolski od 1279, gdański od 1294."
+    },
+    {
+      "imie": "Przemysł II",
+      "okres_panowania": "1295–1296",
+      "okres_historyczny": "Król Polski (1295–1296)",
+      "informacje": "4. król Polski. Książę poznański od 1273, wielkopolski od 1279, gdański od 1294."
+    },
+    {
+      "imie": "Wacław II",
+      "okres_panowania": "1291–1305",
+      "okres_historyczny": "Książęta krakowscy (1291–1305)",
+      "informacje": "Zięć Przemysła II. Król Czech"
+    },
+    {
+      "imie": "Wacław II",
+      "okres_panowania": "1300–1305",
+      "okres_historyczny": "Królowie Polski (1300–1306)",
+      "informacje": "5. król Polski. Król Czech"
+    },
+    {
+      "imie": "Wacław III",
+      "okres_panowania": "1305–1306",
+      "okres_historyczny": "Królowie Polski (1300–1306)",
+      "informacje": "Nigdy nie przybył do Polski. Król Węgier i Król Czech"
+    },
+    {
+      "imie": "Władysław I Łokietek",
+      "okres_panowania": "1306–1333",
+      "okres_historyczny": "Dynastia Piastów (1306–1370)",
+      "informacje": "6. król Polski."
+    },
+    {
+      "imie": "Kazimierz III Wielki",
+      "okres_panowania": "1333–1370",
+      "okres_historyczny": "Dynastia Piastów (1306–1370)",
+      "informacje": "7. król Polski."
+    },
+    {
+      "imie": "Ludwik I Węgierski",
+      "okres_panowania": "1370–1382",
+      "okres_historyczny": "Dynastia Andegawenów (1370–1399)",
+      "informacje": "8. król Polski. król Węgier."
+    },
+    {
+      "imie": "Jadwiga I Andegaweńska",
+      "okres_panowania": "1384–1399",
+      "okres_historyczny": "Dynastia Andegawenów (1370–1399)",
+      "informacje": "9. król Polski. koregent Władysława II Jagiełły."
+    },
+    {
+      "imie": "Władysław II Jagiełło",
+      "okres_panowania": "1386–1434",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "10. król Polski najwyższy książę litewski, wielki książę litewski"
+    },
+    {
+      "imie": "Władysław III Warneńczyk",
+      "okres_panowania": "1434–1444",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "11. król Polski król Węgier, najwyższy książę litewski"
+    },
+    {
+      "imie": "Kazimierz IV Jagiellończyk",
+      "okres_panowania": "1447–1492",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "12. król Polski wielki książę litewski."
+    },
+    {
+      "imie": "Jan I Olbracht",
+      "okres_panowania": "1492–1501",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "13. król Polski książę głogowski"
+    },
+    {
+      "imie": "Aleksander I Jagiellończyk",
+      "okres_panowania": "1501–1506",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "14. król Polski wielki książę litewski"
+    },
+    {
+      "imie": "Zygmunt I Stary",
+      "okres_panowania": "1506–1548",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "15. król Polski wielki książę litewski"
+    },
+    {
+      "imie": "Zygmunt II August",
+      "okres_panowania": "1548–1572",
+      "okres_historyczny": "Dynastia Jagiellonów (1386–1572)",
+      "informacje": "16. król Polski wielki książę litewski, koregent Zygmunta I"
+    },
+    {
+      "imie": "Henryk I",
+      "okres_panowania": "1573–1575",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, król Francji."
+    },
+    {
+      "imie": "Anna Jagiellonka",
+      "okres_panowania": "1575–1586",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski."
+    },
+    {
+      "imie": "Stefan I",
+      "okres_panowania": "1576–1586",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, Książę Siedmiogrodu."
+    },
+    {
+      "imie": "Zygmunt III",
+      "okres_panowania": "1587–1632",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, król Szwecji."
+    },
+    {
+      "imie": "Władysław IV",
+      "okres_panowania": "1632–1648",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, król Szwecji, car Rosji."
+    },
+    {
+      "imie": "Jan II Kazimierz",
+      "okres_panowania": "1648–1668",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, król Szwecji. Abdykował."
+    },
+    {
+      "imie": "Michał I",
+      "okres_panowania": "1669–1673",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król „Piast”"
+    },
+    {
+      "imie": "Jan III",
+      "okres_panowania": "1674–1696",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król „Piast”"
+    },
+    {
+      "imie": "August II Mocny",
+      "okres_panowania": "1697–1704",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, książę Saksonii. Abdykował."
+    },
+    {
+      "imie": "Stanisław I",
+      "okres_panowania": "1704–1709",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król „Piast”. Abdykował."
+    },
+    {
+      "imie": "August II Mocny",
+      "okres_panowania": "1709–1733",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, książę Saksonii."
+    },
+    {
+      "imie": "Stanisław I",
+      "okres_panowania": "1733–1736",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król „Piast”. Książę Lotaryngii i Baru. Abdykował."
+    },
+    {
+      "imie": "August III Sas",
+      "okres_panowania": "1733–1763",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król Polski, książę Saksonii."
+    },
+    {
+      "imie": "Stanisław II August",
+      "okres_panowania": "1764–1795",
+      "okres_historyczny": "Władcy elekcyjni (1573–1795)",
+      "informacje": "Król „Piast”. Abdykował."
+    },
+    {
+      "imie": "Fryderyk August I",
+      "okres_panowania": "1807–1815",
+      "okres_historyczny": "Księstwo Warszawskie (1807–1815)",
+      "informacje": "Elektor Saksonii 1763–1806 jako Fryderyk August III, król Saksonii 1806–1827. W latach 1812–1813 ogłoszony królem Polski przez skonfederowany Sejm Księstwa Warszawskiego, choć bez uznania międzynarodowego."
+    },
+    {
+      "imie": "Aleksander I",
+      "okres_panowania": "1815–1825",
+      "okres_historyczny": "Unia personalna z Rosją",
+      "informacje": "Car Rosji 1801–1825"
+    },
+    {
+      "imie": "Mikołaj I",
+      "okres_panowania": "1825–1831",
+      "okres_historyczny": "Unia personalna z Rosją",
+      "informacje": "Car Rosji w latach 1825–1855; koronowany na króla polskiego 24 maja 1829 w Warszawie, zdetronizowany przez Sejm Królestwa Polskiego 25 stycznia 1831."
+    },
+    {
+      "imie": "Mikołaj I",
+      "okres_panowania": "1831–1855",
+      "okres_historyczny": "Unia realna z Rosją po powstaniu listopadowym",
+      "informacje": "Car Rosji 1825–1855"
+    },
+    {
+      "imie": "Aleksander II",
+      "okres_panowania": "1855–1881",
+      "okres_historyczny": "Unia realna z Rosją po powstaniu listopadowym",
+      "informacje": "Car Rosji 1855–1881"
+    },
+    {
+      "imie": "Aleksander III",
+      "okres_panowania": "1881–1894",
+      "okres_historyczny": "Unia realna z Rosją po powstaniu listopadowym",
+      "informacje": "Car Rosji 1881–1894"
+    },
+    {
+      "imie": "Mikołaj II",
+      "okres_panowania": "1894–1917",
+      "okres_historyczny": "Unia realna z Rosją po powstaniu listopadowym",
+      "informacje": "Car Rosji 1894–1917"
+    },
+    {
+      "imie": "Michał II",
+      "okres_panowania": "1917",
+      "okres_historyczny": "Unia realna z Rosją po powstaniu listopadowym",
+      "informacje": "Domniemany car Rosji. Nie przyjął tytułu cesarskiego, 16 marca 1917 r. abdykował na rzecz Rządu Tymczasowego."
+    },
+    {
+      "imie": "Rada Regencyjna",
+      "okres_panowania": "1917–1918",
+      "okres_historyczny": "Królestwo Polskie (1917–1918) zależne od Cesarstwa Niemieckiego i Austro-Węgier",
+      "informacje": "W skład rady wchodzili: Aleksander Kakowski, Zdzisław Lubomirski, Józef Ostrowski"
+    },
+    {
+      "imie": "Józef Piłsudski",
+      "okres_panowania": "1918",
+      "okres_historyczny": "Królestwo Polskie (1917–1918) zależne od Cesarstwa Niemieckiego i Austro-Węgier",
+      "informacje": "Od 11 do 14 listopada 1918 władzę zwierzchnią sprawował wraz z Radą Regencyjną jako Naczelny Dowódca Wojsk Polskich; następnie od dnia 14 listopada samodzielnie, formalnie jako regent Królestwa Polskiego, aż do wejścia w dniu 29 listopada 1918 w życie dekretu Naczelnego Dowódcy z dnia 22 listopada 1918 r. o najwyższej władzy reprezentacyjnej Republiki Polskiej (Dz. U. z 1918 r. Nr 17, poz. 40 (ISAP))."
+    }
+  ],
+  "meta": {
+    "title": "Władcy Polski - Free Download",
+    "description": "Chronologiczna lista władców Polski – książąt, królów i regentów od Mieszka I do 1918 roku, z okresem panowania i informacjami dodatkowymi. Contains 92 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Władcy Polski | ListBase",
+    "seo_description": "Download Władcy Polski — 92 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 92 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Władcy_Polski"
+    ]
+  }
+}
