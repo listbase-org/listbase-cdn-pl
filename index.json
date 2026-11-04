@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-03T02:30:59.736Z",
-  "total_datasets": 531,
-  "total_records": 1093538,
+  "generated": "2026-11-04T02:15:20.201Z",
+  "total_datasets": 532,
+  "total_records": 1093571,
   "categories": [
     {
       "id": "agriculture",
@@ -43,6 +43,10 @@
     {
       "id": "health",
       "dataset_count": 4
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -3707,6 +3711,31 @@
         "xlsx": {
           "name": "pl-uczelnie-medyczne_PL.xlsx",
           "size": 9359
+        }
+      }
+    },
+    {
+      "id": "pl-hetmani-wielcy-koronni",
+      "name": "Hetmani wielcy koronni",
+      "category": "history",
+      "record_count": 33,
+      "columns": [
+        "rok_objecia",
+        "rok_zlozenia_lub_smierci",
+        "hetman",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Hetman_wielki_koronny",
+      "updated": "2026-11",
+      "size": 8239,
+      "files": {
+        "csv": {
+          "name": "pl-hetmani-wielcy-koronni_PL.csv",
+          "size": 3487
+        },
+        "xlsx": {
+          "name": "pl-hetmani-wielcy-koronni_PL.xlsx",
+          "size": 8842
         }
       }
     },

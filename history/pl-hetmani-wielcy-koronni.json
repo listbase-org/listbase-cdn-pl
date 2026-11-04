@@ -1,0 +1,244 @@
+{
+  "id": "pl-hetmani-wielcy-koronni",
+  "name": "Hetmani wielcy koronni",
+  "title": "Hetmani wielcy koronni",
+  "description": "Lista hetmanów wielkich koronnych – najwyższych dowódców wojsk Korony Królestwa Polskiego – z latami objęcia i złożenia urzędu.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Hetman_wielki_koronny",
+  "source_url": "https://pl.wikipedia.org/wiki/Hetman_wielki_koronny",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rok_objecia",
+      "label": "Rok Objecia",
+      "type": "number"
+    },
+    {
+      "key": "rok_zlozenia_lub_smierci",
+      "label": "Rok Zlozenia Lub Smierci",
+      "type": "number"
+    },
+    {
+      "key": "hetman",
+      "label": "Hetman",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok_objecia": 1503,
+      "rok_zlozenia_lub_smierci": 1515,
+      "hetman": "Mikołaj Kamieniecki",
+      "uwagi": "urząd pełnił do śmierci"
+    },
+    {
+      "rok_objecia": 1515,
+      "rok_zlozenia_lub_smierci": 1526,
+      "hetman": "Mikołaj Firlej",
+      "uwagi": "urząd pełnił do śmierci"
+    },
+    {
+      "rok_objecia": 1526,
+      "rok_zlozenia_lub_smierci": 1527,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1527,
+      "rok_zlozenia_lub_smierci": 1559,
+      "hetman": "Jan Amor Tarnowski",
+      "uwagi": "zrezygnował, zm. 1561 r."
+    },
+    {
+      "rok_objecia": 1561,
+      "rok_zlozenia_lub_smierci": 1569,
+      "hetman": "Mikołaj Sieniawski",
+      "uwagi": "urząd pełnił do śmierci"
+    },
+    {
+      "rok_objecia": 1569,
+      "rok_zlozenia_lub_smierci": 1575,
+      "hetman": "Jerzy Jazłowiecki",
+      "uwagi": "był formalnie hetmanem polnym, powierzono mu tylko „pełnienie obowiązków” hetmana wielkiego bez oficjalnej nominacji, zm. 1575 r."
+    },
+    {
+      "rok_objecia": 1575,
+      "rok_zlozenia_lub_smierci": "1578 lub 1579",
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": "1578 lub 1579",
+      "rok_zlozenia_lub_smierci": 1580,
+      "hetman": "Mikołaj Mielecki",
+      "uwagi": "zrezygnował na skutek nieporozumień z królem Stefanem Batorym i kanclerzem w. kor. Janem Zamoyskim. Zm. 1585 r."
+    },
+    {
+      "rok_objecia": 1580,
+      "rok_zlozenia_lub_smierci": 1581,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1581,
+      "rok_zlozenia_lub_smierci": 1605,
+      "hetman": "Jan Zamoyski, pierwszy hetman wielki kor. mianowany dożywotnio, od tej nominacji stało się to regułą. Jednocześnie od 1578 kanclerz w. kor.",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1605,
+      "rok_zlozenia_lub_smierci": 1618,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1618,
+      "rok_zlozenia_lub_smierci": 1620,
+      "hetman": "Stanisław Żółkiewski",
+      "uwagi": "nominacja 06.02.1618, jednocześnie od 06.03.1618 kanclerz w. kor. Zginął 06.10.1620 pod Cecorą."
+    },
+    {
+      "rok_objecia": 1620,
+      "rok_zlozenia_lub_smierci": 1632,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1632,
+      "rok_zlozenia_lub_smierci": 1646,
+      "hetman": "Stanisław Koniecpolski",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1646,
+      "rok_zlozenia_lub_smierci": 1651,
+      "hetman": "Mikołaj Potocki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1651,
+      "rok_zlozenia_lub_smierci": 1654,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1654,
+      "rok_zlozenia_lub_smierci": 1667,
+      "hetman": "Stanisław Rewera Potocki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1668,
+      "rok_zlozenia_lub_smierci": "1 lutego 1676",
+      "hetman": "Jan Sobieski wybrany na króla 19.05.1674 r. ciągle odkładał koronację, by móc korzystać z pełni władzy marszałka wielkiego kor. i hetmana wielkiego kor., które to urzędy nadal piastował, zaś rządy królewskie sprawował jako monarcha elekt. Tuż przed koronacją, której nie dawało się już dłużej odwlekać (odbyła się 02.02.1676 r.), złożył buławę wielką i marszałkostwo, zaś 11 lub 15.03.1676 mianował następcę. By zrozumieć postępowanie Sobieskiego z odwlekaniem koronacji, na tle ówczesnej sytuacji politycznej, przytoczmy słowa króla Augusta II, że gdyby wiedział był jaki jest zakres władzy monarszej w Rzeczypospolitej, to nigdy by się nie ubiegał o godność królewską, tylko o buławę wielką koronną.",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1676,
+      "rok_zlozenia_lub_smierci": 1682,
+      "hetman": "Dymitr Jerzy Wiśniowiecki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1682,
+      "rok_zlozenia_lub_smierci": 1683,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1683,
+      "rok_zlozenia_lub_smierci": 1702,
+      "hetman": "Stanisław Jan Jabłonowski",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1702,
+      "rok_zlozenia_lub_smierci": 1702,
+      "hetman": "Feliks Kazimierz Potocki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1702,
+      "rok_zlozenia_lub_smierci": 1706,
+      "hetman": "Hieronim Lubomirski",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1706,
+      "rok_zlozenia_lub_smierci": 1726,
+      "hetman": "Adam Mikołaj Sieniawski",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1726,
+      "rok_zlozenia_lub_smierci": 1728,
+      "hetman": "Stanisław Mateusz Rzewuski",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1728,
+      "rok_zlozenia_lub_smierci": 1735,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1735,
+      "rok_zlozenia_lub_smierci": 1751,
+      "hetman": "Józef Potocki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1751,
+      "rok_zlozenia_lub_smierci": 1752,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1752,
+      "rok_zlozenia_lub_smierci": 1771,
+      "hetman": "Jan Klemens Branicki",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1771,
+      "rok_zlozenia_lub_smierci": 1773,
+      "hetman": "vacat",
+      "uwagi": ""
+    },
+    {
+      "rok_objecia": 1773,
+      "rok_zlozenia_lub_smierci": 1773,
+      "hetman": "Wacław Rzewuski",
+      "uwagi": "zrezygnował, od 1778 kasztelan krakowski (pierwszy senator świecki), zmarł 1779 r."
+    },
+    {
+      "rok_objecia": 1774,
+      "rok_zlozenia_lub_smierci": 1793,
+      "hetman": "Franciszek Ksawery Branicki",
+      "uwagi": "od 1775 przywódca opozycji magnackiej przeciwko królowi, przeciwnik Konstytucji 3 Maja, 1792 współtwórca konfederacji targowickiej, zrezygnował z urzędu, gdy okazało się, że Targowica doprowadziła do II rozbioru ziem Rzeczypospolitej (naiwnie był przekonany, że Katarzyna II jest nadal protektorką nienaruszalności granic Rzeczypospolitej), w 1794 (insurekcja kościuszkowska) zaocznie skazany na karę śmierci za zdradę kraju (publicznie na szubienicy powieszono jego portret), przeszedł na służbę rosyjską, zmarł w 1819 r."
+    },
+    {
+      "rok_objecia": 1793,
+      "rok_zlozenia_lub_smierci": 1794,
+      "hetman": "Piotr Ożarowski",
+      "uwagi": "skazany i powieszony 09.05.1794 za zdradę kraju – od 1789 pobierał stałą pensję od ambasadorów rosyjskich, przeciwnik reform, targowiczanin, na sejmie grodzieńskim (1793) członek delegacji zatwierdzającej II rozbiór Rzeczypospolitej i redukcję armii."
+    }
+  ],
+  "meta": {
+    "title": "Hetmani wielcy koronni - Free Download",
+    "description": "Lista hetmanów wielkich koronnych – najwyższych dowódców wojsk Korony Królestwa Polskiego – z latami objęcia i złożenia urzędu. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hetmani wielcy koronni | ListBase",
+    "seo_description": "Download Hetmani wielcy koronni — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Hetman_wielki_koronny"
+    ]
+  }
+}
