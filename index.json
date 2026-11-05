@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-05T02:12:47.137Z",
-  "total_datasets": 538,
-  "total_records": 1094188,
+  "generated": "2026-11-05T02:12:55.381Z",
+  "total_datasets": 539,
+  "total_records": 1094217,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -497,6 +497,34 @@
         "xlsx": {
           "name": "pl-wzrost-gospodarczy-pkb_PL.xlsx",
           "size": 7403
+        }
+      }
+    },
+    {
+      "id": "pl-ministrowie-edukacji",
+      "name": "Ministrowie edukacji narodowej w Polsce (od 1989)",
+      "category": "education",
+      "record_count": 29,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "partia",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania_dni",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_ministrów_właściwych_do_spraw_oświaty_i_wychowania",
+      "updated": "2026-11",
+      "size": 10016,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-edukacji_PL.csv",
+          "size": 3138
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-edukacji_PL.xlsx",
+          "size": 8615
         }
       }
     },

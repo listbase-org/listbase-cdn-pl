@@ -1,0 +1,322 @@
+{
+  "id": "pl-ministrowie-edukacji",
+  "name": "Ministrowie edukacji narodowej w Polsce (od 1989)",
+  "title": "Ministrowie edukacji narodowej w Polsce (od 1989)",
+  "description": "Lista ministrów właściwych do spraw oświaty i wychowania w III Rzeczypospolitej z partią, datami objęcia i złożenia urzędu, długością urzędowania i rządem.",
+  "category": "education",
+  "source": "https://pl.wikipedia.org/wiki/Lista_ministrów_właściwych_do_spraw_oświaty_i_wychowania",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_ministrów_właściwych_do_spraw_oświaty_i_wychowania",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "partia",
+      "label": "Partia",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania_dni",
+      "label": "Dlugosc Urzedowania Dni",
+      "type": "number"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Henryk Samsonowicz",
+      "partia": "",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "12 stycznia 1991",
+      "dlugosc_urzedowania_dni": 487,
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Robert Głębocki",
+      "partia": "",
+      "objecie_urzedu": "12 stycznia 1991",
+      "zlozenie_urzedu": "23 grudnia 1991",
+      "dlugosc_urzedowania_dni": 345,
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Andrzej Stelmachowski",
+      "partia": "",
+      "objecie_urzedu": "23 grudnia 1991",
+      "zlozenie_urzedu": "11 lipca 1992",
+      "dlugosc_urzedowania_dni": 201,
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Zdobysław Flisowski",
+      "partia": "",
+      "objecie_urzedu": "11 lipca 1992",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania_dni": 472,
+      "rzad": "Rząd Hanny Suchockiej"
+    },
+    {
+      "lp": "5.",
+      "imie_i_nazwisko": "Aleksander Łuczak",
+      "partia": "PSL",
+      "objecie_urzedu": "26 października 1993",
+      "zlozenie_urzedu": "6 marca 1995",
+      "dlugosc_urzedowania_dni": 496,
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Ryszard Czarny",
+      "partia": "SdRP",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "7 lutego 1996",
+      "dlugosc_urzedowania_dni": 337,
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Jerzy Wiatr",
+      "partia": "SdRP",
+      "objecie_urzedu": "7 lutego 1996",
+      "zlozenie_urzedu": "31 października 1997",
+      "dlugosc_urzedowania_dni": 266,
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Mirosław Handke",
+      "partia": "AWS",
+      "objecie_urzedu": "31 października 1997",
+      "zlozenie_urzedu": "20 lipca 2000",
+      "dlugosc_urzedowania_dni": 993,
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Edmund Wittbrodt",
+      "partia": "AWS",
+      "objecie_urzedu": "20 lipca 2000",
+      "zlozenie_urzedu": "19 października 2001",
+      "dlugosc_urzedowania_dni": "",
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Krystyna Łybacka",
+      "partia": "SLD",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "2 maja 2004",
+      "dlugosc_urzedowania_dni": 926,
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Mirosław Sawicki",
+      "partia": "",
+      "objecie_urzedu": "2 maja 2004",
+      "zlozenie_urzedu": "1 września 2005",
+      "dlugosc_urzedowania_dni": 487,
+      "rzad": "Pierwszy rząd Marka Belki"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Mirosław Sawicki",
+      "partia": "",
+      "objecie_urzedu": "2 maja 2004",
+      "zlozenie_urzedu": "1 września 2005",
+      "dlugosc_urzedowania_dni": 487,
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "(11.)",
+      "imie_i_nazwisko": "Mirosław Sawicki",
+      "partia": "",
+      "objecie_urzedu": "1 września 2005",
+      "zlozenie_urzedu": "31 października 2005",
+      "dlugosc_urzedowania_dni": 60,
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Michał Seweryński",
+      "partia": "PiS",
+      "objecie_urzedu": "31 października 2005",
+      "zlozenie_urzedu": "5 maja 2006",
+      "dlugosc_urzedowania_dni": 187,
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Roman Giertych",
+      "partia": "LPR",
+      "objecie_urzedu": "5 maja 2006",
+      "zlozenie_urzedu": "13 sierpnia 2007",
+      "dlugosc_urzedowania_dni": 465,
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Roman Giertych",
+      "partia": "LPR",
+      "objecie_urzedu": "5 maja 2006",
+      "zlozenie_urzedu": "13 sierpnia 2007",
+      "dlugosc_urzedowania_dni": 465,
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Ryszard Legutko",
+      "partia": "",
+      "objecie_urzedu": "13 sierpnia 2007",
+      "zlozenie_urzedu": "16 listopada 2007",
+      "dlugosc_urzedowania_dni": 95,
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Katarzyna Hall",
+      "partia": "",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "18 listopada 2011",
+      "dlugosc_urzedowania_dni": 1463,
+      "rzad": "Pierwszy rząd Donalda Tuska"
+    },
+    {
+      "lp": "16.",
+      "imie_i_nazwisko": "Krystyna Szumilas",
+      "partia": "PO",
+      "objecie_urzedu": "18 listopada 2011",
+      "zlozenie_urzedu": "27 listopada 2013",
+      "dlugosc_urzedowania_dni": 740,
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Joanna Kluzik-Rostkowska",
+      "partia": "PO",
+      "objecie_urzedu": "27 listopada 2013",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania_dni": 719,
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "17.",
+      "imie_i_nazwisko": "Joanna Kluzik-Rostkowska",
+      "partia": "PO",
+      "objecie_urzedu": "27 listopada 2013",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania_dni": 719,
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Anna Zalewska",
+      "partia": "PiS",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "4 czerwca 2019",
+      "dlugosc_urzedowania_dni": 1296,
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "18.",
+      "imie_i_nazwisko": "Anna Zalewska",
+      "partia": "PiS",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "4 czerwca 2019",
+      "dlugosc_urzedowania_dni": 1296,
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Dariusz Piontkowski",
+      "partia": "PiS",
+      "objecie_urzedu": "4 czerwca 2019",
+      "zlozenie_urzedu": "19 października 2020",
+      "dlugosc_urzedowania_dni": 503,
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "19.",
+      "imie_i_nazwisko": "Dariusz Piontkowski",
+      "partia": "PiS",
+      "objecie_urzedu": "4 czerwca 2019",
+      "zlozenie_urzedu": "19 października 2020",
+      "dlugosc_urzedowania_dni": 503,
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "20.",
+      "imie_i_nazwisko": "Przemysław Czarnek",
+      "partia": "PiS",
+      "objecie_urzedu": "19 października 2020",
+      "zlozenie_urzedu": "1 stycznia 2021",
+      "dlugosc_urzedowania_dni": 74,
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "(20.)",
+      "imie_i_nazwisko": "Przemysław Czarnek",
+      "partia": "PiS",
+      "objecie_urzedu": "1 stycznia 2021",
+      "zlozenie_urzedu": "27 listopada 2023",
+      "dlugosc_urzedowania_dni": 1060,
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "21.",
+      "imie_i_nazwisko": "Krzysztof Szczucki",
+      "partia": "PiS",
+      "objecie_urzedu": "27 listopada 2023",
+      "zlozenie_urzedu": "13 grudnia 2023",
+      "dlugosc_urzedowania_dni": 16,
+      "rzad": "Trzeci rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "22.",
+      "imie_i_nazwisko": "Barbara Nowacka",
+      "partia": "iPL / KO",
+      "objecie_urzedu": "13 grudnia 2023",
+      "zlozenie_urzedu": "nadal",
+      "dlugosc_urzedowania_dni": 1058,
+      "rzad": "Trzeci rząd Donalda Tuska"
+    }
+  ],
+  "meta": {
+    "title": "Ministrowie edukacji narodowej w Polsce (od 1989) - Free Download",
+    "description": "Lista ministrów właściwych do spraw oświaty i wychowania w III Rzeczypospolitej z partią, datami objęcia i złożenia urzędu, długością urzędowania i rządem. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministrowie edukacji narodowej w Polsce (od 1989) | ListBase",
+    "seo_description": "Download Ministrowie edukacji narodowej w Polsce (od 1989) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_ministrów_właściwych_do_spraw_oświaty_i_wychowania"
+    ]
+  }
+}
