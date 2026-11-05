@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-05T02:13:04.717Z",
-  "total_datasets": 540,
-  "total_records": 1094245,
+  "generated": "2026-11-05T02:13:13.900Z",
+  "total_datasets": 541,
+  "total_records": 1094252,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12942,6 +12942,31 @@
         "xlsx": {
           "name": "pl-ruch-naturalny-ludnosci_PL.xlsx",
           "size": 12212
+        }
+      }
+    },
+    {
+      "id": "pl-rzecznicy-praw-dziecka",
+      "name": "Rzecznicy Praw Dziecka",
+      "category": "society",
+      "record_count": 7,
+      "columns": [
+        "imie_i_nazwisko",
+        "od",
+        "do",
+        "nominacja"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Dziecka",
+      "updated": "2026-11",
+      "size": 2723,
+      "files": {
+        "csv": {
+          "name": "pl-rzecznicy-praw-dziecka_PL.csv",
+          "size": 629
+        },
+        "xlsx": {
+          "name": "pl-rzecznicy-praw-dziecka_PL.xlsx",
+          "size": 7059
         }
       }
     },

@@ -1,0 +1,88 @@
+{
+  "id": "pl-rzecznicy-praw-dziecka",
+  "name": "Rzecznicy Praw Dziecka",
+  "title": "Rzecznicy Praw Dziecka",
+  "description": "Lista osób pełniących urząd Rzecznika Praw Dziecka w Polsce od 2000 roku z okresem pełnienia funkcji i kadencją Sejmu, który dokonał wyboru.",
+  "category": "society",
+  "source": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Dziecka",
+  "source_url": "https://pl.wikipedia.org/wiki/Rzecznik_Praw_Dziecka",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "nominacja",
+      "label": "Nominacja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imie_i_nazwisko": "Marek Piechowiak",
+      "od": "30 czerwca 2000 (dts)",
+      "do": "12 października 2000 (dts)",
+      "nominacja": "Sejm III kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Paweł Jaros",
+      "od": "16 lutego 2001 (dts)",
+      "do": "7 kwietnia 2006 (dts)",
+      "nominacja": "Sejm III kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Ewa Sowińska",
+      "od": "7 kwietnia 2006 (dts)",
+      "do": "30 czerwca 2008 (dts)",
+      "nominacja": "Sejm V kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Marek Michalak",
+      "od": "25 lipca 2008 (dts)",
+      "do": "27 sierpnia 2013 (dts)",
+      "nominacja": "Sejm VI kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Marek Michalak",
+      "od": "27 sierpnia 2013 (dts)",
+      "do": "14 grudnia 2018 (dts)",
+      "nominacja": "Sejm VII kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Pawlak",
+      "od": "14 grudnia 2018 (dts)",
+      "do": "20 grudnia 2023 (dts)",
+      "nominacja": "Sejm VIII kadencji"
+    },
+    {
+      "imie_i_nazwisko": "Monika Horna-Cieślak",
+      "od": "20 grudnia 2023 (dts)",
+      "do": "nadal",
+      "nominacja": "Sejm X kadencji"
+    }
+  ],
+  "meta": {
+    "title": "Rzecznicy Praw Dziecka - Free Download",
+    "description": "Lista osób pełniących urząd Rzecznika Praw Dziecka w Polsce od 2000 roku z okresem pełnienia funkcji i kadencją Sejmu, który dokonał wyboru. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rzecznicy Praw Dziecka | ListBase",
+    "seo_description": "Download Rzecznicy Praw Dziecka — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Rzecznik_Praw_Dziecka"
+    ]
+  }
+}
