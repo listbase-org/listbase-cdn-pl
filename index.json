@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-04T02:15:48.915Z",
-  "total_datasets": 536,
-  "total_records": 1094130,
+  "generated": "2026-11-05T02:12:37.928Z",
+  "total_datasets": 537,
+  "total_records": 1094158,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -13916,6 +13916,32 @@
         "xlsx": {
           "name": "pl-hotele_PL.xlsx",
           "size": 181312
+        }
+      }
+    },
+    {
+      "id": "pl-korona-gor-polski",
+      "name": "Korona Gór Polski – lista szczytów",
+      "category": "tourism",
+      "record_count": 28,
+      "columns": [
+        "lp",
+        "szczyt",
+        "pasmo_gorskie",
+        "wysokosc_m_npm",
+        "deniwelacja"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Korona_Gór_Polski",
+      "updated": "2026-11",
+      "size": 6385,
+      "files": {
+        "csv": {
+          "name": "pl-korona-gor-polski_PL.csv",
+          "size": 1670
+        },
+        "xlsx": {
+          "name": "pl-korona-gor-polski_PL.xlsx",
+          "size": 8112
         }
       }
     },

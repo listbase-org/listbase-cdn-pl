@@ -1,0 +1,247 @@
+{
+  "id": "pl-korona-gor-polski",
+  "name": "Korona Gór Polski – lista szczytów",
+  "title": "Korona Gór Polski – lista szczytów",
+  "description": "Lista 28 szczytów Korony Gór Polski – najwyższych wzniesień poszczególnych pasm górskich w Polsce – z pasmem, wysokością i deniwelacją.",
+  "category": "tourism",
+  "source": "https://pl.wikipedia.org/wiki/Korona_Gór_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Korona_Gór_Polski",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "szczyt",
+      "label": "Szczyt",
+      "type": "string"
+    },
+    {
+      "key": "pasmo_gorskie",
+      "label": "Pasmo Gorskie",
+      "type": "string"
+    },
+    {
+      "key": "wysokosc_m_npm",
+      "label": "Wysokosc M Npm",
+      "type": "number"
+    },
+    {
+      "key": "deniwelacja",
+      "label": "Deniwelacja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": 1,
+      "szczyt": "Rysy (wierzchołek graniczny)",
+      "pasmo_gorskie": "Tatry",
+      "wysokosc_m_npm": 2499,
+      "deniwelacja": "1100 m"
+    },
+    {
+      "lp": 2,
+      "szczyt": "Babia Góra (wierzchołek graniczny)",
+      "pasmo_gorskie": "Beskid Żywiecki",
+      "wysokosc_m_npm": 1725,
+      "deniwelacja": "700 m"
+    },
+    {
+      "lp": 3,
+      "szczyt": "Śnieżka (wierzchołek graniczny)",
+      "pasmo_gorskie": "Karkonosze",
+      "wysokosc_m_npm": 1603,
+      "deniwelacja": "900 m"
+    },
+    {
+      "lp": 4,
+      "szczyt": "Śnieżnik (wierzchołek graniczny)",
+      "pasmo_gorskie": "Masyw Śnieżnika",
+      "wysokosc_m_npm": 1423,
+      "deniwelacja": "200 m"
+    },
+    {
+      "lp": 5,
+      "szczyt": "Tarnica",
+      "pasmo_gorskie": "Bieszczady Zachodnie",
+      "wysokosc_m_npm": 1346,
+      "deniwelacja": "640 m"
+    },
+    {
+      "lp": 6,
+      "szczyt": "Turbacz",
+      "pasmo_gorskie": "Gorce",
+      "wysokosc_m_npm": 1310,
+      "deniwelacja": "510 m"
+    },
+    {
+      "lp": 7,
+      "szczyt": "Radziejowa",
+      "pasmo_gorskie": "Beskid Sądecki",
+      "wysokosc_m_npm": 1266,
+      "deniwelacja": "116 m"
+    },
+    {
+      "lp": 8,
+      "szczyt": "Skrzyczne",
+      "pasmo_gorskie": "Beskid Śląski",
+      "wysokosc_m_npm": 1257,
+      "deniwelacja": "757 m"
+    },
+    {
+      "lp": 9,
+      "szczyt": "Mogielica",
+      "pasmo_gorskie": "Beskid Wyspowy",
+      "wysokosc_m_npm": 1171,
+      "deniwelacja": "471 m"
+    },
+    {
+      "lp": 10,
+      "szczyt": "Wysoka Kopa",
+      "pasmo_gorskie": "Góry Izerskie",
+      "wysokosc_m_npm": 1126,
+      "deniwelacja": "359 m"
+    },
+    {
+      "lp": 11,
+      "szczyt": "Rudawiec (wierzchołek graniczny)",
+      "pasmo_gorskie": "Góry Bialskie",
+      "wysokosc_m_npm": 1106,
+      "deniwelacja": "512 m"
+    },
+    {
+      "lp": 12,
+      "szczyt": "Orlica (wierzchołek graniczny)",
+      "pasmo_gorskie": "Góry Orlickie",
+      "wysokosc_m_npm": 1084,
+      "deniwelacja": "234 m"
+    },
+    {
+      "lp": 13,
+      "szczyt": "Wysoka (Wysokie Skałki) (wierzchołek graniczny)",
+      "pasmo_gorskie": "Pieniny",
+      "wysokosc_m_npm": 1050,
+      "deniwelacja": "490 m"
+    },
+    {
+      "lp": 14,
+      "szczyt": "Wielka Sowa",
+      "pasmo_gorskie": "Góry Sowie",
+      "wysokosc_m_npm": 1015,
+      "deniwelacja": "260 m"
+    },
+    {
+      "lp": 15,
+      "szczyt": "Lackowa (wierzchołek graniczny)",
+      "pasmo_gorskie": "Beskid Niski",
+      "wysokosc_m_npm": 997,
+      "deniwelacja": "417 m"
+    },
+    {
+      "lp": 16,
+      "szczyt": "Kowadło (wierzchołek graniczny)",
+      "pasmo_gorskie": "Góry Złote",
+      "wysokosc_m_npm": 989,
+      "deniwelacja": "389 m"
+    },
+    {
+      "lp": 17,
+      "szczyt": "Jagodna",
+      "pasmo_gorskie": "Góry Bystrzyckie",
+      "wysokosc_m_npm": 977,
+      "deniwelacja": "210 m"
+    },
+    {
+      "lp": 18,
+      "szczyt": "Skalnik",
+      "pasmo_gorskie": "Rudawy Janowickie",
+      "wysokosc_m_npm": 945,
+      "deniwelacja": "435 m"
+    },
+    {
+      "lp": 19,
+      "szczyt": "Waligóra",
+      "pasmo_gorskie": "Góry Kamienne",
+      "wysokosc_m_npm": 936,
+      "deniwelacja": "156 m"
+    },
+    {
+      "lp": 20,
+      "szczyt": "Czupel",
+      "pasmo_gorskie": "Beskid Mały",
+      "wysokosc_m_npm": 931,
+      "deniwelacja": "583 m"
+    },
+    {
+      "lp": 21,
+      "szczyt": "Szczeliniec Wielki",
+      "pasmo_gorskie": "Góry Stołowe",
+      "wysokosc_m_npm": 919,
+      "deniwelacja": "169 m"
+    },
+    {
+      "lp": 22,
+      "szczyt": "Lubomir",
+      "pasmo_gorskie": "Beskid Makowski",
+      "wysokosc_m_npm": 904,
+      "deniwelacja": "264 m"
+    },
+    {
+      "lp": 23,
+      "szczyt": "Biskupia Kopa (wierzchołek graniczny)",
+      "pasmo_gorskie": "Góry Opawskie",
+      "wysokosc_m_npm": 889,
+      "deniwelacja": "419 m"
+    },
+    {
+      "lp": 24,
+      "szczyt": "Chełmiec",
+      "pasmo_gorskie": "Góry Wałbrzyskie",
+      "wysokosc_m_npm": 850,
+      "deniwelacja": "331 m"
+    },
+    {
+      "lp": 25,
+      "szczyt": "Kłodzka Góra",
+      "pasmo_gorskie": "Góry Bardzkie",
+      "wysokosc_m_npm": 765,
+      "deniwelacja": "165 m"
+    },
+    {
+      "lp": 26,
+      "szczyt": "Skopiec",
+      "pasmo_gorskie": "Góry Kaczawskie",
+      "wysokosc_m_npm": 724,
+      "deniwelacja": "214 m"
+    },
+    {
+      "lp": 27,
+      "szczyt": "Ślęża",
+      "pasmo_gorskie": "Masyw Ślęży",
+      "wysokosc_m_npm": 718,
+      "deniwelacja": "334 m"
+    },
+    {
+      "lp": 28,
+      "szczyt": "Łysica",
+      "pasmo_gorskie": "Góry Świętokrzyskie",
+      "wysokosc_m_npm": 614,
+      "deniwelacja": "306 m"
+    }
+  ],
+  "meta": {
+    "title": "Korona Gór Polski – lista szczytów - Free Download",
+    "description": "Lista 28 szczytów Korony Gór Polski – najwyższych wzniesień poszczególnych pasm górskich w Polsce – z pasmem, wysokością i deniwelacją. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Korona Gór Polski – lista szczytów | ListBase",
+    "seo_description": "Download Korona Gór Polski – lista szczytów — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Korona_Gór_Polski"
+    ]
+  }
+}
