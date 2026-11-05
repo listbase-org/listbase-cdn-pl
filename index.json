@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-05T02:12:37.928Z",
-  "total_datasets": 537,
-  "total_records": 1094158,
+  "generated": "2026-11-05T02:12:47.137Z",
+  "total_datasets": 538,
+  "total_records": 1094188,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -204,6 +204,31 @@
         "xlsx": {
           "name": "pl-produkty-chnp-chog_PL.xlsx",
           "size": 8240
+        }
+      }
+    },
+    {
+      "id": "pl-laureaci-nagrody-nike",
+      "name": "Laureaci Nagrody Literackiej „Nike”",
+      "category": "culture",
+      "record_count": 30,
+      "columns": [
+        "rok",
+        "laureat",
+        "rodzaj",
+        "tytul"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Nagroda_Literacka_„Nike”",
+      "updated": "2026-11",
+      "size": 5711,
+      "files": {
+        "csv": {
+          "name": "pl-laureaci-nagrody-nike_PL.csv",
+          "size": 1921
+        },
+        "xlsx": {
+          "name": "pl-laureaci-nagrody-nike_PL.xlsx",
+          "size": 8250
         }
       }
     },

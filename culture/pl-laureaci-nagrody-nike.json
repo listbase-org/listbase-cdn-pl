@@ -1,0 +1,226 @@
+{
+  "id": "pl-laureaci-nagrody-nike",
+  "name": "Laureaci Nagrody Literackiej „Nike”",
+  "title": "Laureaci Nagrody Literackiej „Nike”",
+  "description": "Lista laureatów Nagrody Literackiej „Nike” od 1997 roku z autorem, rodzajem i tytułem nagrodzonej książki.",
+  "category": "culture",
+  "source": "https://pl.wikipedia.org/wiki/Nagroda_Literacka_„Nike”",
+  "source_url": "https://pl.wikipedia.org/wiki/Nagroda_Literacka_„Nike”",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "laureat",
+      "label": "Laureat",
+      "type": "string"
+    },
+    {
+      "key": "rodzaj",
+      "label": "Rodzaj",
+      "type": "string"
+    },
+    {
+      "key": "tytul",
+      "label": "Tytul",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 2026,
+      "laureat": "Szczepan Twardoch",
+      "rodzaj": "powieść",
+      "tytul": "Null"
+    },
+    {
+      "rok": 2025,
+      "laureat": "Eliza Kącka",
+      "rodzaj": "esej",
+      "tytul": "Wczoraj byłaś zła na zielono"
+    },
+    {
+      "rok": 2024,
+      "laureat": "Urszula Kozioł",
+      "rodzaj": "tom poetycki",
+      "tytul": "Raptularz"
+    },
+    {
+      "rok": 2023,
+      "laureat": "Zyta Rudzka",
+      "rodzaj": "powieść",
+      "tytul": "Ten się śmieje, kto ma zęby"
+    },
+    {
+      "rok": 2022,
+      "laureat": "Jerzy Jarniewicz",
+      "rodzaj": "tom poetycki",
+      "tytul": "Mondo cane"
+    },
+    {
+      "rok": 2021,
+      "laureat": "Zbigniew Rokita",
+      "rodzaj": "reportaż",
+      "tytul": "Kajś"
+    },
+    {
+      "rok": 2020,
+      "laureat": "Radek Rak",
+      "rodzaj": "powieść",
+      "tytul": "Baśń o wężowym sercu albo wtóre słowo o Jakóbie Szeli"
+    },
+    {
+      "rok": 2019,
+      "laureat": "Mariusz Szczygieł",
+      "rodzaj": "zbiór reportaży",
+      "tytul": "Nie ma"
+    },
+    {
+      "rok": 2018,
+      "laureat": "Marcin Wicha",
+      "rodzaj": "zbiór esejów",
+      "tytul": "Rzeczy, których nie wyrzuciłem"
+    },
+    {
+      "rok": 2017,
+      "laureat": "Cezary Łazarewicz",
+      "rodzaj": "reportaż historyczny",
+      "tytul": "Żeby nie było śladów"
+    },
+    {
+      "rok": 2016,
+      "laureat": "Bronka Nowicka",
+      "rodzaj": "tom poetycki",
+      "tytul": "Nakarmić kamień"
+    },
+    {
+      "rok": 2015,
+      "laureat": "Olga Tokarczuk",
+      "rodzaj": "powieść",
+      "tytul": "Księgi Jakubowe"
+    },
+    {
+      "rok": 2014,
+      "laureat": "Karol Modzelewski",
+      "rodzaj": "autobiografię",
+      "tytul": "Zajeździmy kobyłę historii. Wyznania poobijanego jeźdźca"
+    },
+    {
+      "rok": 2013,
+      "laureat": "Joanna Bator",
+      "rodzaj": "powieść",
+      "tytul": "Ciemno, prawie noc"
+    },
+    {
+      "rok": 2012,
+      "laureat": "Marek Bieńczyk",
+      "rodzaj": "zbiór esejów",
+      "tytul": "Książka twarzy"
+    },
+    {
+      "rok": 2011,
+      "laureat": "Marian Pilot",
+      "rodzaj": "powieść",
+      "tytul": "Pióropusz"
+    },
+    {
+      "rok": 2010,
+      "laureat": "Tadeusz Słobodzianek",
+      "rodzaj": "dramat",
+      "tytul": "Nasza klasa"
+    },
+    {
+      "rok": 2009,
+      "laureat": "Eugeniusz Tkaczyszyn-Dycki",
+      "rodzaj": "tom poetycki",
+      "tytul": "Piosenka o zależnościach i uzależnieniach"
+    },
+    {
+      "rok": 2008,
+      "laureat": "Olga Tokarczuk",
+      "rodzaj": "powieść",
+      "tytul": "Bieguni"
+    },
+    {
+      "rok": 2007,
+      "laureat": "Wiesław Myśliwski",
+      "rodzaj": "powieść",
+      "tytul": "Traktat o łuskaniu fasoli"
+    },
+    {
+      "rok": 2006,
+      "laureat": "Dorota Masłowska",
+      "rodzaj": "powieść",
+      "tytul": "Paw królowej"
+    },
+    {
+      "rok": 2005,
+      "laureat": "Andrzej Stasiuk",
+      "rodzaj": "książkę",
+      "tytul": "Jadąc do Babadag"
+    },
+    {
+      "rok": 2004,
+      "laureat": "Wojciech Kuczok",
+      "rodzaj": "powieść",
+      "tytul": "Gnój"
+    },
+    {
+      "rok": 2003,
+      "laureat": "Jarosław Marek Rymkiewicz",
+      "rodzaj": "tom poetycki",
+      "tytul": "Zachód słońca w Milanówku"
+    },
+    {
+      "rok": 2002,
+      "laureat": "Joanna Olczak-Ronikier",
+      "rodzaj": "książkę",
+      "tytul": "W ogrodzie pamięci"
+    },
+    {
+      "rok": 2001,
+      "laureat": "Jerzy Pilch",
+      "rodzaj": "powieść",
+      "tytul": "Pod Mocnym Aniołem"
+    },
+    {
+      "rok": 2000,
+      "laureat": "Tadeusz Różewicz",
+      "rodzaj": "tom poetycki",
+      "tytul": "Matka odchodzi"
+    },
+    {
+      "rok": 1999,
+      "laureat": "Stanisław Barańczak",
+      "rodzaj": "tom poetycki",
+      "tytul": "Chirurgiczna precyzja"
+    },
+    {
+      "rok": 1998,
+      "laureat": "Czesław Miłosz",
+      "rodzaj": "zbiór",
+      "tytul": "Piesek przydrożny"
+    },
+    {
+      "rok": 1997,
+      "laureat": "Wiesław Myśliwski",
+      "rodzaj": "powieść",
+      "tytul": "Widnokrąg"
+    }
+  ],
+  "meta": {
+    "title": "Laureaci Nagrody Literackiej „Nike” - Free Download",
+    "description": "Lista laureatów Nagrody Literackiej „Nike” od 1997 roku z autorem, rodzajem i tytułem nagrodzonej książki. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Laureaci Nagrody Literackiej „Nike” | ListBase",
+    "seo_description": "Download Laureaci Nagrody Literackiej „Nike” — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Nagroda_Literacka_„Nike”"
+    ]
+  }
+}
