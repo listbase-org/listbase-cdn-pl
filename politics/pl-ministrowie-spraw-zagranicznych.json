@@ -1,0 +1,313 @@
+{
+  "id": "pl-ministrowie-spraw-zagranicznych",
+  "name": "Ministrowie spraw zagranicznych Polski (od 1989)",
+  "title": "Ministrowie spraw zagranicznych Polski (od 1989)",
+  "description": "Lista ministrów spraw zagranicznych III Rzeczypospolitej z partią, datami objęcia i złożenia urzędu, długością urzędowania i rządem.",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Ministrowie_spraw_zagranicznych_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Ministrowie_spraw_zagranicznych_Polski",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "string"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "partia",
+      "label": "Partia",
+      "type": "string"
+    },
+    {
+      "key": "objecie_urzedu",
+      "label": "Objecie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "zlozenie_urzedu",
+      "label": "Zlozenie Urzedu",
+      "type": "string"
+    },
+    {
+      "key": "dlugosc_urzedowania_dni",
+      "label": "Dlugosc Urzedowania Dni",
+      "type": "number"
+    },
+    {
+      "key": "rzad",
+      "label": "Rzad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Krzysztof Skubiszewski",
+      "partia": "",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania_dni": 1505,
+      "rzad": "Rząd Tadeusza Mazowieckiego"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Krzysztof Skubiszewski",
+      "partia": "",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania_dni": 1505,
+      "rzad": "Rząd Jana Krzysztofa Bieleckiego"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Krzysztof Skubiszewski",
+      "partia": "",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania_dni": 1505,
+      "rzad": "Rząd Jana Olszewskiego"
+    },
+    {
+      "lp": "1.",
+      "imie_i_nazwisko": "Krzysztof Skubiszewski",
+      "partia": "",
+      "objecie_urzedu": "12 września 1989",
+      "zlozenie_urzedu": "26 października 1993",
+      "dlugosc_urzedowania_dni": 1505,
+      "rzad": "Rząd Hanny Suchockiej"
+    },
+    {
+      "lp": "2.",
+      "imie_i_nazwisko": "Andrzej Olechowski",
+      "partia": "BBWR",
+      "objecie_urzedu": "26 października 1993",
+      "zlozenie_urzedu": "6 marca 1995",
+      "dlugosc_urzedowania_dni": 496,
+      "rzad": "Rząd Waldemara Pawlaka"
+    },
+    {
+      "lp": "3.",
+      "imie_i_nazwisko": "Władysław Bartoszewski",
+      "partia": "",
+      "objecie_urzedu": "7 marca 1995",
+      "zlozenie_urzedu": "22 grudnia 1995",
+      "dlugosc_urzedowania_dni": 290,
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Dariusz Rosati",
+      "partia": "",
+      "objecie_urzedu": "29 grudnia 1995",
+      "zlozenie_urzedu": "31 października 1997",
+      "dlugosc_urzedowania_dni": 672,
+      "rzad": "Rząd Józefa Oleksego"
+    },
+    {
+      "lp": "4.",
+      "imie_i_nazwisko": "Dariusz Rosati",
+      "partia": "",
+      "objecie_urzedu": "29 grudnia 1995",
+      "zlozenie_urzedu": "31 października 1997",
+      "dlugosc_urzedowania_dni": 672,
+      "rzad": "Rząd Włodzimierza Cimoszewicza"
+    },
+    {
+      "lp": "(5.)",
+      "imie_i_nazwisko": "Bronisław Geremek",
+      "partia": "UW) (1932–2008",
+      "objecie_urzedu": "31 października 1997",
+      "zlozenie_urzedu": "30 czerwca 2000",
+      "dlugosc_urzedowania_dni": 973,
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "(3.)",
+      "imie_i_nazwisko": "Władysław Bartoszewski",
+      "partia": "",
+      "objecie_urzedu": "30 czerwca 2000",
+      "zlozenie_urzedu": "19 października 2001",
+      "dlugosc_urzedowania_dni": 476,
+      "rzad": "Rząd Jerzego Buzka"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Włodzimierz Cimoszewicz",
+      "partia": "SLD",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "5 stycznia 2005",
+      "dlugosc_urzedowania_dni": 1174,
+      "rzad": "Rząd Leszka Millera"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Włodzimierz Cimoszewicz",
+      "partia": "SLD",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "5 stycznia 2005",
+      "dlugosc_urzedowania_dni": 1174,
+      "rzad": "Pierwszy rząd Marka Belki"
+    },
+    {
+      "lp": "6.",
+      "imie_i_nazwisko": "Włodzimierz Cimoszewicz",
+      "partia": "SLD",
+      "objecie_urzedu": "19 października 2001",
+      "zlozenie_urzedu": "5 stycznia 2005",
+      "dlugosc_urzedowania_dni": 1174,
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "7.",
+      "imie_i_nazwisko": "Adam Rotfeld",
+      "partia": "",
+      "objecie_urzedu": "5 stycznia 2005",
+      "zlozenie_urzedu": "31 października 2005",
+      "dlugosc_urzedowania_dni": 299,
+      "rzad": "Drugi rząd Marka Belki"
+    },
+    {
+      "lp": "8.",
+      "imie_i_nazwisko": "Stefan Meller",
+      "partia": "",
+      "objecie_urzedu": "31 października 2005",
+      "zlozenie_urzedu": "9 maja 2006",
+      "dlugosc_urzedowania_dni": 190,
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Anna Fotyga",
+      "partia": "PiS",
+      "objecie_urzedu": "9 maja 2006",
+      "zlozenie_urzedu": "7 września 2007",
+      "dlugosc_urzedowania_dni": 556,
+      "rzad": "Rząd Kazimierza Marcinkiewicza"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Anna Fotyga",
+      "partia": "PiS",
+      "objecie_urzedu": "9 maja 2006",
+      "zlozenie_urzedu": "7 września 2007",
+      "dlugosc_urzedowania_dni": 556,
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "9.",
+      "imie_i_nazwisko": "Anna Fotyga",
+      "partia": "PiS",
+      "objecie_urzedu": "7 września 2007",
+      "zlozenie_urzedu": "16 listopada 2007",
+      "dlugosc_urzedowania_dni": 556,
+      "rzad": "Rząd Jarosława Kaczyńskiego"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Radosław Sikorski",
+      "partia": "PO",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "22 września 2014",
+      "dlugosc_urzedowania_dni": 2502,
+      "rzad": "Pierwszy rząd Donalda Tuska"
+    },
+    {
+      "lp": "10.",
+      "imie_i_nazwisko": "Radosław Sikorski",
+      "partia": "PO",
+      "objecie_urzedu": "16 listopada 2007",
+      "zlozenie_urzedu": "22 września 2014",
+      "dlugosc_urzedowania_dni": 2502,
+      "rzad": "Drugi rząd Donalda Tuska"
+    },
+    {
+      "lp": "11.",
+      "imie_i_nazwisko": "Grzegorz Schetyna",
+      "partia": "PO",
+      "objecie_urzedu": "22 września 2014",
+      "zlozenie_urzedu": "16 listopada 2015",
+      "dlugosc_urzedowania_dni": 420,
+      "rzad": "Rząd Ewy Kopacz"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Witold Waszczykowski",
+      "partia": "PiS",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "9 stycznia 2018",
+      "dlugosc_urzedowania_dni": 785,
+      "rzad": "Rząd Beaty Szydło"
+    },
+    {
+      "lp": "12.",
+      "imie_i_nazwisko": "Witold Waszczykowski",
+      "partia": "PiS",
+      "objecie_urzedu": "16 listopada 2015",
+      "zlozenie_urzedu": "9 stycznia 2018",
+      "dlugosc_urzedowania_dni": 785,
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Jacek Czaputowicz",
+      "partia": "",
+      "objecie_urzedu": "9 stycznia 2018",
+      "zlozenie_urzedu": "26 sierpnia 2020",
+      "dlugosc_urzedowania_dni": 960,
+      "rzad": "Pierwszy rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "13.",
+      "imie_i_nazwisko": "Jacek Czaputowicz",
+      "partia": "",
+      "objecie_urzedu": "9 stycznia 2018",
+      "zlozenie_urzedu": "26 sierpnia 2020",
+      "dlugosc_urzedowania_dni": 960,
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "14.",
+      "imie_i_nazwisko": "Zbigniew Rau",
+      "partia": "PiS",
+      "objecie_urzedu": "26 sierpnia 2020",
+      "zlozenie_urzedu": "27 listopada 2023",
+      "dlugosc_urzedowania_dni": 1188,
+      "rzad": "Drugi rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "15.",
+      "imie_i_nazwisko": "Szymon Szynkowski vel Sęk",
+      "partia": "PiS",
+      "objecie_urzedu": "27 listopada 2023",
+      "zlozenie_urzedu": "13 grudnia 2023",
+      "dlugosc_urzedowania_dni": 16,
+      "rzad": "Trzeci rząd Mateusza Morawieckiego"
+    },
+    {
+      "lp": "(10.)",
+      "imie_i_nazwisko": "Radosław Sikorski",
+      "partia": "PO/ KO",
+      "objecie_urzedu": "13 grudnia 2023",
+      "zlozenie_urzedu": "nadal",
+      "dlugosc_urzedowania_dni": 1058,
+      "rzad": "Trzeci rząd Donalda Tuska"
+    }
+  ],
+  "meta": {
+    "title": "Ministrowie spraw zagranicznych Polski (od 1989) - Free Download",
+    "description": "Lista ministrów spraw zagranicznych III Rzeczypospolitej z partią, datami objęcia i złożenia urzędu, długością urzędowania i rządem. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministrowie spraw zagranicznych Polski (od 1989) | ListBase",
+    "seo_description": "Download Ministrowie spraw zagranicznych Polski (od 1989) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Ministrowie_spraw_zagranicznych_Polski"
+    ]
+  }
+}

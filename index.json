@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-05T02:12:55.381Z",
-  "total_datasets": 539,
-  "total_records": 1094217,
+  "generated": "2026-11-05T02:13:04.717Z",
+  "total_datasets": 540,
+  "total_records": 1094245,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -4487,6 +4487,34 @@
         "xlsx": {
           "name": "pl-marszalkowie-sejmu_PL.xlsx",
           "size": 17683
+        }
+      }
+    },
+    {
+      "id": "pl-ministrowie-spraw-zagranicznych",
+      "name": "Ministrowie spraw zagranicznych Polski (od 1989)",
+      "category": "politics",
+      "record_count": 28,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "partia",
+        "objecie_urzedu",
+        "zlozenie_urzedu",
+        "dlugosc_urzedowania_dni",
+        "rzad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Ministrowie_spraw_zagranicznych_Polski",
+      "updated": "2026-11",
+      "size": 9708,
+      "files": {
+        "csv": {
+          "name": "pl-ministrowie-spraw-zagranicznych_PL.csv",
+          "size": 3111
+        },
+        "xlsx": {
+          "name": "pl-ministrowie-spraw-zagranicznych_PL.xlsx",
+          "size": 8406
         }
       }
     },
