@@ -1,0 +1,1262 @@
+{
+  "id": "pl-najwyzsze-koscioly",
+  "name": "Najwyższe kościoły w Polsce",
+  "title": "Najwyższe kościoły w Polsce",
+  "description": "Lista kościołów w Polsce o wysokości co najmniej 50 metrów z rokiem zakończenia budowy, miastem i uwagami.",
+  "category": "culture",
+  "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_kościołów_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_najwyższych_kościołów_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "wysokosc_m",
+      "label": "Wysokosc M",
+      "type": "number"
+    },
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "zakonczenie_budowy",
+      "label": "Zakonczenie Budowy",
+      "type": "number"
+    },
+    {
+      "key": "miasto",
+      "label": "Miasto",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "wysokosc_m": 141.5,
+      "nazwa": "Bazylika Najświętszej Maryi Panny Licheńskiej",
+      "zakonczenie_budowy": "2004",
+      "miasto": "Licheń Stary",
+      "uwagi": "najwyższa wieża i kościół w Polsce"
+    },
+    {
+      "wysokosc_m": 110.18,
+      "nazwa": "Bazylika Archikatedralna św. Jakuba",
+      "zakonczenie_budowy": "2008",
+      "miasto": "Szczecin",
+      "uwagi": "wieża katedralna z 1892 została zbombardowana w 1944, mierzyła wtedy 119,8 m"
+    },
+    {
+      "wysokosc_m": 106.3,
+      "nazwa": "Bazylika jasnogórska",
+      "zakonczenie_budowy": "1906",
+      "miasto": "Częstochowa",
+      "uwagi": "89-metrowa podstawa wieży pochodzi z 1714, a resztę dobudowano w 1906; wieża jest odchylona od pionu o 78 cm"
+    },
+    {
+      "wysokosc_m": 104.5,
+      "nazwa": "Archikatedra św. Stanisława Kostki",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Łódź",
+      "uwagi": "Najwyższy budynek w Łodzi"
+    },
+    {
+      "wysokosc_m": 102.63,
+      "nazwa": "Kościół Mariacki",
+      "zakonczenie_budowy": "1854",
+      "miasto": "Chojna",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 101.21,
+      "nazwa": "Katedra św. Stanisława i św. Wacława",
+      "zakonczenie_budowy": "1565",
+      "miasto": "Świdnica",
+      "uwagi": "Najwyższa wieża na Śląsku."
+    },
+    {
+      "wysokosc_m": 101,
+      "nazwa": "Kościół parafialny Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1876",
+      "miasto": "Bielawa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 99,
+      "nazwa": "Kościół św. Jana",
+      "zakonczenie_budowy": "1464; wieża 1892",
+      "miasto": "Stargard",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 97,
+      "nazwa": "Archikatedra św. Jana Chrzciciela",
+      "zakonczenie_budowy": "1272 (1992)",
+      "miasto": "Wrocław",
+      "uwagi": "Najwyższy kościół we Wrocławiu"
+    },
+    {
+      "wysokosc_m": 97,
+      "nazwa": "Katedra św. Mikołaja",
+      "zakonczenie_budowy": "ok. 1247 (wieża 1907)",
+      "miasto": "Elbląg",
+      "uwagi": "Po pożarze kościoła w 1777 r. ponad 100-metrową wieżę rozebrano i w 1907 zbudowano nową. Najwyższy kościół po prawej stronie Wisły."
+    },
+    {
+      "wysokosc_m": 95,
+      "nazwa": "Bazylika św. Antoniego",
+      "zakonczenie_budowy": "1906",
+      "miasto": "Rybnik",
+      "uwagi": "najwyższy kościół na Górnym Śląsku"
+    },
+    {
+      "wysokosc_m": 92,
+      "nazwa": "Kościół św. Bartłomieja",
+      "zakonczenie_budowy": "XX wiek",
+      "miasto": "Gliwice",
+      "uwagi": "najwyższy gliwicki kościół"
+    },
+    {
+      "wysokosc_m": 91.46,
+      "nazwa": "Bazylika św. Elżbiety",
+      "zakonczenie_budowy": "1531–1535",
+      "miasto": "Wrocław",
+      "uwagi": "w 1529 130 m wieża została zniszczona"
+    },
+    {
+      "wysokosc_m": 90,
+      "nazwa": "Kościół Macierzyństwa Najświętszej Marii Panny",
+      "zakonczenie_budowy": "1370",
+      "miasto": "Trzebiatów nad Regą",
+      "uwagi": "Jeden z najwyższych kościołów na Pomorzu Zachodnim. W średniowieczu wieża pełniła funkcje latarni morskiej."
+    },
+    {
+      "wysokosc_m": 87.5,
+      "nazwa": "Kościół Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1903",
+      "miasto": "Olsztyn",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 86,
+      "nazwa": "Kościół św. Katarzyny",
+      "zakonczenie_budowy": "1897",
+      "miasto": "Toruń",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 86,
+      "nazwa": "Kościół Świętych Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "1902",
+      "miasto": "Katowice",
+      "uwagi": "W latach 1925–1955 pełnił funkcję kościoła katedralnego."
+    },
+    {
+      "wysokosc_m": 85,
+      "nazwa": "Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1411",
+      "miasto": "Włocławek",
+      "uwagi": "Wieże nadbudowane pod koniec XIX wieku podczas prac regotyzacyjnych"
+    },
+    {
+      "wysokosc_m": 83.5,
+      "nazwa": "Bazylika Matki Boskiej Anielskiej",
+      "zakonczenie_budowy": "1900",
+      "miasto": "Dąbrowa Górnicza",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 83.5,
+      "nazwa": "Kościół Mariacki",
+      "zakonczenie_budowy": "1292",
+      "miasto": "Stargard",
+      "uwagi": "kościół z najwyżej położonym sklepieniem w Polsce – 32,5 m"
+    },
+    {
+      "wysokosc_m": 83,
+      "nazwa": "Kościół Najświętszej Maryi Panny Królowej Różańca Świętego",
+      "zakonczenie_budowy": "1976",
+      "miasto": "Gdańsk",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 82,
+      "nazwa": "Kościół Mariacki",
+      "zakonczenie_budowy": "1397",
+      "miasto": "Kraków",
+      "uwagi": "obydwie wieże ukończone w 1406. Wieża południowa ma wys. 69 m."
+    },
+    {
+      "wysokosc_m": 82,
+      "nazwa": "Bazylika Mariacka Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1502",
+      "miasto": "Gdańsk",
+      "uwagi": "największy gotycki ceglany kościół na świecie"
+    },
+    {
+      "wysokosc_m": 80,
+      "nazwa": "Kościół św. Michała Archanioła",
+      "zakonczenie_budowy": "1871",
+      "miasto": "Wrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 80,
+      "nazwa": "Kolegiata NMP Bolesnej i św. Aniołów Stróżów",
+      "zakonczenie_budowy": "1904",
+      "miasto": "Wałbrzych",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 80,
+      "nazwa": "Bazylika archikatedralna Świętej Rodziny",
+      "zakonczenie_budowy": "1997",
+      "miasto": "Częstochowa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 80,
+      "nazwa": "Kościół św. Mateusza",
+      "zakonczenie_budowy": "XX",
+      "miasto": "Łódź",
+      "uwagi": "najwyższy kościół protestancki w Polsce"
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół św. Rocha",
+      "zakonczenie_budowy": "1946",
+      "miasto": "Białystok",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół Narodzenia Najświętszej Marii Panny",
+      "zakonczenie_budowy": "1908",
+      "miasto": "Szczecinek",
+      "uwagi": "Najwyższy kościół w Szczecinku"
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół św. Karola Boromeusza we Wrocławiu",
+      "zakonczenie_budowy": "1913",
+      "miasto": "Wrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1320",
+      "miasto": "Chełmno",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół Przemienienia Pańskiego",
+      "zakonczenie_budowy": "1902",
+      "miasto": "Drezdenko",
+      "uwagi": "Najwyższy kościół w woj. lubuskim"
+    },
+    {
+      "wysokosc_m": 78,
+      "nazwa": "Kościół św. Augustyna",
+      "zakonczenie_budowy": "1909",
+      "miasto": "Wrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 77,
+      "nazwa": "Kościół Zwiastowania Najświętszej Marii Panny",
+      "zakonczenie_budowy": "1901",
+      "miasto": "Inowrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 77,
+      "nazwa": "Sanktuarium Bożego Miłosierdzia",
+      "zakonczenie_budowy": "2002",
+      "miasto": "Kraków",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 77,
+      "nazwa": "Kościół św. Katarzyny Aleksandryjskiej",
+      "zakonczenie_budowy": "1909",
+      "miasto": "Grybów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 76,
+      "nazwa": "Kościół św. Stanisława Biskupa w Warszawie",
+      "zakonczenie_budowy": "1903",
+      "miasto": "Warszawa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 76,
+      "nazwa": "Kościół św. Katarzyny",
+      "zakonczenie_budowy": "XVII wiek",
+      "miasto": "Gdańsk",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75.6,
+      "nazwa": "Kościół Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1866",
+      "miasto": "Szczecin",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75.5,
+      "nazwa": "Katedra św. Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "1900",
+      "miasto": "Gliwice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół św. Andrzeja Boboli",
+      "zakonczenie_budowy": "1902",
+      "miasto": "Bydgoszcz",
+      "uwagi": "Najwyższy budynek Bydgoszczy"
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Katedra Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Siedlce",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół Zmartwychwstania Pańskiego",
+      "zakonczenie_budowy": "połowa XV w.",
+      "miasto": "Drawsko Pomorskie",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół Przemienienia Pańskiego",
+      "zakonczenie_budowy": "1914",
+      "miasto": "Garbów",
+      "uwagi": "Najwyższy kościół w województwie lubelskim."
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół Jezusowy",
+      "zakonczenie_budowy": "1772",
+      "miasto": "Cieszyn",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kolegiata Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1842",
+      "miasto": "Głogów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół św. Marii Magdaleny",
+      "zakonczenie_budowy": "1892",
+      "miasto": "Chorzów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Kościół św. Mikołaja",
+      "zakonczenie_budowy": "1902",
+      "miasto": "Racibórz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Świątynia Opatrzności Bożej",
+      "zakonczenie_budowy": "2016",
+      "miasto": "Warszawa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 75,
+      "nazwa": "Bazylika katedralna św. Michała i św. Floriana",
+      "zakonczenie_budowy": "1904",
+      "miasto": "Warszawa",
+      "uwagi": "W latach 20. XX wieku konstrukcja wysokich wież została naruszona, toteż zostały one obniżone."
+    },
+    {
+      "wysokosc_m": 74,
+      "nazwa": "Kościół św. Józefa",
+      "zakonczenie_budowy": "1909",
+      "miasto": "Kraków - Podgórze",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 74,
+      "nazwa": "Bazylika Konkatedralna Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1301",
+      "miasto": "Kołobrzeg",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 73,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1901",
+      "miasto": "Chorzów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 73,
+      "nazwa": "Katedra Podwyższenia Krzyża Świętego",
+      "zakonczenie_budowy": "1899",
+      "miasto": "Opole",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 73,
+      "nazwa": "Kościół Matki Bożej Królowej Korony Polskiej",
+      "zakonczenie_budowy": "1921",
+      "miasto": "Gdańsk - Oliwa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 73,
+      "nazwa": "Kościół św. Jacka",
+      "zakonczenie_budowy": "1908",
+      "miasto": "Legnica",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 72.5,
+      "nazwa": "Katedra Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1900",
+      "miasto": "Białystok",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Bazylika katedralna Opieki Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "pocz. XX wieku",
+      "miasto": "Radom",
+      "uwagi": "wybudowana na przełomie XIX / XX wieku w stylu neogotyckim"
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Kościół św. Mikołaja",
+      "zakonczenie_budowy": "1889",
+      "miasto": "Nowa Ruda",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Kościół Najświętszego Serca Jezusowego",
+      "zakonczenie_budowy": "1990",
+      "miasto": "Włocławek",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Katedra polskokatolicka św. Marii Madaleny",
+      "zakonczenie_budowy": "1232",
+      "miasto": "Wrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Kościół św. Michała Archanioła",
+      "zakonczenie_budowy": "1268/1449",
+      "miasto": "Grodków",
+      "uwagi": "Prezbiterium należy do najstarszych budowli tego typu na Śląsku. Wieża w całości murowana z cegły wraz z 30 m. iglicą. Należy do najwyższych budowli ceglanych w tej części europy."
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Bazylika archikatedralna św. Stanisława i św. Wacława",
+      "zakonczenie_budowy": "1364",
+      "miasto": "Kraków",
+      "uwagi": "Wysokość wieży zegarowej"
+    },
+    {
+      "wysokosc_m": 72,
+      "nazwa": "Bazylika Katedralna Narodzenia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1898",
+      "miasto": "Tarnów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 71,
+      "nazwa": "Bazylika Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1735",
+      "miasto": "Krzeszów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 71,
+      "nazwa": "Bazylika archikatedralna Wniebowzięcia Najświętszej Maryi Panny i św. Jana Chrzciciela",
+      "zakonczenie_budowy": "1571, wieża 1764",
+      "miasto": "Przemyśl",
+      "uwagi": "Największa świątynia województwa podkarpackiego"
+    },
+    {
+      "wysokosc_m": 71,
+      "nazwa": "Kościół Niepokalanego Poczęcia Najświętszej Marii Panny",
+      "zakonczenie_budowy": "1870",
+      "miasto": "Katowice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 71,
+      "nazwa": "Kościół św. Jakuba i św. Agnieszki",
+      "zakonczenie_budowy": "1430",
+      "miasto": "Nysa",
+      "uwagi": "Po Bazylice Mariackiej w Gdańsku jest to ceglany gotycki kościół o największej kubaturze w Polsce. Dach tej świątyni ma 4 tys. m² powierzchni i jest najbardziej spadzisty w europie a kalenica dachu sięga 56 m. Każda z naw ma po 27 m. wysokości."
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Bazylika Bożego Ciała",
+      "zakonczenie_budowy": "1405",
+      "miasto": "Kraków",
+      "uwagi": "Najwyższy kościół na Kazimierzu"
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Świętych Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "1899",
+      "miasto": "Piekary Śląskie",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Najświętszego Zbawiciela",
+      "zakonczenie_budowy": "1914",
+      "miasto": "Ryki",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Najświętszego Zbawiciela",
+      "zakonczenie_budowy": "1869",
+      "miasto": "Poznań",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Bazylika konkatedralna św. Jakuba",
+      "zakonczenie_budowy": "XIV wiek",
+      "miasto": "Olsztyn",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół św. Tomasza Apostoła",
+      "zakonczenie_budowy": "1911",
+      "miasto": "Sosnowiec",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Bazylika Kolegiacka św. Andrzeja Apostoła",
+      "zakonczenie_budowy": "1301",
+      "miasto": "Olkusz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Najświętszej Marii Panny Królowej Polski",
+      "zakonczenie_budowy": "1994",
+      "miasto": "Świdnica",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1891",
+      "miasto": "Mysłowice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół św. Jakuba Apostoła",
+      "zakonczenie_budowy": "",
+      "miasto": "Zduny",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Kościół Matki Bożej Pocieszenia",
+      "zakonczenie_budowy": "1900",
+      "miasto": "Żyrardów",
+      "uwagi": "wieże liczą „ponad” 70 m."
+    },
+    {
+      "wysokosc_m": 70,
+      "nazwa": "Cerkiew św. Ducha",
+      "zakonczenie_budowy": "trwa, wieża 2012",
+      "miasto": "Białystok",
+      "uwagi": "Wysokość wieży"
+    },
+    {
+      "wysokosc_m": 69,
+      "nazwa": "Kolegiata św. Krzyża i św. Bartłomieja",
+      "zakonczenie_budowy": "1477",
+      "miasto": "Wrocław",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 69,
+      "nazwa": "Kościół św. Franciszka Serafickiego",
+      "zakonczenie_budowy": "1473, wieże około 1730",
+      "miasto": "Poznań",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 68,
+      "nazwa": "Kościół św. Jana Pawła II",
+      "zakonczenie_budowy": "2016",
+      "miasto": "Kraków",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 68,
+      "nazwa": "Kościół bł. Karoliny Kózkówny",
+      "zakonczenie_budowy": "1996",
+      "miasto": "Tarnów",
+      "uwagi": "Drugi co do wysokości kościół w Tarnowie"
+    },
+    {
+      "wysokosc_m": 68,
+      "nazwa": "Kościół św. Stanisława",
+      "zakonczenie_budowy": "XIV wiek",
+      "miasto": "Wschowa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 68,
+      "nazwa": "Kościół Matki Boskiej Królowej Polski",
+      "zakonczenie_budowy": "1975",
+      "miasto": "Elbląg",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 68,
+      "nazwa": "Kościół Najświętszej Maryi Panny Różańcowej",
+      "zakonczenie_budowy": "1904",
+      "miasto": "Pabianice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 67,
+      "nazwa": "Bazylika św. Katarzyny Aleksandryjskiej",
+      "zakonczenie_budowy": "XIV wiek",
+      "miasto": "Braniewo",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 67,
+      "nazwa": "Kościół Miłosierdzia Bożego",
+      "zakonczenie_budowy": "2001",
+      "miasto": "Dębica",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 67,
+      "nazwa": "Kościół Świętego Ducha",
+      "zakonczenie_budowy": "1981",
+      "miasto": "Mielec",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 67,
+      "nazwa": "Kościół św. Jana Chrzciciela",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Bielsk (województwo mazowieckie)",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 66.4,
+      "nazwa": "Kolegiata Świętych Apostołów Piotra i Pawła i św. Michała Archanioła",
+      "zakonczenie_budowy": "II połowa XIV wieku",
+      "miasto": "Lidzbark Warmiński",
+      "uwagi": "Wieżę zachodnią początkowo drewnianą wybudowano około 1400 roku, później podwyższono około 1530. Obecnie wieża posiada 5 kondygnacji i góruje nad miastem."
+    },
+    {
+      "wysokosc_m": 66,
+      "nazwa": "Kościół Najświętszego Serca Jezusowego",
+      "zakonczenie_budowy": "1908",
+      "miasto": "Bóbrka",
+      "uwagi": "Witraże w kościele zostały zaprojektowane i wykonane w pracowni Stefana Matejki – bratanka słynnego malarza Jana Matejki."
+    },
+    {
+      "wysokosc_m": 66,
+      "nazwa": "Kolegiata Najświętszego Serca Jezusowego",
+      "zakonczenie_budowy": "1911",
+      "miasto": "Gdańsk - Wrzeszcz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 66,
+      "nazwa": "Kościół Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1952",
+      "miasto": "Gdynia",
+      "uwagi": "Najwyższy kościół trójmiasta"
+    },
+    {
+      "wysokosc_m": 65,
+      "nazwa": "Bazylika św. Wincentego á Paulo",
+      "zakonczenie_budowy": "1939",
+      "miasto": "Bydgoszcz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 65,
+      "nazwa": "Kościół Świętego Antoniego Padewskiego",
+      "zakonczenie_budowy": "1925",
+      "miasto": "Jedlicze",
+      "uwagi": "Najwyższy budynek miasta"
+    },
+    {
+      "wysokosc_m": 65,
+      "nazwa": "Kościół Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1951",
+      "miasto": "Nowy Targ",
+      "uwagi": "Najwyższy budynek miasta"
+    },
+    {
+      "wysokosc_m": 64,
+      "nazwa": "Kościół św. Stanisława Biskupa Męczennika",
+      "zakonczenie_budowy": "1919 (wieża 1985)",
+      "miasto": "Postoliska",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 64,
+      "nazwa": "Kościół Świętego Ducha",
+      "zakonczenie_budowy": "1756, wieża 1899",
+      "miasto": "Toruń",
+      "uwagi": "Drugi co do wysokości budynek w Toruniu"
+    },
+    {
+      "wysokosc_m": 64,
+      "nazwa": "Kościół Chrystusa Dobrego Pasterza",
+      "zakonczenie_budowy": "1998",
+      "miasto": "Krościenko nad Dunajcem",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 64,
+      "nazwa": "Kościół św. Jana Ewangelisty",
+      "zakonczenie_budowy": "1350",
+      "miasto": "Paczków",
+      "uwagi": "Pierwotnie wieża wznosiła się na wysokość blisko 120 m. Kościół przebudowano na obronny. Rzadki przykład budowli sakralnej tego typu. We wnętrzu w jednej z naw studnia."
+    },
+    {
+      "wysokosc_m": 64,
+      "nazwa": "Kościół św. Pawła Apostoła",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Ruda Śląska – Nowy Bytom",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 63.3,
+      "nazwa": "Kościół Trójcy Świętej",
+      "zakonczenie_budowy": "1861",
+      "miasto": "Lubań",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 63,
+      "nazwa": "Kościół Wszystkich Świętych",
+      "zakonczenie_budowy": "XVI wiek (wieża 1933)",
+      "miasto": "Gliwice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 63,
+      "nazwa": "Kościół Narodzenia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1230",
+      "miasto": "Złotoryja",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 63,
+      "nazwa": "Bazylika prymasowska Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1952",
+      "miasto": "Gniezno",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 63,
+      "nazwa": "Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1472",
+      "miasto": "Pelplin",
+      "uwagi": "Wysokość z sygnaturką"
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Bazylika archikatedralna Świętych Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "XI wiek",
+      "miasto": "Poznań",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Kościół św. Michała Archanioła",
+      "zakonczenie_budowy": "1738",
+      "miasto": "Prudnik",
+      "uwagi": "Najwyższy kościół Prudnika"
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Kościół św. Wawrzyńca",
+      "zakonczenie_budowy": "XIII wiek (ob. wygląd 1907)",
+      "miasto": "Strzelce Opolskie",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Kościół Marii Panny",
+      "zakonczenie_budowy": "1386",
+      "miasto": "Legnica",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Kościół Zbawiciela w Wałbrzychu",
+      "zakonczenie_budowy": "1788",
+      "miasto": "Wałbrzych",
+      "uwagi": "Wieża kościoła zwieńczona była początkowo niewielką przysadzistą kopułą, zastąpiono nią podczas przebudowy w 1862-1864 strzelistą wieżą"
+    },
+    {
+      "wysokosc_m": 62,
+      "nazwa": "Kościół św. Teresy i św. Jana Bosco",
+      "zakonczenie_budowy": "1963",
+      "miasto": "Łódź",
+      "uwagi": "Najwyższa kopuła w Łodzi"
+    },
+    {
+      "wysokosc_m": 61,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1923",
+      "miasto": "Stoczek Łukowski",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 61,
+      "nazwa": "Katedra św. Mikołaja",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Bielsko-Biała",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60.55,
+      "nazwa": "Kościół Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1864",
+      "miasto": "Chrząstawa Wielka",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Kościół Świętej Trójcy",
+      "zakonczenie_budowy": "1886",
+      "miasto": "Bytom",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Kościół św. Franciszka z Asyżu",
+      "zakonczenie_budowy": "1911",
+      "miasto": "Borki Wielkie",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Kościół Matki Bożej Częstochowskiej",
+      "zakonczenie_budowy": "XIV wiek",
+      "miasto": "Darłowo",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Czarna Wieża kościoła ewangelickiego",
+      "zakonczenie_budowy": "1846–1848",
+      "miasto": "Lwówek Śląski",
+      "uwagi": "Najwyższa wieża Lwówka Śląskiego; kościół nie zachował się"
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Kościół Świętych Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "XIV wiek, wieża 1895",
+      "miasto": "Pieniężno",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Konkatedra Narodzenia Najświętszej Maryi Panny i św. Jana Jerozolimskiego",
+      "zakonczenie_budowy": "XV wiek",
+      "miasto": "Żywiec",
+      "uwagi": "Najwyższy kościół Żywca"
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Kościół św. Katarzyny Aleksandryjskiej",
+      "zakonczenie_budowy": "1924",
+      "miasto": "Zgierz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 60,
+      "nazwa": "Bazylika Matki Boskiej Bolesnej",
+      "zakonczenie_budowy": "1918",
+      "miasto": "Limanowa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 59,
+      "nazwa": "Bazylika archikatedralna Chrystusa Króla",
+      "zakonczenie_budowy": "1955",
+      "miasto": "Katowice",
+      "uwagi": "Pierwotnie kopuła miała mieć 97 m."
+    },
+    {
+      "wysokosc_m": 59,
+      "nazwa": "Konkatedra św. Jana Ewangelisty",
+      "zakonczenie_budowy": "XIV w.",
+      "miasto": "Kwidzyn",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 58,
+      "nazwa": "Kościół Podwyższenia Krzyża Świętego",
+      "zakonczenie_budowy": "XIV w. (wieża 1830)",
+      "miasto": "Sulechów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 58,
+      "nazwa": "Kościół garnizonowy Matki Boskiej Królowej Polski",
+      "zakonczenie_budowy": "1914",
+      "miasto": "Olsztyn",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 57,
+      "nazwa": "Kościół św. Jacka",
+      "zakonczenie_budowy": "1911",
+      "miasto": "Bytom",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 57,
+      "nazwa": "Kościół Podwyższenia Krzyża Świętego",
+      "zakonczenie_budowy": "1770",
+      "miasto": "Jelenia Góra",
+      "uwagi": "Wysokość do kuli krzyża"
+    },
+    {
+      "wysokosc_m": 57,
+      "nazwa": "Kościół św. Jana Chrzciciela",
+      "zakonczenie_budowy": "1370",
+      "miasto": "Radom",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 57,
+      "nazwa": "Kościół Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1948",
+      "miasto": "Rogów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 57,
+      "nazwa": "Kościół św. Wacława",
+      "zakonczenie_budowy": "1916",
+      "miasto": "Krzanowice",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56.2,
+      "nazwa": "Wieża kościelna przy kościele św. Piotra i św. Pawła",
+      "zakonczenie_budowy": "1910",
+      "miasto": "Syców",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Kościół Matki Bożej Dobrej Rady",
+      "zakonczenie_budowy": "1957, wieża 2017",
+      "miasto": "Kraków",
+      "uwagi": "Wieża przed ukończeniem budowy liczyła 20 metrów"
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Kolegiata św. Jana Chrzciciela",
+      "zakonczenie_budowy": "XVII w.",
+      "miasto": "Myślibórz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Kościół św. Wawrzyńca",
+      "zakonczenie_budowy": "XIV w.",
+      "miasto": "Wołów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1928",
+      "miasto": "Radlin",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Konkatedra św. Stanisława Biskupa",
+      "zakonczenie_budowy": "1906",
+      "miasto": "Ostrów Wielkopolski",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Kościół Dobrego Pasterza",
+      "zakonczenie_budowy": "1909",
+      "miasto": "Bytom",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 56,
+      "nazwa": "Katedra Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1333",
+      "miasto": "Koszalin",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 55.5,
+      "nazwa": "Kościół Najświętszej Maryi Panny Królowej Polski",
+      "zakonczenie_budowy": "1990",
+      "miasto": "Olecko",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 55,
+      "nazwa": "Kościół św. Trójcy",
+      "zakonczenie_budowy": "1908",
+      "miasto": "Legnica",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 55,
+      "nazwa": "Kościół św. Walentego",
+      "zakonczenie_budowy": "1910",
+      "miasto": "Konopiska",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 54,
+      "nazwa": "Kościół św. Mikołaja",
+      "zakonczenie_budowy": "1370",
+      "miasto": "Brzeg",
+      "uwagi": "Kościół nazywany katedrą z racji rozmiarów. Jest to jedna z największych świątyń na Dolnym Śląsku. Kościół wznoszony na wzór świątyń św. Elżbiety i Marii Magdaleny we Wrocławiu. Nawa główna ma 30 m. wysokości."
+    },
+    {
+      "wysokosc_m": 54,
+      "nazwa": "Kościół św. Katarzyny Aleksandryjskiej",
+      "zakonczenie_budowy": "1887",
+      "miasto": "Nowa Ruda",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 54,
+      "nazwa": "Kościół Wszystkich Świętych",
+      "zakonczenie_budowy": "1893",
+      "miasto": "Warszawa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 53.7,
+      "nazwa": "Kościół św. Jana Chrzciciela",
+      "zakonczenie_budowy": "1862",
+      "miasto": "Smogorzów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 53.2,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1910",
+      "miasto": "Wodzisław Śląski",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 53,
+      "nazwa": "Bazylika św. Krzyża",
+      "zakonczenie_budowy": "XVIII wiek",
+      "miasto": "Warszawa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 53,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "początek 1897 roku",
+      "miasto": "Łódź",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Katedra Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "XIII wiek",
+      "miasto": "Gorzów Wielkopolski",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Bazylika śś. Erazma i Pankracego",
+      "zakonczenie_budowy": "XVI wiek",
+      "miasto": "Jelenia Góra",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Katedra Najświętszego Serca Pana Jezusa",
+      "zakonczenie_budowy": "1982",
+      "miasto": "Rzeszów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Bazylika katedralna św. Jana Chrzciciela i św. Jana Ewangelisty",
+      "zakonczenie_budowy": "XV wiek",
+      "miasto": "Toruń",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Bazylika św. Trójcy",
+      "zakonczenie_budowy": "1789",
+      "miasto": "Święty Krzyż",
+      "uwagi": "Wieża została odbudowana w 2014"
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Kościół Niepokalanego Serca Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1852",
+      "miasto": "Barlinek",
+      "uwagi": "Kościół z XII-XV wieku został zniszczony przez pożar i odbudowany w 1852 roku."
+    },
+    {
+      "wysokosc_m": 52,
+      "nazwa": "Kościół św. Trójcy",
+      "zakonczenie_budowy": "1912",
+      "miasto": "Bydgoszcz",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 51.5,
+      "nazwa": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1498",
+      "miasto": "Gryfice",
+      "uwagi": "Zniszczony 31 marca 1658 roku, odbudowywany w latach 1659–1668"
+    },
+    {
+      "wysokosc_m": 51.2,
+      "nazwa": "Kościół Najświętszej Maryi Panny Matki Kościoła",
+      "zakonczenie_budowy": "1996",
+      "miasto": "Tczew",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 51,
+      "nazwa": "Kościół św. Stanisława Biskupa i Męczennika",
+      "zakonczenie_budowy": "1913",
+      "miasto": "Czeladź (miasto)",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 51,
+      "nazwa": "Kościół św. Anny",
+      "zakonczenie_budowy": "1906",
+      "miasto": "Kołaczyce",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 51,
+      "nazwa": "Kościół św. Katarzyny Aleksandryjskiej",
+      "zakonczenie_budowy": "1802 wieża(1873)",
+      "miasto": "Starogard Gdański",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 51,
+      "nazwa": "Kościół Matki Bożej Szkaplerznej",
+      "zakonczenie_budowy": "1907",
+      "miasto": "Stalowa Wola",
+      "uwagi": "Najwyższy kościół powiatu stalowowolskiego"
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół św. Antoniego Padewskiego",
+      "zakonczenie_budowy": "1956",
+      "miasto": "Częstochowa",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół św. Katarzyny",
+      "zakonczenie_budowy": "1370",
+      "miasto": "Brodnica",
+      "uwagi": "Pierwotnie planowano wzniesienie dwóch wież: północnej i południowej. Wybudowano tylko wieżę południową o wysokości 50 m."
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół św. Stanisława",
+      "zakonczenie_budowy": "1926",
+      "miasto": "Chmielów",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "zakonczenie_budowy": "1932",
+      "miasto": "Kraków",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół Świętych Apostołów Piotra i Pawła",
+      "zakonczenie_budowy": "XV wiek",
+      "miasto": "Reszel",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Bazylika filipinów",
+      "zakonczenie_budowy": "1698",
+      "miasto": "Święta Góra (Głogówko koło Gostynia)",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Kościół św. Szczepana",
+      "zakonczenie_budowy": "1904",
+      "miasto": "Toruń",
+      "uwagi": ""
+    },
+    {
+      "wysokosc_m": 50,
+      "nazwa": "Bazylika kolegiacka Trójcy Przenajświętszej",
+      "zakonczenie_budowy": "1922",
+      "miasto": "Myszyniec",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Najwyższe kościoły w Polsce - Free Download",
+    "description": "Lista kościołów w Polsce o wysokości co najmniej 50 metrów z rokiem zakończenia budowy, miastem i uwagami. Contains 173 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najwyższe kościoły w Polsce | ListBase",
+    "seo_description": "Download Najwyższe kościoły w Polsce — 173 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 173 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_najwyższych_kościołów_w_Polsce"
+    ]
+  }
+}

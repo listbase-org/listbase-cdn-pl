@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:20.243Z",
-  "total_datasets": 544,
-  "total_records": 1094518,
+  "generated": "2026-11-09T02:27:28.022Z",
+  "total_datasets": 545,
+  "total_records": 1094691,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -309,6 +309,32 @@
         "xlsx": {
           "name": "pl-najwyzsze-budynki_PL.xlsx",
           "size": 11722
+        }
+      }
+    },
+    {
+      "id": "pl-najwyzsze-koscioly",
+      "name": "Najwyższe kościoły w Polsce",
+      "category": "culture",
+      "record_count": 173,
+      "columns": [
+        "wysokosc_m",
+        "nazwa",
+        "zakonczenie_budowy",
+        "miasto",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_kościołów_w_Polsce",
+      "updated": "2026-11",
+      "size": 36684,
+      "files": {
+        "csv": {
+          "name": "pl-najwyzsze-koscioly_PL.csv",
+          "size": 16207
+        },
+        "xlsx": {
+          "name": "pl-najwyzsze-koscioly_PL.xlsx",
+          "size": 15784
         }
       }
     },
