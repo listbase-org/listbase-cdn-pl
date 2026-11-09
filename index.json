@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:28.022Z",
-  "total_datasets": 545,
-  "total_records": 1094691,
+  "generated": "2026-11-09T02:27:34.540Z",
+  "total_datasets": 546,
+  "total_records": 1094712,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -4167,6 +4167,35 @@
         "xlsx": {
           "name": "pl-ministrowie-sprawiedliwosci_PL.xlsx",
           "size": 9028
+        }
+      }
+    },
+    {
+      "id": "pl-pierwsi-prezesi-sadu-najwyzszego",
+      "name": "Pierwsi Prezesi Sądu Najwyższego",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "lp",
+        "imie_i_nazwisko",
+        "partia_uwaga",
+        "od",
+        "do",
+        "powolujacy",
+        "uwagi",
+        "okres"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Pierwszy_Prezes_Sądu_Najwyższego",
+      "updated": "2026-11",
+      "size": 7527,
+      "files": {
+        "csv": {
+          "name": "pl-pierwsi-prezesi-sadu-najwyzszego_PL.csv",
+          "size": 2432
+        },
+        "xlsx": {
+          "name": "pl-pierwsi-prezesi-sadu-najwyzszego_PL.xlsx",
+          "size": 8323
         }
       }
     },

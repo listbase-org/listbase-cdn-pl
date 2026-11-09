@@ -1,0 +1,276 @@
+{
+  "id": "pl-pierwsi-prezesi-sadu-najwyzszego",
+  "name": "Pierwsi Prezesi Sądu Najwyższego",
+  "title": "Pierwsi Prezesi Sądu Najwyższego",
+  "description": "Lista Pierwszych Prezesów Sądu Najwyższego w Polsce od 1917 roku (II RP, PRL, III RP) z datami kadencji i organem powołującym.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Pierwszy_Prezes_Sądu_Najwyższego",
+  "source_url": "https://pl.wikipedia.org/wiki/Pierwszy_Prezes_Sądu_Najwyższego",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "partia_uwaga",
+      "label": "Partia Uwaga",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "powolujacy",
+      "label": "Powolujacy",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": "1",
+      "imie_i_nazwisko": "Stanisław Pomian-Srzednicki",
+      "partia_uwaga": "",
+      "od": "1 września 1917",
+      "do": "28 lutego 1922",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "II RP"
+    },
+    {
+      "lp": "2",
+      "imie_i_nazwisko": "Franciszek Nowodworski",
+      "partia_uwaga": "",
+      "od": "1 marca 1922",
+      "do": "3 sierpnia 1924",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "II RP"
+    },
+    {
+      "lp": "3",
+      "imie_i_nazwisko": "Władysław Seyda",
+      "partia_uwaga": "",
+      "od": "22 września 1924",
+      "do": "17 stycznia 1929",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "II RP"
+    },
+    {
+      "lp": "4",
+      "imie_i_nazwisko": "Leon Supiński",
+      "partia_uwaga": "",
+      "od": "17 stycznia 1929",
+      "do": "wrzesień 1939",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "II RP"
+    },
+    {
+      "lp": "5",
+      "imie_i_nazwisko": "Wacław Barcikowski",
+      "partia_uwaga": "SD",
+      "od": "26 stycznia 1945",
+      "do": "12 listopada 1956",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "6",
+      "imie_i_nazwisko": "Jan Wasilkowski",
+      "partia_uwaga": "PZPR",
+      "od": "12 grudnia 1956",
+      "do": "22 maja 1967",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "7",
+      "imie_i_nazwisko": "Zbigniew Resich",
+      "partia_uwaga": "PZPR",
+      "od": "23 maja 1967",
+      "do": "21 stycznia 1972",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "8",
+      "imie_i_nazwisko": "Jerzy Bafia",
+      "partia_uwaga": "PZPR",
+      "od": "21 stycznia 1972",
+      "do": "1 kwietnia 1976",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "9",
+      "imie_i_nazwisko": "Włodzimierz Berutowicz",
+      "partia_uwaga": "PZPR",
+      "od": "1 kwietnia 1976",
+      "do": "14 maja 1987",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "10",
+      "imie_i_nazwisko": "Adam Łopatka",
+      "partia_uwaga": "PZPR",
+      "od": "14 maja 1987",
+      "do": "30 czerwca 1990",
+      "powolujacy": "",
+      "uwagi": "",
+      "okres": "Polska Ludowa"
+    },
+    {
+      "lp": "11",
+      "imie_i_nazwisko": "Adam Strzembosz",
+      "partia_uwaga": "",
+      "od": "1 lipca 1990",
+      "do": "17 października 1998",
+      "powolujacy": "Sejm X kadencji",
+      "uwagi": "",
+      "okres": "III RP"
+    },
+    {
+      "lp": "12",
+      "imie_i_nazwisko": "Lech Gardocki",
+      "partia_uwaga": "",
+      "od": "17 października 1998",
+      "do": "18 października 2010",
+      "powolujacy": "Aleksander Kwaśniewski",
+      "uwagi": "Pierwsza kadencja w okresie 17 października 1998 – 17 października 2004, druga kadencja 18 października 2004 – 18 października 2010.",
+      "okres": "III RP"
+    },
+    {
+      "lp": "13",
+      "imie_i_nazwisko": "Stanisław Dąbrowski",
+      "partia_uwaga": "",
+      "od": "19 października 2010",
+      "do": "9 stycznia 2014",
+      "powolujacy": "Bronisław Komorowski",
+      "uwagi": "",
+      "okres": "III RP"
+    },
+    {
+      "lp": "p.o",
+      "imie_i_nazwisko": "Lech Krzysztof Paprzycki",
+      "partia_uwaga": "",
+      "od": "9 stycznia 2014",
+      "do": "30 kwietnia 2014",
+      "powolujacy": "–",
+      "uwagi": "po śmierci Stanisława Dąbrowskiego",
+      "okres": "III RP"
+    },
+    {
+      "lp": "14",
+      "imie_i_nazwisko": "Małgorzata Gersdorf",
+      "partia_uwaga": "",
+      "od": "30 kwietnia 2014",
+      "do": "30 kwietnia 2020",
+      "powolujacy": "Bronisław Komorowski",
+      "uwagi": "",
+      "okres": "III RP"
+    },
+    {
+      "lp": "p.o",
+      "imie_i_nazwisko": "Józef Iwulski",
+      "partia_uwaga": "",
+      "od": "4 lipca 2018",
+      "do": "12 września 2018",
+      "powolujacy": "–",
+      "uwagi": "na czas nieobecności sędzi Małgorzaty Gersdorf",
+      "okres": "III RP"
+    },
+    {
+      "lp": "p.o",
+      "imie_i_nazwisko": "Dariusz Zawistowski",
+      "partia_uwaga": "",
+      "od": "13 września 2018",
+      "do": "1 stycznia 2019",
+      "powolujacy": "Andrzej Duda",
+      "uwagi": "na czas nieobecności sędzi Małgorzaty Gersdorf",
+      "okres": "III RP"
+    },
+    {
+      "lp": "p.o",
+      "imie_i_nazwisko": "Kamil Zaradkiewicz",
+      "partia_uwaga": "",
+      "od": "1 maja 2020",
+      "do": "15 maja 2020",
+      "powolujacy": "Andrzej Duda",
+      "uwagi": "po upływie kadencji sędzi Małgorzaty Gersdorf.",
+      "okres": "III RP"
+    },
+    {
+      "lp": "p.o",
+      "imie_i_nazwisko": "Aleksander Stępkowski",
+      "partia_uwaga": "",
+      "od": "15 maja 2020",
+      "do": "25 maja 2020",
+      "powolujacy": "Andrzej Duda",
+      "uwagi": "po upływie kadencji sędzi Małgorzaty Gersdorf.",
+      "okres": "III RP"
+    },
+    {
+      "lp": "15",
+      "imie_i_nazwisko": "Małgorzata Manowska",
+      "partia_uwaga": "de facto",
+      "od": "26 maja 2020",
+      "do": "26 maja 2026",
+      "powolujacy": "Andrzej Duda",
+      "uwagi": "Legalność jej powołania jest kwestionowana",
+      "okres": "III RP"
+    },
+    {
+      "lp": "16",
+      "imie_i_nazwisko": "Zbigniew Kapiński",
+      "partia_uwaga": "de facto",
+      "od": "27 maja 2026",
+      "do": "nadal",
+      "powolujacy": "Karol Nawrocki",
+      "uwagi": "Legalność jego powołania jest kwestionowana",
+      "okres": "III RP"
+    }
+  ],
+  "meta": {
+    "title": "Pierwsi Prezesi Sądu Najwyższego - Free Download",
+    "description": "Lista Pierwszych Prezesów Sądu Najwyższego w Polsce od 1917 roku (II RP, PRL, III RP) z datami kadencji i organem powołującym. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pierwsi Prezesi Sądu Najwyższego | ListBase",
+    "seo_description": "Download Pierwsi Prezesi Sądu Najwyższego — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Pierwszy_Prezes_Sądu_Najwyższego"
+    ]
+  }
+}
