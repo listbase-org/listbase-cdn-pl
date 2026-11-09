@@ -1,0 +1,2194 @@
+{
+  "id": "pl-najwyzsze-budowle",
+  "name": "Najwyższe budowle w Polsce (powyżej 100 m)",
+  "title": "Najwyższe budowle w Polsce (powyżej 100 m)",
+  "description": "Lista najwyższych budowli w Polsce o wysokości powyżej 100 metrów: maszty RTV, kominy, wieżowce i inne obiekty z lokalizacją, wysokością i rokiem ukończenia.",
+  "category": "tech",
+  "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budowli_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budowli_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "lokalizacja",
+      "label": "Lokalizacja",
+      "type": "string"
+    },
+    {
+      "key": "wysokosc_m",
+      "label": "Wysokosc M",
+      "type": "number"
+    },
+    {
+      "key": "liczba_kondygnacji",
+      "label": "Liczba Kondygnacji",
+      "type": "number"
+    },
+    {
+      "key": "rok_ukonczenia",
+      "label": "Rok Ukonczenia",
+      "type": "number"
+    },
+    {
+      "key": "typ_obiektu",
+      "label": "Typ Obiektu",
+      "type": "string"
+    },
+    {
+      "key": "przedzial",
+      "label": "Przedzial",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "RTCN Katowice / Kosztowy",
+      "lokalizacja": "Mysłowice",
+      "wysokosc_m": 358.7,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1976,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Olsztyn / Pieczewo",
+      "lokalizacja": "Olsztyn",
+      "wysokosc_m": 356.5,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1969,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Łódź / Zygry",
+      "lokalizacja": "Zygry",
+      "wysokosc_m": 346,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1975,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Lublin / Piaski",
+      "lokalizacja": "Piaski",
+      "wysokosc_m": 342,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1990,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Częstochowa / Wręczyca Wielka",
+      "lokalizacja": "Wręczyca Wielka",
+      "wysokosc_m": 340,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1997,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Warszawa / Raszyn",
+      "lokalizacja": "Łazy",
+      "wysokosc_m": 335,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1949,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Białystok / Krynice",
+      "lokalizacja": "Krynice",
+      "wysokosc_m": 331,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1996,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RCN Solec Kujawski",
+      "lokalizacja": "Solec Kujawski",
+      "wysokosc_m": 330,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1999,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Giżycko / Miłki",
+      "lokalizacja": "Miłki",
+      "wysokosc_m": 327,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1998,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Piła / Rusinowo",
+      "lokalizacja": "Rusinowo",
+      "wysokosc_m": 320,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1995,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Bydgoszcz / Trzeciewiec",
+      "lokalizacja": "Bydgoszcz",
+      "wysokosc_m": 320,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTON Iława / Kisielice",
+      "lokalizacja": "Limża",
+      "wysokosc_m": 320,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2001,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Konin / Żółwieniec",
+      "lokalizacja": "Żółwieniec",
+      "wysokosc_m": 320,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1992,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Gdańsk / Chwaszczyno",
+      "lokalizacja": "Chwaszczyno",
+      "wysokosc_m": 317,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Zielona Góra / Jemiołów",
+      "lokalizacja": "Jemiołów",
+      "wysokosc_m": 314,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Siedlce / Łosice",
+      "lokalizacja": "Łosice",
+      "wysokosc_m": 313,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Jaworzno",
+      "lokalizacja": "Jaworzno",
+      "wysokosc_m": 306,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1977,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Kawęczyn",
+      "lokalizacja": "Kawęczyn-Wygoda (Warszawa)",
+      "wysokosc_m": 300,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1983,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Bełchatów blok 1-6",
+      "lokalizacja": "Bełchatów",
+      "wysokosc_m": 300,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1979,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Bełchatów blok 7-12",
+      "lokalizacja": "Bełchatów",
+      "wysokosc_m": 300,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1979,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Rybnik",
+      "lokalizacja": "Rybnik",
+      "wysokosc_m": 300,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1974,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Kozienice",
+      "lokalizacja": "Kozienice",
+      "wysokosc_m": 300,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1972,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle powyżej 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Poznań / Śrem",
+      "lokalizacja": "Góra",
+      "wysokosc_m": 290,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1964,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RCN Solec Kujawski",
+      "lokalizacja": "Solec Kujawski",
+      "wysokosc_m": 289,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1999,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Kraków / Chorągwica",
+      "lokalizacja": "Mietniów",
+      "wysokosc_m": 286,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Żagań",
+      "lokalizacja": "Wichów",
+      "wysokosc_m": 280,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2003,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Kalisz / Mikstat",
+      "lokalizacja": "Mikstat",
+      "wysokosc_m": 273,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1997,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Koszalin/ Gołogóra",
+      "lokalizacja": "Gołogóra",
+      "wysokosc_m": 270,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Szczecin / Kołowo",
+      "lokalizacja": "Kołowo",
+      "wysokosc_m": 267,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1985,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia EC4 w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 265,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1977,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Siersza",
+      "lokalizacja": "Trzebinia",
+      "wysokosc_m": 262,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1970,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Rybnik",
+      "lokalizacja": "Rybnik",
+      "wysokosc_m": 260,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1974,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Kraków",
+      "lokalizacja": "Kraków",
+      "wysokosc_m": 262,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1970,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Płock / Rachocin",
+      "lokalizacja": "",
+      "wysokosc_m": 260,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTON Wrocław / Żórawina",
+      "lokalizacja": "Żórawina",
+      "wysokosc_m": 260,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1976,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Pruszków II",
+      "lokalizacja": "Moszna-Wieś",
+      "wysokosc_m": 256,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Zakłady Włókien Chemicznych CHEMITEX WISKORD",
+      "lokalizacja": "Szczecin",
+      "wysokosc_m": 250,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1979,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Dolna Odra",
+      "lokalizacja": "Nowe Czarnowo",
+      "wysokosc_m": 250,
+      "liczba_kondygnacji": 6,
+      "rok_ukonczenia": 1973,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Huta Katowice",
+      "lokalizacja": "Dąbrowa Górnicza",
+      "wysokosc_m": 250,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Opole",
+      "lokalizacja": "Brzezie",
+      "wysokosc_m": 250,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1993,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Pochodnia PKN Orlen",
+      "lokalizacja": "Płock",
+      "wysokosc_m": 250,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Pałac Kultury i Nauki",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 237,
+      "liczba_kondygnacji": 43,
+      "rok_ukonczenia": 1955,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Suwałki / Krzemianucha",
+      "lokalizacja": "Jeleniewo",
+      "wysokosc_m": 232,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia „Termal” w Lubinie",
+      "lokalizacja": "Lubin",
+      "wysokosc_m": 230,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1982,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Bielsko-Północ",
+      "lokalizacja": "Czechowice-Dziedzice",
+      "wysokosc_m": 225,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1975,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Kraków",
+      "lokalizacja": "Kraków",
+      "wysokosc_m": 225,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1970,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Toruń",
+      "lokalizacja": "Toruń",
+      "wysokosc_m": 225,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Prudnik / Chrzelice",
+      "lokalizacja": "Chrzelice",
+      "wysokosc_m": 221,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1979,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Kielce",
+      "lokalizacja": "Kielce",
+      "wysokosc_m": 220,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Polkowice",
+      "lokalizacja": "Polkowice",
+      "wysokosc_m": 220,
+      "liczba_kondygnacji": 1969,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Komin PKN Orlen",
+      "lokalizacja": "Płock",
+      "wysokosc_m": 220,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Głogów - Widziszów",
+      "lokalizacja": "Głogów",
+      "wysokosc_m": 222,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Przysucha / Kozłowiec",
+      "lokalizacja": "Kozłowiec",
+      "wysokosc_m": 213,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Dęblin / Ryki",
+      "lokalizacja": "Ryki",
+      "wysokosc_m": 213,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Sky Tower",
+      "lokalizacja": "Wrocław",
+      "wysokosc_m": 212,
+      "liczba_kondygnacji": 50,
+      "rok_ukonczenia": 2012,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Lublin / Boży Dar",
+      "lokalizacja": "Boży Dar",
+      "wysokosc_m": 210,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Wiatrowa Nowy Tomyśl",
+      "lokalizacja": "Paproć",
+      "wysokosc_m": 210,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2012,
+      "typ_obiektu": "Elektrownia wiatrowa (Fuhrländer FL-2500, odległość piasty od podłoża: 160 m, średnica wirnika: 100 m)",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "RTCN Sławoborze",
+      "lokalizacja": "Sławoborze",
+      "wysokosc_m": 209,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Warsaw Trade Tower",
+      "lokalizacja": "Mirów (Warszawa)",
+      "wysokosc_m": 208,
+      "liczba_kondygnacji": 43,
+      "rok_ukonczenia": 1999,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Poznań-Karolin",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 204,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1973,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Rzeszów",
+      "lokalizacja": "Rzeszów",
+      "wysokosc_m": 203,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia EC3 w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1976,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gdańsk",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Kielce",
+      "lokalizacja": "Kielce",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Kozienice",
+      "lokalizacja": "Kozienice",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Siekierki",
+      "lokalizacja": "Warszawa",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Żerań",
+      "lokalizacja": "Warszawa",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Kraków Arcelor-Mittal Steel Works",
+      "lokalizacja": "Kraków",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Łaziska",
+      "lokalizacja": "Łaziska Górne",
+      "wysokosc_m": 200,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 200 – 300 metrów"
+    },
+    {
+      "nazwa": "Złota 44",
+      "lokalizacja": "Śródmieście (Warszawa)",
+      "wysokosc_m": 192,
+      "liczba_kondygnacji": 54,
+      "rok_ukonczenia": 2012,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Rondo 1",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 192,
+      "liczba_kondygnacji": 40,
+      "rok_ukonczenia": 2006,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Wrocław",
+      "lokalizacja": "Wrocław",
+      "wysokosc_m": 186,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1978,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Anwil Włocławek",
+      "lokalizacja": "Włocławek",
+      "wysokosc_m": 182,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Anwil Włocławek",
+      "lokalizacja": "Włocławek",
+      "wysokosc_m": 180,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Bełchatów",
+      "lokalizacja": "Rogowiec",
+      "wysokosc_m": 180,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2009,
+      "typ_obiektu": "Chłodnia kominowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC Tychy",
+      "lokalizacja": "Tychy",
+      "wysokosc_m": 180,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC-3 Łódź",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 180,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1969,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Olivia Star",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 180,
+      "liczba_kondygnacji": "35 + 3",
+      "rok_ukonczenia": 2017,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma Wiatrowa Krobia I",
+      "lokalizacja": "Krobia",
+      "wysokosc_m": 178,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2013,
+      "typ_obiektu": "Turbina wiatrowa (AW 3000, odległość piasty od podłoża: 120 m, średnica wirnika: 116 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma Wiatrowa Poniec II",
+      "lokalizacja": "Poniec",
+      "wysokosc_m": 178,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2015,
+      "typ_obiektu": "Turbina wiatrowa (AW 3000, odległość piasty od podłoża: 120 m, średnica wirnika: 116 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma Wiatrowa Pągów",
+      "lokalizacja": "przestrzenie pomiędzy Pągowem, Wabienicami, Bukowiem i Wojciechowem k. Bierutowa",
+      "wysokosc_m": "~175 m",
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2012,
+      "typ_obiektu": "Turbina wiatrowa (Vestas V112-3.0, odległość piasty od podłoża: 119 m, średnica wirnika: 112 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Centrum LIM",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 170.1,
+      "liczba_kondygnacji": 43,
+      "rok_ukonczenia": 1989,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "KPEC Karczew",
+      "lokalizacja": "Karczew",
+      "wysokosc_m": 170,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Warsaw Financial Center",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 165,
+      "liczba_kondygnacji": 32,
+      "rok_ukonczenia": 1998,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RON Radom",
+      "lokalizacja": "Radom",
+      "wysokosc_m": 164,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "InterContinental Warszawa",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 163.5,
+      "liczba_kondygnacji": 48,
+      "rok_ukonczenia": 2004,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC-2 Łódź",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 160,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Synthos",
+      "lokalizacja": "Oświęcim",
+      "wysokosc_m": 160,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Zakłady Włókien Chemicznych „Wistom”",
+      "lokalizacja": "Tomaszów Mazowiecki",
+      "wysokosc_m": 160,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC w Zakładach Azotowych Puławy",
+      "lokalizacja": "Puławy",
+      "wysokosc_m": 160,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "MPEC Włocławek",
+      "lokalizacja": "Włocławek",
+      "wysokosc_m": 157,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Lublin-Wrotków",
+      "lokalizacja": "Lublin",
+      "wysokosc_m": 156,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1976,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTCN Kielce / Święty Krzyż",
+      "lokalizacja": "Łysa Góra",
+      "wysokosc_m": 157,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1966,
+      "typ_obiektu": "Wieża",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Radom",
+      "lokalizacja": "Radom",
+      "wysokosc_m": 154.22,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "MPEC Ciepłowni Miejskiej",
+      "lokalizacja": "Łomża",
+      "wysokosc_m": 152,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Kwidzyn Paper Factory",
+      "lokalizacja": "Kwidzyn",
+      "wysokosc_m": 152,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Rafineria Gdańsk",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 152,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Park Wiatrowy Suwałki",
+      "lokalizacja": "Suwałki",
+      "wysokosc_m": 151,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2009,
+      "typ_obiektu": "Turbina wiatrowa (Siemens SWT-2.3-93, odległość piasty od podłoża: 103 m, średnica wirnika: 92,8 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gorlice",
+      "lokalizacja": "Gorlice",
+      "wysokosc_m": 151,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1978,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC Gdyńska",
+      "lokalizacja": "Gdynia",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC Zofiówka",
+      "lokalizacja": "Jastrzębie-Zdrój",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Zakłady Włókien Chemicznych „Wistom”",
+      "lokalizacja": "Tomaszów Mazowiecki",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Chałubińskiego 8",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": 42,
+      "rok_ukonczenia": 1979,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gdynia",
+      "lokalizacja": "Gdynia",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia EC3 w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1969,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Swarzędzkie Fabryki Mebli w Mosinie",
+      "lokalizacja": "Mosina",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Turów",
+      "lokalizacja": "Turów",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Huta Miedzi w Legnicy",
+      "lokalizacja": "Legnica",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1952,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Park Wiatrowy Gołdap",
+      "lokalizacja": "Gołdap",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": 16,
+      "rok_ukonczenia": 2008,
+      "typ_obiektu": "Turbina wiatrowa (Vestas V90, odległość piasty od podłoża: 105 m, średnica wirnika: 90 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma wiatrowa w Sarbia",
+      "lokalizacja": "Karcino",
+      "wysokosc_m": 150,
+      "liczba_kondygnacji": 17,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Vestas V90, odległość piasty od podłoża: 105 m, średnica wirnika: 90 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma wiatrowa Łęki Dukielskie",
+      "lokalizacja": "Łęki Dukielskie",
+      "wysokosc_m": 145,
+      "liczba_kondygnacji": 20,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (RePower, odległość piasty od podłoża: 100 m, średnica wirnika: 92,5 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma Wiatrowa Tychowo",
+      "lokalizacja": "Tychowo",
+      "wysokosc_m": 145,
+      "liczba_kondygnacji": 20,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Nordex N90, odległość piasty od podłoża: 100 m, średnica wirnika: 90 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Sea Towers",
+      "lokalizacja": "Śródmieście (Gdynia), Gdynia",
+      "wysokosc_m": 141.6,
+      "liczba_kondygnacji": 38,
+      "rok_ukonczenia": 2009,
+      "typ_obiektu": "Wieżowiec (wyższa wieża: wysokość całkowita 141,6 metrów wysokość do dachu 125,4 metrów)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Bazylika w Licheniu",
+      "lokalizacja": "Licheń",
+      "wysokosc_m": 141.5,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2004,
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia wiatrowa Tymień",
+      "lokalizacja": "Tymień",
+      "wysokosc_m": 140,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2004,
+      "typ_obiektu": "Turbina wiatrowa (Vestas V80, odległość piasty od podłoża: 100 m, średnica wirnika: 80 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Ostrołęka",
+      "lokalizacja": "Ostrołęka",
+      "wysokosc_m": 140,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2008,
+      "typ_obiektu": "Wieża",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Karścino",
+      "lokalizacja": "Karścino",
+      "wysokosc_m": 139,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2004,
+      "typ_obiektu": "Turbina wiatrowa (Fuhrlander FL-1500, MD77, odległość piasty od podłoża: 100 m, średnica wirnika: 77 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma wiatrowa w Darżynie",
+      "lokalizacja": "Darżyno",
+      "wysokosc_m": 139,
+      "liczba_kondygnacji": 3,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Enercon E82, odległość piasty od podłoża: 98 m, średnica wirnika: 82 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Intraco I",
+      "lokalizacja": "Muranów (Warszawa)",
+      "wysokosc_m": 138,
+      "liczba_kondygnacji": 39,
+      "rok_ukonczenia": 1975,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Wałbrzych",
+      "lokalizacja": "Wałbrzych",
+      "wysokosc_m": 138,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1981,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTCN Wrocław / Ślęża",
+      "lokalizacja": "Ślęża",
+      "wysokosc_m": 136,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1972,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Czechnica",
+      "lokalizacja": "Siechnice",
+      "wysokosc_m": 135,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1900,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTON Lubań / Nowa Karczma",
+      "lokalizacja": "Siekierczyn",
+      "wysokosc_m": 134,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1969,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "EC w Zakładach Azotowych Puławy",
+      "lokalizacja": "Puławy",
+      "wysokosc_m": 132,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1994,
+      "typ_obiektu": "Wieża granulacyjna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Maszt RTV Leżajsk - Giedlarowa",
+      "lokalizacja": "Leżajsk",
+      "wysokosc_m": 130,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Farma wiatrowa Hnatkowice-Orzechowce",
+      "lokalizacja": "Hnatkowice",
+      "wysokosc_m": 130,
+      "liczba_kondygnacji": 6,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Gamesa G87-2MW, odległość piasty od podłoża: 87 m, średnica wirnika: 87 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Świebodów",
+      "lokalizacja": "Świebodów",
+      "wysokosc_m": 129,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "PAZIM",
+      "lokalizacja": "Szczecin",
+      "wysokosc_m": 128,
+      "liczba_kondygnacji": 22,
+      "rok_ukonczenia": 1992,
+      "typ_obiektu": "Biurowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Spektrum",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 128,
+      "liczba_kondygnacji": 30,
+      "rok_ukonczenia": 2001,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Piątkowo",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 128,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1993,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Nowodwory (Warszawa)",
+      "wysokosc_m": 127,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Skierniewickiej Spółdzielni Mleczarskiej",
+      "lokalizacja": "Skierniewice",
+      "wysokosc_m": 127,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Megatem EC-Lublin",
+      "lokalizacja": "Tatary (Lublin)",
+      "wysokosc_m": 125.27,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1972,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Altus",
+      "lokalizacja": "Katowice",
+      "wysokosc_m": 125,
+      "liczba_kondygnacji": 29,
+      "rok_ukonczenia": 2002,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "KWK Katowice",
+      "lokalizacja": "Katowice",
+      "wysokosc_m": 125,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Wieża szybowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Łodygowa",
+      "lokalizacja": "Łodygowo",
+      "wysokosc_m": 124,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": 1991,
+      "typ_obiektu": "Turbina wiatrowa (odległość piasty od podłoża: 85 m, średnica wirnika: 71 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Bierkowa",
+      "lokalizacja": "Bierkowa",
+      "wysokosc_m": 124,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2010,
+      "typ_obiektu": "Wieza",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Most Rędziński",
+      "lokalizacja": "Wrocław",
+      "wysokosc_m": 122,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2011,
+      "typ_obiektu": "Pylon",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin zakładów FAZOS",
+      "lokalizacja": "Tarnowskie Góry",
+      "wysokosc_m": 122,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Łomianki",
+      "wysokosc_m": 121,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Kamieńsk",
+      "lokalizacja": "Kamieńsk",
+      "wysokosc_m": 121,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Enercon E-70 E-4, odległość piasty od podłoża: 85 m, średnica wirnika: 71 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Zakłady Mechaniczne Tarnów",
+      "lokalizacja": "Tarnów",
+      "wysokosc_m": 120.3,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "1978-1981",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "TC Dębica",
+      "lokalizacja": "Dębica",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "wiatrak, wytwarzający energię wiatrową",
+      "lokalizacja": "Brdów",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2011,
+      "typ_obiektu": "Turbina wiatrowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Wrocław",
+      "lokalizacja": "Wrocław",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Zagórze",
+      "lokalizacja": "Zagórze",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Vestas V80, odległość piasty od podłoża: 80 m, średnica wirnika: 80 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Kopań",
+      "lokalizacja": "Kopań",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Vestas V80, odległość piasty od podłoża: 80 m, średnica wirnika: 80 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Wiatrowa Cisowo",
+      "lokalizacja": "Cisowo",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": 9,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Turbina wiatrowa (Vestas V80, odległość piasty od podłoża: 80 m, średnica wirnika: 80 m)",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Błękitny Wieżowiec",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": 1991,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Koksownia Radlin",
+      "lokalizacja": "Radlin",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": 3,
+      "rok_ukonczenia": 2007,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gdańsk",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gdańsk",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Rybnik",
+      "lokalizacja": "Rybnik",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1978,
+      "typ_obiektu": "Chłodnia kominowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Rybnik",
+      "lokalizacja": "Rybnik",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1978,
+      "typ_obiektu": "Chłodnia kominowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Rybnik",
+      "lokalizacja": "Rybnik",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2007,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTCN Sucha Góra",
+      "lokalizacja": "Sucha Góra (Krosno)",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Wieża",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia EC3 w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1957,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia EC2 w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1957,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Makarki",
+      "lokalizacja": "Makarki",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "ZEC Pabianice",
+      "lokalizacja": "Pabianice",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Ciepłownia DPM w Koszalinie",
+      "lokalizacja": "Koszalin",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Ciepłownia w Przemyślu",
+      "lokalizacja": "Przemyśl",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Ciepłownia w Legnicy",
+      "lokalizacja": "Legnica",
+      "wysokosc_m": 120,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Suwnica na terenie ST3 Offshore",
+      "lokalizacja": "Szczecin - Ostrów Brdowski",
+      "wysokosc_m": "~120 m",
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2016,
+      "typ_obiektu": "Suwnica bramowa",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Ciepłownia Południe w Radomiu",
+      "lokalizacja": "Radom",
+      "wysokosc_m": 119.48,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Rafineria Gdańsk",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 119,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Lubaniew",
+      "wysokosc_m": 117,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Bobrowniki",
+      "wysokosc_m": 117,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Świeże Górne",
+      "wysokosc_m": 116,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Rybaków",
+      "wysokosc_m": 116,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Millennium Plaza",
+      "lokalizacja": "Filtry (Warszawa)",
+      "wysokosc_m": 116,
+      "liczba_kondygnacji": 28,
+      "rok_ukonczenia": 1999,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Ostrówek",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "ENERGA Elektrownie Ostrołęka",
+      "lokalizacja": "Ostrołęka",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": 25,
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Central Tower",
+      "lokalizacja": "Filtry (Warszawa)",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": 26,
+      "rok_ukonczenia": 1996,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTON Elbląg / Jagodnik",
+      "lokalizacja": "Jagodnik",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTCN Koszalin / Gołogóra",
+      "lokalizacja": "Gołogóra",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1962,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RON Mrągowo / ul.Spacerowa",
+      "lokalizacja": "Mrągowo",
+      "wysokosc_m": 115,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RSN Szczecin / Warszewo",
+      "lokalizacja": "Szczecin",
+      "wysokosc_m": 114,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Łucka City",
+      "lokalizacja": "Mirów (Warszawa)",
+      "wysokosc_m": 111.9,
+      "liczba_kondygnacji": 30,
+      "rok_ukonczenia": 2004,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Radiostacja gliwicka",
+      "lokalizacja": "Gliwice",
+      "wysokosc_m": 111,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1935,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Probostwo Dolne",
+      "wysokosc_m": 111,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Novotel Warszawa Centrum",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 110.9,
+      "liczba_kondygnacji": 33,
+      "rok_ukonczenia": 1974,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SFW Energia",
+      "lokalizacja": "Gliwice",
+      "wysokosc_m": 110,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Bazylika Archikatedralna św. Jakuba",
+      "lokalizacja": "Szczecin",
+      "wysokosc_m": 110,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2008,
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Cracovia Business Center",
+      "lokalizacja": "Kraków",
+      "wysokosc_m": 110,
+      "liczba_kondygnacji": 20,
+      "rok_ukonczenia": 1998,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RCN Lubliniec / Koszęcin",
+      "lokalizacja": "Koszęcin",
+      "wysokosc_m": 110,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1977,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Katowice / Bytków",
+      "lokalizacja": "Siemianowice Śląskie",
+      "wysokosc_m": 110,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Budynek",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Nowy Bógpomóż",
+      "wysokosc_m": 109,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "TON Piła-Staszyce",
+      "lokalizacja": "Piła",
+      "wysokosc_m": 108,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1973,
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Słup linii energetycznej nad Wisłą",
+      "lokalizacja": "Gołąb",
+      "wysokosc_m": 108,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Słup energetyczny",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RON Janice",
+      "lokalizacja": "Gorzów Wielkopolski",
+      "wysokosc_m": 107,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "KWK Czeczott",
+      "lokalizacja": "Wola",
+      "wysokosc_m": 107,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Szyb górniczy",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Collegium Altum Uniwersytetu Ekonomicznego w Poznaniu",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 106.6,
+      "liczba_kondygnacji": 22,
+      "rok_ukonczenia": 1991,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Bazylika jasnogórska",
+      "lokalizacja": "Częstochowa",
+      "wysokosc_m": 106.3,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTCN Lublin / Boży Dar",
+      "lokalizacja": "Boży Dar",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Maszt radiowy w Sowlanach",
+      "lokalizacja": "Sowlany",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Babka Tower",
+      "lokalizacja": "Muranów (Warszawa)",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": 28,
+      "rok_ukonczenia": 2002,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Złote Tarasy",
+      "lokalizacja": "Śródmieście Północne (Warszawa)",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": 26,
+      "rok_ukonczenia": 2007,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Most im. Jana Pawła II w Gdańsku",
+      "lokalizacja": "Gdańsk",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2001,
+      "typ_obiektu": "Pylon",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Biurowiec Wojewódzki",
+      "lokalizacja": "Katowice",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": 22,
+      "rok_ukonczenia": 1985,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Olsztyn-Track",
+      "lokalizacja": "Olsztyn",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "ER Piotrków",
+      "lokalizacja": "Piotrków",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Gorzków",
+      "lokalizacja": "Gorzków",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Kopalnia Węgla Kamiennego Rydułtowy-Anna",
+      "lokalizacja": "Pszów",
+      "wysokosc_m": 105,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Miejskie Przedsiębiorstwo Energetyki Cieplnej",
+      "lokalizacja": "Leszno",
+      "wysokosc_m": 104,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1981,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTON Lublin-Raabego",
+      "lokalizacja": "Lublin",
+      "wysokosc_m": 104,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Collegium Altum w Poznaniu",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 103.35,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1991,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Cementownia Rudniki wieża wymienników",
+      "lokalizacja": "Konin (województwo śląskie)",
+      "wysokosc_m": 103.33,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 2019,
+      "typ_obiektu": "Wieża",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Katedra w Świdnicy",
+      "lokalizacja": "Świdnica",
+      "wysokosc_m": 103,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Kościół Mariacki w Chojnie",
+      "lokalizacja": "Chojna",
+      "wysokosc_m": 102.6,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1861,
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Andersia Tower",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 102.1,
+      "liczba_kondygnacji": 20,
+      "rok_ukonczenia": 2007,
+      "typ_obiektu": "Wieżowiec",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Niższy maszt radiowy w Krynicach 2",
+      "lokalizacja": "Krynice",
+      "wysokosc_m": 102,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Włodawa",
+      "lokalizacja": "Włodawa",
+      "wysokosc_m": 102,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Zakrzowski",
+      "lokalizacja": "Wrocław",
+      "wysokosc_m": 102,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1990,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "RTON Zakopane / Gubałówka",
+      "lokalizacja": "Zakopane",
+      "wysokosc_m": 102,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Archikatedra św. Stanisława Kostki w Łodzi",
+      "lokalizacja": "Łódź",
+      "wysokosc_m": 101.5,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1912,
+      "typ_obiektu": "Budowla sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrociepłownia Gniezno",
+      "lokalizacja": "Gniezno",
+      "wysokosc_m": 101.5,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "kościół pw. Wniebowzięcia Najświętszej Marii Panny w Bielawie",
+      "lokalizacja": "Bielawa",
+      "wysokosc_m": 101,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "1868-76",
+      "typ_obiektu": "Budowla Sakralna",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Zakłady Włókien Chemicznych „Wistom”",
+      "lokalizacja": "Tomaszów Mazowiecki",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "?",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Dawna elektrociepłownia",
+      "lokalizacja": "Leszno",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Ciepłownia Wodzisław Śląski",
+      "lokalizacja": "Wodzisław Śląski",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Elektrownia Garbary",
+      "lokalizacja": "Poznań",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": 1929,
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Suraż",
+      "lokalizacja": "Suraż",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Osmolin",
+      "lokalizacja": "Osmolin",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "SLR Rożniątów",
+      "lokalizacja": "Rożniątów",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Maszt",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Nowy Sącz/Biegonice",
+      "lokalizacja": "Nowy Sącz/Biegonice",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Skoczów",
+      "lokalizacja": "Skoczów",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Bielsko-Biała",
+      "lokalizacja": "Bielsko-Biała",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Żory",
+      "lokalizacja": "Żory",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Kraków/Bonarka",
+      "lokalizacja": "Kraków",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Niedomice",
+      "lokalizacja": "Niedomice",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Mysłowice/Wesoła",
+      "lokalizacja": "Mysłowice",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Gliwice",
+      "lokalizacja": "Gliwice",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Leżajsk",
+      "lokalizacja": "Leżajsk",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Bytom/Miechowice",
+      "lokalizacja": "Bytom",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Klucze",
+      "lokalizacja": "Klucze",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    },
+    {
+      "nazwa": "Komin Elektrociepłowni Kielce",
+      "lokalizacja": "Kielce",
+      "wysokosc_m": 100,
+      "liczba_kondygnacji": "",
+      "rok_ukonczenia": "",
+      "typ_obiektu": "Komin",
+      "przedzial": "Budowle o wysokości 100 – 200 metrów"
+    }
+  ],
+  "meta": {
+    "title": "Najwyższe budowle w Polsce (powyżej 100 m) - Free Download",
+    "description": "Lista najwyższych budowli w Polsce o wysokości powyżej 100 metrów: maszty RTV, kominy, wieżowce i inne obiekty z lokalizacją, wysokością i rokiem ukończenia. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najwyższe budowle w Polsce (powyżej 100 m) | ListBase",
+    "seo_description": "Download Najwyższe budowle w Polsce (powyżej 100 m) — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_najwyższych_budowli_w_Polsce"
+    ]
+  }
+}

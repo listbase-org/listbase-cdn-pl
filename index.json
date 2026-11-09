@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:12.631Z",
-  "total_datasets": 543,
-  "total_records": 1094281,
+  "generated": "2026-11-09T02:27:20.243Z",
+  "total_datasets": 544,
+  "total_records": 1094518,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "time",
@@ -13225,6 +13225,34 @@
         "xlsx": {
           "name": "pl-sklepy-sportowe_PL.xlsx",
           "size": 37053
+        }
+      }
+    },
+    {
+      "id": "pl-najwyzsze-budowle",
+      "name": "Najwyższe budowle w Polsce (powyżej 100 m)",
+      "category": "tech",
+      "record_count": 237,
+      "columns": [
+        "nazwa",
+        "lokalizacja",
+        "wysokosc_m",
+        "liczba_kondygnacji",
+        "rok_ukonczenia",
+        "typ_obiektu",
+        "przedzial"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_najwyższych_budowli_w_Polsce",
+      "updated": "2026-11",
+      "size": 67850,
+      "files": {
+        "csv": {
+          "name": "pl-najwyzsze-budowle_PL.csv",
+          "size": 27108
+        },
+        "xlsx": {
+          "name": "pl-najwyzsze-budowle_PL.xlsx",
+          "size": 18226
         }
       }
     },
