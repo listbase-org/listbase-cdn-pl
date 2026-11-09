@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:34.540Z",
-  "total_datasets": 546,
-  "total_records": 1094712,
+  "generated": "2026-11-09T02:27:41.565Z",
+  "total_datasets": 547,
+  "total_records": 1094736,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -180,6 +180,29 @@
         "xlsx": {
           "name": "pl-odmiany-jabloni_PL.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "pl-prezesi-arimr",
+      "name": "Prezesi Agencji Restrukturyzacji i Modernizacji Rolnictwa",
+      "category": "agriculture",
+      "record_count": 24,
+      "columns": [
+        "prezes",
+        "okres"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Agencja_Restrukturyzacji_i_Modernizacji_Rolnictwa",
+      "updated": "2026-11",
+      "size": 3920,
+      "files": {
+        "csv": {
+          "name": "pl-prezesi-arimr_PL.csv",
+          "size": 1283
+        },
+        "xlsx": {
+          "name": "pl-prezesi-arimr_PL.xlsx",
+          "size": 7588
         }
       }
     },
