@@ -1,0 +1,108 @@
+{
+  "id": "pl-glowni-inspektorzy-sanitarni",
+  "name": "Główni Inspektorzy Sanitarni",
+  "title": "Główni Inspektorzy Sanitarni",
+  "description": "Lista Głównych Inspektorów Sanitarnych w Polsce od 1955 roku wraz z okresem urzędowania.",
+  "category": "health",
+  "source": "https://pl.wikipedia.org/wiki/Główny_Inspektorat_Sanitarny",
+  "source_url": "https://pl.wikipedia.org/wiki/Główny_Inspektorat_Sanitarny",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "glowny_inspektor_sanitarny",
+      "label": "Glowny Inspektor Sanitarny",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "glowny_inspektor_sanitarny": "Bogusław Kożusznik",
+      "okres": "1955–1959"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Jan Rutkiewicz",
+      "okres": "1959–1961"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Jan Karol Kostrzewski",
+      "okres": "1961–1968"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Ryszard Brzozowski",
+      "okres": "1968–1984"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Jerzy Bończak",
+      "okres": "1984–1988"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Andrzej Kosiniak-Kamysz",
+      "okres": "1989"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Wiesław Jaszczyński",
+      "okres": "1990–1991"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Zbigniew Hałat",
+      "okres": "1991–1993"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Wiesław Jaszczyński",
+      "okres": "1993–1997"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Irena Głowaczewska",
+      "okres": "1997–1999"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Paweł Policzkiewicz",
+      "okres": "2000–2001"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Andrzej Trybusz",
+      "okres": "2001–2006"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Andrzej Wojtyła",
+      "okres": "2006–2010"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Przemysław Biliński",
+      "okres": "2010–2012"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Marek Posobkiewicz",
+      "okres": "p.o. 2012–2015, 2015–2018"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Jarosław Pinkas",
+      "okres": "2018–2020"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Krzysztof Saczka",
+      "okres": "p.o. 2020–2024"
+    },
+    {
+      "glowny_inspektor_sanitarny": "Paweł Grzesiowski",
+      "okres": "od 2024"
+    }
+  ],
+  "meta": {
+    "title": "Główni Inspektorzy Sanitarni - Free Download",
+    "description": "Lista Głównych Inspektorów Sanitarnych w Polsce od 1955 roku wraz z okresem urzędowania. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Główni Inspektorzy Sanitarni | ListBase",
+    "seo_description": "Download Główni Inspektorzy Sanitarni — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Główny_Inspektorat_Sanitarny"
+    ]
+  }
+}

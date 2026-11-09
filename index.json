@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-05T02:13:13.900Z",
-  "total_datasets": 541,
-  "total_records": 1094252,
+  "generated": "2026-11-09T02:27:05.690Z",
+  "total_datasets": 542,
+  "total_records": 1094270,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -3688,6 +3688,29 @@
         "xlsx": {
           "name": "pl-apteki_PL.xlsx",
           "size": 302662
+        }
+      }
+    },
+    {
+      "id": "pl-glowni-inspektorzy-sanitarni",
+      "name": "Główni Inspektorzy Sanitarni",
+      "category": "health",
+      "record_count": 18,
+      "columns": [
+        "glowny_inspektor_sanitarny",
+        "okres"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Główny_Inspektorat_Sanitarny",
+      "updated": "2026-11",
+      "size": 3188,
+      "files": {
+        "csv": {
+          "name": "pl-glowni-inspektorzy-sanitarni_PL.csv",
+          "size": 683
+        },
+        "xlsx": {
+          "name": "pl-glowni-inspektorzy-sanitarni_PL.xlsx",
+          "size": 7271
         }
       }
     },
