@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:05.690Z",
-  "total_datasets": 542,
-  "total_records": 1094270,
+  "generated": "2026-11-09T02:27:12.631Z",
+  "total_datasets": 543,
+  "total_records": 1094281,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -3711,6 +3711,30 @@
         "xlsx": {
           "name": "pl-glowni-inspektorzy-sanitarni_PL.xlsx",
           "size": 7271
+        }
+      }
+    },
+    {
+      "id": "pl-kalendarz-szczepien-obowiazkowych",
+      "name": "Kalendarz szczepień obowiązkowych w Polsce",
+      "category": "health",
+      "record_count": 11,
+      "columns": [
+        "etap",
+        "wiek",
+        "szczepienie_przeciw"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Program_Szczepień_Ochronnych_w_Polsce",
+      "updated": "2026-11",
+      "size": 5749,
+      "files": {
+        "csv": {
+          "name": "pl-kalendarz-szczepien-obowiazkowych_PL.csv",
+          "size": 3392
+        },
+        "xlsx": {
+          "name": "pl-kalendarz-szczepien-obowiazkowych_PL.xlsx",
+          "size": 7612
         }
       }
     },

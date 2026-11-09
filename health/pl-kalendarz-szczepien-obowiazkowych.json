@@ -1,0 +1,96 @@
+{
+  "id": "pl-kalendarz-szczepien-obowiazkowych",
+  "name": "Kalendarz szczepień obowiązkowych w Polsce",
+  "title": "Kalendarz szczepień obowiązkowych w Polsce",
+  "description": "Kalendarz szczepień obowiązkowych dzieci i młodzieży według Programu Szczepień Ochronnych w Polsce: wiek i szczepienia.",
+  "category": "health",
+  "source": "https://pl.wikipedia.org/wiki/Program_Szczepień_Ochronnych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Program_Szczepień_Ochronnych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "etap",
+      "label": "Etap",
+      "type": "string"
+    },
+    {
+      "key": "wiek",
+      "label": "Wiek",
+      "type": "string"
+    },
+    {
+      "key": "szczepienie_przeciw",
+      "label": "Szczepienie Przeciw",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "etap": "1. rok życia",
+      "wiek": "w ciągu 24 godzin po urodzeniu",
+      "szczepienie_przeciw": "WZW typu B – domięśniowo lub podskórnie (pierwsza dawka) gruźlicy – śródskórnie szczepionką BCG"
+    },
+    {
+      "etap": "1. rok życia",
+      "wiek": "2. miesiąc życia (7.–8. tydzień)",
+      "szczepienie_przeciw": "WZW typu B – domięśniowo (druga dawka) błonicy, tężcowi, krztuścowi – podskórnie lub domięśniowo szczepionką DTP (pierwsza dawka) zakażeniom Haemophilus influenzae typu b – podskórnie lub domięśniowo (pierwsza dawka) inwazyjnym zakażeniom Streptococcus pneumoniae domięśniowo lub podskórnie (pierwsza dawka)"
+    },
+    {
+      "etap": "1. rok życia",
+      "wiek": "3.–4. miesiąc życia (po 6–8 tygodniach od poprzedniego szczepienia)",
+      "szczepienie_przeciw": "rotawirusy – doustnie (druga dawka) błonicy, tężcowi, krztuścowi – podskórnie lub domięśniowo szczepionką DTP (druga dawka) poliomyelitis – podskórnie lub domięśniowo szczepionką inaktywowaną IPV poliwalentną (pierwsza dawka) zakażeniom Haemophilus influenzae typu b – podskórnie lub domięśniowo (druga dawka) inwazyjnym zakażeniom Streptococcus pneumoniae domięśniowo lub, w przypadkach indywidualnych, podskórnie (druga dawka)"
+    },
+    {
+      "etap": "1. rok życia",
+      "wiek": "5.–6. miesiąc życia (po 6–8 tygodniach od poprzedniego szczepienia)",
+      "szczepienie_przeciw": "rotawirusy – doustnie (trzecia dawka) błonicy, tężcowi, krztuścowi – podskórnie lub domięśniowo szczepionką DTP (trzecia dawka) poliomyelitis – podskórnie lub domięśniowo szczepionką inaktywowaną IPV poliwalentną (druga dawka) zakażeniom Haemophilus influenzae typu b – podskórnie lub domięśniowo (trzecia dawka)"
+    },
+    {
+      "etap": "1. rok życia",
+      "wiek": "7. miesiąc życia",
+      "szczepienie_przeciw": "WZW typu B – domięśniowo (trzecia dawka)"
+    },
+    {
+      "etap": "2. rok życia",
+      "wiek": "13.–14. miesiąc życia",
+      "szczepienie_przeciw": "odrze, śwince, różyczce – domięśniowo lub podskórnie atenuowaną szczepionką skojarzoną (typu MMR) (szczepienie podstawowe) inwazyjnym zakażeniom Streptococcus pneumoniae domięśniowo lub podskórnie (trzecia dawka)"
+    },
+    {
+      "etap": "2. rok życia",
+      "wiek": "16.–18. miesiąc życia",
+      "szczepienie_przeciw": "błonicy, tężcowi, krztuścowi – podskórnie lub domięśniowo szczepionką DTP (czwarta dawka) poliomyelitis – podskórnie lub domięśniowo szczepionką IPV poliwalentną (trzecia dawka) zakażeniom Haemophilus influenzae typu b – podskórnie lub domięśniowo (czwarta dawka)"
+    },
+    {
+      "etap": "Okres przedszkolny",
+      "wiek": "6. rok życia",
+      "szczepienie_przeciw": "błonicy, tężcowi, krztuścowi – domięśniowo lub podskórnie szczepionką DTaP zawierającą bezkomórkowy komponent krztuśca (pierwsza dawka szczepienia przypominającego) poliomyelitis – domięśniowo lub podskórnie szczepionką inaktywowaną IPV poliwalentną zawierającą antygeny 1, 2, 3 typu wirusa (dawka przypominająca) odrze, śwince, różyczce – domięśniowo lub podskórnie atenuowaną szczepionką skojarzoną (dawka przypominająca)"
+    },
+    {
+      "etap": "Szkoła podstawowa",
+      "wiek": "10. rok życia",
+      "szczepienie_przeciw": "odrze, śwince, różyczce – domięśniowo lub podskórnie atenuowaną szczepionką skojarzoną (dawka przypominająca)"
+    },
+    {
+      "etap": "Szkoła podstawowa",
+      "wiek": "14. rok życia",
+      "szczepienie_przeciw": "błonicy, tężcowi, krztuścowi – podskórnie lub domięśniowo szczepionką dTap ze zmniejszoną zawartością komponentu krztuścowego zawierającą bezkomórkowy komponent krztuśca (druga dawka szczepienia przypominającego)"
+    },
+    {
+      "etap": "Szkoła ponadpodstawowa",
+      "wiek": "19. rok życia lub ostatni rok nauki w szkole",
+      "szczepienie_przeciw": "błonicy, tężcowi – podskórnie lub domięśniowo szczepionką Td (trzecia dawka szczepienia przypominającego)"
+    }
+  ],
+  "meta": {
+    "title": "Kalendarz szczepień obowiązkowych w Polsce - Free Download",
+    "description": "Kalendarz szczepień obowiązkowych dzieci i młodzieży według Programu Szczepień Ochronnych w Polsce: wiek i szczepienia. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kalendarz szczepień obowiązkowych w Polsce | ListBase",
+    "seo_description": "Download Kalendarz szczepień obowiązkowych w Polsce — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Program_Szczepień_Ochronnych_w_Polsce"
+    ]
+  }
+}
