@@ -1,0 +1,211 @@
+{
+  "id": "pl-marszalkowie-wielcy-koronni",
+  "name": "Marszałkowie wielcy koronni",
+  "title": "Marszałkowie wielcy koronni",
+  "description": "Lista marszałków wielkich koronnych od XIV w. do 1795 r. z latami sprawowania urzędu.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Marszałek_wielki_koronny",
+  "source_url": "https://pl.wikipedia.org/wiki/Marszałek_wielki_koronny",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "lata_urzedowania",
+      "label": "Lata Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imie_i_nazwisko": "Pełka z Kościelca",
+      "lata_urzedowania": "zm. 1368/1369",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Kolczek z Zakrzowa",
+      "lata_urzedowania": "?–1375",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Przedbor z Brzezia",
+      "lata_urzedowania": "1375–1378",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Tarnowski",
+      "lata_urzedowania": "1378–1381",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Przedbor z Brzezia",
+      "lata_urzedowania": "1381–1387",
+      "uwagi": "ponownie"
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj z Bogorii",
+      "lata_urzedowania": "1387–1388",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Dymitr z Goraja",
+      "lata_urzedowania": "1388–1399",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Zbigniew z Brzezia",
+      "lata_urzedowania": "1399–1425",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wawrzyniec Zaremba z Kalinowy",
+      "lata_urzedowania": "1425–1430",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Głowacz Oleśnicki",
+      "lata_urzedowania": "1430–1440",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Lanckoroński z Brzezia",
+      "lata_urzedowania": "1440–1462",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Rytwiański",
+      "lata_urzedowania": "1462–1477",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Rafał Jakub Jarosławski",
+      "lata_urzedowania": "1477–1494",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Piotr Kmita z Wiśnicza",
+      "lata_urzedowania": "1494–1505",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Chodecki z Chodcza",
+      "lata_urzedowania": "1506–1529",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Piotr Kmita Sobieński",
+      "lata_urzedowania": "1529–1553",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Mielecki",
+      "lata_urzedowania": "1553–1561",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Firlej",
+      "lata_urzedowania": "1561–1574",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Opaliński",
+      "lata_urzedowania": "1574–1593",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Przyjemski",
+      "lata_urzedowania": "1593–1595",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Zebrzydowski",
+      "lata_urzedowania": "1596–1600",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Zygmunt Myszkowski",
+      "lata_urzedowania": "1600–1615",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Wolski",
+      "lata_urzedowania": "1616–1634",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Łukasz Opaliński",
+      "lata_urzedowania": "1634–1650",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jerzy Sebastian Lubomirski",
+      "lata_urzedowania": "1650–1665",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Sobieski",
+      "lata_urzedowania": "1665–1676",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Herakliusz Lubomirski",
+      "lata_urzedowania": "1676–1702",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Józef Karol Lubomirski",
+      "lata_urzedowania": "1702",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Kazimierz Ludwik Bieliński",
+      "lata_urzedowania": "1702–1713",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Józef Wandalin Mniszech",
+      "lata_urzedowania": "1713–1742",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Franciszek Bieliński",
+      "lata_urzedowania": "1742–1766",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Lubomirski",
+      "lata_urzedowania": "1766–1783",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Michał Jerzy Mniszech",
+      "lata_urzedowania": "1783–1793",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Fryderyk Józef Moszyński",
+      "lata_urzedowania": "1793–1795",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Marszałkowie wielcy koronni - Free Download",
+    "description": "Lista marszałków wielkich koronnych od XIV w. do 1795 r. z latami sprawowania urzędu. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Marszałkowie wielcy koronni | ListBase",
+    "seo_description": "Download Marszałkowie wielcy koronni — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Marszałek_wielki_koronny"
+    ]
+  }
+}

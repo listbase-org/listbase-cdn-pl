@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-10T02:30:11.903Z",
-  "total_datasets": 550,
-  "total_records": 1094969,
+  "generated": "2026-11-10T02:30:20.543Z",
+  "total_datasets": 551,
+  "total_records": 1095003,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -3960,6 +3960,30 @@
         "xlsx": {
           "name": "pl-konflikty-zbrojne_PL.xlsx",
           "size": 24593
+        }
+      }
+    },
+    {
+      "id": "pl-marszalkowie-wielcy-koronni",
+      "name": "Marszałkowie wielcy koronni",
+      "category": "history",
+      "record_count": 34,
+      "columns": [
+        "imie_i_nazwisko",
+        "lata_urzedowania",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Marszałek_wielki_koronny",
+      "updated": "2026-11",
+      "size": 5563,
+      "files": {
+        "csv": {
+          "name": "pl-marszalkowie-wielcy-koronni_PL.csv",
+          "size": 1433
+        },
+        "xlsx": {
+          "name": "pl-marszalkowie-wielcy-koronni_PL.xlsx",
+          "size": 7879
         }
       }
     },
