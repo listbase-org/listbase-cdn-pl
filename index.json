@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-10T02:30:01.714Z",
-  "total_datasets": 549,
-  "total_records": 1094892,
+  "generated": "2026-11-10T02:30:11.903Z",
+  "total_datasets": 550,
+  "total_records": 1094969,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3909,6 +3909,30 @@
         "xlsx": {
           "name": "pl-hetmani-wielcy-koronni_PL.xlsx",
           "size": 8842
+        }
+      }
+    },
+    {
+      "id": "pl-kanclerze-wielcy-koronni",
+      "name": "Kanclerze wielcy koronni",
+      "category": "history",
+      "record_count": 77,
+      "columns": [
+        "imie_i_nazwisko",
+        "lata_urzedowania",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Kanclerz_wielki_koronny",
+      "updated": "2026-11",
+      "size": 10456,
+      "files": {
+        "csv": {
+          "name": "pl-kanclerze-wielcy-koronni_PL.csv",
+          "size": 2776
+        },
+        "xlsx": {
+          "name": "pl-kanclerze-wielcy-koronni_PL.xlsx",
+          "size": 9087
         }
       }
     },

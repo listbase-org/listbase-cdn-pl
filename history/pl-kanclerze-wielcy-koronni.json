@@ -1,0 +1,426 @@
+{
+  "id": "pl-kanclerze-wielcy-koronni",
+  "name": "Kanclerze wielcy koronni",
+  "title": "Kanclerze wielcy koronni",
+  "description": "Lista kanclerzy (wielkich) koronnych Królestwa Polskiego i Rzeczypospolitej Obojga Narodów od XII w. do 1795 r. z latami urzędowania.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Kanclerz_wielki_koronny",
+  "source_url": "https://pl.wikipedia.org/wiki/Kanclerz_wielki_koronny",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "imie_i_nazwisko",
+      "label": "Imie I Nazwisko",
+      "type": "string"
+    },
+    {
+      "key": "lata_urzedowania",
+      "label": "Lata Urzedowania",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imie_i_nazwisko": "Jan",
+      "lata_urzedowania": "1107–1112",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Michał Awdaniec",
+      "lata_urzedowania": "1112–1113",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Goswin",
+      "lata_urzedowania": "1113–1138",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Lupus",
+      "lata_urzedowania": "1138–1145",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Pean",
+      "lata_urzedowania": "1145–1152",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Cherubin",
+      "lata_urzedowania": "1152–1172",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Klemens",
+      "lata_urzedowania": "1172–1173",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stefan",
+      "lata_urzedowania": "1173–1206",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Iwo Odrowąż",
+      "lata_urzedowania": "1206–1208",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wincenty z Niałka",
+      "lata_urzedowania": "1208–1211",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jarost",
+      "lata_urzedowania": "1211–1212",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Marcin",
+      "lata_urzedowania": "1212–1213",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Nanker",
+      "lata_urzedowania": "1213–1241",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wawrzęta Gutowski",
+      "lata_urzedowania": "1241–1243",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Rambold",
+      "lata_urzedowania": "1243–1262",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Paweł z Przemankowa",
+      "lata_urzedowania": "1262–1266",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław z Krakowa",
+      "lata_urzedowania": "1266–1270",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Prokop",
+      "lata_urzedowania": "1270–1280",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Zaremba",
+      "lata_urzedowania": "1280–1290",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wincenty",
+      "lata_urzedowania": "1290–1296",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan",
+      "lata_urzedowania": "1296",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Piotr Angeli",
+      "lata_urzedowania": "1296–1306",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Franciszek z Krakowa",
+      "lata_urzedowania": "1306–1320",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Zbigniew ze Szczyrzyca",
+      "lata_urzedowania": "1320–1356",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Janusz Suchywilk",
+      "lata_urzedowania": "1357–1373",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Zawisza Kurozwęcki",
+      "lata_urzedowania": "1373–1379",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Radlica",
+      "lata_urzedowania": "1380–1386",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Zaklika z Miedzygorza",
+      "lata_urzedowania": "1386–1404",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Kurowski",
+      "lata_urzedowania": "1404–1411",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wojciech Jastrzębiec",
+      "lata_urzedowania": "1411–1423",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Szafraniec",
+      "lata_urzedowania": "1423–1433",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Taszka Koniecpolski",
+      "lata_urzedowania": "1434–1454",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Gruszczyński",
+      "lata_urzedowania": "1454–1469",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jakub Dembiński",
+      "lata_urzedowania": "1469–1473",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Uriel Górka",
+      "lata_urzedowania": "1473–1479",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Kurozwęcki",
+      "lata_urzedowania": "1479–1482",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Krzesław Kurozwęcki",
+      "lata_urzedowania": "1483–1503",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Łaski",
+      "lata_urzedowania": "1503–1510",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Maciej Drzewicki",
+      "lata_urzedowania": "1510–1513",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Krzysztof Szydłowiecki",
+      "lata_urzedowania": "1515–1532",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Chojeński",
+      "lata_urzedowania": "1532–1538",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Paweł Dunin Wolski",
+      "lata_urzedowania": "1539–1543",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Tomasz Sobocki",
+      "lata_urzedowania": "1544–1547",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Samuel Maciejowski",
+      "lata_urzedowania": "1547–1550",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Ocieski",
+      "lata_urzedowania": "1552–1563",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Walenty Dembiński",
+      "lata_urzedowania": "1564–1576",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Piotr Dunin Wolski",
+      "lata_urzedowania": "1576–1578",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Zamoyski",
+      "lata_urzedowania": "1578–1605",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Maciej Pstrokoński",
+      "lata_urzedowania": "1606–1609",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wawrzyniec Gembicki",
+      "lata_urzedowania": "1609–1613",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Feliks Kryski",
+      "lata_urzedowania": "1613–1618",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stanisław Żółkiewski",
+      "lata_urzedowania": "1618–1620",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Lipski",
+      "lata_urzedowania": "1620–1625",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Wacław Leszczyński",
+      "lata_urzedowania": "1625–1628",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jakub Zadzik",
+      "lata_urzedowania": "1628–1635",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Tomasz Zamoyski",
+      "lata_urzedowania": "1635-1638",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Piotr Gembicki",
+      "lata_urzedowania": "1638–1643",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jerzy Ossoliński",
+      "lata_urzedowania": "1643–1650",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Leszczyński",
+      "lata_urzedowania": "1650–1652",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Stefan Koryciński",
+      "lata_urzedowania": "1652–1658",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Mikołaj Jan Prażmowski",
+      "lata_urzedowania": "1658–1666",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Leszczyński",
+      "lata_urzedowania": "1666–1678",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Stefan Wydżga",
+      "lata_urzedowania": "1678",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Wielopolski",
+      "lata_urzedowania": "1678–1688",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jerzy Albrecht Denhoff",
+      "lata_urzedowania": "1688–1702",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Karol Tarło",
+      "lata_urzedowania": "1702",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Chryzostom Załuski",
+      "lata_urzedowania": "1702–1706",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Stanisław Jabłonowski",
+      "lata_urzedowania": "1706–1709",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Sebastian Szembek",
+      "lata_urzedowania": "1712–1731",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Stanisław Załuski",
+      "lata_urzedowania": "1735–1746",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Małachowski",
+      "lata_urzedowania": "1746–1762",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Hieronim Zamoyski",
+      "lata_urzedowania": "1764–1767",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Andrzej Stanisław Młodziejowski",
+      "lata_urzedowania": "1767–1780",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jan Andrzej Borch",
+      "lata_urzedowania": "1780",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Antoni Onufry Okęcki",
+      "lata_urzedowania": "1780–1786",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Jacek Małachowski",
+      "lata_urzedowania": "1786–1793",
+      "uwagi": ""
+    },
+    {
+      "imie_i_nazwisko": "Antoni Sułkowski",
+      "lata_urzedowania": "1793–1795",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Kanclerze wielcy koronni - Free Download",
+    "description": "Lista kanclerzy (wielkich) koronnych Królestwa Polskiego i Rzeczypospolitej Obojga Narodów od XII w. do 1795 r. z latami urzędowania. Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kanclerze wielcy koronni | ListBase",
+    "seo_description": "Download Kanclerze wielcy koronni — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Kanclerz_wielki_koronny"
+    ]
+  }
+}
