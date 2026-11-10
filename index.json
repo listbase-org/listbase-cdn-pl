@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-09T02:27:41.565Z",
-  "total_datasets": 547,
-  "total_records": 1094736,
+  "generated": "2026-11-10T02:29:52.835Z",
+  "total_datasets": 548,
+  "total_records": 1094820,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -3860,6 +3860,30 @@
         "xlsx": {
           "name": "pl-uczelnie-medyczne_PL.xlsx",
           "size": 9359
+        }
+      }
+    },
+    {
+      "id": "pl-arcybiskupi-gnieznienscy",
+      "name": "Biskupi i arcybiskupi gnieźnieńscy",
+      "category": "history",
+      "record_count": 84,
+      "columns": [
+        "lata_urzedowania",
+        "biskup",
+        "uwagi"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Biskupi_gnieźnieńscy",
+      "updated": "2026-11",
+      "size": 12507,
+      "files": {
+        "csv": {
+          "name": "pl-arcybiskupi-gnieznienscy_PL.csv",
+          "size": 5006
+        },
+        "xlsx": {
+          "name": "pl-arcybiskupi-gnieznienscy_PL.xlsx",
+          "size": 9769
         }
       }
     },
