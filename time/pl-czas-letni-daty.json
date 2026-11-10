@@ -1,0 +1,478 @@
+{
+  "id": "pl-czas-letni-daty",
+  "name": "Czas letni w Polsce — daty zmiany czasu",
+  "title": "Czas letni w Polsce — daty zmiany czasu",
+  "description": "Daty wprowadzenia i odwołania czasu letniego w Polsce od 1917 roku wraz z podstawą prawną i uwagami.",
+  "category": "time",
+  "source": "https://pl.wikipedia.org/wiki/Czas_letni",
+  "source_url": "https://pl.wikipedia.org/wiki/Czas_letni",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "wprowadzenie",
+      "label": "Wprowadzenie",
+      "type": "string"
+    },
+    {
+      "key": "odwolanie",
+      "label": "Odwolanie",
+      "type": "string"
+    },
+    {
+      "key": "uwagi",
+      "label": "Uwagi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1917,
+      "wprowadzenie": "16 kwietnia",
+      "odwolanie": "17 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1918,
+      "wprowadzenie": "15 kwietnia",
+      "odwolanie": "–",
+      "uwagi": ""
+    },
+    {
+      "rok": 1919,
+      "wprowadzenie": "15 kwietnia (GMT+2 → GMT+3)",
+      "odwolanie": "16 września (GMT+3 → GMT+2)",
+      "uwagi": "Polska Wielkopolska"
+    },
+    {
+      "rok": "1919–1922",
+      "wprowadzenie": "Obowiązywał ciągły czas letni (GMT +2)",
+      "odwolanie": "Obowiązywał ciągły czas letni (GMT +2)",
+      "uwagi": ""
+    },
+    {
+      "rok": 1922,
+      "wprowadzenie": "–",
+      "odwolanie": "31 maja (GMT +2 → GMT +1)",
+      "uwagi": ""
+    },
+    {
+      "rok": "1923–1939",
+      "wprowadzenie": "Nie wprowadzano zmian czasu",
+      "odwolanie": "Nie wprowadzano zmian czasu",
+      "uwagi": ""
+    },
+    {
+      "rok": "1940–1944",
+      "wprowadzenie": "Zmiana czasu wprowadzana przez okupantów",
+      "odwolanie": "Zmiana czasu wprowadzana przez okupantów",
+      "uwagi": ""
+    },
+    {
+      "rok": 1945,
+      "wprowadzenie": "30 kwietnia",
+      "odwolanie": "1 listopada",
+      "uwagi": ""
+    },
+    {
+      "rok": 1946,
+      "wprowadzenie": "14 kwietnia",
+      "odwolanie": "7 października (?)",
+      "uwagi": ""
+    },
+    {
+      "rok": 1947,
+      "wprowadzenie": "4 maja",
+      "odwolanie": "5 października (?)",
+      "uwagi": ""
+    },
+    {
+      "rok": 1948,
+      "wprowadzenie": "18 kwietnia",
+      "odwolanie": "3 października",
+      "uwagi": "?"
+    },
+    {
+      "rok": 1949,
+      "wprowadzenie": "10 kwietnia",
+      "odwolanie": "2 października",
+      "uwagi": "?"
+    },
+    {
+      "rok": "1950–1956",
+      "wprowadzenie": "Nie wprowadzano zmian czasu",
+      "odwolanie": "Nie wprowadzano zmian czasu",
+      "uwagi": ""
+    },
+    {
+      "rok": 1957,
+      "wprowadzenie": "2 czerwca",
+      "odwolanie": "29 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1958,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "28 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1959,
+      "wprowadzenie": "31 maja",
+      "odwolanie": "4 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1960,
+      "wprowadzenie": "3 kwietnia",
+      "odwolanie": "2 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1961,
+      "wprowadzenie": "28 maja",
+      "odwolanie": "1 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1962,
+      "wprowadzenie": "27 maja",
+      "odwolanie": "30 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1963,
+      "wprowadzenie": "26 maja",
+      "odwolanie": "29 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1964,
+      "wprowadzenie": "31 maja",
+      "odwolanie": "27 września",
+      "uwagi": ""
+    },
+    {
+      "rok": "1965–1976",
+      "wprowadzenie": "Nie wprowadzano zmian czasu",
+      "odwolanie": "Nie wprowadzano zmian czasu",
+      "uwagi": ""
+    },
+    {
+      "rok": 1977,
+      "wprowadzenie": "3 kwietnia",
+      "odwolanie": "25 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1978,
+      "wprowadzenie": "2 kwietnia",
+      "odwolanie": "1 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1979,
+      "wprowadzenie": "1 kwietnia",
+      "odwolanie": "30 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1980,
+      "wprowadzenie": "6 kwietnia",
+      "odwolanie": "28 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1981,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "27 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1982,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "26 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1983,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "25 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1984,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "30 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1985,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "29 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1986,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "28 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1987,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "27 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1988,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "25 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1989,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "24 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1990,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "30 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1991,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "29 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1992,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "27 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1993,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "26 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1994,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "25 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1995,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "24 września",
+      "uwagi": ""
+    },
+    {
+      "rok": 1996,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "27 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1997,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "26 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1998,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "25 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 1999,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "31 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2000,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "29 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2001,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "28 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2002,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "27 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2003,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "26 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2004,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "31 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2005,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "30 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2006,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "29 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2007,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "28 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2008,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "26 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2009,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "25 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2010,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "31 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2011,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "30 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2012,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "28 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2013,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "27 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2014,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "26 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2015,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "25 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2016,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "30 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2017,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "29 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2018,
+      "wprowadzenie": "25 marca",
+      "odwolanie": "28 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2019,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "27 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2020,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "25 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2021,
+      "wprowadzenie": "28 marca",
+      "odwolanie": "31 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2022,
+      "wprowadzenie": "27 marca",
+      "odwolanie": "30 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2023,
+      "wprowadzenie": "26 marca",
+      "odwolanie": "29 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2024,
+      "wprowadzenie": "31 marca",
+      "odwolanie": "27 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2025,
+      "wprowadzenie": "30 marca",
+      "odwolanie": "26 października",
+      "uwagi": ""
+    },
+    {
+      "rok": 2026,
+      "wprowadzenie": "29 marca",
+      "odwolanie": "25 października",
+      "uwagi": ""
+    }
+  ],
+  "meta": {
+    "title": "Czas letni w Polsce — daty zmiany czasu - Free Download",
+    "description": "Daty wprowadzenia i odwołania czasu letniego w Polsce od 1917 roku wraz z podstawą prawną i uwagami. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czas letni w Polsce — daty zmiany czasu | ListBase",
+    "seo_description": "Download Czas letni w Polsce — daty zmiany czasu — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Czas_letni"
+    ]
+  }
+}
