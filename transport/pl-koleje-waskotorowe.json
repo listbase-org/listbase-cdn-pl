@@ -1,0 +1,533 @@
+{
+  "id": "pl-koleje-waskotorowe",
+  "name": "Koleje wąskotorowe w Polsce",
+  "title": "Koleje wąskotorowe w Polsce",
+  "description": "Czynne i zawieszone koleje wąskotorowe w Polsce: stan, rozstaw toru, rok otwarcia, zawieszenia ruchu i likwidacji oraz długość czynnego odcinka.",
+  "category": "transport",
+  "source": "https://pl.wikipedia.org/wiki/Koleje_wąskotorowe_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Koleje_wąskotorowe_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "gauge_mm",
+      "label": "Gauge Mm",
+      "type": "number"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "suspended",
+      "label": "Suspended",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "number"
+    },
+    {
+      "key": "active_length_km",
+      "label": "Active Length Km",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ełcka Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1913",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "15",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Gnieźnieńska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1883",
+      "suspended": "25.09.2015 – 08.09.2019",
+      "closed": "",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Górnośląskie Koleje Wąskotorowe",
+      "status": "czynna",
+      "gauge_mm": 785,
+      "opened": "1853",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "21 (Bytom) + 6 (Rudy)",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Hrubieszowska Kolej Dojazdowa",
+      "status": "nieczynna",
+      "gauge_mm": 750,
+      "opened": "1901",
+      "suspended": "1991",
+      "closed": "1993",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Kaliska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1914",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "30",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Koszalińska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 1000,
+      "opened": "1898",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "20",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Krośniewicka Kolej Dojazdowa",
+      "status": "nieczynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Krotoszyńska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": "750 (oraz 1435)",
+      "opened": "1900",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "3",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Nadmorska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 1000,
+      "opened": "1896",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "41",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Mławska Kolej Dojazdowa",
+      "status": "nieczynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Nadwiślańska Kolejka Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "15",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Piaseczyńska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 1000,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "14",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Przeworska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1904",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "46",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Rogowska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1915",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "7",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Sochaczewska Kolej Muzealna",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "18",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Starachowicka Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1950",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "6 (Starachowice) + 7 (Iłża)",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Śmigielska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1901",
+      "suspended": "2011",
+      "closed": "",
+      "active_length_km": "17",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Średzka Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "14",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Świętokrzyska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1915",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "18",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Wyrzyska Kolej Powiatowa",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "11",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Żnińska Kolej Powiatowa",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "1894",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "12",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Żuławska Kolej Dojazdowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "30",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Zwierzyniec – Biłgoraj",
+      "status": "zlikwidowana",
+      "gauge_mm": 750,
+      "opened": "1914",
+      "suspended": "1971",
+      "closed": "po 1971",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Wrocławska Kolej Dojazdowa",
+      "status": "zlikwidowana",
+      "gauge_mm": 750,
+      "opened": "1899",
+      "suspended": "1991",
+      "closed": "1991",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei publicznych"
+    },
+    {
+      "name": "Bieszczadzka Kolejka Leśna",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "1895",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "33",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolej Leśna Puszczy Białowieskiej",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "17",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolej Leśna Puszczy Kampinoskiej",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1916",
+      "suspended": "1961",
+      "closed": "1961",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolej leśna Puszczy Kozienickiej",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1916",
+      "suspended": "1983",
+      "closed": "2010",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolej Leśna w Lasach Janowskich",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1941",
+      "suspended": "1984",
+      "closed": "1988",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Wigierska Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "10",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolej leśna OTL Zagnańsk",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1916",
+      "suspended": "1960",
+      "closed": "1977",
+      "active_length_km": "",
+      "type": "",
+      "section": "Lista kolei leśnych"
+    },
+    {
+      "name": "Kolejka Muzeum Obrony Wybrzeża w Helu",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "",
+      "type": "parkowa (dawna wojskowa)",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Krośnicka Kolej Wąskotorowa",
+      "status": "czynna",
+      "gauge_mm": 750,
+      "opened": "2013",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "3",
+      "type": "parkowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolejka Parkowa Maltanka",
+      "status": "czynna",
+      "gauge_mm": 600,
+      "opened": "1972",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "3,5",
+      "type": "parkowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolej parkowa w Parku Śląskim",
+      "status": "nieczynna",
+      "gauge_mm": 785,
+      "opened": "1958/2014",
+      "suspended": "2011, 2017",
+      "closed": "",
+      "active_length_km": "1,05",
+      "type": "parkowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolejka parkowa w Cichowie „Grześ”",
+      "status": "czynna",
+      "gauge_mm": 241,
+      "opened": "2012",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "0,28",
+      "type": "lilipucia",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolejka parkowa w Ostrowie Wielkopolskim",
+      "status": "nieczynna",
+      "gauge_mm": 600,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "",
+      "type": "parkowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolejka w Parku Kolejowym na Jurze Krakowsko-Częstochowskiej",
+      "status": "czynna",
+      "gauge_mm": 184,
+      "opened": "",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "0,652",
+      "type": "lilipucia",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Myślęcińska Kolej Parkowa",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1996",
+      "suspended": "2011",
+      "closed": "2011",
+      "active_length_km": "",
+      "type": "parkowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Kolejka w Skansenie Maszyn Parowych w Tarnowskich Górach",
+      "status": "czynna",
+      "gauge_mm": 184,
+      "opened": "2015",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "0,5",
+      "type": "lilipucia",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Poligonowa kolej wąskotorowa w Toruniu",
+      "status": "zlikwidowana",
+      "gauge_mm": 600,
+      "opened": "1884",
+      "suspended": "",
+      "closed": "koniec l. 60. XX w.",
+      "active_length_km": "",
+      "type": "polowa",
+      "section": "Lista kolei parkowych i wojskowych"
+    },
+    {
+      "name": "Żuławska Kolej Ogrodowa",
+      "status": "czynna",
+      "gauge_mm": 400,
+      "opened": "2014",
+      "suspended": "",
+      "closed": "",
+      "active_length_km": "ok 0,5",
+      "type": "lilipucia",
+      "section": "Lista kolei parkowych i wojskowych"
+    }
+  ],
+  "meta": {
+    "title": "Koleje wąskotorowe w Polsce - Free Download",
+    "description": "Czynne i zawieszone koleje wąskotorowe w Polsce: stan, rozstaw toru, rok otwarcia, zawieszenia ruchu i likwidacji oraz długość czynnego odcinka. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Koleje wąskotorowe w Polsce | ListBase",
+    "seo_description": "Download Koleje wąskotorowe w Polsce — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Koleje_wąskotorowe_w_Polsce"
+    ]
+  }
+}

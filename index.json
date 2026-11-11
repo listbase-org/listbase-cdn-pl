@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-10T02:30:30.394Z",
-  "total_datasets": 552,
-  "total_records": 1095026,
+  "generated": "2026-11-11T02:16:39.346Z",
+  "total_datasets": 553,
+  "total_records": 1095068,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "units",
@@ -14460,6 +14460,36 @@
         "xlsx": {
           "name": "pl-autostrady-i-drogi-ekspresowe_PL.xlsx",
           "size": 9141
+        }
+      }
+    },
+    {
+      "id": "pl-koleje-waskotorowe",
+      "name": "Koleje wąskotorowe w Polsce",
+      "category": "transport",
+      "record_count": 42,
+      "columns": [
+        "name",
+        "status",
+        "gauge_mm",
+        "opened",
+        "suspended",
+        "closed",
+        "active_length_km",
+        "type",
+        "section"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Koleje_wąskotorowe_w_Polsce",
+      "updated": "2026-11",
+      "size": 13803,
+      "files": {
+        "csv": {
+          "name": "pl-koleje-waskotorowe_PL.csv",
+          "size": 4509
+        },
+        "xlsx": {
+          "name": "pl-koleje-waskotorowe_PL.xlsx",
+          "size": 9280
         }
       }
     },
