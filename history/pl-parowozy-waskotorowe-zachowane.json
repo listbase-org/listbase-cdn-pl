@@ -1,0 +1,1552 @@
+{
+  "id": "pl-parowozy-waskotorowe-zachowane",
+  "name": "Parowozy wąskotorowe zachowane w Polsce",
+  "title": "Parowozy wąskotorowe zachowane w Polsce",
+  "description": "Lista zachowanych w Polsce parowozów wąskotorowych: seria, rok produkcji, producent i numer fabryczny, miejscowość, stan oraz szerokość toru.",
+  "category": "history",
+  "source": "https://pl.wikipedia.org/wiki/Lista_parowozów_wąskotorowych_zachowanych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_parowozów_wąskotorowych_zachowanych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 187,
+  "columns": [
+    {
+      "key": "series",
+      "label": "Series",
+      "type": "string"
+    },
+    {
+      "key": "year_built",
+      "label": "Year Built",
+      "type": "number"
+    },
+    {
+      "key": "manufacturer",
+      "label": "Manufacturer",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "gauge",
+      "label": "Gauge",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "series": "T2-71",
+      "year_built": 1939,
+      "manufacturer": "Henschel (24115)",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "T2-73",
+      "year_built": 1936,
+      "manufacturer": "Henschel (23161)",
+      "location": "Kraków",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "T3-1043",
+      "year_built": 1943,
+      "manufacturer": "Budich (931)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "T49-112",
+      "year_built": 1949,
+      "manufacturer": "Fablok (1908)",
+      "location": "Dęblin",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "T49-114",
+      "year_built": 1949,
+      "manufacturer": "Fablok (1910)",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "T49-116 (Riesa)",
+      "year_built": 1940,
+      "manufacturer": "Henschel /Fablok (24847)",
+      "location": "Tarnowskie Góry",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ty3-1162",
+      "year_built": 1916,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Ty6-3284",
+      "year_built": 1944,
+      "manufacturer": "Krauss-Maffei",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Ty6-3286",
+      "year_built": 1925,
+      "manufacturer": "Linke-Hofmann",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Py4-741",
+      "year_built": 1925,
+      "manufacturer": "Orenstein & Koppel (11007)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tya6-3326",
+      "year_built": 1920,
+      "manufacturer": "Arnold Jung Lokomotivfabrik",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tyb4-1221",
+      "year_built": 1906,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Tarnowskie Góry",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Tyb5-471",
+      "year_built": 1913,
+      "manufacturer": "Borsig (8741)",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tyb6-3406",
+      "year_built": 1920,
+      "manufacturer": "Maffei",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tyb6-3407",
+      "year_built": 1909,
+      "manufacturer": "Krauss",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tyn6-3632",
+      "year_built": 1928,
+      "manufacturer": "Vulcan",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tyn6-3636",
+      "year_built": 1927,
+      "manufacturer": "Vulcan",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tx2-355",
+      "year_built": 1911,
+      "manufacturer": "Orenstein & Koppel (5020)",
+      "location": "Wrocław (poprzednio Wenecja)",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx4-564",
+      "year_built": 1923,
+      "manufacturer": "Hanomag (10205)",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx4-1315",
+      "year_built": 1924,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Tx6-502 (Solvay)",
+      "year_built": 1940,
+      "manufacturer": "Fablok (778)",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx7-3501",
+      "year_built": 1914,
+      "manufacturer": "Vulcan",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tx7-3502",
+      "year_built": 1927,
+      "manufacturer": "Vulcan",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tx26-422",
+      "year_built": 1926,
+      "manufacturer": "Chrzanów",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx26-423",
+      "year_built": 1926,
+      "manufacturer": "Chrzanów",
+      "location": "Poznań",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx26-427",
+      "year_built": 1928,
+      "manufacturer": "Chrzanów",
+      "location": "Chabówka",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Tx28-1274",
+      "year_built": 1928,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px4-1614",
+      "year_built": 1936,
+      "manufacturer": "Podolska Wytwórnia Parowozów",
+      "location": "Tarnowskie Góry",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px6-1645",
+      "year_built": 1937,
+      "manufacturer": "Podolska Wytwórnia Parowozów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px27-775",
+      "year_built": 1929,
+      "manufacturer": "Chrzanów",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Px29-1704",
+      "year_built": 1929,
+      "manufacturer": "parowóz Warszawa",
+      "location": "Sochaczew",
+      "condition": "oczekuje naprawy",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px29-1708",
+      "year_built": 1929,
+      "manufacturer": "parowóz Warszawa",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px38-805",
+      "year_built": 1938,
+      "manufacturer": "Chrzanów",
+      "location": "Żnin",
+      "condition": "czynny",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Px48-1723",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Zduńska Wola",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1724",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Jędrzejów",
+      "condition": "oczekuje naprawy",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1726",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Zbiersk",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1728",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Pyskowice",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1734",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Dynów",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1739",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1748",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1752",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Ełk",
+      "condition": "w naprawie",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1755",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1756",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Środa Wielkopolska",
+      "condition": "czynny",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1758",
+      "year_built": 1952,
+      "manufacturer": "Chrzanów",
+      "location": "Ostrołęka",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1760",
+      "year_built": 1952,
+      "manufacturer": "Chrzanów",
+      "location": "Poznań",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1764",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Krotoszyn",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1765",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Śmigiel",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1770",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Praszka",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1771",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1778",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Marki",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1783",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Rogów",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1784",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Mława",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1785",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Gniezno",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1902",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Krośniewice",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1907",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Krośnice",
+      "condition": "czynny",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1911",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Rogów",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1912",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Pleszew",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1919",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Gniezno",
+      "condition": "oczekuje naprawy",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1920",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Środa Wielkopolska",
+      "condition": "czynny",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1921",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Dębica",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1923",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Zbąszynek",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-1927",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Siedlce",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px48-3901",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Koszalin",
+      "condition": "czynny",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3908",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Koszalin",
+      "condition": "Eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3910",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Koszalin",
+      "condition": "oczekuje naprawy",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3912",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3913",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Gryfice",
+      "condition": "oczekuje naprawy",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3915",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3916",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Gryfice",
+      "condition": "czynny",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px48-3917",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "okolice Warszawy",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Px49-1792",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Szreniawa",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px49-1794",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px49-1796",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px49-1797",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Px49-1799",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Koluszki",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Txb5-1431",
+      "year_built": 1942,
+      "manufacturer": "Krauss-Maffei",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Txn8-3811",
+      "year_built": 1923,
+      "manufacturer": "Vulcan",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Tw47-2558",
+      "year_built": 1948,
+      "manufacturer": "Chrzanów",
+      "location": "Bytom",
+      "condition": "wrak",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Tw53-2560",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Chabówka",
+      "condition": "eksponat",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Tw53-2565",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Tw53-2566",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Bytom",
+      "condition": "wrak",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Tw53-2570",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Racibórz",
+      "condition": "pomnik",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Pw53-02",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Rudy Raciborskie",
+      "condition": "nieczynny",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Pw53-1980",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cementownia Saturn 1 B 13260 (Baziel)",
+      "year_built": 1953,
+      "manufacturer": "Fablok (2638)",
+      "location": "Mrągowo",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Cementownia Saturn 1 B 14998 (Baziel)",
+      "year_built": 1956,
+      "manufacturer": "Fablok (2863)",
+      "location": "Tarnowskie Góry",
+      "condition": "wrak",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Cukrownia Brześć Kujawski 8",
+      "year_built": 1926,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Brześć Kujawski 9",
+      "year_built": 1905,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Sochaczew",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Brześć Kujawski 13",
+      "year_built": 1916,
+      "manufacturer": "Krauss",
+      "location": "Sochaczew",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Chełmica 1",
+      "year_built": 1935,
+      "manufacturer": "Ateliers Métallurgiques,",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Dobre 1",
+      "year_built": 1947,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Dobre 3",
+      "year_built": 1944,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Dobre 5",
+      "year_built": 1935,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Dobre 4 (Kp4-3760)",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Gosławice 2 (Las)",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Gryfice Ty 9785",
+      "year_built": 1921,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Gryfice",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 1",
+      "year_built": 1911,
+      "manufacturer": "Hanomag",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 2 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Borsig",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 4 (HF)",
+      "year_built": 1915,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 6",
+      "year_built": 1917,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 7",
+      "year_built": 1940,
+      "manufacturer": "Chrzanów",
+      "location": "Nowy Sącz",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 9 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Sucha Beskidzka",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Klemensów 10 (HF)",
+      "year_built": 1916,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Czernice Borowe",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 1 (Kp4-3761)",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica Kp4-3772",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Cisna",
+      "condition": "w remoncie (2020)",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 3",
+      "year_built": 1924,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 9 (Ty 1884) (Las)",
+      "year_built": 1956,
+      "manufacturer": "Fablok (4967)",
+      "location": "Cisna",
+      "condition": "czynny",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 13 (Ryś)",
+      "year_built": 1946,
+      "manufacturer": "Fablok (1713)",
+      "location": "Chrzanów",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 16 (Ryś)",
+      "year_built": 1946,
+      "manufacturer": "Fablok (1538)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Kruszwica 22",
+      "year_built": 1893,
+      "manufacturer": "Krauss (2831)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Leśmierz 3",
+      "year_built": 1918,
+      "manufacturer": "Linke-Hofmann (1721)",
+      "location": "Skierniewice",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Leśmierz 4 (Ryś)",
+      "year_built": 1946,
+      "manufacturer": "Fablok (1541)",
+      "location": "Warszawa",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Leśmierz 11",
+      "year_built": 1919,
+      "manufacturer": "L. Schwartzkopff, Berlin",
+      "location": "Chabówka",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Leśmierz 609 (Las)",
+      "year_built": 1949,
+      "manufacturer": "Fablok (1982)",
+      "location": "Krośnice",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Leśmierz 610 (Las)",
+      "year_built": 1949,
+      "manufacturer": "Fablok (1984)",
+      "location": "Skierniewice",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Mała Wieś 5",
+      "year_built": 1919,
+      "manufacturer": "Borsig",
+      "location": "nieustalona",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Nakło 6",
+      "year_built": 1941,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Nakło nad Notecią",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Nakło 531",
+      "year_built": 1900,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Nowy Staw Ty1 15506",
+      "year_built": 1934,
+      "manufacturer": "Krauss-Maffei",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Ostrowite Kp4-1",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Rypin",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Ostrowite Kp4-15346",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Ostrowite Rypińskie",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Pelplin (Tyb) 3417",
+      "year_built": 1896,
+      "manufacturer": "Krauss-Maffei",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Pelplin (Tyb) 6452",
+      "year_built": 1911,
+      "manufacturer": "Krauss-Maffei",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Pelplin 7841",
+      "year_built": 1911,
+      "manufacturer": "Borsig (7841)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 1",
+      "year_built": 1913,
+      "manufacturer": "Hohenzollern",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 2",
+      "year_built": 1920,
+      "manufacturer": "Smoschewer",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 3 (Ryś)",
+      "year_built": 1947,
+      "manufacturer": "Smoschewer",
+      "location": "Karczew",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 3",
+      "year_built": 1907,
+      "manufacturer": "Lokomotivfabrik Zobel",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 5",
+      "year_built": 1914,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Sochaczew",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 7",
+      "year_built": 1883,
+      "manufacturer": "Krauss",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Tuczno 8",
+      "year_built": 1882,
+      "manufacturer": "Krauss",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Zbiersk 3",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Zbiersk 4",
+      "year_built": 1924,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Zbiersk 5",
+      "year_built": 1947,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Zbiersk 6",
+      "year_built": 1951,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Cukrownia Zduny",
+      "year_built": 1958,
+      "manufacturer": "Chrzanów",
+      "location": "Ostrów Wielkopolski",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Zduny nr 1",
+      "year_built": 1953,
+      "manufacturer": "Chrzanów",
+      "location": "Ostrów Wielkopolski",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Cukrownia Żnin 8344",
+      "year_built": 1950,
+      "manufacturer": "Babelsberg",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Gazownia Wrocław 3",
+      "year_built": 1927,
+      "manufacturer": "Richard Hartmann Chemnitz",
+      "location": "Paczków",
+      "condition": "pomnik",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Gazownia Wrocław 4",
+      "year_built": 1927,
+      "manufacturer": "Richard Hartmann Chemnitz",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Gazownia Wrocław 6",
+      "year_built": 1933,
+      "manufacturer": "L. Schwartzkopff, Berlin",
+      "location": "Wrocław",
+      "condition": "pomnik",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Huta Bieruta 4",
+      "year_built": 1947,
+      "manufacturer": "Chrzanów",
+      "location": "Częstochowa",
+      "condition": "pomnik",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "Huta Chlewiska",
+      "year_built": 1880,
+      "manufacturer": "Krauss",
+      "location": "Chlewiska",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Huta Florian 15",
+      "year_built": 1929,
+      "manufacturer": "Borsig",
+      "location": "Świętochłowice",
+      "condition": "pomnik",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Huta Jedność 2",
+      "year_built": 1958,
+      "manufacturer": "Fablok (2594)",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "630 mm"
+    },
+    {
+      "series": "Huta Jedność 5",
+      "year_built": 1958,
+      "manufacturer": "Fablok (2597)",
+      "location": "Tłuszcz",
+      "condition": "pomnik",
+      "gauge": "630 mm"
+    },
+    {
+      "series": "Huta Ostrowiec (Lowa)",
+      "year_built": 1950,
+      "manufacturer": "Babelsberg (16011)",
+      "location": "Starachowice",
+      "condition": "wrak",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Huta Silesia 27",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Bytom",
+      "condition": "pomnik",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Huta Zygmunt 19",
+      "year_built": 1947,
+      "manufacturer": "Chrzanów",
+      "location": "Tarnowskie Góry",
+      "condition": "eksponat",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Las49 3343",
+      "year_built": 1954,
+      "manufacturer": "Chrzanów",
+      "location": "Rudy Raciborskie (poprzednio Tarnowskie Góry)",
+      "condition": "czynny",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Cemenownia Goleszów",
+      "year_built": 1958,
+      "manufacturer": "Chrzanów",
+      "location": "Goleszów",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "KRŻ Osiny 1892",
+      "year_built": 1956,
+      "manufacturer": "Chrzanów",
+      "location": "Chabówka",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "KWK Bielszowice 10362",
+      "year_built": 1931,
+      "manufacturer": "Chrzanów",
+      "location": "Pyskowice Dzierżno",
+      "condition": "pomnik",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "KWK Bielszowice 10363",
+      "year_built": 1931,
+      "manufacturer": "Chrzanów",
+      "location": "Zabrze",
+      "condition": "pomnik",
+      "gauge": "1000 mm"
+    },
+    {
+      "series": "KWK Polska 3",
+      "year_built": 1952,
+      "manufacturer": "Chrzanów",
+      "location": "Zabrze",
+      "condition": "pomnik",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "KWK Wawel",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Białośliwie",
+      "condition": "czynny",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "KWK Wujek",
+      "year_built": 1911,
+      "manufacturer": "Borsig (8012)",
+      "location": "Bydgoszcz",
+      "condition": "pomnik",
+      "gauge": "900 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 243 (Las)",
+      "year_built": 1948,
+      "manufacturer": "Fablok (1060)",
+      "location": "Kolno (poprzednio Ełk)",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 244 (Las)",
+      "year_built": 1948,
+      "manufacturer": "Fablok (1059)",
+      "location": "Ełk",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 1131 (Las)",
+      "year_built": 1955,
+      "manufacturer": "Fablok (4233)",
+      "location": "Zagnańsk",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 1136 (Las)",
+      "year_built": 1956,
+      "manufacturer": "Fablok (4990)",
+      "location": "Ełk",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 1139",
+      "year_built": 1958,
+      "manufacturer": "Chrzanów",
+      "location": "Krośnice",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 3810",
+      "year_built": 1958,
+      "manufacturer": "Chrzanów",
+      "location": "Janów Lubelski",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Ty 3811 (Las)",
+      "year_built": 1958,
+      "manufacturer": "Chrzanów",
+      "location": "Topiło",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 200 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Hajnówka",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 201 (HF) (błędne oznaczenie Tx 100)",
+      "year_built": 1918,
+      "manufacturer": "Borsig",
+      "location": "Prostki (poprzednio Białystok)",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 207 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Czarna Białostocka",
+      "condition": "wrak",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 227 (HF)",
+      "year_built": 1916,
+      "manufacturer": "Esslingen",
+      "location": "Czarna Białostocka",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 242 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Poznań-Janikowo",
+      "condition": "wrak",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1112 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Borsig",
+      "location": "Hajnówka",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1113 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Płociczno",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1114 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Czarna Białostocka",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1116 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Henschel & Sohn",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1123 (HF)",
+      "year_built": 1917,
+      "manufacturer": "Hohenzollern",
+      "location": "Warszawa",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Tx 1958 (HF)",
+      "year_built": 1918,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Px48-1253",
+      "year_built": 1955,
+      "manufacturer": "Chrzanów",
+      "location": "Sochaczew",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Ośrodek Transportu Leśnego Kp4-1257",
+      "year_built": 1957,
+      "manufacturer": "Chrzanów",
+      "location": "Cisna",
+      "condition": "pomnik",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Zakłady Azotowe Chorzów 1",
+      "year_built": 1924,
+      "manufacturer": "Borsig",
+      "location": "Poznań",
+      "condition": "pomnik",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Zakłady Azotowe Chorzów 2",
+      "year_built": 1925,
+      "manufacturer": "Borsig",
+      "location": "Poznań",
+      "condition": "czynny",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Zakłady Cynkowe Silesia 25 (Las)",
+      "year_built": 1953,
+      "manufacturer": "Fablok (3258)",
+      "location": "Tarnowskie Góry",
+      "condition": "eksponat",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Zakłady Cynkowe Szopienice TKb 27",
+      "year_built": 1950,
+      "manufacturer": "Chrzanów",
+      "location": "Bytom",
+      "condition": "w naprawie",
+      "gauge": "785 mm"
+    },
+    {
+      "series": "Zakłady Sodowe Solvay Tx 10660",
+      "year_built": 1939,
+      "manufacturer": "Chrzanów",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Zakłady Starachowickie 9",
+      "year_built": 1921,
+      "manufacturer": "Orenstein & Koppel (7899)",
+      "location": "Starachowice",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Zakłady Starachowickie 10",
+      "year_built": 1921,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Rogów",
+      "condition": "eksponat",
+      "gauge": "750 mm"
+    },
+    {
+      "series": "Zakład Robót Kolejowych Warszawa",
+      "year_built": 1940,
+      "manufacturer": "Chrzanów",
+      "location": "Rogów",
+      "condition": "wrak",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Żwirownia Mirosław Ujski 12595",
+      "year_built": 1935,
+      "manufacturer": "Orenstein & Koppel",
+      "location": "Wenecja",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    },
+    {
+      "series": "Żwirownia Mirosław Ujski 26004",
+      "year_built": 1951,
+      "manufacturer": "Babelsberg",
+      "location": "Piła",
+      "condition": "eksponat",
+      "gauge": "600 mm"
+    }
+  ],
+  "meta": {
+    "title": "Parowozy wąskotorowe zachowane w Polsce - Free Download",
+    "description": "Lista zachowanych w Polsce parowozów wąskotorowych: seria, rok produkcji, producent i numer fabryczny, miejscowość, stan oraz szerokość toru. Contains 187 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parowozy wąskotorowe zachowane w Polsce | ListBase",
+    "seo_description": "Download Parowozy wąskotorowe zachowane w Polsce — 187 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 187 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_parowozów_wąskotorowych_zachowanych_w_Polsce"
+    ]
+  }
+}
