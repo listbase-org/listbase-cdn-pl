@@ -1,0 +1,152 @@
+{
+  "id": "pl-uczelnie-rolnicze",
+  "name": "Uczelnie rolnicze w Polsce",
+  "title": "Uczelnie rolnicze w Polsce",
+  "description": "Polskie uczelnie i wydziały rolnicze (przyrodnicze), także historyczne: rok założenia, lokalizacja, dawne nazwy i liczba studentów.",
+  "category": "agriculture",
+  "source": "https://pl.wikipedia.org/wiki/Uczelnie_rolnicze_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Uczelnie_rolnicze_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded_or_renamed",
+      "label": "Founded Or Renamed",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "former_names",
+      "label": "Former Names",
+      "type": "string"
+    },
+    {
+      "key": "students_2010_11_thousands",
+      "label": "Students 2010 11 Thousands",
+      "type": "number"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",
+      "founded_or_renamed": "1816/1919",
+      "location": "Warszawa",
+      "former_names": "Instytut Agronomiczny w Warszawie (1816–1840) Instytut Gospodarstwa Wiejskiego i Leśnictwa w Warszawie (1840–1919)",
+      "students_2010_11_thousands": 27,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
+      "founded_or_renamed": "1953/2008",
+      "location": "Kraków",
+      "former_names": "Studium Rolnicze Wydziału Filozofii Uniwersytetu Jagiellońskiego (1890–1923) Wydział Rolniczy Uniwersytetu Jagiellońskiego (1923–1946) Wydział Rolniczo-Leśny Uniwersytetu Jagiellońskiego (1946–1953 Wyższa Szkoła Rolnicza w Krakowie (1953–1972) Akademia Rolnicza w Krakowie (1972–2008)",
+      "students_2010_11_thousands": 13,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Uniwersytet Przyrodniczy w Poznaniu",
+      "founded_or_renamed": "1951/2008",
+      "location": "Poznań",
+      "former_names": "Wydział Rolniczo-Leśny Uniwersytetu Poznańskiego (1919–1949) Wydział Rolniczy ze Studium Ogrodniczym i Wydział Leśny na Uniwersytecie im. Adama Mickiewicza w Poznaniu (1949–1951) Wyższa Szkoła Rolnicza w Poznaniu (1951–1972) Akademia Rolnicza im. Augusta Cieszkowskiego w Poznaniu (1972–2008)",
+      "students_2010_11_thousands": 12,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Uniwersytet Przyrodniczy we Wrocławiu",
+      "founded_or_renamed": "1951/2006",
+      "location": "Wrocław",
+      "former_names": "Wyższa Szkoła Rolnicza we Wrocławiu (1951–1971) Akademia Rolnicza we Wrocławiu (1971–2006)",
+      "students_2010_11_thousands": 12.1,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Politechnika Bydgoska",
+      "founded_or_renamed": "1951/2006",
+      "location": "Bydgoszcz",
+      "former_names": "Wieczorowa Szkoła Inżynierska w Bydgoszczy (1951–1964) Wyższa Szkoła Inżynierska w Bydgoszczy (1964–1974) Akademia Techniczno-Rolnicza w Bydgoszczy (1974–2006)",
+      "students_2010_11_thousands": 9.6,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Uniwersytet Przyrodniczy w Lublinie",
+      "founded_or_renamed": "1955/2008",
+      "location": "Lublin",
+      "former_names": "Wyższa Szkoła Rolnicza w Lublinie (1955–1972) Akademia Rolnicza w Lublinie (1972–2008)",
+      "students_2010_11_thousands": 10.3,
+      "section": "Uczelnie rolnicze w Polsce"
+    },
+    {
+      "name": "Wydział Nauk Rolniczych Uniwersytetu w Siedlcach",
+      "founded_or_renamed": "1969/2010",
+      "location": "Siedlce",
+      "former_names": "Wyższa Szkoła Nauczycielska w Siedlcach (1969–1974) Wyższa Szkoła Pedagogiczna w Siedlcach (1974–1977) Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach (1977–1999) Akademia Podlaska w Siedlcach (1999–2010)",
+      "students_2010_11_thousands": 10.1,
+      "section": "Uczelnie z kierunkami rolniczymi w Polsce"
+    },
+    {
+      "name": "Wydziały: Biotechnologii i Hodowli Zwierząt, Kształtowania Środowiska i Rolnictwa, Nauk o Żywności i Rybactwa Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie",
+      "founded_or_renamed": "1954/2009",
+      "location": "Szczecin",
+      "former_names": "Wyższa Szkoła Rolnicza (1954–1972) Akademia Rolnicza w Szczecinie (1972–2009) jako wydziały AR Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie (od 2009)",
+      "students_2010_11_thousands": 15.4,
+      "section": "Uczelnie z kierunkami rolniczymi w Polsce"
+    },
+    {
+      "name": "Wydziały: Bioinżynierii Zwierząt, Kształtowania Środowiska i Rolnictwa, Medycyny Weterynaryjnej, Nauki o Żywności Uniwersytetu Warmińsko-Mazurskiego w Olsztynie",
+      "founded_or_renamed": "1950/1999",
+      "location": "Olsztyn",
+      "former_names": "Wyższa Szkoła Rolnicza (1950–1972) Akademia Rolniczo-Techniczna w Olsztynie (1972–1999) w ramach Uniwersytetu Warmińsko-Mazurskiego w Olsztynie (od 1999)",
+      "students_2010_11_thousands": 33,
+      "section": "Uczelnie z kierunkami rolniczymi w Polsce"
+    },
+    {
+      "name": "Kolegium Nauk Przyrodniczych",
+      "founded_or_renamed": "1973/2001",
+      "location": "Rzeszów",
+      "former_names": "Zamiejscowy Wydział Ekonomiki Produkcji i Obrotu Rolnego AR w Krakowie (1972–1987) filia AR w Krakowie (1987–1993) Zamiejscowy Wydział Ekonomii AR w Krakowie (1993–2001) Wydział Rolniczy Uniwersytetu Rzeszowskiego (2001–2005) Wydział Biologiczno-Rolniczy Uniwersytetu Rzeszowskiego (od 2005)",
+      "students_2010_11_thousands": "2,1 (2012r.)",
+      "section": "Uczelnie z kierunkami rolniczymi w Polsce"
+    },
+    {
+      "name": "Wyższa Szkoła Rolnicza im. Haliny w Żabikowie",
+      "founded_or_renamed": "1870–1877",
+      "location": "Luboń",
+      "former_names": "",
+      "students_2010_11_thousands": "",
+      "section": "Historyczne polskie uczelnie rolnicze"
+    },
+    {
+      "name": "Akademia Rolnicza w Dublanach",
+      "founded_or_renamed": "1858–1939",
+      "location": "Dublany",
+      "former_names": "",
+      "students_2010_11_thousands": "",
+      "section": "Historyczne polskie uczelnie rolnicze"
+    }
+  ],
+  "meta": {
+    "title": "Uczelnie rolnicze w Polsce - Free Download",
+    "description": "Polskie uczelnie i wydziały rolnicze (przyrodnicze), także historyczne: rok założenia, lokalizacja, dawne nazwy i liczba studentów. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Uczelnie rolnicze w Polsce | ListBase",
+    "seo_description": "Download Uczelnie rolnicze w Polsce — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Uczelnie_rolnicze_w_Polsce"
+    ]
+  }
+}

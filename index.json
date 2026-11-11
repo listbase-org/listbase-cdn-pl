@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-11T02:16:49.708Z",
-  "total_datasets": 554,
-  "total_records": 1095255,
+  "generated": "2026-11-11T02:17:00.701Z",
+  "total_datasets": 555,
+  "total_records": 1095267,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -227,6 +227,33 @@
         "xlsx": {
           "name": "pl-produkty-chnp-chog_PL.xlsx",
           "size": 8240
+        }
+      }
+    },
+    {
+      "id": "pl-uczelnie-rolnicze",
+      "name": "Uczelnie rolnicze w Polsce",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "founded_or_renamed",
+        "location",
+        "former_names",
+        "students_2010_11_thousands",
+        "section"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Uczelnie_rolnicze_w_Polsce",
+      "updated": "2026-11",
+      "size": 7150,
+      "files": {
+        "csv": {
+          "name": "pl-uczelnie-rolnicze_PL.csv",
+          "size": 3627
+        },
+        "xlsx": {
+          "name": "pl-uczelnie-rolnicze_PL.xlsx",
+          "size": 8248
         }
       }
     },
