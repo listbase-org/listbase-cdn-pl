@@ -1,0 +1,100 @@
+{
+  "id": "pl-produkty-tradycyjne-wojewodztwa",
+  "name": "Liczba produktów tradycyjnych według województw",
+  "title": "Liczba produktów tradycyjnych według województw",
+  "description": "Liczba produktów wpisanych na Listę Produktów Tradycyjnych Ministerstwa Rolnictwa i Rozwoju Wsi w poszczególnych województwach.",
+  "category": "food",
+  "source": "https://pl.wikipedia.org/wiki/Lista_produktów_tradycyjnych",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_produktów_tradycyjnych",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "traditional_products",
+      "label": "Traditional Products",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "traditional_products": 52
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "traditional_products": 107
+    },
+    {
+      "voivodeship": "lubelskie",
+      "traditional_products": 288
+    },
+    {
+      "voivodeship": "lubuskie",
+      "traditional_products": 83
+    },
+    {
+      "voivodeship": "łódzkie",
+      "traditional_products": 156
+    },
+    {
+      "voivodeship": "małopolskie",
+      "traditional_products": 232
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "traditional_products": 172
+    },
+    {
+      "voivodeship": "opolskie",
+      "traditional_products": 81
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "traditional_products": 261
+    },
+    {
+      "voivodeship": "podlaskie",
+      "traditional_products": 90
+    },
+    {
+      "voivodeship": "pomorskie",
+      "traditional_products": 187
+    },
+    {
+      "voivodeship": "śląskie",
+      "traditional_products": 145
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "traditional_products": 96
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "traditional_products": 49
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "traditional_products": 100
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "traditional_products": 59
+    }
+  ],
+  "meta": {
+    "title": "Liczba produktów tradycyjnych według województw - Free Download",
+    "description": "Liczba produktów wpisanych na Listę Produktów Tradycyjnych Ministerstwa Rolnictwa i Rozwoju Wsi w poszczególnych województwach. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Liczba produktów tradycyjnych według województw | ListBase",
+    "seo_description": "Download Liczba produktów tradycyjnych według województw — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_produktów_tradycyjnych"
+    ]
+  }
+}

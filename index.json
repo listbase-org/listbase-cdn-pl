@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-12T02:11:43.080Z",
-  "total_datasets": 556,
-  "total_records": 1095313,
+  "generated": "2026-11-12T02:11:53.868Z",
+  "total_datasets": 557,
+  "total_records": 1095329,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1584,6 +1584,29 @@
         "xlsx": {
           "name": "pl-piekarnie_PL.xlsx",
           "size": 168592
+        }
+      }
+    },
+    {
+      "id": "pl-produkty-tradycyjne-wojewodztwa",
+      "name": "Liczba produktów tradycyjnych według województw",
+      "category": "food",
+      "record_count": 16,
+      "columns": [
+        "voivodeship",
+        "traditional_products"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_produktów_tradycyjnych",
+      "updated": "2026-11",
+      "size": 2892,
+      "files": {
+        "csv": {
+          "name": "pl-produkty-tradycyjne-wojewodztwa_PL.csv",
+          "size": 371
+        },
+        "xlsx": {
+          "name": "pl-produkty-tradycyjne-wojewodztwa_PL.xlsx",
+          "size": 7038
         }
       }
     },
