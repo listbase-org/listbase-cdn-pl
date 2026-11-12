@@ -1,0 +1,1185 @@
+{
+  "id": "pl-skazani-na-kare-smierci-po-1945",
+  "name": "Osoby skazane na karę śmierci w Polsce po 1945 roku",
+  "title": "Osoby skazane na karę śmierci w Polsce po 1945 roku",
+  "description": "Wykaz osób skazanych na karę śmierci w Polsce po 1945 roku z datą skazania, przestępstwem oraz datą i miejscem wykonania wyroku.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/Lista_osób_skazanych_na_karę_śmierci_w_Polsce_po_roku_1945",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_osób_skazanych_na_karę_śmierci_w_Polsce_po_roku_1945",
+  "updated": "2026-11",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "sentence_date_and_court",
+      "label": "Sentence Date And Court",
+      "type": "string"
+    },
+    {
+      "key": "crime",
+      "label": "Crime",
+      "type": "string"
+    },
+    {
+      "key": "execution_date_and_place",
+      "label": "Execution Date And Place",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adolf Adler vel Orłowski",
+      "sentence_date_and_court": "17 grudnia 1945",
+      "crime": "znęcanie się nad więźniami Radogoszcza",
+      "execution_date_and_place": "22 marca 1946 Łódź",
+      "notes": ""
+    },
+    {
+      "name": "Rudolf Kramp",
+      "sentence_date_and_court": "18 grudnia 1945",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "25 stycznia 1946",
+      "notes": ""
+    },
+    {
+      "name": "Karol Kurpanik",
+      "sentence_date_and_court": "20 lutego 1946",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "22 lutego 1946",
+      "notes": ""
+    },
+    {
+      "name": "Jenny-Wanda Barkmann, Wanda Klaff, Elisabeth Becker, Gerda Steinhoff, Ewa Paradies, Johann Pauls, Józef Reiter, Wacław Kozłowski, Jan Breit, Franciszek Szopiński, Tadeusz Kopczyński",
+      "sentence_date_and_court": "31 maja 1946",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "4 lipca 1946 Biskupia Górka w Gdańsku",
+      "notes": "członkowie załogi obozu koncentracyjnego w Sztutowie (niem. Stutthof); egzekucja publiczna, zob. procesy załogi Stutthofu"
+    },
+    {
+      "name": "Arthur Greiser",
+      "sentence_date_and_court": "7 lipca 1946 Najwyższy Trybunał Narodowy",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "21 lipca 1946 stoki Fortu Winiary w Poznaniu",
+      "notes": "ostatnia publiczna egzekucja w Polsce"
+    },
+    {
+      "name": "Edward Jurkowski, Józef Pokrzywiński, Julian Chorążak, Władysław Błachut, Józef Kukliński, Stefan Mazur, Kazimierz Nowakowski, Antoni Pruszkowski i Józef Śliwa",
+      "sentence_date_and_court": "11 lipca 1946 Najwyższy Sąd Wojskowy na sesji wyjazdowej w Kielcach",
+      "crime": "udział w pogromie kieleckim",
+      "execution_date_and_place": "12 lipca 1946",
+      "notes": ""
+    },
+    {
+      "name": "Bruno Israel",
+      "sentence_date_and_court": "2 sierpnia 1946",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "–",
+      "notes": "prezydent KRN Bolesław Bierut skorzystał wobec niego z prawa łaski, a kara została zamieniona na dożywotnie więzienie"
+    },
+    {
+      "name": "Amon Göth",
+      "sentence_date_and_court": "5 września 1946",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "13 września 1946 więzienie Montelupich",
+      "notes": ""
+    },
+    {
+      "name": "Theodor Meyer, Ewald Foth, Karl Eggert, Paul Wellnitz, Hans Rach, Fritz Peters, Kurt Dietrich, Albert Paulitz, Karl Zurell, Alfred Nikolaysen",
+      "sentence_date_and_court": "31 stycznia 1947",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "10 października 1947 Areszt Śledczy przy ul. Kurkowej 12 w Gdańsku",
+      "notes": "członkowie załogi obozu koncentracyjnego w Sztutowie (niem. Stutthof)"
+    },
+    {
+      "name": "Rudolf Höss",
+      "sentence_date_and_court": "7 kwietnia 1947",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "16 kwietnia 1947 dawny obóz Auschwitz-Birkenau",
+      "notes": ""
+    },
+    {
+      "name": "Hans Biebow",
+      "sentence_date_and_court": "30 kwietnia 1947",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "23 czerwca 1947",
+      "notes": ""
+    },
+    {
+      "name": "Rudolf Malysz",
+      "sentence_date_and_court": "13 sierpnia 1947",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "8 listopada 1947",
+      "notes": ""
+    },
+    {
+      "name": "Walter Pelzhausen",
+      "sentence_date_and_court": "12 września 1947",
+      "crime": "zabójstwo kilkunastu więźniów Radogoszcza, zbrodnicza działalność jako komendant i spalenie tego więzienia wraz z jego więźniami w styczniu 1945",
+      "execution_date_and_place": "1 marca 1948 więzienie przy ul. S. Sterlinga 16 w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Erich Czarnulla",
+      "sentence_date_and_court": "24 października 1947",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "27 marca 1948",
+      "notes": ""
+    },
+    {
+      "name": "Bernard W.",
+      "sentence_date_and_court": "7 listopada 1947 Sąd Okręgowy w Warszawie",
+      "crime": "jako niemiecki żandarm zastrzelił zbiegłego Polaka z obozu pracy w czasie wojny",
+      "execution_date_and_place": "–",
+      "notes": "ułaskawiony przez Prezydenta RP Bolesława Bieruta, a kara została zmieniona na dożywotnie więzienie"
+    },
+    {
+      "name": "Arthur Liebehenschel, Hans Aumeier, Max Grabner, Karl Ernst Möckel, Maria Mandl, Franz Xaver Kraus, Ludwig Plagge, Fritz Buntrock, Wilhelm Gerhard Gehring, Otto Lätsch, Heinrich Josten, Josef Kollmer, Erich Muhsfeldt, Hermann Kirschner, Hans Schumacher, August Bogusch, Therese Brandl, Paul Szczurek, Paul Götze, Herbert Paul Ludwig, Kurt Hugo Müller, Johann Paul Kremer, Artur Breitwieser",
+      "sentence_date_and_court": "22 grudnia 1947 Najwyższy Trybunał Narodowy w Krakowie (pierwszy proces oświęcimski)",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "24 stycznia 1948 więzienie Montelupich w Krakowie",
+      "notes": "J.P. Kremerowi i A. Breitwieserowi karę zmieniono na dożywotnie pozbawienie wolności; ostatnia egzekucja kobiet wykonana w Polsce"
+    },
+    {
+      "name": "Kurt Möller",
+      "sentence_date_and_court": "1 kwietnia 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "8 października 1948",
+      "notes": ""
+    },
+    {
+      "name": "Józef Żółty",
+      "sentence_date_and_court": "2 kwietnia 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "30 października 1948",
+      "notes": ""
+    },
+    {
+      "name": "Albert Forster",
+      "sentence_date_and_court": "29 kwietnia 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "28 lutego 1952 Warszawa",
+      "notes": ""
+    },
+    {
+      "name": "Erich Walter Hoffmann",
+      "sentence_date_and_court": "25 maja 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "13 listopada 1948",
+      "notes": ""
+    },
+    {
+      "name": "Elisabeth Lupka",
+      "sentence_date_and_court": "6 lipca 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "8 stycznia 1949",
+      "notes": ""
+    },
+    {
+      "name": "Werner Händler",
+      "sentence_date_and_court": "30 sierpnia 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "10 marca 1949",
+      "notes": ""
+    },
+    {
+      "name": "Maksymilian K.",
+      "sentence_date_and_court": "16 października 1948 Sąd Powiatowy w Świdnicy",
+      "crime": "wspieranie działań okupanta, tj. dokonywanie zabójstw na ludności cywilnej, wydawanie Żydów etc.",
+      "execution_date_and_place": "–",
+      "notes": "ułaskawiony przez Prezydenta RP na 15 lat więzienia"
+    },
+    {
+      "name": "Fritz Neumann",
+      "sentence_date_and_court": "18 listopada 1948",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "13 maja 1949",
+      "notes": ""
+    },
+    {
+      "name": "Erwin von Helmersen",
+      "sentence_date_and_court": "17 stycznia 1949",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "12 kwietnia 1949",
+      "notes": ""
+    },
+    {
+      "name": "Wilhelm Bayer",
+      "sentence_date_and_court": "2 czerwca 1949",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "9 grudnia 1949 Kraków",
+      "notes": ""
+    },
+    {
+      "name": "Czesław P.",
+      "sentence_date_and_court": "sierpień 1949",
+      "crime": "kradzież części z nieczynnych parowozów, które potem sprzedawał",
+      "execution_date_and_place": "15 września 1949",
+      "notes": "kolega, z którym współpracował, otrzymał wyrok 15 lat więzienia; według IPN Urząd Bezpieczeństwa zdecydowanie wpłynął na rozstrzygnięcie"
+    },
+    {
+      "name": "Bolesław Wierzbica",
+      "sentence_date_and_court": "20 marca 1950",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "5 grudnia 1950",
+      "notes": ""
+    },
+    {
+      "name": "Roman D.",
+      "sentence_date_and_court": "22 maja 1950",
+      "crime": "aktywne pomaganie nazistom w czasie wojny",
+      "execution_date_and_place": "",
+      "notes": "wyrok wykonano"
+    },
+    {
+      "name": "Wilhelm Polotzek",
+      "sentence_date_and_court": "18 lipca 1950",
+      "crime": "ludobójstwo",
+      "execution_date_and_place": "12 kwietnia 1952",
+      "notes": ""
+    },
+    {
+      "name": "Tadeusz Ołdak",
+      "sentence_date_and_court": "31 stycznia 1951 Sąd Wojewódzki w Warszawie",
+      "crime": "morderstwo dwóch kobiet na tle seksualnym",
+      "execution_date_and_place": "10 kwietnia 1951 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Wilhelm Haase",
+      "sentence_date_and_court": "26 czerwca 1951 Sąd Wojewódzki w Krakowie",
+      "crime": "udział w ludobójstwie",
+      "execution_date_and_place": "23 maja 1952 więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Jan Kępa, Zenon Majchrzak, Karol Olszewski, Józef Staniszewski",
+      "sentence_date_and_court": "17 maja 1951 Sąd Rejonowy w Katowicach",
+      "crime": "próba ucieczki z kraju",
+      "execution_date_and_place": "28 sierpnia 1951 więzienie w Bytomiu",
+      "notes": "Majchrzakowi, Staniszewskiemu i Olszewskiemu karę zmieniono na dożywotnie pozbawienie wolności"
+    },
+    {
+      "name": "Józef Cyppek",
+      "sentence_date_and_court": "17 września 1952 Sąd Wojewódzki w Szczecinie",
+      "crime": "morderstwo kobiety",
+      "execution_date_and_place": "3 listopada 1952 Szczecin",
+      "notes": ""
+    },
+    {
+      "name": "Leszek Wałachowski Robert Wałachowski Marian Malinowski Eugeniusz Szczyciński",
+      "sentence_date_and_court": "październik 1952",
+      "crime": "kilkunaście napadów rabunkowych na taksówkarzy i sklepy w warszawskiej dzielnicy Wola (1951), kilku napadów na milicjantów w celu pozyskania broni palnej i amunicji, w trakcie „akcji pozyskania broni” zastrzelono dwóch milicjantów (jednego w Warszawie i jednego w Lublinie)",
+      "execution_date_and_place": "luty 1953 Warszawa",
+      "notes": "przywódcą bandy braci Wałachowskich był Leszek Wałachowski; wyrok wykonano przez powieszenie"
+    },
+    {
+      "name": "Hieronim Bednarski",
+      "sentence_date_and_court": "31 października 1952",
+      "crime": "członek Krajowej Armii Podziemnej",
+      "execution_date_and_place": "29 marca 1953 więzienie w Opolu",
+      "notes": ""
+    },
+    {
+      "name": "Zenon Kelm",
+      "sentence_date_and_court": "21 kwietnia 1954 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo dwóch kobiet na tle rabunkowym",
+      "execution_date_and_place": "sierpień 1954 więzienie w Bydgoszczy",
+      "notes": ""
+    },
+    {
+      "name": "Bolesław Bubieńczyk",
+      "sentence_date_and_court": "13 października 1955 Sąd Wojewódzki w Białymstoku",
+      "crime": "morderstwo milicjanta",
+      "execution_date_and_place": "10 kwietnia 1956 więzienie w Białymstoku",
+      "notes": ""
+    },
+    {
+      "name": "Jerzy Paramonow",
+      "sentence_date_and_court": "11 listopada 1955 Sąd Wojewódzki w Warszawie",
+      "crime": "morderstwo milicjanta",
+      "execution_date_and_place": "21 listopada 1955 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Kazimierz Gaszyński",
+      "sentence_date_and_court": "11 listopada 1955 Sądu Wojewódzki w Warszawie",
+      "crime": "współudział w zabójstwie milicjanta",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na dożywocie"
+    },
+    {
+      "name": "Michał S.",
+      "sentence_date_and_court": "22 listopada 1955 Sąd Wojewódzki w Katowicach",
+      "crime": "dwa morderstwa",
+      "execution_date_and_place": "",
+      "notes": "Sąd Najwyższy uchylił wyrok i przekazał go do ponownego rozpoznania z powodu niedostatecznie dokładnego zbadania poczytalności S.; dalszy los oskarżonego nieznany"
+    },
+    {
+      "name": "Józef Nastarowicz",
+      "sentence_date_and_court": "2 lutego 1956 Sąd Wojewódzki w Łodzi",
+      "crime": "morderstwo żony oraz córki",
+      "execution_date_and_place": "4 czerwca 1956 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Władysław Mazurkiewicz",
+      "sentence_date_and_court": "30 sierpnia 1956 Sąd Wojewódzki w Krakowie",
+      "crime": "morderstwo sześciu osób i usiłowanie zabójstwa dwóch kolejnych",
+      "execution_date_and_place": "31 stycznia 1957 Kraków",
+      "notes": ""
+    },
+    {
+      "name": "Kazimierz Bajszczak",
+      "sentence_date_and_court": "1 czerwca 1957 Sąd Wojewódzki dla m. s. Warszawy",
+      "crime": "19-latek, morderstwo matki, Kazimiery Bajszczak, i kuzynki Zofii Siuchty, w marcu 1955 r.",
+      "execution_date_and_place": "",
+      "notes": "Informację podaje \"Dziennik Polski\" nr 130 z dn. 2/3 VI 1957. Dalszy los skazanego nieznany."
+    },
+    {
+      "name": "Stefan Dudziec",
+      "sentence_date_and_court": "czerwiec 1957 Sąd Wojewódzki dla woj. warszawskiego",
+      "crime": "28 lat, morderstwo matki, siostry, brata, bratowej i 3-letniego bratanka we wrześniu 1954 r. na tle zatargu o charakterze majątkowym",
+      "execution_date_and_place": "",
+      "notes": "\"Dziennik Polski\" nr 145 z dn. 20 VI 1957. Dalszy los skazanego nieznany."
+    },
+    {
+      "name": "Ryszard Gorzel",
+      "sentence_date_and_court": "1 lipca 1957 Sąd Wojewódzki w Lublinie",
+      "crime": "morderstwo swoich rodziców",
+      "execution_date_and_place": "1957",
+      "notes": ""
+    },
+    {
+      "name": "Stanisław Grześ",
+      "sentence_date_and_court": "28 sierpnia 1957 Sąd Wojewódzki w Poznaniu – Ośrodek Zamiejscowy w Kaliszu",
+      "crime": "napad na milicjanta (4 grudnia 1956) oraz zabójstwo czterech osób w tzw. sprawie pleszewskiej (napad rabunkowy na konwój pieniędzy w Fabianowie koło Pleszewa, 10 stycznia 1957)",
+      "execution_date_and_place": "4 października 1957, godz. 19:36 dziedziniec więzienia w Kaliszu",
+      "notes": ""
+    },
+    {
+      "name": "Zbigniew K.",
+      "sentence_date_and_court": "10 stycznia 1958 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo porwanej 7-letniej dziewczynki",
+      "execution_date_and_place": "30 stycznia 1958, godz. 20:00 Centralne Więzienie w Poznaniu",
+      "notes": "skazany w trybie doraźnym"
+    },
+    {
+      "name": "Edmund Słaby",
+      "sentence_date_and_court": "20 stycznia 1958 Sąd Wojewódzki w Opolu",
+      "crime": "morderstwo 7-osobowej rodziny Heluszków",
+      "execution_date_and_place": "9 września 1959 więzienie w Opolu",
+      "notes": ""
+    },
+    {
+      "name": "Władysław Kurek",
+      "sentence_date_and_court": "7 kwietnia 1958",
+      "crime": "morderstwo 2-letniej córki",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Jan Miśkiewicz",
+      "sentence_date_and_court": "2 czerwca 1958 Sąd Wojewódzki w Łodzi",
+      "crime": "morderstwo 6-letniej córki bratowej",
+      "execution_date_and_place": "19 marca 1959 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Joseph Kokott",
+      "sentence_date_and_court": "30 sierpnia 1958 Sąd Wojewódzki w Rzeszowie",
+      "crime": "morderstwo rodziny Ulmów w Markowej",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zamieniono na dożywocie, a następnie na 25 lat więzienia"
+    },
+    {
+      "name": "Józef T.",
+      "sentence_date_and_court": "9 września 1958 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo mężczyzny",
+      "execution_date_and_place": "–",
+      "notes": "wyrok uchylił Sąd Najwyższy"
+    },
+    {
+      "name": "Władysław Baczyński",
+      "sentence_date_and_court": "21 września 1959 Sąd Wojewódzki we Wrocławiu",
+      "crime": "morderstwo czterech osób i usiłowanie zabójstwa dwóch kolejnych",
+      "execution_date_and_place": "17 maja 1960 więzenie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Mateusz Mikita",
+      "sentence_date_and_court": "lipiec 1959 Sąd Wojewódzki dla m.st. Warszawy",
+      "crime": "zabójstwo trzech osób: małżeństwa Janiny z Klasińskich i Jana Kulwieciów oraz Leny Buchalskiej",
+      "execution_date_and_place": "6 sierpnia 1959",
+      "notes": ""
+    },
+    {
+      "name": "Tadeusz Rączka",
+      "sentence_date_and_court": "9 czerwca 1960 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo 14-letniego chłopca i 18-letniej kobiety (rodzeństwa Pawła i Gabrieli Triebler)",
+      "execution_date_and_place": "10 sierpnia 1960 więzienie w Bydgoszczy",
+      "notes": ""
+    },
+    {
+      "name": "Teresa Drozd (Widerowa)",
+      "sentence_date_and_court": "28 czerwca 1960",
+      "crime": "otrucie męża – Edwarda Widery, otrucie Stasia Sobika i usiłowanie zabójstwa Irenki Sobik",
+      "execution_date_and_place": "–",
+      "notes": "wyrok nigdy nie został wykonany; Widerowa opuściła mury więzienia w roku 1989"
+    },
+    {
+      "name": "Stanisław Sobik",
+      "sentence_date_and_court": "28 czerwca 1960",
+      "crime": "pomoc Teresie Widerowej w otruciu syna – Stasia i usiłowaniu otrucia córki – Irenki",
+      "execution_date_and_place": "–",
+      "notes": "wyrok nigdy nie został wykonany; Sobik opuścił mury więzienia"
+    },
+    {
+      "name": "Maksymilian B.",
+      "sentence_date_and_court": "15 października 1960 Sąd Wojewódzki",
+      "crime": "pomaganie Schutzpolizei, do której przynależał, wykonywanie egzekucji i dobijanie rannych",
+      "execution_date_and_place": "–",
+      "notes": "Rada Państwa zastosowała prawo łaski i zmieniła wyrok na dożywotnie więzienie; w wyniku wprowadzenia nowego kodeksu karnego wyrok obniżono do 25 lat; był głównym bohaterem powieści „Przyczółek”"
+    },
+    {
+      "name": "Bolesław Dedo",
+      "sentence_date_and_court": "21 grudnia 1960 Sąd Wojewódzki w Kielcach",
+      "crime": "przestępstwa gospodarcze",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na dożywocie"
+    },
+    {
+      "name": "Jan T.",
+      "sentence_date_and_court": "27 października 1961 Sąd Wojewódzki we Wrocławiu",
+      "crime": "udział, jako policjant niemieckiego garnizonu, w zabójstwach ludności cywilnej podczas pacyfikacji wsi na Kozłowszczyźnie i zastrzelenie 6-letniej dziewczynki w lutym 1943 roku",
+      "execution_date_and_place": "–",
+      "notes": "Sąd Najwyższy zmienił karę na dożywotnie więzienie"
+    },
+    {
+      "name": "Karol L.",
+      "sentence_date_and_court": "23 lutego 1962 Sąd Wojewódzki w Koszalinie",
+      "crime": "zabójstwo kolegi w celu rabunkowym w okolicy Ustronia Morskiego",
+      "execution_date_and_place": "13 września 1962 więzienie w Gdańsku",
+      "notes": ""
+    },
+    {
+      "name": "Stanisław Jaros",
+      "sentence_date_and_court": "25 maja 1962 Sąd Wojewódzki w Katowicach",
+      "crime": "usiłowanie morderstwa Władysława Gomułki i Nikity Chruszczowa oraz zabójstwo przypadkowego mężczyzny",
+      "execution_date_and_place": "5 stycznia 1963 więzienie w Katowicach",
+      "notes": ""
+    },
+    {
+      "name": "Stanisław W.",
+      "sentence_date_and_court": "20 października 1962 Sąd Wojewódzki w Poznaniu",
+      "crime": "zabójstwo żony i podpalenie domu, w wyniku czego zmarła dwójka jego dzieci",
+      "execution_date_and_place": "",
+      "notes": "za pomocnictwo Emilia P. została skazana na 15 lat więzienia"
+    },
+    {
+      "name": "Stanisław P.",
+      "sentence_date_and_court": "12 grudnia 1962 Sąd Wojewódzki w Radomiu",
+      "crime": "zabójstwo brata i jego żony",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Bogusław Olejnik",
+      "sentence_date_and_court": "27 marca 1963 Sąd Wojewódzki w Krakowie",
+      "crime": "morderstwo dwóch mężczyzn i kobiety na tle rabunkowym",
+      "execution_date_and_place": "więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Andrzej G.",
+      "sentence_date_and_court": "20 sierpnia 1963 Sąd Wojewódzki w Warszawie",
+      "crime": "zabójstwo kobiety w Rembertowie",
+      "execution_date_and_place": "27 stycznia 1964 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Sylweriusz Zdanowicz",
+      "sentence_date_and_court": "18 stycznia 1964 Sąd Wojewódzki w Krakowie",
+      "crime": "morderstwo dwóch milicjantów",
+      "execution_date_and_place": "więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Stanisław Wawrzecki",
+      "sentence_date_and_court": "2 lutego 1965 Sąd Wojewódzki w Warszawie",
+      "crime": "przestępstwa gospodarcze",
+      "execution_date_and_place": "19 marca 1965 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Janusz Stanisław K.",
+      "sentence_date_and_court": "9 lipca 1966 Sąd Wojewódzki we Wrocławiu",
+      "crime": "zabójstwo 13-latki na tle rabunkowym",
+      "execution_date_and_place": "",
+      "notes": "Sąd Najwyższy uchylił wyrok z powodu licznych błędów w czasie postępowania i interpretacji dowodów, przekazując sprawę do ponownego rozpoznania Sądowi Wojewódzkiemu w Katowicach; nieznany dalszy los oskarżonego"
+    },
+    {
+      "name": "Karol Kot",
+      "sentence_date_and_court": "14 lipca 1967 Sąd Wojewódzki w Krakowie",
+      "crime": "morderstwo staruszki oraz chłopca",
+      "execution_date_and_place": "16 maja 1968 więzienie w Mysłowicach",
+      "notes": ""
+    },
+    {
+      "name": "Jerzy Strawa",
+      "sentence_date_and_court": "22 grudnia 1967 Sąd WOW w Warszawie (sygn. So 711/67)",
+      "crime": "szpiegostwo na rzecz wywiadu amerykańskiego (prawdopodobnie DIA)",
+      "execution_date_and_place": "2 lub 8 maja 1968 Więzienie Mokotowskie przy ul. Rakowieckiej 37 w Warszawie",
+      "notes": "rewizja z lutego 1968 nie zniosła kary; Rada Państwa nie skorzystała z prawa łaski; egzekucja przez rozstrzelanie; wedle innej wersji egzekucji miał dokonać pluton WSW na Forcie Rembertowskim"
+    },
+    {
+      "name": "Adam Kaczmarzyk",
+      "sentence_date_and_court": "1968",
+      "crime": "szpiegostwo na rzecz wywiadu brytyjskiego",
+      "execution_date_and_place": "1969 warszawska jednostka wojskowa w Forcie Rembertowskim",
+      "notes": "wyrok wykonano przez rozstrzelanie"
+    },
+    {
+      "name": "Tadeusz C.",
+      "sentence_date_and_court": "24 lutego 1968 Sąd Wojewódzki w Kielcach",
+      "crime": "podwójne morderstwo sąsiadów na tle rabunkowym",
+      "execution_date_and_place": "",
+      "notes": "Sąd Najwyższy uchylił wyrok i przekazał do ponownego rozpoznania; dalszy los oskarżonego nieznany"
+    },
+    {
+      "name": "Bogdan Arnold",
+      "sentence_date_and_court": "9 marca 1968 Sąd Wojewódzki w Katowicach",
+      "crime": "morderstwo czterech kobiet na tle seksualnym",
+      "execution_date_and_place": "16 grudnia 1968 więzienie w Katowicach",
+      "notes": ""
+    },
+    {
+      "name": "Stefan Rachubiński",
+      "sentence_date_and_court": "22 października 1968 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo dwóch kobiet na tle seksualnym",
+      "execution_date_and_place": "grudzień 1968 więzienie w Bydgoszczy",
+      "notes": ""
+    },
+    {
+      "name": "Stefan Dorna",
+      "sentence_date_and_court": "styczeń 1969 Sąd Wojskowy",
+      "crime": "strzelanina z dwiema ofiarami śmiertelnymi (zbrodnia w Jiczynie)",
+      "execution_date_and_place": "–",
+      "notes": "łaski skazanemu udzieliła Rada Państwa, zamieniając wyrok z kary śmierci na dożywocie; po wejściu w życie nowego kodeksu karnego w 1970 karę dożywocia zamieniono na 25 lat pozbawienia wolności; za dobre sprawowanie został zwolniony z więzienia i wyszedł na wolność w 1983, po 15 latach przebywania w zakładzie karnym"
+    },
+    {
+      "name": "Stanisław Modzelewski",
+      "sentence_date_and_court": "5 lutego 1969",
+      "crime": "zamordowanie siedmiu kobiet",
+      "execution_date_and_place": "13 listopada 1969 więzienie przy ul. Rakowieckiej 37 w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Mieczysław Zbroja",
+      "sentence_date_and_court": "9 lipca 1969 Sąd Wojewódzki w Kielcach",
+      "crime": "morderstwo myśliwego",
+      "execution_date_and_place": "",
+      "notes": "dalszy los nieznany"
+    },
+    {
+      "name": "Franciszek Barts Edmund Piechowski",
+      "sentence_date_and_court": "12 września 1970 i ponownie 16 stycznia 1973 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo gdańskiego taksówkarza",
+      "execution_date_and_place": "2 października 1973 Areszt Śledczy w Gdańsku",
+      "notes": "Sąd Najwyższy uchylił wyrok i przekazał sprawę do ponownego rozpoznania; 16 stycznia 1973 skazani na karę śmierci w ponownym procesie; Sąd Najwyższy utrzymał wyrok w mocy"
+    },
+    {
+      "name": "Samuel Fernbach",
+      "sentence_date_and_court": "29 stycznia 1971 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo dwóch dziewczynek na tle seksualnym",
+      "execution_date_and_place": "26 lipca 1971 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Józef Zakrzewski Czesław Zakrzewski",
+      "sentence_date_and_court": "28 czerwca 1971 Sąd Wojewódzki w Kielcach",
+      "crime": "morderstwo ośmiu osób, w tym 5-osobowej rodziny Lipów",
+      "execution_date_and_place": "luty 1972 więzienie w Krakowie",
+      "notes": "Trzeci sprawca, Adam Zakrzewski, został skazany na karę 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Ryszard Stachowiak",
+      "sentence_date_and_court": "1972 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo kobiety na tle seksualnym oraz usiłowanie morderstwa kolejnej kobiety",
+      "execution_date_and_place": "więzienie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Henryk Pryczka",
+      "sentence_date_and_court": "lato 1972 Sąd Śląskiego Okręgu Wojskowego we Wrocławiu",
+      "crime": "26 listopada 1971, będąc na żołnierskim urlopie w Mirsku, poznał 39-letnią Anielę D. W lesie pili alkohol i odbyli stosunek. Stał się coraz bardziej napastliwy. Próbował zmusić kobietę do kolejnego stosunku. Ta odmówiła, uderzył ją w twarz. Wywiązała się kłótnia, w trakcie której zadał ofierze kilka uderzeń drewnianym kołkiem w głowę, plecy i twarz. Nieprzytomnej wbił kij w narządy rodne. Obrażenia, jakich doznała ofiara, okazały się śmiertelne.",
+      "execution_date_and_place": "6 lutego 1973",
+      "notes": "Służył w Marynarce Wojennej. W toku śledztwa okazało się, że rok wcześniej, będąc już w wojsku, 26 października 1970, jadąc pociągiem relacji Świeradów Zdrój–Gryfów Śląski, dokonał próby gwałtu na kierowniczce pociągu. 8 listopada 1972 Izba Wojskowa Sądu Najwyższego podtrzymała wyrok w mocy. Rada Państwa nie skorzystała z prawa łaski. Rozstrzelany. Tego samego dnia rozstrzelano również szeregowego Józefa Głyżewskiego."
+    },
+    {
+      "name": "Marian D.",
+      "sentence_date_and_court": "7 stycznia 1972 Sąd Wojewódzki we Wrocławiu",
+      "crime": "zabójstwo na tle rabunkowym",
+      "execution_date_and_place": "–",
+      "notes": "karę zmieniono na 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Józef Głyżewski",
+      "sentence_date_and_court": "30 marca 1972 Sąd Śląskiego Okręgu Wojskowego we Wrocławiu",
+      "crime": "16 lipca 1971 samowolnie oddalił się z jednostki. Przebywając nad jeziorem Rudnickim, w godzinach popołudniowych wciągnął w zarośla, brutalnie zgwałcił i udusił 46-letnią Irenę D., mieszkankę Piły. Został zatrzymany 5 października 1971. W międzyczasie dokonał napadu i gwałtu na 45-letniej kobiecie.",
+      "execution_date_and_place": "6 lutego 1973 strzelnica 2 Warszawskiej Brygady Saperów w Kazuniu",
+      "notes": "Żołnierz 87 batalionu Łączności w Pile. W toku śledztwa ustalono, że już jako 14-latek dopuszczał się czynów nierządnych na 8- i 9-letnich dziewczynkach, za które trafił do zakładu poprawczego. Po opuszczeniu zakładu dokonał czynu nierządnego na 13-letnim chłopcu oraz zgwałcił 55-letnią kobietę. Izba Wojskowa Sądu Najwyższego podtrzymała wyrok. Rada Państwa nie skorzystała z prawa łaski. Wyrok wykonano przez rozstrzelanie."
+    },
+    {
+      "name": "Zygmunt Garbacki Marian Wojtasik",
+      "sentence_date_and_court": "16 czerwca 1972 Sąd Wojewódzki w Warszawie",
+      "crime": "morderstwo pułkownika Jana Gerharda",
+      "execution_date_and_place": "22 stycznia 1973 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Jan Gromski",
+      "sentence_date_and_court": "sierpień 1972",
+      "crime": "gwałt na 10-letniej Ewie I. i zamordowanie jej poprzez uduszenie",
+      "execution_date_and_place": "",
+      "notes": "wyrok został wykonany"
+    },
+    {
+      "name": "Jerzy Kowalczyk",
+      "sentence_date_and_court": "8 września 1972 Sąd Wojewódzki w Opolu",
+      "crime": "przygotowanie zamachu bombowego i wysadzenie auli Wyższej Szkoły Pedagogicznej w Opolu",
+      "execution_date_and_place": "–",
+      "notes": "karę zmieniono na 25 lat więzienia"
+    },
+    {
+      "name": "Janusz Dębiński",
+      "sentence_date_and_court": "30 stycznia 1973 Sąd Wojewódzki w Łodzi",
+      "crime": "morderstwo dwóch mężczyzn na tle rabunkowym",
+      "execution_date_and_place": "25 września 1973 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Jacek K.",
+      "sentence_date_and_court": "9 sierpnia 1973 Sąd Najwyższy w Warszawie",
+      "crime": "morderstwo swojej matki",
+      "execution_date_and_place": "",
+      "notes": "dalszy los nieznany"
+    },
+    {
+      "name": "Krzysztof Kowalski",
+      "sentence_date_and_court": "6 listopada 1973 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo kobiety na tle seksualnym",
+      "execution_date_and_place": "27 maja 1974 więzienie w Bydgoszczy",
+      "notes": ""
+    },
+    {
+      "name": "Czesław Musiński",
+      "sentence_date_and_court": "12 stycznia 1974 Sąd Wojewódzki w Zielonej Górze",
+      "crime": "morderstwo pięciu osób",
+      "execution_date_and_place": "30 września 1974 więzienie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Jan Marchwicki",
+      "sentence_date_and_court": "28 lipca 1975",
+      "crime": "podżeganie do morderstwa kobiety",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Zdzisław Marchwicki",
+      "sentence_date_and_court": "28 lipca 1975",
+      "crime": "morderstwo piętnastu kobiet i usiłowanie morderstwa czterech kobiet",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Stanisław Kornacki",
+      "sentence_date_and_court": "25 czerwca 1976 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo kobiety na tle rabunkowym",
+      "execution_date_and_place": "1977 więzienie w Bydgoszczy",
+      "notes": ""
+    },
+    {
+      "name": "Piotr K.",
+      "sentence_date_and_court": "9 lipca 1976 Sąd Wojewódzki w Lublinie",
+      "crime": "morderstwo 13-latki na tle seksualnym",
+      "execution_date_and_place": "–",
+      "notes": "Sąd Najwyższy obniżył karę do 25 lat"
+    },
+    {
+      "name": "Andrzej Pietrzak",
+      "sentence_date_and_court": "18 stycznia 1977 Sąd Wojewódzki w Łodzi",
+      "crime": "morderstwo trzech kobiet na tle rabunkowym",
+      "execution_date_and_place": "6 lutego 1978 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Tadeusz Wencel",
+      "sentence_date_and_court": "12 maja 1977 Sąd Wojewódzki w Bydgoszczy",
+      "crime": "morderstwo kobiety",
+      "execution_date_and_place": "–",
+      "notes": "karę zmieniono na 25 lat więzienia"
+    },
+    {
+      "name": "Konstanty Krajza",
+      "sentence_date_and_court": "31 stycznia 1978 Sąd Wojewódzki w Ostrołęce",
+      "crime": "współudział w zamordowaniu 6-osobowej rodziny",
+      "execution_date_and_place": "",
+      "notes": "siostrzeniec, Eugeniusz, uznany został za niepoczytalnego, zaś siostra Franciszka, która podżegała brata i syna do zabójstwa, została skazana na 12 lat; wyrok wykonano"
+    },
+    {
+      "name": "Jan Dąbrowski Jan Wołyniec",
+      "sentence_date_and_court": "8 czerwca 1978 Sąd Wojewódzki w Białymstoku",
+      "crime": "morderstwo dziewięciu mężczyzn na tle rabunkowym",
+      "execution_date_and_place": "wrzesień 1979 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Andrzej S.",
+      "sentence_date_and_court": "16 czerwca 1978 Sąd Wojewódzki w Szczecinie",
+      "crime": "morderstwo swojej matki",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na karę 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Zygmunt Korgól",
+      "sentence_date_and_court": "13 września 1978 Sąd Wojewódzki w Piotrkowie Trybunalskim",
+      "crime": "morderstwo dwóch mężczyzn",
+      "execution_date_and_place": "24 sierpnia 1979 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Czesław Sezanowicz",
+      "sentence_date_and_court": "4 sierpnia 1978 Sąd Śląskiego Okręgu Wojskowego we Wrocławiu",
+      "crime": "brutalny gwałt i zabójstwo ze szczególnych okrucieństwem 25-letniej Jadwigi R. dokonane późnym wieczorem 6 listopada 1977 we wsi Kamienna Góra",
+      "execution_date_and_place": "7 marca 1979",
+      "notes": "Został powołany do wojska 26 października 1976. Służył w Jednostce Wojskowej nr 2812 w Nysie, która wchodziła w skład Drugiej Warszawskiej Dywizji Zmechanizowanej. Izba Wojskowa Sądu Najwyższego w dniu 19 września 1978 podtrzymała wyrok, uznając dodatkowo, że sprawca pastwił się nad zwłokami zamordowanej. Rada Państwa nie skorzystała z prawa łaski. Wyrok wykonano przez rozstrzelanie."
+    },
+    {
+      "name": "Jan Masłowski",
+      "sentence_date_and_court": "27 października 1978 Sąd Wojewódzki w Zamościu",
+      "crime": "udział w mordach na ludności cywilnej i jeńcach wojennych w czasie II wojny światowej",
+      "execution_date_and_place": "20 sierpnia 1979 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Zbigniew Czajka",
+      "sentence_date_and_court": "1979 Sąd Wojewódzki w Wałbrzychu",
+      "crime": "morderstwo 5-letniej dziewczynki na tle seksualnym",
+      "execution_date_and_place": "sierpień 1979 więzienie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Tadeusz Janicki",
+      "sentence_date_and_court": "1979 Sąd Wojewódzki we Wrocławiu",
+      "crime": "morderstwo 10-letniej dziewczynki na tle seksualnym",
+      "execution_date_and_place": "sierpień 1979 więzienie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Jan Sojda Józef Adaś Stanisław Kulpiński Jerzy Socha",
+      "sentence_date_and_court": "10 listopada 1979 Sąd Wojewódzki w Tarnobrzegu",
+      "crime": "morderstwo trzech osób (zbrodnia połaniecka)",
+      "execution_date_and_place": "23 listopada 1982 (Sojda, Adaś) więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Zdzisław Szczerkowski",
+      "sentence_date_and_court": "18 grudnia 1979",
+      "crime": "zamordowanie gdyńskiego lekarza Tadeusza Kurzydłowskiego, jego matki Zofii oraz Kamili Banaszek z Warszawy",
+      "execution_date_and_place": "13 sierpnia 1981 Gdańsk",
+      "notes": ""
+    },
+    {
+      "name": "Ryszard Kowalski",
+      "sentence_date_and_court": "31 stycznia 1980 Sąd Wojewódzki w Łodzi",
+      "crime": "zamordowanie dwóch starszych kobiet na tle rabunkowym",
+      "execution_date_and_place": "",
+      "notes": "dalszy los nieznany"
+    },
+    {
+      "name": "Czesław Chodorowicz",
+      "sentence_date_and_court": "12 marca 1980 Sąd Wojewódzki w Piotrkowie Trybunalskim",
+      "crime": "morderstwo starszej kobiety",
+      "execution_date_and_place": "4 listopada 1980 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Kazimierz Labrync",
+      "sentence_date_and_court": "14 sierpnia 1980 Sąd Najwyższy w Warszawie",
+      "crime": "morderstwo mężczyzny i usiłowanie zabójstwa",
+      "execution_date_and_place": "27 marca 1981 więzienie w Łodzi",
+      "notes": ""
+    },
+    {
+      "name": "Bronisław Winczewski",
+      "sentence_date_and_court": "1981 Sąd Wojewódzki w Katowicach",
+      "crime": "morderstwo milicjanta",
+      "execution_date_and_place": "1982 więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Julian Kołtun",
+      "sentence_date_and_court": "1981",
+      "crime": "zamordowanie kobiety oraz 12-letniej dziewczynki na tle seksualnym i usiłowanie zabójstwa kolejnych pięciu",
+      "execution_date_and_place": "więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Tadeusz Wencel",
+      "sentence_date_and_court": "7 maja 1982 Sąd Wojewódzki w Pile",
+      "crime": "morderstwo współwięźnia",
+      "execution_date_and_place": "7 lipca 1983 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Ryszard Sobok",
+      "sentence_date_and_court": "16 czerwca 1982 Sąd Wojewódzki w Wałbrzychu",
+      "crime": "morderstwo 6 osób – członków własnej rodziny",
+      "execution_date_and_place": "31 marca 1984 więzienie we Wrocławiu",
+      "notes": ""
+    },
+    {
+      "name": "Romuald Spasowski",
+      "sentence_date_and_court": "4 października 1982 Sąd Warszawskiego Okręgu Wojskowego w Warszawie",
+      "crime": "art. 122 k.k. (zdrada)",
+      "execution_date_and_place": "–",
+      "notes": "ambasador PRL w USA; ostatecznie uniewinniony przez Sąd Najwyższy 25 listopada 1990"
+    },
+    {
+      "name": "Zdzisław Maciej Rurarz",
+      "sentence_date_and_court": "16 grudnia 1982 Sąd Warszawskiego Okręgu Wojskowego w Warszawie",
+      "crime": "art. 122 k.k. (zdrada)",
+      "execution_date_and_place": "–",
+      "notes": "ambasador PRL w Japonii; ostatecznie uniewinniony przez Sąd Najwyższy 26 listopada 1990"
+    },
+    {
+      "name": "Piotr Stiler",
+      "sentence_date_and_court": "28 lutego 1982 (ponowny proces 28 grudnia 1982) Sąd Wojewódzki w Katowicach",
+      "crime": "dwukrotnie skazany za popełnione w warunkach recydywy zabójstwo połączone ze zgwałceniem i dwa inne gwałty popełnione w warunkach recydywy",
+      "execution_date_and_place": "30 września 1983 Areszt Śledczy w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Krzysztof Piotr Sołtysiak",
+      "sentence_date_and_court": "20 kwietnia 1982 ponownie 31 stycznia 1983 Sąd Wojewódzki w Łodzi",
+      "crime": "dwa zabójstwa (dziewczynki i kobiety) i usiłowanie kolejnego (połączonego ze zgwałceniem) oraz zgwałcenie i obrabowanie dziecka, a także siedem włamań oraz cztery kradzieże",
+      "execution_date_and_place": "11 października 1983 Areszt Śledczy w Łodzi",
+      "notes": "w wyniku rewizji złożonej przez obrońców oraz decyzji Sądu Najwyższego sprawa ponownie trafiła do Sądu Wojewódzkiego w Łodzi, który utrzymał wyrok w mocy"
+    },
+    {
+      "name": "Jerzy Józef Sumiński",
+      "sentence_date_and_court": "7 lutego 1983 Sąd Warszawskiego Okręgu Wojskowego w Warszawie",
+      "crime": "",
+      "execution_date_and_place": "",
+      "notes": "major kontrwywiadu wojskowego, po ucieczce w marcu 1981 do USA skazany w procesie zaocznym"
+    },
+    {
+      "name": "Andrzej Wajda, Ryszard Pasternak",
+      "sentence_date_and_court": "18 marca 1983 Sąd Wojewódzki w Rzeszowie",
+      "crime": "morderstwo księdza Stanisława Maciąga w Sędziszowie Małopolskim popełnione 10 marca 1982 w trakcie napadu rabunkowego na niego",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Zdzisław Najder",
+      "sentence_date_and_court": "28 maja 1983 Wojskowy Sąd Okręgowy w Warszawie",
+      "crime": "szpiegostwo na rzecz USA",
+      "execution_date_and_place": "",
+      "notes": "Sąd Najwyższy uchylił wyrok i przekazał Naczelnej Prokuraturze Wojskowej do uzupełnienia postępowania przygotowawczego wskutek licznych błędów proceduralnych"
+    },
+    {
+      "name": "Piotr Wojciechowski",
+      "sentence_date_and_court": "10 czerwca 1983 Sąd Najwyższy",
+      "crime": "zabójstwo popełnione na tle rabunkowym",
+      "execution_date_and_place": "10 października 1983 Areszt Śledczy w Łodzi",
+      "notes": "dwukrotnie skazany (16 września 1981 i 22 października 1982) przez Sąd Wojewódzki w Łodzi na karę 25 lat pozbawienia wolności; drugi wyrok Sąd Najwyższy zamienił w zaocznym procesie na karę śmierci"
+    },
+    {
+      "name": "Waldemar Krakos",
+      "sentence_date_and_court": "23 czerwca 1983 Sąd Najwyższy",
+      "crime": "morderstwo taksówkarza (dokonane w noc sylwestrową 1982/1983)",
+      "execution_date_and_place": "10 października 1983 godz. 21:16 Areszt Śledczy Warszawa Mokotów",
+      "notes": "skazany w trybie doraźnym 10 marca 1983 przez Sąd Wojewódzki w Warszawie na karę 25 lat pozbawienia wolności; w wyniku rewizji nadzwyczajnej ministra sprawiedliwości i Prokuratora Generalnego PRL Sąd Najwyższy zaostrzył wyrok do kary śmierci"
+    },
+    {
+      "name": "Grzegorz Tyklewicz",
+      "sentence_date_and_court": "14 lipca 1983 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo dwóch kobiet i taksówkarza",
+      "execution_date_and_place": "30 maja 1985 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Stefan W.",
+      "sentence_date_and_court": "19 października 1983 Sąd Wojewódzki w Elblągu",
+      "crime": "morderstwo na tle rabunkowym",
+      "execution_date_and_place": "",
+      "notes": "Sąd Najwyższy utrzymał wyrok; nieznany dalszy los oskarżonego"
+    },
+    {
+      "name": "Antoni Kosidło",
+      "sentence_date_and_court": "13 grudnia 1983 Sąd Wojewódzki w Szczecinie",
+      "crime": "morderstwo kobiety oraz usiłowanie zabójstwa jej syna",
+      "execution_date_and_place": "10 lipca 1984 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Janusz Magierski",
+      "sentence_date_and_court": "16 grudnia 1983 Sąd Wojewódzki w Słupsku",
+      "crime": "morderstwo milicjanta",
+      "execution_date_and_place": "lato 1984",
+      "notes": ""
+    },
+    {
+      "name": "Kazimierz Polus",
+      "sentence_date_and_court": "13 kwietnia 1984 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo chłopca i dwóch mężczyzn",
+      "execution_date_and_place": "15 marca 1985 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Zdzisław Czesław Kubiak",
+      "sentence_date_and_court": "30 kwietnia 1984 Sąd Najwyższy",
+      "crime": "zabójstwo taksówkarza (dokonane 17 grudnia 1982)",
+      "execution_date_and_place": "20 października 1984 Areszt Śledczy w Gdańsku",
+      "notes": "skazany 19 stycznia 1984 przez Sąd Wojewódzki w Olsztynie na karę 25 lat pozbawienia wolności; karę tę Sąd Najwyższy zamienił w zaocznym procesie na karę śmierci"
+    },
+    {
+      "name": "Joachim Knychała",
+      "sentence_date_and_court": "19 kwietnia 1984 Sąd Wojewódzki w Katowicach",
+      "crime": "morderstwo czterech kobiet i dziewczynki",
+      "execution_date_and_place": "21 maja 1985 więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Henryk Dębski",
+      "sentence_date_and_court": "19 maja 1984 Sąd Wojewódzki w Suwałkach",
+      "crime": "zabójstwo dwóch dziewczynek na tle seksualnym",
+      "execution_date_and_place": "1985 więzienie w Warszawie",
+      "notes": ""
+    },
+    {
+      "name": "Ryszard Kukliński",
+      "sentence_date_and_court": "23 maja 1984 sąd wojskowy w Warszawie",
+      "crime": "szpiegostwo na rzecz USA",
+      "execution_date_and_place": "–",
+      "notes": "skazany zaocznie; wyrok został złagodzono do 25 lat więzienia w 1990; w 1995 w wyniku rewizji I prezesa Sądu Najwyższego Adama Strzembosza wyrok uchylono"
+    },
+    {
+      "name": "Zdzisław Grossman",
+      "sentence_date_and_court": "28 maja 1984 Sąd Wojewódzki w Krakowie",
+      "crime": "zabójstwo mężczyzny na tle rabunkowym",
+      "execution_date_and_place": "czerwiec 1985 więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Andrzej Nowosławski",
+      "sentence_date_and_court": "28 maja 1984 Sąd Wojewódzki w Krakowie",
+      "crime": "zlecenie zabójstwa ojca",
+      "execution_date_and_place": "czerwiec 1985 więzienie w Krakowie",
+      "notes": ""
+    },
+    {
+      "name": "Marian K.",
+      "sentence_date_and_court": "10 lipca 1984 Sąd Wojewódzki w Tarnobrzegu",
+      "crime": "morderstwo 6-letniej dziewczynki na tle seksualnym",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na karę 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Mirosław Michoń",
+      "sentence_date_and_court": "11 września 1984 Sąd Wojewódzki w Częstochowie",
+      "crime": "morderstwo mężczyzny i usiłowanie zabójstwa wspólnika",
+      "execution_date_and_place": "15 czerwca 1985 Kraków",
+      "notes": ""
+    },
+    {
+      "name": "Mieczysław Zub",
+      "sentence_date_and_court": "grudzień 1984 Sąd Wojewódzki w Katowicach",
+      "crime": "morderstwo czterech kobiet",
+      "execution_date_and_place": "–",
+      "notes": "wyroku nie wykonano – skazaniec popełnił samobójstwo"
+    },
+    {
+      "name": "Mirosław F.",
+      "sentence_date_and_court": "czerwiec 1985 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo kobiety na tle rabunkowym",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na karę 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Edmund Kolanowski",
+      "sentence_date_and_court": "4 czerwca 1985 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo dziewczynki i dwóch kobiet",
+      "execution_date_and_place": "28 lipca 1986 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Henryk Czyżewski",
+      "sentence_date_and_court": "14 czerwca 1985 Sąd Wojewódzki w Legnicy",
+      "crime": "cztery przypadki zgwałcenia i zamordowania młodych kobiet (Wampir z Rokitek wszystkie ofiary dusił elementem ich odzieży) oraz liczne napaści i próby gwałtu",
+      "execution_date_and_place": "29 kwietnia 1986",
+      "notes": "skazany łącznie na karę śmierci i „pozbawienie praw publicznych na zawsze”; Sąd Najwyższy podtrzymał ten wyrok"
+    },
+    {
+      "name": "Paweł Tuchlin",
+      "sentence_date_and_court": "6 sierpnia 1985 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo dziewięciu kobiet",
+      "execution_date_and_place": "25 maja 1987 więzienie w Gdańsku",
+      "notes": ""
+    },
+    {
+      "name": "Mariusz Radomski",
+      "sentence_date_and_court": "20 września 1985 Sąd Wojewódzki w Szczecinie",
+      "crime": "morderstwo taksówkarza",
+      "execution_date_and_place": "więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Waldemar Stanisław M.",
+      "sentence_date_and_court": "11 lutego 1986 Sąd Wojewódzki w Kielcach",
+      "crime": "zabójstwo taksówkarza dokonane 4 grudnia 1982",
+      "execution_date_and_place": "–",
+      "notes": "skazany dwukrotnie; karę tę Sąd Najwyższy zamienił 6 lutego 1987 na karę 25 lat pozbawienia wolności; został zwolniony warunkowo 13 stycznia 2005"
+    },
+    {
+      "name": "Ludwik S.",
+      "sentence_date_and_court": "11 czerwca 1986 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo kobiety",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zmieniono na karę 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Andrzej Czabański",
+      "sentence_date_and_court": "12 czerwca 1986 Sąd Wojewódzki w Tarnowie",
+      "crime": "morderstwo kobiety oraz usiłowanie zabójstwa jej córek",
+      "execution_date_and_place": "21 kwietnia 1988 więzienie w Krakowie",
+      "notes": "ostatnia egzekucja wykonana w Polsce"
+    },
+    {
+      "name": "Krzysztof Kałużny",
+      "sentence_date_and_court": "24 września 1986 Sąd Wojewódzki w Poznaniu",
+      "crime": "morderstwo 8-letniej dziewczynki na tle seksualnym",
+      "execution_date_and_place": "17 września 1987 więzienie w Poznaniu",
+      "notes": ""
+    },
+    {
+      "name": "Jan K.",
+      "sentence_date_and_court": "30 października 1986 Sąd Wojewódzki w Kielcach",
+      "crime": "morderstwo żony",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zamieniono na 25 lat więzienia"
+    },
+    {
+      "name": "Krzysztof T.",
+      "sentence_date_and_court": "3 listopada 1986 Sąd Wojewódzki w Pile",
+      "crime": "morderstwo kobiety oraz usiłowanie zabójstwa mężczyzny na tle rabunkowym",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zamieniono na 25 lat więzienia"
+    },
+    {
+      "name": "Józef Ścibiorek",
+      "sentence_date_and_court": "16 czerwca 1987 Sąd Wojewódzki w Łodzi",
+      "crime": "pobicie ze skutkiem śmiertelnym",
+      "execution_date_and_place": "",
+      "notes": ""
+    },
+    {
+      "name": "Mariusz Trynkiewicz",
+      "sentence_date_and_court": "29 września 1989",
+      "crime": "morderstwo czterech chłopców",
+      "execution_date_and_place": "–",
+      "notes": "czterokrotnie skazany na karę śmierci, zamienioną później (na mocy amnestii z 7 grudnia 1989 roku) na 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Henryk Więckowski",
+      "sentence_date_and_court": "1991",
+      "crime": "morderstwo",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Mirosław Smolarek",
+      "sentence_date_and_court": "12 grudnia 1991 Sąd Wojewódzki w Gdańsku",
+      "crime": "gwałt i morderstwo 10-letniej dziewczynki",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zamieniono na 25 lat pozbawienia wolności"
+    },
+    {
+      "name": "Eugeniusz Mazur",
+      "sentence_date_and_court": "4 marca 1992 Sąd Wojewódzki w Olsztynie",
+      "crime": "morderstwo 4-osobowej rodziny",
+      "execution_date_and_place": "–",
+      "notes": "zmarł w więzieniu w Sztumie przed końcem odbywania kary"
+    },
+    {
+      "name": "Henryk Moruś",
+      "sentence_date_and_court": "1993",
+      "crime": "morderstwo siedmiu osób",
+      "execution_date_and_place": "–",
+      "notes": "wyrok zamieniono na dożywocie; zmarł w więzieniu w 2013 roku"
+    },
+    {
+      "name": "Janusz Kulmatycki",
+      "sentence_date_and_court": "9 czerwca 1994 Sąd Wojewódzki we Wrocławiu",
+      "crime": "morderstwo policjanta",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Grzegorz Płociniak",
+      "sentence_date_and_court": "10 listopada 1994 Sąd Wojewódzki w Olsztynie",
+      "crime": "morderstwo mężczyzny i kobiety (małżeństwa) na tle rabunkowym",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Jan Franke",
+      "sentence_date_and_court": "1995 Sąd Wojewódzki w Katowicach",
+      "crime": "morderstwo dwóch osób – kobiety na tle seksualnym oraz mężczyzny na tle rabunkowym",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Tomasz Ciepielewski",
+      "sentence_date_and_court": "30 marca 1995 Sąd Wojewódzki w Radomiu",
+      "crime": "morderstwo 11-letniej dziewczynki na tle seksualnym",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Zenon Gliwa",
+      "sentence_date_and_court": "28 września 1995 Sąd Wojewódzki w Gdańsku",
+      "crime": "morderstwo dwóch dziewczynek na tle seksualnym",
+      "execution_date_and_place": "–",
+      "notes": ""
+    },
+    {
+      "name": "Zbigniew Brzoskowski",
+      "sentence_date_and_court": "7 lutego 1996 Sąd Wojewódzki w Elblągu",
+      "crime": "morderstwo lekarki Aleksandry Gabrysiak i jej adoptowanej córki Marii",
+      "execution_date_and_place": "–",
+      "notes": "ostatni wydany wyrok śmierci w Polsce"
+    }
+  ],
+  "meta": {
+    "title": "Osoby skazane na karę śmierci w Polsce po 1945 roku - Free Download",
+    "description": "Wykaz osób skazanych na karę śmierci w Polsce po 1945 roku z datą skazania, przestępstwem oraz datą i miejscem wykonania wyroku. Contains 162 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Osoby skazane na karę śmierci w Polsce po 1945 roku | ListBase",
+    "seo_description": "Download Osoby skazane na karę śmierci w Polsce po 1945 roku — 162 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 162 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_osób_skazanych_na_karę_śmierci_w_Polsce_po_roku_1945"
+    ]
+  }
+}

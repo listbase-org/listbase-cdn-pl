@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-12T02:12:02.400Z",
-  "total_datasets": 558,
-  "total_records": 1095344,
+  "generated": "2026-11-12T02:12:10.141Z",
+  "total_datasets": 559,
+  "total_records": 1095506,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -4531,6 +4531,32 @@
         "xlsx": {
           "name": "pl-sedziowie-trybunalu-konstytucyjnego_PL.xlsx",
           "size": 13008
+        }
+      }
+    },
+    {
+      "id": "pl-skazani-na-kare-smierci-po-1945",
+      "name": "Osoby skazane na karę śmierci w Polsce po 1945 roku",
+      "category": "law",
+      "record_count": 162,
+      "columns": [
+        "name",
+        "sentence_date_and_court",
+        "crime",
+        "execution_date_and_place",
+        "notes"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_osób_skazanych_na_karę_śmierci_w_Polsce_po_roku_1945",
+      "updated": "2026-11",
+      "size": 54190,
+      "files": {
+        "csv": {
+          "name": "pl-skazani-na-kare-smierci-po-1945_PL.csv",
+          "size": 31586
+        },
+        "xlsx": {
+          "name": "pl-skazani-na-kare-smierci-po-1945_PL.xlsx",
+          "size": 20816
         }
       }
     },
