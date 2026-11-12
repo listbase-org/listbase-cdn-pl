@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-12T02:11:53.868Z",
-  "total_datasets": 557,
-  "total_records": 1095329,
+  "generated": "2026-11-12T02:12:02.400Z",
+  "total_datasets": 558,
+  "total_records": 1095344,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -14286,6 +14286,28 @@
         "xlsx": {
           "name": "pl-miesiace-kalendarze_PL.xlsx",
           "size": 9164
+        }
+      }
+    },
+    {
+      "id": "pl-przyslowia-pogodowe",
+      "name": "Polskie przysłowia pogodowe",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "proverb"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Polskie_przysłowia",
+      "updated": "2026-11",
+      "size": 2358,
+      "files": {
+        "csv": {
+          "name": "pl-przyslowia-pogodowe_PL.csv",
+          "size": 750
+        },
+        "xlsx": {
+          "name": "pl-przyslowia-pogodowe_PL.xlsx",
+          "size": 7193
         }
       }
     },

@@ -1,0 +1,76 @@
+{
+  "id": "pl-przyslowia-pogodowe",
+  "name": "Polskie przysłowia pogodowe",
+  "title": "Polskie przysłowia pogodowe",
+  "description": "Ludowe przysłowia o pogodzie, porach roku i miesiącach w polskiej tradycji.",
+  "category": "time",
+  "source": "https://pl.wikipedia.org/wiki/Polskie_przysłowia",
+  "source_url": "https://pl.wikipedia.org/wiki/Polskie_przysłowia",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "proverb",
+      "label": "Proverb",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "proverb": "Późna zima długo trzyma."
+    },
+    {
+      "proverb": "Jedna jaskółka wiosny nie czyni."
+    },
+    {
+      "proverb": "Wiosna to panna, lato matka, jesień wdowa, zima macocha."
+    },
+    {
+      "proverb": "Styczeń mrozi, lipiec skwarem grozi."
+    },
+    {
+      "proverb": "Kiedy luty pofolguje, marzec zimę zreperuje."
+    },
+    {
+      "proverb": "W marcu jak w garncu."
+    },
+    {
+      "proverb": "Kwiecień plecień, bo przeplata – trochę zimy, trochę lata."
+    },
+    {
+      "proverb": "Kto się akurat w maju urodzi, temu zwykle dobrze się powodzi."
+    },
+    {
+      "proverb": "Czerwiec się czerwieni, będzie dość w kieszeni."
+    },
+    {
+      "proverb": "Kiedy lipiec daje deszcze, długie lato będzie jeszcze."
+    },
+    {
+      "proverb": "Gdy w dni sierpnia spieka wszędzie, tedy długa zima będzie."
+    },
+    {
+      "proverb": "Wrzesień chodzi po rosie, zbiera grzyby we wrzosie."
+    },
+    {
+      "proverb": "Gdy październik z wodami, grudzień z wiatrami."
+    },
+    {
+      "proverb": "W listopadzie goło w sadzie."
+    },
+    {
+      "proverb": "Grudzień ziemię grudzi dla zwierząt i ludzi."
+    }
+  ],
+  "meta": {
+    "title": "Polskie przysłowia pogodowe - Free Download",
+    "description": "Ludowe przysłowia o pogodzie, porach roku i miesiącach w polskiej tradycji. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Polskie przysłowia pogodowe | ListBase",
+    "seo_description": "Download Polskie przysłowia pogodowe — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Polskie_przysłowia"
+    ]
+  }
+}
