@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-11T02:17:00.701Z",
-  "total_datasets": 555,
-  "total_records": 1095267,
+  "generated": "2026-11-12T02:11:43.080Z",
+  "total_datasets": 556,
+  "total_records": 1095313,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4299,6 +4299,30 @@
         "xlsx": {
           "name": "lang-pinyin-table_PL.xlsx",
           "size": 32120
+        }
+      }
+    },
+    {
+      "id": "pl-mlodziezowe-slowo-roku",
+      "name": "Młodzieżowe Słowo Roku – wyniki plebiscytu",
+      "category": "language",
+      "record_count": 46,
+      "columns": [
+        "year",
+        "place",
+        "word"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Młodzieżowe_Słowo_Roku",
+      "updated": "2026-11",
+      "size": 5750,
+      "files": {
+        "csv": {
+          "name": "pl-mlodziezowe-slowo-roku_PL.csv",
+          "size": 1658
+        },
+        "xlsx": {
+          "name": "pl-mlodziezowe-slowo-roku_PL.xlsx",
+          "size": 7678
         }
       }
     },

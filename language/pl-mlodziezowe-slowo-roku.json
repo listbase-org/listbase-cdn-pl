@@ -1,0 +1,271 @@
+{
+  "id": "pl-mlodziezowe-slowo-roku",
+  "name": "Młodzieżowe Słowo Roku – wyniki plebiscytu",
+  "title": "Młodzieżowe Słowo Roku – wyniki plebiscytu",
+  "description": "Zwycięskie i wyróżnione słowa w plebiscycie Młodzieżowe Słowo Roku organizowanym przez PWN, według lat i miejsc.",
+  "category": "language",
+  "source": "https://pl.wikipedia.org/wiki/Młodzieżowe_Słowo_Roku",
+  "source_url": "https://pl.wikipedia.org/wiki/Młodzieżowe_Słowo_Roku",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2016,
+      "place": "1. miejsce",
+      "word": "sztos"
+    },
+    {
+      "year": 2016,
+      "place": "2. miejsce",
+      "word": "ogarnąć / ogarniać się"
+    },
+    {
+      "year": 2016,
+      "place": "3. miejsce",
+      "word": "beka"
+    },
+    {
+      "year": 2016,
+      "place": "3. miejsce",
+      "word": "masakra"
+    },
+    {
+      "year": 2017,
+      "place": "1. miejsce",
+      "word": "XD"
+    },
+    {
+      "year": 2017,
+      "place": "2. miejsce",
+      "word": "sztos"
+    },
+    {
+      "year": 2017,
+      "place": "3. miejsce",
+      "word": "dwudzionek"
+    },
+    {
+      "year": 2017,
+      "place": "Nagroda Jury",
+      "word": "smartwica / smartfica"
+    },
+    {
+      "year": 2018,
+      "place": "1. miejsce",
+      "word": "dzban"
+    },
+    {
+      "year": 2018,
+      "place": "2. miejsce",
+      "word": "masno"
+    },
+    {
+      "year": 2018,
+      "place": "3. miejsce",
+      "word": "prestiż / prestiżowy"
+    },
+    {
+      "year": 2018,
+      "place": "Nagroda Jury",
+      "word": "zwyklak"
+    },
+    {
+      "year": 2018,
+      "place": "Nagroda Jury",
+      "word": "normik"
+    },
+    {
+      "year": 2018,
+      "place": "Nagroda Jury",
+      "word": "mamadżer"
+    },
+    {
+      "year": 2019,
+      "place": "1. miejsce",
+      "word": "alternatywka"
+    },
+    {
+      "year": 2019,
+      "place": "2. miejsce",
+      "word": "jesieniara"
+    },
+    {
+      "year": 2019,
+      "place": "3. miejsce",
+      "word": "eluwina"
+    },
+    {
+      "year": 2020,
+      "place": "1. miejsce",
+      "word": "(konkurs nierozstrzygnięty)"
+    },
+    {
+      "year": 2020,
+      "place": "2. miejsce",
+      "word": "(konkurs nierozstrzygnięty)"
+    },
+    {
+      "year": 2020,
+      "place": "3. miejsce",
+      "word": "(konkurs nierozstrzygnięty)"
+    },
+    {
+      "year": 2020,
+      "place": "Nagroda Jury",
+      "word": "tozależyzm"
+    },
+    {
+      "year": 2021,
+      "place": "1. miejsce",
+      "word": "śpiulkolot"
+    },
+    {
+      "year": 2021,
+      "place": "2. miejsce",
+      "word": "naura"
+    },
+    {
+      "year": 2021,
+      "place": "3. miejsce",
+      "word": "twoja stara"
+    },
+    {
+      "year": 2021,
+      "place": "Nagroda Jury",
+      "word": "mrozi"
+    },
+    {
+      "year": 2021,
+      "place": "Nagroda Jury",
+      "word": "odciszyć się"
+    },
+    {
+      "year": 2022,
+      "place": "1. miejsce",
+      "word": "essa"
+    },
+    {
+      "year": 2022,
+      "place": "2. miejsce",
+      "word": "slay"
+    },
+    {
+      "year": 2022,
+      "place": "2. miejsce",
+      "word": "łymyn"
+    },
+    {
+      "year": 2022,
+      "place": "3. miejsce",
+      "word": "betoniarz"
+    },
+    {
+      "year": 2022,
+      "place": "3. miejsce",
+      "word": "NPC"
+    },
+    {
+      "year": 2022,
+      "place": "Nagroda Jury",
+      "word": "odklejka"
+    },
+    {
+      "year": 2023,
+      "place": "1. miejsce",
+      "word": "rel"
+    },
+    {
+      "year": 2023,
+      "place": "2. miejsce",
+      "word": "sigma"
+    },
+    {
+      "year": 2023,
+      "place": "3. miejsce",
+      "word": "oporowo"
+    },
+    {
+      "year": 2023,
+      "place": "Nagroda Jury",
+      "word": "oddaje"
+    },
+    {
+      "year": 2024,
+      "place": "1. miejsce",
+      "word": "sigma"
+    },
+    {
+      "year": 2024,
+      "place": "2. miejsce",
+      "word": "azbest"
+    },
+    {
+      "year": 2024,
+      "place": "Nagroda Jury",
+      "word": "czemó"
+    },
+    {
+      "year": 2025,
+      "place": "1. miejsce",
+      "word": "szpont / szponcić"
+    },
+    {
+      "year": 2025,
+      "place": "2. miejsce",
+      "word": "67"
+    },
+    {
+      "year": 2025,
+      "place": "Nagroda Jury",
+      "word": "OKPA"
+    },
+    {
+      "year": "Źródło: sjp.pwn.pl",
+      "place": "1. miejsce",
+      "word": "Źródło: sjp.pwn.pl"
+    },
+    {
+      "year": "Źródło: sjp.pwn.pl",
+      "place": "2. miejsce",
+      "word": "Źródło: sjp.pwn.pl"
+    },
+    {
+      "year": "Źródło: sjp.pwn.pl",
+      "place": "3. miejsce",
+      "word": "Źródło: sjp.pwn.pl"
+    },
+    {
+      "year": "Źródło: sjp.pwn.pl",
+      "place": "Nagroda Jury",
+      "word": "Źródło: sjp.pwn.pl"
+    }
+  ],
+  "meta": {
+    "title": "Młodzieżowe Słowo Roku – wyniki plebiscytu - Free Download",
+    "description": "Zwycięskie i wyróżnione słowa w plebiscycie Młodzieżowe Słowo Roku organizowanym przez PWN, według lat i miejsc. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Młodzieżowe Słowo Roku – wyniki plebiscytu | ListBase",
+    "seo_description": "Download Młodzieżowe Słowo Roku – wyniki plebiscytu — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Młodzieżowe_Słowo_Roku"
+    ]
+  }
+}
