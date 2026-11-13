@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-12T02:12:10.141Z",
-  "total_datasets": 559,
-  "total_records": 1095506,
+  "generated": "2026-11-13T02:37:56.637Z",
+  "total_datasets": 560,
+  "total_records": 1095593,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -13536,6 +13536,42 @@
         "xlsx": {
           "name": "pl-sklepy-sportowe_PL.xlsx",
           "size": 37053
+        }
+      }
+    },
+    {
+      "id": "pl-tabela-wszech-czasow-ekstraklasy",
+      "name": "Tabela wszech czasów Ekstraklasy w piłce nożnej",
+      "category": "sports",
+      "record_count": 87,
+      "columns": [
+        "rank",
+        "club",
+        "seasons",
+        "league_titles",
+        "matches",
+        "points",
+        "goals_for",
+        "goals_against",
+        "goal_difference",
+        "wins",
+        "draws",
+        "losses",
+        "penalty_points",
+        "years_played",
+        "best_position"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Tabela_wszech_czasów_Ekstraklasy_w_piłce_nożnej",
+      "updated": "2026-11",
+      "size": 38478,
+      "files": {
+        "csv": {
+          "name": "pl-tabela-wszech-czasow-ekstraklasy_PL.csv",
+          "size": 10691
+        },
+        "xlsx": {
+          "name": "pl-tabela-wszech-czasow-ekstraklasy_PL.xlsx",
+          "size": 15221
         }
       }
     },
