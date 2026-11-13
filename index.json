@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-13T02:38:04.575Z",
-  "total_datasets": 561,
-  "total_records": 1095680,
+  "generated": "2026-11-13T02:38:49.300Z",
+  "total_datasets": 562,
+  "total_records": 1095756,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -14498,6 +14498,31 @@
         "xlsx": {
           "name": "time-zodiac-signs_PL.xlsx",
           "size": 8859
+        }
+      }
+    },
+    {
+      "id": "pl-dlugodystansowe-szlaki-rowerowe",
+      "name": "Długodystansowe szlaki rowerowe w Polsce",
+      "category": "tourism",
+      "record_count": 76,
+      "columns": [
+        "name",
+        "group",
+        "length_km",
+        "description"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_długodystansowych_szlaków_rowerowych_w_Polsce",
+      "updated": "2026-11",
+      "size": 14471,
+      "files": {
+        "csv": {
+          "name": "pl-dlugodystansowe-szlaki-rowerowe_PL.csv",
+          "size": 6218
+        },
+        "xlsx": {
+          "name": "pl-dlugodystansowe-szlaki-rowerowe_PL.xlsx",
+          "size": 9785
         }
       }
     },

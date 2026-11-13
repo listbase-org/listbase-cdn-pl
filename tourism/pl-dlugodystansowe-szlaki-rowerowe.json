@@ -1,0 +1,502 @@
+{
+  "id": "pl-dlugodystansowe-szlaki-rowerowe",
+  "name": "Długodystansowe szlaki rowerowe w Polsce",
+  "title": "Długodystansowe szlaki rowerowe w Polsce",
+  "description": "Długodystansowe szlaki i trasy rowerowe w Polsce (EuroVelo, VeloMałopolska, VeloMazovia, Green Velo, szlaki regionalne) pogrupowane według sieci lub regionu, z długością tam, gdzie jest podana.",
+  "category": "tourism",
+  "source": "https://pl.wikipedia.org/wiki/Lista_długodystansowych_szlaków_rowerowych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_długodystansowych_szlaków_rowerowych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "EuroVelo 2 – Szlak Stolic (Capitals Route)",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "EuroVelo 4 – Szlak Europy Centralnej",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "EuroVelo 9 – Bałtyk–Adriatyk (Baltic–Adriatic)",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "EuroVelo 10 – Szlak Rowerowy Morza Bałtyckiego",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "EuroVelo 11 – Szlak Europy Wschodniej (East Europe Route)",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "EuroVelo 13 – Szlak Żelaznej Kurtyny",
+      "group": "EuroVelo",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Wiślana Trasa Rowerowa (WTR)",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloDunajec",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloMetropolis (EuroVelo 4)",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloNatura (EuroVelo 11)",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloPrądnik",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloSkawa",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloRaba",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloRudawa",
+      "group": "VeloMałopolska",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Nadwiślańska Lewobrzeżna",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Nadwiślańska Prawobrzeżna",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Średnicowa",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Narwiańska (Ostrołęcka)",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Nadbużańska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Kampinoska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Bzury",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Wkrzańska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Ciechanowska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Pilicka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Radomska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Otwocka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Siedlecka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Pułtuska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Warszawska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Kozienicka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Liwiecka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Świderska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Obwodowa",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Grójecka",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Truskawska",
+      "group": "Koncepcja Zielonego Mazowsza",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "VeloMazovia – Wschód",
+      "group": "Szlaki VeloMazovia realizowane w ramach Budżetu Obywatelskiego Mazowsza",
+      "length_km": 200,
+      "description": "ponad 200 km, z Kobyłki przez m.in. Mińsk Mazowiecki i Siedlce do Mokobód. Projekt pochodzi z edycji 2020."
+    },
+    {
+      "name": "VeloMazovia Północ",
+      "group": "Szlaki VeloMazovia realizowane w ramach Budżetu Obywatelskiego Mazowsza",
+      "length_km": 235,
+      "description": "ponad 235 km z Dybków do stacji kolejowej w Wyszynach Kościelnych, prowadzące m.in. przez Pułtusk, Maków Mazowiecki, Przasnysz i Ciechanów. Projekt pochodzi z edycji 2021."
+    },
+    {
+      "name": "VeloMazovia Zachód",
+      "group": "Szlaki VeloMazovia realizowane w ramach Budżetu Obywatelskiego Mazowsza",
+      "length_km": "",
+      "description": "trasa główna z Żochowa przez m.in. Płock, Wyszogród, Sochaczew i Żelazową Wolę do stacji Teresin-Niepokalanów oraz łącznik z Modlina do Wyszogrodu. Projekt pochodzi z edycji 2022."
+    },
+    {
+      "name": "VeloMazovia Południe",
+      "group": "Szlaki VeloMazovia realizowane w ramach Budżetu Obywatelskiego Mazowsza",
+      "length_km": 166,
+      "description": "prawie 166 km, obejmujące trasę główną ze stacji Teresin-Niepokalanów do Sikut oraz łącznik między Żelechowem a Pruszkowem. Projekt pochodzi z edycji 2023."
+    },
+    {
+      "name": "Główny Karpacki Szlak Rowerowy",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Sądecki Szlak Rowerowy",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Wielokulturowy Szlak Rowerowy",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Rowerowy Szlak Winny",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Rowerowy Szlak Historycznym Traktem Królewskim",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Transgraniczny Szlak Rowerowy",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Pogórzański Szlak Rowerowy",
+      "group": "Karpacki Szlak Rowerowy",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Piastowski Trakt Rowerowy",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Szlak Stu Jezior",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Pierścień Rowerowy dookoła Poznania",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Transwielkopolska Trasa Rowerowa – odcinek północny",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Transwielkopolska Trasa Rowerowa – odcinek południowy",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Ziemiański Szlak Rowerowy",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Nadwarciański Szlak Rowerowy – odcinek wschodni",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Nadwarciański Szlak Rowerowy – odcinek zachodni",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Bursztynowy Szlak Rowerowy",
+      "group": "Wielkopolski System Szlaków Rowerowych",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Wokół Zalewu Szczecińskiego",
+      "group": "Główne trasy Pomorza Zachodniego",
+      "length_km": 296,
+      "description": "296 km"
+    },
+    {
+      "name": "Velo Baltica (EuroVelo 10/13)",
+      "group": "Główne trasy Pomorza Zachodniego",
+      "length_km": 235,
+      "description": "235 km"
+    },
+    {
+      "name": "Blue Velo (R3)",
+      "group": "Główne trasy Pomorza Zachodniego",
+      "length_km": 268,
+      "description": "268 km"
+    },
+    {
+      "name": "Trasa Pojezierzy Zachodnich (R20)",
+      "group": "Główne trasy Pomorza Zachodniego",
+      "length_km": 336,
+      "description": "336 km"
+    },
+    {
+      "name": "Stary Kolejowy Szlak (R15)",
+      "group": "Główne trasy Pomorza Zachodniego",
+      "length_km": 197,
+      "description": "197 km"
+    },
+    {
+      "name": "EuroVelo 9",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Blue Velo – Odrzańska Trasa Rowerowa",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Doliny Baryczy (nr 700)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Doliny Nysy Łużyckiej (nr 701)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Miedziana (nr 702)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Doliny Bobru (nr 703)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Via Regia (nr 704)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Kamienna (nr 705)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Sudecka (nr 706)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Złota (nr 707)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Trasa Kłodzka (nr 708)",
+      "group": "Dolnośląska Cyklostrada",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Mazurska Pętla Rowerowa",
+      "group": "Długodystansowe szlaki Warmii i Mazur",
+      "length_km": 285.2,
+      "description": "szlak o długości 285,2 km tworzący pętlę z początkiem i końcem w Węgorzewie. Prowadzi przez Ryn, Mrągowo, Mikołajki, Ruciane-Nidę, Pisz i Giżycko. Został oficjalnie otwarty w czerwcu 2023 roku, a w Węgorzewie łączy się ze Wschodnim Szlakiem Rowerowym Green Velo."
+    },
+    {
+      "name": "Łynostrada",
+      "group": "Długodystansowe szlaki Warmii i Mazur",
+      "length_km": 172.4,
+      "description": "licząca 172,4 km trasa z Nidzicy do Stopek przy granicy z obwodem królewieckim, prowadząca m.in. przez Olsztyn, Dobre Miasto, Lidzbark Warmiński, Bartoszyce i Sępopol. Na części przebiegu jest powiązana ze Wschodnim Szlakiem Rowerowym Green Velo."
+    },
+    {
+      "name": "Rowerowy Szlak Orlich Gniazd",
+      "group": "Inne długodystansowe szlaki rowerowe",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Kraków–Morawy–Wiedeń Greenways",
+      "group": "Inne długodystansowe szlaki rowerowe",
+      "length_km": "",
+      "description": ""
+    },
+    {
+      "name": "Wschodni Szlak Rowerowy Green Velo",
+      "group": "Inne długodystansowe szlaki rowerowe",
+      "length_km": "",
+      "description": ""
+    }
+  ],
+  "meta": {
+    "title": "Długodystansowe szlaki rowerowe w Polsce - Free Download",
+    "description": "Długodystansowe szlaki i trasy rowerowe w Polsce (EuroVelo, VeloMałopolska, VeloMazovia, Green Velo, szlaki regionalne) pogrupowane według sieci lub regionu, z długością tam, gdzie jest podana. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Długodystansowe szlaki rowerowe w Polsce | ListBase",
+    "seo_description": "Download Długodystansowe szlaki rowerowe w Polsce — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_długodystansowych_szlaków_rowerowych_w_Polsce"
+    ]
+  }
+}
