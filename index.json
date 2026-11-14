@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-14T02:14:21.182Z",
-  "total_datasets": 563,
-  "total_records": 1095772,
+  "generated": "2026-11-14T02:14:30.149Z",
+  "total_datasets": 564,
+  "total_records": 1095988,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -4871,6 +4871,34 @@
         "xlsx": {
           "name": "pl-marszalkowie-sejmu_PL.xlsx",
           "size": 17683
+        }
+      }
+    },
+    {
+      "id": "pl-marszalkowie-senatu",
+      "name": "Marszałkowie Senatu",
+      "category": "politics",
+      "record_count": 216,
+      "columns": [
+        "nr",
+        "imie_i_nazwisko",
+        "lata_zycia",
+        "poczatek",
+        "koniec",
+        "okres",
+        "ugrupowanie"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Marszałkowie_Senatu_Rzeczypospolitej",
+      "updated": "2026-11",
+      "size": 62494,
+      "files": {
+        "csv": {
+          "name": "pl-marszalkowie-senatu_PL.csv",
+          "size": 29146
+        },
+        "xlsx": {
+          "name": "pl-marszalkowie-senatu_PL.xlsx",
+          "size": 16425
         }
       }
     },
