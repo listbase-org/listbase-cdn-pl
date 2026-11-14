@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-14T02:14:30.149Z",
-  "total_datasets": 564,
-  "total_records": 1095988,
+  "generated": "2026-11-14T02:14:38.706Z",
+  "total_datasets": 565,
+  "total_records": 1096075,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -4927,6 +4927,36 @@
         "xlsx": {
           "name": "pl-ministrowie-spraw-zagranicznych_PL.xlsx",
           "size": 8406
+        }
+      }
+    },
+    {
+      "id": "pl-partie-polityczne",
+      "name": "Partie polityczne w Polsce",
+      "category": "politics",
+      "record_count": 87,
+      "columns": [
+        "nazwa",
+        "skrot",
+        "lider",
+        "sejm",
+        "senat",
+        "parlament_europejski",
+        "ideologia",
+        "zalozenie_i_rejestracja",
+        "nr_ewidencji"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Partie_polityczne_w_Polsce",
+      "updated": "2026-11",
+      "size": 32341,
+      "files": {
+        "csv": {
+          "name": "pl-partie-polityczne_PL.csv",
+          "size": 12992
+        },
+        "xlsx": {
+          "name": "pl-partie-polityczne_PL.xlsx",
+          "size": 14142
         }
       }
     },
