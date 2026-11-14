@@ -1,0 +1,163 @@
+{
+  "id": "pl-lekarze-na-10-tys-ludnosci-wojewodztwa",
+  "name": "Lekarze na 10 tys. ludności według województw",
+  "title": "Lekarze na 10 tys. ludności według województw",
+  "description": "Liczba lekarzy pracujących oraz lekarzy posiadających prawo wykonywania zawodu na 10 tys. ludności w województwach w latach 2021 i 2024 (GUS, Bank Danych Lokalnych).",
+  "category": "health",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "lekarze_pracujacy_na_10_tys_2024",
+      "label": "Lekarze Pracujacy Na 10 Tys 2024",
+      "type": "number"
+    },
+    {
+      "key": "lekarze_pracujacy_na_10_tys_2021",
+      "label": "Lekarze Pracujacy Na 10 Tys 2021",
+      "type": "number"
+    },
+    {
+      "key": "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024",
+      "label": "Lekarze Z Prawem Wykonywania Zawodu Na 10 Tys 2024",
+      "type": "number"
+    },
+    {
+      "key": "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021",
+      "label": "Lekarze Z Prawem Wykonywania Zawodu Na 10 Tys 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "mazowieckie",
+      "lekarze_pracujacy_na_10_tys_2024": 59.2,
+      "lekarze_pracujacy_na_10_tys_2021": 55.2,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 54.7,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 50.7
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "lekarze_pracujacy_na_10_tys_2024": 57.8,
+      "lekarze_pracujacy_na_10_tys_2021": 48.7,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 53.6,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 50.2
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "lekarze_pracujacy_na_10_tys_2024": 53.6,
+      "lekarze_pracujacy_na_10_tys_2021": 44.5,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 47.7,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 44.7
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "lekarze_pracujacy_na_10_tys_2024": 52.8,
+      "lekarze_pracujacy_na_10_tys_2021": 45.2,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 51.7,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 48.5
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "lekarze_pracujacy_na_10_tys_2024": 52.2,
+      "lekarze_pracujacy_na_10_tys_2021": 42.9,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 46.2,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 42.3
+    },
+    {
+      "wojewodztwo": "dolnośląskie",
+      "lekarze_pracujacy_na_10_tys_2024": 50.2,
+      "lekarze_pracujacy_na_10_tys_2021": 41.1,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 48.3,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 43.7
+    },
+    {
+      "wojewodztwo": "małopolskie",
+      "lekarze_pracujacy_na_10_tys_2024": 49.5,
+      "lekarze_pracujacy_na_10_tys_2021": 41.5,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 44.8,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 41.5
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "lekarze_pracujacy_na_10_tys_2024": 45.4,
+      "lekarze_pracujacy_na_10_tys_2021": 39.6,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 46,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 41.9
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "lekarze_pracujacy_na_10_tys_2024": 43.4,
+      "lekarze_pracujacy_na_10_tys_2021": 36.6,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 37.9,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 35.5
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "lekarze_pracujacy_na_10_tys_2024": 40.8,
+      "lekarze_pracujacy_na_10_tys_2021": 35.3,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 42.4,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 39.5
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lekarze_pracujacy_na_10_tys_2024": 40.1,
+      "lekarze_pracujacy_na_10_tys_2021": 33.8,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 37.2,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 34
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "lekarze_pracujacy_na_10_tys_2024": 38.6,
+      "lekarze_pracujacy_na_10_tys_2021": 32.6,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 37.1,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 34.3
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "lekarze_pracujacy_na_10_tys_2024": 38.1,
+      "lekarze_pracujacy_na_10_tys_2021": 30.3,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 34,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 31.7
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "lekarze_pracujacy_na_10_tys_2024": 36.1,
+      "lekarze_pracujacy_na_10_tys_2021": 28.5,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 30.8,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 28.1
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lekarze_pracujacy_na_10_tys_2024": 32.3,
+      "lekarze_pracujacy_na_10_tys_2021": 27.5,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 31.6,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 29.9
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "lekarze_pracujacy_na_10_tys_2024": 31,
+      "lekarze_pracujacy_na_10_tys_2021": 25.1,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024": 29.8,
+      "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021": 27.1
+    }
+  ],
+  "meta": {
+    "title": "Lekarze na 10 tys. ludności według województw - Free Download",
+    "description": "Liczba lekarzy pracujących oraz lekarzy posiadających prawo wykonywania zawodu na 10 tys. ludności w województwach w latach 2021 i 2024 (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lekarze na 10 tys. ludności według województw | ListBase",
+    "seo_description": "Download Lekarze na 10 tys. ludności według województw — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat"
+    ]
+  }
+}

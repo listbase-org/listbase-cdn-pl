@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-13T02:38:49.300Z",
-  "total_datasets": 562,
-  "total_records": 1095756,
+  "generated": "2026-11-14T02:14:21.182Z",
+  "total_datasets": 563,
+  "total_records": 1095772,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -3868,6 +3868,32 @@
         "xlsx": {
           "name": "pl-kalendarz-szczepien-obowiazkowych_PL.xlsx",
           "size": 7612
+        }
+      }
+    },
+    {
+      "id": "pl-lekarze-na-10-tys-ludnosci-wojewodztwa",
+      "name": "Lekarze na 10 tys. ludności według województw",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "lekarze_pracujacy_na_10_tys_2024",
+        "lekarze_pracujacy_na_10_tys_2021",
+        "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2024",
+        "lekarze_z_prawem_wykonywania_zawodu_na_10_tys_2021"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+      "updated": "2026-11",
+      "size": 6517,
+      "files": {
+        "csv": {
+          "name": "pl-lekarze-na-10-tys-ludnosci-wojewodztwa_PL.csv",
+          "size": 875
+        },
+        "xlsx": {
+          "name": "pl-lekarze-na-10-tys-ludnosci-wojewodztwa_PL.xlsx",
+          "size": 7366
         }
       }
     },
