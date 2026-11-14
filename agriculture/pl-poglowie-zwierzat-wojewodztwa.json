@@ -1,0 +1,226 @@
+{
+  "id": "pl-poglowie-zwierzat-wojewodztwa",
+  "name": "Pogłowie zwierząt gospodarskich według województw (2020)",
+  "title": "Pogłowie zwierząt gospodarskich według województw (2020)",
+  "description": "Liczba bydła (w tym krów), świń, koni, owiec, kóz i drobiu w gospodarstwach rolnych według województw w 2020 r. (GUS, Bank Danych Lokalnych, Powszechny Spis Rolny).",
+  "category": "agriculture",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "bydlo",
+      "label": "Bydlo",
+      "type": "number"
+    },
+    {
+      "key": "krowy",
+      "label": "Krowy",
+      "type": "number"
+    },
+    {
+      "key": "swinie",
+      "label": "Swinie",
+      "type": "number"
+    },
+    {
+      "key": "konie",
+      "label": "Konie",
+      "type": "number"
+    },
+    {
+      "key": "owce",
+      "label": "Owce",
+      "type": "number"
+    },
+    {
+      "key": "kozy",
+      "label": "Kozy",
+      "type": "number"
+    },
+    {
+      "key": "drob",
+      "label": "Drob",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "mazowieckie",
+      "bydlo": 1168181,
+      "krowy": 524138,
+      "swinie": 1496248,
+      "konie": 27792,
+      "owce": 10286,
+      "kozy": 5879,
+      "drob": 48831725
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "bydlo": 1095495,
+      "krowy": 312544,
+      "swinie": 3107486,
+      "konie": 13323,
+      "owce": 26699,
+      "kozy": 9379,
+      "drob": 47206837
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "bydlo": 1042099,
+      "krowy": 484440,
+      "swinie": 369615,
+      "konie": 11956,
+      "owce": 26752,
+      "kozy": 2117,
+      "drob": 14153183
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "bydlo": 504564,
+      "krowy": 156290,
+      "swinie": 1206224,
+      "konie": 6391,
+      "owce": 10251,
+      "kozy": 2540,
+      "drob": 12672202
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "bydlo": 484971,
+      "krowy": 218585,
+      "swinie": 624357,
+      "konie": 9969,
+      "owce": 15628,
+      "kozy": 3283,
+      "drob": 9620378
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "bydlo": 447696,
+      "krowy": 172524,
+      "swinie": 1319036,
+      "konie": 8949,
+      "owce": 16091,
+      "kozy": 2491,
+      "drob": 16187572
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "bydlo": 362262,
+      "krowy": 135064,
+      "swinie": 489319,
+      "konie": 15029,
+      "owce": 17425,
+      "kozy": 3641,
+      "drob": 10594385
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "bydlo": 227645,
+      "krowy": 77849,
+      "swinie": 810374,
+      "konie": 9097,
+      "owce": 18801,
+      "kozy": 1959,
+      "drob": 6897751
+    },
+    {
+      "wojewodztwo": "małopolskie",
+      "bydlo": 165611,
+      "krowy": 78616,
+      "swinie": 151407,
+      "konie": 12434,
+      "owce": 80906,
+      "kozy": 5407,
+      "drob": 5272859
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "bydlo": 149915,
+      "krowy": 52124,
+      "swinie": 216664,
+      "konie": 5249,
+      "owce": 6610,
+      "kozy": 1693,
+      "drob": 7033088
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "bydlo": 131096,
+      "krowy": 49482,
+      "swinie": 211380,
+      "konie": 5892,
+      "owce": 16498,
+      "kozy": 3773,
+      "drob": 8986051
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "bydlo": 131078,
+      "krowy": 45485,
+      "swinie": 363525,
+      "konie": 2973,
+      "owce": 3046,
+      "kozy": 1089,
+      "drob": 5536763
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "bydlo": 119941,
+      "krowy": 46946,
+      "swinie": 314737,
+      "konie": 6196,
+      "owce": 13096,
+      "kozy": 1544,
+      "drob": 14004145
+    },
+    {
+      "wojewodztwo": "dolnośląskie",
+      "bydlo": 110143,
+      "krowy": 45246,
+      "swinie": 214438,
+      "konie": 8237,
+      "owce": 12869,
+      "kozy": 4349,
+      "drob": 7030526
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "bydlo": 88386,
+      "krowy": 35565,
+      "swinie": 120951,
+      "konie": 3746,
+      "owce": 7563,
+      "kozy": 1312,
+      "drob": 6100677
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "bydlo": 79928,
+      "krowy": 43235,
+      "swinie": 135389,
+      "konie": 9286,
+      "owce": 16278,
+      "kozy": 3635,
+      "drob": 5774452
+    }
+  ],
+  "meta": {
+    "title": "Pogłowie zwierząt gospodarskich według województw (2020) - Free Download",
+    "description": "Liczba bydła (w tym krów), świń, koni, owiec, kóz i drobiu w gospodarstwach rolnych według województw w 2020 r. (GUS, Bank Danych Lokalnych, Powszechny Spis Rolny). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pogłowie zwierząt gospodarskich według województw (2020) | ListBase",
+    "seo_description": "Download Pogłowie zwierząt gospodarskich według województw (2020) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat"
+    ]
+  }
+}

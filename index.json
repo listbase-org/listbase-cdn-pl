@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-14T02:14:38.706Z",
-  "total_datasets": 565,
-  "total_records": 1096075,
+  "generated": "2026-11-14T02:14:48.598Z",
+  "total_datasets": 566,
+  "total_records": 1096091,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -180,6 +180,35 @@
         "xlsx": {
           "name": "pl-odmiany-jabloni_PL.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "pl-poglowie-zwierzat-wojewodztwa",
+      "name": "Pogłowie zwierząt gospodarskich według województw (2020)",
+      "category": "agriculture",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "bydlo",
+        "krowy",
+        "swinie",
+        "konie",
+        "owce",
+        "kozy",
+        "drob"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+      "updated": "2026-11",
+      "size": 5376,
+      "files": {
+        "csv": {
+          "name": "pl-poglowie-zwierzat-wojewodztwa_PL.csv",
+          "size": 1262
+        },
+        "xlsx": {
+          "name": "pl-poglowie-zwierzat-wojewodztwa_PL.xlsx",
+          "size": 7782
         }
       }
     },
