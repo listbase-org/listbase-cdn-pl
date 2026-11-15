@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-15T02:17:20.628Z",
-  "total_datasets": 568,
-  "total_records": 1096136,
+  "generated": "2026-11-15T02:17:29.467Z",
+  "total_datasets": 569,
+  "total_records": 1096319,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -13401,6 +13401,33 @@
         "xlsx": {
           "name": "pl-komisariaty-policji_PL.xlsx",
           "size": 61121
+        }
+      }
+    },
+    {
+      "id": "pl-koscioly-i-zwiazki-wyznaniowe",
+      "name": "Kościoły i związki wyznaniowe w Polsce",
+      "category": "society",
+      "record_count": 183,
+      "columns": [
+        "name",
+        "leader",
+        "adherents_census_2021",
+        "adherents_other_estimate",
+        "section",
+        "description"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Kościoły_i_inne_związki_wyznaniowe_w_Polsce",
+      "updated": "2026-11",
+      "size": 128622,
+      "files": {
+        "csv": {
+          "name": "pl-koscioly-i-zwiazki-wyznaniowe_PL.csv",
+          "size": 99391
+        },
+        "xlsx": {
+          "name": "pl-koscioly-i-zwiazki-wyznaniowe_PL.xlsx",
+          "size": 42447
         }
       }
     },
