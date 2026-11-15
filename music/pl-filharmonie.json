@@ -1,0 +1,148 @@
+{
+  "id": "pl-filharmonie",
+  "name": "Filharmonie w Polsce",
+  "title": "Filharmonie w Polsce",
+  "description": "Lista polskich filharmonii z rokiem założenia (w tym rok powojennego wznowienia działalności), według polskiej Wikipedii.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Filharmonia",
+  "source_url": "https://pl.wikipedia.org/wiki/Filharmonia",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Filharmonia Narodowa w Warszawie",
+      "founded": "1901/1955"
+    },
+    {
+      "name": "Filharmonia im. Karola Szymanowskiego w Krakowie",
+      "founded": "1909/1945"
+    },
+    {
+      "name": "Filharmonia Świętokrzyska im. Oskara Kolberga w Kielcach",
+      "founded": "1920/2011"
+    },
+    {
+      "name": "Filharmonia Rybnicka",
+      "founded": "1934/1960"
+    },
+    {
+      "name": "Filharmonia im. Henryka Wieniawskiego w Lublinie",
+      "founded": "1944"
+    },
+    {
+      "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego w Bydgoszczy",
+      "founded": "1945"
+    },
+    {
+      "name": "Filharmonia Śląska im. Henryka Mikołaja Góreckiego w Katowicach",
+      "founded": "1945"
+    },
+    {
+      "name": "Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku",
+      "founded": "1945/2005"
+    },
+    {
+      "name": "Warmińsko-Mazurska Filharmonia im. Feliksa Nowowiejskiego w Olsztynie",
+      "founded": "1946"
+    },
+    {
+      "name": "Filharmonia Poznańska im. Tadeusza Szeligowskiego",
+      "founded": "1947"
+    },
+    {
+      "name": "Filharmonia im. Mieczysława Karłowicza w Szczecinie",
+      "founded": "1948/2014"
+    },
+    {
+      "name": "Filharmonia Łódzka im. Artura Rubinsteina",
+      "founded": "1949/2004"
+    },
+    {
+      "name": "Filharmonia Zabrzańska",
+      "founded": "1950"
+    },
+    {
+      "name": "Filharmonia Opolska im. Józefa Elsnera w Opolu",
+      "founded": "1952"
+    },
+    {
+      "name": "Filharmonia Podlaska w Białymstoku",
+      "founded": "1954/2012"
+    },
+    {
+      "name": "Filharmonia Podkarpacka im. Artura Malawskiego w Rzeszowie",
+      "founded": "1955"
+    },
+    {
+      "name": "Filharmonia Koszalińska im. Stanisława Moniuszki",
+      "founded": "1956"
+    },
+    {
+      "name": "Filharmonia Zielonogórska im. Tadeusza Bairda",
+      "founded": "1956/1974"
+    },
+    {
+      "name": "Narodowe Forum Muzyki (dawniej: Filharmonia Wrocławska) we Wrocławiu",
+      "founded": "1958/2014"
+    },
+    {
+      "name": "Filharmonia Częstochowska im. Bronisława Hubermana",
+      "founded": "1965"
+    },
+    {
+      "name": "Filharmonia Kaliska",
+      "founded": "1974"
+    },
+    {
+      "name": "Filharmonia Dolnośląska w Jeleniej Górze",
+      "founded": "1976"
+    },
+    {
+      "name": "Filharmonia Kameralna im. Witolda Lutosławskiego w Łomży",
+      "founded": "1977"
+    },
+    {
+      "name": "Filharmonia „Sinfonia Baltica” w Słupsku",
+      "founded": "1977"
+    },
+    {
+      "name": "Filharmonia Sudecka w Wałbrzychu",
+      "founded": "1978"
+    },
+    {
+      "name": "Polska Filharmonia Kameralna Sopot",
+      "founded": "1982"
+    },
+    {
+      "name": "Filharmonia Kaszubska w Wejherowie",
+      "founded": "1990/2013"
+    },
+    {
+      "name": "Filharmonia Gorzowska",
+      "founded": "2011"
+    }
+  ],
+  "meta": {
+    "title": "Filharmonie w Polsce - Free Download",
+    "description": "Lista polskich filharmonii z rokiem założenia (w tym rok powojennego wznowienia działalności), według polskiej Wikipedii. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Filharmonie w Polsce | ListBase",
+    "seo_description": "Download Filharmonie w Polsce — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Filharmonia"
+    ]
+  }
+}
