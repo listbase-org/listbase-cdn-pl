@@ -1,0 +1,130 @@
+{
+  "id": "pl-specjalne-strefy-ekonomiczne",
+  "name": "Specjalne strefy ekonomiczne w Polsce",
+  "title": "Specjalne strefy ekonomiczne w Polsce",
+  "description": "14 specjalnych stref ekonomicznych (SSE) w Polsce z województwami, powierzchnią w hektarach oraz miastami i gminami, w których znajdują się ich podstrefy.",
+  "category": "economy",
+  "source": "https://pl.wikipedia.org/wiki/Specjalna_strefa_ekonomiczna",
+  "source_url": "https://pl.wikipedia.org/wiki/Specjalna_strefa_ekonomiczna",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    },
+    {
+      "key": "voivodeships",
+      "label": "Voivodeships",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "locations",
+      "label": "Locations",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zone": "Kamiennogórska SSEMP",
+      "voivodeships": "dolnośląskie wielkopolskie",
+      "area_ha": 373.83,
+      "locations": "miasta: Jawor, Jelenia Góra, Kamienna Góra, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec gminy: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Mirsk, Nowogrodziec, Prusice, Żmigród"
+    },
+    {
+      "zone": "Katowicka SSE",
+      "voivodeships": "śląskie małopolskie opolskie",
+      "area_ha": 2749.35,
+      "locations": "miasta: Bielsko-Biała, Bieruń, Bytom, Częstochowa, Dąbrowa Górnicza, Gliwice, Jastrzębie-Zdrój, Katowice, Kędzierzyn-Koźle, Knurów, Lubliniec, Myszków, Orzesze, Piekary Śląskie, Racibórz, Rybnik, Siemianowice Śląskie, Sławków, Sosnowiec, Świętochłowice, Tychy, Wodzisław Śląski, Zabrze, Zawiercie, Żory gminy: Czechowice-Dziedzice, Czerwionka-Leszczyny, Głuchołazy, Godów, Gogolin, Kietrz, Koniecpol, Krapkowice, Krzepice, Lędziny, Miedźna, Myślenice, Ogrodzieniec, Olesno, Pawłowice, Radziechowy-Wieprz, Rajcza, Rudziniec, Siewierz, Strzelce Opolskie, Ujazd, Węgierska Górka (gmina), Woźniki"
+    },
+    {
+      "zone": "Kostrzyńsko-Słubicka SSE",
+      "voivodeships": "lubuskie zachodniopomorskie wielkopolskie",
+      "area_ha": 1868.05,
+      "locations": "miasta: Białogard, Gniezno, Gorzów Wielkopolski, Gubin, Kostrzyn nad Odrą, Nowa Sól, Poznań, Szczecin, Zielona Góra, Żary gminy: Barlinek, Buk, Bytom Odrzański, Chodzież, Czerwieńsk, Dębno, Dobiegniew, Drezdenko, Golczewo, Goleniów, Gryfino, Gubin, Kamień Pomorski, Kargowa, Karlino, Kłodawa, Kożuchów, Krosno Odrzańskie, Krzeszyce, Kwilcz, Lubsko, Łobez, Międzyrzecz, Nowogard, Nowy Tomyśl, Pełczyce, Police, Przemęt, Rzepin, Sieraków, Skwierzyna, Słubice, Stęszew, Strzelce Krajeńskie, Sulechów, Sulęcin, Swarzędz, Śmigiel, Wągrowiec, Wronki, Zielona Góra"
+    },
+    {
+      "zone": "Krakowski Park Technologiczny",
+      "voivodeships": "małopolskie podkarpackie",
+      "area_ha": 707.78,
+      "locations": "miasta: Bochnia, Bukowno, Kraków, Krosno, Limanowa, Nowy Sącz, Nowy Targ, Oświęcim, Sucha Beskidzka, Tarnów gminy: Andrychów, Bochnia, Boguchwała, Chełmek, Chrzanów, Czorsztyn, Dąbrowa Tarnowska, Dobczyce, Gdów, Jędrzejów, Klucze, Niepołomice, Nowa Sarzyna, Skawina, Słomniki, Trzebinia, Tuchów, Wolbrom, Zabierzów, Zakliczyn, Zator"
+    },
+    {
+      "zone": "Legnicka SSE",
+      "voivodeships": "dolnośląskie",
+      "area_ha": 1763.77,
+      "locations": "miasta: Chojnów, Głogów, Jawor, Legnica, Lubin, Zgorzelec, Złotoryja gminy: Chojnów, Gromadka, Iłowa, Kostomłoty, Legnickie Pole, Męcinka, Miękinia, Miłkowice, Polkowice, Prochowice, Przemków, Środa Śląska"
+    },
+    {
+      "zone": "Łódzka SSE",
+      "voivodeships": "łódzkie wielkopolskie mazowieckie",
+      "area_ha": 1339.17,
+      "locations": "miasta: Bełchatów, Kalisz, Koło, Konstantynów Łódzki, Kutno, Łęczyca, Łowicz, Łódź, Ozorków, Piotrków Trybunalski, Płock, Pruszków, Raciąż, Radomsko, Rawa Mazowiecka, Sieradz, Skierniewice, Sochaczew, Tomaszów Mazowiecki, Turek, Warszawa, Zduńska Wola, Zgierz, Żyrardów gminy: Aleksandrów Łódzki, Brójce, Grodzisk Mazowiecki, Kleszczów, Koluszki, Krośniewice, Ksawerów, Nowe Skalmierzyce, Opatówek, Opoczno, Ostrzeszów, Paradyż, Przykona, Sławno, Stryków, Tomaszów Mazowiecki, Ujazd, Widawa, Wieluń, Wola Krzysztoporska, Wolbórz, Wróblew, Zelów, Zgierz, Żychlin"
+    },
+    {
+      "zone": "SSE Euro-Park Mielec",
+      "voivodeships": "podkarpackie małopolskie lubelskie zachodniopomorskie",
+      "area_ha": 1495.65,
+      "locations": "miasta: Chełm, Częstochowa, Dębica, Gorlice, Jarosław, Krasnystaw, Kraśnik, Krosno, Leżajsk, Lubaczów, Lubartów, Lublin, Łańcut, Mielec, Międzyrzec Podlaski, Radzyń Podlaski, Rzeszów, Sanok, Szczecin, Zamość gminy: Brzozów, Dębica, Głogów Małopolski, Jedlicze, Jarosław, Kolbuszowa, Leżajsk, Łańcut, Ostrów, Radymno, Rejowiec Fabryczny, Ropczyce, Sędziszów Małopolski, Strzyżów, Trzebownisko, Zagórz"
+    },
+    {
+      "zone": "Pomorska SSE",
+      "voivodeships": "pomorskie kujawsko-pomorskie zachodniopomorskie wielkopolskie",
+      "area_ha": 2039.99,
+      "locations": "miasta: Biała Podlaska, Brodnica, Bydgoszcz, Czarnków, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Lipno, Łeba, Malbork, Piła, Rypin, Stargard, Starogard Gdański, Tczew, Toruń, Włocławek gminy: Barcin, Chojnice, Czarna Woda, Czarnków, Człuchów, Gniewino, Grudziądz, Janikowo, Kowalewo Pomorskie, Krokowa, Liniewo, Lipno, Łysomice, Nakło nad Notecią, Pakość, Police, Solec Kujawski, Sztum, Świecie, Tczew, Wąbrzeźno"
+    },
+    {
+      "zone": "Słupska SSE",
+      "voivodeships": "pomorskie zachodniopomorskie wielkopolskie",
+      "area_ha": 899.37,
+      "locations": "miasta: Darłowo, Koszalin, Lębork, Słupsk, Szczecinek, Ustka, Wałcz gminy: Biesiekierz, Czarne, Debrzno, Kalisz Pomorski, Karlino, Polanów, Słupsk, Tychowo, Żukowo"
+    },
+    {
+      "zone": "SSE Starachowice",
+      "voivodeships": "świętokrzyskie mazowieckie opolskie łódzkie lubelskie",
+      "area_ha": 644.46,
+      "locations": "miasta: Kielce, Ostrowiec Świętokrzyski, Puławy, Skarżysko-Kamienna, Starachowice gminy: Bliżyn, Iłża, Końskie, Mniszków, Morawica, Piekoszów, Połaniec, Puławy, Sędziszów, Stąporków, Suchedniów, Szydłowiec, Tułowice"
+    },
+    {
+      "zone": "Suwalska SSE",
+      "voivodeships": "podlaskie warmińsko-mazurskie mazowieckie",
+      "area_ha": 635.07,
+      "locations": "miasta: Białystok, Bielsk Podlaski, Ełk, Grajewo, Hajnówka, Łomża, Olecko, Ostrów Mazowiecka, Sejny, Suwałki gminy: Czyżew, Gołdap, Małkinia Górna, Narewka, Nowogród, Siemiatycze, Suwałki, Szczuczyn, Zabłudów"
+    },
+    {
+      "zone": "TSSE Euro-Park Wisłosan",
+      "voivodeships": "podkarpackie mazowieckie świętokrzyskie lubelskie dolnośląskie",
+      "area_ha": 1743.3,
+      "locations": "miasta: Jasło, Kraśnik, Łuków, Opatów, Pionki, Przemyśl, Przeworsk, Radom, Siedlce, Stalowa Wola, Tarnobrzeg, Tomaszów Lubelski gminy: Baranów Sandomierski, Białobrzegi, Gorzyce, Horodło, Janów Lubelski, Jasło, Jedlicze, Kobierzyce, Łapy, Łuków, Mińsk Mazowiecki, Nisko, Nowa Dęba, Nowe Miasto nad Pilicą, Opatów, Orły, Ożarów Mazowiecki, Pilawa, Połaniec, Poniatowa, Przasnysz, Ryki, Rudnik nad Sanem, Rymanów, Siedlce, Staszów, Tomaszów Lubelski, Tuczępy, Węgrów, Wierzbica, Wyszków"
+    },
+    {
+      "zone": "Wałbrzyska SSE",
+      "voivodeships": "dolnośląskie opolskie wielkopolskie lubuskie",
+      "area_ha": 2921.7,
+      "locations": "miasta: Bielawa, Bolesławiec, Dzierżoniów, Grodków, Jawor, Kalisz, Kłodzko, Kudowa-Zdrój, Leszno, Nowa Ruda, Oleśnica, Oława, Opole, Piława Górna, Świdnica, Świebodzice, Wałbrzych, Wrocław gminy: Bolków, Brzeg Dolny, Bystrzyca Kłodzka, Dąbrowa, Długołęka, Dobromierz, Góra, Jarocin, Jelcz-Laskowice, Kluczbork, Kłodzko, Kobierzyce, Kościan, Krotoszyn, Książ Wielkopolski, Lewin Brzeski, Męcinka, Namysłów, Nowa Ruda, Niemodlin, Nysa, Oława, Otmuchów, Pleszew, Praszka, Prudnik, Rawicz, Skarbimierz, Strzegom, Strzelin, Syców, Szprotawa, Śrem, Świdnica, Świebodzin, Twardogóra, Wądroże Wielkie, Wiązów, Wołów, Września, Ząbkowice Śląskie, Żarów"
+    },
+    {
+      "zone": "Warmińsko-Mazurska SSE",
+      "voivodeships": "warmińsko-mazurskie mazowieckie",
+      "area_ha": 1057.38,
+      "locations": "miasta: Bartoszyce, Braniewo, Ciechanów, Działdowo, Elbląg, Iława, Kętrzyn, Lidzbark Warmiński, Mława, Mrągowo, Nowe Miasto Lubawskie, Olsztyn, Ostrołęka, Ostróda, Płońsk gminy: Barczewo, Bartoszyce, Biskupiec, Ciechanów, Dobre Miasto, Działdowo, Iława, Iłowo-Osada, Kurzętnik, Morąg, Nidzica, Olecko, Olszytynek, Orneta, Orzysz, Ostróda, Pasłęk, Piecki, Pisz, Pomiechówek, Stawiguda, Szczytno, Węgorzewo, Wielbark, Zakroczym, Zalewo, Żuromin"
+    }
+  ],
+  "meta": {
+    "title": "Specjalne strefy ekonomiczne w Polsce - Free Download",
+    "description": "14 specjalnych stref ekonomicznych (SSE) w Polsce z województwami, powierzchnią w hektarach oraz miastami i gminami, w których znajdują się ich podstrefy. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Specjalne strefy ekonomiczne w Polsce | ListBase",
+    "seo_description": "Download Specjalne strefy ekonomiczne w Polsce — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Specjalna_strefa_ekonomiczna"
+    ]
+  }
+}

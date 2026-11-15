@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-15T02:17:29.467Z",
-  "total_datasets": 569,
-  "total_records": 1096319,
+  "generated": "2026-11-15T02:17:37.499Z",
+  "total_datasets": 570,
+  "total_records": 1096333,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -575,6 +575,31 @@
         "xlsx": {
           "name": "pl-przecietne-wynagrodzenie_PL.xlsx",
           "size": 10059
+        }
+      }
+    },
+    {
+      "id": "pl-specjalne-strefy-ekonomiczne",
+      "name": "Specjalne strefy ekonomiczne w Polsce",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "zone",
+        "voivodeships",
+        "area_ha",
+        "locations"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Specjalna_strefa_ekonomiczna",
+      "updated": "2026-11",
+      "size": 9744,
+      "files": {
+        "csv": {
+          "name": "pl-specjalne-strefy-ekonomiczne_PL.csv",
+          "size": 6902
+        },
+        "xlsx": {
+          "name": "pl-specjalne-strefy-ekonomiczne_PL.xlsx",
+          "size": 10033
         }
       }
     },
