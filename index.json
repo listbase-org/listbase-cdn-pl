@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-14T02:14:48.598Z",
-  "total_datasets": 566,
-  "total_records": 1096091,
+  "generated": "2026-11-15T02:17:10.977Z",
+  "total_datasets": 567,
+  "total_records": 1096108,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -636,6 +636,33 @@
         "xlsx": {
           "name": "pl-wzrost-gospodarczy-pkb_PL.xlsx",
           "size": 7403
+        }
+      }
+    },
+    {
+      "id": "pl-akademie-sztuk-pieknych",
+      "name": "Akademie sztuk pięknych w Polsce",
+      "category": "education",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "founded",
+        "city",
+        "former_names",
+        "students_2011_12",
+        "type"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Akademie_sztuk_pięknych_w_Polsce",
+      "updated": "2026-11",
+      "size": 7105,
+      "files": {
+        "csv": {
+          "name": "pl-akademie-sztuk-pieknych_PL.csv",
+          "size": 3191
+        },
+        "xlsx": {
+          "name": "pl-akademie-sztuk-pieknych_PL.xlsx",
+          "size": 8079
         }
       }
     },

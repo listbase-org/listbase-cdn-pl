@@ -1,0 +1,192 @@
+{
+  "id": "pl-akademie-sztuk-pieknych",
+  "name": "Akademie sztuk pięknych w Polsce",
+  "title": "Akademie sztuk pięknych w Polsce",
+  "description": "Polskie publiczne uczelnie sztuk pięknych (z rokiem założenia, miastem, dawnymi nazwami i liczbą studentów 2011/12) oraz wydziały sztuk plastycznych innych uczelni.",
+  "category": "education",
+  "source": "https://pl.wikipedia.org/wiki/Akademie_sztuk_pięknych_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Akademie_sztuk_pięknych_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "former_names",
+      "label": "Former Names",
+      "type": "string"
+    },
+    {
+      "key": "students_2011_12",
+      "label": "Students 2011 12",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Uniwersytet Artystyczny im. Magdaleny Abakanowicz w Poznaniu",
+      "founded": "1919",
+      "city": "Poznań",
+      "former_names": "1919–1938 Szkoła Zdobnicza i Państwowa Szkoła Sztuk Zdobniczych i Przemysłu Artystycznego 1938–1939: Państwowy Instytut Sztuk Plastycznych 1946–1996 Państwowa Wyższa Szkoła Sztuk Plastycznych 1996–2010 Akademia Sztuk Pięknych Od 2010 Uniwersytet Artystyczny",
+      "students_2011_12": 1444,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",
+      "founded": "1818",
+      "city": "Kraków",
+      "former_names": "1818-1873 Szkoła Rysunku i Malarstwa 1873-1900 Szkoła Sztuk Pięknych Od 1900 Akademia Sztuk Pięknych",
+      "students_2011_12": 1229,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych w Warszawie",
+      "founded": "1816",
+      "city": "Warszawa",
+      "former_names": "1816-1831 Wydział Uniwersytetu Warszawskiego 1844-1864 Szkoła Sztuk Pięknych (1865-1920 Klasa Rysunkowa Od 1920 Miejska Szkoła Sztuk Zdobniczych i Malarstwa) 1904-1932 Warszawska Szkoła Sztuk Pięknych Od 1932 Akademia Sztuk Pięknych 1950-1957 Akademia Sztuk Plastycznych Od 1957 Akademia Sztuk Pięknych",
+      "students_2011_12": 1494,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",
+      "founded": "1945",
+      "city": "Łódź",
+      "former_names": "1945-1996 Państwowa Wyższa Szkoła Sztuk Plastycznych Od 1996 Akademia Sztuk Pięknych",
+      "students_2011_12": 1287,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",
+      "founded": "1946",
+      "city": "Wrocław",
+      "former_names": "1946-1949 Wyższa Szkoła Sztuk Pięknych 1949-1996 Państwowa Wyższa Szkoła Sztuk Plastycznych Od 1996 Akademia Sztuk Pięknych",
+      "students_2011_12": 1010,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych w Gdańsku",
+      "founded": "1945",
+      "city": "Gdańsk",
+      "former_names": "Od 1945 Państwowy Instytut Sztuk Plastycznych w Sopocie Od 1954 Państwowa Wyższa Szkoła Sztuk Plastycznych Od 1996 Akademia Sztuk Pięknych",
+      "students_2011_12": 820,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuk Pięknych w Katowicach",
+      "founded": "2001",
+      "city": "Katowice",
+      "former_names": "Do 2001 filia Akademii Sztuk Pięknych w Krakowie",
+      "students_2011_12": 597,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Akademia Sztuki w Szczecinie",
+      "founded": "2010",
+      "city": "Szczecin",
+      "former_names": "Do 2010 filia Akademii Muzycznej w Poznaniu; Wyższa Szkoła Sztuki Użytkowej (uczelnia prywatna)",
+      "students_2011_12": 473,
+      "type": "uczelnia sztuk pięknych"
+    },
+    {
+      "name": "Wydział Sztuki i Nauk o Edukacji Uniwersytetu Śląskiego",
+      "founded": "1904",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Sztuk Pięknych Uniwersytetu Mikołaja Kopernika w Toruniu",
+      "founded": "1946",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Sztuki Uniwersytetu Jana Długosza w Częstochowie",
+      "founded": "1990",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Artystyczny Uniwersytetu Marii Curie-Skłodowskiej",
+      "founded": "1997",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Artystyczny Uniwersytetu Zielonogórskiego",
+      "founded": "1999",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Pedagogiki i Psychologii Uniwersytetu Jana Kochanowskiego w Kielcach",
+      "founded": "2005",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Sztuki Uniwersytetu Radomskiego",
+      "founded": "2007",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Wydział Sztuki Uniwersytetu Komisji Edukacji Narodowej w Krakowie",
+      "founded": "2008",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    },
+    {
+      "name": "Instytut Sztuk Pięknych Uniwersytetu Rzeszowskiego",
+      "founded": "2008",
+      "city": "",
+      "former_names": "",
+      "students_2011_12": "",
+      "type": "wydział sztuk plastycznych innej uczelni"
+    }
+  ],
+  "meta": {
+    "title": "Akademie sztuk pięknych w Polsce - Free Download",
+    "description": "Polskie publiczne uczelnie sztuk pięknych (z rokiem założenia, miastem, dawnymi nazwami i liczbą studentów 2011/12) oraz wydziały sztuk plastycznych innych uczelni. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Akademie sztuk pięknych w Polsce | ListBase",
+    "seo_description": "Download Akademie sztuk pięknych w Polsce — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Akademie_sztuk_pięknych_w_Polsce"
+    ]
+  }
+}
