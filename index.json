@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-16T02:21:15.827Z",
-  "total_datasets": 571,
-  "total_records": 1096341,
+  "generated": "2026-11-16T02:21:24.552Z",
+  "total_datasets": 572,
+  "total_records": 1096424,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "units",
@@ -15045,6 +15045,34 @@
         "xlsx": {
           "name": "pl-lotniska-miedzynarodowe_PL.xlsx",
           "size": 7471
+        }
+      }
+    },
+    {
+      "id": "pl-porty-i-przystanie-morskie",
+      "name": "Porty i przystanie morskie w Polsce",
+      "category": "transport",
+      "record_count": 83,
+      "columns": [
+        "name",
+        "type",
+        "municipality",
+        "voivodeship",
+        "maritime_office",
+        "water_body",
+        "legal_act"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Porty_i_przystanie_morskie_w_Polsce",
+      "updated": "2026-11",
+      "size": 24246,
+      "files": {
+        "csv": {
+          "name": "pl-porty-i-przystanie-morskie_PL.csv",
+          "size": 9599
+        },
+        "xlsx": {
+          "name": "pl-porty-i-przystanie-morskie_PL.xlsx",
+          "size": 10679
         }
       }
     },
