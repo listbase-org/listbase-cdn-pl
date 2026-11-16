@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-16T02:21:24.552Z",
-  "total_datasets": 572,
-  "total_records": 1096424,
+  "generated": "2026-11-16T02:21:32.824Z",
+  "total_datasets": 573,
+  "total_records": 1096461,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "units",
@@ -15073,6 +15073,35 @@
         "xlsx": {
           "name": "pl-porty-i-przystanie-morskie_PL.xlsx",
           "size": 10679
+        }
+      }
+    },
+    {
+      "id": "pl-sieci-tramwajowe",
+      "name": "Sieci tramwajowe w Polsce",
+      "category": "transport",
+      "record_count": 37,
+      "columns": [
+        "city",
+        "operator",
+        "gauge",
+        "track_length_km",
+        "opened",
+        "electrified",
+        "closed",
+        "status"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Tramwaje_w_Polsce",
+      "updated": "2026-11",
+      "size": 10702,
+      "files": {
+        "csv": {
+          "name": "pl-sieci-tramwajowe_PL.csv",
+          "size": 3063
+        },
+        "xlsx": {
+          "name": "pl-sieci-tramwajowe_PL.xlsx",
+          "size": 9005
         }
       }
     },

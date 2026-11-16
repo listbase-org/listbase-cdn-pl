@@ -1,0 +1,436 @@
+{
+  "id": "pl-sieci-tramwajowe",
+  "name": "Sieci tramwajowe w Polsce",
+  "title": "Sieci tramwajowe w Polsce",
+  "description": "Istniejące i zlikwidowane sieci tramwajowe w Polsce: miasto, operator, rozstaw szyn, długość toru, daty otwarcia, elektryfikacji i likwidacji.",
+  "category": "transport",
+  "source": "https://pl.wikipedia.org/wiki/Tramwaje_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "gauge",
+      "label": "Gauge",
+      "type": "string"
+    },
+    {
+      "key": "track_length_km",
+      "label": "Track Length Km",
+      "type": "number"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "electrified",
+      "label": "Electrified",
+      "type": "number"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Białystok",
+      "operator": "Towarzystwo Białostockich Tramwajów Konnych",
+      "gauge": "1000 mm",
+      "track_length_km": 6.2,
+      "opened": 1895,
+      "electrified": "",
+      "closed": "1915",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Bielsko-Biała",
+      "operator": "Bielska Kolej Elektryczna",
+      "gauge": "1000 mm",
+      "track_length_km": 8.3,
+      "opened": 1895,
+      "electrified": "1895",
+      "closed": "1971",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Bydgoszcz",
+      "operator": "MZK Bydgoszcz",
+      "gauge": "1000 mm",
+      "track_length_km": 91.86,
+      "opened": 1888,
+      "electrified": "1896",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Bytom",
+      "operator": "Städtische Straßenbahn Beuthen",
+      "gauge": "1435 mm",
+      "track_length_km": "",
+      "opened": 1913,
+      "electrified": "1913",
+      "closed": "1945",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Cieszyn",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": 1.8,
+      "opened": 1911,
+      "electrified": "1911",
+      "closed": "1921",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Częstochowa",
+      "operator": "MPK Częstochowa",
+      "gauge": "1435 mm",
+      "track_length_km": 30,
+      "opened": 1959,
+      "electrified": "1959",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Elbląg",
+      "operator": "Tramwaje Elbląskie",
+      "gauge": "1000 mm",
+      "track_length_km": 33.83,
+      "opened": 1895,
+      "electrified": "1895",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Gdańsk",
+      "operator": "Gdańskie Autobusy i Tramwaje",
+      "gauge": "1435 mm",
+      "track_length_km": 114.4,
+      "opened": 1873,
+      "electrified": "1896",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Gorzów Wielkopolski",
+      "operator": "MZK Gorzów Wielkopolski",
+      "gauge": "1435 mm",
+      "track_length_km": 24.43,
+      "opened": 1899,
+      "electrified": "1899",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Górnośląsko-Zagłębiowska Metropolia",
+      "operator": "Tramwaje Śląskie",
+      "gauge": "1435 mm",
+      "track_length_km": 346.5,
+      "opened": 1894,
+      "electrified": "1898",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Grudziądz",
+      "operator": "MZK Grudziądz",
+      "gauge": "1000 mm",
+      "track_length_km": 18,
+      "opened": 1896,
+      "electrified": "1899",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Gubin",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": 2.5,
+      "opened": 1904,
+      "electrified": "1904",
+      "closed": "1938",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Inowrocław",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": 4.2,
+      "opened": 1912,
+      "electrified": "1912",
+      "closed": "1962",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Jelenia Góra",
+      "operator": "Kolej Elektryczna w Jeleniej Górze",
+      "gauge": "1000 mm (do 1899 – 1435 mm)",
+      "track_length_km": 19.2,
+      "opened": 1897,
+      "electrified": "1900",
+      "closed": "1969",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Kostrzyn nad Odrą",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": 6.3,
+      "opened": 1903,
+      "electrified": "1925",
+      "closed": "1945",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Koszalin",
+      "operator": "Kösliner Stadt- und Strandbahn",
+      "gauge": "1435 mm",
+      "track_length_km": 17.4,
+      "opened": 1911,
+      "electrified": "1911",
+      "closed": "1938",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Kraków",
+      "operator": "MPK Kraków",
+      "gauge": "1435 mm (do 1953 – 900 mm)",
+      "track_length_km": 194,
+      "opened": 1882,
+      "electrified": "1900",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Legnica",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": "",
+      "opened": 1882,
+      "electrified": "1898",
+      "closed": "1968",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Mrozy",
+      "operator": "Warszawskie Towarzystwo Higieniczne",
+      "gauge": "900 mm",
+      "track_length_km": 2.5,
+      "opened": 1908,
+      "electrified": "",
+      "closed": "1967",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Mrozy",
+      "operator": "Gmina Mrozy",
+      "gauge": "900 mm",
+      "track_length_km": 1.75,
+      "opened": 2012,
+      "electrified": "",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Aglomeracja łódzka",
+      "operator": "MPK Łódź",
+      "gauge": "1000 mm",
+      "track_length_km": 208,
+      "opened": 1898,
+      "electrified": "1898",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Olsztyn",
+      "operator": "MZK Olsztyn",
+      "gauge": "1000 mm",
+      "track_length_km": 6,
+      "opened": 1907,
+      "electrified": "1907",
+      "closed": "1965",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Olsztyn",
+      "operator": "MPK Olsztyn",
+      "gauge": "1435 mm",
+      "track_length_km": 21,
+      "opened": 2015,
+      "electrified": "2015",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Poznań",
+      "operator": "MPK Poznań",
+      "gauge": "1435 mm",
+      "track_length_km": 157.7,
+      "opened": 1880,
+      "electrified": "1898",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Słubice",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": "",
+      "opened": 1898,
+      "electrified": "1898",
+      "closed": "1945",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Słupsk",
+      "operator": "MZGK Słupsk",
+      "gauge": "1000 mm",
+      "track_length_km": "",
+      "opened": 1910,
+      "electrified": "1910",
+      "closed": "1959",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Sopot",
+      "operator": "",
+      "gauge": "800 mm",
+      "track_length_km": 2,
+      "opened": 1884,
+      "electrified": "",
+      "closed": "1906",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Szczecin",
+      "operator": "Tramwaje Szczecińskie",
+      "gauge": "1435 mm",
+      "track_length_km": 119,
+      "opened": 1879,
+      "electrified": "1896",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Szczecin",
+      "operator": "Zarząd portu",
+      "gauge": "1435 mm",
+      "track_length_km": "",
+      "opened": 1955,
+      "electrified": "",
+      "closed": "1963/1964",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Szczekociny",
+      "operator": "",
+      "gauge": "600 mm",
+      "track_length_km": 21,
+      "opened": 1915,
+      "electrified": "",
+      "closed": "1935",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Tarnów",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": 2.6,
+      "opened": 1911,
+      "electrified": "1911",
+      "closed": "1942",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Toruń",
+      "operator": "MZK Toruń",
+      "gauge": "1000 mm",
+      "track_length_km": 59.159,
+      "opened": 1891,
+      "electrified": "1899",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Wałbrzych",
+      "operator": "Wałbrzyska Kolej Powiatowa",
+      "gauge": "1000 mm",
+      "track_length_km": "",
+      "opened": 1898,
+      "electrified": "1898",
+      "closed": "1966",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Warszawa",
+      "operator": "Tramwaje Warszawskie",
+      "gauge": "1435 mm (do 1948 – 1525 mm)",
+      "track_length_km": 346.2,
+      "opened": 1866,
+      "electrified": "1908",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Wołomin",
+      "operator": "",
+      "gauge": "800 mm",
+      "track_length_km": "",
+      "opened": 1907,
+      "electrified": "",
+      "closed": "1939",
+      "status": "zlikwidowana"
+    },
+    {
+      "city": "Wrocław",
+      "operator": "MPK Wrocław",
+      "gauge": "1435 mm",
+      "track_length_km": 190.14,
+      "opened": 1877,
+      "electrified": "1893",
+      "closed": "",
+      "status": "funkcjonuje"
+    },
+    {
+      "city": "Zgorzelec",
+      "operator": "",
+      "gauge": "1000 mm",
+      "track_length_km": "",
+      "opened": 1898,
+      "electrified": "1898",
+      "closed": "1945",
+      "status": "zlikwidowana"
+    }
+  ],
+  "meta": {
+    "title": "Sieci tramwajowe w Polsce - Free Download",
+    "description": "Istniejące i zlikwidowane sieci tramwajowe w Polsce: miasto, operator, rozstaw szyn, długość toru, daty otwarcia, elektryfikacji i likwidacji. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sieci tramwajowe w Polsce | ListBase",
+    "seo_description": "Download Sieci tramwajowe w Polsce — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Tramwaje_w_Polsce"
+    ]
+  }
+}
