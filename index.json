@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-16T02:21:32.824Z",
-  "total_datasets": 573,
-  "total_records": 1096461,
+  "generated": "2026-11-16T02:21:41.927Z",
+  "total_datasets": 574,
+  "total_records": 1096517,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -4687,6 +4687,30 @@
         "xlsx": {
           "name": "pl-skazani-na-kare-smierci-po-1945_PL.xlsx",
           "size": 20816
+        }
+      }
+    },
+    {
+      "id": "pl-ustawy-ochrony-zdrowia",
+      "name": "Ustawy regulujące system ochrony zdrowia w Polsce",
+      "category": "law",
+      "record_count": 56,
+      "columns": [
+        "act",
+        "journal_of_laws",
+        "consolidated_text_year"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/System_opieki_zdrowotnej_w_Polsce",
+      "updated": "2026-11",
+      "size": 11695,
+      "files": {
+        "csv": {
+          "name": "pl-ustawy-ochrony-zdrowia_PL.csv",
+          "size": 5450
+        },
+        "xlsx": {
+          "name": "pl-ustawy-ochrony-zdrowia_PL.xlsx",
+          "size": 9359
         }
       }
     },

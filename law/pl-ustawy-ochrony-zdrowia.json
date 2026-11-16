@@ -1,0 +1,321 @@
+{
+  "id": "pl-ustawy-ochrony-zdrowia",
+  "name": "Ustawy regulujące system ochrony zdrowia w Polsce",
+  "title": "Ustawy regulujące system ochrony zdrowia w Polsce",
+  "description": "Wykaz ustaw tworzących ramy prawne systemu opieki zdrowotnej w Polsce wraz z adresem publikacji tekstu jednolitego w Dzienniku Ustaw.",
+  "category": "law",
+  "source": "https://pl.wikipedia.org/wiki/System_opieki_zdrowotnej_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/System_opieki_zdrowotnej_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "act",
+      "label": "Act",
+      "type": "string"
+    },
+    {
+      "key": "journal_of_laws",
+      "label": "Journal Of Laws",
+      "type": "string"
+    },
+    {
+      "key": "consolidated_text_year",
+      "label": "Consolidated Text Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "act": "Ustawa o działalności leczniczej",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 156",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1461",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 253",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 854",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o prawach pacjenta i Rzeczniku Praw Pacjenta",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 581",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o konsultantach w ochronie zdrowia",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 254",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1675",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz gminach uzdrowiskowych",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 151",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o podstawowej opiece zdrowotnej",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 515",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o medycynie laboratoryjnej",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1295",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 1692",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o zdrowiu publicznym",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 149",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o Funduszu Medycznym",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 499",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o zawodach lekarza i lekarza dentysty",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 37",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o izbach lekarskich",
+      "journal_of_laws": "Dz. U. z 2021 r. poz. 1342",
+      "consolidated_text_year": 2021
+    },
+    {
+      "act": "Ustawa o zawodach pielęgniarki i położnej",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 15",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o samorządzie pielęgniarek i położnych",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1760",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 1422",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o badaniach klinicznych produktów leczniczych stosowanych u ludzi",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 2",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o Agencji Badań Medycznych",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 259",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o wyrobach medycznych",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 1620",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa – Prawo farmaceutyczne",
+      "journal_of_laws": "Dz. U. z 2021 r. poz. 1977",
+      "consolidated_text_year": 2021
+    },
+    {
+      "act": "Ustawa o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 1223",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 342",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o zawodzie psychologa oraz samorządzie zawodowym psychologów",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 187",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o zawodzie fizjoterapeuty",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 584",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o zawodzie farmaceuty",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 608",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o izbach aptekarskich",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1693",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o leczeniu niepłodności",
+      "journal_of_laws": "Dz. U. z 2020 r. poz. 442",
+      "consolidated_text_year": 2020
+    },
+    {
+      "act": "Ustawa o systemie informacji w ochronie zdrowia",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 1304",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o Państwowym Ratownictwie Medycznym",
+      "journal_of_laws": "Dz. U. z 2021 r. poz. 2053",
+      "consolidated_text_year": 2021
+    },
+    {
+      "act": "Ustawa o niektórych zawodach medycznych",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1730",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o Centrum Medycznego Kształcenia Podyplomowego",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 269",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o wsparciu kobiet w ciąży i rodzin \"Za życiem\"",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 1829",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych",
+      "journal_of_laws": "Dz. U. z 2022 r. poz. 2139",
+      "consolidated_text_year": 2022
+    },
+    {
+      "act": "Ustawa o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób",
+      "journal_of_laws": "Dz. U. z 2022 r. poz. 1689",
+      "consolidated_text_year": 2022
+    },
+    {
+      "act": "Ustawa o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 310",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o lekarzu sądowym",
+      "journal_of_laws": "Dz. U. z 2007 r. Nr 123, poz. 849",
+      "consolidated_text_year": 2007
+    },
+    {
+      "act": "Ustawa o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 1185",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o służbie medycyny pracy",
+      "journal_of_laws": "Dz. U. z 2022 r. poz. 437",
+      "consolidated_text_year": 2022
+    },
+    {
+      "act": "Ustawa o publicznej służbie krwi",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 1782",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o przeciwdziałaniu narkomanii",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 1939",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o ochronie zdrowia psychicznego",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 917",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży",
+      "journal_of_laws": "Dz. U. z 2022 r. poz. 1575",
+      "consolidated_text_year": 2022
+    },
+    {
+      "act": "Ustawa o Państwowej Inspekcji Sanitarnej",
+      "journal_of_laws": "Dz. U. z 2024 r. poz. 416",
+      "consolidated_text_year": 2024
+    },
+    {
+      "act": "Ustawa o zawodzie felczera",
+      "journal_of_laws": "Dz. U. z 2022 r. poz. 1529",
+      "consolidated_text_year": 2022
+    },
+    {
+      "act": "Dekret o wykonywaniu czynności techniczno-dentystycznych",
+      "journal_of_laws": "Dz. U. z 1947 r. Nr 27, poz. 104",
+      "consolidated_text_year": 1947
+    },
+    {
+      "act": "Ustawa o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (rozdział 2)",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 2151",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa – Prawo atomowe (rozdział 3a)",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 1",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o produktach biobójczych (rozdział 5 i 6)",
+      "journal_of_laws": "Dz. U. z 2021 r. poz. 24",
+      "consolidated_text_year": 2021
+    },
+    {
+      "act": "Ustawa o produktach kosmetycznych (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2018 r. poz. 2227",
+      "consolidated_text_year": 2018
+    },
+    {
+      "act": "Ustawa o bezpieczeństwie żywności i żywienia (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2023 r. poz. 1448",
+      "consolidated_text_year": 2023
+    },
+    {
+      "act": "Ustawa o obronie Ojczyzny (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 825",
+      "consolidated_text_year": 2025
+    },
+    {
+      "act": "Ustawa o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 884",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o systemie ubezpieczeń społecznych (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2026 r. poz. 199",
+      "consolidated_text_year": 2026
+    },
+    {
+      "act": "Ustawa o ubezpieczeniu społecznym rolników (wybrane przepisy)",
+      "journal_of_laws": "Dz. U. z 2025 r. poz. 1770",
+      "consolidated_text_year": 2025
+    }
+  ],
+  "meta": {
+    "title": "Ustawy regulujące system ochrony zdrowia w Polsce - Free Download",
+    "description": "Wykaz ustaw tworzących ramy prawne systemu opieki zdrowotnej w Polsce wraz z adresem publikacji tekstu jednolitego w Dzienniku Ustaw. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ustawy regulujące system ochrony zdrowia w Polsce | ListBase",
+    "seo_description": "Download Ustawy regulujące system ochrony zdrowia w Polsce — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/System_opieki_zdrowotnej_w_Polsce"
+    ]
+  }
+}
