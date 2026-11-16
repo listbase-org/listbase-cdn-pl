@@ -1,0 +1,68 @@
+{
+  "id": "pl-dialekty-jezyka-polskiego",
+  "name": "Dialekty języka polskiego",
+  "title": "Dialekty języka polskiego",
+  "description": "Główne dialekty języka polskiego (m.in. wielkopolski, małopolski, mazowiecki, śląski, kaszubski, kresowe) wraz z ich charakterystyką.",
+  "category": "language",
+  "source": "https://pl.wikipedia.org/wiki/Dialekty_języka_polskiego",
+  "source_url": "https://pl.wikipedia.org/wiki/Dialekty_języka_polskiego",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "dialect",
+      "label": "Dialect",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dialect": "dialekt wielkopolski",
+      "description": "podstawa języka literackiego, nie występuje w nim mazurzenie (poza gwarą Mazurów wieleńskich), występują w nim prawidłowe samogłoski nosowe ą i ę, jednakże o innej barwie (odpowiednio u nosowe i y nosowe)"
+    },
+    {
+      "dialect": "dialekt małopolski",
+      "description": "dialekt, który odegrał kluczową rolę w drugiej fazie kształtowania się polszczyzny literackiej; charakteryzuje się mazurzeniem, częściowo odnosowionymi (rozłożonymi) samogłoskami nosowymi ą i ę, jednak o ogólnopolskiej barwie (oN i eN)"
+    },
+    {
+      "dialect": "dialekt mazowiecki",
+      "description": "bardzo odrębny od języka ogólnego, innowacyjny nie tylko pośród dialektów języka polskiego, ale również i języków słowiańskich, wraz ze wzrostem politycznego znaczenia Mazowsza w kraju zaczął wywierać wpływ na język ogólny, jednak w dość niewielkim stopniu, głównie w słowotwórstwie, wpływając głównie na kształt ogólnopolskiej mowy potocznej; charakteryzuje się mazurzeniem, sporadycznym szadzeniem (Suwalszczyzna) i jabłonkowaniem (Warmia), całkowitym odnosowieniem samogłosek nosowych ą i ę o różnych barwach (głównie o (N) i a (N))"
+    },
+    {
+      "dialect": "dialekt śląski",
+      "description": "dialekt archaiczny pod względem słownictwa, słowotwórstwa i składni, po części mazurzący, sporadycznie pojawia się również jabłonkowanie, samogłoski nosowe ą i ę w różnych stopniach nosowości o barwie ó i a / y (zależnie od pozycji i regionu); widoczne wpływy języka czeskiego, języków łużyckich i języka niemieckiego"
+    },
+    {
+      "dialect": "dialekt kaszubski (określany także jako osobny język)",
+      "description": "najbardziej odrębny i archaiczny wśród polskich dialektów, występuje w nim kaszubienie, unikalna samogłoska szwa, nieodnosowione samogłoski nosowe ą i ę realizowane jako u nosowe i a nosowe, posiada część cech znanych językowi połabskiemu a nieobecnych w języku polskim, widoczne są również wpływy języka dolnoniemieckiego"
+    },
+    {
+      "dialect": "nowe dialekty mieszane",
+      "description": "mieszanina gwar przeniesionych z Kresów i innych części kraju na ziemie odzyskane, ze względu na brak spójności i odrębność od reszty kraju oraz większą praktyczność używania języka ogólnego, jest ona w zaniku, brak cech charakterystycznych dla całego obszaru; na wsiach, u osób starszych, może pojawiać się mazurzenie i labializacja."
+    },
+    {
+      "dialect": "dialekt północnokresowy",
+      "description": "dialekt, który występuje na terenie dzisiejszej Litwy i Białorusi, wyodrębnił się z dialektu mazowieckiego, widoczne są w nim wpływy języka białoruskiego i nieliczne litewskiego;"
+    },
+    {
+      "dialect": "dialekt południowokresowy",
+      "description": "dialekt występujący na terenie obecnej Ukrainy, wyodrębnił się z dialektu małopolskiego, charakteryzuje się wpływami języka ukraińskiego."
+    }
+  ],
+  "meta": {
+    "title": "Dialekty języka polskiego - Free Download",
+    "description": "Główne dialekty języka polskiego (m.in. wielkopolski, małopolski, mazowiecki, śląski, kaszubski, kresowe) wraz z ich charakterystyką. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dialekty języka polskiego | ListBase",
+    "seo_description": "Download Dialekty języka polskiego — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Dialekty_języka_polskiego"
+    ]
+  }
+}

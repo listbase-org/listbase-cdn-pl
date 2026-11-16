@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-15T02:17:37.499Z",
-  "total_datasets": 570,
-  "total_records": 1096333,
+  "generated": "2026-11-16T02:21:15.827Z",
+  "total_datasets": 571,
+  "total_records": 1096341,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4429,6 +4429,29 @@
         "xlsx": {
           "name": "lang-pinyin-table_PL.xlsx",
           "size": 32120
+        }
+      }
+    },
+    {
+      "id": "pl-dialekty-jezyka-polskiego",
+      "name": "Dialekty języka polskiego",
+      "category": "language",
+      "record_count": 8,
+      "columns": [
+        "dialect",
+        "description"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Dialekty_języka_polskiego",
+      "updated": "2026-11",
+      "size": 4491,
+      "files": {
+        "csv": {
+          "name": "pl-dialekty-jezyka-polskiego_PL.csv",
+          "size": 2694
+        },
+        "xlsx": {
+          "name": "pl-dialekty-jezyka-polskiego_PL.xlsx",
+          "size": 7941
         }
       }
     },
