@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-17T02:35:21.096Z",
-  "total_datasets": 575,
-  "total_records": 1096536,
+  "generated": "2026-11-17T02:35:29.916Z",
+  "total_datasets": 576,
+  "total_records": 1097042,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -766,6 +766,31 @@
         "xlsx": {
           "name": "pl-przedszkola_PL.xlsx",
           "size": 289740
+        }
+      }
+    },
+    {
+      "id": "pl-rektorzy-uniwersytetu-jagiellonskiego",
+      "name": "Rektorzy Uniwersytetu Jagiellońskiego",
+      "category": "education",
+      "record_count": 506,
+      "columns": [
+        "term",
+        "rector",
+        "note",
+        "institution_name"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Rektorzy_Uniwersytetu_Jagiellońskiego",
+      "updated": "2026-11",
+      "size": 87022,
+      "files": {
+        "csv": {
+          "name": "pl-rektorzy-uniwersytetu-jagiellonskiego_PL.csv",
+          "size": 41898
+        },
+        "xlsx": {
+          "name": "pl-rektorzy-uniwersytetu-jagiellonskiego_PL.xlsx",
+          "size": 22439
         }
       }
     },
