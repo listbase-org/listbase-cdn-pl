@@ -1,0 +1,328 @@
+{
+  "id": "pl-laureaci-konkursu-chopinowskiego",
+  "name": "Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina",
+  "title": "Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina",
+  "description": "Laureaci nagród I–VI oraz wyróżnieni we wszystkich edycjach Konkursu Chopinowskiego w Warszawie (1927–2025) wraz z liczbą uczestników i krajów.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Międzynarodowy_Konkurs_Pianistyczny_im._Fryderyka_Chopina",
+  "source_url": "https://pl.wikipedia.org/wiki/Międzynarodowy_Konkurs_Pianistyczny_im._Fryderyka_Chopina",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "participants",
+      "label": "Participants",
+      "type": "number"
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "type": "number"
+    },
+    {
+      "key": "first_prize",
+      "label": "First Prize",
+      "type": "string"
+    },
+    {
+      "key": "second_prize",
+      "label": "Second Prize",
+      "type": "string"
+    },
+    {
+      "key": "third_prize",
+      "label": "Third Prize",
+      "type": "string"
+    },
+    {
+      "key": "fourth_prize",
+      "label": "Fourth Prize",
+      "type": "string"
+    },
+    {
+      "key": "fifth_prize",
+      "label": "Fifth Prize",
+      "type": "string"
+    },
+    {
+      "key": "sixth_prize",
+      "label": "Sixth Prize",
+      "type": "string"
+    },
+    {
+      "key": "distinctions",
+      "label": "Distinctions",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "I",
+      "year": 1927,
+      "participants": 26,
+      "countries": 8,
+      "first_prize": "Lew Oborin",
+      "second_prize": "Stanisław Szpinalski",
+      "third_prize": "Róża Etkin",
+      "fourth_prize": "Grigorij Ginzburg",
+      "fifth_prize": "Nie przyznano",
+      "sixth_prize": "Nie przyznano",
+      "distinctions": "Jurij Briuszkow Jakub Gimpel Guillaume Mombaerts Leopold Münzer Théo van der Pas Edward Prażmowski Dmitrij Szostakowicz Bolesław Woytowicz"
+    },
+    {
+      "edition": "II",
+      "year": 1932,
+      "participants": 89,
+      "countries": 18,
+      "first_prize": "Alexander Uninsky",
+      "second_prize": "Imre Ungár",
+      "third_prize": "Bolesław Kon",
+      "fourth_prize": "Abram Lufer",
+      "fifth_prize": "Lajos Kentner",
+      "sixth_prize": "Leonid Sagałow",
+      "distinctions": "VII. Leon Boruński VIII. Teodor Gutman IX. Gyula Károlyi X. Kurt Engel XI. Emanuel Grossman XII. Josef Wagner XIII. Maryla Jonasówna XIV. Lily Herz XV. Suzanne de Mayère"
+    },
+    {
+      "edition": "III",
+      "year": 1937,
+      "participants": 79,
+      "countries": 21,
+      "first_prize": "Jakow Zak",
+      "second_prize": "Roza Tamarkina",
+      "third_prize": "Witold Małcużyński",
+      "fourth_prize": "Lance Dossor",
+      "fifth_prize": "Ági Jámbor",
+      "sixth_prize": "Edith Picht-Axenfeld",
+      "distinctions": "VII. Monique de la Bruchollerie VIII. Jan Ekier IX. Tatiana Goldfarb X. Olga Iliwicka XI. Pierre Maillard-Verger XII. Lélia Gousseau XIII. Halina Kalmanowicz"
+    },
+    {
+      "edition": "IV",
+      "year": 1949,
+      "participants": 54,
+      "countries": 14,
+      "first_prize": "Halina Czerny-Stefańska Bella Dawidowicz",
+      "second_prize": "Barbara Hesse-Bukowska",
+      "third_prize": "Waldemar Maciszewski",
+      "fourth_prize": "Gieorgij Murawlow",
+      "fifth_prize": "Władysław Kędra",
+      "sixth_prize": "Ryszard Bakst",
+      "distinctions": "VII. Jewgienij Malinin VIII. Zbigniew Szymonowicz IX. Tamara Gusiewa X. Wiktor Mierżanow XI. Regina Smendzianka XII. Tadeusz Żmudziński"
+    },
+    {
+      "edition": "V",
+      "year": 1955,
+      "participants": 77,
+      "countries": 25,
+      "first_prize": "Adam Harasiewicz",
+      "second_prize": "Władimir Aszkenazy",
+      "third_prize": "Fu Cong",
+      "fourth_prize": "Bernard Ringeissen",
+      "fifth_prize": "Naum Sztarkman",
+      "sixth_prize": "Dmitrij Papierno",
+      "distinctions": "VII. Lidia Grychtołówna VIII. Andrzej Czajkowski IX. Dmitrij Sacharow X. Kiyoko Tanaka"
+    },
+    {
+      "edition": "VI",
+      "year": 1960,
+      "participants": 78,
+      "countries": 30,
+      "first_prize": "Maurizio Pollini",
+      "second_prize": "Irina Zaricka",
+      "third_prize": "Tania Aszot-Harutunian",
+      "fourth_prize": "Li Mingqiang",
+      "fifth_prize": "Zinaida Ignatjewa",
+      "sixth_prize": "Walerij Kastielski",
+      "distinctions": "Michel Block Jerzy Godziszewski Hitoshi Kobayashi Reija Silvonen Aleksander Słobodianik Józef Stompel"
+    },
+    {
+      "edition": "VII",
+      "year": 1965,
+      "participants": 76,
+      "countries": 29,
+      "first_prize": "Martha Argerich",
+      "second_prize": "Arthur Moreira Lima",
+      "third_prize": "Marta Sosińska",
+      "fourth_prize": "Hiroko Nakamura",
+      "fifth_prize": "Edward Auer",
+      "sixth_prize": "Elżbieta Głąbówna",
+      "distinctions": "Marek Jabłoński Tamara Kołoss Wiktoria Postnikowa Blanca Uribe Lois Carole Pachucki Ewa Maria Żuk"
+    },
+    {
+      "edition": "VIII",
+      "year": 1970,
+      "participants": 80,
+      "countries": 28,
+      "first_prize": "Garrick Ohlsson",
+      "second_prize": "Mitsuko Uchida",
+      "third_prize": "Piotr Paleczny",
+      "fourth_prize": "Eugen Indjic",
+      "fifth_prize": "Natalija Gawriłowa",
+      "sixth_prize": "Janusz Olejniczak",
+      "distinctions": "Emanuel Ax Ikuko Endō Ivan Klánský Alain Neveux Karol Nicze Irina Smolina"
+    },
+    {
+      "edition": "IX",
+      "year": 1975,
+      "participants": 84,
+      "countries": 22,
+      "first_prize": "Krystian Zimerman",
+      "second_prize": "Dina Joffe",
+      "third_prize": "Tatjana Fied´kina",
+      "fourth_prize": "Pawieł Giliłow",
+      "fifth_prize": "Dean Kramer",
+      "sixth_prize": "Diana Kacso",
+      "distinctions": "Dan Atanasiu John Hendrickson Neal Larrabee Katarzyna Popowa-Zydroń Elżbieta Tarnawska Aleksandr Urwałow Wiktor Wasiliew William Wolfram"
+    },
+    {
+      "edition": "X",
+      "year": 1980,
+      "participants": 149,
+      "countries": 37,
+      "first_prize": "Đặng Thái Sơn",
+      "second_prize": "Tatiana Szebanowa",
+      "third_prize": "Arutiun Papazjan",
+      "fourth_prize": "Nie przyznano",
+      "fifth_prize": "Akiko Ebi Ewa Pobłocka",
+      "sixth_prize": "Erik Berchot Irina Pietrowa",
+      "distinctions": "Dan Atanasiu Bernard D'Ascoli Angela Hewitt Chen Hung-kuan Kevin Kenner Alexander Lonquich Willliam Wolfram"
+    },
+    {
+      "edition": "XI",
+      "year": 1985,
+      "participants": 124,
+      "countries": 32,
+      "first_prize": "Stanisław Bunin",
+      "second_prize": "Marc Laforêt",
+      "third_prize": "Krzysztof Jabłoński",
+      "fourth_prize": "Michie Koyama",
+      "fifth_prize": "Jean-Marc Luisada",
+      "sixth_prize": "Tatiana Pikajzen",
+      "distinctions": "Ludmił Angełow Ilja Iwari François Killian Kayo Miki"
+    },
+    {
+      "edition": "XII",
+      "year": 1990,
+      "participants": 110,
+      "countries": 28,
+      "first_prize": "Nie przyznano",
+      "second_prize": "Kevin Kenner",
+      "third_prize": "Yukio Yokoyama",
+      "fourth_prize": "Corrado Rollero Margarita Szewczenko",
+      "fifth_prize": "Anna Malikowa Takako Takahashi",
+      "sixth_prize": "Caroline Sageman",
+      "distinctions": "Horoshi Arimori Philippe Giusiano Koji Oikawa Kyoko Tabe"
+    },
+    {
+      "edition": "XIII",
+      "year": 1995,
+      "participants": 130,
+      "countries": 32,
+      "first_prize": "Nie przyznano",
+      "second_prize": "Philippe Giusiano Aleksiej Sułtanow",
+      "third_prize": "Gabriela Montero",
+      "fourth_prize": "Rem Urasin",
+      "fifth_prize": "Rika Miyatani",
+      "sixth_prize": "Magdalena Lisak",
+      "distinctions": "Nami Ejiri Nelson Goerner Andriej Ponoczewny Katia Skanavi"
+    },
+    {
+      "edition": "XIV",
+      "year": 2000,
+      "participants": 94,
+      "countries": 25,
+      "first_prize": "Li Yundi",
+      "second_prize": "Ingrid Fliter",
+      "third_prize": "Aleksandr Kobrin",
+      "fourth_prize": "Chen Sa",
+      "fifth_prize": "Alberto Nosè",
+      "sixth_prize": "Mika Satō",
+      "distinctions": "Ning An Etsuko Hirose Walentina Igoszyna Radosław Sobczak Nicolas Stavy Mihaela Ursuleasa"
+    },
+    {
+      "edition": "XV",
+      "year": 2005,
+      "participants": 80,
+      "countries": 18,
+      "first_prize": "Rafał Blechacz",
+      "second_prize": "Nie przyznano",
+      "third_prize": "Lim Dong-hyek Lim Dong-min",
+      "fourth_prize": "Shōhei Sekimoto Takashi Yamamoto",
+      "fifth_prize": "Nie przyznano",
+      "sixth_prize": "Colleen Lee",
+      "distinctions": "Andriej Jaroszynskij Jacek Kortus Rachel Naomi Kudo Rieko Nezu Yuma Osaki Son Yeol-eum"
+    },
+    {
+      "edition": "XVI",
+      "year": 2010,
+      "participants": 78,
+      "countries": 21,
+      "first_prize": "Julianna Awdiejewa",
+      "second_prize": "Lukas Geniušas Ingolf Wunder",
+      "third_prize": "Daniił Trifonow",
+      "fourth_prize": "Ewgeni Bożanow",
+      "fifth_prize": "François Dumont",
+      "sixth_prize": "Nie przyznano",
+      "distinctions": "Nikołaj Chozjainow Mirosław Kultyszew Hélène Tysman Paweł Wakarecy"
+    },
+    {
+      "edition": "XVII",
+      "year": 2015,
+      "participants": 78,
+      "countries": 20,
+      "first_prize": "Cho Seong-jin",
+      "second_prize": "Charles Richard-Hamelin",
+      "third_prize": "Kate Liu",
+      "fourth_prize": "Eric Lu",
+      "fifth_prize": "Tony Yike Yang",
+      "sixth_prize": "Dmitrij Szyszkin",
+      "distinctions": "Aljoša Jurinić Aimi Kobayashi Szymon Nehring Georgijs Osokins"
+    },
+    {
+      "edition": "XVIII",
+      "year": 2021,
+      "participants": 87,
+      "countries": 18,
+      "first_prize": "Bruce Liu",
+      "second_prize": "Alexander Gadjiev Kyōhei Sorita",
+      "third_prize": "Martín García García",
+      "fourth_prize": "Aimi Kobayashi Jakub Kuszlik",
+      "fifth_prize": "Leonora Armellini",
+      "sixth_prize": "J J Jun Li Bui",
+      "distinctions": "Jewa Gieworgian Hao Rao Hyuk Lee Kamil Pacholec"
+    },
+    {
+      "edition": "XIX",
+      "year": 2025,
+      "participants": 84,
+      "countries": 20,
+      "first_prize": "Eric Lu",
+      "second_prize": "Kevin Chen",
+      "third_prize": "Wang Zitong",
+      "fourth_prize": "Shiori Kuwahara Lü Tianyao",
+      "fifth_prize": "Piotr Alexewicz Vincent Ong",
+      "sixth_prize": "William Yang",
+      "distinctions": "Dawit Chrikuli Miyu Shindo Li Tianyou"
+    }
+  ],
+  "meta": {
+    "title": "Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina - Free Download",
+    "description": "Laureaci nagród I–VI oraz wyróżnieni we wszystkich edycjach Konkursu Chopinowskiego w Warszawie (1927–2025) wraz z liczbą uczestników i krajów. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina | ListBase",
+    "seo_description": "Download Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Międzynarodowy_Konkurs_Pianistyczny_im._Fryderyka_Chopina"
+    ]
+  }
+}

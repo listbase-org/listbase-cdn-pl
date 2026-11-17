@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-16T02:21:41.927Z",
-  "total_datasets": 574,
-  "total_records": 1096517,
+  "generated": "2026-11-17T02:35:21.096Z",
+  "total_datasets": 575,
+  "total_records": 1096536,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -4929,6 +4929,38 @@
         "xlsx": {
           "name": "pl-gale-fryderykow_PL.xlsx",
           "size": 9854
+        }
+      }
+    },
+    {
+      "id": "pl-laureaci-konkursu-chopinowskiego",
+      "name": "Laureaci Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina",
+      "category": "music",
+      "record_count": 19,
+      "columns": [
+        "edition",
+        "year",
+        "participants",
+        "countries",
+        "first_prize",
+        "second_prize",
+        "third_prize",
+        "fourth_prize",
+        "fifth_prize",
+        "sixth_prize",
+        "distinctions"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Międzynarodowy_Konkurs_Pianistyczny_im._Fryderyka_Chopina",
+      "updated": "2026-11",
+      "size": 11625,
+      "files": {
+        "csv": {
+          "name": "pl-laureaci-konkursu-chopinowskiego_PL.csv",
+          "size": 4627
+        },
+        "xlsx": {
+          "name": "pl-laureaci-konkursu-chopinowskiego_PL.xlsx",
+          "size": 10251
         }
       }
     },
