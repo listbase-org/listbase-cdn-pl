@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-17T02:35:29.916Z",
-  "total_datasets": 576,
-  "total_records": 1097042,
+  "generated": "2026-11-18T02:31:50.609Z",
+  "total_datasets": 577,
+  "total_records": 1097058,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -232,6 +232,40 @@
         "xlsx": {
           "name": "pl-prezesi-arimr_PL.xlsx",
           "size": 7588
+        }
+      }
+    },
+    {
+      "id": "pl-produkcja-mleka-na-1-ha-wojewodztwa",
+      "name": "Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025)",
+      "category": "agriculture",
+      "record_count": 16,
+      "columns": [
+        "voivodeship",
+        "teryt_id",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/450555",
+      "updated": "2026-11",
+      "size": 7461,
+      "files": {
+        "csv": {
+          "name": "pl-produkcja-mleka-na-1-ha-wojewodztwa_PL.csv",
+          "size": 1705
+        },
+        "xlsx": {
+          "name": "pl-produkcja-mleka-na-1-ha-wojewodztwa_PL.xlsx",
+          "size": 8055
         }
       }
     },

@@ -1,0 +1,331 @@
+{
+  "id": "pl-produkcja-mleka-na-1-ha-wojewodztwa",
+  "name": "Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025)",
+  "title": "Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025)",
+  "description": "Produkcja mleka (w litrach) na 1 ha użytków rolnych w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS.",
+  "category": "agriculture",
+  "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/450555",
+  "source_url": "https://bdl.stat.gov.pl/bdl/metadane/cechy/450555",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "teryt_id",
+      "label": "Teryt Id",
+      "type": "number"
+    },
+    {
+      "key": "y2015",
+      "label": "Y2015",
+      "type": "number"
+    },
+    {
+      "key": "y2016",
+      "label": "Y2016",
+      "type": "number"
+    },
+    {
+      "key": "y2017",
+      "label": "Y2017",
+      "type": "number"
+    },
+    {
+      "key": "y2018",
+      "label": "Y2018",
+      "type": "number"
+    },
+    {
+      "key": "y2019",
+      "label": "Y2019",
+      "type": "number"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025",
+      "label": "Y2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "teryt_id": "030200000000",
+      "y2015": 210,
+      "y2016": 197,
+      "y2017": 197,
+      "y2018": 214,
+      "y2019": 198,
+      "y2020": 217,
+      "y2021": 191,
+      "y2022": 162,
+      "y2023": 174,
+      "y2024": 137,
+      "y2025": 140
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "teryt_id": "040400000000",
+      "y2015": 872,
+      "y2016": 921,
+      "y2017": 877,
+      "y2018": 955,
+      "y2019": 1021,
+      "y2020": 1031,
+      "y2021": 995,
+      "y2022": 926,
+      "y2023": 961,
+      "y2024": 1236,
+      "y2025": 1081
+    },
+    {
+      "voivodeship": "lubelskie",
+      "teryt_id": "060600000000",
+      "y2015": 542,
+      "y2016": 531,
+      "y2017": 556,
+      "y2018": 550,
+      "y2019": 556,
+      "y2020": 564,
+      "y2021": 567,
+      "y2022": 554,
+      "y2023": 562,
+      "y2024": 639,
+      "y2025": 517
+    },
+    {
+      "voivodeship": "lubuskie",
+      "teryt_id": "020800000000",
+      "y2015": 218,
+      "y2016": 209,
+      "y2017": 252,
+      "y2018": 279,
+      "y2019": 211,
+      "y2020": 241,
+      "y2021": 199,
+      "y2022": 147,
+      "y2023": 162,
+      "y2024": 131,
+      "y2025": 114
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "teryt_id": "071400000000",
+      "y2015": 1447,
+      "y2016": 1402,
+      "y2017": 1457,
+      "y2018": 1408,
+      "y2019": 1658,
+      "y2020": 1574,
+      "y2021": 1704,
+      "y2022": 1766,
+      "y2023": 1759,
+      "y2024": 1811,
+      "y2025": 1917
+    },
+    {
+      "voivodeship": "małopolskie",
+      "teryt_id": "011200000000",
+      "y2015": 604,
+      "y2016": 645,
+      "y2017": 531,
+      "y2018": 564,
+      "y2019": 499,
+      "y2020": 519,
+      "y2021": 535,
+      "y2022": 432,
+      "y2023": 442,
+      "y2024": 435,
+      "y2025": 455
+    },
+    {
+      "voivodeship": "opolskie",
+      "teryt_id": "031600000000",
+      "y2015": 537,
+      "y2016": 535,
+      "y2017": 551,
+      "y2018": 595,
+      "y2019": 536,
+      "y2020": 609,
+      "y2021": 626,
+      "y2022": 557,
+      "y2023": 540,
+      "y2024": 454,
+      "y2025": 472
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "teryt_id": "061800000000",
+      "y2015": 401,
+      "y2016": 368,
+      "y2017": 362,
+      "y2018": 328,
+      "y2019": 278,
+      "y2020": 272,
+      "y2021": 300,
+      "y2022": 264,
+      "y2023": 251,
+      "y2024": 231,
+      "y2025": 220
+    },
+    {
+      "voivodeship": "podlaskie",
+      "teryt_id": "062000000000",
+      "y2015": 2424,
+      "y2016": 2362,
+      "y2017": 2567,
+      "y2018": 2643,
+      "y2019": 2579,
+      "y2020": 2680,
+      "y2021": 2939,
+      "y2022": 3058,
+      "y2023": 3187,
+      "y2024": 3208,
+      "y2025": 3392
+    },
+    {
+      "voivodeship": "pomorskie",
+      "teryt_id": "042200000000",
+      "y2015": 461,
+      "y2016": 489,
+      "y2017": 484,
+      "y2018": 484,
+      "y2019": 491,
+      "y2020": 489,
+      "y2021": 554,
+      "y2022": 540,
+      "y2023": 490,
+      "y2024": 530,
+      "y2025": 515
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "teryt_id": "042800000000",
+      "y2015": 965,
+      "y2016": 994,
+      "y2017": 1140,
+      "y2018": 1196,
+      "y2019": 1091,
+      "y2020": 1053,
+      "y2021": 1076,
+      "y2022": 963,
+      "y2023": 986,
+      "y2024": 1033,
+      "y2025": 1045
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "teryt_id": "023000000000",
+      "y2015": 997,
+      "y2016": 1037,
+      "y2017": 1037,
+      "y2018": 1058,
+      "y2019": 1116,
+      "y2020": 1291,
+      "y2021": 942,
+      "y2022": 1243,
+      "y2023": 1371,
+      "y2024": 1383,
+      "y2025": 1478
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "teryt_id": "023200000000",
+      "y2015": 206,
+      "y2016": 173,
+      "y2017": 167,
+      "y2018": 183,
+      "y2019": 190,
+      "y2020": 227,
+      "y2021": 147,
+      "y2022": 127,
+      "y2023": 122,
+      "y2024": 90,
+      "y2025": 86
+    },
+    {
+      "voivodeship": "łódzkie",
+      "teryt_id": "051000000000",
+      "y2015": 1009,
+      "y2016": 1030,
+      "y2017": 1014,
+      "y2018": 1035,
+      "y2019": 1110,
+      "y2020": 1137,
+      "y2021": 1020,
+      "y2022": 1007,
+      "y2023": 1019,
+      "y2024": 1083,
+      "y2025": 1074
+    },
+    {
+      "voivodeship": "śląskie",
+      "teryt_id": "012400000000",
+      "y2015": 675,
+      "y2016": 701,
+      "y2017": 698,
+      "y2018": 682,
+      "y2019": 746,
+      "y2020": 746,
+      "y2021": 815,
+      "y2022": 749,
+      "y2023": 808,
+      "y2024": 774,
+      "y2025": 813
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "teryt_id": "052600000000",
+      "y2015": 533,
+      "y2016": 509,
+      "y2017": 486,
+      "y2018": 502,
+      "y2019": 466,
+      "y2020": 450,
+      "y2021": 478,
+      "y2022": 419,
+      "y2023": 469,
+      "y2024": 487,
+      "y2025": 429
+    }
+  ],
+  "meta": {
+    "title": "Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025) - Free Download",
+    "description": "Produkcja mleka (w litrach) na 1 ha użytków rolnych w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025) | ListBase",
+    "seo_description": "Download Produkcja mleka na 1 ha użytków rolnych według województw (2015–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/metadane/cechy/450555"
+    ]
+  }
+}
