@@ -1,0 +1,331 @@
+{
+  "id": "pl-widzowie-w-kinach-na-1000-ludnosci-wojewodztwa",
+  "name": "Widzowie w kinach stałych na 1000 ludności według województw (2015–2025)",
+  "title": "Widzowie w kinach stałych na 1000 ludności według województw (2015–2025)",
+  "description": "Liczba widzów w kinach stałych na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS.",
+  "category": "entertainment",
+  "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/1638840",
+  "source_url": "https://bdl.stat.gov.pl/bdl/metadane/cechy/1638840",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "teryt_id",
+      "label": "Teryt Id",
+      "type": "number"
+    },
+    {
+      "key": "y2015",
+      "label": "Y2015",
+      "type": "number"
+    },
+    {
+      "key": "y2016",
+      "label": "Y2016",
+      "type": "number"
+    },
+    {
+      "key": "y2017",
+      "label": "Y2017",
+      "type": "number"
+    },
+    {
+      "key": "y2018",
+      "label": "Y2018",
+      "type": "number"
+    },
+    {
+      "key": "y2019",
+      "label": "Y2019",
+      "type": "number"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025",
+      "label": "Y2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "teryt_id": "030200000000",
+      "y2015": 1437,
+      "y2016": 1682,
+      "y2017": 1758,
+      "y2018": 1947,
+      "y2019": 1951,
+      "y2020": 650,
+      "y2021": 863,
+      "y2022": 1322,
+      "y2023": 1591,
+      "y2024": 1561,
+      "y2025": 1569
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "teryt_id": "040400000000",
+      "y2015": 1051,
+      "y2016": 1227,
+      "y2017": 1361,
+      "y2018": 1435,
+      "y2019": 1505,
+      "y2020": 470,
+      "y2021": 666,
+      "y2022": 1007,
+      "y2023": 1155,
+      "y2024": 1195,
+      "y2025": 1196
+    },
+    {
+      "voivodeship": "lubelskie",
+      "teryt_id": "060600000000",
+      "y2015": 726,
+      "y2016": 844,
+      "y2017": 947,
+      "y2018": 993,
+      "y2019": 1068,
+      "y2020": 359,
+      "y2021": 476,
+      "y2022": 764,
+      "y2023": 881,
+      "y2024": 926,
+      "y2025": 909
+    },
+    {
+      "voivodeship": "lubuskie",
+      "teryt_id": "020800000000",
+      "y2015": 987,
+      "y2016": 1166,
+      "y2017": 1246,
+      "y2018": 1290,
+      "y2019": 1320,
+      "y2020": 424,
+      "y2021": 577,
+      "y2022": 943,
+      "y2023": 1076,
+      "y2024": 1075,
+      "y2025": 1067
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "teryt_id": "071400000000",
+      "y2015": 1678,
+      "y2016": 1912,
+      "y2017": 2028,
+      "y2018": 2088,
+      "y2019": 2183,
+      "y2020": 674,
+      "y2021": 956,
+      "y2022": 1394,
+      "y2023": 1730,
+      "y2024": 1727,
+      "y2025": 1722
+    },
+    {
+      "voivodeship": "małopolskie",
+      "teryt_id": "011200000000",
+      "y2015": 1213,
+      "y2016": 1353,
+      "y2017": 1519,
+      "y2018": 1466,
+      "y2019": 1581,
+      "y2020": 464,
+      "y2021": 709,
+      "y2022": 1098,
+      "y2023": 1340,
+      "y2024": 1324,
+      "y2025": 1324
+    },
+    {
+      "voivodeship": "opolskie",
+      "teryt_id": "031600000000",
+      "y2015": 724,
+      "y2016": 765,
+      "y2017": 791,
+      "y2018": 826,
+      "y2019": 829,
+      "y2020": 299,
+      "y2021": 481,
+      "y2022": 739,
+      "y2023": 856,
+      "y2024": 846,
+      "y2025": 876
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "teryt_id": "061800000000",
+      "y2015": 711,
+      "y2016": 836,
+      "y2017": 945,
+      "y2018": 1036,
+      "y2019": 1110,
+      "y2020": 374,
+      "y2021": 562,
+      "y2022": 826,
+      "y2023": 961,
+      "y2024": 949,
+      "y2025": 909
+    },
+    {
+      "voivodeship": "podlaskie",
+      "teryt_id": "062000000000",
+      "y2015": 857,
+      "y2016": 953,
+      "y2017": 1093,
+      "y2018": 1130,
+      "y2019": 1192,
+      "y2020": 403,
+      "y2021": 550,
+      "y2022": 804,
+      "y2023": 1036,
+      "y2024": 1089,
+      "y2025": 1066
+    },
+    {
+      "voivodeship": "pomorskie",
+      "teryt_id": "042200000000",
+      "y2015": 1578,
+      "y2016": 1677,
+      "y2017": 1819,
+      "y2018": 1765,
+      "y2019": 1936,
+      "y2020": 542,
+      "y2021": 859,
+      "y2022": 1298,
+      "y2023": 1520,
+      "y2024": 1506,
+      "y2025": 1542
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "teryt_id": "042800000000",
+      "y2015": 757,
+      "y2016": 930,
+      "y2017": 1138,
+      "y2018": 1162,
+      "y2019": 1199,
+      "y2020": 406,
+      "y2021": 577,
+      "y2022": 895,
+      "y2023": 1060,
+      "y2024": 1082,
+      "y2025": 1097
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "teryt_id": "023000000000",
+      "y2015": 1300,
+      "y2016": 1436,
+      "y2017": 1620,
+      "y2018": 1780,
+      "y2019": 1777,
+      "y2020": 569,
+      "y2021": 757,
+      "y2022": 1183,
+      "y2023": 1381,
+      "y2024": 1387,
+      "y2025": 1425
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "teryt_id": "023200000000",
+      "y2015": 1116,
+      "y2016": 1290,
+      "y2017": 1347,
+      "y2018": 1384,
+      "y2019": 1440,
+      "y2020": 456,
+      "y2021": 640,
+      "y2022": 992,
+      "y2023": 1205,
+      "y2024": 1155,
+      "y2025": 1215
+    },
+    {
+      "voivodeship": "łódzkie",
+      "teryt_id": "051000000000",
+      "y2015": 948,
+      "y2016": 1157,
+      "y2017": 1339,
+      "y2018": 1421,
+      "y2019": 1470,
+      "y2020": 457,
+      "y2021": 641,
+      "y2022": 883,
+      "y2023": 1161,
+      "y2024": 1175,
+      "y2025": 1207
+    },
+    {
+      "voivodeship": "śląskie",
+      "teryt_id": "012400000000",
+      "y2015": 1308,
+      "y2016": 1436,
+      "y2017": 1556,
+      "y2018": 1644,
+      "y2019": 1712,
+      "y2020": 554,
+      "y2021": 785,
+      "y2022": 1206,
+      "y2023": 1466,
+      "y2024": 1455,
+      "y2025": 1464
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "teryt_id": "052600000000",
+      "y2015": 739,
+      "y2016": 855,
+      "y2017": 938,
+      "y2018": 977,
+      "y2019": 1054,
+      "y2020": 380,
+      "y2021": 479,
+      "y2022": 742,
+      "y2023": 832,
+      "y2024": 821,
+      "y2025": 845
+    }
+  ],
+  "meta": {
+    "title": "Widzowie w kinach stałych na 1000 ludności według województw (2015–2025) - Free Download",
+    "description": "Liczba widzów w kinach stałych na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Widzowie w kinach stałych na 1000 ludności według województw (2015–2025) | ListBase",
+    "seo_description": "Download Widzowie w kinach stałych na 1000 ludności według województw (2015–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/metadane/cechy/1638840"
+    ]
+  }
+}
