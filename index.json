@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-18T02:31:59.413Z",
-  "total_datasets": 578,
-  "total_records": 1097074,
+  "generated": "2026-11-18T02:32:07.836Z",
+  "total_datasets": 579,
+  "total_records": 1097090,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -4144,6 +4144,40 @@
         "xlsx": {
           "name": "pl-uczelnie-medyczne_PL.xlsx",
           "size": 9359
+        }
+      }
+    },
+    {
+      "id": "pl-zgony-niemowlat-na-1000-urodzen-wojewodztwa",
+      "name": "Zgony niemowląt na 1000 urodzeń żywych według województw (2015–2025)",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "voivodeship",
+        "teryt_id",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/1616450",
+      "updated": "2026-11",
+      "size": 7632,
+      "files": {
+        "csv": {
+          "name": "pl-zgony-niemowlat-na-1000-urodzen-wojewodztwa_PL.csv",
+          "size": 1810
+        },
+        "xlsx": {
+          "name": "pl-zgony-niemowlat-na-1000-urodzen-wojewodztwa_PL.xlsx",
+          "size": 8035
         }
       }
     },
