@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-18T02:32:07.836Z",
-  "total_datasets": 579,
-  "total_records": 1097090,
+  "generated": "2026-11-19T02:29:54.013Z",
+  "total_datasets": 580,
+  "total_records": 1097106,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -15067,6 +15067,40 @@
         "xlsx": {
           "name": "pl-punkty-informacji-turystycznej_PL.xlsx",
           "size": 692289
+        }
+      }
+    },
+    {
+      "id": "pl-turysci-korzystajacy-z-noclegow-na-1000-ludnosci-wojewodztwa",
+      "name": "Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025)",
+      "category": "tourism",
+      "record_count": 16,
+      "columns": [
+        "voivodeship",
+        "teryt_id",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/60297",
+      "updated": "2026-11",
+      "size": 8143,
+      "files": {
+        "csv": {
+          "name": "pl-turysci-korzystajacy-z-noclegow-na-1000-ludnosci-wojewodztwa_PL.csv",
+          "size": 2212
+        },
+        "xlsx": {
+          "name": "pl-turysci-korzystajacy-z-noclegow-na-1000-ludnosci-wojewodztwa_PL.xlsx",
+          "size": 8403
         }
       }
     },

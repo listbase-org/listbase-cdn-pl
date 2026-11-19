@@ -1,0 +1,331 @@
+{
+  "id": "pl-turysci-korzystajacy-z-noclegow-na-1000-ludnosci-wojewodztwa",
+  "name": "Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025)",
+  "title": "Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025)",
+  "description": "Liczba turystów korzystających z noclegów w turystycznych obiektach noclegowych na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS.",
+  "category": "tourism",
+  "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/60297",
+  "source_url": "https://bdl.stat.gov.pl/bdl/metadane/cechy/60297",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "teryt_id",
+      "label": "Teryt Id",
+      "type": "number"
+    },
+    {
+      "key": "y2015",
+      "label": "Y2015",
+      "type": "number"
+    },
+    {
+      "key": "y2016",
+      "label": "Y2016",
+      "type": "number"
+    },
+    {
+      "key": "y2017",
+      "label": "Y2017",
+      "type": "number"
+    },
+    {
+      "key": "y2018",
+      "label": "Y2018",
+      "type": "number"
+    },
+    {
+      "key": "y2019",
+      "label": "Y2019",
+      "type": "number"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025",
+      "label": "Y2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "teryt_id": "030200000000",
+      "y2015": 901.92,
+      "y2016": 1057.72,
+      "y2017": 1144.72,
+      "y2018": 1259.84,
+      "y2019": 1355.98,
+      "y2020": 709.23,
+      "y2021": 835.78,
+      "y2022": 1290.69,
+      "y2023": 1455.61,
+      "y2024": 1557.23,
+      "y2025": 1774.65
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "teryt_id": "040400000000",
+      "y2015": 505.59,
+      "y2016": 572.4,
+      "y2017": 621.23,
+      "y2018": 637.83,
+      "y2019": 654.93,
+      "y2020": 351.29,
+      "y2021": 448.67,
+      "y2022": 681.14,
+      "y2023": 708.21,
+      "y2024": 742.2,
+      "y2025": 804.85
+    },
+    {
+      "voivodeship": "lubelskie",
+      "teryt_id": "060600000000",
+      "y2015": 370.66,
+      "y2016": 429.11,
+      "y2017": 482.3,
+      "y2018": 508.69,
+      "y2019": 542.62,
+      "y2020": 304.24,
+      "y2021": 371.4,
+      "y2022": 570.63,
+      "y2023": 590.34,
+      "y2024": 598.07,
+      "y2025": 654.54
+    },
+    {
+      "voivodeship": "lubuskie",
+      "teryt_id": "020800000000",
+      "y2015": 604.12,
+      "y2016": 630.32,
+      "y2017": 650.75,
+      "y2018": 677.29,
+      "y2019": 711.53,
+      "y2020": 401.31,
+      "y2021": 477.25,
+      "y2022": 646.65,
+      "y2023": 663.97,
+      "y2024": 720.05,
+      "y2025": 686.52
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "teryt_id": "071400000000",
+      "y2015": 768.98,
+      "y2016": 884.45,
+      "y2017": 947.77,
+      "y2018": 989.83,
+      "y2019": 1023.05,
+      "y2020": 383.38,
+      "y2021": 549.12,
+      "y2022": 1069.35,
+      "y2023": 1137.15,
+      "y2024": 1246.55,
+      "y2025": 1401.85
+    },
+    {
+      "voivodeship": "małopolskie",
+      "teryt_id": "011200000000",
+      "y2015": 1208.95,
+      "y2016": 1355.7,
+      "y2017": 1447.47,
+      "y2018": 1533.53,
+      "y2019": 1643.97,
+      "y2020": 695.29,
+      "y2021": 931.24,
+      "y2022": 1515.37,
+      "y2023": 1665.7,
+      "y2024": 1791.39,
+      "y2025": 1965.55
+    },
+    {
+      "voivodeship": "opolskie",
+      "teryt_id": "031600000000",
+      "y2015": 329.42,
+      "y2016": 411.19,
+      "y2017": 425.71,
+      "y2018": 424.32,
+      "y2019": 454.12,
+      "y2020": 222.23,
+      "y2021": 250.9,
+      "y2022": 356.31,
+      "y2023": 367.23,
+      "y2024": 391.73,
+      "y2025": 449.74
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "teryt_id": "061800000000",
+      "y2015": 450.18,
+      "y2016": 522.19,
+      "y2017": 576.23,
+      "y2018": 593.52,
+      "y2019": 609.66,
+      "y2020": 338.12,
+      "y2021": 384.51,
+      "y2022": 581.01,
+      "y2023": 574.72,
+      "y2024": 587.31,
+      "y2025": 599.77
+    },
+    {
+      "voivodeship": "podlaskie",
+      "teryt_id": "062000000000",
+      "y2015": 509.59,
+      "y2016": 559.28,
+      "y2017": 562.58,
+      "y2018": 540.13,
+      "y2019": 583.78,
+      "y2020": 325.42,
+      "y2021": 381.93,
+      "y2022": 496.53,
+      "y2023": 508.18,
+      "y2024": 541.69,
+      "y2025": 666.21
+    },
+    {
+      "voivodeship": "pomorskie",
+      "teryt_id": "042200000000",
+      "y2015": 1058.34,
+      "y2016": 1156.28,
+      "y2017": 1234.22,
+      "y2018": 1309.07,
+      "y2019": 1385.37,
+      "y2020": 836.43,
+      "y2021": 1005.57,
+      "y2022": 1394.91,
+      "y2023": 1469.08,
+      "y2024": 1620.21,
+      "y2025": 1737.17
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "teryt_id": "042800000000",
+      "y2015": 787,
+      "y2016": 890.63,
+      "y2017": 880.01,
+      "y2018": 914.26,
+      "y2019": 965.98,
+      "y2020": 628.17,
+      "y2021": 678.6,
+      "y2022": 879.34,
+      "y2023": 944.43,
+      "y2024": 1016.7,
+      "y2025": 1116.69
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "teryt_id": "023000000000",
+      "y2015": 541.94,
+      "y2016": 575.07,
+      "y2017": 575.68,
+      "y2018": 601.47,
+      "y2019": 610.28,
+      "y2020": 288.27,
+      "y2021": 365.65,
+      "y2022": 543.03,
+      "y2023": 533.68,
+      "y2024": 572.13,
+      "y2025": 624.72
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "teryt_id": "023200000000",
+      "y2015": 1387.03,
+      "y2016": 1500.8,
+      "y2017": 1617.12,
+      "y2018": 1785.75,
+      "y2019": 1890.96,
+      "y2020": 1264.48,
+      "y2021": 1480.53,
+      "y2022": 1980.69,
+      "y2023": 2090.27,
+      "y2024": 2327.32,
+      "y2025": 2544.38
+    },
+    {
+      "voivodeship": "łódzkie",
+      "teryt_id": "051000000000",
+      "y2015": 512.8,
+      "y2016": 508.07,
+      "y2017": 527.32,
+      "y2018": 546.95,
+      "y2019": 578.65,
+      "y2020": 251.52,
+      "y2021": 312.91,
+      "y2022": 508.45,
+      "y2023": 550.82,
+      "y2024": 603.62,
+      "y2025": 702.54
+    },
+    {
+      "voivodeship": "śląskie",
+      "teryt_id": "012400000000",
+      "y2015": 469.07,
+      "y2016": 527.81,
+      "y2017": 570.36,
+      "y2018": 618.77,
+      "y2019": 641.72,
+      "y2020": 304.9,
+      "y2021": 385.86,
+      "y2022": 611.34,
+      "y2023": 628.57,
+      "y2024": 630.15,
+      "y2025": 712.99
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "teryt_id": "052600000000",
+      "y2015": 411.19,
+      "y2016": 474.87,
+      "y2017": 464.33,
+      "y2018": 501.53,
+      "y2019": 530.43,
+      "y2020": 278.19,
+      "y2021": 369.86,
+      "y2022": 522.09,
+      "y2023": 534.55,
+      "y2024": 575.95,
+      "y2025": 579.54
+    }
+  ],
+  "meta": {
+    "title": "Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025) - Free Download",
+    "description": "Liczba turystów korzystających z noclegów w turystycznych obiektach noclegowych na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025) | ListBase",
+    "seo_description": "Download Turyści korzystający z noclegów na 1000 ludności według województw (2015–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/metadane/cechy/60297"
+    ]
+  }
+}
