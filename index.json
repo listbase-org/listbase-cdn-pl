@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-19T02:29:54.013Z",
-  "total_datasets": 580,
-  "total_records": 1097106,
+  "generated": "2026-11-19T02:30:03.072Z",
+  "total_datasets": 581,
+  "total_records": 1097122,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -668,6 +668,40 @@
         "xlsx": {
           "name": "pl-stopa-bezrobocia-miesieczna_PL.xlsx",
           "size": 8098
+        }
+      }
+    },
+    {
+      "id": "pl-wynagrodzenia-w-relacji-do-sredniej-krajowej-wojewodztwa",
+      "name": "Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025)",
+      "category": "economy",
+      "record_count": 16,
+      "columns": [
+        "voivodeship",
+        "teryt_id",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/64429",
+      "updated": "2026-11",
+      "size": 7794,
+      "files": {
+        "csv": {
+          "name": "pl-wynagrodzenia-w-relacji-do-sredniej-krajowej-wojewodztwa_PL.csv",
+          "size": 1833
+        },
+        "xlsx": {
+          "name": "pl-wynagrodzenia-w-relacji-do-sredniej-krajowej-wojewodztwa_PL.xlsx",
+          "size": 7960
         }
       }
     },

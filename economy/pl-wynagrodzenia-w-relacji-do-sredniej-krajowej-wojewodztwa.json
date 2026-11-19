@@ -1,0 +1,331 @@
+{
+  "id": "pl-wynagrodzenia-w-relacji-do-sredniej-krajowej-wojewodztwa",
+  "name": "Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025)",
+  "title": "Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025)",
+  "description": "Przeciętne miesięczne wynagrodzenie brutto w poszczególnych województwach jako procent średniej krajowej (Polska = 100) w latach 2015–2025 według Banku Danych Lokalnych GUS.",
+  "category": "economy",
+  "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/64429",
+  "source_url": "https://bdl.stat.gov.pl/bdl/metadane/cechy/64429",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "teryt_id",
+      "label": "Teryt Id",
+      "type": "number"
+    },
+    {
+      "key": "y2015",
+      "label": "Y2015",
+      "type": "number"
+    },
+    {
+      "key": "y2016",
+      "label": "Y2016",
+      "type": "number"
+    },
+    {
+      "key": "y2017",
+      "label": "Y2017",
+      "type": "number"
+    },
+    {
+      "key": "y2018",
+      "label": "Y2018",
+      "type": "number"
+    },
+    {
+      "key": "y2019",
+      "label": "Y2019",
+      "type": "number"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025",
+      "label": "Y2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "teryt_id": "030200000000",
+      "y2015": 101.3,
+      "y2016": 102.2,
+      "y2017": 102.8,
+      "y2018": 102.2,
+      "y2019": 102.7,
+      "y2020": 103.1,
+      "y2021": 104,
+      "y2022": 103.6,
+      "y2023": 103.4,
+      "y2024": 102.7,
+      "y2025": 102.2
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "teryt_id": "040400000000",
+      "y2015": 85.3,
+      "y2016": 85.6,
+      "y2017": 85.8,
+      "y2018": 85.6,
+      "y2019": 86.7,
+      "y2020": 87.5,
+      "y2021": 88.1,
+      "y2022": 87.8,
+      "y2023": 88.5,
+      "y2024": 89.3,
+      "y2025": 89.7
+    },
+    {
+      "voivodeship": "lubelskie",
+      "teryt_id": "060600000000",
+      "y2015": 89.1,
+      "y2016": 88.9,
+      "y2017": 88.8,
+      "y2018": 88.1,
+      "y2019": 88.1,
+      "y2020": 89,
+      "y2021": 88.6,
+      "y2022": 88.1,
+      "y2023": 89.2,
+      "y2024": 90,
+      "y2025": 90.7
+    },
+    {
+      "voivodeship": "lubuskie",
+      "teryt_id": "020800000000",
+      "y2015": 85.9,
+      "y2016": 87.1,
+      "y2017": 87.3,
+      "y2018": 87.7,
+      "y2019": 88,
+      "y2020": 87.5,
+      "y2021": 88.1,
+      "y2022": 89.7,
+      "y2023": 90.6,
+      "y2024": 91.4,
+      "y2025": 90.7
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "teryt_id": "071400000000",
+      "y2015": 122.8,
+      "y2016": 122.1,
+      "y2017": 122,
+      "y2018": 121.8,
+      "y2019": 120.6,
+      "y2020": 119.2,
+      "y2021": 118.4,
+      "y2022": 118,
+      "y2023": 117.6,
+      "y2024": 116.1,
+      "y2025": 116.5
+    },
+    {
+      "voivodeship": "małopolskie",
+      "teryt_id": "011200000000",
+      "y2015": 94.1,
+      "y2016": 95,
+      "y2017": 96,
+      "y2018": 96.8,
+      "y2019": 98.4,
+      "y2020": 100.2,
+      "y2021": 100.8,
+      "y2022": 101.8,
+      "y2023": 101.9,
+      "y2024": 102.2,
+      "y2025": 102.6
+    },
+    {
+      "voivodeship": "opolskie",
+      "teryt_id": "031600000000",
+      "y2015": 91.4,
+      "y2016": 91.5,
+      "y2017": 91.5,
+      "y2018": 90.6,
+      "y2019": 90.9,
+      "y2020": 91.9,
+      "y2021": 91.5,
+      "y2022": 91.5,
+      "y2023": 91.8,
+      "y2024": 92.2,
+      "y2025": 92.9
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "teryt_id": "061800000000",
+      "y2015": 85,
+      "y2016": 85.2,
+      "y2017": 84.7,
+      "y2018": 84.6,
+      "y2019": 84.7,
+      "y2020": 85.2,
+      "y2021": 86.2,
+      "y2022": 84.4,
+      "y2023": 84.7,
+      "y2024": 87.1,
+      "y2025": 87.5
+    },
+    {
+      "voivodeship": "podlaskie",
+      "teryt_id": "062000000000",
+      "y2015": 87.9,
+      "y2016": 87.8,
+      "y2017": 88.5,
+      "y2018": 88.2,
+      "y2019": 88.3,
+      "y2020": 89.3,
+      "y2021": 90.2,
+      "y2022": 89.7,
+      "y2023": 89.6,
+      "y2024": 91,
+      "y2025": 91.6
+    },
+    {
+      "voivodeship": "pomorskie",
+      "teryt_id": "042200000000",
+      "y2015": 99.5,
+      "y2016": 99.6,
+      "y2017": 99.3,
+      "y2018": 99.2,
+      "y2019": 99.2,
+      "y2020": 99.3,
+      "y2021": 99.9,
+      "y2022": 99.9,
+      "y2023": 99.4,
+      "y2024": 99.9,
+      "y2025": 100.5
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "teryt_id": "042800000000",
+      "y2015": 84.2,
+      "y2016": 84.4,
+      "y2017": 84,
+      "y2018": 83.3,
+      "y2019": 83.4,
+      "y2020": 85.3,
+      "y2021": 85.4,
+      "y2022": 84.6,
+      "y2023": 84.9,
+      "y2024": 87.2,
+      "y2025": 87.6
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "teryt_id": "023000000000",
+      "y2015": 89.7,
+      "y2016": 90.8,
+      "y2017": 91.1,
+      "y2018": 90.7,
+      "y2019": 90.5,
+      "y2020": 90.3,
+      "y2021": 89.6,
+      "y2022": 89.8,
+      "y2023": 89.2,
+      "y2024": 89.9,
+      "y2025": 88.7
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "teryt_id": "023200000000",
+      "y2015": 91.4,
+      "y2016": 92,
+      "y2017": 91.7,
+      "y2018": 91.7,
+      "y2019": 92.1,
+      "y2020": 92.3,
+      "y2021": 92.5,
+      "y2022": 92,
+      "y2023": 92.3,
+      "y2024": 93,
+      "y2025": 93.4
+    },
+    {
+      "voivodeship": "łódzkie",
+      "teryt_id": "051000000000",
+      "y2015": 91.3,
+      "y2016": 91.5,
+      "y2017": 91.5,
+      "y2018": 91.9,
+      "y2019": 92.4,
+      "y2020": 93.2,
+      "y2021": 93.7,
+      "y2022": 92.6,
+      "y2023": 92.9,
+      "y2024": 93.8,
+      "y2025": 93.9
+    },
+    {
+      "voivodeship": "śląskie",
+      "teryt_id": "012400000000",
+      "y2015": 101.7,
+      "y2016": 100.1,
+      "y2017": 99,
+      "y2018": 99.8,
+      "y2019": 99.9,
+      "y2020": 98.7,
+      "y2021": 98.4,
+      "y2022": 100.3,
+      "y2023": 100.2,
+      "y2024": 98.9,
+      "y2025": 98.2
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "teryt_id": "052600000000",
+      "y2015": 86.3,
+      "y2016": 85.5,
+      "y2017": 86.4,
+      "y2018": 86.3,
+      "y2019": 86.7,
+      "y2020": 86.9,
+      "y2021": 87.7,
+      "y2022": 86.2,
+      "y2023": 86.7,
+      "y2024": 88.8,
+      "y2025": 89.2
+    }
+  ],
+  "meta": {
+    "title": "Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025) - Free Download",
+    "description": "Przeciętne miesięczne wynagrodzenie brutto w poszczególnych województwach jako procent średniej krajowej (Polska = 100) w latach 2015–2025 według Banku Danych Lokalnych GUS. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025) | ListBase",
+    "seo_description": "Download Przeciętne wynagrodzenie brutto w relacji do średniej krajowej według województw (2015–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/metadane/cechy/64429"
+    ]
+  }
+}
