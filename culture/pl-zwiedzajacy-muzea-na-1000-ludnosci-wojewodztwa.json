@@ -1,0 +1,331 @@
+{
+  "id": "pl-zwiedzajacy-muzea-na-1000-ludnosci-wojewodztwa",
+  "name": "Zwiedzający muzea na 1000 ludności według województw (2015–2025)",
+  "title": "Zwiedzający muzea na 1000 ludności według województw (2015–2025)",
+  "description": "Liczba zwiedzających muzea i oddziały muzealne na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS.",
+  "category": "culture",
+  "source": "https://bdl.stat.gov.pl/bdl/metadane/cechy/1539661",
+  "source_url": "https://bdl.stat.gov.pl/bdl/metadane/cechy/1539661",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "voivodeship",
+      "label": "Voivodeship",
+      "type": "string"
+    },
+    {
+      "key": "teryt_id",
+      "label": "Teryt Id",
+      "type": "number"
+    },
+    {
+      "key": "y2015",
+      "label": "Y2015",
+      "type": "number"
+    },
+    {
+      "key": "y2016",
+      "label": "Y2016",
+      "type": "number"
+    },
+    {
+      "key": "y2017",
+      "label": "Y2017",
+      "type": "number"
+    },
+    {
+      "key": "y2018",
+      "label": "Y2018",
+      "type": "number"
+    },
+    {
+      "key": "y2019",
+      "label": "Y2019",
+      "type": "number"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025",
+      "label": "Y2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "voivodeship": "dolnośląskie",
+      "teryt_id": "030200000000",
+      "y2015": 632.7,
+      "y2016": 691.4,
+      "y2017": 681.5,
+      "y2018": 701.7,
+      "y2019": 685.8,
+      "y2020": 247.3,
+      "y2021": 373.8,
+      "y2022": 647.5,
+      "y2023": 795.9,
+      "y2024": 808.2,
+      "y2025": 890.7
+    },
+    {
+      "voivodeship": "kujawsko-pomorskie",
+      "teryt_id": "040400000000",
+      "y2015": 510.2,
+      "y2016": 586.6,
+      "y2017": 571.3,
+      "y2018": 554.8,
+      "y2019": 612,
+      "y2020": 256.5,
+      "y2021": 432.4,
+      "y2022": 630.4,
+      "y2023": 679.3,
+      "y2024": 652.4,
+      "y2025": 645.4
+    },
+    {
+      "voivodeship": "lubelskie",
+      "teryt_id": "060600000000",
+      "y2015": 528.1,
+      "y2016": 601.6,
+      "y2017": 644.2,
+      "y2018": 662.5,
+      "y2019": 576.6,
+      "y2020": 272.4,
+      "y2021": 418.9,
+      "y2022": 643.3,
+      "y2023": 698.1,
+      "y2024": 719,
+      "y2025": 802.8
+    },
+    {
+      "voivodeship": "lubuskie",
+      "teryt_id": "020800000000",
+      "y2015": 229.5,
+      "y2016": 253.6,
+      "y2017": 249,
+      "y2018": 262.7,
+      "y2019": 246.7,
+      "y2020": 108,
+      "y2021": 202.6,
+      "y2022": 232.8,
+      "y2023": 288.1,
+      "y2024": 296,
+      "y2025": 297.1
+    },
+    {
+      "voivodeship": "mazowieckie",
+      "teryt_id": "071400000000",
+      "y2015": 1774,
+      "y2016": 1963.5,
+      "y2017": 2035.6,
+      "y2018": 2108.8,
+      "y2019": 2424.3,
+      "y2020": 1260.4,
+      "y2021": 1829.6,
+      "y2022": 2429.4,
+      "y2023": 2575.9,
+      "y2024": 2708.5,
+      "y2025": 2576.3
+    },
+    {
+      "voivodeship": "małopolskie",
+      "teryt_id": "011200000000",
+      "y2015": 2637.6,
+      "y2016": 2936.3,
+      "y2017": 3147.9,
+      "y2018": 3093.1,
+      "y2019": 3267.9,
+      "y2020": 948.6,
+      "y2021": 1532.9,
+      "y2022": 2550.1,
+      "y2023": 3179.8,
+      "y2024": 3554.3,
+      "y2025": 3846.5
+    },
+    {
+      "voivodeship": "opolskie",
+      "teryt_id": "031600000000",
+      "y2015": 237.4,
+      "y2016": 241.2,
+      "y2017": 358.2,
+      "y2018": 406.1,
+      "y2019": 348,
+      "y2020": 99.9,
+      "y2021": 150,
+      "y2022": 263.1,
+      "y2023": 272.7,
+      "y2024": 287.4,
+      "y2025": 337.8
+    },
+    {
+      "voivodeship": "podkarpackie",
+      "teryt_id": "061800000000",
+      "y2015": 686.1,
+      "y2016": 661.9,
+      "y2017": 609.6,
+      "y2018": 592.3,
+      "y2019": 483.9,
+      "y2020": 221.6,
+      "y2021": 334.3,
+      "y2022": 429.2,
+      "y2023": 545.2,
+      "y2024": 573.9,
+      "y2025": 599.4
+    },
+    {
+      "voivodeship": "podlaskie",
+      "teryt_id": "062000000000",
+      "y2015": 461,
+      "y2016": 453.3,
+      "y2017": 353.5,
+      "y2018": 373.3,
+      "y2019": 405.3,
+      "y2020": 162.3,
+      "y2021": 273.5,
+      "y2022": 308.8,
+      "y2023": 308.6,
+      "y2024": 342.5,
+      "y2025": 377.9
+    },
+    {
+      "voivodeship": "pomorskie",
+      "teryt_id": "042200000000",
+      "y2015": 1033.9,
+      "y2016": 1257.8,
+      "y2017": 1426,
+      "y2018": 1563.1,
+      "y2019": 1608.5,
+      "y2020": 700,
+      "y2021": 950.7,
+      "y2022": 1393.6,
+      "y2023": 1502.3,
+      "y2024": 1577.3,
+      "y2025": 1903
+    },
+    {
+      "voivodeship": "warmińsko-mazurskie",
+      "teryt_id": "042800000000",
+      "y2015": 486,
+      "y2016": 504.3,
+      "y2017": 466.4,
+      "y2018": 441.9,
+      "y2019": 505.4,
+      "y2020": 265.5,
+      "y2021": 398.9,
+      "y2022": 386.4,
+      "y2023": 605.5,
+      "y2024": 655.5,
+      "y2025": 725
+    },
+    {
+      "voivodeship": "wielkopolskie",
+      "teryt_id": "023000000000",
+      "y2015": 349.6,
+      "y2016": 404.3,
+      "y2017": 341.9,
+      "y2018": 369.7,
+      "y2019": 346,
+      "y2020": 119,
+      "y2021": 197.8,
+      "y2022": 285.9,
+      "y2023": 389.6,
+      "y2024": 392.9,
+      "y2025": 470
+    },
+    {
+      "voivodeship": "zachodniopomorskie",
+      "teryt_id": "023200000000",
+      "y2015": 357.8,
+      "y2016": 435,
+      "y2017": 363.2,
+      "y2018": 368.2,
+      "y2019": 314.4,
+      "y2020": 176,
+      "y2021": 249.7,
+      "y2022": 316.6,
+      "y2023": 366.6,
+      "y2024": 356,
+      "y2025": 353.7
+    },
+    {
+      "voivodeship": "łódzkie",
+      "teryt_id": "051000000000",
+      "y2015": 446.3,
+      "y2016": 400.6,
+      "y2017": 398.7,
+      "y2018": 380.5,
+      "y2019": 412.5,
+      "y2020": 148.8,
+      "y2021": 272.2,
+      "y2022": 460.9,
+      "y2023": 556.4,
+      "y2024": 534.9,
+      "y2025": 555.5
+    },
+    {
+      "voivodeship": "śląskie",
+      "teryt_id": "012400000000",
+      "y2015": 351.5,
+      "y2016": 316.4,
+      "y2017": 355.7,
+      "y2018": 333.3,
+      "y2019": 334.7,
+      "y2020": 101.8,
+      "y2021": 188.9,
+      "y2022": 325.8,
+      "y2023": 431.5,
+      "y2024": 388.2,
+      "y2025": 384.7
+    },
+    {
+      "voivodeship": "świętokrzyskie",
+      "teryt_id": "052600000000",
+      "y2015": 600.5,
+      "y2016": 571.3,
+      "y2017": 517.8,
+      "y2018": 517.2,
+      "y2019": 518.6,
+      "y2020": 169.7,
+      "y2021": 291.2,
+      "y2022": 459.3,
+      "y2023": 534.4,
+      "y2024": 502.2,
+      "y2025": 502.3
+    }
+  ],
+  "meta": {
+    "title": "Zwiedzający muzea na 1000 ludności według województw (2015–2025) - Free Download",
+    "description": "Liczba zwiedzających muzea i oddziały muzealne na 1000 mieszkańców w poszczególnych województwach w latach 2015–2025 według Banku Danych Lokalnych GUS. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zwiedzający muzea na 1000 ludności według województw (2015–2025) | ListBase",
+    "seo_description": "Download Zwiedzający muzea na 1000 ludności według województw (2015–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/metadane/cechy/1539661"
+    ]
+  }
+}
