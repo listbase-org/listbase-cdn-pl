@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-20T02:20:24.017Z",
-  "total_datasets": 584,
-  "total_records": 1097181,
+  "generated": "2026-11-20T02:20:32.614Z",
+  "total_datasets": 585,
+  "total_records": 1097197,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -1932,6 +1932,42 @@
         "xlsx": {
           "name": "pl-sklepy-z-winem_PL.xlsx",
           "size": 16706
+        }
+      }
+    },
+    {
+      "id": "pl-spozycie-zywnosci-na-osobe-wojewodztwa-2025",
+      "name": "Przeciętne miesięczne spożycie żywności na 1 osobę według województw (2025)",
+      "category": "food",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "pieczywo_i_produkty_zbozowe_kg",
+        "pieczywo_kg",
+        "mieso_kg",
+        "mieso_drobiowe_surowe_kg",
+        "wedliny_i_przetwory_miesne_kg",
+        "ryby_i_owoce_morza_kg",
+        "mleko_swieze_l",
+        "sery_i_twarogi_kg",
+        "jaja_szt",
+        "oleje_i_tluszcze_kg",
+        "owoce_kg",
+        "warzywa_kg",
+        "ziemniaki_kg",
+        "cukier_kg"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P2456",
+      "updated": "2026-11",
+      "size": 11242,
+      "files": {
+        "csv": {
+          "name": "pl-spozycie-zywnosci-na-osobe-wojewodztwa-2025_PL.csv",
+          "size": 2076
+        },
+        "xlsx": {
+          "name": "pl-spozycie-zywnosci-na-osobe-wojewodztwa-2025_PL.xlsx",
+          "size": 8447
         }
       }
     },
