@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-20T02:20:15.685Z",
-  "total_datasets": 583,
-  "total_records": 1097154,
+  "generated": "2026-11-20T02:20:24.017Z",
+  "total_datasets": 584,
+  "total_records": 1097181,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -13782,6 +13782,40 @@
         "xlsx": {
           "name": "pl-najstarsi-ludzie_PL.xlsx",
           "size": 11200
+        }
+      }
+    },
+    {
+      "id": "pl-rozwody-wedlug-przyczyn",
+      "name": "Rozwody według przyczyn rozkładu pożycia (1999–2025)",
+      "category": "society",
+      "record_count": 27,
+      "columns": [
+        "rok",
+        "niedochowanie_wiernosci",
+        "naduzywanie_alkoholu",
+        "naganny_stosunek_do_rodziny",
+        "trudnosci_mieszkaniowe",
+        "nieporozumienia_finansowe",
+        "niezgodnosc_charakterow",
+        "niedobor_seksualny",
+        "dluzsza_nieobecnosc",
+        "roznice_swiatopogladowe",
+        "narkotyki",
+        "hazard",
+        "inne"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P1349",
+      "updated": "2026-11",
+      "size": 14711,
+      "files": {
+        "csv": {
+          "name": "pl-rozwody-wedlug-przyczyn_PL.csv",
+          "size": 2376
+        },
+        "xlsx": {
+          "name": "pl-rozwody-wedlug-przyczyn_PL.xlsx",
+          "size": 8930
         }
       }
     },
