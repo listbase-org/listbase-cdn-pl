@@ -1,0 +1,163 @@
+{
+  "id": "pl-malzenstwa-rozwody-dzietnosc-wojewodztwa-2025",
+  "name": "Małżeństwa, rozwody i dzietność według województw (2025)",
+  "title": "Małżeństwa, rozwody i dzietność według województw (2025)",
+  "description": "Wskaźniki demograficzne województw w 2025 r.: małżeństwa zawarte na 1000 ludności, rozwody i separacje na 10 tys. ludności oraz współczynnik dzietności (GUS, Bank Danych Lokalnych).",
+  "category": "society",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P1971",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P1971",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "malzenstwa_na_1000_ludnosci",
+      "label": "Malzenstwa Na 1000 Ludnosci",
+      "type": "number"
+    },
+    {
+      "key": "rozwody_na_10_tys_ludnosci",
+      "label": "Rozwody Na 10 Tys Ludnosci",
+      "type": "number"
+    },
+    {
+      "key": "separacje_na_10_tys_ludnosci",
+      "label": "Separacje Na 10 Tys Ludnosci",
+      "type": "number"
+    },
+    {
+      "key": "wspolczynnik_dzietnosci",
+      "label": "Wspolczynnik Dzietnosci",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "dolnośląskie",
+      "malzenstwa_na_1000_ludnosci": 3.8,
+      "rozwody_na_10_tys_ludnosci": 18.1,
+      "separacje_na_10_tys_ludnosci": 0.17,
+      "wspolczynnik_dzietnosci": 0.996
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "malzenstwa_na_1000_ludnosci": 3.4,
+      "rozwody_na_10_tys_ludnosci": 18.1,
+      "separacje_na_10_tys_ludnosci": 0.19,
+      "wspolczynnik_dzietnosci": 1.008
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "malzenstwa_na_1000_ludnosci": 3.2,
+      "rozwody_na_10_tys_ludnosci": 15.9,
+      "separacje_na_10_tys_ludnosci": 0.15,
+      "wspolczynnik_dzietnosci": 1.019
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "malzenstwa_na_1000_ludnosci": 3.5,
+      "rozwody_na_10_tys_ludnosci": 16.7,
+      "separacje_na_10_tys_ludnosci": 0.09,
+      "wspolczynnik_dzietnosci": 1.03
+    },
+    {
+      "wojewodztwo": "mazowieckie",
+      "malzenstwa_na_1000_ludnosci": 3.8,
+      "rozwody_na_10_tys_ludnosci": 16.2,
+      "separacje_na_10_tys_ludnosci": 0.12,
+      "wspolczynnik_dzietnosci": 1.155
+    },
+    {
+      "wojewodztwo": "małopolskie",
+      "malzenstwa_na_1000_ludnosci": 3.9,
+      "rozwody_na_10_tys_ludnosci": 13.4,
+      "separacje_na_10_tys_ludnosci": 0.11,
+      "wspolczynnik_dzietnosci": 1.125
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "malzenstwa_na_1000_ludnosci": 3,
+      "rozwody_na_10_tys_ludnosci": 14.8,
+      "separacje_na_10_tys_ludnosci": 0.12,
+      "wspolczynnik_dzietnosci": 1.001
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "malzenstwa_na_1000_ludnosci": 3.2,
+      "rozwody_na_10_tys_ludnosci": 11.7,
+      "separacje_na_10_tys_ludnosci": 0.19,
+      "wspolczynnik_dzietnosci": 1.043
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "malzenstwa_na_1000_ludnosci": 3.2,
+      "rozwody_na_10_tys_ludnosci": 15.8,
+      "separacje_na_10_tys_ludnosci": 0.17,
+      "wspolczynnik_dzietnosci": 1.116
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "malzenstwa_na_1000_ludnosci": 4,
+      "rozwody_na_10_tys_ludnosci": 16.9,
+      "separacje_na_10_tys_ludnosci": 0.15,
+      "wspolczynnik_dzietnosci": 1.107
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "malzenstwa_na_1000_ludnosci": 3.3,
+      "rozwody_na_10_tys_ludnosci": 19.3,
+      "separacje_na_10_tys_ludnosci": 0.17,
+      "wspolczynnik_dzietnosci": 0.981
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "malzenstwa_na_1000_ludnosci": 3.6,
+      "rozwody_na_10_tys_ludnosci": 15.4,
+      "separacje_na_10_tys_ludnosci": 0.07,
+      "wspolczynnik_dzietnosci": 1.119
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "malzenstwa_na_1000_ludnosci": 3.5,
+      "rozwody_na_10_tys_ludnosci": 16.6,
+      "separacje_na_10_tys_ludnosci": 0.09,
+      "wspolczynnik_dzietnosci": 0.987
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "malzenstwa_na_1000_ludnosci": 3.5,
+      "rozwody_na_10_tys_ludnosci": 16.9,
+      "separacje_na_10_tys_ludnosci": 0.35,
+      "wspolczynnik_dzietnosci": 1.1
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "malzenstwa_na_1000_ludnosci": 3.5,
+      "rozwody_na_10_tys_ludnosci": 17.1,
+      "separacje_na_10_tys_ludnosci": 0.21,
+      "wspolczynnik_dzietnosci": 1.009
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "malzenstwa_na_1000_ludnosci": 2.9,
+      "rozwody_na_10_tys_ludnosci": 9.2,
+      "separacje_na_10_tys_ludnosci": 0.09,
+      "wspolczynnik_dzietnosci": 0.981
+    }
+  ],
+  "meta": {
+    "title": "Małżeństwa, rozwody i dzietność według województw (2025) - Free Download",
+    "description": "Wskaźniki demograficzne województw w 2025 r.: małżeństwa zawarte na 1000 ludności, rozwody i separacje na 10 tys. ludności oraz współczynnik dzietności (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Małżeństwa, rozwody i dzietność według województw (2025) | ListBase",
+    "seo_description": "Download Małżeństwa, rozwody i dzietność według województw (2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P1971"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-19T02:30:11.419Z",
-  "total_datasets": 582,
-  "total_records": 1097138,
+  "generated": "2026-11-20T02:20:15.685Z",
+  "total_datasets": 583,
+  "total_records": 1097154,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -13727,6 +13727,32 @@
         "xlsx": {
           "name": "pl-koscioly-i-zwiazki-wyznaniowe_PL.xlsx",
           "size": 42447
+        }
+      }
+    },
+    {
+      "id": "pl-malzenstwa-rozwody-dzietnosc-wojewodztwa-2025",
+      "name": "Małżeństwa, rozwody i dzietność według województw (2025)",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "malzenstwa_na_1000_ludnosci",
+        "rozwody_na_10_tys_ludnosci",
+        "separacje_na_10_tys_ludnosci",
+        "wspolczynnik_dzietnosci"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrupy/tablica/P1971",
+      "updated": "2026-11",
+      "size": 5591,
+      "files": {
+        "csv": {
+          "name": "pl-malzenstwa-rozwody-dzietnosc-wojewodztwa-2025_PL.csv",
+          "size": 815
+        },
+        "xlsx": {
+          "name": "pl-malzenstwa-rozwody-dzietnosc-wojewodztwa-2025_PL.xlsx",
+          "size": 7378
         }
       }
     },
