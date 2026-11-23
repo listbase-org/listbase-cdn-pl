@@ -1,0 +1,2613 @@
+{
+  "id": "pl-kalendarz-imienin",
+  "name": "Kalendarz imienin – kto obchodzi imieniny w danym dniu",
+  "title": "Kalendarz imienin – kto obchodzi imieniny w danym dniu",
+  "description": "Imiona obchodzące imieniny w każdym dniu roku (od 1 stycznia do 31 grudnia, łącznie z 29 lutego) według polskiego kalendarza imienin, na podstawie artykułów o poszczególnych dniach roku w polskiej Wikipedii.",
+  "category": "time",
+  "source": "https://pl.wikipedia.org/wiki/Imieniny",
+  "source_url": "https://pl.wikipedia.org/wiki/Imieniny",
+  "updated": "2026-11",
+  "record_count": 366,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "miesiac",
+      "label": "Miesiac",
+      "type": "number"
+    },
+    {
+      "key": "dzien",
+      "label": "Dzien",
+      "type": "number"
+    },
+    {
+      "key": "imiona",
+      "label": "Imiona",
+      "type": "string"
+    },
+    {
+      "key": "liczba_imion",
+      "label": "Liczba Imion",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "data": "1 stycznia",
+      "miesiac": 1,
+      "dzien": 1,
+      "imiona": "Almachiusz, Eufrozyna, Fulgencjusz, Fulgenty, Józef, Konkordiusz, Maria, Masław, Miecisław, Mieczysław, Mieczysława, Miesław, Mieszko, Mojsław, Odylon, Odys, Odyseusz, Piotr, Walenty (Walentyn), Wilhelm, Wincenty",
+      "liczba_imion": 21
+    },
+    {
+      "data": "2 stycznia",
+      "miesiac": 1,
+      "dzien": 2,
+      "imiona": "Abel, Achacjusz, Achacy, Adelard, Argea, Argeus, Aspazja, Aspazjusz, Aspazy, Bazyla, Bazyli, Bazyliusz, Dobiemir, Grzegorz, Jakubina, Makary, Marcelin, Martynian, Narcyz, Stefania, Strzeżysław, Sylwester, Sylwestra, Telesfor, Telesfora, Teodor",
+      "liczba_imion": 26
+    },
+    {
+      "data": "3 stycznia",
+      "miesiac": 1,
+      "dzien": 3,
+      "imiona": "Anter, Arleta, Cyriak, Cyryn, Cyryna, Daniel, Danuta, Enoch, Genowefa, Gordiusz, Meliton, Piotr, Pryma, Prymus, Teogenes, Teona, Teonas, Włościsława, Zdzisława",
+      "liczba_imion": 19
+    },
+    {
+      "data": "4 stycznia",
+      "miesiac": 1,
+      "dzien": 4,
+      "imiona": "Aniela, Benedykta, Dafroza, Dobromir, Doroteusz, Elżbieta, Eugeniusz, Fereol, Grzegorz, Krystiana, Rygobert, Suligost, Tytus",
+      "liczba_imion": 13
+    },
+    {
+      "data": "5 stycznia",
+      "miesiac": 1,
+      "dzien": 5,
+      "imiona": "Amata, Amelia, Edward, Edwarda, Emiliana, Eufrazjusz, Jan Nepomucen, Marcelina, Piotr, Roger, Symeon, Szymon, Włościbor",
+      "liczba_imion": 13
+    },
+    {
+      "data": "6 stycznia",
+      "miesiac": 1,
+      "dzien": 6,
+      "imiona": "Andrzej, Baltazar, Bolemir, Epifania, Jędrzej, Kacper, Karol, Kasper, Manomir, Melaniusz, Melchior, Miłowit, Norman, Rafaela, Wiltruda",
+      "liczba_imion": 15
+    },
+    {
+      "data": "7 stycznia",
+      "miesiac": 1,
+      "dzien": 7,
+      "imiona": "Chociesław, Julian, Kanut, Kryspin, Lucjan, Łucjan, Mateusz, Nicetas, Rajmund, Rajmunda, Rajnold, Teodor, Walenty, Walentyn, Wirginia",
+      "liczba_imion": 15
+    },
+    {
+      "data": "8 stycznia",
+      "miesiac": 1,
+      "dzien": 8,
+      "imiona": "Albert, Apolinary, Erhard, Heladia, Heladiusz, Laurencjusz, Laurenty, Maksym, Mroczysław, Mścisław, Seweryn, Teofil, Wawrzyniec",
+      "liczba_imion": 13
+    },
+    {
+      "data": "9 stycznia",
+      "miesiac": 1,
+      "dzien": 9,
+      "imiona": "Adrian, Adrianna, Alicja, Antoni, Bracsław, Julian, Marcelin, Marcjanna, Mścisława, Piotr, Przemir",
+      "liczba_imion": 11
+    },
+    {
+      "data": "10 stycznia",
+      "miesiac": 1,
+      "dzien": 10,
+      "imiona": "Agaton, Anna, Dobrosław, Egidia, Grzegorz, Idzi, Jan, Kolumba, Leonia, Marcjan, Mojmir, Nikanor, Nikanora, Paweł, Petroniusz, Piotr, Wilhelm",
+      "liczba_imion": 17
+    },
+    {
+      "data": "11 stycznia",
+      "miesiac": 1,
+      "dzien": 11,
+      "imiona": "Anastazy, Feliks, Hilary, Honorata, Hortensja, Hortensjusz, Hygin, Krzesimir, Małomir, Matylda, Mechtylda, Melchiades, Odon, Palemon, Palemona, Paulin, Salwiusz, Teodozjusz, Teodozy, Tezeusz, Tomasz",
+      "liczba_imion": 21
+    },
+    {
+      "data": "12 stycznia",
+      "miesiac": 1,
+      "dzien": 12,
+      "imiona": "Aelred, Antoni, Arkadia, Arkadiusz, Arkady, Benedykt, Bernard, Bonet, Bonita, Bonitus, Cezaria, Czasława, Czesława, Ernest, Eutropiusz, Greta, Jan, Małgorzata, Marcin, Piotr, Stomir, Tacjana, Tygriusz, Wiktorian, Wiktoriana",
+      "liczba_imion": 25
+    },
+    {
+      "data": "13 stycznia",
+      "miesiac": 1,
+      "dzien": 13,
+      "imiona": "Bogumił, Bogusąd, Falisław, Glafyra, Godfryd, Gotfryd, Hilary, Judyta, Leoncjusz, Melania, Remigia, Remigiusz, Weronika",
+      "liczba_imion": 13
+    },
+    {
+      "data": "14 stycznia",
+      "miesiac": 1,
+      "dzien": 14,
+      "imiona": "Amadea, Dacjusz, Feliks, Helga, Hilary, Krystiana, Makryna, Malachiasz, Mściwuj, Nina, Odoryk, Piotr, Radogost, Rajner, Sabbas",
+      "liczba_imion": 15
+    },
+    {
+      "data": "15 stycznia",
+      "miesiac": 1,
+      "dzien": 15,
+      "imiona": "Aleksander, Arnold, Dalemir, Dąbrówka, Dobrawa, Domasław, Domosław, Eligia, Eligiusz, Franciszek, Habakuk, Ida, Jan, Makary, Maksym, Maur, Micheasz, Paweł, Piotr, Tarsycja",
+      "liczba_imion": 20
+    },
+    {
+      "data": "16 stycznia",
+      "miesiac": 1,
+      "dzien": 16,
+      "imiona": "Furzeusz, Gonsalwy, Hilary, Honorat, Joanna, Marceli, Otto, Otton, Piotr, Treweriusz, Trzebowit, Tycjan, Tycjana, Waleriusz, Włodzimierz, Włodzimir, Włodzimira",
+      "liczba_imion": 17
+    },
+    {
+      "data": "17 stycznia",
+      "miesiac": 1,
+      "dzien": 17,
+      "imiona": "Alba, Antoni, Jan, Julian, Merul, Przemił, Rosław, Rosława, Rościsław, Rozalinda, Sulpicja, Sulpicjusz, Teodor",
+      "liczba_imion": 13
+    },
+    {
+      "data": "18 stycznia",
+      "miesiac": 1,
+      "dzien": 18,
+      "imiona": "Ammonia, Ammoniusz, Atenogenes, Beatrycze, Bogumił, Krystyna, Liberata, Lubart, Małgorzata, Monika, Pryska, Regina, Sędziwoj, Wenerand, Woluzjan, Zuzanna",
+      "liczba_imion": 16
+    },
+    {
+      "data": "19 stycznia",
+      "miesiac": 1,
+      "dzien": 19,
+      "imiona": "Abundancja, Adalryk, Alderyk, Basjan, Basjana, Bernard, Erwin, Erwina, Eufemia, Germana, Germanik, Geroncjusz, Henryk, Jan, Januariusz, January, Józef, Juliusz, Kaliksta, Kalista, Kanut, Marceli, Mariusz, Marta, Matylda, Paweł, Pia, Poncjan, Racimir, Sara, Saturnin, Wulstan",
+      "liczba_imion": 32
+    },
+    {
+      "data": "20 stycznia",
+      "miesiac": 1,
+      "dzien": 20,
+      "imiona": "Dobiegniew, Dobroniega, Dobrożyźń, Dobrzegniew, Eutymiusz, Euzebiusz, Fabian, Fabiana, Maur, Sebastian",
+      "liczba_imion": 10
+    },
+    {
+      "data": "21 stycznia",
+      "miesiac": 1,
+      "dzien": 21,
+      "imiona": "Agnieszka, Awit, Awita, Długomił, Epifani, Epifaniusz, Eulogia, Eulogiusz, Jan Chrzciciel, Jarosław, Jarosława, Jerosława, Józef, Józefa, Krystiana, Meinrad, Patrokles, Publiusz, Sobiesława",
+      "liczba_imion": 19
+    },
+    {
+      "data": "22 stycznia",
+      "miesiac": 1,
+      "dzien": 22,
+      "imiona": "Anastazy, Dobromysł, Dominik, Dorian, Gaudencjusz, Gaudenty, Jutrogost, Kasandra, Laura, Mateusz, Sulisław, Uriel, Wincenty",
+      "liczba_imion": 13
+    },
+    {
+      "data": "23 stycznia",
+      "miesiac": 1,
+      "dzien": 23,
+      "imiona": "Agatangel, Akwila, Anicet, Aniceta, Bartłomiej, Bernard, Daniel, Emerencja, Filip, Henryk, Ildefons, Jan, Kadok, Klemens, Konstanty, Łukasz, Maksym, Maria, Michał, Onufry, Rajmund, Rajmunda, Sewerian, Uniemir, Wincenty, Wrocsława",
+      "liczba_imion": 26
+    },
+    {
+      "data": "24 stycznia",
+      "miesiac": 1,
+      "dzien": 24,
+      "imiona": "Babilas, Chwalibog, Felicjan, Franciszek Salezy, Ksenia, Milena, Mirogniew, Rafał, Urban, Teodor, Tymoteusz, Wera",
+      "liczba_imion": 12
+    },
+    {
+      "data": "25 stycznia",
+      "miesiac": 1,
+      "dzien": 25,
+      "imiona": "Ananiasz, Apollon, Artemia, Barcław, Emanuel, Emanuela, Juwentyn, Maksym, Miłobor, Miłosz, Paweł, Pęcisława, Projektus",
+      "liczba_imion": 13
+    },
+    {
+      "data": "26 stycznia",
+      "miesiac": 1,
+      "dzien": 26,
+      "imiona": "Andrzej, Ksenofont, Leon, Leona, Małostryj, Paula, Skarbimir, Teogenes, Tymoteusz, Tytus, Żeligniew",
+      "liczba_imion": 11
+    },
+    {
+      "data": "27 stycznia",
+      "miesiac": 1,
+      "dzien": 27,
+      "imiona": "Adalruna, Alruna, Chryzostom, Dacjusz, Datyw, Elwira, Henryk, Jan, Jerzy, Julian, Karolina, Leander, Leandra, Natalis, Ninomysł, Przemysław, Przybysław, Przybyrad, Rozalia, Teodoryk, Witalian",
+      "liczba_imion": 21
+    },
+    {
+      "data": "28 stycznia",
+      "miesiac": 1,
+      "dzien": 28,
+      "imiona": "Augustyn, Blizbor, Boguwola, Flawian, Jakub, Julian, Kalinik, Karol, Krzesąd, Leonid, Manfred, Manfreda, Maria, Olimpia, Piotr, Radomir, Roger, Świedarg, Tomasz, Tyrs, Waleriusz, Walery",
+      "liczba_imion": 22
+    },
+    {
+      "data": "29 stycznia",
+      "miesiac": 1,
+      "dzien": 29,
+      "imiona": "Aniela, Bolesława, Bona, Ewangelina, Gildas, Ismena, Konstancjusz, Maur, Papiasz, Sabrina, Sulpicja, Sulpicjusz, Waleriusz, Wielisława, Zdziesław, Zdzisław, Żelisław",
+      "liczba_imion": 17
+    },
+    {
+      "data": "30 stycznia",
+      "miesiac": 1,
+      "dzien": 30,
+      "imiona": "Adalgunda, Adelajda, Aldegunda, Aleksander, Batylda, Bronisław, Cyntia, Dobiegniew, Dobrogniewa, Feliks, Gerard, Gerarda, Hiacynta, Maciej, Marcin, Martyna, Piotr, Sebastian, Teofil",
+      "liczba_imion": 19
+    },
+    {
+      "data": "31 stycznia",
+      "miesiac": 1,
+      "dzien": 31,
+      "imiona": "Cyrus, Eudoksja, Emma, Euzebiusz, Franciszek Ksawery, Geminian, Jan, Ksawery, Ludwika, Marcela, Melaniusz, Rościgniew, Smysława, Spycigniew",
+      "liczba_imion": 14
+    },
+    {
+      "data": "1 lutego",
+      "miesiac": 2,
+      "dzien": 1,
+      "imiona": "Brygida, Cecyliusz, Dziadumiła, Emil, Paweł, Pioniusz, Piotr, Prosimir, Sewer, Siemirad, Weridiana, Winand, Winanda, Wirydiana, Zybart, Zybert, Zybracht, Zygbert, Żegota",
+      "liczba_imion": 19
+    },
+    {
+      "data": "2 lutego",
+      "miesiac": 2,
+      "dzien": 2,
+      "imiona": "Andrzej, Berwin, Ermentruda, Filip, Franciszek, Gonsalwy, Jan, Joanna, Katarzyna, Kornel, Korneli, Korneliusz, Laurencjusz, Laurenty, Marcin, Maria, Markwart, Mikołaj, Miłosław, Miłosława, Piotr, Stefan, Symeon, Teodoryk, Teofan, Wawrzyniec, Werner",
+      "liczba_imion": 27
+    },
+    {
+      "data": "3 lutego",
+      "miesiac": 2,
+      "dzien": 3,
+      "imiona": "Ansgar, Ansgary, Błażej, Błażeja, Celeryn, Celeryna, Hipolit, Hipolita, Ignacy, Jan, Klaudyna, Maksym, Ofelia, Oskar, Telimena, Uniemysł, Uniesława, Wawrzyniec",
+      "liczba_imion": 18
+    },
+    {
+      "data": "4 lutego",
+      "miesiac": 2,
+      "dzien": 4,
+      "imiona": "Andrzej, Awentyn, Częstogoj, Eustachia, Eustachiusz, Eustachy, Gilbert, Izyda, Izydor, Jan, Joanna, Józef, Mariusz, Weronika, Witosława",
+      "liczba_imion": 15
+    },
+    {
+      "data": "5 lutego",
+      "miesiac": 2,
+      "dzien": 5,
+      "imiona": "Adelajda, Agata, Albwin, Awit, Awita, Dobiemir, Elpin, Indracht, Jakub, Lubodrog, Modest, Przybygniew, Rodomił, Sabbas, Strzeżysława",
+      "liczba_imion": 15
+    },
+    {
+      "data": "6 lutego",
+      "miesiac": 2,
+      "dzien": 6,
+      "imiona": "Amand, Amanda, Antoni, Bogdan, Bogdana, Bohdan, Bohdana, Dorota, Gaston, Joachim, Leon, Leona, Paweł, Szymon, Tytus, Wedast, Zdziewit",
+      "liczba_imion": 17
+    },
+    {
+      "data": "7 lutego",
+      "miesiac": 2,
+      "dzien": 7,
+      "imiona": "Alfons, Antoni, Egidia, Egidiusz, Eugenia, Idzi, Jakub, Jan. Mojżesz, Partenia, Parteniusz, Romeusz, Romuald, Rozalia, Ryszard, Sulimir, Sulisław, Teodor, Wilhelm",
+      "liczba_imion": 18
+    },
+    {
+      "data": "8 lutego",
+      "miesiac": 2,
+      "dzien": 8,
+      "imiona": "Ampeliusz, Gabriela, Gniewomir, Gniewosądka, Hieronim, Honorat, Izajasz, Jan, Józefina, Juwencja, Juwencjusz, Lucjusz, Łucjusz, Mirogniew, Paweł, Piotr, Polikarp, Salomon, Sebastian, Stefan",
+      "liczba_imion": 20
+    },
+    {
+      "data": "9 lutego",
+      "miesiac": 2,
+      "dzien": 9,
+      "imiona": "Ansbert, Apolonia, Bernard, Cyryl, Donat, Felicjan, Gorzysław, Jakub, Marian, Nicefor, Pelagia, Pola, Pryma, Prymus, Reginald, Sabin, Sulisława",
+      "liczba_imion": 17
+    },
+    {
+      "data": "10 lutego",
+      "miesiac": 2,
+      "dzien": 10,
+      "imiona": "Apollon, Gabriel, Haralampia, Haralampiusz, Jacek, Jacenty, Michał, Scholastyka, Sotera, Tomił, Tomisława, Trojan, Wilhelm",
+      "liczba_imion": 13
+    },
+    {
+      "data": "11 lutego",
+      "miesiac": 2,
+      "dzien": 11,
+      "imiona": "Adolf, Adolfa, Benedykt, Bernadeta, Bertrada, Cedmon, Dezyderia, Dezyderiusz, Dezydery, Grzegorz, Heloiza, Jonasz, Lucjusz, Łazarz, Łucjusz, Maria, Olgierd, Paschalis, Sekundyn, Seweryn, Świętomira, Teodora, Wiktoria",
+      "liczba_imion": 23
+    },
+    {
+      "data": "12 lutego",
+      "miesiac": 2,
+      "dzien": 12,
+      "imiona": "Aleksy, Ammonia, Ammoniusz, Ampelia, Ampeliusz, Antoni, Bartłomiej, Benedykt, Bonfilia, Bonfiliusz, Damian, Datyw, Etelwold, Eulalia, Ewa, Feliks, Gaudenty, Gerard, Grzegorz, Hilarion, Hilariona, Humbelina, Jakub, Jan, Julian, Juwencjusz, Laurenty, Ludan, Ludwik, Maryna, Melecjusz, Mikołaj, Modest, Norma, Paweł, Radosław, Saturnin, Saturnina, Tomasz, Trzebiesława",
+      "liczba_imion": 40
+    },
+    {
+      "data": "13 lutego",
+      "miesiac": 2,
+      "dzien": 13,
+      "imiona": "Beatrycze, Benignus, Benigny, Emnilda, Eulogiusz, Fulkran, Gilbert, Grzegorz, Humbelina, Jakub, Jordan, Jordana, Julian, Kastor, Katarzyna, Krystyna, Licyniusz, Martynian, Maura, Paweł, Polieukt, Stefan, Toligniew",
+      "liczba_imion": 23
+    },
+    {
+      "data": "14 lutego",
+      "miesiac": 2,
+      "dzien": 14,
+      "imiona": "Abraham, Adolf, Adolfa, Antonin, Auksencja, Auksencjusz, Auksenty, Cyryl, Dionizja, Dionizy, Dobiesława, Eleukadiusz, Flawian, Florentyn, Jan Chrzciciel, Jerzy, Jordan, Józef, Konrad, Konrada, Krystyna, Liliana, Lilianna, Lilla, Maro, Maron, Metody, Mikołaj, Modest, Niedamir, Niedomira, Niemir, Nostrian, Piotr, Teodozja, Teodozjusz, Teodozy, Walenty, Walentyn, Wincenty, Witalis, Zenon",
+      "liczba_imion": 42
+    },
+    {
+      "data": "15 lutego",
+      "miesiac": 2,
+      "dzien": 15,
+      "imiona": "Faust, Faustyn, Galfryd, Gliceriusz, Glicery, Joachim, Jordan, Jordana, Jowita, Józef, Julia, Klaudiusz, Onezym, Pakosław, Pakosława, Przybyrad, Saturnin, Sewer, Teogenes, Zygfryd, Zygfryda, Żywila",
+      "liczba_imion": 22
+    },
+    {
+      "data": "16 lutego",
+      "miesiac": 2,
+      "dzien": 16,
+      "imiona": "Bernard, Czcisław, Daniel, Danuta, Dominik, Eliasz, Filipa, Flawian, Gilbert, Izajasz, Jarema, Jeremi, Jeremiasz, Julian, Juliana, Julianna, Józef, Ludan, Marcjan, Maria, Marian, Marut, Maruta, Marutas, Mikołaj, Onezym, Pamfil, Porfiriusz, Porfiry, Przedsława, Samuel, Symeon, Szymon, Teodul, Wirydiana, Zoe",
+      "liczba_imion": 36
+    },
+    {
+      "data": "17 lutego",
+      "miesiac": 2,
+      "dzien": 17,
+      "imiona": "Aleksja, Aleksy, Anastazy, Bartłomiej, Benedykt, Bonfilia, Bonfiliusz, Donat, Faustyn, Fintan, Flawian, Franciszek, Gerard, Hermogenes, Hugo, Jan, Julian, Klemens, Konstanty, Łukasz, Marianna, Michał, Niegowoj, Polichroniusz, Reginald, Romulus, Sylwan, Sylwin, Sylwina, Teodulf, Wilhelm, Zbigniew",
+      "liczba_imion": 32
+    },
+    {
+      "data": "18 lutego",
+      "miesiac": 2,
+      "dzien": 18,
+      "imiona": "Agapit, Albert, Aleksander, Antoni, Bernadeta, Flawia, Flawian, Flawiusz, Franciszek, Gertruda, Heladia, Heladiusz, Jan, Klaudiusz, Konstancja, Konstantyna, Kosma, Lucjusz, Łucjusz, Maksym, Marcin, Mojżesz, Sylwan, Symeon, Wespazjan, Więcesława, Wilhelm",
+      "liczba_imion": 27
+    },
+    {
+      "data": "19 lutego",
+      "miesiac": 2,
+      "dzien": 19,
+      "imiona": "Alwar, Arnold, Barbacy, Barbat, Beat, Biecsława, Bonifacy, Czcisław, Gawin, Henryk, Jerzy, Józef, Julian, Konrad, Konrada, Leoncjusz, Łucja, Manswet, Marceli, Publiusz, Tuliusz, Walery",
+      "liczba_imion": 22
+    },
+    {
+      "data": "20 lutego",
+      "miesiac": 2,
+      "dzien": 20,
+      "imiona": "Amata, Aulus, Eleuteria, Eleuteriusz, Eleutery, Elżbieta, Euchariusz, Euchary, Eustachiusz, Eustachy, Falkon, Franciszek, Hiacynta, Jan, Julia, Leon, Leona, Lubomir, Ludomił, Ludomiła, Ludomir, Nila, Nilus, Peleusz, Serapion, Siestrzewit, Sylwan, Ulryk, Walery, Zenobiusz",
+      "liczba_imion": 30
+    },
+    {
+      "data": "21 lutego",
+      "miesiac": 2,
+      "dzien": 21,
+      "imiona": "Eleonora, Eustacjusz, Feliks, Fortunat, Gumbert, Henryka, Kiejstut, Natalis, Pepin, Piotr, Robert, Sewerian, Wyszeniega, Wyszetrop",
+      "liczba_imion": 14
+    },
+    {
+      "data": "22 lutego",
+      "miesiac": 2,
+      "dzien": 22,
+      "imiona": "Arystion, Chociebąd, Jakub, Konkordia, Maksymian, Małgorzata, Marold, Marwald, Nikifor, Papiasz, Paschazy, Wiktor, Wrocisław",
+      "liczba_imion": 13
+    },
+    {
+      "data": "23 lutego",
+      "miesiac": 2,
+      "dzien": 23,
+      "imiona": "Będzimir, Damian, Damiana, Feliks, Florentyn, Izabela, Łazarz, Marta, Milburga, Montan, Polikarp, Prymian, Romana, Stefan",
+      "liczba_imion": 14
+    },
+    {
+      "data": "24 lutego",
+      "miesiac": 2,
+      "dzien": 24,
+      "imiona": "Bogusz, Bogurad, Borzygniew, Ermegarda, Eunika, Flawian, Irmegarda, Jan, Józefa, Julian, Lucjusz, Łucjusz, Maciej, Marek, Modest, Montan, Sergiusz, Wieledrog",
+      "liczba_imion": 18
+    },
+    {
+      "data": "25 lutego",
+      "miesiac": 2,
+      "dzien": 25,
+      "imiona": "Adam, Antonina, Bolebor, Cezariusz, Cezary, Dioskur, Donat, Gromisław, Herena, Just, Konstancjusz, Lubart, Modest, Nicefor, Papiasz, Romeusz, Serapion, Tarazjusz, Tolisław, Tolisława, Walburga, Wiktor, Wiktoryn",
+      "liczba_imion": 23
+    },
+    {
+      "data": "26 lutego",
+      "miesiac": 2,
+      "dzien": 26,
+      "imiona": "Aleksander, Bogumił, Dionizy, Faustynian, Gerlinda, Klaudian, Lutmiar, Lutosława, Mirosław, Mirosława, Nikolina, Nestor, Otokar, Porfiriusz, Porfiry",
+      "liczba_imion": 15
+    },
+    {
+      "data": "27 lutego",
+      "miesiac": 2,
+      "dzien": 27,
+      "imiona": "Achacy, Achacjusz, Anna, Auksencja, Auksencjusz, Auksenty, Baldomer, Baldomera, Bazyli, Gabriel, Honoryna, Julian, Leander, Leandra, Orfeusz, Prokop, Sierosława, Sirosława",
+      "liczba_imion": 18
+    },
+    {
+      "data": "28 lutego",
+      "miesiac": 2,
+      "dzien": 28,
+      "imiona": "Antonia, August (w latach nieprzestępnych), Bogurad, Falibog, Gaja, Gajusz, Hilary, Józef, Kaja, Lech, Ludomir, Makary, Nadbor, Oswald, Roman, Sylwana, Tymoteusz",
+      "liczba_imion": 17
+    },
+    {
+      "data": "29 lutego",
+      "miesiac": 2,
+      "dzien": 29,
+      "imiona": "Antonia, August, Dobrosiodł, Hilary, Oswald, Roman",
+      "liczba_imion": 6
+    },
+    {
+      "data": "1 marca",
+      "miesiac": 3,
+      "dzien": 1,
+      "imiona": "Albin, Aldona, Antoni, Budzisław, Dawid, Eudokia, Feliks, Herakles, Herkulan, Herkules, Joanna, Józef, Leon, Leona, Radosław, Switbert",
+      "liczba_imion": 16
+    },
+    {
+      "data": "2 marca",
+      "miesiac": 3,
+      "dzien": 2,
+      "imiona": "Absalon, Agnieszka, Franciszek, Helena, Henryk, Januaria, Karol, Krzysztof, Łukasz, Michał, Paweł, Prosper, Radosław",
+      "liczba_imion": 13
+    },
+    {
+      "data": "3 marca",
+      "miesiac": 3,
+      "dzien": 3,
+      "imiona": "Agrypin, Asteriusz, Eutropiusz, Gerwin, Gerwina, Hieronim, Innocenty, Jakub, Kamila, Katarzyna, Kleonik, Kleonika, Kolumba, Kunegunda, Maryn, Maryniusz, Piotr, Samuel, Teodor, Teresa, Tycjan, Tycjana, Wirzchosława",
+      "liczba_imion": 23
+    },
+    {
+      "data": "4 marca",
+      "miesiac": 3,
+      "dzien": 4,
+      "imiona": "Adrian, Adrianna, Arkadia, Arkadiusz, Arkady, Gerard, Gerarda, Humbert, Jakubina, Kazimierz, Leonard, Lucjusz, Łucjusz, Nestor, Piotr, Placyda, Witosław",
+      "liczba_imion": 17
+    },
+    {
+      "data": "5 marca",
+      "miesiac": 3,
+      "dzien": 5,
+      "imiona": "Adrian, Adrianna, Adriana, Fokas, Fryderyk, Gerazym, Jan, Jeremiasz, Konon, Krzysztof, Marek, Oliwia, Pakosław, Teofil, Wergilia, Wergiliusz, Wirgilia, Wirgiliusz, Wolimir",
+      "liczba_imion": 19
+    },
+    {
+      "data": "6 marca",
+      "miesiac": 3,
+      "dzien": 6,
+      "imiona": "Będzimysł, Biedrzysław, Cymbarka, Cyryl, Eugenia, Frydolin, Jordan, Jordana, Koleta, Konon, Róża, Wiktor",
+      "liczba_imion": 12
+    },
+    {
+      "data": "7 marca",
+      "miesiac": 3,
+      "dzien": 7,
+      "imiona": "Bazyli, Efrem, Elpidia, Elpidiusz, Eubul, Eugeniusz, Felicyta, German, Morzysław, Nadmir, Paweł, Perpetua, Teofilakt, Teresa, Tomasz (w przypadku Tomasza jest to data sprzed reformy kalendarza liturgicznego, obecnie przeniesiona na 28 stycznia)",
+      "liczba_imion": 16
+    },
+    {
+      "data": "8 marca",
+      "miesiac": 3,
+      "dzien": 8,
+      "imiona": "Antoni, Apoloniusz, Arian, Beata, Feliks, Filemon, Filemona, Franciszek, Herenia, Jan, Julian, Miłogost, Poncjusz, Stefan, Szymon, Teotyk, Wincenty",
+      "liczba_imion": 17
+    },
+    {
+      "data": "9 marca",
+      "miesiac": 3,
+      "dzien": 9,
+      "imiona": "Dominik, Franciszka, Grzegorz, Kandyd, Katarzyna, Mścisława, Przemyślibor, Samanta",
+      "liczba_imion": 8
+    },
+    {
+      "data": "10 marca",
+      "miesiac": 3,
+      "dzien": 10,
+      "imiona": "Aleksander, Cyprian, Eugenia, Gaja, Gajusz, Makary, Piotr, Porfirion, Symplicjusz, Symplicy, Zwnisława",
+      "liczba_imion": 11
+    },
+    {
+      "data": "11 marca",
+      "miesiac": 3,
+      "dzien": 11,
+      "imiona": "Balbina, Benedykt, Dominik, Drogosława, Eulogiusz, Eutymiusz, Jan, Kandyd, Konstanty, Konstantyn, Nawoj, Sofroniusz, Sylwia, Świetlana, Tala, Talus, Teresa, Trofim",
+      "liczba_imion": 18
+    },
+    {
+      "data": "12 marca",
+      "miesiac": 3,
+      "dzien": 12,
+      "imiona": "Alojzy, Bernard, Blizbor, Grzegorz, Innocenty, Józefina, Justyna, Maksymilian, Piotr, Teofan",
+      "liczba_imion": 10
+    },
+    {
+      "data": "13 marca",
+      "miesiac": 3,
+      "dzien": 13,
+      "imiona": "Anioł, Bożena, Bratomir, Cieszymysł, Ernest, Kasjan, Krystyna, Letycja, Marek, Patrycja, Roderyk, Sabin, Salomon, Trzebiesław, Trzebisław",
+      "liczba_imion": 15
+    },
+    {
+      "data": "14 marca",
+      "miesiac": 3,
+      "dzien": 14,
+      "imiona": "Afrodyzja, Afrodyzjusz, Afrodyzy, Bożeciecha, Eutychiusz, Ewa, Fawila, Jakub, Leon, Leona, Łazarz, Matylda, Piotr, Pamela",
+      "liczba_imion": 14
+    },
+    {
+      "data": "15 marca",
+      "miesiac": 3,
+      "dzien": 15,
+      "imiona": "Gościmir, Heloiza, Klemens, Krzysztof, Leokrycja, Longin, Longina, Ludwika, Luiza, Matrona, Nikander, Nikandra, Placyd, Probus, Zachariasz, Zachary",
+      "liczba_imion": 16
+    },
+    {
+      "data": "16 marca",
+      "miesiac": 3,
+      "dzien": 16,
+      "imiona": "Abraham, Agapit, Antoni, Artemia, Budzimir, Cyriak, Dzirżyterg, Gabriel, Herbert, Herybert, Hiacynt, Hilary, Izabela, Julian, Karol, Longin, Miłostryj, Natalis, Przybymir, Walenty, Walentyn",
+      "liczba_imion": 21
+    },
+    {
+      "data": "17 marca",
+      "miesiac": 3,
+      "dzien": 17,
+      "imiona": "Agrykola, Ambroży, Cieszysław, Gertruda, Józef, Patrycjusz, Patrycy, Patryk, Paweł, Regina, Witburga, Zbigniew, Zbygniew, Zbygniewa",
+      "liczba_imion": 14
+    },
+    {
+      "data": "18 marca",
+      "miesiac": 3,
+      "dzien": 18,
+      "imiona": "Aleksander, Anzelm, Boguchwał, Boguchwała, Celestyna, Cyryl, Edward, Edwarda, Feliks, Krystian, Marta, Narcyz, Salwator, Trofim",
+      "liczba_imion": 14
+    },
+    {
+      "data": "19 marca",
+      "miesiac": 3,
+      "dzien": 19,
+      "imiona": "Bogdan, Bogodan, Bohdan, Jan, Józef, Leoncjusz, Marceli, Marek, Narcyz, Sybillina",
+      "liczba_imion": 10
+    },
+    {
+      "data": "20 marca",
+      "miesiac": 3,
+      "dzien": 20,
+      "imiona": "Aleksander, Aleksandra, Ambroży, Anatol, Archip, Bogusław, Cyriaka, Ermegarda, Eufemia, Fotyna, Hipolit, Irmegarda, Józefa, Klaudia, Klemens, Kutbert, Matrona, Maurycy, Nicetas, Rafał, Wincenty, Wolfram",
+      "liczba_imion": 22
+    },
+    {
+      "data": "21 marca",
+      "miesiac": 3,
+      "dzien": 21,
+      "imiona": "Benedykta, Filemon, Filemona, Klemencja, Lubomir, Ludomir, Ludomira, Mikołaj, Pafnucy, Serapion, Teodul",
+      "liczba_imion": 11
+    },
+    {
+      "data": "22 marca",
+      "miesiac": 3,
+      "dzien": 22,
+      "imiona": "August, Baldwin, Baldwina, Bazyli, Benwenut, Boguchwał, Bogusław, Bogusława, Godzisław, Katarzyna, Kazimierz, Lea, Oktawian, Paweł, Zachariasz, Zachary",
+      "liczba_imion": 16
+    },
+    {
+      "data": "23 marca",
+      "miesiac": 3,
+      "dzien": 23,
+      "imiona": "Benedykt, Eberhard, Feliks, Józef, Nikon, Pelagia, Piotra, Rebeka, Turybiusz, Wiktorian, Wiktoriana, Wiktorianna, Zbysław",
+      "liczba_imion": 13
+    },
+    {
+      "data": "24 marca",
+      "miesiac": 3,
+      "dzien": 24,
+      "imiona": "Ademar, Aldmir, Aleksander, Bertrada, Dionizy, Dydak, Dzierżysław, Dzierżysława, Dziesława, Dzirżysława, Gabriel, Jan, Józef, Katarzyna, Marek, Oldmir, Romulus, Sewer, Sofroniusz, Szymon",
+      "liczba_imion": 20
+    },
+    {
+      "data": "25 marca",
+      "miesiac": 3,
+      "dzien": 25,
+      "imiona": "Anuncjata, Baroncjusz, Dezyderiusz, Dezydery, Dula, Dyzma, Ireneusz, Jozafata, Kwiryn, Lucja, Lutogniew, Lutomysł, Łucja, Małgorzata, Maria, Mariola, Nikodema, Pelagiusz, Prokop, Sławobora, Wolimir",
+      "liczba_imion": 21
+    },
+    {
+      "data": "26 marca",
+      "miesiac": 3,
+      "dzien": 26,
+      "imiona": "Bazyli, Dyzma, Emanuel, Emanuela, Eutychiusz, Feliks, Kwadrat, Larysa, Ludger, Manuela, Montan, Nicefor, Teodor, Teodozjusz, Teodozy, Tworzymir",
+      "liczba_imion": 16
+    },
+    {
+      "data": "27 marca",
+      "miesiac": 3,
+      "dzien": 27,
+      "imiona": "Aleksander, Archibald, Augusta, Benedykt, Ernest, Franciszek, Gelazy, Gelazja, Jan, Lidia, Łazarz, Macedoniusz, Narzes, Robert, Rzędzimir",
+      "liczba_imion": 15
+    },
+    {
+      "data": "28 marca",
+      "miesiac": 3,
+      "dzien": 28,
+      "imiona": "Aleksander, Doroteusz, Gedeon, Guntram, Hilarion, Ingbert, Joanna, Kastor, Krzesisław, Krzysław, Malachiasz, Malkolm, Pryskus, Renata, Rogacjusz, Rogat, Stefan",
+      "liczba_imion": 17
+    },
+    {
+      "data": "29 marca",
+      "miesiac": 3,
+      "dzien": 29,
+      "imiona": "Bertold, Cyryl, Eustacjusz, Eustazja, Eustazjusz, Eustazy, Ludolf, Ludolfina, Marek, Satur, Satura, Stefan, Teodor, Wiktoryn, Helmut",
+      "liczba_imion": 15
+    },
+    {
+      "data": "30 marca",
+      "miesiac": 3,
+      "dzien": 30,
+      "imiona": "Amadea, Amadeusz, Amelia, Aniela, Częstobor, Dobromier, Jan, Joachim, Kwiryn, Kwiryna, Leonard, Litobor, Mamertyn, Mamertyna, Piotr, Sekundus, Zozym",
+      "liczba_imion": 17
+    },
+    {
+      "data": "31 marca",
+      "miesiac": 3,
+      "dzien": 31,
+      "imiona": "Achacjusz, Achacy, Amos, Balbina, Beniamin, Bonawentura, Dobromiera, Dobromira, Gwido, Gwidon, Joanna, Kornelia, Myślidar",
+      "liczba_imion": 13
+    },
+    {
+      "data": "1 kwietnia",
+      "miesiac": 4,
+      "dzien": 1,
+      "imiona": "Celzjusz, Chionia, Florentyn, Grażyna, Hugo, Hugon, Irena, Jakubina, Katarzyna, Makary, Meliton, Miłość, Teodora, Tomasz, Tomisław, Wenancjusz, Wenanty, Zbigniew",
+      "liczba_imion": 18
+    },
+    {
+      "data": "2 kwietnia",
+      "miesiac": 4,
+      "dzien": 2,
+      "imiona": "Aaron, Abundiusz, Franciszek, Irmina, Laurencja, Leopold, Leopolda, Maria, Miłobąd, Samosąd, Teodozja, Urban, Wiktor",
+      "liczba_imion": 13
+    },
+    {
+      "data": "3 kwietnia",
+      "miesiac": 4,
+      "dzien": 3,
+      "imiona": "Antoni, Benedykt, Cieszygor, Eutychia, Gandolf, Gandulf, Izbygniew, Izbygniewa, Jakub, Jan, Józef, Nicetas, Pankracy, Ryszard, Sykstus, Winicjusz",
+      "liczba_imion": 16
+    },
+    {
+      "data": "4 kwietnia",
+      "miesiac": 4,
+      "dzien": 4,
+      "imiona": "Adelajda, Ambroży, Benedykt, Izydor, Józef, Platon, Teodul, Teodulf, Wyszeniega, Zdziemir, Zdzimir",
+      "liczba_imion": 11
+    },
+    {
+      "data": "5 kwietnia",
+      "miesiac": 4,
+      "dzien": 5,
+      "imiona": "Borzywoj, Irena, Izbor, Jeremi, Jeremiasz, Julianna, Katarzyna, Krescencja, Maria, Tristan, Wincenty",
+      "liczba_imion": 11
+    },
+    {
+      "data": "6 kwietnia",
+      "miesiac": 4,
+      "dzien": 6,
+      "imiona": "Ada, Adam, Celestyna, Diogenes, Filaret, Ireneusz, Izolda, Katarzyna, Marcelin, Michał, Notger, Notker, Piotra, Platonida, Prudencjusz, Sieciesława, Świętobor, Tymoteusz, Wilhelm, Zachary, Zachariasz, Zefiryn",
+      "liczba_imion": 22
+    },
+    {
+      "data": "7 kwietnia",
+      "miesiac": 4,
+      "dzien": 7,
+      "imiona": "Asumpta, Donat, Epifaniusz, Hegezyp, Herman, Jan Chrzciciel, Józef, Krystian, Maria, Niestanka, Przedsław",
+      "liczba_imion": 11
+    },
+    {
+      "data": "8 kwietnia",
+      "miesiac": 4,
+      "dzien": 8,
+      "imiona": "Amancjusz, Apolinary, Asynkryt, August, Cezary, Cezaryna, Dionizy, Ema, Emma, Herodion, January, Julia, Julian, Makaria, Maksyma, Perpet, Perpetuus, Radosław, Walter",
+      "liczba_imion": 19
+    },
+    {
+      "data": "9 kwietnia",
+      "miesiac": 4,
+      "dzien": 9,
+      "imiona": "Achacy, Achacjusz, Antoni, Celestyna, Demetria, Demetriusz, Dobrosława, Dominika, Duszan, Eupsychia, Eupsychiusz, Franciszek, Heliodor, Hilary, Hilaria, Hugo, Innocenty, Kasylda, Katarzyna, Konrad, Maja, Marceli, Maria, Matron, Notger, Prochor, Reginald, Tankred, Tomasz, Ubald, Wadim, Waldetruda, Walter",
+      "liczba_imion": 33
+    },
+    {
+      "data": "10 kwietnia",
+      "miesiac": 4,
+      "dzien": 10,
+      "imiona": "Afrykan, Antoni, Apoloniusz, Daniel, Ezechiel, Fulbert, Grodzisław, Henryk, Magdalena, Makary, Małgorzata, Marek, Michał, Notger, Paladiusz, Pompejusz, Terencjusz",
+      "liczba_imion": 17
+    },
+    {
+      "data": "11 kwietnia",
+      "miesiac": 4,
+      "dzien": 11,
+      "imiona": "Anioł, Antypas, Antypater, Arleta, Filip, Gemma, Helena, Herman, Hildebrand, Hildebranda, Izaak, Jaromir, Leon, Leona, Rajner",
+      "liczba_imion": 15
+    },
+    {
+      "data": "12 kwietnia",
+      "miesiac": 4,
+      "dzien": 12,
+      "imiona": "Andrzej, Damian, Józef, Juliusz, Konstanty, Konstantyn, Sabbas, Siemidrog, Teresa, Wiktor, Zenon, Zenona",
+      "liczba_imion": 12
+    },
+    {
+      "data": "13 kwietnia",
+      "miesiac": 4,
+      "dzien": 13,
+      "imiona": "Agatonika, Długomił, Hermenegild, Hermenegilda, Ida, Jan, Justyn, Karp, Kwintylian, Maksym, Małgorzata, Marcin, Marcjusz, Przemysł, Przemysław, Przemysława, Ursus",
+      "liczba_imion": 17
+    },
+    {
+      "data": "14 kwietnia",
+      "miesiac": 4,
+      "dzien": 14,
+      "imiona": "Ardalion, Ernestyna, Izabela, Jadwiga, Julianna, Justyna, Krzysztof, Lambert, Lamberta, Lawinia, Lawiniusz, Maksym, Maria, Myślimir, Piotr, Symplicja, Tomaida, Trofim, Tyburcja, Tyburcjusz, Tyburcy, Walerian",
+      "liczba_imion": 22
+    },
+    {
+      "data": "15 kwietnia",
+      "miesiac": 4,
+      "dzien": 15,
+      "imiona": "Abel, Anastazja, Bazylisa, Cezariusz, Cezary, Eutyches, Maksym, Maro, Maron, Modest, Olimpia, Piotr, Potencjana, Potencjanna, Rodan, Sylwester, Sylwestra, Teodor, Tytus, Wiktoryn, Wszegniew",
+      "liczba_imion": 21
+    },
+    {
+      "data": "16 kwietnia",
+      "miesiac": 4,
+      "dzien": 16,
+      "imiona": "Benedykt, Bernadeta, Cecylian, Charyzjusz, Erwin, Erwina, Feliks, Julia, Joachim, Kalikst, Kwintylian, Lambert, Lamberta, Leonid, Marcjalis, Optat, Publiusz, Radochna, Saturnin, Turybiusz, Urban",
+      "liczba_imion": 21
+    },
+    {
+      "data": "17 kwietnia",
+      "miesiac": 4,
+      "dzien": 17,
+      "imiona": "Anicet, Aniceta, Eliasz, Innocenty, Izydor, Izydora, Jakub, Józef, Katarzyna, Klara, Paweł, Radociech, Robert, Roberta, Rudolf, Salwator, Teodora",
+      "liczba_imion": 17
+    },
+    {
+      "data": "18 kwietnia",
+      "miesiac": 4,
+      "dzien": 18,
+      "imiona": "Alicja, Apoloniusz, Barbara, Bogusław, Bogusława, Eleuteria, Eleuteriusz, Eleutery, Flawiusz, Gosław, Gosława, Gościsław, Maria, Ryszard, Sabina",
+      "liczba_imion": 15
+    },
+    {
+      "data": "19 kwietnia",
+      "miesiac": 4,
+      "dzien": 19,
+      "imiona": "Cieszyrad, Czesław, Dionizjusz, Dionizy, Ekspedyt, Ekspedyta, Elfeg, Ema, Emma, Irydion, Jerzy, Konrad, Krescencjusz, Krescens, Krescenty, Leon, Leona, Leontyna, Pafnucy, Tymon, Sokrates, Wierzyn, Wigilia, Wincenty, Włodzimir",
+      "liczba_imion": 25
+    },
+    {
+      "data": "20 kwietnia",
+      "miesiac": 4,
+      "dzien": 20,
+      "imiona": "Agnieszka, Amalia, Antonin, Berenika, Czesław, Jagna, Nawoj, Marcelin, Marcjan, Sekundyn, Sewerian, Sulpicjusz, Szymon, Teodor, Teotym, Ursycyn, Wiktor, Zenon, Zotyk",
+      "liczba_imion": 19
+    },
+    {
+      "data": "21 kwietnia",
+      "miesiac": 4,
+      "dzien": 21,
+      "imiona": "Abelard, Aleksandra, Anastazy, Anzelm, Apollina, Apollon, Apoloniusz, Bartłomiej, Bartosz, Dobrosułka, Drogomił, Feliks, Konrad, Konrada, Roman, Żelisław",
+      "liczba_imion": 16
+    },
+    {
+      "data": "22 kwietnia",
+      "miesiac": 4,
+      "dzien": 22,
+      "imiona": "Agapit, Aital, Gaja, Gajusz, Kaja, Leon, Leona, Leonid, Leonida, Lucjusz, Łucjusz, Łukasz, Soter, Strzeżymir, Teodor, Wanesa, Wirginiusz",
+      "liczba_imion": 17
+    },
+    {
+      "data": "23 kwietnia",
+      "miesiac": 4,
+      "dzien": 23,
+      "imiona": "Achilles, Adalbert, Egidia, Feliks, Fortunat, Gabriela, Gerard, Gerarda, Helena, Idzi, Ilona, Jerzy, Lena, Maria, Marol, Wojciech, Wojciecha",
+      "liczba_imion": 17
+    },
+    {
+      "data": "24 kwietnia",
+      "miesiac": 4,
+      "dzien": 24,
+      "imiona": "Aleksander, Aleksy, Antym, Bona, Doda, Egbert, Erwin, Erwina, Euzebiusz, Fidelis, Gaston, Grzegorz, Honoriusz, Horacjusz, Horacy, Jerzy, Leoncjusz, Longin, Longina, Maria, Sabbas, Tyberiusz, Zbywoj",
+      "liczba_imion": 23
+    },
+    {
+      "data": "25 kwietnia",
+      "miesiac": 4,
+      "dzien": 25,
+      "imiona": "Anian, Ewodia, Ewodiusz, Filon, Filona, Franciszka, Hermogenes, Jarosław, Kaliksta, Kalista, Marek, Markusław, Piotr, Radociech, Rustyk, Rustyka, Stefan, Włodzimira",
+      "liczba_imion": 18
+    },
+    {
+      "data": "26 kwietnia",
+      "miesiac": 4,
+      "dzien": 26,
+      "imiona": "Artemon, Aureliusz, Dominik, Erwina, Grzegorz, Klarencjusz, Klet, Lucydiusz, Marcelin, Mariusz, Marzena, Paschazy, Ryszard, Spycimir",
+      "liczba_imion": 14
+    },
+    {
+      "data": "27 kwietnia",
+      "miesiac": 4,
+      "dzien": 27,
+      "imiona": "Anastazy, Bożebor, Felicja, Jakub, Jan, Józef, Kanizjusz, Marcin, Ożanna, Piotr, Teodor, Teofil, Tertulian, Tertuliana, Zyta, Żelimysł",
+      "liczba_imion": 16
+    },
+    {
+      "data": "28 kwietnia",
+      "miesiac": 4,
+      "dzien": 28,
+      "imiona": "Achacjusz, Achacy, Afrodyzja, Afrodyzjusz, Afrodyzy, Arystarch, Dydym, Dydymus, Hanna, Joanna, Ludwik, Marek, Maria, Menander, Pamfil, Patrycjusz, Patrycy, Paweł, Piotr, Przybycześć, Teodora, Waleria, Witalis",
+      "liczba_imion": 23
+    },
+    {
+      "data": "29 kwietnia",
+      "miesiac": 4,
+      "dzien": 29,
+      "imiona": "Angelina, Antonia, Augustyn, Bogusław, Emilian, Ermentruda, Hugo, Hugon, Katarzyna, Krystyn, Myślimir, Paulin, Piotr, Robert, Roberta, Ryta, Sewer, Tertulia, Tychik",
+      "liczba_imion": 19
+    },
+    {
+      "data": "30 kwietnia",
+      "miesiac": 4,
+      "dzien": 30,
+      "imiona": "Afrodyzja, Afrodyzjusz, Afrodyzy, Andrea, Bartłomiej, Benedykt, Chwalisława, Donat, Eutropiusz, Jakub, Józef, Katarzyna, Kwiryn, Lilla, Ludwik, Maksencja, Maksym, Maria, Marian, Piotr, Pius, Pomponiusz, Rozamunda, Wawrzyniec",
+      "liczba_imion": 24
+    },
+    {
+      "data": "1 maja",
+      "miesiac": 5,
+      "dzien": 1,
+      "imiona": "Aniela, Asaf, Berta, Briok, Floryna, Izydora, Jakub, Jeremi, Jeremiasz, Józef, Julian, Lubomir, Maja, Orencjusz, Peregryn, Petronela, Tamara, Wiwald",
+      "liczba_imion": 18
+    },
+    {
+      "data": "2 maja",
+      "miesiac": 5,
+      "dzien": 2,
+      "imiona": "Anatol, Anatoliusz, Atanazy, Borys, Cyriak, Częstowoj, Eksuperiusz, Gwalbert, Teodulf, Walbert, Waldebert, Walentyn, Walter, Zoe, Zygmunt, Zygmunta",
+      "liczba_imion": 16
+    },
+    {
+      "data": "3 maja",
+      "miesiac": 5,
+      "dzien": 3,
+      "imiona": "Aleksander, Alodia, Antonina, Diodor, Diodora, Juwenalis, Leonia, Maria, Mariola, Maura, Piotr, Świętosława, Teodul, Teodulf, Tymoteusz, Wirzchosława, Wiola",
+      "liczba_imion": 17
+    },
+    {
+      "data": "4 maja",
+      "miesiac": 5,
+      "dzien": 4,
+      "imiona": "Antonina, Damian, Damiana, Florian, Gościwit, Gotard, Grzegorz, January, Kasjan, Leonida, Lucyla, Michał, Paulin, Pelagia, Tekla, Teodora, Strzedziwoj, Sylwan, Wespazjan",
+      "liczba_imion": 19
+    },
+    {
+      "data": "5 maja",
+      "miesiac": 5,
+      "dzien": 5,
+      "imiona": "Anioł, Benwenut, Chociemir, Eulogia, Eulogiusz, Eutymiusz, Geroncjusz, Gotard, Hilary, Irena, Ireneusz, Iryda, Jowinian, Maksym, Nicetas, Penelopa, Peregryn, Pius, Stanisław, Stanisława, Teodor, Waldemar, Zdzibor, Zdziebor",
+      "liczba_imion": 24
+    },
+    {
+      "data": "6 maja",
+      "miesiac": 5,
+      "dzien": 6,
+      "imiona": "Bartłomiej, Benedykta, Domagniew, Edbert, Ewodia, Ewodiusz, Filip, Franciszek, Jakub, Jan, Judyta, Jurand, Miłodrog, Placyd, Teodot",
+      "liczba_imion": 15
+    },
+    {
+      "data": "7 maja",
+      "miesiac": 5,
+      "dzien": 7,
+      "imiona": "August, Bogdała, Domicela, Domicjan, Domicjana, Flawia, Florian, Gizela, Jan, Ludmiła, Ludomiła, Ludomira, Piotr, Róża, Stanimir, Wincenty",
+      "liczba_imion": 16
+    },
+    {
+      "data": "8 maja",
+      "miesiac": 5,
+      "dzien": 8,
+      "imiona": "Achacjusz, Achacy, Amat, Arseniusz, Benedykt, Bonifacy, Dezyderia, Dionizy, Heladia, Heladiusz, Ida, Michał, Stanisław, Stanisława, Ulryka, Wiktor, Wiro",
+      "liczba_imion": 17
+    },
+    {
+      "data": "9 maja",
+      "miesiac": 5,
+      "dzien": 9,
+      "imiona": "Beat, Geroncjusz, Grzegorz, Hiacynta, Hiob, Karolina, Mikołaj, Maria, Otokar, Pachomiusz, Przebor, Stefan",
+      "liczba_imion": 12
+    },
+    {
+      "data": "10 maja",
+      "miesiac": 5,
+      "dzien": 10,
+      "imiona": "Antonin, Beatrycze, Blanda, Celzjusz, Chociesław, Chocsław, Cyryn, Cyryna, Częstomir, Epimach, Feliks, Filadelf, Filadelfia, Gordian, Gordiana, Innocenty, Jan, Łazarz, Nazariusz, Nazary, Samuel, Sofronia, Sylwester, Sylwestra, Symplicjusz, Symplicy, Wiktoryna",
+      "liczba_imion": 27
+    },
+    {
+      "data": "11 maja",
+      "miesiac": 5,
+      "dzien": 11,
+      "imiona": "Adalbert, Albert, Alojzy, Antym, Benedykt, Berta, Fabiusz, Filip, Franciszek, Gwalbert, Ignacy, Lutogniew, Majol, Majola, Maksym, Mamert, Mamerta, Miranda, Stella, Syzyniusz, Tadea, Tadeusz, Walbert, Waldebert, Zuzanna",
+      "liczba_imion": 25
+    },
+    {
+      "data": "12 maja",
+      "miesiac": 5,
+      "dzien": 12,
+      "imiona": "Achilles, Domicela, Domicjan, Domicjana, Dominik, Epifaniusz, Flawia, German, Imelda, Jan, Jazon, Joanna, Nawoja, Nereusz, Pankracy, Plautylla, Teodora, Wszemił",
+      "liczba_imion": 18
+    },
+    {
+      "data": "13 maja",
+      "miesiac": 5,
+      "dzien": 13,
+      "imiona": "Agnieszka, Aaron, Ciechosław, Cieszmir, Dobiesław, Dobiesława, Gemma, Gerard, Gerarda, Gliceria, Gloria, Jan, Magdalena, Maria, Mucjusz, Natal, Robert, Roberta, Serwacy",
+      "liczba_imion": 19
+    },
+    {
+      "data": "14 maja",
+      "miesiac": 5,
+      "dzien": 14,
+      "imiona": "Ampelia, Ampeliusz, Bonifacy, Dominika, Egidia, Fenenna, Idzi, Izydor, Jeremi, Jeremiasz, Koryna, Maciej, Maria, Michał, Wiktor",
+      "liczba_imion": 15
+    },
+    {
+      "data": "15 maja",
+      "miesiac": 5,
+      "dzien": 15,
+      "imiona": "Atanazy, Cecyliusz, Czcibora, Dionizja, Florencjusz, Florenty, Izydor, Jan, Kasjusz, Maksym, Miłość, Nadzieja, Paweł, Piotr, Retycjusz, Retycja, Retyk, Robert, Stanibor, Strzeżysław, Symplicjusz, Symplicja, Wiktoryn, Zofia",
+      "liczba_imion": 24
+    },
+    {
+      "data": "16 maja",
+      "miesiac": 5,
+      "dzien": 16,
+      "imiona": "Adam, Adamina, Andromacha, Andrzej, Brendan, Fidol, Germeriusz, Honorat, Jan Nepomucen, Jędrzej, Peregryn, Rambert, Szymon, Trzebiemysł, Ubald, Wiktorian, Wiktoriana, Wiktorianna",
+      "liczba_imion": 18
+    },
+    {
+      "data": "17 maja",
+      "miesiac": 5,
+      "dzien": 17,
+      "imiona": "Antonia, Bruno, Brunon, Chwalimir, Falimir, Herakliusz, Montan, Paschalis, Sławoj, Sławomir, Weronika, Wiktor, Wilhelm, Wrocsława",
+      "liczba_imion": 14
+    },
+    {
+      "data": "18 maja",
+      "miesiac": 5,
+      "dzien": 18,
+      "imiona": "Aleksandra, Alicja, Eryk, Eryka, Eufrazja, Faina, Feliks, Jan, Julita, Klaudia, Liberiusz, Matrona, Myślibor, Sandra, Teodot, Wenancjusz",
+      "liczba_imion": 16
+    },
+    {
+      "data": "19 maja",
+      "miesiac": 5,
+      "dzien": 19,
+      "imiona": "Augustyn, Bernarda, Celestyn, Cyriaka, Dunstan, Iwo, Iwon, Iwona, Jan, Kryspin, Mikołaj, Pękosław, Pękosława, Piotr, Potencjana, Potencjanna, Pudencjana, Pudencjanna, Urban, Teofil",
+      "liczba_imion": 20
+    },
+    {
+      "data": "20 maja",
+      "miesiac": 5,
+      "dzien": 20,
+      "imiona": "Aleksander, Asteriusz, Anastazy, Bernardyn, Bromir, Bronimir, Bronisąd, Elfryda, Józefa, Karol, Kolumba, Rymwid, Saturnina, Taleleusz, Teodor, Wiktoria",
+      "liczba_imion": 16
+    },
+    {
+      "data": "21 maja",
+      "miesiac": 5,
+      "dzien": 21,
+      "imiona": "Antioch, Donat, Jan Nepomucen, Krzysztof, Piotr, Polieukt, Przecława, Rycheza, Ryksa, Serapion, Synezjusz, Teobald, Tymoteusz, Wiktor, Wszemir",
+      "liczba_imion": 15
+    },
+    {
+      "data": "22 maja",
+      "miesiac": 5,
+      "dzien": 22,
+      "imiona": "Dorian, Emil, Fulko, Helena, Jan, Julia, Krzesisława, Marcjan, Roman, Ryta, Wiesław, Wiesława, Wisława",
+      "liczba_imion": 13
+    },
+    {
+      "data": "23 maja",
+      "miesiac": 5,
+      "dzien": 23,
+      "imiona": "Bolelut, Budziwoj, Dezyderia, Dezyderiusz, Dezydery, Emilia, Eufrozyna, Eutychiusz, Gwibert, Jan, Julian, Lucjusz, Łucjusz, Michał, Symeon, Wibert",
+      "liczba_imion": 16
+    },
+    {
+      "data": "24 maja",
+      "miesiac": 5,
+      "dzien": 24,
+      "imiona": "Amalia, Dagmara, Dawid, Donacjan, Franciszek, Jan, Joanna, Ludwik, Maria, Milena, Orion, Tomira, Ubysława, Wanesa, Wincenty, Zuzanna",
+      "liczba_imion": 16
+    },
+    {
+      "data": "25 maja",
+      "miesiac": 5,
+      "dzien": 25,
+      "imiona": "Aldhelm, Beda, Borzysław, Dionizy, Grzegorz, Heladia, Heladiusz, Imisława, Joanna, Leon, Leona, Magda, Magdalena, Marcjana, Mariusz, Wenerand, Zenobiusz",
+      "liczba_imion": 17
+    },
+    {
+      "data": "26 maja",
+      "miesiac": 5,
+      "dzien": 26,
+      "imiona": "Adalwin, Adalwina, Alwin, Alwina, Angelika, Eleuteria, Eleuteriusz, Eleutery, Emil, Ewelina, Filip, Filip Neriusz, Karp, Kwadrat, Lambert, Lamberta, Paulina, Teodor, Więcemił, Zachariasz, Zachary",
+      "liczba_imion": 21
+    },
+    {
+      "data": "27 maja",
+      "miesiac": 5,
+      "dzien": 27,
+      "imiona": "Augustyn, Eutropiusz, Fryderyk, Fryderyka, Jan, Julian, Juliusz, Lucjan, Magdalena, Małgorzata, Oliwer, Oliwier, Radowit, Świętobor",
+      "liczba_imion": 14
+    },
+    {
+      "data": "28 maja",
+      "miesiac": 5,
+      "dzien": 28,
+      "imiona": "Augustyn, Balladyna, Bogurad, Emil, German, Heladia, Heladiusz, Herkulan, Ignacy, Jaromir, Just, Lucjusz, Łucjusz, Maria, Wiktor, Wilhelm, Wolrad",
+      "liczba_imion": 17
+    },
+    {
+      "data": "29 maja",
+      "miesiac": 5,
+      "dzien": 29,
+      "imiona": "Aleksander, Andrzej, Bogusław, Ermentruda, Izbylut, Magdalena, Maksymin, Maksymina, Piotr, Rajmund, Rajmunda, Stefan, Syzyniusz, Urszula, Wilhelm",
+      "liczba_imion": 15
+    },
+    {
+      "data": "30 maja",
+      "miesiac": 5,
+      "dzien": 30,
+      "imiona": "Andronik, Anastazy, Andrzej, Bazyli, Bolemysł, Brodzisław, Eksuperancjusz, Feliks, Ferdynand, Gawin, Jan, Joanna, Mirogniew, Suligniewa, Sulimir, Sulirad, Zyndram, Żanna",
+      "liczba_imion": 18
+    },
+    {
+      "data": "31 maja",
+      "miesiac": 5,
+      "dzien": 31,
+      "imiona": "Feliks, Kamila, Kancjan, Kancjanela, Kancjusz, Marietta, Noe, Paschazy, Petronela, Sylwiusz, Witalis",
+      "liczba_imion": 11
+    },
+    {
+      "data": "1 czerwca",
+      "miesiac": 6,
+      "dzien": 1,
+      "imiona": "Alfons, Bernard, Felin, Felina, Firmus, Fortunat, Hannibal, Ischyrion, Julian, Justyn, Juwencja, Juwencjusz, Konrad, Konrada, Magdalena, Nikodem, Pamfil, Paweł, Pamela, Porfiriusz, Prokul, Seleukos, Świętopełk, Teobald, Tespezjusz, Tespezy",
+      "liczba_imion": 26
+    },
+    {
+      "data": "2 czerwca",
+      "miesiac": 6,
+      "dzien": 2,
+      "imiona": "Blandyna, Domna, Efrem, Erazm, Eugeniusz, Florianna, Fotyn, Jaczemir, Marcelin, Maria, Marianna, Materna, Mikołaj, Mszczuja, Nicefor, Piotr, Racisław, Sadok, Trofima",
+      "liczba_imion": 19
+    },
+    {
+      "data": "3 czerwca",
+      "miesiac": 6,
+      "dzien": 3,
+      "imiona": "Andrzej, Bratumiła, Cecyliusz, Ferdynand, Franciszek, Izaak, Jan, Joachim, Karol, Kewin, Klotylda, Laurencjusz, Laurentyn, Leszek, Maciej, Owidia, Owidiusz, Paula, Tamara, Wawrzyniec",
+      "liczba_imion": 20
+    },
+    {
+      "data": "4 czerwca",
+      "miesiac": 6,
+      "dzien": 4,
+      "imiona": "Braturad, Dacjan, Franciszek, Gostmił, Karol, Karp, Kwiryn, Kwiryna, Metrofan, Niepełka, Optat, Pacyfik, Saturnina, Skarbisław",
+      "liczba_imion": 14
+    },
+    {
+      "data": "5 czerwca",
+      "miesiac": 6,
+      "dzien": 5,
+      "imiona": "Bonifacy, Dobrociech, Doroteusz, Ferdynand, Genadiusz, Hildebrand, Hildebranda, Igor, Jakub, Nikanor, Nikanora, Waleria, Walter, Zenaida",
+      "liczba_imion": 14
+    },
+    {
+      "data": "6 czerwca",
+      "miesiac": 6,
+      "dzien": 6,
+      "imiona": "Aleksander, Artemiusz, Benignus, Dominika, Filip, Gerard, Gerarda, Kandyda, Klaudiusz, Laurenty, Marceli, Maria, Norbert, Norberta, Paulina, Sydonia, Wawrzyniec, Więcerad",
+      "liczba_imion": 18
+    },
+    {
+      "data": "7 czerwca",
+      "miesiac": 6,
+      "dzien": 7,
+      "imiona": "Anna, Antoni, Jarosław, Jeremiasz, Jeremi, Lukrecja, Meriadek, Meriadok, Paweł, Piotr, Robert, Roberta, Sabinian, Teresa, Wiesław, Wiesława, Wisław",
+      "liczba_imion": 17
+    },
+    {
+      "data": "8 czerwca",
+      "miesiac": 6,
+      "dzien": 8,
+      "imiona": "Dobrociech, Herakliusz, Jadwiga, Jakub, Maksymin, Maksymina, Maria, Medard, Medarda, Seweryn, Wilhelm, Wyszesław",
+      "liczba_imion": 12
+    },
+    {
+      "data": "9 czerwca",
+      "miesiac": 6,
+      "dzien": 9,
+      "imiona": "Anna, Bertrand, Efrem, Felicjan, Józef, Kanimir, Kolumb, Maksymian, Prosimir, Ryszard, Sylwester, Sylwestra",
+      "liczba_imion": 12
+    },
+    {
+      "data": "10 czerwca",
+      "miesiac": 6,
+      "dzien": 10,
+      "imiona": "Amancjusz, Amata, Apollo, Asteriusz, Aureliusz, Bogumił, Bogumiła, Cecylia, Diana, Edgar, Henryk, Ingolf, Jan, Maksym, Małgorzata (data sprzed reformy Martyrologium Rzymskiego, obecnie przeniesione na 16 listopada), Mauryn, Onufry, Tymoteusz, Wiktorian, Wiktoriana, Wiktorianna",
+      "liczba_imion": 22
+    },
+    {
+      "data": "11 czerwca",
+      "miesiac": 6,
+      "dzien": 11,
+      "imiona": "Anastazy, Barnaba, Feliks, Fortunat, Flora, Jan, Paula, Paryzjusz, Radomił, Radomiła, Teodozja, Witomysł",
+      "liczba_imion": 12
+    },
+    {
+      "data": "12 czerwca",
+      "miesiac": 6,
+      "dzien": 12,
+      "imiona": "Antoni, Antonina, Bazylides, Bernard, Bolesław, Celestyna, Cyryn, Cyryna, Czesław, Czesława, Ewa, Gwido, Gwidon, Jan, Janina, Jarogniew, Jarogniewa, Kacper, Kasper, Kazimierz, Leon, Leona, Ludwik, Mieczysław, Mieczysława, Nabor, Nabur, Narcyz, Nazariusz, Nazary, Olimpiusz, Onufry, Piotr, Placyd, Przybyrad, Stefan, Tadea, Władysław, Władysława, Włodzimierz, Wyszemir",
+      "liczba_imion": 41
+    },
+    {
+      "data": "13 czerwca",
+      "miesiac": 6,
+      "dzien": 13,
+      "imiona": "Akwilina, Antoni, Chociemir, Gerard, Gerarda, Gracja, Grzegorz, Herman, Lubowid, Lucjan, Peregryn, Rambert, Tryfiliusz",
+      "liczba_imion": 13
+    },
+    {
+      "data": "14 czerwca",
+      "miesiac": 6,
+      "dzien": 14,
+      "imiona": "Alojzy, Anastazy, Digna, Eliza, Elizeusz, Feliks, Justyn, Konstancja, Marcjan, Metody, Michał, Myślibor, Ninogniew, Rufin, Ryszard, Walery",
+      "liczba_imion": 16
+    },
+    {
+      "data": "15 czerwca",
+      "miesiac": 6,
+      "dzien": 15,
+      "imiona": "Abraham, Adelajda, Albertyna, Angelina, Benilda, Bernard, Dula, Edburga, Eutropia, Germana, Hezychiusz, Izolda, Jolanta, Leonida, Liba, Lotar, Oliwia, Placyda, Wisław, Wisława, Wit, Witold, Witolda, Witosław",
+      "liczba_imion": 24
+    },
+    {
+      "data": "16 czerwca",
+      "miesiac": 6,
+      "dzien": 16,
+      "imiona": "Aneta, Aubert, Aurelian, Aureusz, Benon, Benona, Cyryk, Jan, Judyta, Julita, Justyna, Ludgarda, Tychon",
+      "liczba_imion": 13
+    },
+    {
+      "data": "17 czerwca",
+      "miesiac": 6,
+      "dzien": 17,
+      "imiona": "Adam, Adolf, Adolfa, Albert, Alina, Awit, Awita, Daria, Drogomysł, Franciszek, Gundolf, Herweusz, Hipacy, Izaur, Izaura, Laura, Marcjan, Montan, Nikander, Nikandra, Piotr, Radomił, Waleriana",
+      "liczba_imion": 23
+    },
+    {
+      "data": "18 czerwca",
+      "miesiac": 6,
+      "dzien": 18,
+      "imiona": "Amand, Amanda, Drogomysł, Drogoradz, Drohobysz, Dzirżysława, Efrem, Elżbieta, Emil, Eufemiusz, Hipacy, Leoncjusz, Marek, Maryna, Miłobor, Ożanna, Przeborka",
+      "liczba_imion": 17
+    },
+    {
+      "data": "19 czerwca",
+      "miesiac": 6,
+      "dzien": 19,
+      "imiona": "Bonifacy, Borzysław, Gaudencjusz, Gaudenty, Gerwazy, Grymilda, Juliana, Julianna, Michalina, Otto, Odon, Protazy, Romuald, Romualda",
+      "liczba_imion": 14
+    },
+    {
+      "data": "20 czerwca",
+      "miesiac": 6,
+      "dzien": 20,
+      "imiona": "Adalbert, Baltazar, Benigna, Bogna, Bratomir, Edburga, Florentyna, Franciszek, Gemma, Hektor, Jan, Jan Chrzciciel, Makary, Małgorzata, Rafaela, Rafał",
+      "liczba_imion": 16
+    },
+    {
+      "data": "21 czerwca",
+      "miesiac": 6,
+      "dzien": 21,
+      "imiona": "Alicja, Alojza, Alojzy, Chloe, Demetria, Domamir, Euzebiusz, Lutfryd, Marcja, Rajmund, Rudolf, Rudolfa, Rudolfina, Terencja, Terencjusz",
+      "liczba_imion": 15
+    },
+    {
+      "data": "22 czerwca",
+      "miesiac": 6,
+      "dzien": 22,
+      "imiona": "Achacja. Achacjusz, Achacy, Agenor, Alban, Albana, Będzieciech, Eberhard, Flawiusz, Innocenty, Jan, Paulin, Tomasz",
+      "liczba_imion": 12
+    },
+    {
+      "data": "23 czerwca",
+      "miesiac": 6,
+      "dzien": 23,
+      "imiona": "Agrypina, Albin, Anna, Arystokles, Atanazy, Edeltruda, Jan, Józef, Maria, Sydonia, Wanda, Zenon, Zenona",
+      "liczba_imion": 13
+    },
+    {
+      "data": "24 czerwca",
+      "miesiac": 6,
+      "dzien": 24,
+      "imiona": "Danuta, Emilia, Jan, Janina, Jan Chrzciciel, Janisław, Longin, Longina, Romuald, Romualda, Symplicjusz, Symplicy, Teodulf, Wilhelm",
+      "liczba_imion": 14
+    },
+    {
+      "data": "25 czerwca",
+      "miesiac": 6,
+      "dzien": 25,
+      "imiona": "Adelbert, Antyd, Dorota, Eulogiusz, Febron, Febronia, Fiebrosław, Kineburga, Łucja, Maksym, Prosper, Prospera, Sozypater, Tolisława, Wilhelm",
+      "liczba_imion": 15
+    },
+    {
+      "data": "26 czerwca",
+      "miesiac": 6,
+      "dzien": 26,
+      "imiona": "Dawid, Edburga, Jan, Jeremi, Jeremiasz, Maksanty, Maksencjusz, Mirogod, Paweł, Pelagia, Pelagiusz, Salwia, Salwiusz, Wigiliusz, Zdziwoj",
+      "liczba_imion": 15
+    },
+    {
+      "data": "27 czerwca",
+      "miesiac": 6,
+      "dzien": 27,
+      "imiona": "Bogodar, Bogudar, Benwenut, Bożdar, Bożydar, Cyryl, Jan, Joanna, Maria, Maryla, Samson, Teresa, Włodzisław, Włodzisława, Władysław, Władysława",
+      "liczba_imion": 16
+    },
+    {
+      "data": "28 czerwca",
+      "miesiac": 6,
+      "dzien": 28,
+      "imiona": "Argymir, Ekard, Ekhard, Heraklides, Heron, Ireneusz, Jakert, Józef, Leon, Leona, Lubomir, Marcela, Paweł, Plutarch, Seren, Serena, Wincencja, Wincenta, Wincentyna, Zbrosław",
+      "liczba_imion": 20
+    },
+    {
+      "data": "29 czerwca",
+      "miesiac": 6,
+      "dzien": 29,
+      "imiona": "Beata, Benedykta, Dalebor, Ema, Emma, Kasja, Kasjusz, Maria, Paweł, Piotr, Rajmund",
+      "liczba_imion": 11
+    },
+    {
+      "data": "30 czerwca",
+      "miesiac": 6,
+      "dzien": 30,
+      "imiona": "Bazyli, Bazylides, Ciechosława, Emilia, Ermentruda, Jan, Leon, Leona, Lucyna, Marcjalis, Milena, Teobald, Teobalda, Trofim, Władysław, Władysława (niegdyś 27 czerwca)",
+      "liczba_imion": 16
+    },
+    {
+      "data": "1 lipca",
+      "miesiac": 7,
+      "dzien": 1,
+      "imiona": "Aaron, Bogusław, Domicjan, Domicjana, Ekhard, Gaweł, Halina, Jakert, Julian, Karolina, Klarysa, Marcin, Marian, Namir, Oliwer, Otto, Otton, Szymon, Teodoryk",
+      "liczba_imion": 19
+    },
+    {
+      "data": "2 lipca",
+      "miesiac": 7,
+      "dzien": 2,
+      "imiona": "Bernardyn, Bogodar, Bogudar, Bożdar, Bożydar, Eugenia, Eutyches, Eutychiusz, Juwenalis, Martynian, Niegosława, Switun, Urban",
+      "liczba_imion": 13
+    },
+    {
+      "data": "3 lipca",
+      "miesiac": 7,
+      "dzien": 3,
+      "imiona": "Anatol, Heliodor, Jacek, Józef, Leon, Leona, Longin, Longina, Miłosław, Mirosław, Racigniew, Radomir, Teodot, Tomasz, Tryfon",
+      "liczba_imion": 15
+    },
+    {
+      "data": "4 lipca",
+      "miesiac": 7,
+      "dzien": 4,
+      "imiona": "Aggeusz, Alfred, Andrzej, Atanazy, Aurelian, Berta, Elżbieta, Hiacynt, Innocenty, Jacek, Jacenty, Józef, Julian, Malwin, Malwina, Odo, Ozeasz, Piotr, Teodor, Udalryk, Wielisław",
+      "liczba_imion": 21
+    },
+    {
+      "data": "5 lipca",
+      "miesiac": 7,
+      "dzien": 5,
+      "imiona": "Antoni, Atanazy, Cyryla, Eliasz, Filomena, Jakub, Maria, Marta, Michał, Przybywoj, Telimena, Trofima, Wilhelm, Zoe",
+      "liczba_imion": 14
+    },
+    {
+      "data": "6 lipca",
+      "miesiac": 7,
+      "dzien": 6,
+      "imiona": "Chociebor, Dominika, Gotard, Ignacja, Lucja, Łucja, Maria, Nazaria, Niegosław, Teresa, Zuzanna",
+      "liczba_imion": 11
+    },
+    {
+      "data": "7 lipca",
+      "miesiac": 7,
+      "dzien": 7,
+      "imiona": "Antonin, Benedykt, Edelburga, German, Gościwit, Hezychiusz, Ilidiusz, Ilidia, Józef, Lucjan, Metoda, Metody, Odo, Papiasz, Peregryn, Pompejusz, Saturnin, Sędzisław, Sędzisława, Wilibald",
+      "liczba_imion": 20
+    },
+    {
+      "data": "8 lipca",
+      "miesiac": 7,
+      "dzien": 8,
+      "imiona": "Adolf, Adolfa, Adrian, Adriana, Adrianna, Akwila (m.), Chwalimir, Edgar, Elżbieta (data sprzed reformy Martyrologium Rzymskiego, obecnie przeniesione na 4 lipca), Eugeniusz, Falibor, Hadrian, Hadriana, Jan, Kilian, Kiliana, Odeta, Piotr, Prokop, Teobald, Teobalda",
+      "liczba_imion": 22
+    },
+    {
+      "data": "9 lipca",
+      "miesiac": 7,
+      "dzien": 9,
+      "imiona": "Adolfina, Adrian, Adrianna, Aleksander, Anatola, Anatolia, Antoni, Augustyn, Barbara, Brykcjusz, Cyryl, Florianna, Hadrian, Hadriana, Heloiza, Ifigenia, Jan, Joanna, Kornel, Korneli, Korneliusz, Lucja, Łucja, Mikołaj, Róża, Sylwia, Teodoryk, Weronika, Wszebąd, Zenon, Zenona",
+      "liczba_imion": 31
+    },
+    {
+      "data": "10 lipca",
+      "miesiac": 7,
+      "dzien": 10,
+      "imiona": "Aleksander, Amalberga, Aniela, Antoni, Askaniusz, Bianor, Daniel, Emanuel, Engelbert, Filip, January, Leoncjusz, Maurycja, Maurycy, Nasława, Racimir, Rufina, Rzędziwoj, Samson, Sekunda, Sylwan, Witalis, Zacheusz",
+      "liczba_imion": 23
+    },
+    {
+      "data": "11 lipca",
+      "miesiac": 7,
+      "dzien": 11,
+      "imiona": "Benedykt, Jan, Kalina, Olga, Pelagia, Pelagiusz, Pius, Placyd, Sabin, Siepraw, Wyszesława, Zybart, Zybert, Zybracht, Zygbert",
+      "liczba_imion": 15
+    },
+    {
+      "data": "12 lipca",
+      "miesiac": 7,
+      "dzien": 12,
+      "imiona": "Bonifacy, Bruno, Brunon, Epifania, Euzebiusz, Feliks, Hilarion, Hilariona, Himisław, Imisława, Jan Gwalbert, Janina, Jazon, Leon, Leona, Marcjanna, Natan, Paulin, Prokles, Prokul, Świętożyźń, Tatomir, Wera, Weronika",
+      "liczba_imion": 24
+    },
+    {
+      "data": "13 lipca",
+      "miesiac": 7,
+      "dzien": 13,
+      "imiona": "Andrzej, Benedykt, Ernest, Eugeniusz, Ezdrasz, Henryk, Joel, Małgorzata, Mildreda, Radomiła, Serapion, Sylas, Sara, Świerad, Trofima",
+      "liczba_imion": 15
+    },
+    {
+      "data": "14 lipca",
+      "miesiac": 7,
+      "dzien": 14,
+      "imiona": "Angelina, Bohdan, Damian, Dobrogost, Feliks, Fokas, Franciszek, Henryk, Herakles, Jakub, Kamil, Kosma, Marcelin, Tuskana, Ulryk, Wincenty",
+      "liczba_imion": 16
+    },
+    {
+      "data": "15 lipca",
+      "miesiac": 7,
+      "dzien": 15,
+      "imiona": "Anna, Antioch, Atanazy, Bonawentura, Cyriak, Cyriaka, Daniel, Dawid, Dawida, Donald, Egon, Ignacy, Lubomysł, Pompiliusz, Roksana, Włodzimierz, Włodzimir",
+      "liczba_imion": 17
+    },
+    {
+      "data": "16 lipca",
+      "miesiac": 7,
+      "dzien": 16,
+      "imiona": "Andrzej, Atenogenes, Bartłomiej, Benedykt, Carmen, Dzierżysław, Dzirżysława, Ermegarda, Eustacjusz, Eustazja, Eustazjusz, Eustazy, Faust, Irmegarda, Kanmił, Maria, Ryta, Stefan, Walenty, Walentyn",
+      "liczba_imion": 20
+    },
+    {
+      "data": "17 lipca",
+      "miesiac": 7,
+      "dzien": 17,
+      "imiona": "Akwilin, Aleksa, Aleksja, Aleksy, Andrzej, Aneta, Bogdan, Donata, Dzierżykraj, Feliks, Januaria, Konstancja, Leon, Leona, Marcelina, Rufina, Sekunda, Sperat, Tarsycja, Teodota, Teodozy, Teodozjusz, Westyna",
+      "liczba_imion": 23
+    },
+    {
+      "data": "18 lipca",
+      "miesiac": 7,
+      "dzien": 18,
+      "imiona": "Arnold, Arnolf, Arnulf, Bruno, Brunon, Drogomił, Drogomir, Drogoradz, Dziwigor, Emilian, Erwin, Eugeniusz, Fryderyk, Fryderyka, Julian, Justyn, Kamil (data sprzed reformy Soboru watykańskiego II, obecnie 14 lipca), Krescencjusz, Krescens, Krescenty, Maryna, Matern, Nemezjusz, Nemezy, Prymityw, Robert, Roberta, Szymon, Szymona, Symforoza, Teodozja, Uniesław",
+      "liczba_imion": 33
+    },
+    {
+      "data": "19 lipca",
+      "miesiac": 7,
+      "dzien": 19,
+      "imiona": "Ambroży, Arseniusz, Aurea, Epafras, Justa, Lutobor, Makryna, Marcin, Piotr, Radomiła, Rufina, Symmach, Teodor, Włodzisław, Zdziesuł",
+      "liczba_imion": 15
+    },
+    {
+      "data": "20 lipca",
+      "miesiac": 7,
+      "dzien": 20,
+      "imiona": "Ansegiz, Aureliusz, Czesław, Czesława, Eliasz, Flawian, Flawiana, Heliasz, Hieronim, Hieronima, Leon, Leona, Ludwika, Małgorzata, Modest, Paweł, Remigia, Remigiusz, Sewera, Stosław",
+      "liczba_imion": 20
+    },
+    {
+      "data": "21 lipca",
+      "miesiac": 7,
+      "dzien": 21,
+      "imiona": "Andrzej, Arbogast, Benedykt, Daniel, Ignacy, Jan, Julia, Just, Klaudiusz, Laurencjusz, Laurenty, Prakseda, Wawrzyniec, Wiktor, Zotyk",
+      "liczba_imion": 15
+    },
+    {
+      "data": "22 lipca",
+      "miesiac": 7,
+      "dzien": 22,
+      "imiona": "Albin, Benon, Benona, Cyryl, Józef, Magdalena, Menelaus, Naczęsława, Nicefor, Platon, Stojsław, Stojsława, Teofil",
+      "liczba_imion": 13
+    },
+    {
+      "data": "23 lipca",
+      "miesiac": 7,
+      "dzien": 23,
+      "imiona": "Apolinary, Apolinaria, Bogna, Bolesław, Brygida, Jan, Joanna, Kasjan, Krystyn, Liboriusz, Olimpiusz, Romula, Żelisław",
+      "liczba_imion": 13
+    },
+    {
+      "data": "24 lipca",
+      "miesiac": 7,
+      "dzien": 24,
+      "imiona": "Augustyn, Gleb, Kinga, Krystyna, Krzesimir, Kunegunda, Olga, Segolena, Wiktor, Wojciecha, Zyglinda",
+      "liczba_imion": 11
+    },
+    {
+      "data": "25 lipca",
+      "miesiac": 7,
+      "dzien": 25,
+      "imiona": "Alfons, Antoni, Dariusz, Franciszek, Jakub, Krzysztof, Krzysztofa, Kukufas, Nieznamir, Olimpia, Paweł, Rudolf, Rudolfa, Rudolfina, Sławosław, Walentyna",
+      "liczba_imion": 16
+    },
+    {
+      "data": "26 lipca",
+      "miesiac": 7,
+      "dzien": 26,
+      "imiona": "Anna, Bartłomieja, Erast, Grażyna, Hanna, Hiacynt, Jacek, Jacenty, Joachim, Krystiana, Mirosława, Sancja, Symeon, Teodor, Tytus, Walenty, Walentyn, Wilhelm",
+      "liczba_imion": 18
+    },
+    {
+      "data": "27 lipca",
+      "miesiac": 7,
+      "dzien": 27,
+      "imiona": "Antuza, Aureliusz, Bertold, Celestyn, Celia, Celiusz, Feliks, Innocenty, Jerzy, Julia, Laurentyn, Lilioza, Lilla, Magdalena, Maur, Natalia, Nowellon, Pantaleon, Sergiusz, Stoisław, Teodor, Tomisława, Wszebor",
+      "liczba_imion": 23
+    },
+    {
+      "data": "28 lipca",
+      "miesiac": 7,
+      "dzien": 28,
+      "imiona": "Achacja, Achacjusz, Achacy, Ada, Alfons, Antoni, Celzjusz, Macieja, Melchior, Nazariusz, Nazary, Samson, Świętomir, Tymon, Tymona, Urban, Wiktor",
+      "liczba_imion": 17
+    },
+    {
+      "data": "29 lipca",
+      "miesiac": 7,
+      "dzien": 29,
+      "imiona": "Antonin, Beatrycze, Cirzpibog, Cirzpisława, Eugeniusz, Faustyn, Feliks, Flora, Konstantyn, Lucyla, Lucyliusz, Maria, Marta, Olaf, Prosper, Prospera, Rufin, Serapia, Symplicjusz, Symplicy, Teodor, Wilhelm",
+      "liczba_imion": 22
+    },
+    {
+      "data": "30 lipca",
+      "miesiac": 7,
+      "dzien": 30,
+      "imiona": "Abdon, Ingeborga, Julita, Leopold, Maksyma, Piotr, Rościsław, Sekunda, Swojsław, Ubysław, Ursus",
+      "liczba_imion": 11
+    },
+    {
+      "data": "31 lipca",
+      "miesiac": 7,
+      "dzien": 31,
+      "imiona": "Adam, Alfonsa, Beat, Demokryt, Emilian, Ernesta, Fabia, Fabiusz, German, Helena, Iga, Ignacy, Jan, Justyn, Lubomir",
+      "liczba_imion": 15
+    },
+    {
+      "data": "1 sierpnia",
+      "miesiac": 8,
+      "dzien": 1,
+      "imiona": "Akcjusz, Aleksander, Alfons, Antonin, Brodzisław, Eleazar, Etelwold, Justyna, Konrad, Konrada, Leoncjusz, Marceli, Nadzieja, Nemezjusz, Nemezy, Piotr, Rudolf, Rudolfa, Rudolfina, Salomea, Wiara, Wiercisław",
+      "liczba_imion": 22
+    },
+    {
+      "data": "2 sierpnia",
+      "miesiac": 8,
+      "dzien": 2,
+      "imiona": "Alfreda, Euzebiusz, Gustaw, Eliasz, Karina, Maksym, Maria, Rutyliusz, Stefan, Świętosław, Teodota",
+      "liczba_imion": 11
+    },
+    {
+      "data": "3 sierpnia",
+      "miesiac": 8,
+      "dzien": 3,
+      "imiona": "Augustyn, Cyra, Dalmacjusz, Eufroniusz, Lidia, Marana, Miłosław, Nikodem, Nikodema, Piotr, Symeon, Szczepan",
+      "liczba_imion": 12
+    },
+    {
+      "data": "4 sierpnia",
+      "miesiac": 8,
+      "dzien": 4,
+      "imiona": "Arystarch, Franciszek, Fryderyk, Jan, Justyn, Krescencjusz, Krescens, Krescenty, Maria, Mironieg, Perpetua, Pęcisław, Pęcisława, Pękosław, Prokop, Rajner, Tertulian, Tertuliana",
+      "liczba_imion": 18
+    },
+    {
+      "data": "5 sierpnia",
+      "miesiac": 8,
+      "dzien": 5,
+      "imiona": "Abel, Afra, Cyriak, Kasjan, Kasjana, Maria, Memiusz, Nonna, Oswald, Oswalda, Parys, Wenancja, Wenancjusz, Wenanty, Wirginia",
+      "liczba_imion": 15
+    },
+    {
+      "data": "6 sierpnia",
+      "miesiac": 8,
+      "dzien": 6,
+      "imiona": "Felicysym, Jakub, January, Just, Maria, Namir, Nasław, Oktawian, Stefan, Walburga, Wincenty",
+      "liczba_imion": 11
+    },
+    {
+      "data": "7 sierpnia",
+      "miesiac": 8,
+      "dzien": 7,
+      "imiona": "Agatangel, Albert, Andromeda, Dobiemiar, Donat, Dorota, Doryda, Edmund, Edmunda, Kajetan, Klaudia, Konrad, Konrada, Licynia, Licyniusz, Sykstus, Wincenty",
+      "liczba_imion": 17
+    },
+    {
+      "data": "8 sierpnia",
+      "miesiac": 8,
+      "dzien": 8,
+      "imiona": "Bonifacja, Cyriak, Cyryl, Dominik, Emilian, Esmeralda, Jan, Joanna, Largus, Maryn, Maryniusz, Miron, Mirona, Niegosław, Niezamysł, Sekundus, Sewer, Smaragd, Sylwiusz, Szmaragd",
+      "liczba_imion": 20
+    },
+    {
+      "data": "9 sierpnia",
+      "miesiac": 8,
+      "dzien": 9,
+      "imiona": "Domicjan, Domicjana, Doroteusz, Edyta, Falkon, Irena, Jan, Julian, Klarysa, Marcelin, Marcjan, Miłorad, Roman, Romuald, Ryszard, Teresa",
+      "liczba_imion": 16
+    },
+    {
+      "data": "10 sierpnia",
+      "miesiac": 8,
+      "dzien": 10,
+      "imiona": "Amadea, Amadeusz, Asteria, Bernard, Bogdan, Bogdana, Bogodar, Bogudar, Bohdan, Bohdana, Bożdar, Hugo, Hugon, Hugona, Laurencjusz, Laurenty, Prochor, Wawrzyniec, Wirzchosław",
+      "liczba_imion": 19
+    },
+    {
+      "data": "11 sierpnia",
+      "miesiac": 8,
+      "dzien": 11,
+      "imiona": "Aleksander, Filomena, Herman, Klara, Ligia, Lilia, Rufin, Telimena, Tyburcja, Tyburcjusz, Tyburcy, Włodzimierz, Włodzimir, Włościwoj, Zuzanna",
+      "liczba_imion": 15
+    },
+    {
+      "data": "12 sierpnia",
+      "miesiac": 8,
+      "dzien": 12,
+      "imiona": "Anicet, Aniceta, Bądzsław, Cyriak, Digna, Eunomia, Euzebiusz, Fotyn, Herkulan, Hilaria, Innocenty, Joanna, Julian, Julianna, Klara, Largus, Lech, Leonida, Makary, Wiktoria",
+      "liczba_imion": 20
+    },
+    {
+      "data": "13 sierpnia",
+      "miesiac": 8,
+      "dzien": 13,
+      "imiona": "Benild, Diana, Helena, Hipolit, Hipolita, Jan, Kasjan, Kasjana, Konkordia, Maksym, Poncjan, Radegunda, Radomiła, Sekundyn, Wigbert, Wolebor",
+      "liczba_imion": 16
+    },
+    {
+      "data": "14 sierpnia",
+      "miesiac": 8,
+      "dzien": 14,
+      "imiona": "Alfred, Atanazja, Dobrowoj, Dobrowoja, Elżbieta, Euzebiusz, Kalikst, Machabeusz, Majnard, Maksymilian, Marceli, Ursycyn",
+      "liczba_imion": 12
+    },
+    {
+      "data": "15 sierpnia",
+      "miesiac": 8,
+      "dzien": 15,
+      "imiona": "Alipiusz, Armida, Arnolf, Arnulf, Julianna, Maria, Napoleon, Stefan, Tarsycjusz, Trzebiemir",
+      "liczba_imion": 10
+    },
+    {
+      "data": "16 sierpnia",
+      "miesiac": 8,
+      "dzien": 16,
+      "imiona": "Ambroży, Anioł, Arsacjusz, Ciechosław, Diomedes, Domarad, Domasuł, Eleuteria, Eleuteriusz, Eleutery, Emil, Laurencjusz, Laurenty, Piotra, Roch, Sabbas, Stefan, Symplicjusz, Symplicy, Tytus, Wawrzyniec",
+      "liczba_imion": 21
+    },
+    {
+      "data": "17 sierpnia",
+      "miesiac": 8,
+      "dzien": 17,
+      "imiona": "Anastazy, Anita, Bertram, Bonifacy, Eliza, Euzebiusz, Hiacynt, Jacek, Jacenty, Jaczewoj, Joanna, Julianna, Klara, Liberat, Magdalena, Maksym, Maria, Miron, Mirona, Rogat, Rustyk, Rustyka, Septym, Septymiusz, Serwiusz, Straton, Zawisza, Żanna",
+      "liczba_imion": 28
+    },
+    {
+      "data": "18 sierpnia",
+      "miesiac": 8,
+      "dzien": 18,
+      "imiona": "Bogusław, Bronisław, Eryk, Eryka, Firmin, Helena, Ilona, Jan, Klara, Laura, Lena, Ludwik, Paula, Sancja, Tacjana, Tworzysława, Włodzimir, Żyrosława",
+      "liczba_imion": 18
+    },
+    {
+      "data": "19 sierpnia",
+      "miesiac": 8,
+      "dzien": 19,
+      "imiona": "Alfred, Bolesław, Donat, Emilia, Ezechiel, Jan, Julian, Juliusz, Ludwik, Luiza, Magnus, Marian, Sebald, Sykstus, Tekla, Tymoteusz, Wiktor, Wincenty",
+      "liczba_imion": 18
+    },
+    {
+      "data": "20 sierpnia",
+      "miesiac": 8,
+      "dzien": 20,
+      "imiona": "Bernard, Eliasz, Filibert, Filiberta, Hieronim, Krzysztof, Leowigild, Lucjusz, Łucjusz, Maksym, Małgorzata, Maria, Paweł, Sabin, Samuel, Samuela, Sewer, Sieciech, Świelub",
+      "liczba_imion": 19
+    },
+    {
+      "data": "21 sierpnia",
+      "miesiac": 8,
+      "dzien": 21,
+      "imiona": "Agapiusz, Anastazy, Apolinaria, Apolinary, Baldwin, Baldwina, Bernard, Cyriaka, Fidelis, Fidelisa, Franciszek, Maksymilian, Męcimir, Paulina, Pius, Wiktoria",
+      "liczba_imion": 16
+    },
+    {
+      "data": "22 sierpnia",
+      "miesiac": 8,
+      "dzien": 22,
+      "imiona": "Agatonik, Albin, Bernard, Bolesław, Dalegor, Fabrycjan, Filip, Hipolit, Hipolita, Jan, Joachim, Lambert, Lamberta, Laurencjusz, Magdalena, Maria, Namysław, Oswald, Oswalda, Pankracy, Sieciesław, Symforian, Symforiana, Teona, Teonas, Tymoteusz, Wawrzyniec, Zygfryd, Zygfryda",
+      "liczba_imion": 29
+    },
+    {
+      "data": "23 sierpnia",
+      "miesiac": 8,
+      "dzien": 23,
+      "imiona": "Apolinary, Archelaus, Benicjusz, Brygida, Cyriak, Feliksa, Filip, Flawia, Flawian, Ireneusz, Jakub, Kalinik, Klaudiusz, Leoncja, Lubomira, Maksym, Piotra, Róża, Sulirad, Sydonia, Teonilla, Walerian, Wiktor, Zacheusz, Żelisław",
+      "liczba_imion": 25
+    },
+    {
+      "data": "24 sierpnia",
+      "miesiac": 8,
+      "dzien": 24,
+      "imiona": "Anita, Audoen, Bartłomiej, Bartosz, Cieszymir, Emilia, Eutyches, Eutychiusz, Jerzy, Joanna, Halina, Malina, Michalina, Natanael, Patrycjusz, Patrycy, Patryk",
+      "liczba_imion": 17
+    },
+    {
+      "data": "25 sierpnia",
+      "miesiac": 8,
+      "dzien": 25,
+      "imiona": "Arediusz, Elwira, Euzebiusz, Gaudencjusz, Gaudenty, Genezjusz, Grzegorz, Hermina, Józef, Julian, Kalasanty, Ludwik, Luiza, Michał, Patrycja, Peregryn, Poncjan, Teodoryk, Wincenty",
+      "liczba_imion": 19
+    },
+    {
+      "data": "26 sierpnia",
+      "miesiac": 8,
+      "dzien": 26,
+      "imiona": "Adrianna, Aleksander, Dobroniega, Fortunat, Hadrian, Hadriana, Ireneusz, Joanna, Konstancjusz, Maksymilian, Maria, Natalia, Sandra, Symplicjusz, Symplicy, Teresa, Wiktorian, Wiktoriana, Wiktorianna, Wirzchosław, Wirzchosława",
+      "liczba_imion": 21
+    },
+    {
+      "data": "27 sierpnia",
+      "miesiac": 8,
+      "dzien": 27,
+      "imiona": "Amadea, Amadeusz, Cezariusz, Cezary, Dominik, Fortunat, Gebhard, Honorat, Jan, Józef, Liceria, Liceriusz, Małgorzata, Manea, Marcelin, Monika, Przybymir, Rufus, Sabinian, Serapion",
+      "liczba_imion": 20
+    },
+    {
+      "data": "28 sierpnia",
+      "miesiac": 8,
+      "dzien": 28,
+      "imiona": "Adelinda, Aleksander, Aleksy, Alfons, Augustyn, Bibian, Bonifacy, Feliks, Fortunat, Hermes, January, Joachima, Julian, Mojżesz, Pelagiusz, Sobiesław, Stronisław, Wyszomir, Wyszymir",
+      "liczba_imion": 19
+    },
+    {
+      "data": "29 sierpnia",
+      "miesiac": 8,
+      "dzien": 29,
+      "imiona": "Beatrycze, Eutymiusz, Flora, Hipacy, Jan, Jan Chrzciciel, Krescencjusz, Krescens, Krescenty, Mederyk, Mederyka, Michał, Racibor, Sabina, Sebbus, Świętosław",
+      "liczba_imion": 16
+    },
+    {
+      "data": "30 sierpnia",
+      "miesiac": 8,
+      "dzien": 30,
+      "imiona": "Adaukt, Częstowoj, Częstowojna, Damroka, Feliks, Gaudencja, Ingeborga, Jan, Małgorzata, Miron, Piotr, Rebeka, Swojsław, Świetlana, Tekla",
+      "liczba_imion": 15
+    },
+    {
+      "data": "31 sierpnia",
+      "miesiac": 8,
+      "dzien": 31,
+      "imiona": "Aidan, Albertyna, Amat, Arystyda, Arystydes, Bohdan, Izabela, Józef, Nikodem, Optat, Paulin, Prymian, Rajmund, Rajmunda, Solidariusz, Świętosław, Teodot",
+      "liczba_imion": 17
+    },
+    {
+      "data": "1 września",
+      "miesiac": 9,
+      "dzien": 1,
+      "imiona": "Amon, Anna, August, Beatrycze, Bronisław, Bronisława, Donat, Dzierżysław, Egidia, Feliks, Gedeon, Idzi, Melecjusz, Michał, Miłodziad, Ruta, Sator, Satora, Sykstus, Werena, Witalis",
+      "liczba_imion": 21
+    },
+    {
+      "data": "2 września",
+      "miesiac": 9,
+      "dzien": 2,
+      "imiona": "Absalon, Adelina, Aleksander, Antonin, Apolinary, Bohdan, Czesław, Dziesław, Dionizy, Eliza, Elpidia, Elpidiusz, Franciszek, Ingryda, Jakub, Jan, Julian, Oliwier, Oktawian, Salomon, Seweryn, Sobiemysł, Stefan, Teodor, Tobiasz, Walenty, Walentyn, Wilhelm, Zenon, Zofia",
+      "liczba_imion": 30
+    },
+    {
+      "data": "3 września",
+      "miesiac": 9,
+      "dzien": 3,
+      "imiona": "Antoni, Bartłomiej, Bartosz, Bazylisa, Bronisław, Erazma, Feba, Gerard, Gerarda, Grzegorz, Izabela, Jan, Maryn, Maryniusz, Mojmir, Natalis, Przecław, Przedsław, Serapia, Szymon",
+      "liczba_imion": 20
+    },
+    {
+      "data": "4 września",
+      "miesiac": 9,
+      "dzien": 4,
+      "imiona": "Bonifacy, Boromea, Daniela, Ermegarda, Felicyta, Gwidona, Heliodora, Hermiona, Ida, Imelda, Irmegarda, Iwo, Iwona, Julian, Kandyda, Kanizja, Kanuta, Katarzyna, Liliana, Lilianna, Marceli, Maria, Mojżesz, Przemysł, Przemysław, Rajmunda, Rościgniew, Rozalia, Scypion, Sergia, Stella, Teodor",
+      "liczba_imion": 32
+    },
+    {
+      "data": "5 września",
+      "miesiac": 9,
+      "dzien": 5,
+      "imiona": "Bertyn, Budziboj, Dorota, Fereol, Herakles, Herkulan, Herkules, Justyna, Peregryn, Przyboj, Racisław, Racław, Racława, Rozwita, Stronisława, Teodor, Urban, Wiktoryn, Wiktoryna",
+      "liczba_imion": 19
+    },
+    {
+      "data": "6 września",
+      "miesiac": 9,
+      "dzien": 6,
+      "imiona": "Albin, Aleksja, Amoniusz, Bertrand, Bogdana, Bolemir, Donacjan, Eleuteria, Eleuteriusz, Eleutery, Eugeniusz, Ewa, Faust, German, Gundolf, Liberat, Magnus, Manswet, Michał, Onezyfor, Petroniusz, Uniewit, Zachariasz, Zachary",
+      "liczba_imion": 24
+    },
+    {
+      "data": "7 września",
+      "miesiac": 9,
+      "dzien": 7,
+      "imiona": "Dobrobąd, Domasuł, Domasława, Eupsychia, Eupsychiusz, Gratus, Melchior, Pamfil, Regina, Ryszard, Sozont, Teodoryk",
+      "liczba_imion": 12
+    },
+    {
+      "data": "8 września",
+      "miesiac": 9,
+      "dzien": 8,
+      "imiona": "Adam, Adrian, Adriana, Adrianna, Alan, Amon, Bratumił, Euzebiusz, Maria, Nestor, Radosław, Radosława, Serafina, Sergiusz, Teofil, Wiola, Zenon",
+      "liczba_imion": 17
+    },
+    {
+      "data": "9 września",
+      "miesiac": 9,
+      "dzien": 9,
+      "imiona": "Aniela, Audomar, Augustyn, Aureliusz, Bolemir, Bolemira, Dionizy, Doroteusz, Drogomir, Franciszek, Gorgoniusz, Jacek, Jakub, Jan, Otmar, Ożanna, Piotr, Radochna, Radosława, Sewerian, Sobiebor, Sobiesąd, Straton, Ścibora, Świecław",
+      "liczba_imion": 25
+    },
+    {
+      "data": "10 września",
+      "miesiac": 9,
+      "dzien": 10,
+      "imiona": "Agapiusz, Aldona, Anioł, Antoni, Bernard, Datyw, Dydym, Feliks, Franciszek, Izabela, Kandyda, Karol, Klemens, Leon, Leona, Lucjusz, Łucjusz, Łukasz, Mikołaj, Monika, Mścibor, Nemezjan, Nimfodora, Piotr, Polian, Poliana, Polianna, Pulcheria, Salwiusz, Sebastian, Sobiesław, Teodor, Wiktor",
+      "liczba_imion": 33
+    },
+    {
+      "data": "11 września",
+      "miesiac": 9,
+      "dzien": 11,
+      "imiona": "Ademar, Aisza, Bonawentura, Dagna, Diodor, Diodora, Diomedes, Dydym, Dydymus, Emilian, Feliks, Hiacynt, Jacek, Jacenty, Jan, Krzesisław, Krzesława, Naczęsław, Pafnucy, Piotr, Prot, Teodora, Wincenty",
+      "liczba_imion": 23
+    },
+    {
+      "data": "12 września",
+      "miesiac": 9,
+      "dzien": 12,
+      "imiona": "Amadeusz, Cyrus, Franciszek, Gwido, Gwidon, Juwencjusz, Macedoniusz, Maja, Maria, Marlena, Sylwin, Sylwina, Tacjan, Teodul, Teodulf",
+      "liczba_imion": 15
+    },
+    {
+      "data": "13 września",
+      "miesiac": 9,
+      "dzien": 13,
+      "imiona": "Aleksander, Amat, Apolinary, Aureliusz, Dobielut, Eulogia, Eulogiusz, Filip, Genadia, Jan Chryzostom, Julian, Litoriusz, Makrobiusz, Maria, Mauryliusz, Morzysław",
+      "liczba_imion": 16
+    },
+    {
+      "data": "14 września",
+      "miesiac": 9,
+      "dzien": 14,
+      "imiona": "Albert, Bernard, Jan, Matern, Piotr, Racigniew, Radomira, Salustia, Siemomysł, Szymon, Wiktor",
+      "liczba_imion": 11
+    },
+    {
+      "data": "15 września",
+      "miesiac": 9,
+      "dzien": 15,
+      "imiona": "Albin, Dolores, Ekhard, Eutropia, Filotea, Filoteusz, Jakert, Jeremi, Jeremiasz, Kamil, Katarzyna, Maria, Nicetas, Nikomedes, Roland, Teodor, Walerian",
+      "liczba_imion": 17
+    },
+    {
+      "data": "16 września",
+      "miesiac": 9,
+      "dzien": 16,
+      "imiona": "Abundancjusz, Antym, Cyprian, Edda, Edyta, Eufemia, Eugenia, Franciszek, Geminian, Innocencja, Innocenta, Innocentyna, Jan, Kamila, Kornel, Korneli, Korneliusz, Ludmiła, Łucja, Ninian, Sebastiana, Sędzisław, Wiktor",
+      "liczba_imion": 23
+    },
+    {
+      "data": "17 września",
+      "miesiac": 9,
+      "dzien": 17,
+      "imiona": "Cherubin, Dargosław, Dezyderiusz, Drogosław, Dziebor, Franciszek, Gordian, Hildegarda, Justyn, Kolumba, Lambert, Lamberta, Makryn, Narcyz, Piotr, Robert, Sokrates, Szczęsna, Szczęsny, Teodora, Walerian, Zygmunt, Zygmunta",
+      "liczba_imion": 23
+    },
+    {
+      "data": "18 września",
+      "miesiac": 9,
+      "dzien": 18,
+      "imiona": "Aretas, Ariadna, Baltazar, Dobrowit, Fereol, Irena, Józef, Metody, Ryszarda, Sobierad, Stanisław, Stefania, Tytus, Zachariasz, Zofia",
+      "liczba_imion": 15
+    },
+    {
+      "data": "19 września",
+      "miesiac": 9,
+      "dzien": 19,
+      "imiona": "Alfons, Arnolf, Arnulf, Dezyderiusz, Dezydery, Eliasz, Eutychiusz, Festus, Januariusz, January, Konstancja, Maria, Marta, Nila, Nilus, Paloma, Peleusz, Prokles, Prokul, Teodor, Trofim, Więcemir, Wilhelmina, Zuzanna",
+      "liczba_imion": 24
+    },
+    {
+      "data": "20 września",
+      "miesiac": 9,
+      "dzien": 20,
+      "imiona": "Agnieszka, Andrzej, Barbara, Dionizy, Eustachiusz, Eustachy, Euzebia, Fausta, Filipa, Franciszek, Gliceriusz, Glicery, Helmut, Jan, Klemens, Matea, Miłowuj, Paweł, Perpetua, Protazy, Sokrates, Teodor, Teopist, Teopista",
+      "liczba_imion": 24
+    },
+    {
+      "data": "21 września",
+      "miesiac": 9,
+      "dzien": 21,
+      "imiona": "Aleksander, Bernardyna, Bożeciech, Daria, Euzebiusz, Hipolit, Hipolita, Ifigenia, Jonasz, Kastor, Konon, Marek, Mateusz, Maura, Melecjusz, Melisa, Pacyfik, Pamfil",
+      "liczba_imion": 18
+    },
+    {
+      "data": "22 września",
+      "miesiac": 9,
+      "dzien": 22,
+      "imiona": "Bazyla, Digna, Eksuperiusz, Emeryta, Emmeram, Emmeran, Feliks, Ignacy, Imbram, Innocenty, Joachim, Jonasz, Józefa, Kandyd, Maurycy, Prosimir, Tacjusz, Tomasz, Wiktor, Witalis",
+      "liczba_imion": 20
+    },
+    {
+      "data": "23 września",
+      "miesiac": 9,
+      "dzien": 23,
+      "imiona": "Adamnan, Andrzej, Antoni, Bernardyna, Boguchwała, Bogufała, Bogusław, Elżbieta, Jan, Konstancjusz, Krzysztof, Lina, Linus, Liwiusz, Piotr, Pius, Poliksena, Projektus, Tekla, Wiercisław, Zachariasz, Zachary, Zofia",
+      "liczba_imion": 23
+    },
+    {
+      "data": "24 września",
+      "miesiac": 9,
+      "dzien": 24,
+      "imiona": "Amata, Gerard, Gerarda, Herman, Jaromir, Kolumba, Maria, Morzysława, Pacyfik, Pafnucy, Seweryn, Tomir, Twardomir, Uniegost",
+      "liczba_imion": 14
+    },
+    {
+      "data": "25 września",
+      "miesiac": 9,
+      "dzien": 25,
+      "imiona": "Aurelia, Ermenfryd, Ermenfryda, Firmin, Franciszek, Galfryd, Gaspar, Herkulan, Irmfryd, Irmfryda, Kleofas, Minigniew, Rufus, Świętopełk, Wawrzyniec, Wincenty, Władysław, Władysława, Włodzimir, Włodzimira, Włodzisław",
+      "liczba_imion": 21
+    },
+    {
+      "data": "26 września",
+      "miesiac": 9,
+      "dzien": 26,
+      "imiona": "Amancjusz, Budziwoj, Cyprian, Damian, Euzebiusz, Kalistrat, Kasper, Kosma, Lucja, Łękomir, Łucja, Majnard, Nil, Nila, Nilus, Teresa",
+      "liczba_imion": 16
+    },
+    {
+      "data": "27 września",
+      "miesiac": 9,
+      "dzien": 27,
+      "imiona": "Adolf, Adolfa, Amadeusz, Eleazar, Gaja, Gajusz, Hiltruda, Jan, Mirabella, Mirela, Przedbor, Urban, Wawrzyniec, Wincenty, Zybert, Zybracht, Zygbert",
+      "liczba_imion": 17
+    },
+    {
+      "data": "28 września",
+      "miesiac": 9,
+      "dzien": 28,
+      "imiona": "Alodiusz, Amalia, Bernardyn, Eksuperiusz, Jan, Laurencjusz, Marek, Myślibor, Myślibora, Salomon, Sylwin, Sylwina, Tymon, Wacław, Wacława, Więcesław, Więcesława, Wawrzyniec",
+      "liczba_imion": 18
+    },
+    {
+      "data": "29 września",
+      "miesiac": 9,
+      "dzien": 29,
+      "imiona": "Cyriak, Dadzbog, Dadzboga, Dariusz, Franciszek, Fraternus, Gabriel, Gajana, Grimbald, Ludwin, Lutwin, Michalina, Michał, Mikołaj, Rafał, Rypsyma, Teodota",
+      "liczba_imion": 17
+    },
+    {
+      "data": "30 września",
+      "miesiac": 9,
+      "dzien": 30,
+      "imiona": "Euzebia, Felicja, Franciszek, Grzegorz, Hieronim, Hieronima, Honoriusz, Imisław, Jimisław, Nadzieja, Ursus, Wiktor, Znamir, Zofia",
+      "liczba_imion": 14
+    },
+    {
+      "data": "1 października",
+      "miesiac": 10,
+      "dzien": 1,
+      "imiona": "Ariel, Bawon, Cieszysław, Danuta, Jan, Julia, Krescencjusz, Krescens, Krescenty, Maksyma, Małobąd, Roman, Remigiusz (data sprzed reformy Martyrologium Rzymskiego, obecnie przeniesione na 13 stycznia), Teresa",
+      "liczba_imion": 15
+    },
+    {
+      "data": "2 października",
+      "miesiac": 10,
+      "dzien": 2,
+      "imiona": "Aleksandra, Antoni, Berengar, Berengaria, Eleuteria, Eleuteriusz, Eleutery, Leodegar, Nasiębor, Stanimir, Ursycyn, Teofil",
+      "liczba_imion": 12
+    },
+    {
+      "data": "3 października",
+      "miesiac": 10,
+      "dzien": 3,
+      "imiona": "Augustyna, Częstobrona, Cyprian, Ermegarda, Eustachy, Ewald, Ewalda, Gerard, Gerarda, Irmegarda, Kandyda, Maksymian, Romana, Sirosław, Sulibor, Teresa",
+      "liczba_imion": 16
+    },
+    {
+      "data": "4 października",
+      "miesiac": 10,
+      "dzien": 4,
+      "imiona": "Aurea, Dalewin, Dalwin, Dobromiła, Euzebiusz, Faust, Franciszek, Konrad, Konrada, Lucjan, Łucjan, Petroniusz",
+      "liczba_imion": 12
+    },
+    {
+      "data": "5 października",
+      "miesiac": 10,
+      "dzien": 5,
+      "imiona": "Apolinary, Bartłomiej, Charytyna, Donat, Eutychiusz, Faust, Faustyna, Flawia, Flawiana, Flora, Galla, Justyn, Konstancjusz, Maur, Placyd, Rajmund, Tulia, Wiktoryn",
+      "liczba_imion": 18
+    },
+    {
+      "data": "6 października",
+      "miesiac": 10,
+      "dzien": 6,
+      "imiona": "Alberta, Askaniusz, Baldwin, Baldwina, Bronisław, Bruno, Brunon, Fryderyka, Izydor, Magnus, Monika, Renat, Roman, Wiara",
+      "liczba_imion": 14
+    },
+    {
+      "data": "7 października",
+      "miesiac": 10,
+      "dzien": 7,
+      "imiona": "Amalia, Apulejusz, August, Bachus, Bakchus, Blanka, Justyna, Marceli, Marek, Maria, Mateusz, Rodsław, Rosława, Rościsława, Sergiusz, Stefan, Tekla",
+      "liczba_imion": 17
+    },
+    {
+      "data": "8 października",
+      "miesiac": 10,
+      "dzien": 8,
+      "imiona": "Artemon, Demetriusz, Ewodia, Ewodiusz, Ginter, Guncerz, Gunter, Gratus, Laurencja, Ludwik, Marcjusz, Pelagia, Symeon, Taida, Waleria",
+      "liczba_imion": 15
+    },
+    {
+      "data": "9 października",
+      "miesiac": 10,
+      "dzien": 9,
+      "imiona": "Aaron, Abraham, Arnold, Atanazja, Bogodar, Bogudar, Bożdar, Bożydar, Dionizy, Dionizjusz, Ginter, Guncerz, Gunter, Jan, Ludwik, Piotr, Przedpełk, Sara, Sybilla, Wincenty",
+      "liczba_imion": 20
+    },
+    {
+      "data": "10 października",
+      "miesiac": 10,
+      "dzien": 10,
+      "imiona": "Adalryk, Alderyk, Daniel, Dionizjusz, Dionizy, Eleuteria, Eleuteriusz, Eleutery, Eulampia, Eulampiusz, Franciszek, Gereon, German, Jan, Kalistrat, Kasjusz, Leon, Leona, Lutomir, Maria, Paulin, Przemysław, Rustyk, Rustyka, Samuel, Tomił, Tomiła I Twardostoj",
+      "liczba_imion": 27
+    },
+    {
+      "data": "11 października",
+      "miesiac": 10,
+      "dzien": 11,
+      "imiona": "Aldona, Aleksander, Andronik, Brunon, Burchard, Dobromiła, Domaczaja, Emanuel, Emilian, Firmin, Gardomir, Gromisław, Maria, Marian, Placyd, Probus, Zenaida",
+      "liczba_imion": 17
+    },
+    {
+      "data": "12 października",
+      "miesiac": 10,
+      "dzien": 12,
+      "imiona": "Cyriak, Edwin, Edwina, Eustachiusz, Eustachy, Feliks, Grodzisław, Grzymisław, Maksymilian, Maksymiliana, Serafin, Wilfryd, Witold, Witolda",
+      "liczba_imion": 14
+    },
+    {
+      "data": "13 października",
+      "miesiac": 10,
+      "dzien": 13,
+      "imiona": "Daniel, Faust, Florencjusz, Florenty, Gerald, Geraldyna, Gerbert, Honorat, January, Karp, Magdalena, Marcjalis, Maurycy, Mikołaj, Reginbald, Siemisław, Teofil, Wacław, Wacława, Wenancjusz, Wenanty",
+      "liczba_imion": 21
+    },
+    {
+      "data": "14 października",
+      "miesiac": 10,
+      "dzien": 14,
+      "imiona": "Alan, Bernard, Burchard, Dominik, Donacjan, Fortunat, Fortunata, Gaja, Gajusz, Gaudencjusz, Gaudenty, Gwendalina, Just, Kalikst, Małgorzata, Parascewa, Rustyk, Rustyka, Witalia",
+      "liczba_imion": 19
+    },
+    {
+      "data": "15 października",
+      "miesiac": 10,
+      "dzien": 15,
+      "imiona": "Antioch, Bruno, Brunon, Drogosław, Drogosława, Eutymiusz, Filipa, Gościsława, Jadwiga (wspomnienie św. Jadwigi Śląskiej – przez katolików wspominanej 16 października – u luteranów), Leonard, Roger, Sewer, Tekla, Teodoryk, Teresa",
+      "liczba_imion": 15
+    },
+    {
+      "data": "16 października",
+      "miesiac": 10,
+      "dzien": 16,
+      "imiona": "Ambroży, Aurelian, Dionizy, Elifia, Elifiusz, Emil, Florentyn, Gaweł, Gerard, Gerarda, Grzegorz, Iga, Jadwiga, Lubgost, Maksyma, Małgorzata, Martynian, Nereusz, Walenty, Walentyn",
+      "liczba_imion": 20
+    },
+    {
+      "data": "17 października",
+      "miesiac": 10,
+      "dzien": 17,
+      "imiona": "Augustyna, Florentyn, Heron, Ignacy, Laurentyna, Lucyna, Małgorzata, Mamelta, Marian, Niceta, Rudolf, Rudolfa, Rudolfina, Seweryna, Sulisława, Wiktor, Zuzanna",
+      "liczba_imion": 17
+    },
+    {
+      "data": "18 października",
+      "miesiac": 10,
+      "dzien": 18,
+      "imiona": "Asklepiades, Bratomił, Julian, Just, Łukasz, Miłobrat, Piotr, Remigia, Remigiusz, Siemowit, Tryfonia, Ziemowit",
+      "liczba_imion": 12
+    },
+    {
+      "data": "19 października",
+      "miesiac": 10,
+      "dzien": 19,
+      "imiona": "Akwilin, Ferdynand, Fredeswinda, Fryda, Gabriel, Izaak, Jan, Jerzy, Kleopatra, Laura, Lucjusz, Łucjusz, Paweł, Ptolemeusz, Skarbimir",
+      "liczba_imion": 15
+    },
+    {
+      "data": "20 października",
+      "miesiac": 10,
+      "dzien": 20,
+      "imiona": "Apollon, Artemiusz, Aureliusz, Aurora, Budzisława, Felicjan, Irena, Jan Kanty, Jerzy, Maria, Witalis, Żywia",
+      "liczba_imion": 12
+    },
+    {
+      "data": "21 października",
+      "miesiac": 10,
+      "dzien": 21,
+      "imiona": "Bernard, Celina, Dacjusz, Dobromił, Elżbieta, Hilarion, Jakub, Karol, Klementyna, Malchus, Pelagia, Pelagiusz, Piotr, Samuel, Urszula, Wendelin, Wszebora, Zotyk",
+      "liczba_imion": 18
+    },
+    {
+      "data": "22 października",
+      "miesiac": 10,
+      "dzien": 22,
+      "imiona": "Abercjusz, Alodia, Donat, Euzebiusz, Filip, Gliceria, Ingbert, Józefina, Kordian, Kordula, Marek, Melaniusz, Nunilona, Salomea, Sewer",
+      "liczba_imion": 15
+    },
+    {
+      "data": "23 października",
+      "miesiac": 10,
+      "dzien": 23,
+      "imiona": "Bartłomiej, Domicjusz, German, Giedymin, Gracjan, Gracjana, Gracjanna, Honorat, Ignacy, Jan, Klotylda, Małogost, Marlena, Roman, Seweryn",
+      "liczba_imion": 15
+    },
+    {
+      "data": "24 października",
+      "miesiac": 10,
+      "dzien": 24,
+      "imiona": "Alojzy, Antoni, Areta, Aretas, Boleczest, Feliks, Filip, Jan, January, Józef, Marcin, Marek, Pamfilia, Prokles, Prokul, Rafał, Septym, Walentyna",
+      "liczba_imion": 18
+    },
+    {
+      "data": "25 października",
+      "miesiac": 10,
+      "dzien": 25,
+      "imiona": "Antonin, Chryzant, Chryzanta, Cyryn, Cyryna, Daria, Gaudenty, Hilary, Inga, January, Katarzyna, Kryspin, Kryspinian, Maur, Prot, Sambor, Tadea, Tadeusz, Teodozjusz, Wojmir",
+      "liczba_imion": 20
+    },
+    {
+      "data": "26 października",
+      "miesiac": 10,
+      "dzien": 26,
+      "imiona": "Amand, Amanda, Bernard, Bonawentura, Damian, Demetriusz, Ewaryst, Felicysym, Fulko, Kalistrat, Leonarda, Lucjan, Lucyna, Ludomiła, Lutosław, Łucjan, Łucjana, Marcjan, Rustyk, Rustyka",
+      "liczba_imion": 20
+    },
+    {
+      "data": "27 października",
+      "miesiac": 10,
+      "dzien": 27,
+      "imiona": "Barnim, Frumencjusz, Józef, Kapitolina, Manfred, Manfreda, Siestrzemił, Wielebor",
+      "liczba_imion": 8
+    },
+    {
+      "data": "28 października",
+      "miesiac": 10,
+      "dzien": 28,
+      "imiona": "Anastazja, Cyryl, Cyryla, Domabor, Faro, Fidelis, Honorat, Juda Tadeusz, Ksymena, Sabina, Szymon, Tadeusz, Wielimir, Wincenty, Wszeciech",
+      "liczba_imion": 15
+    },
+    {
+      "data": "29 października",
+      "miesiac": 10,
+      "dzien": 29,
+      "imiona": "Dalia, Dalimir, Donat, Ermelinda, Euzebia, Felicjan, Franciszek, Ida, Lubgost, Maksymilian, Narcyz, Piotr, Serafin, Teodor, Walenty, Walentyn, Wioletta, Zenobiusz, Żelibor",
+      "liczba_imion": 19
+    },
+    {
+      "data": "30 października",
+      "miesiac": 10,
+      "dzien": 30,
+      "imiona": "Anioł, Benwenuta, Edmund, Eutropia, Gerard, German, Julian, Klaudiusz, Liberat, Makary, Maksym, Marceli, Marcjan, Przemysław, Saturnin, Serapion, Sęczygniew, Sulimir, Zenobia",
+      "liczba_imion": 19
+    },
+    {
+      "data": "31 października",
+      "miesiac": 10,
+      "dzien": 31,
+      "imiona": "Alfons, Antonin, Augusta, Bega, Godzimir, Krzysztof, Krzysztofa, Kwintyn, Lucyla, Lucyliusz, Łukasz, Narcyz, Saturnin, Saturnina, Urban, Wolfgang",
+      "liczba_imion": 16
+    },
+    {
+      "data": "1 listopada",
+      "miesiac": 11,
+      "dzien": 1,
+      "imiona": "Andrzej, Benignus, Benigny, Cyrenia, Jakub, Jan, Julianna, Konradyn, Konradyna, Licyniusz, Marceli, Maria, Nikola, Rajner, Robert, Seweryn, Teodor, Warcisław, Wiktoryna",
+      "liczba_imion": 19
+    },
+    {
+      "data": "2 listopada",
+      "miesiac": 11,
+      "dzien": 2,
+      "imiona": "Agapiusz, Ambroży, Bohdan, Bohdana, Eudoksjusz, Jerzy, Malachiasz, Małgorzata, Marcjan, Stomir, Teodot, Tobiasz, Wiktoryn, Wojsław, Wojsława",
+      "liczba_imion": 15
+    },
+    {
+      "data": "3 listopada",
+      "miesiac": 11,
+      "dzien": 3,
+      "imiona": "Bogumił, Cezary, Chwalisław, German, Ginewra, Hubert, Huberta, Marcin, Sylwia, Szymon, Teofil, Walenty, Walentyn, Wenefryda, Witalis",
+      "liczba_imion": 15
+    },
+    {
+      "data": "4 listopada",
+      "miesiac": 11,
+      "dzien": 4,
+      "imiona": "Agrykola, Amancjusz, Dżesika, Emeryk, Emeryka, Florus, Franciszka, Helena, Joannicjusz, Karol, Karol Boromeusz, Modesta, Mojżesz, Mszczujwoj, Mścisława, Mściwoj, Olgierd, Perpet, Perpetua, Sędomir, Sędzimir, Witalis",
+      "liczba_imion": 22
+    },
+    {
+      "data": "5 listopada",
+      "miesiac": 11,
+      "dzien": 5,
+      "imiona": "Blandyn, Blandyna, Dalimiar, Dalmir, Dominik, Elżbieta (data sprzed reformy Martyrologium Rzymskiego, obecnie przeniesione na 23 września), Filotea, Filoteusz, Florian, Gerald, Gwidon, Magnus, Marek, Sławomir, Sylwan, Teotym, Trofima",
+      "liczba_imion": 18
+    },
+    {
+      "data": "6 listopada",
+      "miesiac": 11,
+      "dzien": 6,
+      "imiona": "Anita, Bogdana, Daniela, Feliks, Gabriela, Hieronim, Kalinik, Krystyna, Leonard, Melaniusz, Nonnus, Teobald, Trzebowit, Walenty, Walentyn, Wincenta",
+      "liczba_imion": 16
+    },
+    {
+      "data": "7 listopada",
+      "miesiac": 11,
+      "dzien": 7,
+      "imiona": "Achilles, Amaranta, Antoni, Engelbert, Florencjusz, Florenty, Gizbert, Herkulan, Hezychiusz, Ingarda, Karina, Longin, Longina, Melchior, Nikander, Nikandra, Przemił, Rufus, Wilibrord, Wincenty, Żelibrat",
+      "liczba_imion": 21
+    },
+    {
+      "data": "8 listopada",
+      "miesiac": 11,
+      "dzien": 8,
+      "imiona": "Bogdan, Bogodar, Bogudar, Bohdan, Bożdar, Bożydar, Godfryd, Gotfryd, Jan, Józef, Klaudiusz, Klarus, Marcin, Maur, Paweł, Sewer, Sewerian, Sędziwoj, Symforian, Symforiana, Symplicjusz, Symplicy, Wiktoryn, Wilehad",
+      "liczba_imion": 24
+    },
+    {
+      "data": "9 listopada",
+      "miesiac": 11,
+      "dzien": 9,
+      "imiona": "Agrypin, Aleksander, Benignus, Benigny, Bogdan, Dziwigor, Elżbieta, Genowefa, Gorzysław, Joanna, Lilla, Ludwik, Nestor, Orestes, Ścibor, Świecław, Teodor, Ursyn",
+      "liczba_imion": 18
+    },
+    {
+      "data": "10 listopada",
+      "miesiac": 11,
+      "dzien": 10,
+      "imiona": "Andrzej, Anian, Demetriusz, Florencja, Just, Leon, Leona, Lena, Ludomir, Monitor, Nimfa, Probus, Stefan, Tryfena, Uniebog",
+      "liczba_imion": 15
+    },
+    {
+      "data": "11 listopada",
+      "miesiac": 11,
+      "dzien": 11,
+      "imiona": "Anastazja, Alicja, Bartłomiej, Jan, Jozafat, Maciej, Marcin, Maryna, Menas, Pafnucy, Prot, Sobieżyr, Teodor",
+      "liczba_imion": 13
+    },
+    {
+      "data": "12 listopada",
+      "miesiac": 11,
+      "dzien": 12,
+      "imiona": "Arsacjusz, Aureliusz, Cibor, Czcibor, Emilian, Gabriel, Jan, Jonasz, Jozafat, Kunibert, Nila, Nilus, Publiusz, Renat, Renata, Witold, Witolda",
+      "liczba_imion": 17
+    },
+    {
+      "data": "13 listopada",
+      "miesiac": 11,
+      "dzien": 13,
+      "imiona": "Abbo, Abbon, Alojzy, Antonin, Arkadia, Arkadiusz, Arkady, Augustyna, Benedykt, Brykcjusz, Dalmacjusz, Dydak, Eugeniusz, Eutychian, German, Izaak, Jan, Kalikst, Krystyn, Liwia, Mateusz, Mikołaj, Nicefor, Paschazy, Probus, Stanisław, Walenty, Walentyn, Wiktor, Wilhelm, Włodzisław",
+      "liczba_imion": 31
+    },
+    {
+      "data": "14 listopada",
+      "miesiac": 11,
+      "dzien": 14,
+      "imiona": "Agrypin, Agryppa, Antyd, Damian, Elżbieta, Filomen, Hipacy, Jan, Józef, Jukund, Klementyn, Kosma, Laurenty, Lewin, Mikołaj, Montan, Serapion, Stefan, Ścibor, Ścibora, Świecław, Teodot, Wawrzyniec, Wszerad",
+      "liczba_imion": 24
+    },
+    {
+      "data": "15 listopada",
+      "miesiac": 11,
+      "dzien": 15,
+      "imiona": "Albert, Alfons, Artur, Gurias, Idalia, Józef, Leopold, Leopoldyna, Przybygniew, Sekundus, Roger",
+      "liczba_imion": 11
+    },
+    {
+      "data": "16 listopada",
+      "miesiac": 11,
+      "dzien": 16,
+      "imiona": "Agnieszka, Audomar, Ariel, Aureliusz, Dionizy, Edmund, Eucheriusz, Gertruda, Łucja, Małgorzata, Niedamir, Otmar, Patrokles",
+      "liczba_imion": 13
+    },
+    {
+      "data": "17 listopada",
+      "miesiac": 11,
+      "dzien": 17,
+      "imiona": "Alfeusz, Arabella, Dionizy, Drogomir, Drogoradz, Elżbieta, Floryn, Grzegorz, Hugo, Hugon, Jan, Jozafat, Roch, Salomea, Sulibor, Wiktoria, Zacheusz, Zbysław",
+      "liczba_imion": 18
+    },
+    {
+      "data": "18 listopada",
+      "miesiac": 11,
+      "dzien": 18,
+      "imiona": "Aniela, Cieszymysł, Filipina, Gabriela, Galezy, Hezychiusz, Józefa, Karolina, Klaudyna, Leonard, Noe, Odo, Odon, Roman, Tomasz",
+      "liczba_imion": 15
+    },
+    {
+      "data": "19 listopada",
+      "miesiac": 11,
+      "dzien": 19,
+      "imiona": "Barlaam, Barbara, Dionizy, Dargosław, Elżbieta, Faust, Jakub, Kryspin, Maksym, Małowid, Matylda, Paweł, Salomea, Seweryn, Teodor",
+      "liczba_imion": 15
+    },
+    {
+      "data": "20 listopada",
+      "miesiac": 11,
+      "dzien": 20,
+      "imiona": "Agapiusz, Ampelia, Ampeliusz, Edmund, Eustachy, Feliks, Fortunata, Grzegorz, Lubomir, Maksencja, Maria, Narzes, Oktawia, Oktawiusz, Rafał, Sędzimir, Sylwester, Sylwestra, Symplicjusz, Symplicy, Tespezjusz, Tespezy",
+      "liczba_imion": 22
+    },
+    {
+      "data": "21 listopada",
+      "miesiac": 11,
+      "dzien": 21,
+      "imiona": "Albert, Elwira, Gelazja, Gelazy, Heliodor, Janusz, Kadok, Kolumban, Konrad, Maria, Regina, Rufus, Twardosław, Wiesław",
+      "liczba_imion": 14
+    },
+    {
+      "data": "22 listopada",
+      "miesiac": 11,
+      "dzien": 22,
+      "imiona": "Cecylia, Ernestyna, Filemon, Filemona, Marek, Maur, Salwator, Stefan, Wszemił, Wszemiła",
+      "liczba_imion": 10
+    },
+    {
+      "data": "23 listopada",
+      "miesiac": 11,
+      "dzien": 23,
+      "imiona": "Amfiloch, Felicyta, Fotyna, Grzegorz, Klemens, Lukrecja, Michał, Orestes, Przedwoj, Syzyniusz",
+      "liczba_imion": 10
+    },
+    {
+      "data": "24 listopada",
+      "miesiac": 11,
+      "dzien": 24,
+      "imiona": "Agnieszka, Aleksander, Biruta, Chryzogon, Dargorad, Dobrosław, Emilia, Emma, Enfleda, Felicjana, Felicjanna, Firmina, Flora, Franciszek, Jan, Jaśmina, Joachim, Pęcisław, Protazy, Roman, Twardomir, Walenty, Walentyn",
+      "liczba_imion": 23
+    },
+    {
+      "data": "25 listopada",
+      "miesiac": 11,
+      "dzien": 25,
+      "imiona": "Beatrycze, Elżbieta, Erazm, Godzimir, Józef, Katarzyna, Maria, Merkury, Mojżesz, Piotr, Tęgomir",
+      "liczba_imion": 11
+    },
+    {
+      "data": "26 listopada",
+      "miesiac": 11,
+      "dzien": 26,
+      "imiona": "Alipiusz, Ammonia, Ammoniusz, Delfin, Dobiemiest, Faust, Hezychiusz, Jan, Kajetana, Konrad, Konrada, Lechosław, Lechosława, Leonard, Marceli, Nikon, Pachomiusz, Piotr, Stylian, Sylwester, Sylwestra, Syrycjusz, Teodor",
+      "liczba_imion": 23
+    },
+    {
+      "data": "27 listopada",
+      "miesiac": 11,
+      "dzien": 27,
+      "imiona": "Achacjusz, Achacy, Astryda, Bernardyn, Damazy, Dominik, Franciszek, Gustaw, Gustawa, Irenarch, Jakub, Jarosław, Jozafat, Maksym, Małgorzata, Oda, Prymityw, Radosław, Stojgniew, Walerian, Walery, Wergilia, Wergiliusz, Wirgilia, Wirgiliusz, Zygfryd, Zygfryda, Żaneta",
+      "liczba_imion": 28
+    },
+    {
+      "data": "28 listopada",
+      "miesiac": 11,
+      "dzien": 28,
+      "imiona": "Berta, Eustachy, Feliks, Ginter, Gościrad, Grzegorz, Guncerz, Gunter, Jakub, Krescenty (Krescencjusz, Krescens), Kwieta, Lesław, Lesława, Manswet, Radowit, Rufus, Sostenes, Stefan, Teodora, Tristan, Urban, Walerian, Zdziesław, Zdzisław",
+      "liczba_imion": 25
+    },
+    {
+      "data": "29 listopada",
+      "miesiac": 11,
+      "dzien": 29,
+      "imiona": "Błażej, Błażeja, Bolemysł, Dionizy, Filomen, Franciszek, Fryderyk, Klementyna, Pafnucy, Paramon, Przemysł, Radbod, Saturnin, Siedlewit, Syzyniusz, Walter",
+      "liczba_imion": 16
+    },
+    {
+      "data": "30 listopada",
+      "miesiac": 11,
+      "dzien": 30,
+      "imiona": "Andrzej, Fryderyk, Justyna, Konstancjusz, Kutbert, Maura, Tadea, Zbysława, Zozym",
+      "liczba_imion": 9
+    },
+    {
+      "data": "1 grudnia",
+      "miesiac": 12,
+      "dzien": 1,
+      "imiona": "Aleksander, Ananiasz, Antoni, Blanka, Długomił, Edmund, Eligia, Eligiusz, Ewazjusz, Florencja, Godzisław, Gosław, Gosława, Jan, Natalia, Prokul, Projektus, Rudolf, Rudolfa, Rudolfina, Sobiesław, Sobiesława",
+      "liczba_imion": 22
+    },
+    {
+      "data": "2 grudnia",
+      "miesiac": 12,
+      "dzien": 2,
+      "imiona": "Aurelia, Balbina, Bibiana, Bibianna, Budzisław, Budzisława, Budzsław, Jan, Ludwina, Maria, Paulina, Rafał, Sulisław, Sylwan, Sylweriusz, Sylwery, Walenty, Walentyn, Wiktoryn, Zbylut",
+      "liczba_imion": 20
+    },
+    {
+      "data": "3 grudnia",
+      "miesiac": 12,
+      "dzien": 3,
+      "imiona": "Atalia, Biryn, Ema, Emma, Franciszek, Franciszek Ksawery, Gerlinda, Hilaria, Kasjan, Kryspin, Ksawery, Lucjusz, Łucjusz, Mirokles, Sofoniasz, Uniemir",
+      "liczba_imion": 16
+    },
+    {
+      "data": "4 grudnia",
+      "miesiac": 12,
+      "dzien": 4,
+      "imiona": "Barbara, Benon, Bernard, Bratomiła, Bratumiła, Chrystian, Ciechosław, Ciechosława, Cieszybor, Feliks, Filip, Hieronim, Jan, Klemens, Krystian, Marut, Maruta, Marutas, Melecjusz, Osmund, Teofan",
+      "liczba_imion": 21
+    },
+    {
+      "data": "5 grudnia",
+      "miesiac": 12,
+      "dzien": 5,
+      "imiona": "Anastazy, Bartosz, Bartłomiej, Dalmacjusz, Feliks, Gerald, Geraldyna, Jan, Juliusz, Kryspin, Kryspina, Krystyna, Mikołaj, Pelin, Pelina, Pęcisława, Sabbas",
+      "liczba_imion": 17
+    },
+    {
+      "data": "6 grudnia",
+      "miesiac": 12,
+      "dzien": 6,
+      "imiona": "Abraham, Angelika, Bonifacy, Dionizja, Emilian, Heliodor, Leoncja, Mikołaj, Morzysława, Piotr, Polichroniusz, Nikola, Tercjusz",
+      "liczba_imion": 13
+    },
+    {
+      "data": "7 grudnia",
+      "miesiac": 12,
+      "dzien": 7,
+      "imiona": "Agaton, Ambrozja, Ambroży, Atenodor, Eutychian, Józefa, Marcin, Marcisław, Ninomysł, Polikarp, Sabin, Siemirad, Urban, Zdziemił",
+      "liczba_imion": 14
+    },
+    {
+      "data": "8 grudnia",
+      "miesiac": 12,
+      "dzien": 8,
+      "imiona": "Alojzy, Apollo, Boguwola, Edyta, Elfryda, Euchariusz, Euchary, Hildemar, Makary, Maria, Narcyza, Patapiusz, Potapiusz, Romaryk, Świedarg",
+      "liczba_imion": 15
+    },
+    {
+      "data": "9 grudnia",
+      "miesiac": 12,
+      "dzien": 9,
+      "imiona": "Chwalimira, Delfina, Gorgonia, Jan, Leokadia, Liboriusz, Naczęmir, Natasza, Piotr, Prokul, Waleria, Wielisława, Wiesław, Wiesława, Wrocisław",
+      "liczba_imion": 15
+    },
+    {
+      "data": "10 grudnia",
+      "miesiac": 12,
+      "dzien": 10,
+      "imiona": "Bogdał, Bogdan, Bogodał, Brajan, Daniel, Donat, Eulalia, Grzegorz, Hermogenes, Judyta, Julia, Loreta, Maria, Maur, Melchiades, Menas, Nikoleta, Polidor, Switun, Unierad, Unirad",
+      "liczba_imion": 21
+    },
+    {
+      "data": "11 grudnia",
+      "miesiac": 12,
+      "dzien": 11,
+      "imiona": "Artur, Damazy, Daniel, Gościwit, Hieronim, Maria, Poncjan, Sabin, Stefan, Waldemar, Walenty, Walentyn, Wilburga, Wojmir",
+      "liczba_imion": 14
+    },
+    {
+      "data": "12 grudnia",
+      "miesiac": 12,
+      "dzien": 12,
+      "imiona": "Adelajda, Aleksander, Amonaria, Bartosz, Dionizja, Edburga, Epimach, Franciszka, Gościwit, Justyn, Konrad, Konrada, Konstancjusz, Liberata, Maksanty, Maksencjusz, Merkuria, Paramon, Przybysława, Spirydion, Spirydon, Suliwuj, Synezjusz",
+      "liczba_imion": 23
+    },
+    {
+      "data": "13 grudnia",
+      "miesiac": 12,
+      "dzien": 13,
+      "imiona": "Antioch, Antoni, Aubert, Auksencja, Auksencjusz, Auksenty, Edburga, Eugeniusz, Jodok, Łucja, Orestes, Otylia, Róża, Samboja, Walenty, Walentyn",
+      "liczba_imion": 16
+    },
+    {
+      "data": "14 grudnia",
+      "miesiac": 12,
+      "dzien": 14,
+      "imiona": "Agnellus, Arseniusz, Bertold, Druzus, Eutropia, Gorzysław, Heron, Izydor, Jan, Nahum, Nikazjusz, Nikazy, Noemi, Pompejusz, Sławobor, Teodor, Wenancjusz, Wenanty, Wiator, Zozym",
+      "liczba_imion": 20
+    },
+    {
+      "data": "15 grudnia",
+      "miesiac": 12,
+      "dzien": 15,
+      "imiona": "Antoni, Bachus, Bakchus, Drogosław, Drogosława, Euzebiusz, Ireneusz, Jan, Maksymin, Maksymina, Maria, Maryn, Maryniusz, Mścigniew, Mścigniewa, Saturnin, Sylwia, Teodor, Walerian, Weronika, Wiktor, Wirginia, Wolimir",
+      "liczba_imion": 23
+    },
+    {
+      "data": "16 grudnia",
+      "miesiac": 12,
+      "dzien": 16,
+      "imiona": "Agrykola (m.), Ananiasz, Adelajda, Albina, Alina, Deder, Dyter, Euzebiusz, Konkordiusz, Maria, Sebastian, Tyter, Walenty, Walentyn, Wolisław, Wolisława, Zdzisław, Zdzisława",
+      "liczba_imion": 18
+    },
+    {
+      "data": "17 grudnia",
+      "miesiac": 12,
+      "dzien": 17,
+      "imiona": "Bega, Florian, Jan, Łazarz, Łukasz, Modest, Olimpia, Wiwina, Żerosław, Żyrosław",
+      "liczba_imion": 10
+    },
+    {
+      "data": "18 grudnia",
+      "miesiac": 12,
+      "dzien": 18,
+      "imiona": "Auksencja, Auksencjusz, Auksenty, Bogusław, Flawit, Gościmiar, Kwintus, Miłosław, Nemezja, Rufus, Symplicjusz, Winebald, Winibald, Winibalda, Wszemir, Wunibald, Zofia, Zozym",
+      "liczba_imion": 18
+    },
+    {
+      "data": "19 grudnia",
+      "miesiac": 12,
+      "dzien": 19,
+      "imiona": "Abraham, Anastazy, Beniamin, Bogumiła, Dariusz, Eleonora, Grzegorz, Kazimiera, Mścigniew, Nemezjusz, Nemezy, Protazja, Tymoteusz, Urban",
+      "liczba_imion": 14
+    },
+    {
+      "data": "20 grudnia",
+      "miesiac": 12,
+      "dzien": 20,
+      "imiona": "Amon, Bogumił, Bogumiła, Dagmara, Dagna, Dominik, Eugeniusz, Krystian, Liberat, Makary, Ptolemeusz, Teofil, Ursycyn, Wincenty, Zefiryn, Zenon",
+      "liczba_imion": 16
+    },
+    {
+      "data": "21 grudnia",
+      "miesiac": 12,
+      "dzien": 21,
+      "imiona": "Anastazy, Balbin, Festus, Gliceriusz, Glicery, Honorat, Piotr, Temistokles, Tomasz, Tomisław, Tomisława",
+      "liczba_imion": 11
+    },
+    {
+      "data": "22 grudnia",
+      "miesiac": 12,
+      "dzien": 22,
+      "imiona": "Beata, Dobrosułka, Drogomir, Dziesława, Dziwisław, Flawian, Franciszka, Franciszka Ksawera, Gryzelda, Honorata, Ischyrion, Judyta, Ksawera, Luboradz, Zenon, Zenona",
+      "liczba_imion": 16
+    },
+    {
+      "data": "23 grudnia",
+      "miesiac": 12,
+      "dzien": 23,
+      "imiona": "Anatola, Anatolia, Bazylides, Dagobert, Ewaryst, Ewarysta, Gelazy, Iwo, Iwona, Mardoniusz, Saturnin, Serwul, Sławomir, Sławomira, Teodul, Torlak, Wiktoria",
+      "liczba_imion": 17
+    },
+    {
+      "data": "24 grudnia",
+      "miesiac": 12,
+      "dzien": 24,
+      "imiona": "Ada, Adam, Adamina, Adela, Delfin, Druzjan, Druzjanna, Eryk, Eryka, Ewa, Ewelina, Godzisław, Godzisława, Grzegorz, Grzymisława, Hermana, Hermina, Herminia, Irma, Irmina, Józef, Paula, Tarsylia, Zenobiusz",
+      "liczba_imion": 24
+    },
+    {
+      "data": "25 grudnia",
+      "miesiac": 12,
+      "dzien": 25,
+      "imiona": "Anastazja, Eugenia, Maria, Mateusz, Natan, Piotr, Siemosław",
+      "liczba_imion": 7
+    },
+    {
+      "data": "26 grudnia",
+      "miesiac": 12,
+      "dzien": 26,
+      "imiona": "Dionizy, Szczepan, Teodor, Wincencja, Wincenta, Wincentyna, Wrociwoj, Zenon, Zozym",
+      "liczba_imion": 9
+    },
+    {
+      "data": "27 grudnia",
+      "miesiac": 12,
+      "dzien": 27,
+      "imiona": "Bartłomiej, Cezary, Fabiola, Gosław, Jan, Krystyna, Maksym, Mateusz, Przybyrad, Przybysław, Sara, Teodor, Teofan, Żaneta",
+      "liczba_imion": 14
+    },
+    {
+      "data": "28 grudnia",
+      "miesiac": 12,
+      "dzien": 28,
+      "imiona": "Antoni, Armin, Cezary, Dobrowieść, Domna, Domniusz, Emma, Godzisław, Teofila, Teona, Teonas, Troadiusz",
+      "liczba_imion": 12
+    },
+    {
+      "data": "29 grudnia",
+      "miesiac": 12,
+      "dzien": 29,
+      "imiona": "Dawid, Domaradz, Dominik, Ebrulf, Ekhard, Gerard, Gerarda, Gosław, Honorat, Jonatan, Krescencjusz, Krescens, Krescenty, Marceli, Marcin, Prymian, Radowit, Saturnin, Tadea, Tomasz, Trofim, Wiktor",
+      "liczba_imion": 22
+    },
+    {
+      "data": "30 grudnia",
+      "miesiac": 12,
+      "dzien": 30,
+      "imiona": "Anizja, Anizjusz, Dionizy, Egwin, Eksuperancjusz, Eugeniusz, Liberiusz, Łazarz, Małgorzata, Marceli, Perpet, Rajner, Sewer, Uniedrog",
+      "liczba_imion": 14
+    },
+    {
+      "data": "31 grudnia",
+      "miesiac": 12,
+      "dzien": 31,
+      "imiona": "Barbacjan, Donata, Katarzyna, Kolumba, Mariusz, Melania, Paulina, Saturnina, Sebastian, Sylwester, Sylwestra, Tworzysław, Zotyk",
+      "liczba_imion": 13
+    }
+  ],
+  "meta": {
+    "title": "Kalendarz imienin – kto obchodzi imieniny w danym dniu - Free Download",
+    "description": "Imiona obchodzące imieniny w każdym dniu roku (od 1 stycznia do 31 grudnia, łącznie z 29 lutego) według polskiego kalendarza imienin, na podstawie artykułów o poszczególnych dniach roku w polskiej Wikipedii. Contains 366 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kalendarz imienin – kto obchodzi imieniny w danym dniu | ListBase",
+    "seo_description": "Download Kalendarz imienin – kto obchodzi imieniny w danym dniu — 366 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 366 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Imieniny"
+    ]
+  }
+}

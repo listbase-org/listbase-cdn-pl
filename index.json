@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-20T02:20:32.614Z",
-  "total_datasets": 585,
-  "total_records": 1097197,
+  "generated": "2026-11-23T02:37:03.204Z",
+  "total_datasets": 586,
+  "total_records": 1097563,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -14937,6 +14937,32 @@
         "xlsx": {
           "name": "pl-dni-kwartaly-ery_PL.xlsx",
           "size": 7584
+        }
+      }
+    },
+    {
+      "id": "pl-kalendarz-imienin",
+      "name": "Kalendarz imienin – kto obchodzi imieniny w danym dniu",
+      "category": "time",
+      "record_count": 366,
+      "columns": [
+        "data",
+        "miesiac",
+        "dzien",
+        "imiona",
+        "liczba_imion"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Imieniny",
+      "updated": "2026-11",
+      "size": 107629,
+      "files": {
+        "csv": {
+          "name": "pl-kalendarz-imienin_PL.csv",
+          "size": 71013
+        },
+        "xlsx": {
+          "name": "pl-kalendarz-imienin_PL.xlsx",
+          "size": 36558
         }
       }
     },
