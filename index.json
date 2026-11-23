@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-23T02:37:03.204Z",
-  "total_datasets": 586,
-  "total_records": 1097563,
+  "generated": "2026-11-23T02:37:13.290Z",
+  "total_datasets": 587,
+  "total_records": 1097579,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -4172,6 +4172,31 @@
         "xlsx": {
           "name": "pl-lekarze-na-10-tys-ludnosci-wojewodztwa_PL.xlsx",
           "size": 7366
+        }
+      }
+    },
+    {
+      "id": "pl-lozka-szpitalne-wojewodztwa-2025",
+      "name": "Łóżka szpitalne według województw (2025)",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "lozka_w_szpitalach",
+        "lozka_szpitale_ogolne_na_10_tys",
+        "lozka_szpitale_psychiatryczne_na_10_tys"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+      "updated": "2026-11",
+      "size": 4851,
+      "files": {
+        "csv": {
+          "name": "pl-lozka-szpitalne-wojewodztwa-2025_PL.csv",
+          "size": 711
+        },
+        "xlsx": {
+          "name": "pl-lozka-szpitalne-wojewodztwa-2025_PL.xlsx",
+          "size": 7323
         }
       }
     },

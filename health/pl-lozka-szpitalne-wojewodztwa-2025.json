@@ -1,0 +1,142 @@
+{
+  "id": "pl-lozka-szpitalne-wojewodztwa-2025",
+  "name": "Łóżka szpitalne według województw (2025)",
+  "title": "Łóżka szpitalne według województw (2025)",
+  "description": "Liczba łóżek w szpitalach ogółem oraz łóżka w szpitalach ogólnych i psychiatrycznych na 10 tys. ludności w 2025 r. w podziale na województwa (GUS, Bank Danych Lokalnych).",
+  "category": "health",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "lozka_w_szpitalach",
+      "label": "Lozka W Szpitalach",
+      "type": "number"
+    },
+    {
+      "key": "lozka_szpitale_ogolne_na_10_tys",
+      "label": "Lozka Szpitale Ogolne Na 10 Tys",
+      "type": "number"
+    },
+    {
+      "key": "lozka_szpitale_psychiatryczne_na_10_tys",
+      "label": "Lozka Szpitale Psychiatryczne Na 10 Tys",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "małopolskie",
+      "lozka_w_szpitalach": 13247,
+      "lozka_szpitale_ogolne_na_10_tys": 38.63,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 2.74
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "lozka_w_szpitalach": 20543,
+      "lozka_szpitale_ogolne_na_10_tys": 48.2,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 4.29
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "lozka_w_szpitalach": 3670,
+      "lozka_szpitale_ogolne_na_10_tys": 38.09,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 9.3
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "lozka_w_szpitalach": 13361,
+      "lozka_szpitale_ogolne_na_10_tys": 38.49,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 3.9
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "lozka_w_szpitalach": 6368,
+      "lozka_szpitale_ogolne_na_10_tys": 39.49,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 1.05
+    },
+    {
+      "wojewodztwo": "dolnośląskie",
+      "lozka_w_szpitalach": 12734,
+      "lozka_szpitale_ogolne_na_10_tys": 44.57,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 4.78
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "lozka_w_szpitalach": 3633,
+      "lozka_szpitale_ogolne_na_10_tys": 39.34,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 8.37
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lozka_w_szpitalach": 8410,
+      "lozka_szpitale_ogolne_na_10_tys": 42.65,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 3.12
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "lozka_w_szpitalach": 7468,
+      "lozka_szpitale_ogolne_na_10_tys": 31.67,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 5.27
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lozka_w_szpitalach": 5790,
+      "lozka_szpitale_ogolne_na_10_tys": 43.23,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 4.87
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "lozka_w_szpitalach": 11058,
+      "lozka_szpitale_ogolne_na_10_tys": 47.48,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 5.08
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "lozka_w_szpitalach": 5073,
+      "lozka_szpitale_ogolne_na_10_tys": 44.22,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 6.11
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "lozka_w_szpitalach": 9361,
+      "lozka_szpitale_ogolne_na_10_tys": 47.26,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 4.93
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "lozka_w_szpitalach": 8455,
+      "lozka_szpitale_ogolne_na_10_tys": 41.17,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 3.29
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "lozka_w_szpitalach": 5144,
+      "lozka_szpitale_ogolne_na_10_tys": 45.66,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 9.07
+    },
+    {
+      "wojewodztwo": "mazowieckie",
+      "lozka_w_szpitalach": 22801,
+      "lozka_szpitale_ogolne_na_10_tys": 41.41,
+      "lozka_szpitale_psychiatryczne_na_10_tys": 4.91
+    }
+  ],
+  "meta": {
+    "title": "Łóżka szpitalne według województw (2025) - Free Download",
+    "description": "Liczba łóżek w szpitalach ogółem oraz łóżka w szpitalach ogólnych i psychiatrycznych na 10 tys. ludności w 2025 r. w podziale na województwa (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Łóżka szpitalne według województw (2025) | ListBase",
+    "seo_description": "Download Łóżka szpitalne według województw (2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat"
+    ]
+  }
+}
