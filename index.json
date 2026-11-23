@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-23T02:37:13.290Z",
-  "total_datasets": 587,
-  "total_records": 1097579,
+  "generated": "2026-11-23T02:37:21.220Z",
+  "total_datasets": 588,
+  "total_records": 1097595,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "math",
@@ -4837,6 +4837,36 @@
         "xlsx": {
           "name": "pl-prezesi-trybunalu-konstytucyjnego_PL.xlsx",
           "size": 7418
+        }
+      }
+    },
+    {
+      "id": "pl-przestepstwa-na-1000-mieszkancow-wojewodztwa-2024",
+      "name": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024)",
+      "category": "law",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "przestepstwa_ogolem_na_1000",
+        "kryminalne_na_1000",
+        "gospodarcze_na_1000",
+        "drogowe_na_1000",
+        "przeciwko_zyciu_i_zdrowiu_na_1000",
+        "przeciwko_mieniu_na_1000",
+        "przeciwko_rodzinie_i_opiece_na_1000",
+        "wykrywalnosc_sprawcow_ogolem_pct"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat/K30/G223/P2290",
+      "updated": "2026-11",
+      "size": 9000,
+      "files": {
+        "csv": {
+          "name": "pl-przestepstwa-na-1000-mieszkancow-wojewodztwa-2024_PL.csv",
+          "size": 1399
+        },
+        "xlsx": {
+          "name": "pl-przestepstwa-na-1000-mieszkancow-wojewodztwa-2024_PL.xlsx",
+          "size": 7886
         }
       }
     },

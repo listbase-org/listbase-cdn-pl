@@ -1,0 +1,247 @@
+{
+  "id": "pl-przestepstwa-na-1000-mieszkancow-wojewodztwa-2024",
+  "name": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024)",
+  "title": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024)",
+  "description": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców w 2024 r. w podziale na województwa i kategorie (kryminalne, gospodarcze, drogowe, przeciwko życiu i zdrowiu, mieniu, rodzinie) oraz wskaźnik wykrywalności sprawców (GUS, Bank Danych Lokalnych).",
+  "category": "law",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat/K30/G223/P2290",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat/K30/G223/P2290",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "przestepstwa_ogolem_na_1000",
+      "label": "Przestepstwa Ogolem Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "kryminalne_na_1000",
+      "label": "Kryminalne Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "gospodarcze_na_1000",
+      "label": "Gospodarcze Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "drogowe_na_1000",
+      "label": "Drogowe Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "przeciwko_zyciu_i_zdrowiu_na_1000",
+      "label": "Przeciwko Zyciu I Zdrowiu Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "przeciwko_mieniu_na_1000",
+      "label": "Przeciwko Mieniu Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "przeciwko_rodzinie_i_opiece_na_1000",
+      "label": "Przeciwko Rodzinie I Opiece Na 1000",
+      "type": "number"
+    },
+    {
+      "key": "wykrywalnosc_sprawcow_ogolem_pct",
+      "label": "Wykrywalnosc Sprawcow Ogolem Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "małopolskie",
+      "przestepstwa_ogolem_na_1000": 24.39,
+      "kryminalne_na_1000": 10.73,
+      "gospodarcze_na_1000": 11.54,
+      "drogowe_na_1000": 1.17,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.3,
+      "przeciwko_mieniu_na_1000": 8.57,
+      "przeciwko_rodzinie_i_opiece_na_1000": 0.74,
+      "wykrywalnosc_sprawcow_ogolem_pct": 78
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "przestepstwa_ogolem_na_1000": 24.24,
+      "kryminalne_na_1000": 11.9,
+      "gospodarcze_na_1000": 9.43,
+      "drogowe_na_1000": 1.4,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.44,
+      "przeciwko_mieniu_na_1000": 11.04,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.53,
+      "wykrywalnosc_sprawcow_ogolem_pct": 73.7
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "przestepstwa_ogolem_na_1000": 23.99,
+      "kryminalne_na_1000": 14.47,
+      "gospodarcze_na_1000": 5.4,
+      "drogowe_na_1000": 2.05,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.46,
+      "przeciwko_mieniu_na_1000": 12.05,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.76,
+      "wykrywalnosc_sprawcow_ogolem_pct": 68.4
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "przestepstwa_ogolem_na_1000": 18.55,
+      "kryminalne_na_1000": 11.01,
+      "gospodarcze_na_1000": 4.57,
+      "drogowe_na_1000": 1.58,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.3,
+      "przeciwko_mieniu_na_1000": 8.5,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.19,
+      "wykrywalnosc_sprawcow_ogolem_pct": 72.5
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "przestepstwa_ogolem_na_1000": 20.33,
+      "kryminalne_na_1000": 13.88,
+      "gospodarcze_na_1000": 3.12,
+      "drogowe_na_1000": 1.98,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.43,
+      "przeciwko_mieniu_na_1000": 10.27,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.25,
+      "wykrywalnosc_sprawcow_ogolem_pct": 68
+    },
+    {
+      "wojewodztwo": "dolnośląskie",
+      "przestepstwa_ogolem_na_1000": 26.53,
+      "kryminalne_na_1000": 16.92,
+      "gospodarcze_na_1000": 5.68,
+      "drogowe_na_1000": 1.67,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.38,
+      "przeciwko_mieniu_na_1000": 14.42,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.01,
+      "wykrywalnosc_sprawcow_ogolem_pct": 62.5
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "przestepstwa_ogolem_na_1000": 17.01,
+      "kryminalne_na_1000": 9.84,
+      "gospodarcze_na_1000": 4.6,
+      "drogowe_na_1000": 1.53,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.39,
+      "przeciwko_mieniu_na_1000": 8.43,
+      "przeciwko_rodzinie_i_opiece_na_1000": 0.8,
+      "wykrywalnosc_sprawcow_ogolem_pct": 68.3
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "przestepstwa_ogolem_na_1000": 19.01,
+      "kryminalne_na_1000": 10.74,
+      "gospodarcze_na_1000": 5.32,
+      "drogowe_na_1000": 1.5,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.24,
+      "przeciwko_mieniu_na_1000": 9.02,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.23,
+      "wykrywalnosc_sprawcow_ogolem_pct": 76.5
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "przestepstwa_ogolem_na_1000": 21.47,
+      "kryminalne_na_1000": 11.82,
+      "gospodarcze_na_1000": 6.78,
+      "drogowe_na_1000": 1.48,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.35,
+      "przeciwko_mieniu_na_1000": 12.67,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.25,
+      "wykrywalnosc_sprawcow_ogolem_pct": 66.9
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "przestepstwa_ogolem_na_1000": 20.74,
+      "kryminalne_na_1000": 11.56,
+      "gospodarcze_na_1000": 6.23,
+      "drogowe_na_1000": 1.56,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.38,
+      "przeciwko_mieniu_na_1000": 9.18,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.29,
+      "wykrywalnosc_sprawcow_ogolem_pct": 76.5
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "przestepstwa_ogolem_na_1000": 19.24,
+      "kryminalne_na_1000": 10.06,
+      "gospodarcze_na_1000": 5.89,
+      "drogowe_na_1000": 1.76,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.37,
+      "przeciwko_mieniu_na_1000": 9.31,
+      "przeciwko_rodzinie_i_opiece_na_1000": 0.89,
+      "wykrywalnosc_sprawcow_ogolem_pct": 65.3
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "przestepstwa_ogolem_na_1000": 15.52,
+      "kryminalne_na_1000": 8.47,
+      "gospodarcze_na_1000": 4.46,
+      "drogowe_na_1000": 1.61,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.35,
+      "przeciwko_mieniu_na_1000": 6.57,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.45,
+      "wykrywalnosc_sprawcow_ogolem_pct": 72
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "przestepstwa_ogolem_na_1000": 15.56,
+      "kryminalne_na_1000": 8.05,
+      "gospodarcze_na_1000": 4.79,
+      "drogowe_na_1000": 1.69,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.37,
+      "przeciwko_mieniu_na_1000": 6.11,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.64,
+      "wykrywalnosc_sprawcow_ogolem_pct": 76.3
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "przestepstwa_ogolem_na_1000": 11.75,
+      "kryminalne_na_1000": 6.01,
+      "gospodarcze_na_1000": 3.77,
+      "drogowe_na_1000": 1.37,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.32,
+      "przeciwko_mieniu_na_1000": 5.57,
+      "przeciwko_rodzinie_i_opiece_na_1000": 0.78,
+      "wykrywalnosc_sprawcow_ogolem_pct": 68
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "przestepstwa_ogolem_na_1000": 14.69,
+      "kryminalne_na_1000": 7.21,
+      "gospodarcze_na_1000": 4.74,
+      "drogowe_na_1000": 1.65,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.36,
+      "przeciwko_mieniu_na_1000": 7.07,
+      "przeciwko_rodzinie_i_opiece_na_1000": 0.76,
+      "wykrywalnosc_sprawcow_ogolem_pct": 73.6
+    },
+    {
+      "wojewodztwo": "mazowieckie",
+      "przestepstwa_ogolem_na_1000": 21.68,
+      "kryminalne_na_1000": 12.05,
+      "gospodarcze_na_1000": 6.49,
+      "drogowe_na_1000": 1.52,
+      "przeciwko_zyciu_i_zdrowiu_na_1000": 0.32,
+      "przeciwko_mieniu_na_1000": 11.69,
+      "przeciwko_rodzinie_i_opiece_na_1000": 1.18,
+      "wykrywalnosc_sprawcow_ogolem_pct": 61.8
+    }
+  ],
+  "meta": {
+    "title": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024) - Free Download",
+    "description": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców w 2024 r. w podziale na województwa i kategorie (kryminalne, gospodarcze, drogowe, przeciwko życiu i zdrowiu, mieniu, rodzinie) oraz wskaźnik wykrywalności sprawców (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024) | ListBase",
+    "seo_description": "Download Przestępstwa stwierdzone przez Policję na 1000 mieszkańców według województw (2024) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat/K30/G223/P2290"
+    ]
+  }
+}
