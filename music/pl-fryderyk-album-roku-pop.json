@@ -1,0 +1,220 @@
+{
+  "id": "pl-fryderyk-album-roku-pop",
+  "name": "Fryderyk – album roku pop: laureaci i nominowani",
+  "title": "Fryderyk – album roku pop: laureaci i nominowani",
+  "description": "Laureaci nagrody muzycznej Fryderyk w kategorii album roku pop od 1995 roku, z nagrodzonym artystą i pozostałymi nominowanymi albumami.",
+  "category": "music",
+  "source": "https://pl.wikipedia.org/wiki/Fryderyk_za_album_roku_pop",
+  "source_url": "https://pl.wikipedia.org/wiki/Fryderyk_za_album_roku_pop",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "nagrodzony_album",
+      "label": "Nagrodzony Album",
+      "type": "string"
+    },
+    {
+      "key": "nagrodzeni_artysci",
+      "label": "Nagrodzeni Artysci",
+      "type": "string"
+    },
+    {
+      "key": "pozostale_nominacje",
+      "label": "Pozostale Nominacje",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1995,
+      "nagrodzony_album": "Elf",
+      "nagrodzeni_artysci": "Varius Manx",
+      "pozostale_nominacje": "Dotyk – Edyta Górniak; Kamień – Kayah; Koncert inaczej – Kasia Kowalska; Solo – Robert Gawliński"
+    },
+    {
+      "rok": 1996,
+      "nagrodzony_album": "Dziewczyna Szamana",
+      "nagrodzeni_artysci": "Justyna Steczkowska",
+      "pozostale_nominacje": "Czekając na… – Kasia Kowalska; Ego – Varius Manx; Sax & Sex – Robert Chojnacki; Wszystko się może zdarzyć – Anita Lipnicka"
+    },
+    {
+      "rok": 1997,
+      "nagrodzony_album": "Zebra",
+      "nagrodzeni_artysci": "Kayah",
+      "pozostale_nominacje": "Bluberd – Golden Life; Edyta Górniak – Edyta Górniak; Na krzywy ryj – Elektryczne Gitary; Naga – Justyna Steczkowska; Puls – Natalia Kukulska"
+    },
+    {
+      "rok": 1998,
+      "nagrodzony_album": "Beata",
+      "nagrodzeni_artysci": "Beata Kozidrak",
+      "pozostale_nominacje": "Czarno na białym – Mietek Szcześniak; Jaszczurka – Pati Yang; Piasek – Andrzej Piaseczny; Przed zakrętem – Maryla Rodowicz"
+    },
+    {
+      "rok": 1999,
+      "nagrodzony_album": "Kayah i Bregović",
+      "nagrodzeni_artysci": "Kayah i Goran Bregović",
+      "pozostale_nominacje": "Era Renifera – Reni Jusis; Gra – Robert Gawliński; Jasnosłyszenie – Anna Maria Jopek; Play – De Mono"
+    },
+    {
+      "rok": 2000,
+      "nagrodzony_album": "A gu gu",
+      "nagrodzeni_artysci": "Arka Noego",
+      "pozostale_nominacje": "Bosa – Anna Maria Jopek; Dary losu – Ryszard Rynkowski; JakaJaKayah – Kayah; Moje oczy są zielone – Anita Lipnicka"
+    },
+    {
+      "rok": 2001,
+      "nagrodzony_album": "Mówię tak, myślę nie",
+      "nagrodzeni_artysci": "Ewa Bem",
+      "pozostale_nominacje": "Ad. 4 – Ich Troje; De Luxe – De Mono; Eta – Varius Manx; Tobie – Natalia Kukulska"
+    },
+    {
+      "rok": 2002,
+      "nagrodzony_album": "4",
+      "nagrodzeni_artysci": "Wilki",
+      "pozostale_nominacje": "…Bo marzę i śnię – Krzysztof Krawczyk; Czy te oczy mogą kłamać – Raz, Dwa, Trzy; Futro – Futro; Upojenie – Anna Maria Jopek i Pat Metheny"
+    },
+    {
+      "rok": 2003,
+      "nagrodzony_album": "Nieprzyzwoite piosenki",
+      "nagrodzeni_artysci": "Anita Lipnicka i John Porter",
+      "pozostale_nominacje": "Borysewicz & Kukiz – Jan Borysewicz i Paweł Kukiz; Farat – Anna Maria Jopek; Księga urodzaju – Marcin Rozynek; Stereo typ – Kayah"
+    },
+    {
+      "rok": 2004,
+      "nagrodzony_album": "Samotność po zmierzchu",
+      "nagrodzeni_artysci": "Ania",
+      "pozostale_nominacje": "Album – Brodka; Samotna w wielkim mieście – Kasia Kowalska; To, co w życiu ważne – Krzysztof Krawczyk; Watra – Wilki"
+    },
+    {
+      "rok": 2005,
+      "nagrodzony_album": "Smak słów",
+      "nagrodzeni_artysci": "Goya",
+      "pozostale_nominacje": "In the Room – Krzysztof Kiljański; Inside Story – Anita Lipnicka i John Porter; Niebo – Anna Maria Jopek; Silent Treatment – Pati Yang"
+    },
+    {
+      "rok": 2006,
+      "nagrodzony_album": "Kilka historii na ten sam temat",
+      "nagrodzeni_artysci": "Ania",
+      "pozostale_nominacje": "3 – Smolik; Feniks – Kasia Cerekwicka; Happiness Is Easy – Myslovitz; Obrazki – Wilki"
+    },
+    {
+      "rok": 2008,
+      "nagrodzony_album": "Młynarski",
+      "nagrodzeni_artysci": "Raz, Dwa, Trzy",
+      "pozostale_nominacje": "Feel – Feel; ID – Anna Maria Jopek; Koledzy – Maciej Maleńczuk i Wojciech Waglewski; Sexi Flexi – Natalia Kukulska"
+    },
+    {
+      "rok": 2009,
+      "nagrodzony_album": "Debiut",
+      "nagrodzeni_artysci": "Czesław Śpiewa",
+      "pozostale_nominacje": "Caminho – Dorota Miśkiewicz; Samo Voo Voo – Voo Voo; Tesla – Silver Rocket; W spodniach czy w sukience? – Ania Dąbrowska"
+    },
+    {
+      "rok": 2010,
+      "nagrodzony_album": "Closer",
+      "nagrodzeni_artysci": "Mika Urbaniak",
+      "pozostale_nominacje": "Cicho – Ewa Farna; Modern Rocking – Agnieszka Chylińska; Psychodancing 2 – Maciej Maleńczuk i Psychodancing; Skała – Kayah"
+    },
+    {
+      "rok": 2011,
+      "nagrodzony_album": "Granda",
+      "nagrodzeni_artysci": "Brodka",
+      "pozostale_nominacje": "Ania Movie – Ania Dąbrowska; CoMix – Natalia Kukulska i Michał Dąbrówka; Pop – Czesław Śpiewa; 4 – Smolik"
+    },
+    {
+      "rok": 2012,
+      "nagrodzony_album": "Mój Big-Bit",
+      "nagrodzeni_artysci": "Ania Rusowicz",
+      "pozostale_nominacje": "Jak tam jest – Seweryn Krajewski; Krzyk – Iza Lach; Trzy metry ponad ziemią – Poluzjanci; Wysocki Maleńczuka – Maciej Maleńczuk i Psychodancing"
+    },
+    {
+      "rok": 2015,
+      "nagrodzony_album": "Składam się z ciągłych powtórzeń",
+      "nagrodzeni_artysci": "Artur Rojek produkcja: Bartosz Dziedzic",
+      "pozostale_nominacje": "7 widoków w drodze do Krakowa – Grzegorz Turnau produkcja: Grzegorz Turnau; produkcja: Grzegorz Turnau; Migracje – Mela Koteluk produkcja: Marek Dziedzic; produkcja: Marek Dziedzic; Scarlett – Lemon produkcja: Lemon; produkcja: Lemon; The Escapist – Gaba Kulka produkcja: Marcin Bors i Gaba Kulka; produkcja: Marcin Bors i Gaba Kulka"
+    },
+    {
+      "rok": 2016,
+      "nagrodzony_album": "1976: A Space Odyssey",
+      "nagrodzeni_artysci": "Zbigniew Wodecki i Mitch & Mitch produkcja: Mitch & Mitch",
+      "pozostale_nominacje": "Annoyance and Disappointment – Dawid Podsiadło produkcja: Bogdan Kondracki i Daniel Walczak; produkcja: Bogdan Kondracki i Daniel Walczak; Atramentowa… – Stanisława Celińska produkcja: Maciej Muraszko; produkcja: Maciej Muraszko; Bumerang – Kortez produkcja: Olek Świerkot; produkcja: Olek Świerkot; Drugie pół – Zakopower produkcja: Mateusz Pospieszalski; produkcja: Mateusz Pospieszalski"
+    },
+    {
+      "rok": 2017,
+      "nagrodzony_album": "Dla naiwnych marzycieli",
+      "nagrodzeni_artysci": "Ania Dąbrowska produkcja: Czarny HIFI i Ania Dąbrowska",
+      "pozostale_nominacje": "Buslav – Buslav produkcja: Buslav; produkcja: Buslav; Forever Child – Agnieszka Chylińska produkcja: Bartek Królik i Marek Piotrowski; produkcja: Bartek Królik i Marek Piotrowski; Raz, Dwa, Trzy… 25 – Raz, Dwa, Trzy produkcja: Rafał Kolikow; produkcja: Rafał Kolikow; Revolving Door – Piotr Zioła produkcja: Marcin Bors; produkcja: Marcin Bors"
+    },
+    {
+      "rok": 2018,
+      "nagrodzony_album": "Światło nocne",
+      "nagrodzeni_artysci": "Natalia Przybysz produkcja: Jerzy Zagórski",
+      "pozostale_nominacje": "Maleńczuk gra Młynarskiego – Maciej Maleńczuk produkcja: Dariusz Litwińczuk; produkcja: Dariusz Litwińczuk; Miód i dym – Anita Lipnicka i The Hats produkcja: Anita Lipnicka i Łukasz Olejarczyk; produkcja: Anita Lipnicka i Łukasz Olejarczyk; Momenty – Grzegorz Hyży produkcja: Bogdan Kondracki i Daniel Walczak; produkcja: Bogdan Kondracki i Daniel Walczak; Mój dom – Kortez produkcja: Olek Świerkot; produkcja: Olek Świerkot"
+    },
+    {
+      "rok": 2019,
+      "nagrodzony_album": "Małomiasteczkowy",
+      "nagrodzeni_artysci": "Dawid Podsiadło produkcja: Bartosz Dziedzic",
+      "pozostale_nominacje": "1984 – Paweł Domagała produkcja: Łukasz Borowiecki; produkcja: Łukasz Borowiecki; AYA – Kasia Kowalska produkcja: Adam Abramek i Marek Dziedzic; produkcja: Adam Abramek i Marek Dziedzic; Dobrze, że jesteś – Zbigniew Wodecki produkcja: Katarzyna Wodecka-Stubbs i Twist On Productions produkcja muzyczna: Rafał Stępień; produkcja: Katarzyna Wodecka-Stubbs i Twist On Productions; produkcja muzyczna: Rafał Stępień; miXtura – Lanberry produkcja: Piotr Siejka, Jakub Krupski, Krzysztof Morange, Michał Głuszczuk, Jakub Moreau, GRDRB.MSC, Reece Pullinger, Don, Paul Whalley, Steve Manovski, Marcel Zavodi, Lewis Gardiner i Cameron Warren; produkcja: Piotr Siejka, Jakub Krupski, Krzysztof Morange, Michał Głuszczuk, Jakub Moreau, GRDRB.MSC, Reece Pullinger, Don, Paul Whalley, Steve Manovski, Marcel Zavodi, Lewis Gardiner i Cameron Warren"
+    },
+    {
+      "rok": 2020,
+      "nagrodzony_album": "Jak malować ogień",
+      "nagrodzeni_artysci": "Natalia Przybysz",
+      "pozostale_nominacje": "Aura – Mrozu; Gaja Hornby – Margaret; Roksana Węgiel (Deluxe) – Roksana Węgiel; Zbiór – Baranovski"
+    },
+    {
+      "rok": 2021,
+      "nagrodzony_album": "Królowa dram",
+      "nagrodzeni_artysci": "sanah",
+      "pozostale_nominacje": "Co gryzie panią L? – Lanberry; Czułe struny – Natalia Kukulska; Początek nocy – Maria Sadowska; Psycho – Zuza Jabłońska"
+    },
+    {
+      "rok": 2022,
+      "nagrodzony_album": "Irenka",
+      "nagrodzeni_artysci": "sanah",
+      "pozostale_nominacje": "Męskie Granie 2020 – Męskie Granie Orkiestra 2020 (Daria Zawiałow, Król i Igo) MTV Unplugged – Krzysztof Zalewski Ochman – Ochman Wojny i noce – Daria Zawiałow"
+    },
+    {
+      "rok": 2023,
+      "nagrodzony_album": "Złote bloki",
+      "nagrodzeni_artysci": "Mrozu",
+      "pozostale_nominacje": "Aquaria – Doda; Lata dwudzieste – Dawid Podsiadło; Pogłos Suplement – Natalia Szroeder; Uczta – sanah"
+    },
+    {
+      "rok": 2024,
+      "nagrodzony_album": "Dziewczyna pop",
+      "nagrodzeni_artysci": "Daria Zawiałow",
+      "pozostale_nominacje": "Central Park – Ignacy; Erotik era – Mery Spolsky; Mój kot zaginął i już raczej nie wróci – Dawid Tyszkowski; Pokaz slajdów – Kwiat Jabłoni"
+    },
+    {
+      "rok": 2025,
+      "nagrodzony_album": "Ta druga",
+      "nagrodzeni_artysci": "Kaśka Sochacka",
+      "pozostale_nominacje": "Dziewczyna słońca – Anna Rusowicz; Playhouse – Sara James; REM – Natalia Szroeder; Siniaki i cekiny – Margaret"
+    },
+    {
+      "rok": 2026,
+      "nagrodzony_album": "Serce",
+      "nagrodzeni_artysci": "Zalia",
+      "pozostale_nominacje": "12 – Igo; Niech żyje bal – Maryla Rodowicz i goście; Radio Edit – Kuba Badach; Tak jak tutaj stoję – Wiktor Dyduła"
+    }
+  ],
+  "meta": {
+    "title": "Fryderyk – album roku pop: laureaci i nominowani - Free Download",
+    "description": "Laureaci nagrody muzycznej Fryderyk w kategorii album roku pop od 1995 roku, z nagrodzonym artystą i pozostałymi nominowanymi albumami. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fryderyk – album roku pop: laureaci i nominowani | ListBase",
+    "seo_description": "Download Fryderyk – album roku pop: laureaci i nominowani — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Fryderyk_za_album_roku_pop"
+    ]
+  }
+}

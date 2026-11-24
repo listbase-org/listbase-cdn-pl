@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-23T02:37:21.220Z",
-  "total_datasets": 588,
-  "total_records": 1097595,
+  "generated": "2026-11-24T02:23:31.047Z",
+  "total_datasets": 589,
+  "total_records": 1097624,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -5186,6 +5186,31 @@
         "xlsx": {
           "name": "pl-filharmonie_PL.xlsx",
           "size": 7765
+        }
+      }
+    },
+    {
+      "id": "pl-fryderyk-album-roku-pop",
+      "name": "Fryderyk – album roku pop: laureaci i nominowani",
+      "category": "music",
+      "record_count": 29,
+      "columns": [
+        "rok",
+        "nagrodzony_album",
+        "nagrodzeni_artysci",
+        "pozostale_nominacje"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Fryderyk_za_album_roku_pop",
+      "updated": "2026-11",
+      "size": 11791,
+      "files": {
+        "csv": {
+          "name": "pl-fryderyk-album-roku-pop_PL.csv",
+          "size": 6931
+        },
+        "xlsx": {
+          "name": "pl-fryderyk-album-roku-pop_PL.xlsx",
+          "size": 10227
         }
       }
     },
