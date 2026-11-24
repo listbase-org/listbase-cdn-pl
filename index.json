@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-24T02:23:31.047Z",
-  "total_datasets": 589,
-  "total_records": 1097624,
+  "generated": "2026-11-24T02:23:39.197Z",
+  "total_datasets": 590,
+  "total_records": 1097639,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -15264,6 +15264,36 @@
         "xlsx": {
           "name": "pl-korona-gor-polski_PL.xlsx",
           "size": 8112
+        }
+      }
+    },
+    {
+      "id": "pl-latarnie-morskie",
+      "name": "Czynne latarnie morskie w Polsce",
+      "category": "tourism",
+      "record_count": 15,
+      "columns": [
+        "nazwa",
+        "rok_budowy",
+        "szerokosc_geogr",
+        "dlugosc_geogr",
+        "wysokosc_swiatla_m",
+        "wysokosc_wiezy_m",
+        "zasieg_nominalny_mm",
+        "charakterystyka_swiatla",
+        "udostepniona_do_zwiedzania"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Lista_latarń_morskich_w_Polsce",
+      "updated": "2026-11",
+      "size": 8394,
+      "files": {
+        "csv": {
+          "name": "pl-latarnie-morskie_PL.csv",
+          "size": 2474
+        },
+        "xlsx": {
+          "name": "pl-latarnie-morskie_PL.xlsx",
+          "size": 8251
         }
       }
     },

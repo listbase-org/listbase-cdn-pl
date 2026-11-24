@@ -1,0 +1,236 @@
+{
+  "id": "pl-latarnie-morskie",
+  "name": "Czynne latarnie morskie w Polsce",
+  "title": "Czynne latarnie morskie w Polsce",
+  "description": "Lista czynnych latarń morskich na polskim wybrzeżu Bałtyku z rokiem budowy, współrzędnymi, wysokością światła i wieży, zasięgiem nominalnym, charakterystyką światła i informacją o udostępnieniu do zwiedzania.",
+  "category": "tourism",
+  "source": "https://pl.wikipedia.org/wiki/Lista_latarń_morskich_w_Polsce",
+  "source_url": "https://pl.wikipedia.org/wiki/Lista_latarń_morskich_w_Polsce",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "nazwa",
+      "label": "Nazwa",
+      "type": "string"
+    },
+    {
+      "key": "rok_budowy",
+      "label": "Rok Budowy",
+      "type": "string"
+    },
+    {
+      "key": "szerokosc_geogr",
+      "label": "Szerokosc Geogr",
+      "type": "number"
+    },
+    {
+      "key": "dlugosc_geogr",
+      "label": "Dlugosc Geogr",
+      "type": "number"
+    },
+    {
+      "key": "wysokosc_swiatla_m",
+      "label": "Wysokosc Swiatla M",
+      "type": "number"
+    },
+    {
+      "key": "wysokosc_wiezy_m",
+      "label": "Wysokosc Wiezy M",
+      "type": "number"
+    },
+    {
+      "key": "zasieg_nominalny_mm",
+      "label": "Zasieg Nominalny Mm",
+      "type": "string"
+    },
+    {
+      "key": "charakterystyka_swiatla",
+      "label": "Charakterystyka Swiatla",
+      "type": "string"
+    },
+    {
+      "key": "udostepniona_do_zwiedzania",
+      "label": "Udostepniona Do Zwiedzania",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazwa": "Świnoujście",
+      "rok_budowy": "1805/ 1 grudnia 1857",
+      "szerokosc_geogr": 53.916,
+      "dlugosc_geogr": 14.284167,
+      "wysokosc_swiatla_m": 65,
+      "wysokosc_wiezy_m": 64.8,
+      "zasieg_nominalny_mm": "25 (białe), 9 (czerw.)",
+      "charakterystyka_swiatla": "przerywane, sektorowe okres – 5s (przerwa 1 s światło 4 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Kikut",
+      "rok_budowy": "1962",
+      "szerokosc_geogr": 53.983056,
+      "dlugosc_geogr": 14.582222,
+      "wysokosc_swiatla_m": 91.5,
+      "wysokosc_wiezy_m": 18.2,
+      "zasieg_nominalny_mm": "16",
+      "charakterystyka_swiatla": "izofazowe okres – 10 s (światło 5 s przerwa 5 s)",
+      "udostepniona_do_zwiedzania": "nie"
+    },
+    {
+      "nazwa": "Niechorze",
+      "rok_budowy": "1866/1948",
+      "szerokosc_geogr": 54.096389,
+      "dlugosc_geogr": 15.065833,
+      "wysokosc_swiatla_m": 62.8,
+      "wysokosc_wiezy_m": 45,
+      "zasieg_nominalny_mm": "20",
+      "charakterystyka_swiatla": "błyskowe okres – 10 s (błysk 0,5 s przerwa 9,5 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Kołobrzeg",
+      "rok_budowy": "1666/1946",
+      "szerokosc_geogr": 54.188056,
+      "dlugosc_geogr": 15.556111,
+      "wysokosc_swiatla_m": 36.5,
+      "wysokosc_wiezy_m": 26,
+      "zasieg_nominalny_mm": "16",
+      "charakterystyka_swiatla": "błyskowe okres – 3 s (błysk 1 s przerwa 2 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Gąski",
+      "rok_budowy": "1878",
+      "szerokosc_geogr": 54.244444,
+      "dlugosc_geogr": 15.875,
+      "wysokosc_swiatla_m": 51.1,
+      "wysokosc_wiezy_m": 49.8,
+      "zasieg_nominalny_mm": "23,5",
+      "charakterystyka_swiatla": "przerywane grupowe okres – 15 s (przerwa 1,2 s światło 2,5 s przerwa 1,2 s światło 2,5 s przerwa 1,2 s światło 6,4 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Darłowo",
+      "rok_budowy": "1715/1885",
+      "szerokosc_geogr": 54.441944,
+      "dlugosc_geogr": 16.380833,
+      "wysokosc_swiatla_m": 19.7,
+      "wysokosc_wiezy_m": 21,
+      "zasieg_nominalny_mm": "15",
+      "charakterystyka_swiatla": "blaskowe grupowe okres – 15 s (blask 2 s przerwa 2 s blask 2 s przerwa 9 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Jarosławiec",
+      "rok_budowy": "1838",
+      "szerokosc_geogr": 54.541667,
+      "dlugosc_geogr": 16.544722,
+      "wysokosc_swiatla_m": 50.2,
+      "wysokosc_wiezy_m": 33.3,
+      "zasieg_nominalny_mm": "23",
+      "charakterystyka_swiatla": "błyskowe grupowe okres – 9 s (błysk 0,5 s przerwa 2 s błysk 0,5 s przerwa 6 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Ustka",
+      "rok_budowy": "1871",
+      "szerokosc_geogr": 54.589444,
+      "dlugosc_geogr": 16.856944,
+      "wysokosc_swiatla_m": 22.2,
+      "wysokosc_wiezy_m": 19.5,
+      "zasieg_nominalny_mm": "18",
+      "charakterystyka_swiatla": "przerywane okres – 6 s (przerwa 2 s światło 4 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Czołpino",
+      "rok_budowy": "1875",
+      "szerokosc_geogr": 54.72,
+      "dlugosc_geogr": 17.243611,
+      "wysokosc_swiatla_m": 75,
+      "wysokosc_wiezy_m": 25.2,
+      "zasieg_nominalny_mm": "21",
+      "charakterystyka_swiatla": "przerywane grupowe okres – 8 s (przerwa 2 s światło 1 s przerwa 2 s światło 3 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Stilo",
+      "rok_budowy": "1906",
+      "szerokosc_geogr": 54.786667,
+      "dlugosc_geogr": 17.733889,
+      "wysokosc_swiatla_m": 75,
+      "wysokosc_wiezy_m": 33.4,
+      "zasieg_nominalny_mm": "23,5",
+      "charakterystyka_swiatla": "błyskowe grupowe okres – 12 s (błysk 0,3s przerwa 2,2 s błysk 0,3 s przerwa 2,2 s błysk 0,3 s przerwa 6,7 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Rozewie",
+      "rok_budowy": "1821, zapalenie: 15 XI 1822",
+      "szerokosc_geogr": 54.831667,
+      "dlugosc_geogr": 18.338889,
+      "wysokosc_swiatla_m": 83.2,
+      "wysokosc_wiezy_m": 32.7,
+      "zasieg_nominalny_mm": "26",
+      "charakterystyka_swiatla": "błyskowe okres – 3 s (błysk 0,1 s przerwa 2,9 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Jastarnia",
+      "rok_budowy": "22.12.1949",
+      "szerokosc_geogr": 54.700278,
+      "dlugosc_geogr": 18.682778,
+      "wysokosc_swiatla_m": 22,
+      "wysokosc_wiezy_m": 13.5,
+      "zasieg_nominalny_mm": "15",
+      "charakterystyka_swiatla": "kodowe Morse’a (A) okres – 20 s (światło 2 s przerwa 2 s światło 7 s przerwa 9 s)",
+      "udostepniona_do_zwiedzania": "nie"
+    },
+    {
+      "nazwa": "Hel",
+      "rok_budowy": "1638/1942",
+      "szerokosc_geogr": 54.601667,
+      "dlugosc_geogr": 18.815556,
+      "wysokosc_swiatla_m": 39,
+      "wysokosc_wiezy_m": 41.5,
+      "zasieg_nominalny_mm": "18",
+      "charakterystyka_swiatla": "izofazowe okres – 10 s (światło 5 s przerwa 5 s) widoczne w sektorze: 151°–102°",
+      "udostepniona_do_zwiedzania": "tak"
+    },
+    {
+      "nazwa": "Gdańsk",
+      "rok_budowy": "23 czerwca 1984",
+      "szerokosc_geogr": 54.3998,
+      "dlugosc_geogr": 18.6964,
+      "wysokosc_swiatla_m": 61,
+      "wysokosc_wiezy_m": 64.3,
+      "zasieg_nominalny_mm": "25",
+      "charakterystyka_swiatla": "błyskowe grupowe okres – 9 s (błysk 0,5 s przerwa 1,5 s błysk 0,5 s przerwa 1,5 s błysk 0,5 s przerwa 4,5 s)",
+      "udostepniona_do_zwiedzania": "nie"
+    },
+    {
+      "nazwa": "Krynica Morska",
+      "rok_budowy": "1 maja 1895/1951",
+      "szerokosc_geogr": 54.386944,
+      "dlugosc_geogr": 19.453333,
+      "wysokosc_swiatla_m": 53,
+      "wysokosc_wiezy_m": 27,
+      "zasieg_nominalny_mm": "18",
+      "charakterystyka_swiatla": "blaskowe grupowe okres – 12 s (blask 2 s przerwa 2 s blask 2 s przerwa 6 s)",
+      "udostepniona_do_zwiedzania": "tak"
+    }
+  ],
+  "meta": {
+    "title": "Czynne latarnie morskie w Polsce - Free Download",
+    "description": "Lista czynnych latarń morskich na polskim wybrzeżu Bałtyku z rokiem budowy, współrzędnymi, wysokością światła i wieży, zasięgiem nominalnym, charakterystyką światła i informacją o udostępnieniu do zwiedzania. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Czynne latarnie morskie w Polsce | ListBase",
+    "seo_description": "Download Czynne latarnie morskie w Polsce — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Lista_latarń_morskich_w_Polsce"
+    ]
+  }
+}
