@@ -1,0 +1,434 @@
+{
+  "id": "pl-najwieksze-jeziora-polski",
+  "name": "Największe jeziora Polski",
+  "title": "Największe jeziora Polski",
+  "description": "Ranking największych jezior w Polsce według powierzchni (dane IRŚ, A. Choińskiego i innych źródeł, w ha) z dorzeczem, województwem, głębokością maksymalną i wysokością lustra wody nad poziomem morza.",
+  "category": "environment",
+  "source": "https://pl.wikipedia.org/wiki/Największe_jeziora_Polski",
+  "source_url": "https://pl.wikipedia.org/wiki/Największe_jeziora_Polski",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "lp",
+      "label": "Lp",
+      "type": "number"
+    },
+    {
+      "key": "jezioro",
+      "label": "Jezioro",
+      "type": "string"
+    },
+    {
+      "key": "dorzecze",
+      "label": "Dorzecze",
+      "type": "string"
+    },
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "powierzchnia_irs_ha",
+      "label": "Powierzchnia Irs Ha",
+      "type": "number"
+    },
+    {
+      "key": "powierzchnia_choinski_ha",
+      "label": "Powierzchnia Choinski Ha",
+      "type": "number"
+    },
+    {
+      "key": "powierzchnia_inne_zrodla_ha",
+      "label": "Powierzchnia Inne Zrodla Ha",
+      "type": "number"
+    },
+    {
+      "key": "glebokosc_maksymalna_m",
+      "label": "Glebokosc Maksymalna M",
+      "type": "number"
+    },
+    {
+      "key": "wzniesienie_m_npm",
+      "label": "Wzniesienie M Npm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lp": 1,
+      "jezioro": "Śniardwy",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 11340.4,
+      "powierzchnia_choinski_ha": 11487.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 23.4,
+      "wzniesienie_m_npm": "115,7-116,1"
+    },
+    {
+      "lp": 2,
+      "jezioro": "Mamry (cały kompleks)",
+      "dorzecze": "Węgorapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 10282.4,
+      "powierzchnia_choinski_ha": 9851,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 43.8,
+      "wzniesienie_m_npm": "115,7-116,3"
+    },
+    {
+      "lp": 3,
+      "jezioro": "Łebsko",
+      "dorzecze": "Łeba",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 7140,
+      "powierzchnia_choinski_ha": 7020,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 6.3,
+      "wzniesienie_m_npm": "0,2"
+    },
+    {
+      "lp": 4,
+      "jezioro": "Dąbie",
+      "dorzecze": "u ujścia Odry",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": "",
+      "powierzchnia_choinski_ha": "",
+      "powierzchnia_inne_zrodla_ha": 5408,
+      "glebokosc_maksymalna_m": 4.2,
+      "wzniesienie_m_npm": "0,1"
+    },
+    {
+      "lp": 5,
+      "jezioro": "Miedwie",
+      "dorzecze": "Płonia",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 3527,
+      "powierzchnia_choinski_ha": 3491,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": "",
+      "wzniesienie_m_npm": "14,1"
+    },
+    {
+      "lp": 6,
+      "jezioro": "Jeziorak",
+      "dorzecze": "Drwęca",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 3219.4,
+      "powierzchnia_choinski_ha": 3152.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 12.9,
+      "wzniesienie_m_npm": "99,2-99,4"
+    },
+    {
+      "lp": 7,
+      "jezioro": "Niegocin",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 2600,
+      "powierzchnia_choinski_ha": 2595,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 39.7,
+      "wzniesienie_m_npm": "115,7-116,2"
+    },
+    {
+      "lp": 8,
+      "jezioro": "Gardno",
+      "dorzecze": "Łupawa",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 2468.1,
+      "powierzchnia_choinski_ha": 2337.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 2.6,
+      "wzniesienie_m_npm": "0,3"
+    },
+    {
+      "lp": 9,
+      "jezioro": "Jamno",
+      "dorzecze": "Morze Bałtyckie",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 2239.6,
+      "powierzchnia_choinski_ha": 2231.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 3.9,
+      "wzniesienie_m_npm": "0,1"
+    },
+    {
+      "lp": 10,
+      "jezioro": "Gopło",
+      "dorzecze": "Noteć",
+      "wojewodztwo": "kujawsko-pomorskie wielkopolskie",
+      "powierzchnia_irs_ha": 2154.5,
+      "powierzchnia_choinski_ha": 2121.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 16.6,
+      "wzniesienie_m_npm": "76,8-77,2"
+    },
+    {
+      "lp": 11,
+      "jezioro": "Wigry",
+      "dorzecze": "Czarna Hańcza",
+      "wojewodztwo": "podlaskie",
+      "powierzchnia_irs_ha": 2118.3,
+      "powierzchnia_choinski_ha": 2115,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 74.2,
+      "wzniesienie_m_npm": "131,9"
+    },
+    {
+      "lp": 12,
+      "jezioro": "Roś",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1887.7,
+      "powierzchnia_choinski_ha": 1808.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 31.8,
+      "wzniesienie_m_npm": "114,5-115,4"
+    },
+    {
+      "lp": 13,
+      "jezioro": "Drawsko",
+      "dorzecze": "Drawa",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 1871.5,
+      "powierzchnia_choinski_ha": 1797.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 82.2,
+      "wzniesienie_m_npm": "128,7"
+    },
+    {
+      "lp": 14,
+      "jezioro": "Tałty - Ryńskie",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1831.2,
+      "powierzchnia_choinski_ha": 1796,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 50.8,
+      "wzniesienie_m_npm": "116,0"
+    },
+    {
+      "lp": 15,
+      "jezioro": "Nidzkie",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1818,
+      "powierzchnia_choinski_ha": 1750,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 23.7,
+      "wzniesienie_m_npm": "117,7-117,9"
+    },
+    {
+      "lp": 16,
+      "jezioro": "Wielimie",
+      "dorzecze": "Gwda",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 1754.6,
+      "powierzchnia_choinski_ha": 1637.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 5.5,
+      "wzniesienie_m_npm": "132,7"
+    },
+    {
+      "lp": 17,
+      "jezioro": "Bukowo",
+      "dorzecze": "",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 1747.4,
+      "powierzchnia_choinski_ha": 1644,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 2.8,
+      "wzniesienie_m_npm": "0,2"
+    },
+    {
+      "lp": 18,
+      "jezioro": "Rajgrodzkie",
+      "dorzecze": "Lega",
+      "wojewodztwo": "podlaskie warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1503.2,
+      "powierzchnia_choinski_ha": 1499,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 52,
+      "wzniesienie_m_npm": "117,5-118,6"
+    },
+    {
+      "lp": 19,
+      "jezioro": "Wdzydze",
+      "dorzecze": "Wda",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 1455.6,
+      "powierzchnia_choinski_ha": 1417,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": "",
+      "wzniesienie_m_npm": "139,2"
+    },
+    {
+      "lp": 20,
+      "jezioro": "Druzno",
+      "dorzecze": "",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1446,
+      "powierzchnia_choinski_ha": 1147.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 2.5,
+      "wzniesienie_m_npm": "0,1"
+    },
+    {
+      "lp": 21,
+      "jezioro": "Lubie",
+      "dorzecze": "Drawa",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 1439,
+      "powierzchnia_choinski_ha": 1487.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 46.2,
+      "wzniesienie_m_npm": "95,0"
+    },
+    {
+      "lp": 22,
+      "jezioro": "Żarnowieckie",
+      "dorzecze": "Piaśnica",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 1431.6,
+      "powierzchnia_choinski_ha": 1425,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 19.4,
+      "wzniesienie_m_npm": "1,4"
+    },
+    {
+      "lp": 23,
+      "jezioro": "Charzykowskie",
+      "dorzecze": "Brda",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 1363.8,
+      "powierzchnia_choinski_ha": 1336,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 30.5,
+      "wzniesienie_m_npm": "121,0"
+    },
+    {
+      "lp": 24,
+      "jezioro": "Selmęt Wielki",
+      "dorzecze": "Lega",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1269.5,
+      "powierzchnia_choinski_ha": 1207.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 21.9,
+      "wzniesienie_m_npm": "120,7"
+    },
+    {
+      "lp": 25,
+      "jezioro": "Narie",
+      "dorzecze": "Miłakówka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1240,
+      "powierzchnia_choinski_ha": 1225,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 43,
+      "wzniesienie_m_npm": "104,6-105,"
+    },
+    {
+      "lp": 26,
+      "jezioro": "Wicko Wielkie",
+      "dorzecze": "",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": "",
+      "powierzchnia_choinski_ha": "",
+      "powierzchnia_inne_zrodla_ha": 1200,
+      "glebokosc_maksymalna_m": 6.1,
+      "wzniesienie_m_npm": ""
+    },
+    {
+      "lp": 27,
+      "jezioro": "Powidzkie",
+      "dorzecze": "Meszna",
+      "wojewodztwo": "wielkopolskie",
+      "powierzchnia_irs_ha": 1174.7,
+      "powierzchnia_choinski_ha": 1097.5,
+      "powierzchnia_inne_zrodla_ha": 1035.9,
+      "glebokosc_maksymalna_m": 46,
+      "wzniesienie_m_npm": "98,3-98,5"
+    },
+    {
+      "lp": 28,
+      "jezioro": "Raduńskie (dotyczy jezior Raduńskie Górne i Raduńskie Dolne)",
+      "dorzecze": "Radunia",
+      "wojewodztwo": "pomorskie",
+      "powierzchnia_irs_ha": 1124.4,
+      "powierzchnia_choinski_ha": 1066,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 43,
+      "wzniesienie_m_npm": "161,6"
+    },
+    {
+      "lp": 29,
+      "jezioro": "Orzysz",
+      "dorzecze": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1070.7,
+      "powierzchnia_choinski_ha": 1012.5,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 36,
+      "wzniesienie_m_npm": "119,7-120,0"
+    },
+    {
+      "lp": 30,
+      "jezioro": "Wicko",
+      "dorzecze": "",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 1058.9,
+      "powierzchnia_choinski_ha": 1031,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 6.1,
+      "wzniesienie_m_npm": "0,3"
+    },
+    {
+      "lp": 31,
+      "jezioro": "Łańskie",
+      "dorzecze": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 1042.3,
+      "powierzchnia_choinski_ha": 1070,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 53,
+      "wzniesienie_m_npm": "134,7-134,9"
+    },
+    {
+      "lp": 32,
+      "jezioro": "Pile",
+      "dorzecze": "Piława",
+      "wojewodztwo": "zachodniopomorskie",
+      "powierzchnia_irs_ha": 980.1,
+      "powierzchnia_choinski_ha": 979,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 43.9,
+      "wzniesienie_m_npm": ""
+    },
+    {
+      "lp": 33,
+      "jezioro": "Dadaj",
+      "dorzecze": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "powierzchnia_irs_ha": 976.8,
+      "powierzchnia_choinski_ha": 975,
+      "powierzchnia_inne_zrodla_ha": "",
+      "glebokosc_maksymalna_m": 39.8,
+      "wzniesienie_m_npm": "122,5-122,9"
+    }
+  ],
+  "meta": {
+    "title": "Największe jeziora Polski - Free Download",
+    "description": "Ranking największych jezior w Polsce według powierzchni (dane IRŚ, A. Choińskiego i innych źródeł, w ha) z dorzeczem, województwem, głębokością maksymalną i wysokością lustra wody nad poziomem morza. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Największe jeziora Polski | ListBase",
+    "seo_description": "Download Największe jeziora Polski — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Największe_jeziora_Polski"
+    ]
+  }
+}
