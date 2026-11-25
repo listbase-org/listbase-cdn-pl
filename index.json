@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-25T02:25:07.855Z",
-  "total_datasets": 593,
-  "total_records": 1097716,
+  "generated": "2026-11-25T02:25:16.896Z",
+  "total_datasets": 594,
+  "total_records": 1097953,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "food",
@@ -1784,6 +1784,31 @@
         "xlsx": {
           "name": "pl-ministrowie-finansow_PL.xlsx",
           "size": 8913
+        }
+      }
+    },
+    {
+      "id": "pl-naklady-monet-obiegowych-wedlug-rocznikow",
+      "name": "Nakłady monet obiegowych III RP według roczników (od 1990)",
+      "category": "finance",
+      "record_count": 237,
+      "columns": [
+        "rok",
+        "nominal",
+        "naklad_szt",
+        "oznaczenie_wariantu"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Monety_obiegowe_III_Rzeczypospolitej",
+      "updated": "2026-11",
+      "size": 31463,
+      "files": {
+        "csv": {
+          "name": "pl-naklady-monet-obiegowych-wedlug-rocznikow_PL.csv",
+          "size": 8044
+        },
+        "xlsx": {
+          "name": "pl-naklady-monet-obiegowych-wedlug-rocznikow_PL.xlsx",
+          "size": 11444
         }
       }
     },

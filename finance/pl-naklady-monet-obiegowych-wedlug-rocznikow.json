@@ -1,0 +1,1468 @@
+{
+  "id": "pl-naklady-monet-obiegowych-wedlug-rocznikow",
+  "name": "Nakłady monet obiegowych III RP według roczników (od 1990)",
+  "title": "Nakłady monet obiegowych III RP według roczników (od 1990)",
+  "description": "Liczba wybitych monet obiegowych złotego (1 gr – 5 zł) w poszczególnych latach od 1990 r.; dla lat z kilkoma wariantami podano oznaczenia wariantów (MW, RM, MN) jak w źródle.",
+  "category": "finance",
+  "source": "https://pl.wikipedia.org/wiki/Monety_obiegowe_III_Rzeczypospolitej",
+  "source_url": "https://pl.wikipedia.org/wiki/Monety_obiegowe_III_Rzeczypospolitej",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "nominal",
+      "label": "Nominal",
+      "type": "string"
+    },
+    {
+      "key": "naklad_szt",
+      "label": "Naklad Szt",
+      "type": "number"
+    },
+    {
+      "key": "oznaczenie_wariantu",
+      "label": "Oznaczenie Wariantu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1990,
+      "nominal": "1 grosz",
+      "naklad_szt": 29140000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "2 grosze",
+      "naklad_szt": 34400000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "5 groszy",
+      "naklad_szt": 70240000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "10 groszy",
+      "naklad_szt": 43055000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "20 groszy",
+      "naklad_szt": 25100000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "50 groszy",
+      "naklad_szt": 29152000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1990,
+      "nominal": "1 złoty",
+      "naklad_szt": 20240000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "1 grosz",
+      "naklad_szt": 79000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "2 grosze",
+      "naklad_szt": 97410000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "5 groszy",
+      "naklad_szt": 171040000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "10 groszy",
+      "naklad_szt": 123164300,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "20 groszy",
+      "naklad_szt": 75400000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "50 groszy",
+      "naklad_szt": 99120000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1991,
+      "nominal": "1 złoty",
+      "naklad_szt": 60080000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "1 grosz",
+      "naklad_szt": 362000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "2 grosze",
+      "naklad_szt": 157000003,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "5 groszy",
+      "naklad_szt": 103784000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "10 groszy",
+      "naklad_szt": 210005000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "20 groszy",
+      "naklad_szt": 106100001,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "50 groszy",
+      "naklad_szt": 116000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1992,
+      "nominal": "1 złoty",
+      "naklad_szt": 102240000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1993,
+      "nominal": "1 grosz",
+      "naklad_szt": 80780000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1993,
+      "nominal": "5 groszy",
+      "naklad_szt": 20280101,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1993,
+      "nominal": "10 groszy",
+      "naklad_szt": 80240008,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1993,
+      "nominal": "1 złoty",
+      "naklad_szt": 20904000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1994,
+      "nominal": "1 złoty",
+      "naklad_szt": 69956000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1994,
+      "nominal": "2 złote",
+      "naklad_szt": 79644000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1994,
+      "nominal": "5 złotych",
+      "naklad_szt": 112896033,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1995,
+      "nominal": "1 grosz",
+      "naklad_szt": 102280109,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1995,
+      "nominal": "50 groszy",
+      "naklad_szt": 101600113,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1995,
+      "nominal": "1 złoty",
+      "naklad_szt": 99740122,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1995,
+      "nominal": "2 złote",
+      "naklad_szt": 122880020,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1996,
+      "nominal": "20 groszy",
+      "naklad_szt": 29745000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1996,
+      "nominal": "5 złotych",
+      "naklad_szt": 52940003,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1997,
+      "nominal": "1 grosz",
+      "naklad_szt": 103080002,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1997,
+      "nominal": "2 grosze",
+      "naklad_szt": 92400002,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1997,
+      "nominal": "20 groszy",
+      "naklad_szt": 59755000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1998,
+      "nominal": "1 grosz",
+      "naklad_szt": 257640003,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1998,
+      "nominal": "2 grosze",
+      "naklad_szt": 154840050,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1998,
+      "nominal": "5 groszy",
+      "naklad_szt": 93472002,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1998,
+      "nominal": "10 groszy",
+      "naklad_szt": 62695000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1998,
+      "nominal": "20 groszy",
+      "naklad_szt": 52500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1999,
+      "nominal": "1 grosz",
+      "naklad_szt": 203970000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1999,
+      "nominal": "2 grosze",
+      "naklad_szt": 187900000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1999,
+      "nominal": "5 groszy",
+      "naklad_szt": 99024000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1999,
+      "nominal": "10 groszy",
+      "naklad_szt": 47040000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 1999,
+      "nominal": "20 groszy",
+      "naklad_szt": 25985000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2000,
+      "nominal": "1 grosz",
+      "naklad_szt": 210100000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2000,
+      "nominal": "2 grosze",
+      "naklad_szt": 94500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2000,
+      "nominal": "5 groszy",
+      "naklad_szt": 75600000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2000,
+      "nominal": "10 groszy",
+      "naklad_szt": 104060000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2000,
+      "nominal": "20 groszy",
+      "naklad_szt": 52135000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2001,
+      "nominal": "1 grosz",
+      "naklad_szt": 210000020,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2001,
+      "nominal": "2 grosze",
+      "naklad_szt": 84000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2001,
+      "nominal": "5 groszy",
+      "naklad_szt": 67368000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2001,
+      "nominal": "10 groszy",
+      "naklad_szt": 62820000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2001,
+      "nominal": "20 groszy",
+      "naklad_szt": 41980001,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2002,
+      "nominal": "1 grosz",
+      "naklad_szt": 240000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2002,
+      "nominal": "2 grosze",
+      "naklad_szt": 83910000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2002,
+      "nominal": "5 groszy",
+      "naklad_szt": 67200000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2002,
+      "nominal": "10 groszy",
+      "naklad_szt": 10500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2002,
+      "nominal": "20 groszy",
+      "naklad_szt": 10500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2003,
+      "nominal": "1 grosz",
+      "naklad_szt": 250000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2003,
+      "nominal": "2 grosze",
+      "naklad_szt": 80000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2003,
+      "nominal": "5 groszy",
+      "naklad_szt": 48000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2003,
+      "nominal": "10 groszy",
+      "naklad_szt": 31500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2003,
+      "nominal": "20 groszy",
+      "naklad_szt": 20400000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2004,
+      "nominal": "1 grosz",
+      "naklad_szt": 300000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2004,
+      "nominal": "2 grosze",
+      "naklad_szt": 100000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2004,
+      "nominal": "5 groszy",
+      "naklad_szt": 62500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2004,
+      "nominal": "10 groszy",
+      "naklad_szt": 70500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2004,
+      "nominal": "20 groszy",
+      "naklad_szt": 40000025,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "1 grosz",
+      "naklad_szt": 375000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "2 grosze",
+      "naklad_szt": 163003250,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "5 groszy",
+      "naklad_szt": 113000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "10 groszy",
+      "naklad_szt": 94000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "20 groszy",
+      "naklad_szt": 37000025,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2005,
+      "nominal": "2 złote",
+      "naklad_szt": 5000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "1 grosz",
+      "naklad_szt": 184000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "2 grosze",
+      "naklad_szt": 105000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "5 groszy",
+      "naklad_szt": 54000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "10 groszy",
+      "naklad_szt": 40000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "20 groszy",
+      "naklad_szt": 35000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2006,
+      "nominal": "2 złote",
+      "naklad_szt": 5000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "1 grosz",
+      "naklad_szt": 330000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "2 grosze",
+      "naklad_szt": 160000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "5 groszy",
+      "naklad_szt": 116000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "10 groszy",
+      "naklad_szt": 100000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "20 groszy",
+      "naklad_szt": 68000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2007,
+      "nominal": "2 złote",
+      "naklad_szt": 20000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "1 grosz",
+      "naklad_szt": 316000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "2 grosze",
+      "naklad_szt": 172000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "5 groszy",
+      "naklad_szt": 107000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "10 groszy",
+      "naklad_szt": 103000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "20 groszy",
+      "naklad_szt": 91000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "50 groszy",
+      "naklad_szt": 13000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "1 złoty",
+      "naklad_szt": 5000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "2 złote",
+      "naklad_szt": 15000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2008,
+      "nominal": "5 złotych",
+      "naklad_szt": 5000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "1 grosz",
+      "naklad_szt": 338000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "2 grosze",
+      "naklad_szt": 222000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "5 groszy",
+      "naklad_szt": 160000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "10 groszy",
+      "naklad_szt": 146000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "20 groszy",
+      "naklad_szt": 133000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "50 groszy",
+      "naklad_szt": 57000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "1 złoty",
+      "naklad_szt": 34000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "2 złote",
+      "naklad_szt": 62000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2009,
+      "nominal": "5 złotych",
+      "naklad_szt": 59000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "1 grosz",
+      "naklad_szt": 150000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "2 grosze",
+      "naklad_szt": 120000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "5 groszy",
+      "naklad_szt": 100000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "10 groszy",
+      "naklad_szt": 62000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "20 groszy",
+      "naklad_szt": 45000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "50 groszy",
+      "naklad_szt": 12000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "1 złoty",
+      "naklad_szt": 3000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "2 złote",
+      "naklad_szt": 15000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2010,
+      "nominal": "5 złotych",
+      "naklad_szt": 30000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "1 grosz",
+      "naklad_szt": 270000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "2 grosze",
+      "naklad_szt": 150000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "5 groszy",
+      "naklad_szt": 90000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "10 groszy",
+      "naklad_szt": 80000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "20 groszy",
+      "naklad_szt": 15000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2011,
+      "nominal": "50 groszy",
+      "naklad_szt": 10000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "1 grosz",
+      "naklad_szt": 365000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "2 grosze",
+      "naklad_szt": 100000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "5 groszy",
+      "naklad_szt": 60000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "10 groszy",
+      "naklad_szt": 136000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "20 groszy",
+      "naklad_szt": 38000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "50 groszy",
+      "naklad_szt": 12000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2012,
+      "nominal": "1 złoty",
+      "naklad_szt": 10000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2013,
+      "nominal": "1 grosz",
+      "naklad_szt": 323000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2013,
+      "nominal": "2 grosze",
+      "naklad_szt": 150000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2013,
+      "nominal": "5 groszy",
+      "naklad_szt": 88000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2013,
+      "nominal": "10 groszy",
+      "naklad_szt": 142000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2013,
+      "nominal": "20 groszy",
+      "naklad_szt": 36000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2013,
+      "nominal": "50 groszy",
+      "naklad_szt": 30000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2013,
+      "nominal": "1 złoty",
+      "naklad_szt": 21000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2013,
+      "nominal": "1 grosz",
+      "naklad_szt": 1000000,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2013,
+      "nominal": "2 grosze",
+      "naklad_szt": 1000000,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2013,
+      "nominal": "5 groszy",
+      "naklad_szt": 1000000,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2014,
+      "nominal": "1 grosz",
+      "naklad_szt": 86000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2014,
+      "nominal": "2 grosze",
+      "naklad_szt": 20000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2014,
+      "nominal": "5 groszy",
+      "naklad_szt": 15000000,
+      "oznaczenie_wariantu": "MW"
+    },
+    {
+      "rok": 2014,
+      "nominal": "10 groszy",
+      "naklad_szt": 88000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2014,
+      "nominal": "20 groszy",
+      "naklad_szt": 46000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2014,
+      "nominal": "50 groszy",
+      "naklad_szt": 28400000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2014,
+      "nominal": "1 złoty",
+      "naklad_szt": 35250000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2014,
+      "nominal": "2 złote",
+      "naklad_szt": 28000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2014,
+      "nominal": "1 grosz",
+      "naklad_szt": 333924900,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2014,
+      "nominal": "2 grosze",
+      "naklad_szt": 116084750,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2014,
+      "nominal": "5 groszy",
+      "naklad_szt": 80004500,
+      "oznaczenie_wariantu": "RM"
+    },
+    {
+      "rok": 2015,
+      "nominal": "1 grosz",
+      "naklad_szt": 388560000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "2 grosze",
+      "naklad_szt": 129870000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "5 groszy",
+      "naklad_szt": 115050000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "10 groszy",
+      "naklad_szt": 112050000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "20 groszy",
+      "naklad_szt": 78030000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "50 groszy",
+      "naklad_szt": 44010000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "1 złoty",
+      "naklad_szt": 39000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "2 złote",
+      "naklad_szt": 34350000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2015,
+      "nominal": "5 złotych",
+      "naklad_szt": 38040000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "1 grosz",
+      "naklad_szt": 266011103,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "2 grosze",
+      "naklad_szt": 142741600,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "5 groszy",
+      "naklad_szt": 120900100,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "10 groszy",
+      "naklad_szt": 116700000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "20 groszy",
+      "naklad_szt": 69120000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "50 groszy",
+      "naklad_szt": 28980000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "1 złoty",
+      "naklad_szt": 29775000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "2 złote",
+      "naklad_szt": 35150000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2016,
+      "nominal": "5 złotych",
+      "naklad_szt": 35040000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "1 grosz",
+      "naklad_szt": 391200000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "2 grosze",
+      "naklad_szt": 143910000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "5 groszy",
+      "naklad_szt": 126150000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "10 groszy",
+      "naklad_szt": 154200000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "20 groszy",
+      "naklad_szt": 88695000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "50 groszy",
+      "naklad_szt": 44370000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "1 złoty",
+      "naklad_szt": 41175000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "2 złote",
+      "naklad_szt": 30900000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2017,
+      "nominal": "5 złotych",
+      "naklad_szt": 23220000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "1 grosz",
+      "naklad_szt": 435840000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "2 grosze",
+      "naklad_szt": 161850000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "5 groszy",
+      "naklad_szt": 144600000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "10 groszy",
+      "naklad_szt": 169800000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "20 groszy",
+      "naklad_szt": 89100000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "50 groszy",
+      "naklad_szt": 42030000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "1 złoty",
+      "naklad_szt": 42000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2018,
+      "nominal": "2 złote",
+      "naklad_szt": 37425000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2019,
+      "nominal": "1 grosz",
+      "naklad_szt": 413520000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2019,
+      "nominal": "2 grosze",
+      "naklad_szt": 167115000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2019,
+      "nominal": "5 groszy",
+      "naklad_szt": 116100000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2019,
+      "nominal": "10 groszy",
+      "naklad_szt": 128700000,
+      "oznaczenie_wariantu": "MN"
+    },
+    {
+      "rok": 2019,
+      "nominal": "20 groszy",
+      "naklad_szt": 58320000,
+      "oznaczenie_wariantu": "MN"
+    },
+    {
+      "rok": 2019,
+      "nominal": "50 groszy",
+      "naklad_szt": 54990000,
+      "oznaczenie_wariantu": "MN"
+    },
+    {
+      "rok": 2019,
+      "nominal": "1 złoty",
+      "naklad_szt": 60750000,
+      "oznaczenie_wariantu": "MN"
+    },
+    {
+      "rok": 2019,
+      "nominal": "2 złote",
+      "naklad_szt": 27975000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "1 grosz",
+      "naklad_szt": 400080000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "2 grosze",
+      "naklad_szt": 161460000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "5 groszy",
+      "naklad_szt": 135000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "10 groszy",
+      "naklad_szt": 170100000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "20 groszy",
+      "naklad_szt": 94230000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "50 groszy",
+      "naklad_szt": 41580000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "1 złoty",
+      "naklad_szt": 42000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "2 złote",
+      "naklad_szt": 33525000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2020,
+      "nominal": "5 złotych",
+      "naklad_szt": 6436000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "1 grosz",
+      "naklad_szt": 319440000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "2 grosze",
+      "naklad_szt": 41925000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "5 groszy",
+      "naklad_szt": 108450000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "10 groszy",
+      "naklad_szt": 148200000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "20 groszy",
+      "naklad_szt": 42795000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "50 groszy",
+      "naklad_szt": 27900000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "1 złoty",
+      "naklad_szt": 32325000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "2 złote",
+      "naklad_szt": 40950000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2021,
+      "nominal": "5 złotych",
+      "naklad_szt": 39480000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "1 grosz",
+      "naklad_szt": 121920000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "5 groszy",
+      "naklad_szt": 15000000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "10 groszy",
+      "naklad_szt": 46950000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "20 groszy",
+      "naklad_szt": 79515000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "50 groszy",
+      "naklad_szt": 55440000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "1 złoty",
+      "naklad_szt": 44250000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "2 złote",
+      "naklad_szt": 41325000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2022,
+      "nominal": "5 złotych",
+      "naklad_szt": 32160000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "1 grosz",
+      "naklad_szt": 338880000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "2 grosze",
+      "naklad_szt": 110370000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "5 groszy",
+      "naklad_szt": 128550000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "10 groszy",
+      "naklad_szt": 157050000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "20 groszy",
+      "naklad_szt": 91800000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "50 groszy",
+      "naklad_szt": 59490000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "1 złoty",
+      "naklad_szt": 23625000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "2 złote",
+      "naklad_szt": 30225000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2023,
+      "nominal": "5 złotych",
+      "naklad_szt": 43180000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "1 grosz",
+      "naklad_szt": 390360000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "2 grosze",
+      "naklad_szt": 70005000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "5 groszy",
+      "naklad_szt": 70050000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "10 groszy",
+      "naklad_szt": 184500000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "20 groszy",
+      "naklad_szt": 92205000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "50 groszy",
+      "naklad_szt": 58680000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "1 złoty",
+      "naklad_szt": 40050000,
+      "oznaczenie_wariantu": "-"
+    },
+    {
+      "rok": 2024,
+      "nominal": "2 złote",
+      "naklad_szt": 43050000,
+      "oznaczenie_wariantu": "-"
+    }
+  ],
+  "meta": {
+    "title": "Nakłady monet obiegowych III RP według roczników (od 1990) - Free Download",
+    "description": "Liczba wybitych monet obiegowych złotego (1 gr – 5 zł) w poszczególnych latach od 1990 r.; dla lat z kilkoma wariantami podano oznaczenia wariantów (MW, RM, MN) jak w źródle. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nakłady monet obiegowych III RP według roczników (od 1990) | ListBase",
+    "seo_description": "Download Nakłady monet obiegowych III RP według roczników (od 1990) — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Monety_obiegowe_III_Rzeczypospolitej"
+    ]
+  }
+}
