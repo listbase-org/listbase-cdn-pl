@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-24T02:23:47.778Z",
-  "total_datasets": 591,
-  "total_records": 1097672,
+  "generated": "2026-11-25T02:24:54.623Z",
+  "total_datasets": 592,
+  "total_records": 1097689,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -1688,6 +1688,35 @@
         "xlsx": {
           "name": "finance-vat-rates_PL.xlsx",
           "size": 10458
+        }
+      }
+    },
+    {
+      "id": "pl-banknoty-kolekcjonerskie-nbp",
+      "name": "Banknoty kolekcjonerskie i okolicznościowe NBP",
+      "category": "finance",
+      "record_count": 17,
+      "columns": [
+        "nominal",
+        "awers",
+        "rewers",
+        "upamietnienie",
+        "projektant",
+        "data_emisji",
+        "wymiary_mm",
+        "naklad"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Banknoty_Narodowego_Banku_Polskiego_(od_1994)",
+      "updated": "2026-11",
+      "size": 8941,
+      "files": {
+        "csv": {
+          "name": "pl-banknoty-kolekcjonerskie-nbp_PL.csv",
+          "size": 3992
+        },
+        "xlsx": {
+          "name": "pl-banknoty-kolekcjonerskie-nbp_PL.xlsx",
+          "size": 9045
         }
       }
     },

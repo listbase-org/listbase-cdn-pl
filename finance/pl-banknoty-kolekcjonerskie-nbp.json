@@ -1,0 +1,236 @@
+{
+  "id": "pl-banknoty-kolekcjonerskie-nbp",
+  "name": "Banknoty kolekcjonerskie i okolicznościowe NBP",
+  "title": "Banknoty kolekcjonerskie i okolicznościowe NBP",
+  "description": "Banknoty kolekcjonerskie wyemitowane przez Narodowy Bank Polski od 2006 r.: nominał, motywy awersu i rewersu, upamiętnione wydarzenie, projektant, data emisji, wymiary i nakład.",
+  "category": "finance",
+  "source": "https://pl.wikipedia.org/wiki/Banknoty_Narodowego_Banku_Polskiego_(od_1994)",
+  "source_url": "https://pl.wikipedia.org/wiki/Banknoty_Narodowego_Banku_Polskiego_(od_1994)",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nominal",
+      "label": "Nominal",
+      "type": "string"
+    },
+    {
+      "key": "awers",
+      "label": "Awers",
+      "type": "string"
+    },
+    {
+      "key": "rewers",
+      "label": "Rewers",
+      "type": "string"
+    },
+    {
+      "key": "upamietnienie",
+      "label": "Upamietnienie",
+      "type": "string"
+    },
+    {
+      "key": "projektant",
+      "label": "Projektant",
+      "type": "string"
+    },
+    {
+      "key": "data_emisji",
+      "label": "Data Emisji",
+      "type": "string"
+    },
+    {
+      "key": "wymiary_mm",
+      "label": "Wymiary Mm",
+      "type": "string"
+    },
+    {
+      "key": "naklad",
+      "label": "Naklad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nominal": "50 złotych",
+      "awers": "Jan Paweł II",
+      "rewers": "Złożenie hołdu papieżowi przez kardynała Wyszyńskiego",
+      "upamietnienie": "28 rocznica wyboru Karola Wojtyły na papieża",
+      "projektant": "Andrzej Heidrich",
+      "data_emisji": "16 października 2006",
+      "wymiary_mm": "144 × 72",
+      "naklad": "2 000 000"
+    },
+    {
+      "nominal": "10 złotych",
+      "awers": "Józef Piłsudski",
+      "rewers": "Pomnik Czynu Legionowego w Kielcach",
+      "upamietnienie": "90-lecie Odzyskania Niepodległości",
+      "projektant": "Jan Maciej Kopecki",
+      "data_emisji": "30 października 2008",
+      "wymiary_mm": "138 × 69",
+      "naklad": "80 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Juliusz Słowacki",
+      "rewers": "Fragment autografu wiersza „Uspokojenie” i kolumna Zygmunta",
+      "upamietnienie": "200. rocznica urodzin Juliusza Słowackiego",
+      "projektant": "Jan Maciej Kopecki",
+      "data_emisji": "23 września 2009",
+      "wymiary_mm": "138 × 69",
+      "naklad": "80 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Fryderyk Chopin",
+      "rewers": "Pejzaż mazowiecki z wierzbami, fragment zapisu nutowego Etiudy f-moll op. 10 nr 9",
+      "upamietnienie": "200. rocznica urodzin Fryderyka Chopina",
+      "projektant": "Grzegorz Pfeifer i Katarzyna Jarnuszkiewicz",
+      "data_emisji": "22 lutego 2010",
+      "wymiary_mm": "138 × 69",
+      "naklad": "120 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Maria Skłodowska-Curie",
+      "rewers": "Instytut Radowy w Warszawie",
+      "upamietnienie": "100-lecie przyznania Nagrody Nobla Marii Skłodowskiej-Curie w dziedzinie Chemii.",
+      "projektant": "Agnieszka Próchniak",
+      "data_emisji": "25 listopada 2011",
+      "wymiary_mm": "138 × 69",
+      "naklad": "60 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Józef Piłsudski",
+      "rewers": "Krzyż Wielkiego Orderu Virtuti Militari",
+      "upamietnienie": "100. rocznica utworzenia Legionów Polskich",
+      "projektant": "Andrzej Heidrich",
+      "data_emisji": "5 sierpnia 2014",
+      "wymiary_mm": "147 × 67",
+      "naklad": "do 50 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Jan Długosz",
+      "rewers": "Wizerunek katedry na Wawelu oraz wizerunek herbu Jana Długosza – Wieniawa",
+      "upamietnienie": "600. rocznica urodzin Jana Długosza",
+      "projektant": "Andrzej Heidrich",
+      "data_emisji": "24 sierpnia 2015",
+      "wymiary_mm": "138 × 69",
+      "naklad": "do 30 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Mieszko I i Dobrawa",
+      "rewers": "Wizerunek katedry gnieźnieńskiej",
+      "upamietnienie": "1050. rocznica Chrztu Polski",
+      "projektant": "Krystian Michalczuk",
+      "data_emisji": "12 kwietnia 2016",
+      "wymiary_mm": "144 × 77",
+      "naklad": "do 35 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Obraz Matki Bożej Jasnogórskiej",
+      "rewers": "Obraz Matki Bożej Jasnogórskiej",
+      "upamietnienie": "300-lecie koronacji Obrazu Matki Bożej Jasnogórskiej",
+      "projektant": "Justyna Kopecka",
+      "data_emisji": "21 sierpnia 2017",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 55 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Józef Piłsudski",
+      "rewers": "Flaga Polski, orzeł strzelecki",
+      "upamietnienie": "100-lecie odzyskania niepodległości",
+      "projektant": "Agnieszka Próchniak",
+      "data_emisji": "31 sierpnia 2018",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 50 000"
+    },
+    {
+      "nominal": "19 złotych",
+      "awers": "Ignacy Jan Paderewski",
+      "rewers": "Gmach Polskiej Wytwórni Papierów Wartościowych S.A. w Warszawie, Panorama warszawska",
+      "upamietnienie": "100-lecie powstania Polskiej Wytwórni Papierów Wartościowych",
+      "projektant": "Justyna Kopecka i Krystian Michalczuk",
+      "data_emisji": "2 października 2019",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 55 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Józef Piłsudski",
+      "rewers": "Stylizowany fragment obrazu Jerzego Kossaka „Cud nad Wisłą”",
+      "upamietnienie": "100-lecie Bitwa Warszawskej",
+      "projektant": "Justyna Kopecka",
+      "data_emisji": "11 sierpnia 2020",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 60 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Lech Kaczyński",
+      "rewers": "Budynek Muzeum Powstania Warszawskiego, Strajk w Stoczni Gdańskiej, SOLIDARNOŚĆ, Cmentarz Wojenny w Katyniu.",
+      "upamietnienie": "Lech Kaczyński. Warto być Polakiem",
+      "projektant": "Justyna Kopecka",
+      "data_emisji": "9 listopada 2021",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 80 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Funkcjonariusz straży granicznej i żołnierz Wojska Polskiego oraz fragment mapy Polski",
+      "rewers": "Śmigłowiec policji, krajobraz polskiej granicy wschodniej, godło RP według wizerunku znajdującego się na słupach granicznych",
+      "upamietnienie": "Ochrona polskiej granicy wschodniej",
+      "projektant": "Agnieszka Próchniak",
+      "data_emisji": "19 lipca 2022",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 80 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Mikołaj Kopernik",
+      "rewers": "Szóstak gdański, szóstak elbląski, Zamek Kapituły Warmińskiej w Olsztynie",
+      "upamietnienie": "550-lecie urodzin Mikołaja Kopernika",
+      "projektant": "Krystian Michalczuk",
+      "data_emisji": "9 lutego 2023",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 100 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Powstańcy na tle płonącego budynku PAST-y, grupa osób otaczającą jeńców niemieckich",
+      "rewers": "Powstańcy z karabinami na tle zniszczonej zabudowy, ołtarz polowy w trakcie mszy w jednym z podwórzy",
+      "upamietnienie": "80. rocznica wybuchu Powstania Warszawskiego",
+      "projektant": "Justyna Kopecka",
+      "data_emisji": "26 lipca 2024",
+      "wymiary_mm": "150 × 77",
+      "naklad": "do 80 000"
+    },
+    {
+      "nominal": "20 złotych",
+      "awers": "Bolesław Chrobry",
+      "rewers": "wizerunki trzech kwater Drzwi Gnieźnieńskich, awers i rewers monety z czasów Bolesława Chrobrego – Princes Polonie oraz grot Włóczni św. Maurycego",
+      "upamietnienie": "Tysiąclecie koronacji Bolesława Chrobrego",
+      "projektant": "Agnieszka Próchniak",
+      "data_emisji": "5 listopada 2025",
+      "wymiary_mm": "170 × 85",
+      "naklad": "do 70 000"
+    }
+  ],
+  "meta": {
+    "title": "Banknoty kolekcjonerskie i okolicznościowe NBP - Free Download",
+    "description": "Banknoty kolekcjonerskie wyemitowane przez Narodowy Bank Polski od 2006 r.: nominał, motywy awersu i rewersu, upamiętnione wydarzenie, projektant, data emisji, wymiary i nakład. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Banknoty kolekcjonerskie i okolicznościowe NBP | ListBase",
+    "seo_description": "Download Banknoty kolekcjonerskie i okolicznościowe NBP — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Banknoty_Narodowego_Banku_Polskiego_(od_1994)"
+    ]
+  }
+}
