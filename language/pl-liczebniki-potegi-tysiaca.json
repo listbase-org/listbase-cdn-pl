@@ -1,0 +1,208 @@
+{
+  "id": "pl-liczebniki-potegi-tysiaca",
+  "name": "Liczebniki główne potęg tysiąca (milion, miliard, bilion…)",
+  "title": "Liczebniki główne potęg tysiąca (milion, miliard, bilion…)",
+  "description": "Polskie nazwy dużych liczb – tysiąc, milion, miliard, bilion, biliard, trylion i dalsze – z wartością na długiej skali (używanej w Polsce) i krótkiej skali oraz etymologią.",
+  "category": "language",
+  "source": "https://pl.wikipedia.org/wiki/Liczebniki_główne_potęg_tysiąca",
+  "source_url": "https://pl.wikipedia.org/wiki/Liczebniki_główne_potęg_tysiąca",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "liczebnik",
+      "label": "Liczebnik",
+      "type": "string"
+    },
+    {
+      "key": "dluga_skala",
+      "label": "Dluga Skala",
+      "type": "string"
+    },
+    {
+      "key": "krotka_skala",
+      "label": "Krotka Skala",
+      "type": "string"
+    },
+    {
+      "key": "etymologia",
+      "label": "Etymologia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "liczebnik": "tysiąc",
+      "dluga_skala": "10^3",
+      "krotka_skala": "10^3",
+      "etymologia": "Etymologia jest niepewna. Polskie słowo „tysiąc” pochodzi od prasłowiańskiego †tysęštjь, a to prawdopodobnie od *tūs-dḱm̥t-i- „potężna setka”."
+    },
+    {
+      "liczebnik": "milion",
+      "dluga_skala": "10^6",
+      "krotka_skala": "10^6",
+      "etymologia": "Milioun jest starofrancuskim słowem, pochodzącym od starowłoskiego milione, będącym wzmocnioną wersją słowa mille, tysiąc."
+    },
+    {
+      "liczebnik": "miliard",
+      "dluga_skala": "10^9",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Wyraz trafił do polszczyzny ze średniowiecznego francuskiego, gdzie był zapisywany miliart. Słowo to jest przekształconą nazwą miliona ze zmienioną końcówką. We francuskim pojawiło się w XVI wieku."
+    },
+    {
+      "liczebnik": "bilion",
+      "dluga_skala": "10^12",
+      "krotka_skala": "10^9",
+      "etymologia": "Od łacińskiego bis, dwa razy. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "biliard",
+      "dluga_skala": "10^15",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego bis, dwa razy. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "trylion",
+      "dluga_skala": "10^18",
+      "krotka_skala": "10^12",
+      "etymologia": "Łaciński przedrostek tri- oznacza trój-. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "tryliard",
+      "dluga_skala": "10^21",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Łaciński przedrostek tri- oznacza trój-. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "kwadrylion",
+      "dluga_skala": "10^24",
+      "krotka_skala": "10^15",
+      "etymologia": "Łaciński przedrostek quadri- oznacza czwór-. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "kwadryliard",
+      "dluga_skala": "10^27",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Łaciński przedrostek quadri- oznacza czwór-. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "kwintylion",
+      "dluga_skala": "10^30",
+      "krotka_skala": "10^18",
+      "etymologia": "Od łacińskiego quintus, piąty. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "kwintyliard",
+      "dluga_skala": "10^33",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego quintus, piąty. Dodana końcówka z milion lub miliard."
+    },
+    {
+      "liczebnik": "sekstylion",
+      "dluga_skala": "10^36",
+      "krotka_skala": "10^21",
+      "etymologia": "Od łacińskiego sextus, szósty."
+    },
+    {
+      "liczebnik": "sekstyliard",
+      "dluga_skala": "10^39",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego sextus, szósty."
+    },
+    {
+      "liczebnik": "septylion",
+      "dluga_skala": "10^42",
+      "krotka_skala": "10^24",
+      "etymologia": "Od łacińskiego septimus, siódmy."
+    },
+    {
+      "liczebnik": "septyliard",
+      "dluga_skala": "10^45",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego septimus, siódmy."
+    },
+    {
+      "liczebnik": "oktylion",
+      "dluga_skala": "10^48",
+      "krotka_skala": "10^27",
+      "etymologia": "Od łacińskiego octāvus, ósmy."
+    },
+    {
+      "liczebnik": "oktyliard",
+      "dluga_skala": "10^51",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego octāvus, ósmy."
+    },
+    {
+      "liczebnik": "nonilion lub nonylion",
+      "dluga_skala": "10^54",
+      "krotka_skala": "10^30",
+      "etymologia": "Od łacińskiego nonus, dziewiąty."
+    },
+    {
+      "liczebnik": "noniliard lub nonyliard",
+      "dluga_skala": "10^57",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego nonus, dziewiąty."
+    },
+    {
+      "liczebnik": "decylion",
+      "dluga_skala": "10^60",
+      "krotka_skala": "10^33",
+      "etymologia": "Od łacińskiego decĭmus, dziesiąty."
+    },
+    {
+      "liczebnik": "decyliard",
+      "dluga_skala": "10^63",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego decĭmus, dziesiąty."
+    },
+    {
+      "liczebnik": "undecylion",
+      "dluga_skala": "10^66",
+      "krotka_skala": "10^36",
+      "etymologia": "Od łacińskiego undecĭmus, jedenasty."
+    },
+    {
+      "liczebnik": "undecyliard",
+      "dluga_skala": "10^69",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego undecĭmus, jedenasty."
+    },
+    {
+      "liczebnik": "duodecylion",
+      "dluga_skala": "10^72",
+      "krotka_skala": "10^39",
+      "etymologia": "Od łacińskiego duodecĭmus, dwunasty."
+    },
+    {
+      "liczebnik": "duodecyliard",
+      "dluga_skala": "10^75",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego duodecĭmus, dwunasty."
+    },
+    {
+      "liczebnik": "centylion",
+      "dluga_skala": "10^600",
+      "krotka_skala": "10^303",
+      "etymologia": "Od łacińskiego centum, sto."
+    },
+    {
+      "liczebnik": "centyliard",
+      "dluga_skala": "10^603",
+      "krotka_skala": "nie występuje",
+      "etymologia": "Od łacińskiego centum, sto."
+    }
+  ],
+  "meta": {
+    "title": "Liczebniki główne potęg tysiąca (milion, miliard, bilion…) - Free Download",
+    "description": "Polskie nazwy dużych liczb – tysiąc, milion, miliard, bilion, biliard, trylion i dalsze – z wartością na długiej skali (używanej w Polsce) i krótkiej skali oraz etymologią. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Liczebniki główne potęg tysiąca (milion, miliard, bilion…) | ListBase",
+    "seo_description": "Download Liczebniki główne potęg tysiąca (milion, miliard, bilion…) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Liczebniki_główne_potęg_tysiąca"
+    ]
+  }
+}

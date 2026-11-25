@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-25T02:24:54.623Z",
-  "total_datasets": 592,
-  "total_records": 1097689,
+  "generated": "2026-11-25T02:25:07.855Z",
+  "total_datasets": 593,
+  "total_records": 1097716,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -4767,6 +4767,31 @@
         "xlsx": {
           "name": "pl-dialekty-jezyka-polskiego_PL.xlsx",
           "size": 7941
+        }
+      }
+    },
+    {
+      "id": "pl-liczebniki-potegi-tysiaca",
+      "name": "Liczebniki główne potęg tysiąca (milion, miliard, bilion…)",
+      "category": "language",
+      "record_count": 27,
+      "columns": [
+        "liczebnik",
+        "dluga_skala",
+        "krotka_skala",
+        "etymologia"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Liczebniki_główne_potęg_tysiąca",
+      "updated": "2026-11",
+      "size": 7229,
+      "files": {
+        "csv": {
+          "name": "pl-liczebniki-potegi-tysiaca_PL.csv",
+          "size": 2731
+        },
+        "xlsx": {
+          "name": "pl-liczebniki-potegi-tysiaca_PL.xlsx",
+          "size": 8021
         }
       }
     },
