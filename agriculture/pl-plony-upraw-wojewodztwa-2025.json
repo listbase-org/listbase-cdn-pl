@@ -1,0 +1,289 @@
+{
+  "id": "pl-plony-upraw-wojewodztwa-2025",
+  "name": "Plony głównych upraw według województw (2025)",
+  "title": "Plony głównych upraw według województw (2025)",
+  "description": "Plony z 1 ha (w decytonach) zbóż ogółem, pszenicy, żyta, jęczmienia, owsa, pszenżyta, kukurydzy na ziarno, ziemniaków, buraków cukrowych oraz rzepaku i rzepiku w poszczególnych województwach w 2025 r. (GUS, Bank Danych Lokalnych).",
+  "category": "agriculture",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "zboza_ogolem_dt_ha",
+      "label": "Zboza Ogolem Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "pszenica_dt_ha",
+      "label": "Pszenica Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "zyto_dt_ha",
+      "label": "Zyto Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "jeczmien_dt_ha",
+      "label": "Jeczmien Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "owies_dt_ha",
+      "label": "Owies Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "pszenzyto_dt_ha",
+      "label": "Pszenzyto Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "kukurydza_na_ziarno_dt_ha",
+      "label": "Kukurydza Na Ziarno Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "ziemniaki_dt_ha",
+      "label": "Ziemniaki Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "buraki_cukrowe_dt_ha",
+      "label": "Buraki Cukrowe Dt Ha",
+      "type": "number"
+    },
+    {
+      "key": "rzepak_i_rzepik_dt_ha",
+      "label": "Rzepak I Rzepik Dt Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "dolnośląskie",
+      "zboza_ogolem_dt_ha": 59.2,
+      "pszenica_dt_ha": 56.1,
+      "zyto_dt_ha": 38.9,
+      "jeczmien_dt_ha": 50.7,
+      "owies_dt_ha": 37.9,
+      "pszenzyto_dt_ha": 47.2,
+      "kukurydza_na_ziarno_dt_ha": 81.7,
+      "ziemniaki_dt_ha": 285.3,
+      "buraki_cukrowe_dt_ha": 754.8,
+      "rzepak_i_rzepik_dt_ha": 32.8
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "zboza_ogolem_dt_ha": 59.8,
+      "pszenica_dt_ha": 59.3,
+      "zyto_dt_ha": 42.1,
+      "jeczmien_dt_ha": 49.6,
+      "owies_dt_ha": 36.3,
+      "pszenzyto_dt_ha": 52.8,
+      "kukurydza_na_ziarno_dt_ha": 78.2,
+      "ziemniaki_dt_ha": 325.4,
+      "buraki_cukrowe_dt_ha": 716.6,
+      "rzepak_i_rzepik_dt_ha": 32.6
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "zboza_ogolem_dt_ha": 54,
+      "pszenica_dt_ha": 59.4,
+      "zyto_dt_ha": 33.9,
+      "jeczmien_dt_ha": 47.6,
+      "owies_dt_ha": 35.6,
+      "pszenzyto_dt_ha": 46,
+      "kukurydza_na_ziarno_dt_ha": 79.2,
+      "ziemniaki_dt_ha": 327.2,
+      "buraki_cukrowe_dt_ha": 671.7,
+      "rzepak_i_rzepik_dt_ha": 34.8
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "zboza_ogolem_dt_ha": 51.7,
+      "pszenica_dt_ha": 51,
+      "zyto_dt_ha": 37.8,
+      "jeczmien_dt_ha": 48.3,
+      "owies_dt_ha": 32.9,
+      "pszenzyto_dt_ha": 47.9,
+      "kukurydza_na_ziarno_dt_ha": 79.9,
+      "ziemniaki_dt_ha": 242.5,
+      "buraki_cukrowe_dt_ha": 559,
+      "rzepak_i_rzepik_dt_ha": 33.5
+    },
+    {
+      "wojewodztwo": "mazowieckie",
+      "zboza_ogolem_dt_ha": 42.6,
+      "pszenica_dt_ha": 44.4,
+      "zyto_dt_ha": 33.7,
+      "jeczmien_dt_ha": 39,
+      "owies_dt_ha": 29.5,
+      "pszenzyto_dt_ha": 39.1,
+      "kukurydza_na_ziarno_dt_ha": 63.3,
+      "ziemniaki_dt_ha": 332.2,
+      "buraki_cukrowe_dt_ha": 720.6,
+      "rzepak_i_rzepik_dt_ha": 32.4
+    },
+    {
+      "wojewodztwo": "małopolskie",
+      "zboza_ogolem_dt_ha": 57.5,
+      "pszenica_dt_ha": 54.8,
+      "zyto_dt_ha": 35.7,
+      "jeczmien_dt_ha": 44.9,
+      "owies_dt_ha": 36.1,
+      "pszenzyto_dt_ha": 41.6,
+      "kukurydza_na_ziarno_dt_ha": 91.7,
+      "ziemniaki_dt_ha": 288.9,
+      "buraki_cukrowe_dt_ha": 817.3,
+      "rzepak_i_rzepik_dt_ha": 35.6
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "zboza_ogolem_dt_ha": 70,
+      "pszenica_dt_ha": 65.9,
+      "zyto_dt_ha": 48.6,
+      "jeczmien_dt_ha": 59.2,
+      "owies_dt_ha": 43.3,
+      "pszenzyto_dt_ha": 53,
+      "kukurydza_na_ziarno_dt_ha": 92.3,
+      "ziemniaki_dt_ha": 290,
+      "buraki_cukrowe_dt_ha": 715.8,
+      "rzepak_i_rzepik_dt_ha": 32.4
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "zboza_ogolem_dt_ha": 52.5,
+      "pszenica_dt_ha": 49,
+      "zyto_dt_ha": 32.7,
+      "jeczmien_dt_ha": 40.8,
+      "owies_dt_ha": 34,
+      "pszenzyto_dt_ha": 40.7,
+      "kukurydza_na_ziarno_dt_ha": 76.7,
+      "ziemniaki_dt_ha": 309.9,
+      "buraki_cukrowe_dt_ha": 727.5,
+      "rzepak_i_rzepik_dt_ha": 33.4
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "zboza_ogolem_dt_ha": 48.2,
+      "pszenica_dt_ha": 46,
+      "zyto_dt_ha": 36,
+      "jeczmien_dt_ha": 45.4,
+      "owies_dt_ha": 34,
+      "pszenzyto_dt_ha": 44.7,
+      "kukurydza_na_ziarno_dt_ha": 80.8,
+      "ziemniaki_dt_ha": 283.3,
+      "buraki_cukrowe_dt_ha": 660.2,
+      "rzepak_i_rzepik_dt_ha": 30.9
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "zboza_ogolem_dt_ha": 54.1,
+      "pszenica_dt_ha": 60.2,
+      "zyto_dt_ha": 42.2,
+      "jeczmien_dt_ha": 46.5,
+      "owies_dt_ha": 41.8,
+      "pszenzyto_dt_ha": 48,
+      "kukurydza_na_ziarno_dt_ha": 78,
+      "ziemniaki_dt_ha": 338.8,
+      "buraki_cukrowe_dt_ha": 722.6,
+      "rzepak_i_rzepik_dt_ha": 33.5
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "zboza_ogolem_dt_ha": 53.7,
+      "pszenica_dt_ha": 57.7,
+      "zyto_dt_ha": 42.2,
+      "jeczmien_dt_ha": 45.8,
+      "owies_dt_ha": 35.3,
+      "pszenzyto_dt_ha": 49.9,
+      "kukurydza_na_ziarno_dt_ha": 68.4,
+      "ziemniaki_dt_ha": 273.8,
+      "buraki_cukrowe_dt_ha": 630.3,
+      "rzepak_i_rzepik_dt_ha": 32.4
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "zboza_ogolem_dt_ha": 59.4,
+      "pszenica_dt_ha": 59.1,
+      "zyto_dt_ha": 41.8,
+      "jeczmien_dt_ha": 54.5,
+      "owies_dt_ha": 39.4,
+      "pszenzyto_dt_ha": 55.6,
+      "kukurydza_na_ziarno_dt_ha": 81.5,
+      "ziemniaki_dt_ha": 403.4,
+      "buraki_cukrowe_dt_ha": 782.4,
+      "rzepak_i_rzepik_dt_ha": 33.3
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "zboza_ogolem_dt_ha": 50.2,
+      "pszenica_dt_ha": 54.1,
+      "zyto_dt_ha": 41.8,
+      "jeczmien_dt_ha": 46.7,
+      "owies_dt_ha": 32,
+      "pszenzyto_dt_ha": 49.9,
+      "kukurydza_na_ziarno_dt_ha": 72.5,
+      "ziemniaki_dt_ha": 340.2,
+      "buraki_cukrowe_dt_ha": 669.6,
+      "rzepak_i_rzepik_dt_ha": 31.8
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "zboza_ogolem_dt_ha": 48,
+      "pszenica_dt_ha": 47.9,
+      "zyto_dt_ha": 34.4,
+      "jeczmien_dt_ha": 39.9,
+      "owies_dt_ha": 33.9,
+      "pszenzyto_dt_ha": 44.4,
+      "kukurydza_na_ziarno_dt_ha": 78.6,
+      "ziemniaki_dt_ha": 320.4,
+      "buraki_cukrowe_dt_ha": 680.3,
+      "rzepak_i_rzepik_dt_ha": 33.5
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "zboza_ogolem_dt_ha": 57.3,
+      "pszenica_dt_ha": 56.3,
+      "zyto_dt_ha": 33.6,
+      "jeczmien_dt_ha": 46,
+      "owies_dt_ha": 37.4,
+      "pszenzyto_dt_ha": 42.1,
+      "kukurydza_na_ziarno_dt_ha": 91.5,
+      "ziemniaki_dt_ha": 296.6,
+      "buraki_cukrowe_dt_ha": 781.8,
+      "rzepak_i_rzepik_dt_ha": 35.5
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "zboza_ogolem_dt_ha": 49.1,
+      "pszenica_dt_ha": 51.8,
+      "zyto_dt_ha": 38.4,
+      "jeczmien_dt_ha": 45.5,
+      "owies_dt_ha": 37.8,
+      "pszenzyto_dt_ha": 44.9,
+      "kukurydza_na_ziarno_dt_ha": 72,
+      "ziemniaki_dt_ha": 285.8,
+      "buraki_cukrowe_dt_ha": 655.1,
+      "rzepak_i_rzepik_dt_ha": 32.7
+    }
+  ],
+  "meta": {
+    "title": "Plony głównych upraw według województw (2025) - Free Download",
+    "description": "Plony z 1 ha (w decytonach) zbóż ogółem, pszenicy, żyta, jęczmienia, owsa, pszenżyta, kukurydzy na ziarno, ziemniaków, buraków cukrowych oraz rzepaku i rzepiku w poszczególnych województwach w 2025 r. (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Plony głównych upraw według województw (2025) | ListBase",
+    "seo_description": "Download Plony głównych upraw według województw (2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat"
+    ]
+  }
+}

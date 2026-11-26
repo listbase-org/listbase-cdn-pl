@@ -1,12 +1,12 @@
 {
   "lang": "pl",
-  "generated": "2026-11-25T02:25:16.896Z",
-  "total_datasets": 594,
-  "total_records": 1097953,
+  "generated": "2026-11-26T02:22:11.152Z",
+  "total_datasets": 595,
+  "total_records": 1097969,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -180,6 +180,38 @@
         "xlsx": {
           "name": "pl-odmiany-jabloni_PL.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "pl-plony-upraw-wojewodztwa-2025",
+      "name": "Plony głównych upraw według województw (2025)",
+      "category": "agriculture",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "zboza_ogolem_dt_ha",
+        "pszenica_dt_ha",
+        "zyto_dt_ha",
+        "jeczmien_dt_ha",
+        "owies_dt_ha",
+        "pszenzyto_dt_ha",
+        "kukurydza_na_ziarno_dt_ha",
+        "ziemniaki_dt_ha",
+        "buraki_cukrowe_dt_ha",
+        "rzepak_i_rzepik_dt_ha"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+      "updated": "2026-11",
+      "size": 8614,
+      "files": {
+        "csv": {
+          "name": "pl-plony-upraw-wojewodztwa-2025_PL.csv",
+          "size": 1566
+        },
+        "xlsx": {
+          "name": "pl-plony-upraw-wojewodztwa-2025_PL.xlsx",
+          "size": 8025
         }
       }
     },
