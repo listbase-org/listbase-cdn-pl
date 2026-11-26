@@ -1,0 +1,205 @@
+{
+  "id": "pl-widzowie-teatrow-i-instytucji-muzycznych-wojewodztwa-2025",
+  "name": "Widzowie teatrów, opery i instytucji muzycznych według województw (2025)",
+  "title": "Widzowie teatrów, opery i instytucji muzycznych według województw (2025)",
+  "description": "Liczba widzów i słuchaczy teatrów i instytucji muzycznych (wg miejsca prezentacji) w poszczególnych województwach w 2025 r., w tym widzów teatrów dramatycznych, lalkowych, opery oraz operetki, baletu i teatru tańca w stałych salach, a także widzów na 1000 ludności (GUS, Bank Danych Lokalnych).",
+  "category": "culture",
+  "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "source_url": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "wojewodztwo",
+      "label": "Wojewodztwo",
+      "type": "string"
+    },
+    {
+      "key": "widzowie_teatry_i_instytucje_muzyczne_ogolem",
+      "label": "Widzowie Teatry I Instytucje Muzyczne Ogolem",
+      "type": "number"
+    },
+    {
+      "key": "widzowie_teatr_dramatyczny",
+      "label": "Widzowie Teatr Dramatyczny",
+      "type": "number"
+    },
+    {
+      "key": "widzowie_teatr_lalkowy",
+      "label": "Widzowie Teatr Lalkowy",
+      "type": "number"
+    },
+    {
+      "key": "widzowie_opera",
+      "label": "Widzowie Opera",
+      "type": "number"
+    },
+    {
+      "key": "widzowie_operetka_balet_teatr_tanca",
+      "label": "Widzowie Operetka Balet Teatr Tanca",
+      "type": "number"
+    },
+    {
+      "key": "widzowie_na_1000_ludnosci",
+      "label": "Widzowie Na 1000 Ludnosci",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wojewodztwo": "dolnośląskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 1064809,
+      "widzowie_teatr_dramatyczny": 186279,
+      "widzowie_teatr_lalkowy": 92779,
+      "widzowie_opera": 74417,
+      "widzowie_operetka_balet_teatr_tanca": 105115,
+      "widzowie_na_1000_ludnosci": 371.99
+    },
+    {
+      "wojewodztwo": "kujawsko-pomorskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 576295,
+      "widzowie_teatr_dramatyczny": 55957,
+      "widzowie_teatr_lalkowy": 64261,
+      "widzowie_opera": 81828,
+      "widzowie_operetka_balet_teatr_tanca": 41918,
+      "widzowie_na_1000_ludnosci": 291.42
+    },
+    {
+      "wojewodztwo": "lubelskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 172868,
+      "widzowie_teatr_dramatyczny": 30896,
+      "widzowie_teatr_lalkowy": 31524,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 30210,
+      "widzowie_na_1000_ludnosci": 86.97
+    },
+    {
+      "wojewodztwo": "lubuskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 381696,
+      "widzowie_teatr_dramatyczny": 104203,
+      "widzowie_teatr_lalkowy": 0,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 394.97
+    },
+    {
+      "wojewodztwo": "mazowieckie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 3633827,
+      "widzowie_teatr_dramatyczny": 1713802,
+      "widzowie_teatr_lalkowy": 127216,
+      "widzowie_opera": 288123,
+      "widzowie_operetka_balet_teatr_tanca": 437336,
+      "widzowie_na_1000_ludnosci": 659.93
+    },
+    {
+      "wojewodztwo": "małopolskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 1169175,
+      "widzowie_teatr_dramatyczny": 570387,
+      "widzowie_teatr_lalkowy": 104347,
+      "widzowie_opera": 82707,
+      "widzowie_operetka_balet_teatr_tanca": 49609,
+      "widzowie_na_1000_ludnosci": 341.1
+    },
+    {
+      "wojewodztwo": "opolskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 217872,
+      "widzowie_teatr_dramatyczny": 90046,
+      "widzowie_teatr_lalkowy": 31884,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 235.07
+    },
+    {
+      "wojewodztwo": "podkarpackie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 214360,
+      "widzowie_teatr_dramatyczny": 46790,
+      "widzowie_teatr_lalkowy": 45256,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 104.16
+    },
+    {
+      "wojewodztwo": "podlaskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 243041,
+      "widzowie_teatr_dramatyczny": 1700,
+      "widzowie_teatr_lalkowy": 70122,
+      "widzowie_opera": 57191,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 215.18
+    },
+    {
+      "wojewodztwo": "pomorskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 804429,
+      "widzowie_teatr_dramatyczny": 198747,
+      "widzowie_teatr_lalkowy": 51931,
+      "widzowie_opera": 53081,
+      "widzowie_operetka_balet_teatr_tanca": 208949,
+      "widzowie_na_1000_ludnosci": 341.04
+    },
+    {
+      "wojewodztwo": "warmińsko-mazurskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 352418,
+      "widzowie_teatr_dramatyczny": 98081,
+      "widzowie_teatr_lalkowy": 31050,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 262.23
+    },
+    {
+      "wojewodztwo": "wielkopolskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 678557,
+      "widzowie_teatr_dramatyczny": 135277,
+      "widzowie_teatr_lalkowy": 50055,
+      "widzowie_opera": 94813,
+      "widzowie_operetka_balet_teatr_tanca": 79186,
+      "widzowie_na_1000_ludnosci": 195.28
+    },
+    {
+      "wojewodztwo": "zachodniopomorskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 1498581,
+      "widzowie_teatr_dramatyczny": 196147,
+      "widzowie_teatr_lalkowy": 54366,
+      "widzowie_opera": 32984,
+      "widzowie_operetka_balet_teatr_tanca": 0,
+      "widzowie_na_1000_ludnosci": 926.53
+    },
+    {
+      "wojewodztwo": "łódzkie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 517783,
+      "widzowie_teatr_dramatyczny": 129146,
+      "widzowie_teatr_lalkowy": 62543,
+      "widzowie_opera": 100373,
+      "widzowie_operetka_balet_teatr_tanca": 105890,
+      "widzowie_na_1000_ludnosci": 221.59
+    },
+    {
+      "wojewodztwo": "śląskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 1202966,
+      "widzowie_teatr_dramatyczny": 404274,
+      "widzowie_teatr_lalkowy": 113272,
+      "widzowie_opera": 51336,
+      "widzowie_operetka_balet_teatr_tanca": 112511,
+      "widzowie_na_1000_ludnosci": 281.37
+    },
+    {
+      "wojewodztwo": "świętokrzyskie",
+      "widzowie_teatry_i_instytucje_muzyczne_ogolem": 252891,
+      "widzowie_teatr_dramatyczny": 43538,
+      "widzowie_teatr_lalkowy": 36747,
+      "widzowie_opera": 0,
+      "widzowie_operetka_balet_teatr_tanca": 21175,
+      "widzowie_na_1000_ludnosci": 219.42
+    }
+  ],
+  "meta": {
+    "title": "Widzowie teatrów, opery i instytucji muzycznych według województw (2025) - Free Download",
+    "description": "Liczba widzów i słuchaczy teatrów i instytucji muzycznych (wg miejsca prezentacji) w poszczególnych województwach w 2025 r., w tym widzów teatrów dramatycznych, lalkowych, opery oraz operetki, baletu i teatru tańca w stałych salach, a także widzów na 1000 ludności (GUS, Bank Danych Lokalnych). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Widzowie teatrów, opery i instytucji muzycznych według województw (2025) | ListBase",
+    "seo_description": "Download Widzowie teatrów, opery i instytucji muzycznych według województw (2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bdl.stat.gov.pl/bdl/dane/podgrup/temat"
+    ]
+  }
+}

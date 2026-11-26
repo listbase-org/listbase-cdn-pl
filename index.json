@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-26T02:22:11.152Z",
-  "total_datasets": 595,
-  "total_records": 1097969,
+  "generated": "2026-11-26T02:22:19.109Z",
+  "total_datasets": 596,
+  "total_records": 1097985,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -538,6 +538,34 @@
         "xlsx": {
           "name": "pl-sklepy-z-artykulami-plastycznymi_PL.xlsx",
           "size": 15788
+        }
+      }
+    },
+    {
+      "id": "pl-widzowie-teatrow-i-instytucji-muzycznych-wojewodztwa-2025",
+      "name": "Widzowie teatrów, opery i instytucji muzycznych według województw (2025)",
+      "category": "culture",
+      "record_count": 16,
+      "columns": [
+        "wojewodztwo",
+        "widzowie_teatry_i_instytucje_muzyczne_ogolem",
+        "widzowie_teatr_dramatyczny",
+        "widzowie_teatr_lalkowy",
+        "widzowie_opera",
+        "widzowie_operetka_balet_teatr_tanca",
+        "widzowie_na_1000_ludnosci"
+      ],
+      "source": "https://bdl.stat.gov.pl/bdl/dane/podgrup/temat",
+      "updated": "2026-11",
+      "size": 7744,
+      "files": {
+        "csv": {
+          "name": "pl-widzowie-teatrow-i-instytucji-muzycznych-wojewodztwa-2025_PL.csv",
+          "size": 1213
+        },
+        "xlsx": {
+          "name": "pl-widzowie-teatrow-i-instytucji-muzycznych-wojewodztwa-2025_PL.xlsx",
+          "size": 7739
         }
       }
     },
