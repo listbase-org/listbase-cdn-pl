@@ -1,0 +1,148 @@
+{
+  "id": "pl-wybory-prezydenckie-2025-wyniki",
+  "name": "Wybory prezydenckie w Polsce 2025 — oficjalne wyniki I i II tury",
+  "title": "Wybory prezydenckie w Polsce 2025 — oficjalne wyniki I i II tury",
+  "description": "Oficjalne wyniki wyborów na Prezydenta RP w 2025 r.: liczba głosów i odsetek głosów ważnych oddanych na każdego z 13 kandydatów w I turze (18 maja, frekwencja 67,31%) oraz na Karola Nawrockiego i Rafała Trzaskowskiego w II turze (1 czerwca, frekwencja 71,63%), wraz z głosami nieważnymi (odsetek od wszystkich oddanych głosów).",
+  "category": "politics",
+  "source": "https://pl.wikipedia.org/wiki/Wybory_prezydenckie_w_Polsce_w_2025_roku",
+  "source_url": "https://pl.wikipedia.org/wiki/Wybory_prezydenckie_w_Polsce_w_2025_roku",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "tura",
+      "label": "Tura",
+      "type": "string"
+    },
+    {
+      "key": "kandydat",
+      "label": "Kandydat",
+      "type": "string"
+    },
+    {
+      "key": "glosy",
+      "label": "Glosy",
+      "type": "number"
+    },
+    {
+      "key": "procent",
+      "label": "Procent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Rafał Kazimierz Trzaskowski",
+      "glosy": 6147797,
+      "procent": 31.36
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Karol Tadeusz Nawrocki",
+      "glosy": 5790804,
+      "procent": 29.54
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Sławomir Jerzy Mentzen",
+      "glosy": 2902448,
+      "procent": 14.81
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Grzegorz Michał Braun",
+      "glosy": 1242917,
+      "procent": 6.34
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Szymon Franciszek Hołownia",
+      "glosy": 978901,
+      "procent": 4.99
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Adrian Tadeusz Zandberg",
+      "glosy": 952832,
+      "procent": 4.86
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Magdalena Agnieszka Biejat",
+      "glosy": 829361,
+      "procent": 4.23
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Krzysztof Jakub Stanowski",
+      "glosy": 243479,
+      "procent": 1.24
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Joanna Senyszyn",
+      "glosy": 214198,
+      "procent": 1.09
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Marek Jakubiak",
+      "glosy": 150698,
+      "procent": 0.77
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Artur Bartoszewicz",
+      "glosy": 95640,
+      "procent": 0.49
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Maciej Maciak",
+      "glosy": 36371,
+      "procent": 0.19
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Marek Marian Woch",
+      "glosy": 18338,
+      "procent": 0.09
+    },
+    {
+      "tura": "I tura (18 maja 2025)",
+      "kandydat": "Głosy nieważne",
+      "glosy": 85813,
+      "procent": 0.44
+    },
+    {
+      "tura": "II tura (1 czerwca 2025)",
+      "kandydat": "Karol Tadeusz Nawrocki",
+      "glosy": 10606877,
+      "procent": 50.89
+    },
+    {
+      "tura": "II tura (1 czerwca 2025)",
+      "kandydat": "Rafał Kazimierz Trzaskowski",
+      "glosy": 10237286,
+      "procent": 49.11
+    },
+    {
+      "tura": "II tura (1 czerwca 2025)",
+      "kandydat": "Głosy nieważne",
+      "glosy": 189294,
+      "procent": 0.9
+    }
+  ],
+  "meta": {
+    "title": "Wybory prezydenckie w Polsce 2025 — oficjalne wyniki I i II tury - Free Download",
+    "description": "Oficjalne wyniki wyborów na Prezydenta RP w 2025 r.: liczba głosów i odsetek głosów ważnych oddanych na każdego z 13 kandydatów w I turze (18 maja, frekwencja 67,31%) oraz na Karola Nawrockiego i Rafała Trzaskowskiego w II turze (1 czerwca, frekwencja 71,63%), wraz z głosami nieważnymi (odsetek od wszystkich oddanych głosów). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Wybory prezydenckie w Polsce 2025 — oficjalne wyniki I i II tury | ListBase",
+    "seo_description": "Download Wybory prezydenckie w Polsce 2025 — oficjalne wyniki I i II tury — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Wybory_prezydenckie_w_Polsce_w_2025_roku"
+    ]
+  }
+}
