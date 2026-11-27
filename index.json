@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-26T02:22:27.161Z",
-  "total_datasets": 597,
-  "total_records": 1098002,
+  "generated": "2026-11-27T02:33:13.029Z",
+  "total_datasets": 598,
+  "total_records": 1098093,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -14342,6 +14342,30 @@
         "xlsx": {
           "name": "pl-mistrzowie-polski-pilka-nozna_PL.xlsx",
           "size": 11281
+        }
+      }
+    },
+    {
+      "id": "pl-plebiscyt-przegladu-sportowego-zwyciezcy",
+      "name": "Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025)",
+      "category": "sports",
+      "record_count": 91,
+      "columns": [
+        "rok",
+        "sportowiec",
+        "dyscyplina"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Plebiscyt_„Przeglądu_Sportowego”",
+      "updated": "2026-11",
+      "size": 11663,
+      "files": {
+        "csv": {
+          "name": "pl-plebiscyt-przegladu-sportowego-zwyciezcy_PL.csv",
+          "size": 3948
+        },
+        "xlsx": {
+          "name": "pl-plebiscyt-przegladu-sportowego-zwyciezcy_PL.xlsx",
+          "size": 9177
         }
       }
     },

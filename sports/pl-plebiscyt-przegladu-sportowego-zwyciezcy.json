@@ -1,0 +1,496 @@
+{
+  "id": "pl-plebiscyt-przegladu-sportowego-zwyciezcy",
+  "name": "Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025)",
+  "title": "Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025)",
+  "description": "Zwycięzcy Plebiscytu „Przeglądu Sportowego” na najlepszego sportowca Polski w każdym roku od 1926 wraz z uprawianą dyscypliną sportu.",
+  "category": "sports",
+  "source": "https://pl.wikipedia.org/wiki/Plebiscyt_„Przeglądu_Sportowego”",
+  "source_url": "https://pl.wikipedia.org/wiki/Plebiscyt_„Przeglądu_Sportowego”",
+  "updated": "2026-11",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "sportowiec",
+      "label": "Sportowiec",
+      "type": "string"
+    },
+    {
+      "key": "dyscyplina",
+      "label": "Dyscyplina",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1926,
+      "sportowiec": "Wacław Kuchar",
+      "dyscyplina": "hokej na lodzie, lekkoatletyka, łyżwiarstwo szybkie, piłka nożna"
+    },
+    {
+      "rok": 1927,
+      "sportowiec": "Halina Konopacka",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1928,
+      "sportowiec": "Halina Konopacka",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1929,
+      "sportowiec": "Stanisław Petkiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1930,
+      "sportowiec": "Stanisława Walasiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1931,
+      "sportowiec": "Janusz Kusociński",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1932,
+      "sportowiec": "Stanisława Walasiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1933,
+      "sportowiec": "Stanisława Walasiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1934,
+      "sportowiec": "Stanisława Walasiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1935,
+      "sportowiec": "Roger Verey",
+      "dyscyplina": "wioślarstwo"
+    },
+    {
+      "rok": 1936,
+      "sportowiec": "Jadwiga Jędrzejowska",
+      "dyscyplina": "tenis ziemny"
+    },
+    {
+      "rok": 1937,
+      "sportowiec": "Jadwiga Jędrzejowska",
+      "dyscyplina": "tenis ziemny"
+    },
+    {
+      "rok": 1938,
+      "sportowiec": "Stanisław Marusarz",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 1948,
+      "sportowiec": "Aleksy Antkiewicz",
+      "dyscyplina": "boks"
+    },
+    {
+      "rok": 1949,
+      "sportowiec": "Zdobysław Stawczyk",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1950,
+      "sportowiec": "Helena Rakoczy",
+      "dyscyplina": "gimnastyka"
+    },
+    {
+      "rok": 1951,
+      "sportowiec": "Zygmunt Chychła",
+      "dyscyplina": "boks"
+    },
+    {
+      "rok": 1952,
+      "sportowiec": "Zygmunt Chychła",
+      "dyscyplina": "boks"
+    },
+    {
+      "rok": 1953,
+      "sportowiec": "Leszek Drogosz",
+      "dyscyplina": "boks"
+    },
+    {
+      "rok": 1954,
+      "sportowiec": "Janusz Sidło",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1955,
+      "sportowiec": "Janusz Sidło",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1956,
+      "sportowiec": "Elżbieta Krzesińska",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1957,
+      "sportowiec": "Jerzy Pawłowski",
+      "dyscyplina": "szermierka"
+    },
+    {
+      "rok": 1958,
+      "sportowiec": "Zdzisław Krzyszkowiak",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1959,
+      "sportowiec": "Edmund Piątkowski",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1960,
+      "sportowiec": "Józef Szmidt",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1961,
+      "sportowiec": "Ireneusz Paliński",
+      "dyscyplina": "podnoszenie ciężarów"
+    },
+    {
+      "rok": 1962,
+      "sportowiec": "Teresa Ciepły",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1963,
+      "sportowiec": "Ryszard Parulski",
+      "dyscyplina": "szermierka"
+    },
+    {
+      "rok": 1964,
+      "sportowiec": "Józef Szmidt",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1965,
+      "sportowiec": "Irena Kirszenstein",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1966,
+      "sportowiec": "Irena Kirszenstein",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1967,
+      "sportowiec": "Sobiesław Zasada",
+      "dyscyplina": "rajdy samochodowe"
+    },
+    {
+      "rok": 1968,
+      "sportowiec": "Jerzy Pawłowski",
+      "dyscyplina": "szermierka"
+    },
+    {
+      "rok": 1969,
+      "sportowiec": "Waldemar Baszanowski",
+      "dyscyplina": "podnoszenie ciężarów"
+    },
+    {
+      "rok": 1970,
+      "sportowiec": "Teresa Sukniewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1971,
+      "sportowiec": "Ryszard Szurkowski",
+      "dyscyplina": "kolarstwo szosowe"
+    },
+    {
+      "rok": 1972,
+      "sportowiec": "Witold Woyda",
+      "dyscyplina": "szermierka"
+    },
+    {
+      "rok": 1973,
+      "sportowiec": "Ryszard Szurkowski",
+      "dyscyplina": "kolarstwo szosowe"
+    },
+    {
+      "rok": 1974,
+      "sportowiec": "Irena Szewińska",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1975,
+      "sportowiec": "Zygmunt Smalcerz",
+      "dyscyplina": "podnoszenie ciężarów"
+    },
+    {
+      "rok": 1976,
+      "sportowiec": "Irena Szewińska",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1977,
+      "sportowiec": "Janusz Pyciak-Peciak",
+      "dyscyplina": "pięciobój nowoczesny"
+    },
+    {
+      "rok": 1978,
+      "sportowiec": "Józef Łuszczek",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 1979,
+      "sportowiec": "Jan Jankiewicz",
+      "dyscyplina": "kolarstwo szosowe"
+    },
+    {
+      "rok": 1980,
+      "sportowiec": "Władysław Kozakiewicz",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1981,
+      "sportowiec": "Janusz Pyciak-Peciak",
+      "dyscyplina": "pięciobój nowoczesny"
+    },
+    {
+      "rok": 1982,
+      "sportowiec": "Zbigniew Boniek",
+      "dyscyplina": "piłka nożna"
+    },
+    {
+      "rok": 1983,
+      "sportowiec": "Zdzisław Hoffmann",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1984,
+      "sportowiec": "Andrzej Grubba",
+      "dyscyplina": "tenis stołowy"
+    },
+    {
+      "rok": 1985,
+      "sportowiec": "Lech Piasecki",
+      "dyscyplina": "kolarstwo szosowe"
+    },
+    {
+      "rok": 1986,
+      "sportowiec": "Andrzej Malina",
+      "dyscyplina": "zapasy"
+    },
+    {
+      "rok": 1987,
+      "sportowiec": "Marek Łbik i Marek Dopierała",
+      "dyscyplina": "kajakarstwo"
+    },
+    {
+      "rok": 1988,
+      "sportowiec": "Waldemar Legień",
+      "dyscyplina": "judo"
+    },
+    {
+      "rok": 1989,
+      "sportowiec": "Joachim Halupczok",
+      "dyscyplina": "kolarstwo szosowe"
+    },
+    {
+      "rok": 1990,
+      "sportowiec": "Wanda Panfil",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1991,
+      "sportowiec": "Wanda Panfil",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1992,
+      "sportowiec": "Waldemar Legień",
+      "dyscyplina": "judo"
+    },
+    {
+      "rok": 1993,
+      "sportowiec": "Rafał Kubacki",
+      "dyscyplina": "judo"
+    },
+    {
+      "rok": 1994,
+      "sportowiec": "Andrzej Wroński",
+      "dyscyplina": "zapasy"
+    },
+    {
+      "rok": 1995,
+      "sportowiec": "Paweł Nastula",
+      "dyscyplina": "judo"
+    },
+    {
+      "rok": 1996,
+      "sportowiec": "Renata Mauer",
+      "dyscyplina": "strzelectwo"
+    },
+    {
+      "rok": 1997,
+      "sportowiec": "Paweł Nastula",
+      "dyscyplina": "judo"
+    },
+    {
+      "rok": 1998,
+      "sportowiec": "Robert Korzeniowski",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 1999,
+      "sportowiec": "Tomasz Gollob",
+      "dyscyplina": "żużel"
+    },
+    {
+      "rok": 2000,
+      "sportowiec": "Robert Korzeniowski",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 2001,
+      "sportowiec": "Adam Małysz",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2002,
+      "sportowiec": "Adam Małysz",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2003,
+      "sportowiec": "Adam Małysz",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2004,
+      "sportowiec": "Otylia Jędrzejczak",
+      "dyscyplina": "pływanie"
+    },
+    {
+      "rok": 2005,
+      "sportowiec": "Otylia Jędrzejczak",
+      "dyscyplina": "pływanie"
+    },
+    {
+      "rok": 2006,
+      "sportowiec": "Otylia Jędrzejczak",
+      "dyscyplina": "pływanie"
+    },
+    {
+      "rok": 2007,
+      "sportowiec": "Adam Małysz",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2008,
+      "sportowiec": "Robert Kubica",
+      "dyscyplina": "Formuła 1"
+    },
+    {
+      "rok": 2009,
+      "sportowiec": "Justyna Kowalczyk",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 2010,
+      "sportowiec": "Justyna Kowalczyk",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 2011,
+      "sportowiec": "Justyna Kowalczyk",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 2012,
+      "sportowiec": "Justyna Kowalczyk",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 2013,
+      "sportowiec": "Justyna Kowalczyk",
+      "dyscyplina": "biegi narciarskie"
+    },
+    {
+      "rok": 2014,
+      "sportowiec": "Kamil Stoch",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2015,
+      "sportowiec": "Robert Lewandowski",
+      "dyscyplina": "piłka nożna"
+    },
+    {
+      "rok": 2016,
+      "sportowiec": "Anita Włodarczyk",
+      "dyscyplina": "lekkoatletyka"
+    },
+    {
+      "rok": 2017,
+      "sportowiec": "Kamil Stoch",
+      "dyscyplina": "skoki narciarskie"
+    },
+    {
+      "rok": 2018,
+      "sportowiec": "Bartosz Kurek",
+      "dyscyplina": "siatkówka"
+    },
+    {
+      "rok": 2019,
+      "sportowiec": "Bartosz Zmarzlik",
+      "dyscyplina": "żużel"
+    },
+    {
+      "rok": 2020,
+      "sportowiec": "Robert Lewandowski",
+      "dyscyplina": "piłka nożna"
+    },
+    {
+      "rok": 2021,
+      "sportowiec": "Robert Lewandowski",
+      "dyscyplina": "piłka nożna"
+    },
+    {
+      "rok": 2022,
+      "sportowiec": "Iga Świątek",
+      "dyscyplina": "tenis ziemny"
+    },
+    {
+      "rok": 2023,
+      "sportowiec": "Iga Świątek",
+      "dyscyplina": "tenis ziemny"
+    },
+    {
+      "rok": 2024,
+      "sportowiec": "Aleksandra Mirosław",
+      "dyscyplina": "wspinaczka sportowa"
+    },
+    {
+      "rok": 2025,
+      "sportowiec": "Klaudia Zwolińska",
+      "dyscyplina": "kajakarstwo górskie"
+    }
+  ],
+  "meta": {
+    "title": "Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025) - Free Download",
+    "description": "Zwycięzcy Plebiscytu „Przeglądu Sportowego” na najlepszego sportowca Polski w każdym roku od 1926 wraz z uprawianą dyscypliną sportu. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025) | ListBase",
+    "seo_description": "Download Plebiscyt „Przeglądu Sportowego” — zwycięzcy (1926–2025) — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pl.wikipedia.org/wiki/Plebiscyt_„Przeglądu_Sportowego”"
+    ]
+  }
+}
