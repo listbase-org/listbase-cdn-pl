@@ -1,8 +1,8 @@
 {
   "lang": "pl",
-  "generated": "2026-11-27T02:33:13.029Z",
-  "total_datasets": 598,
-  "total_records": 1098093,
+  "generated": "2026-11-27T02:33:22.551Z",
+  "total_datasets": 599,
+  "total_records": 1098112,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1209,6 +1209,46 @@
         "xlsx": {
           "name": "pl-stacje-radiowe_PL.xlsx",
           "size": 20613
+        }
+      }
+    },
+    {
+      "id": "pl-udzialy-stacji-telewizyjnych-w-rynku-2007-2023",
+      "name": "Udziały największych stacji telewizyjnych w rynku oglądalności (2007–2023)",
+      "category": "entertainment",
+      "record_count": 19,
+      "columns": [
+        "stacja",
+        "data_uruchomienia",
+        "udzial_2023",
+        "udzial_2022",
+        "udzial_2021",
+        "udzial_2020",
+        "udzial_2019",
+        "udzial_2018",
+        "udzial_2017",
+        "udzial_2016",
+        "udzial_2015",
+        "udzial_2014",
+        "udzial_2013",
+        "udzial_2012",
+        "udzial_2011",
+        "udzial_2010",
+        "udzial_2009",
+        "udzial_2008",
+        "udzial_2007"
+      ],
+      "source": "https://pl.wikipedia.org/wiki/Telewizja_w_Polsce",
+      "updated": "2026-11",
+      "size": 13649,
+      "files": {
+        "csv": {
+          "name": "pl-udzialy-stacji-telewizyjnych-w-rynku-2007-2023_PL.csv",
+          "size": 2779
+        },
+        "xlsx": {
+          "name": "pl-udzialy-stacji-telewizyjnych-w-rynku-2007-2023_PL.xlsx",
+          "size": 8801
         }
       }
     },
